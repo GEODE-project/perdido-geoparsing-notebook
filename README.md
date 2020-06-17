@@ -1,2 +1,2 @@
 # perdido geoparsing notebook
-Jupyter notebooks for geoparsing French historical documents with the PERDIDO Geoparser
+Jupyter notebook for geoparsing French historical documents with the PERDIDO Geoparser
