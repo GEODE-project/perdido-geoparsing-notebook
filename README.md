@@ -22,4 +22,5 @@ You can open this notebook in an executable environment with [![Binder](https://
 
 Data courtesy the [ARTFL Encyclopédie Project](https://artfl-project.uchicago.edu/), University of Chicago.
 
-This work was supported by the [ASLAN project](https://aslan.universite-lyon.fr/) (ANR-10-LABX-0081) of Université de Lyon, within the program « Investissements d’Avenir » (ANR-11-IDEX-0007) operated by the French National Research Agency (ANR).
+This work was supported by the [MSH Lyon St-Etienne](https://www.msh-lse.fr/)
+and the [ASLAN project](https://aslan.universite-lyon.fr/) (ANR-10-LABX-0081) of Université de Lyon, within the program « Investissements d’Avenir » (ANR-11-IDEX-0007 and ANR‐16‐IDEX‐0005) operated by the French National Research Agency (ANR).
