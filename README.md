@@ -16,7 +16,7 @@ In this tutorial, we'll learn about a few different things.
 
 ## Open the notebook
 
-You can open this notebook in an executable environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/perdido-geoparsing-notebook/master?filepath=GeoparsingEncyclopedie.ipynb)
+You can open this notebook in an executable environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GEODE-project/perdido-geoparsing-notebook/master?filepath=GeoparsingEncyclopedie.ipynb)
 
 ## Acknowledgement
 
