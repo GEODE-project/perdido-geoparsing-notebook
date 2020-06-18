@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 4.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1754</date>
+            </creation>
+               <imprint>
+               <date>1754</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>4</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1754</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="19163" id="28:307" vol="4">
+<index type="head" value="DAUPHINE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Geog. mod." />
+<index type="normclass" value="Géographie moderne" />
+<index type="englishclass" value="Modern geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>DAUPHINE</head>
+<p>
+DAUPHINE, (<i>Géog. mod.</i>) province de France
+bornée à l&#39;occident par le Rhône, au septentrion
+par le Rhône &amp; la Savoie, au midi par la Provence,
+&amp; à l&#39;orient par les Alpes. Elle est arrosée par le
+Rhône, la Durance, l&#39;Isere, &amp; le Drame. Elle est
+fertile en blé, vm, olives, pastel, couperose, soie,
+crystal, fer, cuivre, sapins, <i>&amp;c.</i> Elle se divise en
+haut &amp; bas. Le haut comprend le Gresivaudan, le
+Briançonnois, l&#39;Embrunois, le Gapançois, le Royannez, &amp; les Baronies. Le bas contient le Valentinois,
+le Diois, &amp; le Tricassinois. Ç&#39;a été autrefois un pays
+d&#39;états. Grenoble en est la capitale. <i>Long. 20-29. lat.
+43-46.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>
