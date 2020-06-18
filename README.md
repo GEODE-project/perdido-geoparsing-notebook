@@ -1,7 +1,7 @@
 # Perdido Geoparsing Notebook
 Jupyter notebook for geoparsing French historical documents with the PERDIDO Geoparser. 
 
-This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) and [K. McDonough](http://kmcdono.com/) as part of the [GéoDISCO project](https://www.msh-lse.fr/projets/geodisco/).
+This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) and [K. McDonough](http://kmcdono.com/) as part of the [GéoDISCO](https://www.msh-lse.fr/projets/geodisco/) and GEODE projects.
 
 ## Overview
 
@@ -14,7 +14,13 @@ In this tutorial, we'll learn about a few different things.
 - Display custom geotagging results (PERDIDO TEI-XML) with the [displaCy Named Entity Visualizer](https://spacy.io/usage/visualizers)
 - Display geocoding results on a map
 
-
 ## Open the notebook
 
 You can open this notebook in an executable environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ludovicmoncla/perdido-geoparsing-notebook/master?filepath=GeoparsingEncyclopedie.ipynb)
+
+## Acknowledgement
+
+Data courtesy the [ARTFL Encyclopédie Project](https://artfl-project.uchicago.edu/), University of Chicago.
+
+The authors are grateful to the [ASLAN project](https://aslan.universite-lyon.fr/) (ANR-10-LABX-0081) of Université de Lyon, for its financial support within the program "Investissements d'Avenir" (ANR-11-IDEX-0007) of the French government operated by the National Research Agency (ANR).
+
