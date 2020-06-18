@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 11.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1765</date>
+            </creation>
+               <imprint>
+               <date>1765</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>11</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1765</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="46524" id="85:454:4" vol="11">
+<index type="head" value="Pacifique" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="adject" />
+<head>Pacifique</head>
+<p>
+<sc>Pacifique</sc>, adj. (<i>Géogr</i>.) les Géographes appellent 
+la mer du Sud mer pacifique, <i>mare pacificum</i>,
+parce qu&#39;elle est, dit-on, beaucoup moins sujette
+aux tempêtes que l&#39;Océan atlantique ou mer du Nord.
+Cependant quelques navigateurs assurent qu&#39;elle ne
+mérite point ce nom, &amp; qu&#39;ils y ont essuyé des tempêtes 
+aussi violentes que dans aucune autre mer.
+Mais Magellan ayant vogué sur cette vaste mer avec
+un vent favorable, &amp; y ayant fait un voyage fort
+tranquille lorsqu&#39;il la traversa pour la premiere fois
+en 1520, lui donna le nom de <i>mer pacifique</i>, qu&#39;elle
+a toujours conservé depuis.
+</p>
+<p>
+Les vents y sont ordinairement si réglés, que les
+vaisseaux peuvent aller de l&#39;Amérique aux îles Philippines en dix semaines de tems ou environ. <i>Voyez</i>
+<sc><ref target="head:Alisé" type="search">Alisé</ref></sc> <i>&amp;</i> <sc><ref target="head:Vent" type="search">Vent</ref></sc>. <i>Chambers</i>.
+</p>
+<p>
+La <i>mer Pacifique</i> en Géographie, s&#39;appelle <i>mer du
+Sud. Voyez</i> <sc><ref target="head:Mer du Sud" type="search">Mer du Sud</ref></sc>. L&#39;Océan <i>pacifique</i> ou grande 
+mer du Sud est située entre la côte occidentale
+d&#39;Asie &amp; d&#39;Amérique ; elle s&#39;étend jusqu&#39;à la Chine
+&amp; aux îles Philippines.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

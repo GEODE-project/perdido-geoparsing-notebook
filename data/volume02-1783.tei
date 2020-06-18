@@ -1,0 +1,182 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 2.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1752</date>
+            </creation>
+               <imprint>
+               <date>1752</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>2</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1752</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="7038" id="9:550" vol="2">
+<index type="head" value="BESANÇON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Geog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>BESANÇON</head>
+<p>
+* BESANÇON, (<i>Géog.</i>) ville de France, capitale 
+de la Franche-Comté; elle est divisée en haute
+&amp; basse ville. <i>Long. 23. 44. lat. 47. 18</i>.
+</p>
+<p>
+Il y a à cinq lieues de <i>Besançon</i> une grande caverne 
+creusée dans une montagne, couverte par le dessus 
+de chênes &amp; d&#39;autres grands arbres, dont on
+trouve trois récits dans les <i>Mémoires de l&#39;Académie ;</i>
+l&#39;un dans les <i>anciens Mémoires, tom. II.</i> le second
+dans le recueil de 1712, &amp; le troisieme dans celui de
+1726. Nous invitons les lecteurs crédules de les parcourir 
+tous les trois ; moins pour s&#39;instruire des particularités 
+de cette grotte qui ne sont pas bien merveilleuses,
+que pour apprendre à douter. Quoi de
+plus facile que de s&#39;instruire exactement de l&#39;état
+d&#39;une grotte? Y a-t-il quelque chose au monde sur
+quoi il soit moins permis de se tromper, &amp; d&#39;en imposer 
+aux autres? Cependant la premiere relation est
+fort chargée de circonstances ; on nous assûre, par
+exemple, qu&#39;on y accourt en été avec des charriots
+&amp; des mulets qui transportent des provisions de glace 
+pour toute la province ; que cependant la glaciere
+ne s&#39;épuise point, &amp; qu&#39;un jour de grandes chaleurs
+y reproduit plus de glaces qu&#39;on n&#39;en enleve en huit
+jours ; que cette prodigieuse quantité de glace est
+formée par un petit ruisseau qui coule dans une partie 
+de la grotte ; que ce ruisseau est glacé en été; qu&#39;il
+coule en hyver ; que quand il regne des vapeurs dans
+ce soûterrain, c&#39;est un signe infaillible qu&#39;il y aura
+de la pluie le lendemain ; &amp; que les paysans d&#39;alentour 
+ne manquent pas de consulter cette espece singuliere 
+d&#39;almanach, pour savoir quel tems ils auront
+dans les différens ouvrages qu&#39;ils entreprenent.
+</p>
+<p>
+Cette premiere rélation fut confirmée par une seconde ; 
+&amp; la grotte conserva tout son merveilleux,
+depuis 1699 jusqu&#39;en 1712, qu&#39;un professeur d&#39;Anatomie &amp; de Botanique à <i>Besançon</i> y descendit. Les
+singularités de la grotte commencerent à disparoître ;
+mais il lui en resta encore beaucoup : le nouvel observateur 
+loin de contester la plus importante, la
+formation de la glace, d&#39;autant plus grande en été,
+qu&#39;il fait plus chaud, en donne une explication, &amp;
+prétend que les terres du voisinage, &amp; sur-tout celles
+de la voute, sont pleines d&#39;un sel nitreux, ou d&#39;un
+sel ammoniac naturel ; &amp; que ce sel mis en mouvement 
+par la chaleur de l&#39;été, se mêlant plus facilement 
+avec les eaux qui coulent par les terres &amp; les
+fentes du rocher, pénetre jusque dans la grotte ; ce
+mêlange, dit M. de Fontenelle, les glace précisément 
+de la même maniere que se font nos glaces artificielles ; 
+&amp; la grotte est en grand, ce que nos vaisseaux 
+à faire de la glace sont en petit. Voilà, sans
+contredit, une explication très-simple &amp; très-naturelle ; c&#39;est dommage que le phénomene ne soit pas
+vrai.
+</p>
+<p>
+Un troisieme observateur descendit quatre fois
+dans la grotte, une fois dans chaque saison, y fit des
+observations, &amp; acheva de la dépouiller de ses merveilles.
+Ce ne fut plus en 1726, qu&#39;une cave comme
+beaucoup d&#39;autres ; plus il fait chaud au-dehors,
+moins il fait froid au-dedans : non-seulement les eaux
+du ruisseau ne se glacent point en été, &amp; ne se dégelent 
+point en hyver, mais il n&#39;y a pas même de ruisseau ; 
+les eaux de la grotte ne sont que de neige ou
+de pluie ; &amp; de toutes ses particularités, il ne lui
+reste que celle d&#39;avoir presque sûrement de la glace
+en toute saison.
+</p>
+<p>
+Qui ne croiroit sur les variétés de ces relations,
+que la grotte dont il s&#39;agit étoit à la Cochinchine,
+&amp; qu&#39;il a fallu un intervalle de trente à quarante ans,
+pour que des voyageurs s&#39;y succédassent les uns aux
+autres, &amp; nous détrompassent peu à peu de ses merveilles?
+cependant il n&#39;est rien de cela ; la grotte est
+<pb n="2:213" facs="V2/ENC_2-213.jpeg" />
+<milestone unit="column" n="1" />
+dans notre voisinage ; l&#39;accès en est facile en tout
+tems ; ce ne sont point des voyageurs qui y descendent ; 
+ce sont des philosophes, &amp; ils nous en rapportent 
+des faits faux, des préjugés, de mauvais raisonnemens,
+que d&#39;autres philosophes reçoivent, impriment,
+&amp; accréditent de leur témoignage.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

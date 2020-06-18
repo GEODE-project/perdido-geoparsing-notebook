@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 2.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1752</date>
+            </creation>
+               <imprint>
+               <date>1752</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>2</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1752</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="6905" id="9:435:1" vol="2">
+<index type="head" value="Benin" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Geog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Benin</head>
+<p>
+<sc>* Benin</sc>, (<i>Géog.</i>) capitale du royaume de même
+nom, en Afrique, sur le golfe de Guinée ou de Saint
+Thomas. Le roi de <i>Benin</i> est puissant, il peut mettre
+en peu de tems 100000 hommes sur pié; il ne se montre 
+en public qu&#39;une fois l&#39;an, alors on honore sa présence 
+en égorgeant quinze ou seize esclaves. Quand
+il meurt, la plûpart des princes de sa cour le suivent
+au tombeau : on tue un bon nombre de sujets pour
+leur faire compagnie, &amp; on enterre avec le monarque 
+ses habits &amp; ses meubles. Les <i>Beniniens</i> ont du
+courage &amp; de la générosité, cependant ils sont tous
+esclaves, &amp; portent une incision sur le corps, en
+signe de servitude. Les hommes n&#39;osent porter d&#39;habit,
+qu&#39;ils ne l&#39;ayent reçu du roi ; les filles ne se vêtissent 
+que quand elles sont mariées ; c&#39;est leur epoux
+qui leur donne le premier habit ; ainsi les rues sont
+pleines de personnes de l&#39;un &amp; de l&#39;autre sexe toutes
+nues. Le privilége du monarque d&#39;être accompagné
+sous la tombe par les principaux seigneurs de sa cour,
+s&#39;étend à ceux-ci : on immole sur leurs cadavres une
+partie de leurs esclaves. Les jours suivans on célebre
+des fêtes sur leur tombeau, &amp; l&#39;on danse au son du
+tambour. Ces peuples ne rendent aucun culte à Dieu ;
+ils prétendent que cet être étant parfaitement bon de
+sa nature, n&#39;a pas besoin de prieres ou de sacrifices:
+mais ils adressent les unes &amp; les autres au diable, par
+la raison contraire. Ils ont des idoles. <i>Benin</i> est près
+de la riviere Formosa. <i>Long. 26. lat. 7. 40</i>.
+</p>
+<p>
+Les Européens n&#39;y font pas grand commerce, cependant 
+on en pourroit tirer des étoffes de coton, du
+jaspe, des femmes, des peaux de léopard, &amp; du corail.
+Il faudroit leur porter des étoffes riches, des
+draps rouges, de l&#39;écarlate, des pendans d&#39;oreilles,
+des miroirs, des pots de terre, des fruits, du cuivre,
+&amp; du fer. Les Hollandois font ce commerce. Les autres 
+commerçans de l&#39;Europe y sont moins fréquens,
+parce qu&#39;ils n&#39;y sont point attirés par l&#39;or, les cuirs,
+les esclaves, <i>&amp;c.</i> &amp; autres marchandises prétieuses,
+pour lesquelles ils s&#39;exposeront plûtot à de grands
+dangers, que d&#39;avoir affaire aux tranquilles &amp; fideles
+habitans du <i>Benin</i>, qui n&#39;ont que des choses communes 
+à leur donner. Ils se sont fait une loi particuliere
+de ne point vendre d&#39;hommes : ils ont moins de scrupule 
+pour les femmes, soit qu&#39;ils en fassent moins de
+cas dans leur pays, soit qu&#39;ils connoissent assez bien
+les contrées éloignées, pour savoir que l&#39;esclavage
+n&#39;y est pas fort dur pour elles.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

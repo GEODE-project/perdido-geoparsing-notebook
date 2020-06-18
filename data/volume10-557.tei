@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 10.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1765</date>
+            </creation>
+               <imprint>
+               <date>1765</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>10</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1765</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="39660" id="73:4" vol="10">
+<index type="head" value="MARIANES, (les îles)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>MARIANES</head>
+<p>
+MARIANES, (<sc>les îles</sc>) <i>autrement</i> <sc>les îles</sc> DAS
+VELAS, <sc>les îles des</sc> LARRONS, (<i>Géogr.</i>) îles
+de l&#39;Océan oriental, à l&#39;extrémité occidentale de la
+mer du Sud. Elles occupent un espace d&#39;environ cent
+lieues, depuis Guan, qui est la plus grande &amp; la plus
+méridionale de ces îles, jusqu&#39;à Urac, qui est la plus
+proche du tropique. Magellan les découvrit en
+1521, &amp; Michel Lopez de Legaspi sit la cérémonie
+d&#39;en prendre possession en 1565, au nom de Philippe II roi d&#39;Espagne. Enfin en 1677 les Espagnols,
+à la sollicitation des Jésuites, subjuguerent réellement 
+ces îles, dont le P. de Gobien a fait l&#39;histoire
+à sa maniere. Elles étoient fort peuplées avant l&#39;arrivée 
+des Espagnols ; on dit que Quan, Rota, &amp; Tinian, qui sont les trois principales îles <i>Marianes</i>, contenoient 
+plus de cinquante mille habitans. Depuis ce
+tems-là Tinian est totalement dépeuplée, &amp; on n&#39;a
+laissé que deux ou trois cens Indiens à Rota pour
+cultiver le riz nécessaire à nourrir les habitans de
+Guan ; ensorte qu&#39;il n&#39;y a proprement que cette derniere 
+ile qu&#39;on puisse dire habitée, &amp; qui toute entiere, <gap type="hyphenpb" />
+<pb n="10:120" facs="V10/ENC_10-120.jpeg" />
+<milestone unit="column" n="1" />
+contient à peine quatre mille ames en trente
+lieues de circuit. On peut en croire le lord Anson,
+qui y étoit en 1746.
+</p>
+<p>
+Cependant les montagnes des <i>îles Mariannes</i>, chargées 
+d&#39;arbres presque toujours verds, &amp; entrecoupées 
+de ruisseaux qui tombent dans les plaines, rendent 
+ce pays agréable. Ses insulaires sont d&#39;une
+grande taille, d&#39;une épaisse &amp; forte corpulence,
+avec un teint basané, mais d&#39;un brun plus clair que
+celui des habitans des Philippines. Ils ont la plûpart
+des cheveux crépus, le nez &amp; les levres grosses. Les
+hommes sont tout nuds, &amp; les femmes presqu&#39;entierement.
+Ils sont idolâtres, superstitieux, sans temples,
+sans autels, &amp; vivent dans une indépendance
+absolue.
+</p>
+<p>
+On compte douze ou quatorze <i>îles Marianes</i> situées
+du 14 au 20 degré de <i>latit.</i> septent. Le P. Morales,
+jésuite, en a évalué la position seulement par estime ;
+mais <i>voyez</i> la carte de la partie septentrionale de l&#39;Océan pacifique, que l&#39;amiral Anson a jointe à son
+voyage.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

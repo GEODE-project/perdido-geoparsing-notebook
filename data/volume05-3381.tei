@@ -1,0 +1,933 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 5.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1755</date>
+            </creation>
+               <imprint>
+               <date>1755</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>5</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1755</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="24654" id="38:253" vol="5">
+<index type="head" value="ESCLAVAGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Droit nat. Religion, Morale." />
+<index type="normclass" value="Droit naturel | Morale | Religion" />
+<index type="englishclass" value="Natural law. Ethics | Religion" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="s.m." />
+<head>ESCLAVAGE</head>
+<p>
+ESCLAVAGE, s. m. (<i>Droit nat. Religion, Morale.</i>) L&#39;<i>esclavage</i> est l&#39;établissement d&#39;un droit fondé
+sur la force, lequel droit rend un homme tellement
+propre à un autre homme, qu&#39;il est le maître absolu
+de sa vie, de ses biens, &amp; de sa liberté.
+</p>
+<p>
+Cette définition convient presque également à l&#39;<i>esclavage</i> civil, &amp; à l&#39;<i>esclavage</i> politique : pour en
+crayonner l&#39;origine, la nature, &amp; le fondement,
+j&#39;emprunterai bien des choses de l&#39;auteur de l&#39;esprit
+des lois, sans m&#39;arrêter à loüer la solidité de ses
+principes, parce que je ne peux rien ajoûter à sa
+gloire.
+</p>
+<p>
+Tous les hommes naissent libres ; dans le commencement 
+ils n&#39;avoient qu&#39;un nom, qu&#39;une condition ; 
+du tems de Saturne &amp; de Rhée, il n&#39;y avoit
+ni maîtres ni esclaves, dit Plutarque : la nature les
+avoit fait tous égaux ; mais on ne conserva pas
+long-tems cette égalité naturelle, on s&#39;en écarta peu-à-peu, la servitude s&#39;introduisit par degrés, &amp; vraissemblablement 
+elle a d&#39;abord été fondée sur des conventions 
+libres, quoique la nécessité en ait été la
+source &amp; l&#39;origine.
+</p>
+<p>
+Lorsque par une suite nécessaire de la multiplication 
+du genre humain on eut commencé par se lasser
+de la simplicité des premiers siecles, on chercha de
+nouveaux moyens d&#39;augmenter les aisances de la vie,
+&amp; d&#39;acquérir des biens superflus ; il y a beaucoup
+d&#39;apparence que les gens riches engagerent les pauvres 
+à travailler pour eux, moyennant un certain
+salaire. Cette ressource ayant paru très-commode
+aux uns &amp; aux autres, plusieurs se résolurent à
+assurer leur état, &amp; à entrer pour toûjours sur le
+même pié dans la famille de quelqu&#39;un, à condition
+qu&#39;il leur fourniroit la nourriture &amp; toutes les autres
+choses nécessaires à la vie ; ainsi la servitude a d&#39;abord 
+été formée par un libre consentement, &amp; par
+un contrat de faire afin que l&#39;on nous donne : <i>do ut
+facias</i>. Cette société étoit conditionnelle, ou seulement 
+pour certaines choses, selon les lois de chaque 
+pays, &amp; les conventions des intéressés ; en un
+mot, de tels esclaves n&#39;étoient proprement que des
+serviteurs ou des mercenaires, assez semblables à
+nos domestiques.
+</p>
+<p>
+Mais on n&#39;en demeura pas là; on trouva tant d&#39;avantages 
+à faire faire par autrui ce que l&#39;on auroit été
+obligé de faire soi-même, qu&#39;à mesure qu&#39;on voulut <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+s&#39;aggrandir les armes à la main, on établit la
+coûtume d&#39;accorder aux prisonniers de guerre, la
+vie &amp; la liberté corporelle, à condition qu&#39;ils serviroient 
+toujours en qualité d&#39;esclaves ceux entre les
+mains desquels ils étoient tombés.
+</p>
+<p>
+Comme on conservoit quelque reste de ressentiment 
+d&#39;ennemi contre les malheureux que l&#39;on réduisoit 
+en <i>esclavage</i> par le droit des armes, on les
+traitoit, ordinairement avec beaucoup de rigueur ;
+la cruauté parut excusable envers des gens de la
+part de qui on avoit couru risque d&#39;éprouver le même
+lort ; de sorte qu&#39;on s&#39;imagina pouvoir impunément
+tuer de tels esclaves, par un mouvement de colere,
+ou pour la moindre faute.
+</p>
+<p>
+Cette licence ayant été une fois autorisée, on
+l&#39;étendit sous un prétexte encore moins plausible,
+à ceux qui étoient nés de tels esclaves, &amp; même
+à ceux que l&#39;on achetoit ou que l&#39;on acquéroit de
+quelque autre maniere que ce fût. Ainsi la servitude 
+vint à se naturaliser, pour ainsi dire, par le
+sort de la guerre : ceux que la fortune favorisa,
+&amp; qu&#39;elle laissa dans l&#39;état où la nature les avoit
+créés, furent appellés <i>libres ;</i> ceux au contraire que
+la foiblesse &amp; l&#39;infortune assujettirent aux vainqueurs,
+furent nommés <i>esclaves ;</i> &amp; les Philosophes juges du
+mérite des actions des hommes, regarderent eux-mêmes 
+comme une charité, la conduite de ce vainqueur,
+qui de son vaincu en faisoit son esclave, au
+lieu de lui arracher la vie.
+</p>
+<p>
+La loi du plus fort, le droit de la guerre injurieux
+à la nature, l&#39;ambition, la soif des conquêtes, l&#39;amour 
+de la domination &amp; de la mollesse, introduisirent 
+l&#39;<i>esclavage</i>, qui à la honte de l&#39;humanité, a été
+reçu par presque tous les peuples du monde. En effet,
+nous ne saurions jetter les yeux sur l&#39;Histoire
+sacrée, sans y découvrir les horreurs de la servitude : l&#39;Histoire prophane, celle des Grecs, des Romains, &amp; de tous les autres peuples qui passent pour
+les mieux policés, sont autant de monumens de cette
+ancienne injustice exercée avec plus ou moins de
+violence sur toute la face de la terre, suivant les
+tems, les lieux, &amp; les nations.
+</p>
+<p>
+Il y a deux sortes d&#39;<i>esclavage</i> ou de servitude, la
+réelle &amp; la personnelle : la servitude réelle est celle
+qui attache l&#39;esclave au fonds de la terre ; la servitude
+personnelle regarde le ministere de la maison, &amp; se
+rapporte plus à la personne du maître. L&#39;abus extrème 
+de l&#39;<i>esclavage</i> est lorsqu&#39;il se trouve en même tems
+personnel &amp; réel. Telle étoit chez les Juifs la servitude 
+des étrangers ; ils exerçoient à leur égard les traitemens 
+les plus rudes : envain Moyse leur crioit,
+<blockquote> 
+« vous n&#39;aurez point sur vos esclaves d&#39;empire rigoureux ; 
+vous ne les opprimerez point »,
+</blockquote>
+il ne
+put jamais venir à bout, par ses exhortations, d&#39;adoucir 
+la dureté de sa nation féroce : il tâcha donc
+par ses lois d&#39;y porter quelque remede.
+</p>
+<p>
+Il commença par fixer un terme à l&#39;<i>esclavage</i>, &amp;
+par ordonner qu&#39;il ne dureroit tout-au-plus que jusqu&#39;à l&#39;année du jubilé pour les étrangers, &amp; par rapport 
+aux Hébreux pendant l&#39;espace de six ans. <i>Lévit.
+ch. xxv. V. 39</i>.
+</p>
+<p>
+Une des principales raisons de son institution du
+sabbat, fut de procurer du relâche aux serviteurs
+&amp; aux esclaves. <i>Exode, ch. xx. &amp; xxiij. Deutéronome,
+ch. xvj.</i>
+</p>
+<p>
+Il établit encore que personne ne pourroit vendre
+sa liberté, à moins qu&#39;il ne fût réduit à n&#39;avoir plus
+absolument de quoi vivre. Il prescrivit que quand
+les esclaves se racheteroient, on leur tiendroit
+compte de leur service, de la même maniere que les
+revenus déja tirés d&#39;une terre vendue entroient en
+compensation dans le prix du rachat, lorsque l&#39;ancien 
+propriétaire la recouvroit. <i>Deutéron. ch. xv.
+Lévitiq. ch. xxv.</i>
+<pb n="5:935" facs="V5/ENC_5-935.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Si un maître avoit crevé un oeil ou cassé une dent
+à son esclave (&amp; à plus forte raison sans doute s&#39;il
+lui avoit fait un mal plus considérable), l&#39;esclave devoit 
+avoir sa liberté, en dédommagement de cette
+perte.
+</p>
+<p>
+Une autre loi de ce législateur porte, que si un
+maître frappe son esclave, &amp; que l&#39;esclave meure
+sous le bâton, le maître doit être puni comme coupable 
+d&#39;homicide : il est vrai que la loi ajoûte que si
+l&#39;esclave vit un jour ou deux, le maître est exempt
+de la peine. La raison de cette loi étoit peut-être
+que quand l&#39;esclave ne mouroit pas sur le champ,
+on présumoit que le maître n&#39;avoit pas eu dessein de
+le tuer ; &amp; pour lors on le croyoit assez puni d&#39;avoir 
+perdu ce que l&#39;esclave lui avoit coûté, ou le
+service qu&#39;il en auroit tiré: c&#39;est du moins ce que
+donnent à entendre les paroles qui suivent le texte,
+<i>car cet esclave est son argent</i>.
+</p>
+<p>
+Quoi qu&#39;il en soit, c&#39;étoit un peuple bien étrange,
+suivant la remarque de M. de Montesquieu, qu&#39;un
+peuple où il falloit que la loi civile se relâchât de la
+loi naturelle. Ce n&#39;est pas ainsi que S. Paul pensoit
+sur cette matiere, quand, prêchant la lumiere de l&#39;Evangile, il donna ce précepte de la nature &amp; de la
+réligion, qui devroit être profondément gravé dans
+le coeur de tous les hommes : <i>Maîtres</i> (Epît. aux Coloss. jv. 1.), <i>rendez a vos esclaves ce que le droit &amp; l&#39;équité 
+demandent de vous, sachant que vous avez un maître 
+dans le ciel ;</i> c&#39;est-à-dire un maître qui n&#39;a aucun
+égard à cette distinction de conditions, forgée par
+l&#39;orgueil &amp; l&#39;injustice.
+</p>
+<p>
+Les Lacédémoniens furent les premiers de la Grece
+qui introduisirent l&#39;usage des esclaves, ou qui commencerent 
+à réduire en servitude les Grecs qu&#39;ils
+avoient faits prisonniers de guerre : ils allerent encore 
+plus loin (&amp; j&#39;ai grand regret de ne pouvoir tirer 
+le rideau sur cette partie de leur histoire), ils
+traiterent les Ilotes avec la derniere barbarie. Ces
+peuples, habitans du territoire de Sparte, ayant été
+vaincus dans leur révolte par les Spartiates, furent
+condamnés à un <i>esclavage</i> perpétuel, avec la défense
+aux maîtres de les affranchir ni de les vendre hors
+du pays : ainsi les Ilotes se virent soûmis à tous les
+travaux hors de la maison, &amp; à toutes sortes d&#39;insultes 
+dans la maison ; l&#39;excès de leur malheur alloit
+au point qu&#39;ils n&#39;étoient pas seulement esclaves d&#39;un
+citoyen, mais encore du public. Plusieurs peuples
+n&#39;ont qu&#39;un <i>esclavage</i> réel, parce que leurs femmes
+&amp; leurs enfans font les travaux domestiques : d&#39;autres 
+ont un <i>esclavage</i> personnel, parce que le luxe demande 
+le service des esclaves dans la maison ; mais
+ici on joignoit dans les mêmes personnes l&#39;<i>esclavage</i>
+réel &amp; l&#39;<i>esclavage</i> personnel.
+</p>
+<p>
+Il n&#39;en étoit pas de même chez les autres peuples
+de la Grece ; l&#39;<i>esclavage</i> y étoit extrèmement adouci,
+&amp; même les esclaves trop rudement traités par leurs
+maîtres pouvoient demander d&#39;être vendus à un autre.
+C&#39;est ce que nous apprend Plutarque, <i>de superstitione,
+p. 66. t. I. édit. de Wechel</i>.
+</p>
+<p>
+Les Athéniens en particulier, au rapport de Xénophon, en agissoient avec leurs esclaves avec beaucoup 
+de douceur : ils punissoient séverement, quelquefois 
+même de mort, celui qui avoit battu l&#39;esclave 
+d&#39;un autre. La loi d&#39;Athenes, avec raison, ne
+vouloit pas ajoûter la perte de la sûreté à celle de la
+liberté; aussi ne voit-on point que les esclaves ayent
+troublé cette république, comme ils ébranlerent Lacédémone.
+</p>
+<p>
+Il est aisé de comprendre que l&#39;humanité exercée
+envers les esclaves peut seule prévenir, dans un gouvernement 
+modéré, les dangers que l&#39;on pourroit
+craindre de leur trop grand nombre. Les hommes
+s&#39;accoûtument à la servitude, pourvû que leur maître 
+ne soit pas plus dur que la servitude : rien n&#39;est
+<milestone unit="column" n="2" />
+plus propre à confirmer cette vérité, que l&#39;état des
+esclaves chez les Romains dans les beaux jours de
+la république ; &amp; la considération de cet état mérite
+d&#39;attacher nos regards pendant quelques momens.
+</p>
+<p>
+Les premiers. Romains traitoient leurs esclaves
+avec plus de bonté que ne l&#39;a jamais fait aucun autre 
+peuple : les maîtres les regardoient comme leurs
+compagnons ; ils vivoient, travailloient, &amp; mangeoient 
+avec eux. Le plus grand châtiment qu&#39;ils infligeoient 
+à un esclave qui avoit commis quelque
+faute, étoit de lui attacher une fourche sur le dos
+ou sur la poitrine, de lui étendre les bras aux deux
+bouts de la fourche, &amp; de le promener ainsi dans
+les places publiques ; c&#39;étoit une peine ignominieuse,
+&amp; rien de plus : les moeurs suffisoient pour maintenir 
+la fidélité des esclaves.
+</p>
+<p>
+Bien-loin d&#39;empêcher par des lois forcées la multiplication 
+de ces organes vivans &amp; animés de l&#39;économique,
+ils la favorisoient au contraire de tout
+leur pouvoir, &amp; les associoient par une espece de
+mariage, <i>contuberniis</i>. De cette maniere ils remplissoient 
+leurs maisons de domestiques de l&#39;un &amp; de
+l&#39;autre sexe, &amp; peuploient l&#39;état d&#39;un peuple innombrable : les enfans des esclaves qui faisoient à la
+longue la richesse d&#39;un maître, naissoient en confiance 
+autour de lui ; il étoit seul chargé de leur entretien 
+&amp; de leur éducation. Les peres, libres de ce
+fardeau, suivoient le penchant de la nature, &amp; multiplioient 
+sans crainte une nombreuse famille ; ils
+voyoient sans jalousie une heureuse société, dont ils
+se regardoient comme membres ; ils sentoient que
+leur ame pouvoit s&#39;élever comme celle de leur maitre,
+&amp; ne sentoient point la différence qu&#39;il y avoit
+de la condition d&#39;esclave à celle d&#39;un homme libre:
+souvent même des maîtres généreux faisoient apprendre 
+à ceux de leurs esclaves qui montroient des
+talens, les exercices, la musique, &amp; les lettres greques ; 
+Térence &amp; Phedre sont d&#39;assez bons exemples
+de ce genre d&#39;éducation.
+</p>
+<p>
+La république se servoit avec un avantage infini
+de ce peuple d&#39;esclaves, ou plûtôt de sujets : chacun
+d&#39;eux avoit son <i>pécule</i>, c&#39;est-à-dire son petit thrésor,
+sa petite bourse, qu&#39;il possédoit aux conditions
+que son maître lui imposoit. Avec ce pécule il travailloit 
+du côté où le portoit son génie ; celui-ci faisoit 
+la banque, celui-là se donnoit au commerce de
+la mer ; l&#39;un vendoit des marchandises en détail,
+l&#39;autre s&#39;appliquoit à quelque art méchanique, affermoit 
+ou faisoit valoir des terres : mais il n&#39;y en
+avoit aucun qui ne s&#39;attachât a faire profiter ce pécule,
+qui lui procuroit en même tems l&#39;aisance dans
+la servitude présente, &amp; l&#39;espérance d&#39;une liberté
+future. Tous ces moyens répandoient l&#39;abondance,
+animoient les arts &amp; l&#39;industrie.
+</p>
+<p>
+Ces esclaves, une fois enrichis, se faisoient affranchir 
+&amp; devenoient citoyens ; la république se réparoit 
+sans cesse, &amp; recevoit dans son sein de nouvelles 
+familles à mesure que les anciennes se détruisoient.
+Tels furent les beaux jours de l&#39;<i>esclavage</i>,
+tant que les Romains conserverent leurs moeurs &amp;
+leur probité.
+</p>
+<p>
+Mais lorsqu&#39;ils se furent aggrandis parleurs conquêtes 
+&amp; par leurs rapines, que leurs esclaves ne furent
+plus les compagnons de leurs travaux, &amp; qu&#39;ils les
+employerent à devenir les instrumens de leur luxe
+&amp; de leur orgueil, la condition des esclaves changea 
+totalement de face ; on vint à les regarder comme 
+la partie la plus vile de la nation, &amp; en conséquence 
+on ne fit aucun scrupule de les traiter inhumainement.
+Par la raison qu&#39;il n&#39;y avoit plus de
+moeurs, on recourut aux lois ; il en fallut même de
+terribles pour établir la sûreté de ces maîtres cruels,
+qui vivoient au milieu de leurs esclaves comme au
+milieu de leurs ennemis.
+<pb n="5:936" facs="V5/ENC_5-936.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On fit sous Auguste, c&#39;est-à-dire au commencement 
+de la tyrannie, le senatus-consulte Syllanien,
+&amp; plusieurs autres lois qui ordonnerent que lorsqu&#39;un
+maître seroit tué, tous les esclaves qui étoient sous
+le même toît, ou dans un lieu assez près de la maison 
+pour qu&#39;on pût entendre la voix d&#39;un homme,
+seroient condamnés à la mort : ceux qui dans ce cas
+réfugioient un esclave pour le sauver, étoient punis 
+comme meurtriers. Celui-là même à qui son maître 
+auroit ordonné de le tuer, &amp; qui lui auroit obéi,
+auroit été coupable : celui qui ne l&#39;auroit point empêché 
+de se tuer lui-même auroit été puni. Si un
+maître avoit été tué dans un voyage, on faisoit mourir 
+ceux qui étoient restés avec lui &amp; ceux qui s&#39;étoient 
+enfuis : ajoûtons que ce maître, pendant sa
+vie, pouvoit tuer impunément ses esclaves &amp; les
+mettre à la torture. Il est vrai que dans la suite il y
+eut des empereurs qui diminuerent cette autorité:
+Claude ordonna que les esclaves qui étant malades
+auroient été abandonnés par leurs maîtres, seroient
+libres s&#39;ils revenoient en santé. Cette loi assûroit
+leur liberté dans un cas rare ; il auroit encore fallu
+assûrer leur vie, comme le dit très-bien M. de Montesquieu.
+</p>
+<p>
+De plus toutes ces lois cruelles, dont nous venons
+de parler, avoient même lieu contre les esclaves
+dont l&#39;innocence étoit prouvée ; elles n&#39;étoient pas
+dépendantes du gouvernement civil, elles dépendoient 
+d&#39;un vice du gouvernement civil ; elles ne
+dérivoient point de l&#39;équité des lois civiles, puisqu&#39;elles étoient contraires au principe des lois civiles : elles étoient proprement fondées sur le principe
+de la guerre, à cela près que c&#39;étoit dans le sein de
+l&#39;état qu&#39;étoient les ennemis. Le senatus-consulte
+Syllanien dérivoit, dira-t on, du droit des gens, qui
+veut qu&#39;une société, même imparfaite, se conserve:
+mais un législateur éclairé prévient l&#39;affreux malheur
+de devenir un législateur terrible. Enfin la barbarie
+sur les esclaves fut poussée si loin, qu&#39;elle produisit
+la guerre servile que Florus compare aux guerres
+puniques, &amp; qui par sa violence ébranla l&#39;empire
+romain jusque dans ses fondemens.
+</p>
+<p>
+J&#39;aime à songer qu&#39;il est encore sur la terre d&#39;heureux 
+climats, dont les habitans sont doux, tendres
+&amp; compatissans : tels sont les Indiens de la presqu&#39;île,
+en-deçà du Gange ; ils traitent leurs esclaves comme
+ils se traitent eux-mêmes ; ils ont soin de leurs enfans ; 
+ils les marient, &amp; leur accordent aisément la
+liberté. En général les esclaves des peuples simples,
+laborieux, &amp; chez qui regne la candeur des moeurs,
+sont plus heureux que par-tout ailleurs ; ils ne souffrent 
+que l&#39;<i>esclavage</i> réel, moins dur pour eux, &amp;
+plus utile pour leurs maîtres : tels étoient les esclaves 
+des anciens Germains. Ces peuples, dit Tacite,
+ne les tiennent pas comme nous dans leurs maisons
+pour les y faire travailler chacun à une certaine tâche,
+au contraire ils assignent à chaque esclave son
+manoir particulier, dans lequel il vit en pere de famille ; 
+toute la servitude que le maître lui impose,
+c&#39;est de l&#39;obliger à payer une redevance en grains,
+en bétail, en peaux, ou en étoffes : de cette maniere,
+ajoûte l&#39;historien, vous ne pourriez distinguer le maître 
+d&#39;avec l&#39;esclave par les delices de la vie.
+</p>
+<p>
+Quand ils eurent conquis les Gaules, sous le nom
+de <i>Francs</i>, ils envoyerent leurs esclaves cultiver les
+terres qui leur échûrent par le sort : on les appelloit
+<i>gens de poëte</i>, en latin <i>gentes potestatis</i>, attachés à la
+glebe, <i>addicti gleboe</i> ; &amp; c&#39;est de ces serfs que la France fut depuis peuplée. Leur multiplication fit presque 
+autant de villages des fermes qu&#39;ils cultivoient,
+&amp; ces terres retinrent le nom de <i>villoe</i>, que les Romains leur avoient donné; d&#39;où sont venus les noms
+de <i>village</i> &amp; de <i>villains</i>, en latin <i>villa</i> &amp; <i>villani:</i>
+pour dire des <i>gens de la campagne &amp; d&#39;une basse extraction</i>, 
+<milestone unit="column" n="2" />
+ainsi l&#39;on vit en France deux especes d&#39;esclaves,
+ceux des Francs &amp; ceux des Gaulois, &amp; tous alloient 
+à la guerre, quoi qu&#39;en ait pû dire M. de Boulainvilliers.
+</p>
+<p>
+Ces esclaves appartenoient à leurs patrons, dont
+ils étoient réputés <i>hommes de corps</i>, comme on parloit 
+alors : ils devinrent avec le tems sujets à de rudes 
+corvées, &amp; tellement attachés à la terre de leurs
+maîtres, qu&#39;ils sembloient en faire partie ; ensorte
+qu&#39;ils ne pouvoient s&#39;établir ailleurs, ni même se
+marier dans la terre d&#39;un autre seigneur sans payer
+ce qu&#39;on appelloit le droit de <i>fors-mariage</i> ou de <i>mé-mariage</i> ; &amp; même les enfans qui provenoient de
+l&#39;union de deux esclaves qui appartenoient à différens 
+maîtres, se partageoient, ou bien l&#39;un des patrons,
+pour éviter ce partage, donnoit un autre esclave 
+en échange.
+</p>
+<p>
+Un gouvernement militaire, où l&#39;autorité se trouvoit 
+partagée entre plusieurs seigneurs, devoit dégénérer 
+en tyrannie ; c&#39;est aussi ce qui ne manqua
+pas d&#39;arriver : les patrons ecclésiastiques &amp; laïques
+abuserent par-tout de leur pouvoir sur leurs esclaves ; 
+ils les accablerent de tant de travaux, de redevances,
+de corvées, &amp; de tant d&#39;autres mauvais
+traitemens, que les malheureux serfs, ne pouvant
+plus supporter la dureté du joug, firent en 1108 cette
+fameuse révolte décrite par les historiens, &amp; qui
+aboutit finalement à procurer leur affranchissement ;
+car nos rois avoient jusqu&#39;alors tâché, sans aucun
+succès, d&#39;adoucir par leurs ordonnances l&#39;état de
+l&#39;<i>esclavage</i>.
+</p>
+<p>
+Cependant le Christianisme commençant à s&#39;accréditer,
+l&#39;on embrassa des sentimens plus humains ;
+d&#39;ailleurs nos souverains, déterminés à abaisser les
+seigneurs &amp; à tirer le bas-peuple du joug de leur
+puissance, prirent le parti d&#39;affranchir les esclaves.
+Louis le Gros montra le premier l&#39;exemple ; &amp; en
+affranchissant les serfs en 1135, il réussit en partie à
+reprendre sur ses vassaux l&#39;autorité dont ils s&#39;étoient
+emparés : Louis VIII. signala le commencement de
+son regne par un semblable affranchissement en 1223 ;
+enfin Louis X. dit <i>Hutin</i>, donna sur ce sujet un édit
+qui nous paroît digne d&#39;être ici rapporté.
+<blockquote> 
+« Louis,
+par la grace de Dieu, roi de France &amp; de Navarre : à nos amés &amp; féaux.... comme selon le
+droit de nature chacun doit naître franc.... nous,
+considérant que notre royaume est dit &amp; nommé
+<i>le royaume des Francs</i>, &amp; voulant que la chose en
+vérité soit accordante au nom.... par délibération 
+de notre grand conseil, avons ordonné &amp; ordonnons 
+que généralement par tout notre royaume.
+...franchise soit donnée à bonnes &amp; valables
+conditions.... &amp; pour ce que tous les seigneurs qui
+ont hommes de corps prennent exemple à nous de
+ramener à franchise, <i>&amp;c.</i> Donné à Paris le tiers
+Juillet, l&#39;an de grace 1315».
+</blockquote>
+</p>
+<p>
+Ce ne fut toutefois que vers le xv. siecle que l&#39;<i>esclavage</i> fut aboli dans la plus grande partie de l&#39;Europe : cependant il n&#39;en subsiste encore que trop de
+restes en Pologne, en Hongrie, en Bohème, &amp;
+dans plusieurs endroits de la basse-Allemagne ; <i>voyez
+les ouvrages de</i> MM. Thomasius &amp; Hertins : il y en
+a même quelques étincelles dans nos coûtumes ;
+<i>voyez</i> Coquille. Quoi qu&#39;il en soit, presque dans
+l&#39;espace du siecle qui suivit l&#39;abolition de l&#39;<i>esclavage</i>
+en Europe, les puissances chrétiennes ayant fait des
+conquêtes dans ces pays où elles ont cru qu&#39;il leur
+étoit avantageux d&#39;avoir des esclaves, ont permis
+d&#39;en acheter &amp; d&#39;en vendre, &amp; ont oublié les principes 
+de la Nature &amp; du Christianisme, qui rendent
+tous les hommes égaux.
+</p>
+<p>
+Après avoir parcouru l&#39;histoire de l&#39;<i>esclavage</i>, depuis 
+son origine jusqu&#39;à nos jours, nous allons prouver 
+qu&#39;il blesse la liberté de l&#39;homme, qu&#39;il est contraire <gap type="hyphenpb" />
+<pb n="5:937" facs="V5/ENC_5-937.jpeg" />
+<milestone unit="column" n="1" />
+au droit naturel &amp; civil, qu&#39;il choque les formes 
+des meilleurs gouvernemens, &amp; qu&#39;enfin il est
+inutile par lui-même.
+</p>
+<p>
+La liberté de l&#39;homme est un principe qui a été
+reçu long-tems avant la naissance de J. C. par toutes
+les nations qui ont fait profession de générosité. La
+liberté <i>naturelle</i> de l&#39;homme, c&#39;est de ne connoître
+aucun pouvoir souverain sur la terre, &amp; de n&#39;être
+point assujettie à l&#39;autorité législative de qui que ce
+soit, mais de suivre seulement les lois de la Nature:
+la liberté <i>dans la société</i> est d&#39;être soûmis à un pouvoir 
+législatif établi par le consentement de la communauté,
+&amp; non pas d&#39;être sujet à la fantaisie, à la
+volonté inconstante, incertaine &amp; arbitraire d&#39;un
+seul homme en particulier.
+</p>
+<p>
+Cette liberté, par laquelle l&#39;on n&#39;est point assujetti 
+à un pouvoir absolu, est unie si étroitement avec
+la conservation de l&#39;homme, qu&#39;elle n&#39;en peut être
+séparée que par ce qui détruit en même tems sa
+conservation &amp; sa vie. Quiconque tâche donc d&#39;usurper 
+un pouvoir absolu sur quelqu&#39;un, se met par-là 
+en état de guerre avec lui, de sorte que celui-ci
+ne peut regarder le procédé de l&#39;autre, que comme
+un attentat manifeste contre sa vie. En effet, du moment 
+qu&#39;un homme veut me soûmettre malgré moi
+à son empire, j&#39;ai lieu de présumer que si je tombe
+entre ses mains, il me traitera selon son caprice,
+ne fera pas scrupule de me tuer, quand la fantaisie
+lui en prendra. La liberté est, pour ainsi dire, le rempart 
+de ma conservation, &amp; le fondement de toutes
+les autres choses qui m&#39;appartiennent. Ainsi, celui
+qui dans l&#39;état de la nature, veut me rendre esclave,
+m&#39;autorise à le repousser par toutes sortes de voies,
+pour mettre ma personne &amp; mes biens en sûreté.
+</p>
+<p>
+Tous les hommes ayant naturellement une égale
+liberté, on ne peut les dépouiller de cette liberté,
+sans qu&#39;ils y ayent donné lieu par quelques actions
+criminelles. Certainement, si un homme, dans l&#39;état 
+de nature, a mérité la mort de quelqu&#39;un qu&#39;il a
+offensé, &amp; qui est devenu en ce cas maître de sa
+vie, celui-ci peut, lorsqu&#39;il a le coupable entre ses
+mains, traiter avec lui, &amp; l&#39;employer à son service,
+en cela il ne lui fait aucun tort ; car au fond,
+quand le criminel trouve que son <i>esclavage</i> est plus
+pesant &amp; plus fâcheux que n&#39;est la perte de son existence,
+il est en sa disposition de s&#39;attirer la mort
+qu&#39;il desire, en résistant &amp; desobéissant à son maitre.
+</p>
+<p>
+Ce qui fait que la mort d&#39;un criminel, dans la société 
+civile, est une chose licite, c&#39;est que la loi qui
+le punit, a été faite en sa faveur. Un meurtrier, par
+exemple, a joüi de la loi qui le condamne ; elle lui
+a conservé la vie à tous les instans ; il ne peut donc
+pas reclamer contre cette loi. Il n&#39;en seroit pas de
+même de la loi de l&#39;<i>esclavage ;</i> la loi qui établiroit l&#39;<i>esclavage</i> seroit dans tous les cas contre l&#39;esclave,
+sans jamais être pour lui ; ce qui est contraire au principe 
+fondamental de toutes les sociétés.
+</p>
+<p>
+Le droit de propriété sur les hommes ou sur les
+choses, sont deux droits bien différens. Quoique tout
+seigneur dise de celui qui est soûmis à sa domination,
+<i>cette personne-là est à moi ;</i> la propriété qu&#39;il a sur un
+tel homme n&#39;est point la même que celle qu&#39;il peut
+s&#39;attribuer, lorsqu&#39;il dit, <i>cette chose-là est à moi</i>. La
+propriété d&#39;une chose emporte un plein droit de
+s&#39;en servir, de la consumer, &amp; de la détruire, soit
+qu&#39;on y trouve son profit, ou par pur caprice ; en
+sorte que de quelque maniere qu&#39;on en dispose, on
+ne lui fait aucun tort ; mais la même expression appliquée 
+à une personne, signifie seulement que le seigneur 
+a droit, exclusivement à tout autre, de la gouverner 
+&amp; de lui prescrire des lois, tandis qu&#39;en même 
+tems il est soûmis lui-même à plusieurs obligations <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+par rapport à cette même personne, &amp; que
+d&#39;ailleurs son pouvoir sur elle est très-limité.
+</p>
+<p>
+Quelque grandes injures qu&#39;on ait reçû d&#39;un homme,
+l&#39;humanité ne permet pas, lorsqu&#39;on s&#39;est une
+fois réconcilié avec lui, de le réduire à une condition 
+où il ne reste aucune trace de l&#39;égalité naturelle
+de tous les hommes, &amp; par conséquent de le traiter
+comme une bête, dont on est le maître de disposer à
+sa fantaisie. Les peuples qui ont traité les esclaves
+comme un bien dont ils pouvoient disposer à leur
+gré, n&#39;ont été que des barbares.
+</p>
+<p>
+Non-seulement on ne peut avoir de droit de propriété 
+proprement dit sur les personnes ; mais de
+plus il répugne à la raison, qu&#39;un homme qui n&#39;a
+point de pouvoir sur sa vie, puisse donner à un autre,
+ni de son propre consentement, ni par aucune
+convention, le droit qu&#39;il n&#39;a pas lui-même. Il n&#39;est
+donc pas vrai qu&#39;un homme libre puisse se vendre.
+La vente suppose un prix ; l&#39;esclave se vendant, tous
+ses biens entrent dans la propriété du maître. Ainsi
+le maître ne donneroit rien, &amp; l&#39;esclave ne recevroit
+rien. Il auroit un pécule, dira-t-on, mais le pécule
+est accessoire à la personne. La liberté de chaque citoyen 
+est une partie de la liberté publique : cette
+qualité, dans l&#39;état populaire, est même une partie
+de la souveraineté. Si la liberté a un prix pour celui
+qui l&#39;achete, elle est sans prix pour celui qui la
+vend.
+</p>
+<p>
+La loi civile, qui a permis aux hommes le partage 
+des biens, n&#39;a pû mettre au nombre des biens une
+partie des hommes qui doivent faire ce partage. La
+loi civile qui restitue sur les contrats qui contiennent
+quelque lésion, ne peut s&#39;empêcher de restituer contre 
+un accord, qui contient la lésion la plus énorme
+de toutes. L&#39;<i>esclavage</i> n&#39;est donc pas moins opposé au
+droit civil qu&#39;au droit naturel. Quelle loi civile
+pourroit empêcher un esclave de se sauver de la servitude,
+lui qui n&#39;est point dans la société, &amp; que par
+conséquent aucune loi civile ne concerne? Il ne
+peut être retenu que par une loi de famille, par la
+loi du maître, c&#39;est-à-dire par la loi du plus fort.
+</p>
+<p>
+Si l&#39;<i>esclavage</i> choque le droit naturel &amp; le droit civil,
+il blesse aussi les meilleures formes de gouvernement : il est contraire au gouvernement monarchique,
+où il est souverainement important de ne
+point abattre &amp; de ne point avilir la nature humaine.
+Dans la démocratie, où tout le monde est égal,
+&amp; dans l&#39;aristocratie, où les lois doivent faire leurs
+efforts pour que tout le monde soit aussi égal que la
+nature du gouvernement peut le permettre, des esclaves 
+sont contre l&#39;esprit de la constitution ; ils ne
+serviroient qu&#39;à donner aux citoyens une puissance
+&amp; un luxe qu&#39;ils ne doivent point avoir.
+</p>
+<p>
+De plus, dans tout gouvernement &amp; dans tout
+pays, quelque pénibles que soient les travaux que
+la société y exige, on peut tout faire avec des hommes 
+libres, en les encourageant par des récompenses 
+&amp; des priviléges, en proportionnant les travaux
+à leurs forces, ou en y suppléant par des machines
+que l&#39;art invente &amp; applique suivant les lieux &amp; le
+besoin. <i>Voyez</i>-en les preuves dans M. de Montesquieu.
+</p>
+<p>
+Enfin nous pouvons ajoûter encore avec cet illustre 
+auteur, que l&#39;<i>esclavage</i> n&#39;est utile ni au maître,
+ni à l&#39;esclave : à l&#39;esclave, parce qu&#39;il ne peut rien
+faire par vertu ; au maître, parce qu&#39;il contracte avec
+ses esclaves toutes sortes de vices &amp; de mauvaises
+habitudes, contraires aux lois de la société; qu&#39;il
+s&#39;accoûtume insensiblement à manquer à toutes les
+vertus morales ; qu&#39;il devient fier, prompt, colere,
+dur, voluptueux, barbare.
+</p>
+<p>
+Ainsi tout concourt à laisser à l&#39;homme la dignité
+qui lui est naturelle. Tout nous crie qu&#39;on ne peut
+lui ôter cette dignité naturelle, qui est la liberté, la
+<pb n="5:938" facs="V5/ENC_5-938.jpeg" />
+<milestone unit="column" n="1" />
+regle du juste n&#39;est pas fondée sur la puissance, mais
+sur ce qui est conforme à la nature ; l&#39;<i>esclavage</i> n&#39;est
+pas seulement un état humiliant pour celui qui le subit,
+mais pour l&#39;humanité même qui est dégradée.
+</p>
+<p>
+Les principes qu&#39;on vient de poser étant invincibles,
+il ne sera pas difficile de démontrer que l&#39;<i>esclavage</i> ne peut jamais être coloré par aucun motif raisonnable,
+ni par le droit de la guerre, comme le pensoient 
+les jurisconsultes romains, ni par le droit
+d&#39;acquisition, ni par celui de la naissance, comme
+quelques modernes ont voulu nous le persuader ; en
+un mot, rien au monde ne peut rendre l&#39;<i>esclavage</i> légitime.
+</p>
+<p>
+Le droit de la guerre, a-t-on dit dans les siecles
+passés, autorise celui de l&#39;<i>esclavage ;</i> il a voulu que
+les prisonniers fussent esclaves, pour qu&#39;on ne les
+tuât pas ; mais aujourd&#39;hui on est desabusé de cette
+bonté, qui consistoit à faire de son vaincu son esclave,
+plutôt que de le massacrer. On a compris que cette 
+prétendue charité n&#39;est que celle d&#39;un brigand,
+qui se glorifie d&#39;avoir donné la vie à ceux qu&#39;il n&#39;a
+pas tués. Il n&#39;y a plus dans le monde que les Tartares
+qui passent au fil de l&#39;épée leurs prisonniers de guerre,
+&amp; qui croyent leur faire une grace, lorsqu&#39;ils les
+vendent ou les distribuent à leurs soldats : chez tous
+les autres peuples, qui n&#39;ont pas dépouillé tout sentiment 
+généreux, il n&#39;est permis de tuer à la guerre,
+que dans le cas de nécessité; mais dès qu&#39;un homme
+en a fait un autre prisonnier, on ne peut pas dire
+qu&#39;il ait été dans la nécessité de le tuer, puisqu&#39;il ne
+l&#39;a pas tué. Tout le droit que la guerre peut donner
+sur les captifs, est de s&#39;assûrer tellement de leurs personnes,
+qu&#39;ils soient hors d&#39;état de nuire.
+</p>
+<p>
+L&#39;acquisition des esclaves, par le moyen de l&#39;argent,
+peut encore moins établir le droit d&#39;<i>esclavage</i>, parce
+que l&#39;argent, ou tout ce qu&#39;il représente, ne peut
+donner le droit de dépouiller quelqu&#39;un de sa liberté.
+D&#39;ailleurs le trafic des esclaves, pour en tirer un
+vil gain comme des bêtes brutes, répugne à notre
+religion : elle est venue pour effacer toutes les traces
+de la tyrannie.
+</p>
+<p>
+L&#39;<i>esclavage</i> n&#39;est certainement pas mieux fondé sur
+la naissance ; ce prétendu droit tombe avec les deux
+autres ; car si un homme n&#39;a pû être acheté, ni se
+vendre, encore moins a-t-il pû vendre son enfant
+qui n&#39;étoit pas né. Si un prisonnier de guerre n&#39;a pû
+être réduit en servitude, encore moins ses enfans.
+En vain objecteroit-on que si les enfans sont conçus
+&amp; mis au monde par une mere esclave, le maître ne
+leur fait aucun tort de se les approprier, &amp; de les
+réduire à la même condition ; parce que la mere
+n&#39;ayant rien en propre, ses enfans ne peuvent être
+nourris que des biens du maître, qui leur fournit les
+alimens &amp; les autres choses nécessaires à la vie,
+avant qu&#39;ils soient en état de le servir : ce ne sont là
+que des idées frivoles.
+</p>
+<p>
+S&#39;il est absurde qu&#39;un homme ait sur un autre homme 
+un droit de propriété, à plus forte raison ne peut-il 
+l&#39;avoir sur ses enfans. De plus, la nature qui a
+donné du lait aux meres, a pourvû suffisamment à
+leur nourriture, &amp; le reste de leur enfance est si près
+de l&#39;âge où est en eux la plus grande capacité de se
+rendre utiles, qu&#39;on ne pourroit pas dire que celui
+qui les nourriroit, pour être leur maître, donnât
+rien ; s&#39;il a fourni quelque chose pour l&#39;entretien de
+l&#39;enfant, l&#39;objet est si modique, que tout homme,
+quelque médiocre que soient les facultés de son ame
+&amp; de son corps, peut dans un petit nombre d&#39;années
+gagner de quoi acquitter cette dette. Si l&#39;<i>esclavage</i>
+étoit fondé sur la nourriture, il faudroit le réduire
+aux personnes incapables de gagner leur vie ; mais
+on ne veut pas de ces esclaves-là.
+</p>
+<p>
+Il ne sauroit y avoir de justice dans la convention
+expresse ou tacite, par laquelle la mere esclave assujettiroit <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les enfans qu&#39;elle mettroit au monde à la même 
+condition dans laquelle elle est tombée, parce
+qu&#39;elle ne peut stipuler pour ses enfans.
+</p>
+<p>
+On a dit, pour colorer ce prétexte de l&#39;<i>esclavage</i>
+des enfans, qu&#39;ils ne seroient point au monde, si le
+maître avoit voulu user du droit que lui donne la
+guerre, de faire mourir leur mere ; mais on a supposé 
+ce qui est faux, que tous ceux qui sont pris dans
+une guerre (fût-elle là plus juste du monde), surtout 
+les femmes dont il s&#39;agit, puissent être légitimement 
+tuées. <i>Esprit des lois, liv. XV.</i>
+</p>
+<p>
+C&#39;étoit une prétention orgueilleuse que celle des
+anciens Grecs, qui s&#39;imaginoient que les barbares
+étant esclaves par nature (c&#39;est ainsi qu&#39;ils parloient), &amp; les Grecs libres, il étoit juste que les
+premiers obéissent aux derniers. Sur ce pié-là, il seroit 
+facile de traiter de barbares tous les peuples,
+dont les moeurs &amp; les coûtumes seroient différentes
+des nôtres, &amp; (sans autre prétexte) de les attaquer
+pour les mettre sous nos lois. Il n&#39;y a que les préjugés 
+de l&#39;orgueil &amp; de l&#39;ignorance qui fassent renoncer 
+à l&#39;humanité.
+</p>
+<p>
+C&#39;est donc aller directement contre le droit des
+gens &amp; contre la nature, que de croire que la religion 
+chrétienne donne à ceux qui la professent, un
+droit de réduire en servitude ceux qui ne la professent
+pas, pour travailler plus aisement à sa propagation.
+Ce fut pourtant cette maniere de penser qui encouragea 
+les destructeurs de l&#39;Amérique dans leurs crimes ; 
+&amp; ce n&#39;est pas la seule fois que l&#39;on se soit servi
+de la religion contre ses propres maximes, qui nous
+apprennent que la qualite de prochain s&#39;étend sur
+tout l&#39;univers.
+</p>
+<p>
+Enfin c&#39;est se joüer des mots, ou plûtôt se moquer,
+que d&#39;écrire, comme a fait un de nos auteurs modernes,
+qu&#39;il y a de la petitesse d&#39;esprit à imaginer que
+ce soit dégrader l&#39;humanité que d&#39;avoir des esclaves,
+parce que la liberté dont chaque européen croit
+joüir, n&#39;est autre chose que le pouvoir de rompre
+sa chaîne, pour se donner un nouveau maître ; comme 
+si la chaîne d&#39;un européen étoit la même que celle 
+d&#39;un esclave de nos colonies : on voit bien que
+cet auteur n&#39;a jamais été mis en <i>esclavage</i>.
+</p>
+<p>
+Cependant n&#39;y a-t-il point de cas ni de lieux où
+l&#39;<i>esclavage</i> dérive de la nature des choses? Je réponds 
+1°. à cette question qu&#39;il n&#39;y en a point ; je
+réponds ensuite, avec M. de Montesquieu, que s&#39;il y a
+des pays où l&#39;<i>esclavage</i> paroisse fonde sur une raison
+naturelle, ce sont ceux où la chaleur énerve le
+corps, &amp; affoiblit si fort le courage, que les hommes 
+ne sont portés à un devoir penible que par la
+crainte du châtiment : dans ces pays-là, le maître
+étant aussi lâche à l&#39;égard de son prince, que son esclave 
+l&#39;est à son égard, l&#39;<i>esclavage civil</i> y est encore
+accompagné de l&#39;<i>esclavage politique</i>.
+</p>
+<p>
+Dans les gouvernemens arbitraires, on a une
+grande facilité à se vendre, parce que l&#39;<i>esclavage politique</i> y anéantit en quelque façon la liberté civile.
+A Achim, dit Dampiere, tout le monde cherche à
+se vendre : quelques-uns des principaux seigneurs
+n&#39;ont pas moins de mille esclaves, qui sont des principaux 
+marchands, qui ont aussi beaucoup d&#39;esclaves 
+sous eux, &amp; ceux-ci beaucoup d&#39;autres ; on en
+hérite, &amp; on les fait trafiquer. Là, les hommes libres,
+trop foibles contre le gouvernement, cherchent 
+à devenir les esclaves de ceux qui tyrannisent
+le gouvernement.
+</p>
+<p>
+Remarquez que dans les états despotiques, où
+l&#39;on est déjà sous l&#39;<i>esclavage politique</i>, l&#39;<i>esclavage civil</i> est plus tolérable qu&#39;ailleurs : chacun est assez
+content d&#39;y avoir sa subsistance &amp; la vie : ainsi la
+condition de l&#39;esclave n&#39;y est guere plus à charge
+que la condition de sujet : ce sont deux conditions
+qui se touchent ; mais quoique dans ces pays là l&#39;<i>esclavage</i> 
+<pb n="5:939" facs="V5/ENC_5-939.jpeg" />
+<milestone unit="column" n="1" />
+soit, pour ainsi dire, fondé sur une raison
+naturelle, il n&#39;en est pas moins vrai que l&#39;<i>esclavage</i>
+est contre la nature.
+</p>
+<p>
+Dans tous les états mahométans, la servitude est
+récompensée par la paresse dont on fait joüir les esclaves 
+qui servent à la volupté. C&#39;est cette paresse
+qui rend les serrails d&#39;Orient des lieux de délices pour
+ceux mêmes contre qui ils sont faits. Des gens qui
+ne craignent que le travail, peuvent trouver leur
+bonheur dans ces lieux tranquilles ; mais on voit que
+par-là on choque même le but de l&#39;établissement de
+l&#39;<i>esclavage</i>. Ces dernieres réflexions sont de l&#39;<i>Esprit
+des lois</i>.
+</p>
+<p>
+Concluons que l&#39;<i>esclavage</i> fondé par la force, par
+la violence, &amp; dans certains climats par excès de
+la servitude, ne peut se perpétuer dans l&#39;univers
+que par les mêmes moyens. <i>Article de M. le Chevalier <sc>de Jaucourt</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

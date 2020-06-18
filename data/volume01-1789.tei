@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 1.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1751</date>
+            </creation>
+               <imprint>
+               <date>1751</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>1</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1751</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="1784" id="2:316" vol="1">
+<index type="head" value="ALLEMAGNE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Geog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>ALLEMAGNE</head>
+<p>
+* ALLEMAGNE, (<i>Geog</i>.) grand pays situé au
+milieu de l&#39;Europe, avec titre d&#39;Empire ; borné à
+l&#39;est par la Hongrie &amp; la Pologne ; au nord par la
+mer Baltique &amp; le Danemarc ; à l&#39;occident par les
+Pays-bas, la France &amp; la Suisse ; au midi par les Alpes ou l&#39;Italie, &amp; la Suisse. Il a environ 240. lieues
+de la mer Baltique aux Alpes, &amp; 200. du Rhin à la
+Hongrie. Il est divisé en neuf cercles, qui sont l&#39;Autriche, le bas Rhin, le haut Rhin, la Baviere, la
+haute Saxe, la basse Saxe, la Franconie, la Souabe, &amp; la Westphalie. <i>Lon. 23-37. lat. 46-55</i>.
+</p>
+<p>
+C&#39;est un composé d&#39;un grand nombre d&#39;Etats souverains 
+&amp; libres, quoique sous un chef commun.
+On conçoît que cette constitution de gouvernement
+établissant dans un même Empire une infinité de frontieres 
+différentes, supposant d&#39;un lieu à un autre
+des lois différentes, des monnoies d&#39;une autre espece,
+des denrées appartenantes à des maîtres différens,
+<i>&amp;c.</i> on conçoit, dis-je, que toutes ces circonstances 
+doivent mettre beaucoup de variété dans le commerce.
+En voici cependant le général &amp; le principal 
+à observer. Pour encourager ses sujets au commerce,
+l&#39;Empereur a établi le port franc sur la mer
+Adriatique, par des Compagnies tantôt projettées,
+tantôt formées dans les Pays-bas ; par des priviléges 
+particuliers accordés à l&#39;Autriche, à la Hongrie,
+à la Boheme (<i>Voyez</i> <sc><ref target="head:Compagnie" type="search">Compagnie</ref> <i>&amp;</i> <ref target="head:Port" type="search">Port</ref></sc>), par
+des Traités avec les Puissances voisines, &amp; sur-tout
+par le Traité de 1718. avec la Porte, dans lequel
+il est arrêté que le commerce sera libre aux Allemands dans l&#39;Empire Ottoman ; que depuis Vidin
+<pb n="1:282" facs="V1/ENC_1-282.jpeg" />
+<milestone unit="column" n="1" />
+les Impériaux pourront faire passer leurs marchandises 
+sur des sacques Turques en Tartarie, en Crimée, <i>&amp;c.</i> que les vaisseaux de l&#39;Empire pourront
+aborder sur la Méditerranée dans tous les ports de
+Turquie ; qu&#39;ils seront libres d&#39;établir des Consuls,
+des Agens, <i>&amp;c.</i> partout où les Alliés de la Porte en
+ont déjà, &amp; avec les mêmes prérogatives ; que les
+effets des marchands qui mourront ne seront point
+confisqués ; qu&#39;aucun marchand ne sera appellé devant 
+les Tribunaux Ottomans, qu&#39;en présence du
+Consul Impérial ; qu&#39;ils ne seront aucunement responsables 
+des dommages causés par les Maltois ;
+qu&#39;avec passeport ils pourront aller dans toutes les
+villes du Grand-Seigneur où le commerce les demandera : enfin que les marchands Ottomans auront les
+mêmes facultés &amp; priviléges dans l&#39;Empire.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

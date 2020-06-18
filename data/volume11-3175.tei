@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 11.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1765</date>
+            </creation>
+               <imprint>
+               <date>1765</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>11</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1765</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="46193" id="85:239" vol="11">
+<index type="head" value="OSTIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>OSTIE</head>
+<p>
+OSTIE, (<i>Géogr</i>.) ancienne ville d&#39;Italie dans la
+campagne de Rome, avec un évêché qui est uni à
+celui de Vélétri. Cette ville si fameuse du tems des
+Romains, est entierement détruite &amp; ne consiste que
+dans une église, au-tour de laquelle il y a quelques
+misérables maisons en partie ruinées. Cet endroit est
+au milieu de l&#39;isthme, borné au couchant par l&#39;ancienne 
+branche du Tibre, &amp; à l&#39;orient par un marais,
+à 5 lieues S. O. de Rome. <i>Long. 29. 58. lat. 41. 47</i>.
+</p>
+<p>
+Denys d&#39;Halicarnasse, <i>l. III. ch. xlij</i>. donne une
+longue description de la fondation d&#39;<i>Ostie</i>, &amp; Tite-Live, <i>liv. I. ch. xxxiij</i>. l&#39;a faite en deux mots : <i>Anco
+Martio regnante, in ore Tiberis</i> Ostia urbs <i>condita, salinae 
+circa factae</i>. Elle fut saccagée par Marius, mais
+elle se rétablit promptement. L&#39;empereur Claude en
+fit un port fermé avec une haute tour, sur le modele
+de celle d&#39;Alexandrie, pour servir de phare aux
+vaisseaux.
+</p>
+<p>
+Une seule chose contribua à ruiner la grandeur de
+cette ville, son ancien canal se combla peu-à-peu, &amp;
+rendit son port inutile. Malgré le nouveau port qu&#39;y
+fit Trajan, <i>Ostie</i> tomba dans le dépérissement, à la
+chute de l&#39;empire romain. Les barbares acheverent
+de la ruiner, &amp; les Sarrazins n&#39;y laisserent pierre sur
+pierre. Les habitans furent amenés en esclavage, &amp;
+ceux qui échaperent au fer ou à la servitude, se retirerent 
+bien loin de ce funeste lieu. En vain le pape
+Gregoire IV. voulut rétablir en 830 cette ancienne
+ville, les Corses qu&#39;il y envoya périrent par le mauvais 
+air de cet endroit inculte. Enfin le nom même
+de cette ville seroit perdu, si elle n&#39;avoit été le titre
+du premier suffragant de Rome. (<i>D. J</i>.)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>
