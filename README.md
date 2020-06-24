@@ -1,7 +1,7 @@
 # Perdido Geoparsing Notebook
 Jupyter notebook for geoparsing French historical documents with the PERDIDO Geoparser. 
 
-This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) and [K. McDonough](http://kmcdono.com/) as part of the [GéoDISCO](https://www.msh-lse.fr/projets/geodisco/) and GEODE projects.
+This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) and [K. McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) as part of the [GéoDISCO](https://www.msh-lse.fr/projets/geodisco/) and GEODE projects.
 
 ## Overview
 
