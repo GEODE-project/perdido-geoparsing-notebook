@@ -1,0 +1,712 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30230" id="54:98" vol="7">
+<index type="head" value="GRAVITÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Phys. &amp; Méchaniq." />
+<index type="normclass" value="Physique | Méchanique" />
+<index type="englishclass" value="Physics | Mechanics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GRAVITÉ</head>
+<p>
+GRAVITÉ, s. f. (<i>Phys. &amp; Méchaniq.</i>) on appelle
+ainsi parmi les Physiciens la <i>force</i> que le vulgaire appelle 
+<i>pesanteur</i>, &amp; en vertu de laquelle les corps
+tendent vers la terre.
+</p>
+<p>
+Il y a cette différence entre <i>pesanteur</i> &amp; <i>gravité</i>, 1°. que <i>gravité</i> ne se dit jamais que de la force ou
+cause générale qui fait descendre les corps, &amp; que
+<i>pesanteur</i> se dit quelquefois de l&#39;effet de cette force
+dans un corps particulier ; ainsi on dit <i>la force de la
+gravité pousse les corps vers la terre</i>, &amp; <i>la pesanteur du
+plomb est plus grande que celle du cuivre</i>. 2°. Que <i>pesanteur</i> ne se dit jamais que de la force particuliere
+qui fait tomber les corps terrestres vers la terre, &amp;
+que <i>gravité</i> se dit aussi quelquefois dans le système
+Newtonien, de la force par laquelle un corps quelconque 
+tend vers un autre. Car le principe général
+de ce système, est que la <i>gravité</i> est une propriété
+universelle de la matiere. <i>Voyez</i> <sc><ref target="head:Gravitation" type="search">Gravitation</ref></sc>.
+Mais avant que d&#39;en détailler les preuves, disons un
+mot des systèmes imaginés par les autres philosophes,
+pour rendre raison de la <i>gravité</i>.
+</p>
+<p>
+Le vulgaire est d&#39;abord étonné qu&#39;on cherche une
+cause à ce phénomene ; il lui paroît tout naturel
+qu&#39;un corps tombe, dès qu&#39;il n&#39;est pas soûtenu ; sur
+quoi nous renvoyons le lecteur à l&#39;<i>article</i> <sc><ref target="head:Force d&#39;inertie" type="search">Force
+d&#39;inertie</ref></sc>, <i>p. 112. col. j.</i> Nous renvoyons aussi aux
+<i>mots</i> <sc><ref target="head:Accélération" type="search">Accélération</ref> <i>&amp;</i> <ref target="head:Descente" type="search">Descente</ref></sc> sur les explications 
+que les Péripatéticiens, les Epicuriens, &amp;
+les Gassendistes donnent de la <i>gravité</i>, &amp; qui ne méritent 
+pas un plus long détail. Mais l&#39;explication de
+Descartes est trop ingénieuse &amp; trop séduisante au
+premier coup-d&#39;oeil, pour ne pas nous y arrêter.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La matiere subtile, dit ce philosophe, se meut en
+tourbillon autour de la terre ; en vertu de ce mouvement 
+elle a une force centrifuge, <i>voyez</i> <sc><ref target="head:Force" type="search">Force</ref> <i>&amp;</i> <ref target="head:Centrifuge" type="search">Centrifuge</ref></sc> ; en vertu de cette force, toutes les
+parties de cette matiere tendent à s&#39;éloigner de la
+terre ; elles doivent donc pousser les corps vers la
+terre, c&#39;est-à-dire dans un sens contraire à la direction 
+de leur force centrifuge : car par la même raison 
+qu&#39;un fluide qui pese de haut en bas, tend à
+pousser de bas en-haut les corps qu&#39;on y plonge, &amp;
+les y pousse en effet, s&#39;ils tendent de haut en-bas
+avec moins de force que lui ; par cette même raison
+la matiere du tourbillon ayant une force centrifuge,
+doit pousser vers la terre les corps qu&#39;on place dans
+ce tourbillon, &amp; qui n&#39;ont point une pareille force.
+<i>Voyez</i> <sc><ref target="head:Fluide" type="search">Fluide</ref> <i>&amp;</i> <ref target="head:Hydrodynamique" type="search">Hydrodynamique</ref></sc>. Ainsi la pesanteur 
+du corps <i>L</i> place dans la pyramide <i>AEB</i>
+(<i><ref target="XPL:5398" type="platelink">fig. 8</ref>. Méch.</i>), est égale à la force centrifuge de la
+matiere du tourbillon dont il occupe la place, multipliée 
+par la masse de cette matiere, moins la force
+centrifuge du corps <i>L</i>, s&#39;il en a, multipliée par la
+masse <i>L</i>.
+</p>
+<p>
+En supposant l&#39;existence des tourbillons que nous
+croyons insoûtenable, &amp; que presque personne n&#39;admet 
+plus aujourd&#39;hui, <i>voyez</i> <sc><ref target="head:Tourbillon" type="search">Tourbillon</ref></sc>, il suit de
+cette explication qu&#39;il faut, ou que la force centrifuge 
+de la matiere du tourbillon soit beaucoup plus
+grande que celle du corps <i>L</i>, ou que la matiere subtile 
+soit beaucoup plus dense que ce corps. Or la
+force centrifuge du corps <i>L</i> vient de sa vîtesse de rotation 
+autour de la terre ; vîtesse qui est à-peu-près
+égale à celle des points de la surface terrestre. Donc
+il faudroit dans le premier cas que la matiere du
+tourbillon eût beaucoup plus de vîtesse de rotation
+que la terre ; or cela posé, on sentiroit une espece de
+vent continuel dans le sens de la rotation de la terre,
+c&#39;est-à-dire d&#39;occident en orient. Dans le second
+cas, si la matiere du tourbillon a beaucoup plus de
+densité que les corps terrestres, on devroit sentir
+dans les mouvemens de bas en-haut &amp; de haut enbas 
+la résistance de cette matiere ; or on sait que
+cette résistance est insensible, que l&#39;air seul est la
+source de celle qu&#39;on éprouve, &amp; qu&#39;il n&#39;y en a
+point dans la machine du vuide, où tous les corps
+tombent également vîte. Ce n&#39;est pas tout ; supposant,
+comme on le dit, la force centrifuge de la matiere 
+du tourbillon beaucoup plus grande que celle
+du corps <i>L</i>, le corps <i>L</i> devroit toûjours avoir une
+pesanteur sensiblement égale, pourvû qu&#39;il conservât 
+le même volume ; car la force centrifuge qui
+agiroit sur ce corps, seroit alors la même. Or cela
+est contraire à l&#39;expérience : car un pié cube d&#39;or
+pese plus qu&#39;un pié cube de liége. De plus &amp; par la
+même raison, les corps devroient descendre d&#39;autant 
+plus vîte, abstraction faite de la résistance de
+l&#39;air, qu&#39;ils auroient moins de masse sous un même
+volume ; car la force qui les presse étant la même,
+elle devroit y produire des vîtesses en raison inverse
+des masses. Or c&#39;est ce que l&#39;expérience dément encore ; 
+car l&#39;expérience prouve que tous les corps descendent 
+également vîte dans le vuide ; d&#39;où il résulte
+que la <i>gravité</i> agit en raison de la masse, &amp; non du
+volume du corps.
+</p>
+<p>
+Une autre objection contre les Cartésiens, c&#39;est
+que les corps devroient descendre vers l&#39;axe de la
+terre, &amp; non vers le centre ; de sorte que sous les
+paralleles à l&#39;équateur ils devroient tomber par des
+lignes obliques, &amp; non par des lignes à-plomb. Les
+Cartésiens, il est vrai, ont imaginé différens moyens
+de répondre à ces difficultés ; mais tous ces moyens
+sont autant de paralogismes. Je me flate de l&#39;avoir
+démontré dans mon <i>traité des fluides, art. 409</i>. M.
+Huyghens a cherché à corriger sur ce point le système 
+de Descartes ; mais la correction est pire que le
+<pb n="7:874" facs="V7/ENC_7-874.jpeg" />
+<milestone unit="column" n="1" />
+mal ; <i>voyez</i> <sc><ref target="head:Descente" type="search">Descente</ref></sc> ; il en est de même de M.
+Bulfinger. Il suppose dans une piece qui a remporté
+le prix de l&#39;<i>academie des Sciences en 1728</i>, que la matiere 
+du tourbillon se meut à la-fois autour de deux
+axes. Il prétend que de ce double mouvement il doit
+résulter une tendance des corps terrestres vers le centre 
+de la terre ; mais cet auteur a supposé qu&#39;en ce
+cas les particules de la matiere décrivoient toutes
+par un mouvement composé de grands cercles, ce
+qui n&#39;est pas vrai ; car elles décrivent des courbes
+différentes, dont la plûpart sont en 8 de chiffre, comme 
+on peut s&#39;en assûrer par l&#39;expérience &amp; par l&#39;analyse.
+Ainsi son explication n&#39;est pas plus recevable
+que celles de Huyghens &amp; de Descartes.
+</p>
+<p>
+M. Varignon a fait aussi un système sur la cause
+de la pesanteur, dont on peut voir le précis dans son
+éloge par M. de Fontenelle, <i>mém. de l&#39;Acad. 1722.</i>
+mais ce système ne portant sur rien, &amp; n&#39;ayant fait
+aucune fortune, nous n&#39;en ferons point de mention
+ici. M. le Sage, de Geneve, a présenté depuis peu
+à l&#39;académie des Sciences un écrit qui contient un
+système ingénieux sur cette matiere ; mais ce système 
+n&#39;est pas encore publié, &amp; nous attendrons qu&#39;il
+le soit pour en faire mention, afin de ne point trop
+surcharger cet article. Nous renvoyons donc sur
+cela au <i>mot</i> <sc><ref target="head:Pesanteur" type="search">Pesanteur</ref></sc>.
+</p>
+<p>
+Avant que de passer à l&#39;explication Newtonienne
+de la <i>gravité</i>, nous ferons une remarque qui ne sera
+pas inutile. Quand on dit que les corps pesans ou
+graves tendent vers le centre de la terre, on n&#39;entend 
+pas cela rigoureusement ; car il faudroit en ce
+cas que la terre fût sphérique, &amp; que les corps pesans 
+fussent poussés perpendiculairement à cette surface.
+Or il est prouvé que la terre n&#39;est pas sphérique,
+&amp; il n&#39;est pas bien démontré que la direction
+de la pesanteur soit perpendiculaire à la surface de
+la terre ; sur quoi <i>voyez l&#39;article</i> 
+<sc><ref target="head:Figure de la Terre" type="search">Figure de la Terre</ref></sc>
+, &amp; la <i>III. partie</i> de mes <i>recherches sur le système
+du monde</i> ; Paris, 1756. <i>liv. VI.</i>
+</p>
+<p>
+Il faut d&#39;ailleurs distinguer deux sortes de <i>gravité:</i>
+la <i>gravité</i> primitive, non altérée par la force centrifuge 
+qui vient de la rotation de la terre &amp; des corps
+qu&#39;elle entraîne : &amp; la <i>gravité</i> altérée par cette force ;
+cette derniere <i>gravité</i> est la seule que nous sentons ;
+&amp; quand même la premiere auroit sa direction au centre 
+de la terre, la seconde par une conséquence nécessaire 
+ne l&#39;auroit pas. Mais il est aisé de s&#39;assûrer que
+la <i>gravité</i> primitive elle-même n&#39;a pas sa direction
+au centre de la terre ; car si cela étoit, le rapport
+des axes seroit à très-peu-près de 577 à 578, tel que
+M. Huyghens l&#39;a trouvé dans cette hypothèse. Or
+les observations donnent le rapport des axes de la
+terre beaucoup plus grand. <i>Voyez l&#39;article</i> 
+<sc><ref target="head:Figure de la Terre" type="search">Figure de la Terre</ref></sc>. Ainsi il paroît que la <i>gravité</i> n&#39;est pas
+une force constamment dirigée vers le centre de la
+terre, &amp; c&#39;est déjà une preuve indirecte en faveur du
+système de Newton, qui veut que la pesanteur soit
+causée par l&#39;attraction que toutes les parties de la
+terre exercent sur les corps pesans ; attraction dont
+l&#39;effet doit être dirigé différemment, suivant le lieu
+de la surface terrestre où le corps attiré est placé.
+<i>Voyez</i> <sc><ref target="head:Attraction" type="search">Attraction</ref></sc>. Voici maintenant les preuves
+du système Newtonien.
+</p>
+<p>
+<i>Preuves de la gravité universelle</i>. Tout le monde convient 
+que tout mouvement est naturellement rectiligne ; 
+de sorte que les corps, qui dans leur mouvement 
+décrivent des lignes courbes, y doivent être
+forcés par quelque puissance qui agit sur eux continuellement.
+</p>
+<p>
+D&#39;où il s&#39;ensuit que les planetes faisant leurs révolutions 
+dans des orbites curvilignes, il y a quelque 
+puissance dont l&#39;action continuelle &amp; constante
+les empêche de se déplacer de leur orbite, &amp; de décrire 
+des lignes droites.
+<milestone unit="column" n="2" />
+</p>
+<p>
+D&#39;ailleurs les Mathématiciens prouvent que tous
+les corps qui dans leurs mouvemens décrivent quelque 
+ligne courbe sur un plan, &amp; qui par des rayons
+tirés vers un certain point, décrivent autour de ce
+point des aires proportionnelles au tems, sont poussés 
+par quelque puissance qui tend vers ce même
+point ; <i>voyez</i> <sc><ref target="head:Force centrale" type="search">Force centrale</ref></sc>. Il est démontré
+aussi par les observations que les planetes premieres
+tournant autour du soleil, &amp; les planetes secondaires 
+appellées <i>satellites</i>, tournant autour des premieres,
+décrivent des aires proportionnelles au tems ;
+<i>voyez</i> <sc><ref target="head:Loi de Kepler" type="search">Loi de Kepler</ref></sc>. Par conséquent la puissance
+qui les retient dans leur orbite, a sa direction vers
+les centres du soleil &amp; des planetes. Enfin il est prouvé 
+que si plusieurs corps décrivent autour d&#39;un même 
+point des cercles concentriques, &amp; que les quarrés 
+de leurs tems périodiques soient comme les cubes 
+des distances du centre commun, les forces centripetes 
+des corps qui se meuvent seront réciproquement 
+comme les quarrés des distances. <i>Voyez</i> <sc><ref target="head:Force centrale" type="search">Force
+centrale</ref></sc>. Or tous les Astronomes conviennent
+que cette analogie a lieu par rapport à toutes les
+planetes : d&#39;où il s&#39;ensuit que les forces centripetes
+de toutes les planetes, sont réciproquement comme
+les quarrés des distances où elles sont des centres de
+leurs orbites. <i>Voyez l&#39;article</i> <sc><ref target="head:Planete" type="search">Planete</ref></sc> <i>&amp; l&#39;article</i> <sc><ref target="head:Loi de Kepler" type="search">Loi
+de Kepler</ref></sc>.
+</p>
+<p>
+De tout ce qu&#39;on vient de dire, il s&#39;ensuit que les
+planetes sont retenues dans leurs orbites par une puissance 
+qui agit continuellement sur elles : que cette
+puissance a sa direction vers le centre de ces orbites:
+que l&#39;efficacité de cette puissance augmente à mesure
+qu&#39;elle approche du centre, &amp; qu&#39;elle diminue à mesure 
+qu&#39;elle s&#39;en éloigne ; qu&#39;elle augmente en même
+proportion que diminue le quarré de la distance, &amp;
+qu&#39;elle diminue comme le quarré de la distance augmente.
+</p>
+<p>
+Or en comparant cette force centripete des planetes 
+avec la force de <i>gravité</i> des corps sur la terre,
+on trouvera qu&#39;elles sont parfaitement semblables.
+</p>
+<p>
+Pour rendre cette vérité sensible, nous examinerons 
+ce qui se passe dans le mouvement de la Lune,
+qui est la planete la plus voisine de la terre.
+</p>
+<p>
+Les espaces rectilignes, décrits dans un tems donné 
+par un corps qui tombe &amp; qui est poussé par quelque 
+puissance, sont proportionnels à ces puissances,
+à compter depuis le commencement de la chûte.
+Par conséquent la force centripete de la Lune dans
+son orbite, sera à la force de la <i>gravité</i> sur la surface
+de la terre, comme l&#39;espace, que la Lune parcourroit 
+en tombant pendant quelque tems par sa force
+centripete du côté de la terre, supposé qu&#39;elle n&#39;eût
+aucun mouvement circulaire, est à l&#39;espace que parcouroit 
+dans le même tems quelqu&#39;autre corps en
+tombant par sa <i>gravité</i> sur la terre.
+</p>
+<p>
+On sait par expérience que les corps pesans parcourent 
+ici-bas 15 piés par seconde, <i>voyez</i> <sc><ref target="head:Descente" type="search">Descente</ref></sc>. Or l&#39;espace que la force centripete de la Lune
+lui feroit parcourir en ligne droite dans une seconde,
+est sensiblement égal au sinus verse de l&#39;arc que la
+Lune décrit dans une seconde. Et puisqu&#39;on connoit
+le rayon de l&#39;orbite de la Lune &amp; le tems de sa révolution,
+on connoîtra par conséquent ce sinus
+verse.
+</p>
+<p>
+Faisant donc le calcul, on trouve que ce sinus verse
+est à 15 piés, c&#39;est-à-dire que la force centripete de
+la Lune dans son orbite, est à la force de la <i>gravité</i>
+sur la surface de la terre, comme le quarré du demi-diametre 
+de la terre est au quarré du demi-diametre
+de l&#39;orbite. On peut voir ce calcul tout au long dans
+le <i>III. livre des principes de Newton, &amp; dans plusieurs
+autres ouvrages auxquels nous renvoyons</i>.
+</p>
+<p>
+C&#39;est pourquoi la force centripete de la Lune est
+la même que la force de la <i>gravité</i>, c&#39;est-à-dire procede<gap type="hyphenpb" />
+<pb n="7:875" facs="V7/ENC_7-875.jpeg" />
+<milestone unit="column" n="1" />
+du même principe ; autrement si ces deux forces 
+étoient différentes, les corps poussés par les deux
+forces conjointement, tomberoient vers la terre avec
+une vîtesse double de celle qui naîtroit de la seule force 
+de la <i>gravité</i>.
+</p>
+<p>
+Il est donc évident que la force centripete par laquelle 
+la Lune est retenue dans son orbite, n&#39;est autre 
+chose que la force de la <i>gravité</i> qui s&#39;étend jusque-là.
+</p>
+<p>
+Par conséquent la Lune pese vers la terre ; donc
+réciproquement celle ci pese vers la Lune : ce qui est
+confirmé d&#39;ailleurs par les phénomenes des marées.
+<i>Voyez</i> 
+<sc><ref target="head:Flux" type="search">Flux</ref> <i>&amp;</i> <ref target="head:Reflux" type="search">Reflux</ref> <i>&amp;</i> <ref target="head:Gravitation" type="search">Gravitation</ref></sc>
+</p>
+<p>
+On peut appliquer le même raisonnement aux autres 
+planetes. En effet, comme les révolutions des
+planetes autour du Soleil, &amp; celles des satellites de
+Jupiter &amp; de Saturne autour de ces planetes, sont
+des phénomenes de la même espece que la révolution 
+de la Lune autour de la terre ; comme les forces
+centripetes des planetes ont leur direction vers le
+centre du Soleil ; comme celles des Satellites tendent
+vers le centre de leur planete ; &amp; enfin comme toutes 
+ces forces sont réciproquement comme les quarrés 
+des distances aux centres, on peut conclure que
+la loi de la <i>gravité</i> &amp; sa cause sont les mêmes dans
+toutes les planetes &amp; leurs satellites.
+</p>
+<p>
+C&#39;est pourquoi comme la Lune pese vers la terre,
+&amp; celle-ci vers la Lune, de même tous les satellites
+pesent vers leurs planetes principales : &amp; les planetes
+principales vers leurs satellites ; les planetes vers le
+Soleil, &amp; le Soleil vers les planetes. <i>Voyez</i> <sc><ref target="head:Gravitation" type="search">Gravitation</ref>, <ref target="head:Planete" type="search">Planete</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Il ne reste plus qu&#39;à savoir quelle est la cause de
+cette <i>gravité</i> universelle, ou tendance mutuelle que
+les corps ont les uns vers les autres.
+</p>
+<p>
+Clarke ayant détaillé plusieurs propriétés de la
+<i>gravité</i> des corps, conclud que ce n&#39;est point un effet
+accidentel de quelque mouvement ou matiere subtile,
+mais une force générale que le Tout-puissant a
+imprimée des le commencement à la matiere, &amp; qu&#39;il
+y conserve par quelque cause efficiente qui en pénetre 
+la substance.
+</p>
+<p>
+Gravesande, dans son <i>introduction à la philosophie
+de Newton</i>, prétend que la cause de la <i>gravité</i> est absolument 
+inconnue, &amp; que nous ne devons la regarder 
+que comme une loi de la nature &amp; comme une
+tendance que le créateur a imprimée originairement
+&amp; immédiatement à la matiere, sans qu&#39;elle depende
+en aucune façon de quelque loi ou cause seconde. Il
+croit que les trois réflexions suivantes suffisent pour
+prouver sa proposition. Savoir:
+</p>
+<p>
+1°. Que la <i>gravité</i> demande la présence du corps
+qui pese ou attire : c&#39;est ainsi que les satellites de Jupiter, par exemple, pesent sur cette planete, quelque 
+part qu&#39;elle se trouve.
+</p>
+<p>
+2°. Que la distance au corps attirant étant supposée 
+la même, la vîtesse avec laquelle les corps se
+meuvent par la force de la <i>gravité</i>, dépend de la quantité 
+de matiere qui se trouve dans le corps qui attire,
+&amp; que la vîtesse ne change point, quelle que puisse
+être la masse du corps pesant.
+</p>
+<p>
+3°. Que si la <i>gravité</i> ne dépend d&#39;aucune loi connue 
+de mouvement, il faut que ce soit quelqu&#39;impulsion 
+venant d&#39;un corps étranger, de sorte que la <i>gravité</i> étant continuelle, elle demande aussi une impulsion 
+continuelle.
+</p>
+<p>
+Or s&#39;il y a quelque matiere qui pousse continuellement 
+les corps, il faut que cette matiere soit fluide
+&amp; assez subtile pour pénétrer la substance de tous les
+corps : mais comment un corps qui est assez subtil
+pour pénétrer la substance des corps les plus durs,
+&amp; assez raréfié pour ne pas s&#39;opposer sensiblement
+au mouvement des corps, peut-il pousser des corps
+considérables les uns vers les autres avec tant de force?<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+Comment cette force augmente-t-elle suivant la
+proportion de la masse du corps vers lequel l&#39;autre
+corps est poussé? D&#39;où vient que tous les corps, en
+supposant la même distance &amp; le même corps vers
+lequel ils tendent, se meuvent avec la même vîtesse?
+Enfin un fluide qui n&#39;agit que sur la surface, soit des
+corps mêmes, soit de leurs particules intérieures,
+peut-il communiquer aux corps une quantité de mouvement,
+qui suive exactement la proportion de la
+quantité de matiere renfermée dans les corps?
+</p>
+<p>
+M. Cotes, en donnant un plan de la philosophie
+de Newton, va encore plus loin, &amp; assûre que la
+<i>gravité</i> doit être mise au rang des qualités premieres
+de tous les corps, &amp; réputée aussi essentielle à la matiere 
+que l&#39;étendue, la mobilité, &amp; l&#39;impénétrabilité.
+<i>Pref. ad Newt. princip</i>. Sur quoi <i>voyez les articles</i>
+<sc><ref target="head:Attraction" type="search">Attraction</ref> <i>&amp;</i> <ref target="head:Gravitation" type="search">Gravitation</ref></sc>.
+</p>
+<p>
+Mais Newton, pour nous faire entendre qu&#39;il ne
+regarde point la <i>gravité</i> comme essentielle aux corps,
+nous donne son opinion sur la cause, &amp; il prend le
+parti de la proposer par forme de question, comme
+n&#39;étant point encore content de tout ce qu&#39;on en a
+découvert par les expériences.
+</p>
+<p>
+Nous ajoûterons ici cette question dans les propres 
+termes dont il s&#39;est servi.
+</p>
+<p>
+Après avoir prouvé qu&#39;il y a dans la nature un
+milieu beaucoup plus subtil que l&#39;air ; que par les
+vibrations de ce milieu, la lumiere communique de
+la chaleur aux corps, subit elle-même des accès de
+facile réflexion &amp; de facile transmission ; &amp; que les
+différentes densités des couches de ce milieu produisent 
+la réfraction aussi-bien que la réflexion de la lumiere 
+(<i>voyez</i> 
+<sc><ref target="head:Milieu" type="search">Milieu</ref>, <ref target="head:Chaleur" type="search">Chaleur</ref>, <ref target="head:Réfraction" type="search">Réfraction</ref></sc>
+<i>&amp;c.</i>), il fait la question suivante.
+</p>
+<p>
+<blockquote> 
+« Ce milieu n&#39;est-il pas beaucoup plus raréfié dans
+les corps denses du Soleil, des étoiles, des planetes,
+&amp; des cometes, que dans les espaces célestes
+qui sont vuides, &amp; qui se trouvent entre ces corps?
+&amp; ce milieu, en passant de là à des distances considérables,
+ne se condense-t-il pas continuellement
+de plus en plus, &amp; ne devient-il pas ainsi la cause
+de la <i>gravité</i> que ces grands corps exercent les uns
+sur les autres, &amp; de celle de leurs parties, puisque
+chaque corps s&#39;efforce de s&#39;éloigner des parties les
+plus denses du milieu vers ses parties les plus raréfiées?
+</blockquote></p>
+<p>
+Car si l&#39;on suppose que ce milieu est plus raréfié
+dans le corps du soleil que dans sa surface, &amp; plus
+à la surface qu&#39;à une distance très-petite de cette
+même surface, &amp; plus à cette distance que dans
+l&#39;orbe de Saturne ; je ne vois pas, dit M. Newton,
+pourquoi l&#39;accroissement de densité ne seroit pas
+continué dans toute la distance qu&#39;il y a du soleil
+à Saturne, &amp; au delà.
+</p>
+<p>
+Et quand même cet accroissement de densité seroit 
+excessivement lent ou foible à une grande distance,
+cependant si la force élastique de ce milieu
+est excessivement grande, elle peut être suffisante
+pour pousser les corps depuis les parties les plus
+denses du milieu, jusqu&#39;à l&#39;extrémité de ses parties
+les plus raréfiées, avec toute cette force que nous
+appellons <i>gravité</i>.
+</p>
+<p>
+La force élastique de ce milieu est excessivement
+grande, comme on en peut juger par la vîtesse de
+ses vibrations : car d&#39;un côté les sons se répandent
+environ à 180 toises dans une seconde de tems : de
+l&#39;autre la lumiere vient du soleil jusqu&#39;à nous dans
+l&#39;espace de sept ou huit minutes, &amp; cette distance
+est environ de 33000000 lieues ; &amp; pour que les
+vibrations ou impulsions de ce milieu puissent produire 
+les secousses alternatives de facile transmission 
+&amp; de facile réflexion, il faut qu&#39;elles se fassent
+plus promptement que celles de la lumiere, &amp; par
+conséquent environ 700000 fois plus vîte que celles<gap type="hyphenpb" />
+<pb n="7:876" facs="V7/ENC_7-876.jpeg" />
+<milestone unit="column" n="1" />
+du son ; de sorte que la vertu élastique de ce
+milieu, toutes choses d&#39;ailleurs égales, doit être
+plus de 700000 x 700000, c&#39;est-à-dire plus de
+490000000000 fois plus grande que n&#39;est la vertu
+élastique de l&#39;air : car les vîtesses des pulsions des
+milieux élastiques, toutes choses d&#39;ailleurs égales,
+sont en raison sous-doublée de la directe des élasticités de ces milieux.
+</p>
+<p>
+Comme la vertu magnétique est plus considérable 
+dans les petites pierres d&#39;aimant que dans les
+grandes à proportion de leur volume, &amp; que l&#39;attraction 
+électrique agit plus vivement sur les petits
+corps que sur les grands : de même la petitesse des
+rayons de lumiere peut contribuer infiniment à la
+force de l&#39;agent, ou de la puissance qui leur fait
+subir les réfractions. Et si on suppose que l&#39;éther
+(comme l&#39;air que nous respirons) contienne des
+particules qui s&#39;efforcent de s&#39;éloigner les unes des
+autres, &amp; que ces particules soient infiniment plus
+petites que celles de l&#39;air, ou même que celles de
+la lumiere, leur petitesse excessive peut contribuer
+à la grandeur de la force par laquelle elles s&#39;éloignent 
+les unes des autres, rendre le milieu infiniment 
+plus rare &amp; plus élastique que l&#39;air, &amp; par
+conséquent infiniment moins propre à résister aux
+mouvemens des projectiles, &amp; infiniment plus propre 
+à causer la pesanteur des corps par l&#39;effort que
+font
+ses particules pour s&#39;étendre. <i>Optic. p. 325.»
+&amp;c. Voyez</i> <sc><ref target="head:Lumiere" type="search">Lumiere</ref>, <ref target="head:Elasticité" type="search">Elasticité</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Voilà un précis des idées générales que Newton
+paroît avoir eues sur la cause de la <i>gravité:</i> cependant
+si on examine d&#39;autres endroits de ses ouvrages, on
+est tenté de croire que cette explication générale
+qu&#39;il donne dans son <i>Optique</i>, étoit destinée principalement 
+à rassûrer quelques personnes que l&#39;attraction
+avoit revoltées. Car ce philosophe, en avoüant que
+la pesanteur pourroit être produite par l&#39;impulsion,
+ajoûte qu&#39;elle pourroit aussi être produite par quelqu&#39;autre cause : il fait mouvoir les planetes dans un
+grand vuide, ou du-moins dans un espace qui contient 
+très-peu de matiere ; il remarque que l&#39;impulsion 
+d&#39;un fluide est proportionnelle à la quantité de
+surface des corps qu&#39;il frappe, au lieu que la <i>gravité</i>
+est comme la quantité de matiere, &amp; vient d&#39;une
+cause qui pénetre pour ainsi dire les corps ; ainsi il
+n&#39;étoit pas, ce me semble, fort éloigné de regarder
+la <i>gravité</i> comme un premier principe, &amp; comme
+une loi primordiale de la nature. En un mot toute
+cette explication est bien foible, pour ne rien dire de
+plus, bien vague, &amp; bien peu conforme à la maniere
+ordinaire de philosopher de son illustre auteur ; &amp;
+nous ne pouvons croire qu&#39;il l&#39;ait proposée bien sérieusement.
+D&#39;ailleurs Newton parut donner son approbation 
+à la préface que M. Cotes a mise à la tête
+de la seconde édition de ses <i>Principes</i>, &amp; dans laquelle
+cet auteur soûtient, comme nous l&#39;avons dit, que
+la <i>gravité</i> est essentielle à la matiere. <i>Voyez aux articles</i> <sc><ref target="head:Attraction" type="search">Attraction</ref> <i>&amp;</i> <ref target="head:Gravitation" type="search">Gravitation</ref></sc> les réflexions
+que nous avons faites sur cette derniere opinion.
+</p>
+<p>
+La partie de la Méchanique qui traite du mouvement 
+des corps en tant qu&#39;il résulte de la <i>gravité</i>,
+s&#39;appelle quelquefois <i>statique. Voyez</i> <sc><ref target="head:Statique" type="search">Statique</ref></sc>.
+</p>
+<p>
+On distingue la <i>gravité</i> en <i>absolue</i> &amp; <i>relative</i>.
+</p>
+<p>
+La <i>gravité absolue</i> est celle par laquelle un corps
+descend librement sans éprouver aucune résistance.
+<i>Voyez</i> <sc><ref target="head:Résistance" type="search">Résistance</ref></sc>.
+</p>
+<p>
+Les lois de la <i>gravité</i> absolue se trouvent aux <i>articles</i> <sc><ref target="head:Accélération" type="search">Accélération</ref> <i>&amp;</i> <ref target="head:Descente" type="search">Descente</ref></sc>.
+</p>
+<p>
+La <i>gravité relative</i> est celle par laquelle un corps
+descend après avoir consumé une partie de son poids
+à surmonter quelqu&#39;obstacle ou résistance. <i>Voyez</i>
+<sc><ref target="head:Résistance" type="search">Résistance</ref></sc>.
+</p>
+<p>
+Telle est la <i>gravité</i> par laquelle un corps descend
+le long d&#39;un plan incliné, où une partie de sa force
+<milestone unit="column" n="2" />
+est employée à surmonter la résistance ou le frottement 
+du plan. Telle est encore la <i>gravité</i> par laquelle
+un corps descend dans un fluide. <i>Voyez</i> <sc><ref target="head:Frottement" type="search">Frottement</ref></sc>, &amp; pour les lois de la <i>gravité</i> relative, consultez 
+les <i>articles</i> 
+<sc><ref target="head:Plan incliné" type="search">Plan incliné</ref>, <ref target="head:Descente" type="search">Descente</ref>, <ref target="head:Fluide" type="search">Fluide</ref>, <ref target="head:Resistance" type="search">Resistance</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+<i>Centre de</i> <sc><ref target="head:Gravité" type="search">Gravité</ref></sc>, <i>voyez</i> <sc><ref target="head:Centre" type="search">Centre</ref></sc>.
+</p>
+<p>
+La formule <gap type="formula" /> que nous avons donnée
+au <i>mot</i> <sc>Force centrifuge</sc>, <i>page 120 de ce Volume, col.</i> 1. peut servir à trouver le rapport de la
+force centrifuge des corps terrestres à la <i>gravité ;</i> car
+on peut connoître par les lois des pendules (<i>voyez</i>
+<sc><ref target="head:Pendule" type="search">Pendule</ref></sc>) le tems <foreign lang="greek">θ</foreign> d&#39;une vibration d&#39;un pendule,
+dont la longueur seroit égale au rayon de la terre ;
+&amp; on peut connoître de plus l&#39;espace <i>A</i>, où la partie 
+de la circonférence de l&#39;équateur qu&#39;un point
+quelconque de la surface de la terre décrit dans ce
+même tems ; &amp; comme <foreign lang="greek">π</foreign> est le rapport de la demi-circonférence 
+au rayon, &amp; <i>AB</i> le diametre de la
+terre, on aura donc en nombres très-approchés le
+rapport de 2 <i>A</i> à <foreign lang="greek">π</foreign> <i>AB</i> ou de <i>A</i> à <gap type="formula" /> c&#39;est-à-dire de l&#39;arc <i>A</i> à la demi-circonférence de la terre.
+Or, achevant le calcul, on trouve que ce rapport
+est d&#39;environ 1 à 17. <i>Voyez le discours</i> de M. Huyghens <i>sur la cause de la pesanteur</i>. Donc le rapport de
+la force centrifuge à la <i>gravité</i> sous l&#39;équateur, est
+égal au quarré de 1/17, c&#39;est-à-dire 1/289.
+</p>
+<p>
+Les lois de la <i>gravité</i> des corps qui pesent dans les
+fluides, sont l&#39;objet de l&#39;Hydrostatique. <i>Voyez</i> <sc><ref target="head:Hydrostatique" type="search">Hydrostatique</ref></sc>.
+</p>
+<p>
+Dans cette science on divise la <i>gravité</i> en <i>absolue</i>
+&amp; <i>spécifique</i>.
+</p>
+<p>
+La <i>gravité absolue</i> est la force avec laquelle les
+corps tendent en embas. <i>Voyez le commencement de cet
+article</i>.
+</p>
+<p>
+La <i>gravité spécifique</i> est le rapport de la <i>gravité</i>
+d&#39;un corps à celle d&#39;un autre de même volume. <i>Voy.</i>
+<sc><ref target="head:Specifique" type="search">Specifique</ref></sc>.
+</p>
+<p>
+Pour les lois de la <i>gravité</i> spécifique avec les manieres 
+de la trouver, ou de la déterminer dans les
+solides &amp; dans les fluides, consultez l&#39;<i>article</i> <sc><ref target="head:Balance hydrostatique" type="search">Balance hydrostatique</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

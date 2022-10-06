@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28012" id="49:141" vol="7">
+<index type="head" value="FOURMILIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Zoolog." />
+<index type="normclass" value="Histoire naturelle | Zoologie" />
+<index type="englishclass" value="Natural history. Zoology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>FOURMILIER</head>
+<p>
+FOURMILIER, <i>ursus formicarius</i>, s. m. (<i>Hist. nat.
+Zoolog.</i>) tamandua guacu du Brésil ; animal quadrupede 
+qui a la tête fort alongée, avec une trompe
+longue d&#39;un pié &amp; plus ; le museau est pointu, &amp; il
+n&#39;y a dans la bouche aucunes dents ; la langue ressemble 
+à un poinçon ; sa longueur est d&#39;environ deux
+piés ; elle se replie en doublé dans la bouche : mais
+elle est étendue de toute sa longueur, lorsqu&#39;elle en
+sort : l&#39;animal la pose sur une fourmiliere, &amp; lorsqu&#39;il la voit couverte de fourmis, il la retire, &amp; il
+avale ces insectes dont il fait sa nourriture ; c&#39;est pourquoi 
+on lui a donné le nom de <i>fourmilier</i>. Il a les yeux
+petits &amp; noirs, &amp; les oreilles presque rondes ; la
+queue est garnie de crins qui la rendent large d&#39;environ 
+un pie ; de sorte que l&#39;animal peut s&#39;en couvrir
+lorsqu&#39;il la redresse : la trompe a plus de quatre pouces 
+d&#39;épaisseur dans le milieu, mais elle est de plus en
+plus petite jusqu&#39;à l&#39;extrémité; le cou a cinq pouces
+de longueur &amp; neuf pouces d&#39;épaisseur : la longueur
+du corps jusqu&#39;à l&#39;origine de la queue, est d&#39;environ
+deux piés, &amp; l&#39;épaisseur d&#39;un pié huit pouces. La
+queue a deux piés trois ou quatre pouces de longueur ;
+celle des jambes de derriere est d&#39;onze pouces, &amp;
+les jambes de devant ont un pouce de plus. Il y a
+dans les piés de derriere cinq doigts, &amp; dans ceux
+de devant, quatre, dont les deux du milieu sont les
+plus longs, &amp; ont des ongles de deux pouces &amp; demi 
+de longueur. Les poils du dos sont noirs ; il s&#39;en
+trouve aussi de blancs : ceux de la tête &amp; du cou ont
+le moins de longueur ; ils sont dirigés en-avant. Le
+poil des jambes de devant est blanc, &amp; il y a une
+tache noire au-dessus de chaque pié, &amp; sur la poitrine 
+une large bande de la même couleur, qui s&#39;étend
+de chaque côté jusqu&#39;au milieu du corps : cette bande 
+est terminée en haut par une ligne blanche. Les
+jambes de derriere sont noires : tous les poils de cet
+animal sont durs ; un homme peut l&#39;atteindre à la
+course. On l&#39;a nommé <i>ursus formicarius</i>, parce qu&#39;il
+ressemble à l&#39;ours par les piés de derriere &amp; par son
+poil long &amp; hérissé. Raii <i>synop. meth. anim. p. 241.
+Voyez</i> <sc><ref target="head:Quadrupede" type="search">Quadrupede</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

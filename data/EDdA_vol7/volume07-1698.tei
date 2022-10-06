@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29152" id="52:4:6" vol="7">
+<index type="head" value="Garniture de Robe" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Marchand de Modes" />
+<index type="normclass" value="Marchand de modes" />
+<index type="englishclass" value="Merchant of fashions" />
+<index type="generatedclass" value="Marchand de modes" />
+<index type="pos" value="NA" />
+<head>Garniture de Robe</head>
+<p>
+<sc>Garniture de Robe</sc>, <i>terme de Marchand de Modes</i>. L&#39;on a commencé à garnir les robes il y a environ 
+quatorze ou quinze ans, avec de la même étoffe
+qui étoit coupée &amp; taillée par bandes plus étroites
+par en-haut que par en-bas ; cette <i>garniture</i> étoit posée 
+&amp; cousue sur le collet, &amp; descendoit sur le parement 
+de la robe jusqu&#39;à la ceinture : pour la poser,
+on la fronce par le milieu en la plissant avec du fil ;
+cette façon de garnir les robes s&#39;appelle <i>bavaroise</i>.
+</p>
+<p>
+Depuis l&#39;on a garni les robes en plein, c&#39;est-à dire
+tout-du-long &amp; dessus les bottes ; ensuite l&#39;on a ajoûté 
+plusieurs noeuds de ruban qui se posent sur les
+bottes, dans les festons de la <i>garniture</i> ; &amp;c. l&#39;on a
+encore découpé tout-autour cette <i>garniture</i> ; &amp; l&#39;on
+en a posé sur toutes les coutures des côtés de la robe.
+</p>
+<p>
+L&#39;on garnit aussi les jupons d&#39;un grand morceau
+de même étoffe découpé &amp; posé en feston tout autour
+&amp; au bas du jupon : l&#39;on y a ajoûté ensuite plusieurs
+falbalas qui se posent par rang &amp; au-dessus les uns
+des autres ; mais ils ne garnissent que le devant : entre 
+ces falbalas, l&#39;on y pose des noeuds de même
+étoffe &amp; de ruban, des pompons, des franges, des
+clinquans, <i>&amp;c.</i>
+</p>
+<p>
+Autrefois au lieu de ces falbalas, l&#39;on mettoit au
+bas des jupons de longues franges de soie de la même
+couleur ; ensuite l&#39;on en a mis par rang, comme les
+falbalas d&#39;aujour hui.
+</p>
+<p>
+L&#39;on garnit les robes avec des blondes, des réseaux
+d&#39;or, d&#39;argent, des gazes, des sourcils d&#39;hanneton,
+des rubans, des pompons, des dentelles de la même
+étoffe découpée, &amp; quelquefois de la mousseline.
+</p>
+<p>
+Il y a environ trente-cinq ou quarante ans que
+l&#39;on garnissoit les robes avec des gances &amp; des boutons,
+des guipures, <i>&amp;c.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

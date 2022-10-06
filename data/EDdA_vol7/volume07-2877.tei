@@ -1,0 +1,134 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30331" id="55:8:1" vol="7">
+<index type="head" value="Grêle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Grêle</head>
+<p>
+<sc>Grêle</sc>, <i>terme de Chirurgie</i>, maladie des paupieres ;
+c&#39;est une petite tumeur ronde, mobile, dure, blanche,
+assez semblable à un grain de <i>grêle</i>.
+</p>
+<p>
+La matiere qui forme ces sortes de tumeurs est si
+épaisse, qu&#39;on ne doit rien espérer des remedes qu&#39;on 
+proposeroit pour ramollir cette humeur : ce n&#39;est
+point une maladie dangereuse, mais elle est très-incommode quand la <i>grêle</i> est sous la membrane interne
+des paupieres. L&#39;opération est l&#39;unique ressource, &amp;
+elle doit se pratiquer différemment suivant le siége
+de la tumeur.
+</p>
+<p>
+Quand elle est à la superficie extérieure de l&#39;une
+<milestone unit="column" n="2" />
+ou de l&#39;autre paupiere, on étend avec les doigts la
+peau de la paupiere d&#39;un angle à l&#39;autre, afin d&#39;affermir 
+la <i>grêle</i> sur laquelle on fait une incision suffisante 
+selon la longueur de la paupiere. On fait sauter 
+le grain avec une petite curette. Le pansement
+doit être des plus simples, c&#39;est une plaie qui se réunit
+d&#39;elle-même, &amp; qui seroit indifférente au bon ou au
+mauvais traitement. Lorsque la <i>grêle</i> est en-dedans,
+après avoir situé commodément le malade, on renverse 
+la paupiere pour découvrir la maladie ; il faut
+inciser jusqu&#39;au grain : mais à la paupiere inférieure,
+la direction de l&#39;incision doit être d&#39;un angle à
+l&#39;autre, comme pour l&#39;extérieur : au contraire à la
+paupiere supérieure, l&#39;incision doit être longitudinale.
+Ce sont les connoissances anatomiques qui prescrivent 
+ces différences : par une incision transversale,
+on pourroit couper les fibres du releveur de la
+paupiere supérieure, en opérant sans attention sous
+cette partie. Le pansement consiste à défendre l&#39;oeil
+de l&#39;inflammation : ce qu&#39;on obtient aisément par le
+régime, &amp; par l&#39;application des collyres convenables.
+(<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

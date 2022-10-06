@@ -1,0 +1,134 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29858" id="53:276:1" vol="7">
+<index type="head" value="Gorge" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit. &amp; Fortifications." />
+<index type="normclass" value="Fortifications | Art militaire" />
+<index type="englishclass" value="Fortifications | Military Arts" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="NA" />
+<head>Gorge</head>
+<p>
+<sc>Gorge</sc>, (<i>Art milit. &amp; Fortifications.</i>) en termes
+de Fortification, est l&#39;entrée du bastion, des demi-lunes,
+ou autres ouvrages extérieurs. <i>Voyez</i> <sc><ref target="head:Bastion" type="search">Bastion</ref>, <ref target="head:Demi-Lune" type="search">Demi-Lune</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+La <i>gorge</i> d&#39;un bastion est ce qui reste des côtés du
+polygone intérieur de la place, après qu&#39;on en a retranché 
+les courtines : dans ce cas, il se fait un angle
+au centre du bastion ; tel est l&#39;angle <i>F K L, <ref target="XPL:5346" type="platelink">Pl. I</ref>. de
+Fortification, <ref target="XPL:5347" type="platelink">fig. 1</ref>. Voyez</i> 
+<sc><ref target="head:Angle du centre du Bastion" type="search">Angle du centre du Bastion</ref></sc>. Aux bastions plats, c&#39;est une ligne droite
+sur la courtine qui communique d&#39;un flanc à l&#39;autre.
+</p>
+<p>
+Il est avantageux que la <i>gorge</i> du bastion soit grande,
+pour augmenter la capacité du bastion. <i>Voyez</i>
+<sc><ref target="head:Demi-Gorge" type="search">Demi-Gorge</ref></sc>.
+</p>
+<p>
+La <i>gorge</i> d&#39;une demi-lune est la partie de la contrescarpe 
+sur laquelle elle est construite.
+</p>
+<p>
+La <i>gorge</i> des autres ouvrages extérieurs, est l&#39;espace 
+qui est entre leur flanc attenant le fossé; ou c&#39;est
+la partie qui les termine du côté de la place.
+</p>
+<p>
+Toutes les <i>gorges</i> doivent être sans parapet, parce
+que les assiégeans après s&#39;en être rendus maîtres,
+s&#39;en serviroient pour se mettre à couvert des coupe
+de la place : on se contente de les fortifier avec des
+palissades, pour éviter une surprise.
+</p>
+<p>
+<i>Demi-gorge</i> est la partie du polygone qui est depuis 
+le flanc jusqu&#39;au centre du bastion, comme <i>FK.
+Voyez</i> <sc><ref target="head:Demi-Gorge" type="search">Demi-Gorge</ref></sc>. <i>Chambers</i>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

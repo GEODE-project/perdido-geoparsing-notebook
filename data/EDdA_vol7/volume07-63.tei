@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27516" id="48:32:1" vol="7">
+<index type="head" value="Foliot" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Serrurerie." />
+<index type="normclass" value="Serrurerie" />
+<index type="englishclass" value="Locksmithing" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="NA" />
+<head>Foliot</head>
+<p>
+<sc>* Foliot</sc>, (<i>Serrurerie.</i>) c&#39;est la partie du ressort
+qui pousse le demi-tour dans les serrures à tour &amp;
+demi ou autres, comme il se voit dans nos <ref target="XPL:4710" type="platelink">Planches
+de Serrurerie</ref>, ce <i>foliot</i> monté sur une broche quarrée 
+qui passe à travers le palâtre, &amp; la couverture
+de la serrure, &amp; aux extrémités duquel sont des boutons 
+pour ouvrir dehors &amp; dedans. Aux serrures où
+<pb n="7:45" facs="V7/ENC_7-45.jpeg" />
+<milestone unit="column" n="1" />
+il n&#39;y a point de double bouton, le bouton à coulisse 
+qui est sur le palâtre de la serrure sert pour ouvrir 
+en-dedans, &amp; on ouvre par-dehors avec la clé
+comme on voit dans les serrures ordinaires. Vous
+trouverez dans nos <ref target="XPL:4711" type="platelink">Planches une serrure benarde</ref>,
+vûe du côté du palastre ; <i>D</i> est le bouton à coulisse
+monté sur le pêle, &amp; faisant ouvrir le demi tour,
+au lieu de la broche dont nous avons parlé. On voit
+la même forme du côté de la couverture qu&#39;on a
+supprimée, afin de découvrir toutes les pieces qui la
+composent ; <i>k</i> est <i>foliot</i> ; <i>l</i> la tête du <i>foliot</i> ; &amp; dans
+le reste des figures, <i>l, m, n</i>, représentent les différentes 
+parties d&#39;un <i>foliot ; l</i> le canon, <i>m</i> l&#39;epaulement,
+<i>n</i> le talon, <i>s</i> le <i>foliot</i> enlevé.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

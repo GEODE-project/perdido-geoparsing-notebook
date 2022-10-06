@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29538" id="53:47:1" vol="7">
+<index type="head" value="Gibeciere, (tours de) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art d&#39;escamotage" />
+<index type="normclass" value="Art d&#39;escamotage" />
+<index type="englishclass" value="Sleight of hand" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="NA" />
+<head>Gibeciere</head>
+<p>
+<sc>Gibeciere</sc>, (<i>tours de</i>) <i>Art d&#39;escamotage ;</i> terme
+général qui comprend tous les tours de gobelets, les
+tours de main, les tours de cartes, &amp; autres de ce
+genre. On les nomme <i>tours de gibeciere</i>, parce que les
+faiseurs de ces sortes de tours ont à leur ceinture
+une espece de gibeciere, <i>schibbeker</i>, comme disent
+les Allemands, ou une espece de sac destiné à serrer
+leurs gobelets, leurs balles, &amp; le reste de l&#39;attirail
+nécessaire à leur escamotage. <i>Voyez</i> <sc><ref target="head:Tours" type="search">Tours</ref></sc> <i>de main</i>,
+<sc><ref target="head:Tours" type="search">Tours</ref></sc> <i>de cartes</i>, <sc><ref target="head:Tours" type="search">Tours</ref></sc> <i>de gobelets</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

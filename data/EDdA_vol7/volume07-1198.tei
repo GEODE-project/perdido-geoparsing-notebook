@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28652" id="51:24:7" vol="7">
+<index type="head" value="Fust" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="outil de Relieur" />
+<index type="normclass" value="Relieur" />
+<index type="englishclass" value="Bookbinder" />
+<index type="generatedclass" value="Relieur" />
+<index type="pos" value="NA" />
+<head>Fust</head>
+<p>
+<sc>Fust</sc>, <i>outil de Relieur ;</i> il est composé de deux pieces,
+chacune de cinq pouces &amp; demi de hauteur, de
+neuf de longueur, sur deux d&#39;épaisseur, à l&#39;une desquelles 
+sont attachées deux clés, chacune de vingt
+pouces de long sur un en quarré, qui traversent l&#39;autre 
+morceau en entier : cette piece s&#39;appelle la <i>piece
+de devant ;</i> elle est percée d&#39;un trou dans le milieu où
+passe une vis de vingt-six pouces de long, y compris
+la main qui doit être de six pouces. Cette vis passe
+dans un trou vissé de la piece de derriere, qui répond
+directement au trou de la piece de devant. Il y a de
+plus sous la piece de devant une entaille pour y placer 
+un couteau plat &amp; large dont la pointe coupe des
+deux côtés : ce couteau est perce dans le manche d&#39;un
+trou quarré qui sert à y placer une vis de fer à tête
+plate, qui passe au-travers de la piece du devant,
+&amp; y est assujetti au-dessus par un écrou de fer bien
+serré. Il y a sous la piece de derriere une rainure à
+queue d&#39;aronde dans toute la longueur de la piece
+dans laquelle on fait entrer la tringle, qui est taillée
+de même, &amp; qui est sur la piece de derriere de la
+presse à rogner, afin qu&#39;elle dirige bien droit le <i>fust</i>
+lorsque l&#39;ouvrier rogne les livres. Le jeu de la vis est
+aisé, afin que la main puisse aisément rapprocher les
+deux pieces à mesure que le couteau travaille, &amp;
+qu&#39;il le conduise sans le déranger jusqu&#39;à la fin de cette 
+opération. <i>Voyez les figures du Relieur, &amp; leur explication.
+Voyez</i> <sc><ref target="head:Rogner" type="search">Rogner</ref></sc>.
+</p>
+<p>
+L&#39;ouvrier qui se sert du <i>fust</i> doit avoir la main gauche 
+sur le bout &amp; la main droite sur la poignée de la
+vis, qui fait aller &amp; venir les deux pieces du <i>fust</i> en
+les serrant l&#39;une contre l&#39;autre. En rognant, il tourne
+avec la main la vis dans le sens qui fait avancer le couteau,
+en observant que son ouvrage se fasse si uniment 
+sur la tranche, qu&#39;il n&#39;y ait aucun sillonnage du
+couteau.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

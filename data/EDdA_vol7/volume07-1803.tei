@@ -1,0 +1,113 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29257" id="52:84" vol="7">
+<index type="head" value="GEHENNE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théolog." />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.f." />
+<head>GEHENNE</head>
+<p>
+* GEHENNE, s. f. (<i>Théolog.</i>) terme de l&#39;Ecriture
+qui a fort exercé les critiques ; il vient de l&#39;hébreu
+<i>gehinnon</i>, c&#39;est-à-dire <i>la vallée de Hinnon:</i> cette vallée 
+étoit dans le voisinage de Jérusalem ; &amp; il y avoit
+un lieu appellé <i>tophet</i>, où des Juifs alloient sacrifier
+à Moloch leurs enfans qu&#39;on faisoit passer par le feu.
+Pour jetter de l&#39;horreur sur ce lieu &amp; sur cette superstition,
+le roi Josias en fit un cloaque où l&#39;on portoit
+les immondices de la ville &amp; les cadavres auxquels
+on n&#39;accordoit point de sepulture ; &amp; pour consumer
+l&#39;amas de ces matieres infectes, on y entretenoit un
+feu continuel. Ainsi en rapportant au mot <i>gehenne</i>
+toutes ces idées, il signifieroit une <i>caverne</i> remplie
+de matieres viles &amp; méprisables, consumées par un
+feu qui ne s&#39;éteint point ; &amp; par une métaphore assez
+legere, on l&#39;auroit employé à désigner le lieu où les
+damnés seront détenus.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

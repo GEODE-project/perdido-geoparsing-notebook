@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27737" id="49:27:2" vol="7">
+<index type="head" value="Forger" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Manége &amp; Maréch." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Forger</head>
+<p>
+<sc>Forger</sc>, (<i>Manége &amp; Maréch.</i>) <i>Cheval qui forge</i>,
+cheval qui dans l&#39;action du pas, &amp; le plus souvent
+dans celle du trot, atteint ou frappe avec la pince
+des piés de derriere les éponges, le milieu, ou la
+voûte de ses fers de devant. Ce défaut que l&#39;on distingue 
+aisément à l&#39;oüie d&#39;une infinité de heurts répétés,
+est d&#39;autant plus considérable, que communément 
+il annonce la foiblesse de l&#39;animal : aussi ne
+doit-on pas être étonné de rencontrer des poulains
+qui <i>forgent</i>. Il provient aussi de la ferrure, quelquefois 
+de l&#39;ignorance du cavalier, qui, bien loin de
+soûtenir son cheval, le précipite indiscretement en-avant 
+&amp; sur les épaules, &amp; le met par conséquent
+dans l&#39;impossibilité de lever les piés de devant assez
+tôt, pour qu&#39;ils puissent faire place à ceux de derriere 
+qui les suivent. La premiere de ces causes ne
+nous laisse l&#39;espoir d&#39;aucune ressource : l&#39;art en effet
+ne nous en offre point, quand il s&#39;agit d&#39;un vice qui
+procede de la débilité naturelle de la machine. A
+l&#39;égard de ceux que notre impéritie occasionne, il
+est aisé d&#39;y remédier. <i>Voyez</i> <sc><ref target="head:Soûtenir" type="search">Soûtenir</ref> <i>&amp;</i> <ref target="head:Ferrure" type="search">Ferrure</ref></sc>. (<i>e</i>).
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

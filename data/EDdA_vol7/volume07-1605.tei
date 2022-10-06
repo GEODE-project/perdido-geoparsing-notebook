@@ -1,0 +1,218 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29059" id="51:235:66" vol="7">
+<index type="head" value="Gardes des Sceaux des Chancelleries présidiales ou des Présidiaux" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gardes des Sceaux des Chancelleries</head>
+<p>
+<sc>Gardes des Sceaux des Chancelleries
+présidiales</sc> <i>ou</i> <sc>des Présidiaux</sc>, sont des officiers 
+qui ont la <i>garde du sceau</i> dont on scelle toutes les
+expéditions des chancelleries présidiales &amp; les jugemens 
+des présidiaux.
+</p>
+<p>
+Henri Il. ayant établi en 1551 des siéges présidiaux 
+dans plusieurs villes du royaume, avoit alors
+laissé aux greffiers des présidiaux la <i>garde du scel</i>, ordonnés 
+pour sceller les expéditions de ces nouveaux
+tribunaux : mais comme ces greffiers n&#39;avoient pas
+communément les connoissances nécessaires pour
+juger du mérite des requêtes civiles &amp; autres lettres
+qui leur étoient présentées pour sceller, Henri II. par
+édit du mois de Décembre 1557, établit des conseillers 
+<i>gardes des sceaux</i> près des présidiaux : il ordonna
+que quant aux lettres de chancellerie qui ne peuvent
+être concédées que par S. M. comme requêtes civiles,
+propositions d&#39;erreur, restitutions en entier, relief 
+d&#39;appel, desertions, anticipations, acquiescemens,
+&amp; autres semblables, qui ont accoûtumé être
+dépêchées ès chancelleries au nom du roi, seroient
+dépêchées par les <i>gardes des sceaux</i> des présidiaux, signées 
+&amp; expédiées par les secrétaires du roi, &amp; en
+leur absence par le greffier d&#39;appeaux de chaque
+siége présidial, ou par leur commis.
+</p>
+<p>
+Il fut ordonné que ces expéditions seroient scellées
+de cire jaune, d&#39;un scel qui seroit fabriqué aux armes
+du roi à trois fleurs-de-lis, qui seroient de moindre
+grandeur que celles des autres chancelleries ; &amp;
+qu&#39;autour de ce sel seroit écrit, <i>le scel royal du siége
+présidial de la ville de</i>, &amp;c.
+</p>
+<p>
+La <i>garde de ce scel</i> est attribuée à un conseiller &amp;
+<i>garde des sceaux</i> créé par cet édit dans chaque présidial,
+avec les mêmes droits que les autres conseillers.
+</p>
+<p>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Il fut en même tems créé un clerc &amp; commis à
+l&#39;audience, pour sceller les expéditions &amp; recevoir
+les émolumens provenans dudit scel.
+</p>
+<p>
+Le roi déclare néanmoins que par l&#39;attribution
+faite aux <i>gardes des sceaux des présidiaux</i>, il n&#39;entend
+point empêcher ses sujets de se pourvoir pour les
+lettres dont ils auront besoin en la grande chancellerie 
+ou en celles établies près les cours de parlement,
+comme ils faisoient auparavant.
+</p>
+<p>
+Il déclare aussi que par cet édit il n&#39;entend point
+préjudicier aux droits, prééminences, &amp; autorités,
+tant des maîtres des requêtes que des secrétaires du
+roi, lesquels il veut demeurer dans le même ordre
+qu&#39;ils ont tenu ci-devant avec les officiers des cours
+&amp; siéges présidiaux.
+</p>
+<p>
+Ces <i>gardes des sceaux</i> furent supprimés, ainsi que
+les clercs commis à l&#39;audience, par un édit du mois
+de Février 1561, qui permit néanmoins à ceux qui
+étoient pourvûs de ces offices, d&#39;en joüir leur vie
+durant, à-moins qu&#39;ils ne fussent plûtôt remboursés.
+</p>
+<p>
+Le même édit ordonna qu&#39;après la suppression de
+ces <i>gardes des sceaux</i> par mort ou remboursement, le
+sceau seroit tenu par les lieutenant général, particulier,
+&amp; conseillers présidiaux, chacun par mois &amp;
+l&#39;un après l&#39;autre, à commencer par le lieutenant
+général ; que le lieutenant ou conseillers qui tiendront 
+le sceau, auront la <i>garde</i> du coffre, &amp; le fermier,
+la clé.
+</p>
+<p>
+Les troubles survenus dans le royaume furent
+cause que cet édit fut mal observé; de sorte que l&#39;usage 
+ne fut pas par tout uniforme : mais Henri III. par
+édit du mois de Février 1575, rétablit les conseillers-<i>gardes des sceaux</i>, 
+dans les présidiaux près desquels il
+y a une chancellerie présidiale, conformément à
+l&#39;édit de 1561.
+</p>
+<p>
+Enfin par un édit du mois de Juin 1715, tous les
+offices de conseillers-<i>gardes des sceaux</i> ou de conseillers-<i>gardes-scel</i>, par quelques edits qu&#39;ils eussent été
+créés, tant dans les chancelleries près les cours, que
+dans les chancelleries présidiales, furent supprimés ;
+&amp; par le même édit, il fut créé dans chaque chancellerie 
+présidiale, un nouvel office de conseiller du
+roi <i>garde-scel</i>, avec le privilége de noblesse au premier 
+degré, en considération de l&#39;honneur qu&#39;il a
+d&#39;être dépositaire du sceau du roi, pour en joüir par
+les pourvûs, leurs veuves &amp; descendans, comme les
+officiers des chancelleries près les cours. L&#39;édit les
+décharge de toute recherche pour la noblesse ; leur
+accorde droit de <i>committimus</i>, exemption de logement
+de gens de guerre, tutele, curatelle, guet &amp; <i>garde</i>.
+</p>
+<p>
+En conséquence de cet édit, les conseillers-<i>gardes-scel</i> des présidiaux font dans les chancelleries présidiales 
+les mêmes fonctions que les <i>gardes des sceaux</i>
+des chancelleries établies près les cours, font dans
+ces chancelleries.
+</p>
+<p>
+Par un arrêt du conseil du 22 Janvier 1697, ils
+ont été maintenus dans le droit de sceller tous les
+actes, sentences, &amp; jugemens rendus dans les cas
+présidiaux. A l&#39;égard des sentences, jugemens, &amp; actes 
+des bailliages &amp; sénéchaussées auxquels les présidiaux 
+sont joints, ils doivent être scellés par les conseillers 
+<i>gardes-scels</i> des bailliages &amp; sénéchaussées,
+suivant l&#39;édit du mois de Novembre 1696. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

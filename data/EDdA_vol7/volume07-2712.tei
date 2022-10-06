@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30166" id="54:75" vol="7">
+<index type="head" value="GRASSEYER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Cahusac" />
+<index type="shortauth" value="Cahusac" />
+<index type="kafnum" value="29" />
+<index type="kafauth" value="Cahusac, Louis de (1706-1759)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chant. Voix." />
+<index type="normclass" value="Chant | Voix" />
+<index type="englishclass" value="Song. Voice" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="v.neut." />
+<head>GRASSEYER</head>
+<p>
+GRASSEYER, v. neut. (<i>Chant. Voix.</i>) c&#39;est changer 
+par une prononciation d&#39;habitude ou naturelle,
+le son articulé de la voix : ainsi on <i>grasseye</i>, lorsqu&#39;on prononce les <i>c</i>, les <i>d</i>, en <i>t</i>, les doubles <i>ll</i> en <i>y ;</i>
+ou lorsqu&#39;on croasse de la gorge la lettre <i>r</i>, ensorte
+qu&#39;on la fait précéder d&#39;un <i>c</i> ou d&#39;un <i>g. Voyez</i> <sc><ref target="head:Grasseyement" type="search">Grasseyement</ref></sc>. C&#39;est le plus souvent par l&#39;habitude qu&#39;on 
+acquiert ce défaut très-desagréable.
+</p>
+<p>
+Les enfans ont presque tous le grasseyement du <i>c</i>
+&amp; du <i>d</i>, ainsi que celui des doubles <i>l ;</i> ils le quittent 
+cependant avec facilité, &amp; l&#39;on ne dit plus,
+lorsqu&#39;on est bien élevé, <i>tompagnie</i> pour <i>compagnie</i>,
+ni <i>Versayes</i> pour <i>Versailles. Voyez l&#39;article L</i>. Les soins
+des précepteurs, quand ils le veulent, réparent sans
+peine le vice qu&#39;ont donné ou laissé les complaisances 
+des gouvernantes : on n&#39;est pas si attentif sur le
+grasseyement de <i>r</i>, sur-tout pour les filles, dont on
+espere de l&#39;agrément ; on le regarde alors en les gâtant,
+comme une mignardise, &amp; on ne corrige point
+ce défaut, par la fausse persuasion qu&#39;il est un surcroît 
+de graces. <i>Voyez</i> <sc><ref target="head:Grasseyement" type="search">Grasseyement</ref></sc>, <i>&amp; l&#39;article</i> R.
+</p>
+<p>
+Mais il faut toûjours en revenir aux principes : la
+prononciation ne peut être bonne, que lorsqu&#39;elle
+est sans défaut. Ainsi dans l&#39;éducation des enfans, on
+ne peut trop veiller à la correction des défauts de
+la voix, de la prononciation, &amp; du ton que leurs organes 
+prennent souvent de leurs différens entours:
+dans ces momens, le plus petit défaut devient successivement 
+un desagrément ; &amp; dans un âge plus
+avancé, lorsqu&#39;on entre dans le monde, le ton qu&#39;on
+a pris dans les premiers ans produit des effets presque 
+aussi prompts que ceux qu&#39;on voit produire au
+premier abord à certaines physionomies. (<i>B</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

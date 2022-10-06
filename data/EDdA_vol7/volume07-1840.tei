@@ -1,0 +1,367 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29294" id="52:113" vol="7">
+<index type="head" value="GENCIVE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Anatomie" />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.f." />
+<head>GENCIVE</head>
+<p>
+GENCIVE, s. f. <i>en Anatomie</i>, se dit de la chair
+ferme &amp; immobile, qui occupe le dessus des alvéoles
+ou petits trous, dans lesquels les dents sont comme
+enchâssées. <i>Voyez</i> <sc><ref target="head:Dent" type="search">Dent</ref></sc>.
+</p>
+<p>
+<i>Maladies chirurgicales des gencives</i>. Les personnes
+saines ont les <i>gencives</i> fermes, vermeilles, &amp; bien
+collées autour de la couronne de chaque dent, dont
+elles fortifient l&#39;union dans l&#39;alvéole. Les <i>gencives</i> sont
+sujettes à se tuméfier dans différentes affections contre 
+nature ; elles deviennent lâches &amp; molles, quelquefois 
+elles s&#39;enflamment &amp; deviennent noirâtres ;
+elles s&#39;ulcerent &amp; exhalent une odeur putride &amp; gangreneuse : c&#39;est ce qu&#39;on voit principalement dans le
+scorbut.
+</p>
+<p>
+Lorsque le vice des <i>gencives</i> vient de la mauvaise
+disposition du sang, il faut y remédier en attaquant
+la cause par les remedes convenables. <i>Voyez</i> <sc><ref target="head:Cachexie" type="search">Cachexie</ref> <i>&amp;</i> <ref target="head:Scorbut" type="search">Scorbut</ref></sc>. Les remedes topiques ne doivent 
+pas être négligés. Dans la tension inflammatoire
+des <i>gencives</i>, on se sert de gargarismes adoucissans &amp;
+relâchans : lorsqu&#39;elles sont molles, blanches &amp; disposées 
+à l&#39;extubérance, on met en usage les gargarismes 
+fortifians &amp; astringens : si elles sont gonflées
+&amp; engorgées de sang à un certain point, on est obligé 
+de les scarifier avec une lancette, pour en procurer 
+le dégorgement ; on met alors en usage les gargarismes 
+vulnéraires. Dans le gonflement scorbutique 
+sans ulcération, lorsqu&#39;il est leger, le suc des limons 
+est un excellent topique. L&#39;eau-de-vie camphrée 
+fortifie les <i>gencives</i>, &amp; est fort utile contre la
+disposition à l&#39;ulcération putride ; &amp; dans le cas d&#39;ulcération 
+gangreneuse, on a recours aux anti-putrides, parmi lesquels l&#39;esprit de cochléaria, la teinture<gap type="hyphenpb" />
+<pb n="7:546" facs="V7/ENC_7-546.jpeg" />
+<milestone unit="column" n="1" />
+de gomme laque, <i>&amp;c.</i> sont fort recommandés.
+</p>
+<p>
+Fabrice d&#39;Aquapendente prescrit de cautériser legerement,
+avec un fer mince, les <i>gencives</i> tuméfiées,
+livides &amp; pourries ; il les frottoit ensuite avec du
+miel, &amp; faisoit gargariser avec du vin miellé.
+</p>
+<p>
+Il survient quelquefois autour des dents une excroissance 
+charnue, dont il a été parlé <i>au mot</i> <sc><ref target="head:Epulide" type="search">Epulide</ref></sc>. Pour completer cet article, nous dirons que
+de tous les moyens proposés, l&#39;extirpation par l&#39;instrument 
+tranchant est le plus convenable ; mais que
+pour obtenir la guérison parfaite de cette tumeur, il
+faut presque toûjours la cautériser. Les épulis sont
+susceptibles de grossir au point d&#39;empêcher le malade 
+de parler &amp; de manger. Ambroise Paré dit en
+avoir emporté de si considérables, qu&#39;elles sortoient
+en partie de la bouche, &amp; qu&#39;il a été obligé de cautériser 
+à différentes fois la racine de la tumeur, parce 
+qu&#39;elle répulluloit ; il n&#39;a obtenu la consolidation
+parfaite de l&#39;ulcere, qu&#39;après avoir détruit la portion 
+cariée de l&#39;os maxillaire, sur laquelle cette excroissance 
+avoit végété.
+</p>
+<p>
+La carie de l&#39;os est presque toûjours la cause ou
+l&#39;effet des épulis. La plûpart des observations qu&#39;on
+a sur cette maladie, montrent que la carie de la dent
+en est fréquemment la premiere cause, comme nous le
+remarquerons plus bas. Job à Meerkréen fameux chirurgien 
+d&#39;Amsterdam, rapporte qu&#39;un homme vigoureux 
+&amp; de la meilleure constitution, se fractura la
+mâchoire inférieure par une chûte. Il survint une
+excroissance songueuse, du volume du poing ; elle
+empêchoit le malade de parler &amp; de manger, &amp; le
+rendoit fort difforme. L&#39;amputation de cette tumeur
+parut indispensable ; mais l&#39;opérateur voyant en
+commençant son incision qu&#39;il ne sortoit pas une
+goutte de sang, il jugea qu&#39;il falloit nécessairement
+procéder à l&#39;extirpation éradicative de la tumeur ;
+ce qui fut exécuté sur le champ. L&#39;ouverture de la
+bouche n&#39;étoit point assez grande pour permettre
+l&#39;issue de cette excroissance ; il fallut la couper ensuite 
+pour la tirer en différentes parties. On se servit
+de gargarismes vulnéraires &amp; détersifs, convenables
+à la mondification de l&#39;os carié. Le surlendemain de
+l&#39;opération, on sentit deux esquilles vacillantes, &amp;
+assez fortes ; on en fit l&#39;extraction, &amp; le malade guérit 
+en très-peu de tems.
+</p>
+<p>
+Il est à-propos que les Chirurgiens soient prévenus 
+que l&#39;amputation des épulis peut être accompagnée 
+d&#39;une hémorrhagie assez considérable. L&#39;auteur
+que je viens de citer, en donne un exemple remarquable.
+Une jeune demoiselle étoit sujette à des fluxions 
+à la tête, aux oreilles, &amp; aux dents. Il lui survint 
+au palais une tumeur blanchâtre, grosse comme
+un gland, qu&#39;on crut pleine de pas. L&#39;ouverture ne
+donna issue qu&#39;à du sang vermeil, &amp; en grande quantité.
+L&#39;hémorrhagie fut arrêtée par une compression
+avec le doigt, continuée assez long-tems. Cinq ou
+six jours après, la tumeur avoit acquis un volume
+plus considétable qu&#39;auparavant ; personne ne doutoit 
+plus qu&#39;elle ne contînt véritablement du pus : on
+en fit l&#39;ouverture ; le sang sortit avec beaucoup d&#39;impétuosité 
+&amp; d&#39;abondance. On se servit de linge brûlé
+pour arrêter cette seconde hémorrhagie, &amp; l&#39;on ne
+jugea plus devoir revenir à l&#39;opération, qu&#39;après
+qu&#39;on auroit des signes certains de purulence. Pour
+la procurer, l&#39;on fit user de gargarismes avec la décoction 
+d&#39;oignons de lis &amp; de racines d&#39;althaea, de
+feuilles de mauve &amp; de guimauve, de graines de lin
+&amp; de figues ; on ajoûtoit une once de sirop d&#39;althaea
+à une livre de cette décoction. La malade en tenoit
+fréquemment dans sa bouche : la tumeur diminua de
+volume, elle s&#39;ouvrit d&#39;elle-même ; mais la guérison
+ne fut parfaite qu&#39;après l&#39;exfoliation de l&#39;os.
+</p>
+<p>
+Scultet parle d&#39;une excroissance fongueuse à la
+partie antérieure du palais, derriere les dents incisives,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+qui rendoit du sang abondamment, pour peu
+que la malade la poussât avec la langue. Il fit diminuer 
+cette tumeur en la touchant avec un mélange
+d&#39;esprit de vitriol rectifié, de suc de pourpier, &amp; de
+teinture de roses : il extirpa le reste en l&#39;arrachant
+avec des pinces à polype ; la cure fut terminée radicalement 
+en dix jours. Dans ce dernier cas, l&#39;os
+n&#39;étoit point altéré; mais s&#39;il y avoit carie, il faudroit 
+après l&#39;extirpation avoir recours au cautere
+actuel. Ruisch rapporte, dans la quarante-huitieme
+de ses observations anatomiques &amp; chirurgicales,
+une très-elle cure d&#39;une excroissance fongueuse au
+palais, avec carie de l&#39;os maxillaire, &amp; opérée par
+les moyens que je viens de citer.
+</p>
+<p>
+La carie des dents produit souvent des maladies
+du sinus maxillaire, qui s&#39;annoncent quelquefois par
+une tumeur fongueuse aux <i>gencives</i>. Une femme, au
+rapport de Ruisch, <i>observat. 77.</i> étoit très-mal d&#39;une
+tumeur à la joue, avec excroissance maligne aux
+<i>gencives</i>. Après l&#39;extirpation de cette excroissance &amp;
+l&#39;arrachement de quelques dents molaires, d&#39;habiles
+chirurgiens porterent le cautere actuel jusque dans
+le sinus maxillaire, dont on tira quelques jours après
+avec le petit doigt, quantité de tubercules polypeux
+de la grosseur d&#39;un pois ou environ.
+</p>
+<p>
+La carie des dents étant la cause la plus fréquente
+des maladies du sinus maxillaire, leur extraction, si
+bien indiquée par le mal même dont elles sont attaquées,
+devient aussi nécessaire par le traitement des
+maladies du sinus : on peut même arracher une dent
+saine pour procurer l&#39;issue du pus &amp; déterger le sinus.
+Drake chirurgien anglois, traitant un homme qui
+avoit un ozene dont le siége étoit dans le sinus maxillaire,
+voyant que la matiere acre &amp; purulente ne
+sortoit par le nez qu&#39;en très-petite quantité, lorsque
+le malade étoit couché sur le côté sain, il prit le parti
+de tirer la seconde des dents molaires ; il perça ensuite 
+avec un instrument convenable, le fond de
+l&#39;alvéole, &amp; parvint ainsi dans le sinus même. La
+matiere prit son cours de ce côté; on fit des injections 
+spiritueuses, &amp; le malade guérit radicalement.
+</p>
+<p>
+Il peut rester à la suite de l&#39;extraction d&#39;une dent
+par l&#39;alvéole, de laquelle on a pénétré dans le sinus,
+un écoulement de sérosité muqueuse, fournie par les
+tuyaux excréteurs de la membrane qui tapisse le sinus.
+Higmar, qui a décrit avec tant d&#39;exactitude le
+sinus maxillaire, qu&#39;on a donné son nom à ce sinus,
+dit qu&#39;une dame avoit un écoulement continuel d&#39;une 
+humeur séreuse à la suite de l&#39;extraction d&#39;une dent
+canine, avec laquelle une portion de la mâchoire
+supérieure fut emportée, de sorte qu&#39;il y avoit un
+passage libre dans le sinus. Cette dame fut un jour
+fort effrayée en cherchant l&#39;origine de cet écoulement. Elle introduisit un stilet d&#39;argent dans l&#39;alvéole,
+&amp; il entra jusque vers l&#39;orbite ; elle prit ensuite 
+une petite plume dont elle avoit ôté les barbes,
+&amp; la passa presque toute entiere dans le sinus, quoiqu&#39;elle cût plus de six travers de doigts de longueur:
+elle croyoit l&#39;avoir portée jusqu&#39;au cerveau. Higmar
+qu&#39;elle consulta, reconnut que la plume avoit tourné 
+en spirale dans le sinus, &amp; il la tranquillisa en lui
+faisant voir l&#39;étendue de cette cavité sur un os maxillaire 
+préparé; mais il ne donna aucun conseil sur l&#39;incommodité 
+dont cette personne se plaignoit.
+</p>
+<p>
+J&#39;ai vû au mois de Mai 1751, avec M. Morand, une
+dame de 45 à 50 ans, à qui l&#39;on avoit arraché dix ans
+auparavant la premiere dent molaire de la mâchoire
+supérieure du côté droit. La racine étoit restée, ou
+du-moins la pointe de la racine. Il y avoit dix mois,
+que fatiguée de douleurs &amp; de fluxions, accompagnées 
+d&#39;une issue de pus fétide par le nez dont quelques 
+gouttes coulerent enfin par l&#39;alvéole de la dent
+arrachée, cette dame consulta à Compiegne M. de la
+<pb n="7:547" facs="V7/ENC_7-547.jpeg" />
+<milestone unit="column" n="1" />
+Martiniere &amp; différens medecins &amp; chirurgiens de la
+cour. M. le premier chirurgien conseilla l&#39;extraction
+de la seconde molaire, quoiqu&#39;elle fût saine. M. Capperon dentiste du roi, extirpa la dent ; il sortit beaucoup 
+de pus par l&#39;alvéole : il est resté une ouverture
+dont il distilloit une eau salée. Cette dame se plaignoit
+qu&#39;en se mouchant, l&#39;air entroit par l&#39;alvéole dans
+le sinus maxillaire, &amp; l&#39;incommodoit. Nous avons
+sondé ce trou, &amp; avons jugé que les parties molles
+qui en tapissent la circonserence &amp; l&#39;interieur, étant
+bien consolidées, ce trou ne se fermeroit jamais naturellement,
+&amp; qu&#39;on pouvoit obtenir le bon effet
+d&#39;une réunion parfaite par l&#39;usage d&#39;un bouchon de
+cire.
+</p>
+<p>
+J&#39;ai lû depuis dans le quatrieme volume du recueil
+de dissertations anatomiques, publié par M. de Haller, une these de M. Reininger sur les cavités des os
+de la tête ; il y donne une observation de M. Trew,
+laquelle a beaucoup de rapport avec le cas dont je
+viens de parler. Un homme de quarante ans étoit
+tourmente depuis plusieurs années d&#39;une douleur de
+dents, avec un gonflement de la joue. La troisieme
+dent molaire étoit entierement cariée, &amp; il y avoit
+à sa base un trou dans lequel le stilet entroit de la longueur 
+d&#39;un travers de doigt. L&#39;application d&#39;un cataplasme 
+émollient sur la tumeur, determina une suppuration 
+par ce trou ; on arracha la dent, &amp; il sortit
+beaucoup de matieres purulentes, dont le foyer étoit
+dans le sinus. Les injections qu&#39;on y fit pour le mondifier,
+sortoient en partie par le nez, lorsque le malade 
+panchoit la téte en-devant. L&#39;ouverture de l&#39;os
+ne se consolida point ; &amp; pour empêcher les alimens
+&amp; l&#39;air de pénetrer dans le sinus &amp; d&#39;incommoder, on
+conseilla un obturateur fait avec de la cire, à laquelle
+on ajoûtoit de la poudre de corail, afin de lui donner
+plus de consistance. Par ce moyen la personne n&#39;a
+plus éprouvé la moindre incommodité. Scultet a tenté 
+avec succès l&#39;application du cautere actuel pour
+obtenir une cure absolument radicale dans un cas de
+cette nature. Il avoit fait des injections dans le sinus
+maxillaire, après l&#39;extraction d&#39;une dent cariée : ennuyé 
+de ce que l&#39;ouverture ne se fermoit point, il
+porta un fer rouge dans l&#39;alvéole, &amp; en cautérisa
+assez fortement la circonférence. A la chûte de l&#39;escarre,
+l&#39;os lui parut carié; il le toucha trois ou quatre
+fois avec les fers chauds, &amp; se servit de remedes
+dessicatifs : après l&#39;exfoliation, l&#39;ulcere se consolida
+fort exactement. Si l&#39;auteur ne s&#39;est pas mépris sur la
+carie, en prenant pour une altération primitive ce
+qui n&#39;étoit que l&#39;effet du cautere actuel &amp; de la chûte
+de l&#39;escarre, il auroit épargné de la douleur à son
+malade, en lui faisant porter un obturateur, comme
+dans les cas précédens.
+</p>
+<p>
+Quand la maladie du sinus manifestée par les signes 
+propres, n&#39;est point accompagnée de dent cariée,
+c&#39;est la troisieme molaire qu&#39;il faut arracher, si
+aucune circonstance ne détermine qu&#39;on en tire une
+autre, parce qu&#39;elle répond plus précisément au centre 
+du sinus : mais si les dents etant tombees depuis
+du tems, &amp; l&#39;arcade alvéolaire diminuée dans toutes 
+ses dimensions &amp; en partie effacée, sa substance
+osseuse étoit devenue plus compacte &amp; plus serrée
+dans cet endroit, on pourroit ouvrir le sinus dans sa
+paroi extérieure, au-dessus de l&#39;arcade alvéolaire,
+à l&#39;endroit où répondoit la racine de la troisieme
+dent molaire. Il n&#39;est pas difficile de concevoir les
+instrumens convenables pour pratiquer cette opération.
+(<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

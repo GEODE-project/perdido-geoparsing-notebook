@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29298" id="52:117" vol="7">
+<index type="head" value="GÉNÉALOGIQUE, (Arbre)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art. héraldique" />
+<index type="normclass" value="Héraldique" />
+<index type="englishclass" value="Heraldry" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>GÉNÉALOGIQUE</head>
+<p>
+GÉNÉALOGIQUE, (<sc>Arbre</sc>) <i>Art. héraldique,
+stemma</i> dans Séneque, grande ligne au milieu de la
+table <i>généalogique</i>, qu&#39;elle divise en d&#39;autres petites
+lignes, qu&#39;on nomme <i>branches</i>, &amp; qui marquent tous
+les descendans d&#39;une famille ou d&#39;une maison ; les
+degrés <i>généalogiques</i> se tracent dans des ronds rangés
+au-dessus, au-dessous, &amp; aux côtés les uns des autres,
+ce que nous avons imité des Romains, qui les
+appelloient <i>stemmata</i>, d&#39;un mot grec qui veut dire
+<i>une couronne de branches de fleurs</i>.
+</p>
+<p>
+C&#39;est un amusement pour un philosophe, que de
+voir l&#39;<i>arbre généalogique</i> d&#39;un gentilhomme buriné
+sur une grande feuille de vélin ; vous trouvez toûjours 
+cet arbre taillé, émondé, cultivé, sans mousse,
+sans bois-mort, &amp; sans aucune branche pourrie ;
+vous êtes encore presque sûr de trouver à la tête de
+la plûpart des <i>arbres généalogiaues</i>, un grand ministre
+d&#39;état, ou un célebre militaire. L&#39;honnête artisan
+qui a donné la naissance à cet homme illustre, dont
+on prétend descendre, est retranché de l&#39;<i>arbre généalogique</i>, avec tous ses ancêtres d&#39;une vie frugale, &amp;
+vous diriez que le fondateur de la maison n&#39;a jamais
+eu de pere. Mais si nous remontions plus haut vers
+la source de plusieurs nobles de tout pays, nous les
+perdrions peut-être dans une foule d&#39;artisans ou de
+fermiers, sans espérance de les en voir sortir, à-peu-près comme la voie appienne des anciens Romains,
+qui après avoir couru plusieurs milles, s&#39;alloit perdre 
+dans un marais. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

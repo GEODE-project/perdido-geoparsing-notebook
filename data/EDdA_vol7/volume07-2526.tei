@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29980" id="53:347" vol="7">
+<index type="head" value="GOUTTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physiq." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GOUTTE</head>
+<p>
+GOUTTE, s. f. (<i>Physiq.</i>) petite portion de fluide
+détachée du reste.
+</p>
+<p>
+La forme sphérique que prennent les <i>gouttes</i> des
+fluides, n&#39;a pas laissé que d&#39;embarrasser les Philosophes. L&#39;explication que l&#39;on en donnoit autrefois,
+étoit que la pression égale &amp; uniforme du fluide environnant 
+ou de l&#39;atmosphere, obligeoit les <i>gouttes</i>
+à prendre cette figure ; mais cette raison n&#39;est plus
+recevable depuis que nous savons que le même phénomene 
+a lieu dans le vuide, comme en plein air.
+</p>
+<p>
+Les philosophes Newtoniens l&#39;attribuent à l&#39;attraction,
+laquelle étant mutuelle entre les parties du
+fluide, les concentre, pour ainsi dire, &amp; les rapproche 
+les unes des autres aussi près qu&#39;il est possible ;
+ce qui ne sauroit arriver, sans qu&#39;elles prennent une
+forme sphérique.
+</p>
+<p>
+Voici comme s&#39;explique sur ce sujet M. Newton:
+<i>Guttae enim corporis cujusque fluidi, ut figuram globosam 
+inducere conentur, facit mutua partium suarum attractio ; 
+codem modo quo terra mariaque in rotunditatem 
+undique conglobantur, partium suarum attractione
+mutuâ, quoe est gravitas</i>. Opt. <i>page 338. Voyez</i> <sc><ref target="head:Attraction" type="search">Attraction</ref></sc>.
+</p>
+<p>
+En effet, si on imagine plusieurs corpuscules semblables 
+qui s&#39;attirent mutuellement, &amp; qui par leur
+attraction se joignent les uns aux autres, ils doivent
+nécessairement prendre la figure sphérique, puisqu&#39;il
+n&#39;y a point de raison pourquoi un de ces corpuscules 
+sera placé sur la surface de la <i>goutte</i> d&#39;une autre
+maniere que tout autre corpuscule, &amp; que la figure
+sphérique est la seule que la surface puisse prendre
+pour que toutes les parties du fluide soient en équilibre. Quoique cette explication soit plausible, du moins 
+en admettant le principe de l&#39;attraction, cependant 
+il ne faut pas abuser de ce principe pour expliquer 
+le phénomene de l&#39;adhérence des particules
+fluides. <i>Voyez</i> <sc><ref target="head:Adhérence" type="search">Adhérence</ref> <i>&amp;</i> <ref target="head:Cohésion" type="search">Cohésion</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

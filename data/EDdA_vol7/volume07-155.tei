@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27608" id="48:63:4" vol="7">
+<index type="head" value="Fondre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Argenville" />
+<index type="shortauth" value="d&#39;Argenville" />
+<index type="kafnum" value="6" />
+<index type="kafauth" value="Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jardinage." />
+<index type="normclass" value="Jardinage" />
+<index type="englishclass" value="Gardening" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Fondre</head>
+<p>
+<sc>Fondre</sc>, (<i>Jardinage.</i>) se dit d&#39;une plante qui
+périt, ou qui pourrit en pié; ce qui arrive souvent
+quand on lui donne trop d&#39;eau ou trop de soleil ; si
+étant enfermée dans la serre, elle n&#39;a pas eu assez
+d&#39;air, ou qu&#39;elle n&#39;ait pas joüi d&#39;un air nouveau, il
+n&#39;en faut pas davantage pour la suffoquer. On peut
+s&#39;il y a une autre chambre à la serre, l&#39;ouvrir de tems
+en tems : ce lieu se remplit d&#39;air extérieur, &amp; refermant 
+ensuite la porte, &amp; ouvrant celle qui se
+communique avec la serre, l&#39;air extérieur y entrera
+sans risquer que les arbres en souffrent.
+</p>
+<p>
+En fait de légumes, <i>fondre</i>, est périr faute d&#39;eau ;
+pour les melons, c&#39;est devenir à rien. (<i>K</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

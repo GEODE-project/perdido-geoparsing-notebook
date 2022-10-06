@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28330" id="50:109:25" vol="7">
+<index type="head" value="Freres Cordonniers" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>Freres Cordonniers</head>
+<p>
+<sc>Freres Cordonniers</sc>. Vers le milieu du dernier<gap type="hyphenpb" />
+<pb n="7:301" facs="V7/ENC_7-301.jpeg" />
+<milestone unit="column" n="1" />
+siecle, un cordonnier voulant perpétuer parmi 
+les ouvriers l&#39;esprit de religion dont il étoit animé; 
+d&#39;ailleurs encouragé par quelques personnes
+pieuses &amp; distinguées, dont il étoit protégé, commença 
+dans Paris l&#39;association des <i>freres</i> cordonniers
+&amp; des <i>freres</i> tailleurs, laquelle s&#39;est étendue ensuite
+en plusieurs villes du royaume, entre autres à Soissons, à Toulouse, à Lion, <i>&amp;c.</i>
+</p>
+<p>
+Leur institut consiste principalement à vivre dans
+la continence &amp; dans l&#39;exercice de leur métier, de
+façon qu&#39;ils joignent à leur travail les pratiques les
+plus édifiantes de la piété &amp; de la charité chrétienne,
+le tout sans faire aucune sorte de voeux.
+</p>
+<p>
+Au reste, bien qu&#39;ils ne soient pas à charge à l&#39;état,
+puisqu&#39;ils subsistent par le travail de leurs mains,
+il est toûjours vrai qu&#39;ils ne portent pas les impositions 
+publiques, autant que des ouvriers isolés &amp;
+chargés de famille ; &amp; sur-tout ils ne portent pas les
+tutelles &amp; les collectes, le logement de soldats, les
+corvées, les milices, <i>&amp;c.</i> ce qui fait pour eux une
+différence bien favorable.
+</p>
+<p>
+Sur quoi j&#39;observe que les gens dévoués au célibat 
+ont toûjours été protégés avec une prédilection
+également contraire à la justice &amp; à l&#39;économie nationale.
+J&#39;observe de même qu&#39;ils ont toûjours été
+fort attentifs à se procurer les avantages des communautés ; 
+au lieu qu&#39;il est presque inoüi jusqu&#39;à
+présent, que les gens mariés ayent formé quelque
+association considérable. Ceux-ci néanmoins obligés 
+de pourvoir à l&#39;entretien de leurs familles, auroient 
+plus besoin que les célibataires des secours
+mutuels qui se trouvent dans les congrégations.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

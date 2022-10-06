@@ -1,0 +1,163 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30001" id="54:5" vol="7">
+<index type="head" value="GOUVERNER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Grammaire" />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="v.act." />
+<head>GOUVERNER</head>
+<p>
+GOUVERNER, v. act. <i>terme de Grammaire</i>. Il
+ne suffit pas, pour exprimer une pensée, d&#39;accumuler 
+des mots indistinctement : il doit y avoir entre
+tous ces mots une corrélation universelle qui concourre 
+à l&#39;expression du sens total. Les noms appellatifs,
+les prépositions, &amp; les verbes relatifs, ont
+essentiellement une signification vague &amp; générale,
+qui doit etre déterminee tantôt d&#39;une façon, tantôt
+d&#39;une autre, selon les conjonctures. Cette détermination 
+se fait communément par des noms que l&#39;on
+joint aux mots indéterminés, &amp; qui, en conséquence 
+de leur destination, se revêtent de telle ou telle
+forme, prennent telle ou telle place, suivant l&#39;usage
+&amp; le génie de chaque langue.
+</p>
+<p>
+Or ce sont les mots indéterminés qui, dans le langage 
+des Grammairiens <i>gouvernent</i> ou <i>régissent</i> les
+noms déterminans. Ainsi les méthodes pour apprendre 
+la langue latine disent, que le verbe actif <i>gouverne</i> l&#39;accusatif : c&#39;est une expression abregée, pour
+dire, que quand on veut donner à la signification
+vague d&#39;un verbe actif, une détermination spéciale
+tirée de l&#39;indication de l&#39;objet auquel s&#39;applique l&#39;action 
+énoncée par le verbe, on doit mettre le nom
+de cet objet au cas accusatif, parce que l&#39;usage a
+destiné ce cas à marquer cette sorte de service.
+</p>
+<p>
+C&#39;est une métaphore prise d&#39;un usage très-ordinaire de la vie civile. Un grand <i>gouverne</i> ses domestiques,
+&amp; les domestiques attachés à son service lui
+sont subordonnés ; il leur fait porter sa livrée, le
+public la reconnoit &amp; décide au coup-d&#39;oeil, que tel
+homme appartient à tel maître. Les cas que prennent
+les noms déterminatifs sont de même une sorte de
+livrée ; c&#39;est par-là que l&#39;on juge que ces noms sont,
+pour ainsi dire, attachés au service des mots qu&#39;ils
+<pb n="7:792" facs="V7/ENC_7-792.jpeg" />
+<milestone unit="column" n="1" />
+déterminent par l&#39;expression de l&#39;objet, de la cause,
+de l&#39;effet, de la forme, de la matiere, <i>&amp;c.</i> Ils sont à
+leur égard ce que les domestiques sont à l&#39;égard du
+maître : on dit des uns dans le sens propre, qu&#39;ils
+sont <i>gouvernés ;</i> on le dit des autres dans le sens figuré.
+</p>
+<p>
+Il seroit à desirer, dans le style didactique sur-tout,
+dont le principal mérite consiste dans la netteté &amp;
+la précision, qu&#39;on pût se passer de ces expressions
+figurées, toûjours un peu énigmatiques. Mais il est
+très-difficile de n&#39;employer que des termes propres ;
+&amp; il faut avoüer d&#39;ailleurs que les termes figurés deviennent 
+propres en quelque sorte, quand ils sont
+consacrés par l&#39;usage &amp; définis avec soin. On pouvoit 
+cependant éviter l&#39;emploi abusif du mot dont il
+est ici question, ainsi que des mots <i>régie</i> &amp; <i>régime</i>,
+destinés au même usage. Il étoit plus simple de donner 
+le nom de <i>complément</i> à ce que l&#39;on appelle <i>régime</i>, parce qu&#39;il sert en effet à rendre complet le sens
+qu&#39;on se propose d&#39;exprimer ; &amp; alors on auroit dit
+tout simplement : <i>le</i> complément <i>de telles prépositions
+doit être à tel cas ; le</i> complément objectif <i>du verbe
+actif doit être à l&#39;accusatif</i>, &amp;c. M. Dumarsais a fait
+usage de ce mot en bien des occurrences, sans en
+faire en son lieu un article exprès : nous développerons 
+nos vûes sur cet objet <i>au mot</i> <sc><ref target="head:Régime" type="search">Régime</ref></sc>, en y
+exposant les principes de Grammaire qui peuvent y
+avoir rapport. On y verra que l&#39;on peut quelquefois 
+à peu de frais répandre la lumiere sur les élémens des Sciences &amp; des Arts. (<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

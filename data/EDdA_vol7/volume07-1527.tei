@@ -1,0 +1,213 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28981" id="51:228" vol="7">
+<index type="head" value="GARANTIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f." />
+<head>GARANTIE</head>
+<p>
+GARANTIE, s. f. (<i>Jurisprud.</i>) est l&#39;obligation de
+<milestone unit="column" n="2" />
+faire joüir quelqu&#39;un d&#39;une chose, ou de l&#39;acquitter
+&amp; indemniser du trouble ou de l&#39;éviction qu&#39;il souffre 
+par rapport à cette même chose ou partie d&#39;icelle.
+</p>
+<p>
+On distingue plusieurs sortes de <i>garanties ;</i> savoir
+1°. celle de droit, &amp; celle de fait ou conventionnelle.
+</p>
+<p>
+La <i>garantie de droit</i>, qu&#39;on appelle aussi <i>garantie
+naturelle</i>, est celle qui est dûe de plein droit par les
+seules raisons de justice &amp; d&#39;équité, quand même
+elle n&#39;auroit pas été stipulée : telle est la <i>garantie</i> que
+tout vendeur ou cédant doit à l&#39;acquéreur, pour lui
+assûrer la propriété de la chose vendue ou cédée.
+L&#39;action résultant de cette <i>garantie</i> dure trente ans,
+à compter du jour du trouble.
+</p>
+<p>
+La <i>garantie conventionnelle</i> est celle qui n&#39;a lieu
+qu&#39;en vertu de la convention On l&#39;appe le aussi <i>garantie de fait</i>, pour la distinguer de la <i>garantie de
+droit</i>, en ce que celle-ci ne concerne que la propriété 
+de la chose ; au lieu que la <i>garantie de fait</i> regarde
+la solvabilité du débiteur, ou la bonté &amp; la qualité
+de la chose vendue. Elle est appellée en droit <i>redhibition</i> ou <i>action redhibitoire</i>, parce qu&#39;elle tend à
+faire résilier le contrat ; au lieu que dans la <i>garantie</i>
+de droit, le contrat subsiste toûjours ; du-moins le
+garanti en demande d&#39;abord l&#39;exécution, &amp; ne demande 
+une indemnité que subsidiairement.
+</p>
+<p>
+Le vendeur n&#39;est tenu de la <i>garantie</i> de fait, qu&#39;autant 
+qu&#39;elle est stipulée, à-moins qu&#39;il ne s&#39;agît de
+défauts ou vices dont il soit garant par quelque disposition 
+expresse des lois.
+</p>
+<p>
+L&#39;action résultante de la <i>garantie</i> de fait, ne dure
+que trente ans, à compter du jour du contrat. <i>Voy.</i>
+au digeste <i>de oedilitio edicto</i>, &amp; au code <i>de oedilitiis
+action</i>.
+</p>
+<p>
+La <i>garantie</i> est formelle ou simple.
+</p>
+<p>
+On appelle <i>garantie formelle</i>, celle où le garant
+est obligé de prendre le fait &amp; cause du garanti,
+même de le faire mettre hors de cause : telle est l&#39;obligation 
+du vendeur appellé en <i>garantie</i> par l&#39;acquéreur.
+</p>
+<p>
+La <i>garantie simple</i> est celle qui oblige seulement à
+faire raison de l&#39;éviction, soit pour le tout ou pour
+partie, sans assujettir le garant à prendre le fait &amp;
+cause du garanti : telle est la <i>garantie</i> que les co-héritiers se doivent les uns aux autres pour la sûreté de
+leurs lots.
+</p>
+<p>
+Le transport d&#39;une dette, rente, ou autre effet,
+peut être fait sans <i>garantie</i>, ou avec <i>garantie</i>.
+</p>
+<p>
+Quand la <i>garantie</i> y est stipulée, elle peut l&#39;être
+de quatre manieres différentes ; savoir,
+</p>
+<p>
+1°. Lorsque le cédant ne promet la <i>garantie</i> que
+de ses faits &amp; promesses, c&#39;est-à-dire que la chose
+lui appartient légitimement ; clause qui est toûjours
+sousentendue, mais elle n&#39;emporte point de <i>garantie</i>
+de la solvabilité du débiteur.
+</p>
+<p>
+2°. Le cédant peut promettre la <i>garantie</i> de tous
+troubles &amp; empêchemens quelconques, ce qui emporte 
+tout-à-la-fois une <i>garantie</i> de la propriété de
+la chose, &amp; de la solvabilité du débiteur au tems du
+transport.
+</p>
+<p>
+3°. Si le cédant a promis de garantir, fournir &amp;
+faire valoir, il est tenu de l&#39;insolvabilité du debiteur,
+quand même elle. seroit survenue depuis le
+transport, à moins qu&#39;il ne s&#39;agisse d&#39;une dette mobiliaire 
+à une fois payer ; car en ce cas il suffit que le
+débiteur fût solvable au tems du transport : c&#39;est au
+cessionnaire à s&#39;imputer de n&#39;avoir pas alors exigé
+son payement.
+</p>
+<p>
+Enfin si le cédant promet de garantir, fournir &amp;
+faire valoir, même payer après un simple commandement,
+cette clause décharge le cessionnaire de
+faire une plus ample discussion de la personne &amp;
+biens du debiteur.
+<pb n="7:481" facs="V7/ENC_7-481.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Dans tous les contrats, chacun est garant de son
+dol &amp; des sautes grossieres qui approchent du dol.
+Pour ce qui est des fautes appellées <i>moindres &amp; très-legeres</i>, dans quelques contrats on est tenu des unes
+&amp; des autres ; dans d&#39;autres on n&#39;est pas tenu des
+fautes legeres. <i>Voyez</i> <sc><ref target="head:Dol" type="search">Dol</ref> <i>&amp;</i> <ref target="head:Faute" type="search">Faute</ref></sc>.
+</p>
+<p>
+Pour ce qui est des cas fortuits &amp; des forces majeures,
+personne en général n&#39;en est tenu, à-moins
+que cela ne soit expressément stipulé par le contrat.
+</p>
+<p>
+On n&#39;est pas non plus garant des faits du prince,
+à-moins que cela ne soit stipulé. <i>Voyez</i> le titre <i>de evictionibus</i>, au digeste ; &amp; le titre <i>des garants, de l&#39;ordonnance 
+de 1607</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

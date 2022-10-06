@@ -1,0 +1,602 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28341" id="50:112" vol="7">
+<index type="head" value="FRESQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Peinture." />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="s.f." />
+<head>FRESQUE</head>
+<p>
+FRESQUE, s. f. (<i>Peinture</i>.) On appelle <i>peindre
+à fresque</i>, l&#39;opération par laquelle on employe des
+couleurs détrempées avec de l&#39;eau, sur un enduit
+assez frais pour en être pénétré. En italien on exprime 
+cette façon de peindre par ces mots, <i>dipingere
+à fresco</i>, peindre à frais. C&#39;est de-là que s&#39;est formée
+une dénomination, qui dans l&#39;orthographe françoise
+semble avoir moins de rapport avec l&#39;opération,
+qu&#39;avec le mot italien dont elle est empruntée.
+</p>
+<p>
+La théorie de l&#39;art de la Peinture étend ses droits,
+sur toutes les façons de peindre existantes &amp; possibles ; 
+parce que les regles théoriques sont fondées
+sur l&#39;examen de la nature, qui est le but général
+de toute imitation indépendante des moyens dont
+elle se sert. Il ne s&#39;agit donc ici que d&#39;exposer d&#39;une
+façon claire les opérations nécessaires pour peindre 
+à <i>fresque</i>.
+</p>
+<p>
+Ce qui doit précéder ces opérations est un examen 
+raisonné de l&#39;endroit où l&#39;on veut employer la
+<i>fresque</i>: il faut que l&#39;artiste s&#39;assûre de la parfaite construction 
+des murailles ou des voûtes, auxquelles il
+est prêt de confier son ouvrage ; puisqu&#39;il n&#39;y a d&#39;espérance 
+de conserver les beautés dont, au moyen
+de la <i>fresque</i>, l&#39;art peut embellir l&#39;intérieur des palais 
+ou des temples, qu&#39;autant de tems que la construction 
+des murs n&#39;éprouvera aucun desordre.
+</p>
+<p>
+La solidité de la construction reconnue, c&#39;est d&#39;un
+premier enduit, dont le mur doit être revêtu, que
+l&#39;artiste doit s&#39;occuper ; les matériaux qu&#39;on employe
+étant différens suivant les pays où l&#39;on construit, il
+faut faire ensorte que ceux de ces matériaux qui seroient 
+par eux-mêmes moins propres à retenir l&#39;enduit,
+le deviennent par les précautions qu&#39;on peut
+prendre. La brique n&#39;a besoin d&#39;aucun secours pour
+se joindre aussi solidement qu&#39;on le peut desirer au
+premier enduit : c&#39;est aussi de tous les matériaux que
+l&#39;on peut employer, celui qui convient mieux pour
+soûtenir la <i>fresque</i>. Si les murs sont construits avec
+des pierres raboteuses &amp; pleines de trous, on peut
+encore se fier à ces inégalités du soin de retenir &amp; de
+conserver le mélange qu&#39;on y appliquera ; mais si la
+bâtisse est faite avec des pierres de taille, dont la surface 
+est ordinairement assez lisse, il sera nécessaire
+de rendre cette surface inégale, d&#39;y former pour cela
+de petites excavations, d&#39;y faire entrer des clous ou
+des chevilles de bois qui puissent arrêter l&#39;enduit &amp;
+le joindre étroitement à la pierre. Ces précautions
+sont d&#39;une extrème conséquence pour éviter les fentes 
+ou les ardes que la moindre altération qui arriveroit 
+aux matériaux, ou même l&#39;effet alternatif que
+produit la sécheresse &amp; l&#39;humidité, pourroit occasionner.
+</p>
+<p>
+Le premier enduit peut être fait avec de bonne
+chaux &amp; du ciment de tuiles pilées : on employe plus
+ordinairement du gros sable de riviere, qu&#39;on mêle
+à d&#39;excellente chaux. Je ne doute pas que si la <i>fresque</i>
+étoit plus en usage, on ne pût trouver à composer
+un enduit peut-être plus compact encore, &amp; plus
+indépendant des variations de l&#39;air, tel qu&#39;étoit,
+par exemple, celui dont on trouve revêtus les aqueducs 
+&amp; anciens réservoirs construits par les Romains aux environs de Naples : quel soin n&#39;apportoit-on pas à ces recherches de construction? &amp; que
+nous sommes loin de l&#39;industrie de ces peuples sur
+cet article ; nous qu&#39;un usage assez peu refléchi conduit 
+presque toûjours dans le choix &amp; dans l&#39;emploi
+des matériaux, que la nature semble nous avoir prodigués ; 
+nous dont presque tous les bâtimens modernes 
+portent un caractere national d&#39;impatience &amp; de
+précipitation!
+</p>
+<p>
+Quoiqu&#39;il soit nécessaire de dresser avec soin le
+premier enduit, pour que la surface qu&#39;il compose
+<pb n="7:303" facs="V7/ENC_7-303.jpeg" />
+<milestone unit="column" n="1" />
+conserve son à-plomb, il est à-propos cependant de
+le laisser assez raboteux, pour que les morceaux de
+sable &amp; les inégalités qui s&#39;y trouveront, retiennent à
+leur tour la seconde préparation dont je vais parler.
+J&#39;observerai qu&#39;avant de l&#39;employer, le premier enduit 
+doit être parfaitement sec, &amp; que l&#39;artiste a intérêt 
+d&#39;éviter sur-tout de peindre lorsque la chaux
+de ce premier enduit n&#39;a pas jetté toute son humidité,
+s&#39;il veut échapper au danger que manifeste son
+odeur desagréable &amp; pernicieuse.
+</p>
+<p>
+La premiere couche dont j&#39;ai parlé étant parfaitement 
+séchée, il faut l&#39;imbiber d&#39;eau à proportion de
+son aridité, pour donner plus de facilité au premier
+enduit de s&#39;incorporer avec la nouvelle couche dont
+il faut le couvrir ; c&#39;est cette derniere couche qui
+servira de champ ou de fond à la peinture à <i>fresque</i>.
+Cette nouvelle &amp; derniere préparation aussi importante,
+mais plus délicate que l&#39;autre, se fait en mêlant 
+du sable de riviere d&#39;un grain fort égal, qui ne
+soit ni trop gros ni trop menu, avec de la chaux
+éteinte, depuis une année si elle est forte, ou tout-au-moins depuis six mois si elle est plus douce. C&#39;est
+à un maçon intelligent &amp; actif qu&#39;il faut donner le
+soin d&#39;étendre, &amp; d&#39;approprier ce crépit ; il faut que
+ce manoeuvre soit intelligent pour préparer avec une
+juste proportion, ce que le peintre peut employer de
+cette surface dans sa journée, &amp; il doit être actif
+pour l&#39;étendre, la nettoyer, la polir, avec la promptitude 
+nécessaire pour que son opération laisse au
+peintre tout le tems dont il a besoin. On sent bien
+cependant que cette intelligence &amp; cette activité
+doivent être dirigées par l&#39;artiste même, &amp; reglées
+sur sa plus ou moins grande facilité, sur la nature de
+l&#39;ouvrage &amp; sur la longueur du jour.
+</p>
+<p>
+J&#39;ai dit que le manoeuvre doit étendre l&#39;enduit.
+Cette opération se fait avec la truelle ; il doit le nettoyer,
+c&#39;est-à-dire ôter, avec un petit bâton ou
+l&#39;ente d&#39;un pinceau, les grains de sable les plus gros,
+qui rendroient la surface trop raboteuse. Ce second
+soin est nécessaire dans les endroits qui sont plus exposés 
+à la vûe. Enfin il faut polir cet enduit que l&#39;on
+a nettoyé, &amp; pour cela on applique une feuille de
+papier sur les endroits qui l&#39;exigent, &amp; l&#39;on passe la
+truelle sur ce papier, pour applanir ainsi les petites
+inégalités qui nuiroient à la justesse du trait en produisant 
+de loin de fausses apparences. Lorsque cette
+seconde couche de sable &amp; de chaux a été appliquée,
+dressée, nettoyée &amp; polie dans l&#39;endroit par lequel
+l&#39;artiste a résolu de commencer son ouvrage, il y dessine,
+&amp; il y peint avec les couleurs propres au travail,
+&amp; il employe dans la journée ce qu&#39;il a fait enduire,
+de maniere à n&#39;être pas obligé d&#39;y retoucher.
+C&#39;est cette obligation de peindre <i>au premier coup</i>, qui
+fait le caractere distinctif de la <i>fresque</i>. Cette nécessité
+en ôtant des ressources au peintre, le contraint à des
+précautions dont je vais parler.
+</p>
+<p>
+Au reste si la difficulté qu&#39;elle offre à surmonter,
+rend plus fréquentes les négligences inévitables dans
+les grands ouvrages, elle donne en récompense une
+franchise, une activité, &amp; une fraicheur au pinceau
+des artistes, qui dédommage des parties incompatibles 
+avec ce genre de travail.
+</p>
+<p>
+Les précautions dont j&#39;ai promis de parler, sont
+1°. l&#39;esquisse terminée de la composition qu&#39;on veut
+peindre ; 2°. des cartons de la grandeur de l&#39;ouvrage
+même. Je vais reprendre ces deux articles, après
+quoi je dirai les couleurs dont on doit se servir pour
+peindre à <i>fresque</i>, en prévenant que sur cette partie
+physique des couleurs, il y auroit des examens &amp;
+&amp; des recherches très-intéressantes à faire, qui demanderoient 
+l&#39;union difficile des lumieres chimiques
+&amp; de la connoissance approfondie de la Peinture.
+</p>
+<p>
+Ce n&#39;est pas la premiere fois que j&#39;ai parlé de l&#39;avantage 
+que les artistes doivent attendre d&#39;une espece<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de sujétion, qui consiste à arrêter &amp; terminer l&#39;esquisse 
+de la composition qu&#39;ils veulent exécuter, de
+maniere à n&#39;avoir aucun changement essentiel à y
+faire. Je ne me lasserai point de le répéter, c&#39;est le
+moyen de parvenir a cette unité de composition &amp;
+à cet ensemble refléchi &amp; conséquent, qui approche
+autant qu&#39;il est possible de la perfection : cette precaution 
+avantageuse dans toutes les façons de peindre 
+est indispensable, lorsque l&#39;on peint à <i>fresque</i>. On
+ne peut dans cette derniere façon de peindre, commencer 
+par ébaucher tout son ouvrage (facon d&#39;opérer 
+qui est d&#39;une grande ressource pour ceux qui
+aiment à tâtonner &amp; à composer sans esquisse); on
+ne peut, comme je l&#39;ai dit plus haut, commencer
+une partie du tableau, sans être obligé de la terminer 
+dans sa journée. Il faut dans ce court espace qu&#39;on
+ait non-seulement achevé sa tâche, mais que cette
+portion de la composition soit tellement exécutée
+pour l&#39;accord, que la composition entiere achevée,
+on puisse croire qu&#39;elle a été exécutée suivant l&#39;usage 
+ordinaire, c&#39;est-à-dire peu-à-peu en commençant 
+par une ébauche générale, &amp; en passant d&#39;une 
+harmonie plus foible à une harmonie vigoureuse
+&amp; pleine, telle que la nature nous l&#39;offre. C&#39;est ainsi,
+pour donner de cette progression une image sensible 
+à ceux qui ne sont point artistes, c&#39;est ainsi que
+le crépuscule du matin, cette premiere ébauche de
+l&#39;ouvrage de la lumiere, commence à colorer foiblement 
+les objets, &amp; à donner une idée foible de
+l&#39;effet des jours &amp; des ombres. Cet effet devient plus
+sensible de moment en moment ; les couleurs en conservant 
+entr&#39;elles les mêmes proportions, deviennent
+plus éclatantes ; enfin lorsque le jour est entierement
+développé, le tableau de la nature est terminé.
+</p>
+<p>
+L&#39;opération de la <i>fresque</i> qui ne permet pas de progression,
+exige donc comme un secours nécessaire
+celui que fournit une esquisse arrêtée, à-moins que
+l&#39;imagination de l&#39;artiste ne soit tellement vive &amp; fidele,
+qu&#39;il y trouve à sa volonté la nuance du tout
+de chaque partie de son tableau. Mais ce don de la
+nature est rare, &amp; l&#39;esquisse qui en est l&#39;équivalent
+y supplée d&#39;une maniere certaine &amp; facile. J&#39;ai indiqué 
+une seconde précaution, qui consiste à employer 
+ce qu&#39;on appelle, en termes de Peinture, <i>des
+cartons</i>. Je m&#39;arrêterai un instant sur l&#39;explication de
+ce mot.
+</p>
+<p>
+L&#39;étude, ou le dessein, ou le trait d&#39;une ou de plusieurs 
+figures qui doivent etre employées dans un ouvrage 
+de Peinture, est ce qu&#39;on appelle <i>carton</i>, lorsque
+ce trait de la grandeur juste des figures qu&#39;on doit peindre 
+est tellement étudié, qu&#39;on le destine à être calqué
+sur la surface sur laquelle on doit exécuter l&#39;ouvrage.
+Ce qui convient le mieux pour dessiner ces études
+ou ces traits, est le carton compose de plusieurs feuilles 
+de papier collées les unes sur les autres, de maniere 
+qu&#39;il ne soit ni trop mince ni trop épais ; le simple 
+papier trop sujet aux impressions de l&#39;air, a l&#39;inconvénient 
+de se retirer ou de s&#39;alonger ; ce qui peut
+produire, lorsqu&#39;on veut calquer de grandes figures,
+des erreurs qui éloigneroient de l&#39;extrème correction 
+que l&#39;on cherche à atteindre par ce moyen. Je
+vais reprendre l&#39;ordre des opérations differentes du
+peintre, pour placer celle-ci à son rang.
+</p>
+<p>
+L&#39;artiste compose plusieurs croquis ou pensées de
+son sujet ; il choisit celle qui lui convient le mieux,
+il fait alors une esquisse dans laquelle il arrête sa
+composition, sans se contraindre cependant à donner 
+à chacune de ses figures toute la correction de
+dessein dont il est capable, pour ne point trop perdre 
+de tems. Après avoir terminé cette esquisse, il
+forme un carton de la grandeur de l&#39;ouvrage même,
+pour pouvoir l&#39;appliquer, lorsqu&#39;il y aura dessiné ses
+figures, sur la surface qu&#39;il doit peindre ; il établit
+par une échelle de proportion, ou par des quarrés,
+<pb n="7:304" facs="V7/ENC_7-304.jpeg" />
+<milestone unit="column" n="1" />
+la grandeur que doivent avoir ses figures dans sa
+grande composition ; il les dispose alors sur son carton,
+comme elles doivent l&#39;être dans le tableau ; ensuite 
+plaçant &amp; examinant le modele, il perfectionne 
+son trait d&#39;après la nature nue, il dessine chacune
+de ses figures, il corrige, il efface jusqu&#39;à ce qu&#39;il soit
+satisfait ; alors coupant ce carton par partie, il ponce,
+il calque, ou enfin par quelque moyen que ce
+soit, il porte exactement ces contours du carton sur
+l&#39;enduit de chaux dont j&#39;ai donné la préparation:
+alors il n&#39;est plus occupé que de peindre, en assortissant 
+les nuances de sa palette à l&#39;esquisse colorée,
+qui lui sert de modele &amp; de guide. On trouvera aux
+<i>mots</i> 
+<sc><ref target="head:Poncer" type="search">Poncer</ref>, <ref target="head:Calquer" type="search">Calquer</ref>, <ref target="head:Graticuler" type="search">Graticuler</ref></sc>
+du mot italien <i>graticolare</i>, les moyens de transporter
+aisément &amp; fidelement le trait des figures dessinées
+sur les cartons, sur la surface où l&#39;on doit peindre.
+</p>
+<p>
+Je vais passer à l&#39;énumération des couleurs, &amp;
+rapporter ce que l&#39;usage &amp; les bons auteurs nous en
+apprennent. Je finirai par quelques petits détails de
+l&#39;exécution, qui ne sont pas sans utilité.
+</p>
+<p>
+Les couleurs indiquées par plusieurs bons auteurs
+comme les plus convenables pour peindre à <i>fresque</i>,
+sont:
+</p>
+<p>
+<i>Le blanc de chaux</i>. Ce blanc, le meilleur qu&#39;on
+puisse employer, se mêle aisément avec toutes les
+autres couleurs. L&#39;usage en est bon &amp; facile, pourvû
+qu&#39;il soit composé d&#39;excellente chaux éteinte depuis
+un an ou six mois tout au-moins ; on la délaye avec
+de l&#39;eau commune ; ensuite on la verse doucement
+dans un vase ; on y laisse déposer ce blanc, qu&#39;on
+employe après avoir ôté l&#39;eau qui le couvre.
+</p>
+<p>
+Quelques auteurs font mention de la poudre faite
+avec du marbre blanc pilé. On mêle un tiers de cette
+poudre avec deux tiers de chaux ; mais il est à craindre,
+si la proportion qui doit varier à cause des différentes 
+qualités de la chaux n&#39;est pas juste, qu&#39;il
+n&#39;en résulte des inconvéniens : par exemple, si la
+poudre de marbre est trop abondante, elle fera noircir 
+le blanc plûtôt qu&#39;il ne noirciroit sans cela. Il me
+semble qu&#39;il résulte de-là, que le blanc composé seulement 
+d&#39;une chaux bien choisie, bien éteinte &amp; gardée 
+long-tems, est le meilleur de tous. Cependant
+voici une seconde composition de blanc qu&#39;il ne faut
+pas passer sous silence, en recommandant aux artistes 
+qui auront occasion de peindre à <i>fresque</i>, de faire
+des essais &amp; de constater les effets qui en résulteront
+par des notes, qu&#39;ils rendront aisément publiques par
+la voie des journaux. Ce seroit ainsi que par une convention 
+générale qui n&#39;est pas encore assez établie,
+mais qu&#39;on ne peut trop recommander, les Arts verroient 
+perfectionner ou s&#39;accroître les moyens qui
+sont nécessaires à leurs succès.
+</p>
+<p>
+Le blanc dont je veux parler s&#39;appelle <i>blanc de
+coquilles d&#39;oeufs</i>. On rassemble une grande quantité
+de ces coquilles, on les pile, on les nettoye en les
+faisant bouillir dans de l&#39;eau avec un morceau de
+chaux vive ; on les met dans la chausse, &amp; on les lave 
+avec de l&#39;eau de fontaine ; on recommence ensuite 
+à les piler pour en composer une poudre encore 
+plus fine, qu&#39;on fait tremper de nouveau jusqu&#39;à ce que l&#39;eau avec laquelle on lave cette poudre
+soit si claire, qu&#39;elle n&#39;ait aucune empreinte de malpropreté: lorsqu&#39;elle est à ce point, on se sert de la
+pierre &amp; de la mollette pour broyer cette poudre
+avec de l&#39;eau commune autant qu&#39;il est nécessaire, &amp;
+l&#39;on en forme de petits pains, qu&#39;on laisse sécher au
+soleil. Il faut remarquer que si ces coques restoient
+trop long-tems dans la même eau, elles exhaleroient
+une odeur extrèmement fétide &amp; insupportable, que
+l&#39;on ne pourroit dissiper qu&#39;en les faisant cuire dans
+un fourneau, après les avoir enfermé dans un vase
+de terre bien luté.
+</p>
+<p>
+<i>Le cinnabre</i>. Cette couleur qui a un éclat supérieur
+<milestone unit="column" n="2" />
+à presque toutes les autres couleurs, a des qualités
+absolument contraires à la chaux ; on pourroit cependant 
+la risquer dans des endroits renfermés, en
+usant des moyens que je vais indiquer, pour la préparer 
+de maniere qu&#39;elle se soûtienne plus long-tems.
+Prenez du cinnabre pur, c&#39;est-à-dire qui ne soit point
+falsifié; réduisez-le en poudre ; après l&#39;avoir mis dans
+un vase de terre, versez-y de cette eau qui bouillonne 
+lorsqu&#39;on éteint de la chaux vive ; ayez soin que
+cette eau soit la plus claire qu&#39;il sera possible ; jettez-la 
+ensuite en la versant doucement ; réitérez plusieurs 
+fois cette opération : le cinnabre ainsi lavé retiendra 
+de l&#39;eau de chaux une impression qu&#39;il gardera 
+long-tems. Il faut, comme je l&#39;ai dit, observer de
+bien choisir le cinnabre, &amp; de l&#39;acheter plûtôt en
+morceaux qu&#39;en poudre ; parce que les marchands
+qui le pulvérisent, le falsifient souvent avec le <i>minium</i>.
+</p>
+<p>
+<i>Le vitriol brûlé</i>. Le vitriol romain cuit au fourneau,
+ce qu&#39;on appelle <i>brûlé</i>, &amp; broyé ensuite à l&#39;esprit-de-vin,
+réussit très-bien, employé sur la chaux ; il résulte 
+de cette préparation un rouge qui approche de
+celui que donne la laque : cette couleur est sur-tout
+très-propre à préparer les endroits que l&#39;on veut colorer 
+de cinnabre ; &amp; les draperies peintes de ces deux
+couleurs, pourront le disputer à celles qui seront
+peintes à l&#39;huile avec la laque fine.
+</p>
+<p>
+<i>La terre rouge</i>. Cette couleur, ainsi que toutes celles 
+qui sont formées avec des terres, est très-bonne
+pour colorier à <i>fresque</i>. On s&#39;en sert pour les carnations,
+pour les draperies, &amp; c&#39;est en général une excellente
+couleur.
+</p>
+<p>
+<i>L&#39;ochre</i>. L&#39;ochre jaune mis au feu &amp; brûlé dans 
+une
+boîte de fer, produit un rouge pâle. L&#39;ochre brun,
+avec la même préparation, devient jaune. Tous les
+ochres sont d&#39;excellentes couleurs.
+</p>
+<p>
+<i>Le jaune</i>, que nous appellons <i>jaune de Naples</i>, ou
+<i>jaune clair</i>, provient d&#39;une espece de crasse qui se
+forme &amp; qui s&#39;amasse auprès des mines de soufre. Il
+n&#39;est point, à beaucoup près, aussi solide que les
+ochres, dont on peut rendre les nuances aussi claires
+que l&#39;on voudra, en les mêlant avec le blanc de
+chaux. Je ne crois donc pas prudent de risquer le
+jaune de Naples, sur-tout au grand air.
+</p>
+<p>
+<i>Le verd de Veronne</i> ; c&#39;est une terre verte qu&#39;on
+nomme aussi <i>verd de montagne</i>: cette couleur est d&#39;un
+très-bon usage ; elle est d&#39;autant plus précieuse, que
+presque tous les verds qui sont plus composés, sont
+des couleurs auxquelles on ne doit avoir aucune confiance.
+</p>
+<p>
+<i>La terre d&#39;ombre</i>. Cette couleur brune &amp; obscure
+devient plus belle, lorsqu&#39;on a fait calciner dans une
+boîte de fer : elle est bonne &amp; solide ; on doit cependant 
+observer qu&#39;elle devient plus foncée avec le
+tems, &amp; qu&#39;on fera bien de mêler en l&#39;employant
+quelques nuances de blanc de chaux, pour empêcher 
+cet inconvénient.
+</p>
+<p>
+<i>Le noir de Venise</i> est propre pour la <i>fresque</i>, ainsi
+que <i>la terre noire de Rome</i>.
+</p>
+<p>
+<i>Le noir de charbon</i> peut s&#39;employer aussi ; on le compose 
+avec du sarment ou des noyaux de pêches, ou
+avec des coquilles de noix, de la lie de vin, ou même
+du papier : tous ces noirs sont bons ; mais il ne faut
+pas se servir de celui que l&#39;on nomme <i>noir d&#39;os</i>.
+</p>
+<p>
+<i>L&#39;émail</i> est une couleur bleue, qu&#39;il faut employer
+avec précaution, mais dont on peut se servir dans la
+<i>fresque</i>, pourvû qu&#39;on la couche dès les premiers momens 
+&amp; tandis que la chaux est bien humide ; autrement 
+elle ne s&#39;incorpore point avec l&#39;enduit : si l&#39;on
+retouche avec cette même couleur, il faut le faire
+au plus une heure après avoir ébauché, afin qu&#39;elle
+ait de l&#39;éclat.
+</p>
+<p>
+<i>L&#39;outremer</i> est la plus fidele de toutes les couleurs ;
+de quelque maniere qu&#39;on l&#39;employe, elle ne change 
+point, elle empêche même les couleurs avec lesquelles<gap type="hyphenpb" />
+<pb n="7:305" facs="V7/ENC_7-305.jpeg" />
+<milestone unit="column" n="1" />
+on la mêle, de changer ; s&#39;il y a quelque petites 
+exceptions à faire, elles se trouveront lorsque
+je parlerai de la peinture à l&#39;huile, parce qu&#39;elles y
+ont plus de rapport. J&#39;avertis à cette occasion qu&#39;il
+sera bon que ceux qui consulteront cet article, jettent 
+aussi les yeux sur les articles où je parlerai des
+couleurs qui s&#39;employent dans les autres façons de
+peindre, parce que les observations nouvelles que je
+pourrois faire, celles dont je pourrois être instruit,
+&amp; celles que j&#39;aurois omises, s&#39;y trouveront.
+</p>
+<p>
+Voici actuellement deux tables, l&#39;une des couleurs
+dont il ne faut point se servir en peignant à <i>fresque</i>,
+l&#39;autre des couleurs propres à ce travail.
+<table>
+ <i>Couleurs nuisibles à la</i>          <i>Couleurs propres à la fres-</i>
+            <i>fresque.</i>                          <i>que</i>.
+Le blanc de plomb.           Généralement toutes les
+La laque.                      terres colorées.
+Le verd de-gris.            Le blanc de chaux.
+Tous les verds, hors         Le blanc de coque d&#39;oeuf.
+ ceux qui sont de           Le vitriol brûlé.
+ terre.                     La terre rouge.
+Le jaune de France.          L&#39;ochre jaune.
+Le jaune de Naples.          L&#39;ochre brûlé.
+Les orpins.                  Le verd de Verone.
+Le noir d&#39;os.                La terre d&#39;ambre.
+                            Le noir de Venise.
+                            Le noir de charbon.
+                            L&#39;outremer.
+<i>Couleurs délicates qui demandent des précautions</i>.
+Le blanc de marbre.          L&#39;émail.
+Le cinnabre.
+</table>
+</p>
+<p>
+Pour employer toutes ces couleurs, on les broye
+avec de l&#39;eau commune, &amp; l&#39;on commence à former
+les teintes principales que l&#39;on veut employer ; on les
+met par ordre dans des pots ou dans des terrines, &amp;
+l&#39;on se précautionne de plusieurs grandes palettes de
+bois ou de cuivre, dont les bords sont relevés, pour
+y former les nuances intermédiaires, &amp; pour avoir
+plus aisément sous sa main les nuances dont on a besoin.
+Une précaution essentielle est d&#39;éprouver les
+mélanges &amp; les teintes que l&#39;on forme ; parce que les
+couleurs détrempées à l&#39;eau, s&#39;éclaircissent de plusieurs 
+nuances en séchant, hors le rouge violet, l&#39;ochre 
+brûlé, &amp; les noirs. Pour s&#39;assûrer de son accord,
+on applique avec la brosse un échantillon de chaque
+teinte sur des tuiles neuves, ou de la brique bien seche ; 
+l&#39;eau s&#39;y imbibe dans l&#39;instant, &amp; la couleur paroît 
+avec la nuance qu&#39;elle gardera lorsque la <i>fresque</i>
+sera seche.
+</p>
+<p>
+On aura sous sa main un vase d&#39;eau claire pour humecter 
+ces couleurs, ou bien une éponge, &amp; l&#39;on
+prendra garde de ne commencer à peindre que lorsque 
+l&#39;enduit de chaux aura assez de consistance pour
+résister à l&#39;impression des doigts ; il arriveroit sans
+cela que les couleurs s&#39;étendroient sur le fond trop
+humide, &amp; qu&#39;on ne pourroit donner aucune netteté
+à l&#39;ouvrage.
+</p>
+<p>
+Je ne veux pas ajoûter ici les moyens qu&#39;ont imaginés 
+quelques peintres pour retoucher à sec, &amp; pour
+suppléer ainsi au défaut des ouvrages à <i>fresque ;</i> parce
+qu&#39;ils ne peuvent servir qu&#39;à voiler l&#39;ignorance, à
+couvrir la mauvaise foi, &amp; à tromper ceux qui feroient 
+exécuter de ces sortes d&#39;ouvrages : ces moyens
+n&#39;ont aucune solidité, ne peuvent faire illusion que
+quelques instans, &amp; ne méritent pas d&#39;être expliqués
+ici, puisqu&#39;ils ne tendent point à la perfection de l&#39;art.
+<i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

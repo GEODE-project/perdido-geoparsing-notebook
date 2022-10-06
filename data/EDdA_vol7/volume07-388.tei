@@ -1,0 +1,113 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27842" id="49:78" vol="7">
+<index type="head" value="FORUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littérat." />
+<index type="normclass" value="Littérature" />
+<index type="englishclass" value="Literature" />
+<index type="generatedclass" value="Littérature" />
+<index type="pos" value="NA" />
+<head>FORUM</head>
+<p>
+<i>FORUM</i>, (<i>Littérat.</i>) ce mot très-commun dans
+les auteurs, désigne plusieurs choses qu&#39;il est bon de
+distinguer ; il signifie 1°. les <i>places publiques</i>, dans lesquelles 
+se tenoient les divers marchés à Rome pour
+la subsistance de cette ville ; 2°. les <i>places</i> où le peuple 
+s&#39;assembloit pour les affaires, pour les élections,
+<i>&amp;c</i>. 3° les <i>places</i> où l&#39;on plaidoit, &amp; qui étoient au
+nombre de trois principales ; 4°. finalement une <i>ville</i> de la dépendance de l&#39;empire romain, &amp; dans laquelle 
+l&#39;on tenoit des foires : tels étoient le <i>forum Livii, forum Julii, &amp;c.</i> comme il se trouvoit un grand
+concours de négocians qui venoient perpétuellement
+à ces foires, on fut obligé d&#39;y construire plusieurs
+maisons &amp; bâtimens pour la commodité du public ;
+&amp; dans la suite des tems, ces lieux s&#39;aggrandirent, se
+peuplerent, &amp; devinrent des villes assez considérables.
+<i>Voyez</i> 
+<sc><ref target="head:Marché" type="search">Marché</ref>, <ref target="head:Places de Rome" type="search">Places de Rome</ref>, <ref target="head:Comices" type="search">Comices</ref>, <ref target="head:Foires" type="search">Foires</ref></sc>
+. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

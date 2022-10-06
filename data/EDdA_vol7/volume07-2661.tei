@@ -1,0 +1,393 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30115" id="54:52:1" vol="7">
+<index type="head" value="Grand" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Marmontel" />
+<index type="shortauth" value="Marmontel" />
+<index type="kafnum" value="86" />
+<index type="kafauth" value="Marmontel, Jean-François (1723-1799)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Philos. Mor. Politiq." />
+<index type="normclass" value="Philosophie | Morale | Politique" />
+<index type="englishclass" value="Philosophy | Ethics | Political science" />
+<index type="generatedclass" value="Droit politique" />
+<index type="pos" value="s.f." />
+<head>Grand</head>
+<p>
+<sc>Grand</sc>, s. f. (<i>Philos. Mor. Politiq.</i>) <i>les grands:</i>
+on nomme ainsi en général ceux qui occupent les
+premieres places de l&#39;état, soit dans le gouvernement,
+soit auprès du prince.
+</p>
+<p>
+On peut considérer les <i>grands</i> ou par rapport aux
+moeurs de la société, ou par rapport à la constitution 
+politique. Par rapport aux moeurs, <i>voyez les
+articles</i> 
+<sc><ref target="head:Courtisan" type="search">Courtisan</ref>, <ref target="head:Gloire" type="search">Gloire</ref>, <ref target="head:Grandeur" type="search">Grandeur</ref>, <ref target="head:Faste" type="search">Faste</ref>, <ref target="head:Flaterie" type="search">Flaterie</ref>, <ref target="head:Noblesse" type="search">Noblesse</ref></sc>
+, <i>&amp;c.</i> Nous prenons ici
+les <i>grands</i> en qualité d&#39;hommes publics.
+</p>
+<p>
+Dans la démocratie pure il n&#39;y a de <i>grands</i> que
+les magistrats, ou plûtôt il n&#39;y a de <i>grand</i> que le
+peuple. Les magistrats ne sont <i>grands</i> que par le peuple 
+&amp; pour le peuple ; c&#39;est son pouvoir, sa dignité,
+sa majesté, qu&#39;il leur confie : de-là vient que dans
+les républiques bien constituées, on faisoit un crime
+autre fois de chercher à acquérir une autorité personnelle.
+Les généraux d&#39;armée n&#39;étoient <i>grands</i> qu&#39;à
+la tête des armées ; leur autorité étoit celle de la discipline ; 
+ils la déposoient en même tems que le soldat 
+quittoit les armes, &amp; la paix les rendoit égaux.
+</p>
+<p>
+Il est de l&#39;essence de la démocratie que les grandeurs 
+soient électives, &amp; que personne n&#39;en soit exclu 
+par état. Dès qu&#39;une seule classe de citoyens est
+condamnée à servir sans espoir de commander, le
+gouvernement est aristocratique. <i>Voyez</i> <sc><ref target="head:Aristocratie" type="search">Aristocratie</ref></sc>.
+</p>
+<p>
+La moins mauvaise aristocratie est celle où l&#39;autorité 
+des <i>grands</i> se fait le moins sentir. La plus vicieuse 
+est celle où les <i>grands</i> sont despotes, &amp; les
+peuples esclaves. Si les nobles sont des tyrans, le
+mal est sans remede : un sénat ne meurt point.
+</p>
+<p>
+Si l&#39;aristocratie est militaire, l&#39;autorité des <i>grands</i>
+tend à se réunir dans un seul : le gouvernement touche 
+à la monarchie ou au despotisme. Si l&#39;aristocratie 
+n&#39;a que le bouclier des lois, il faut pour subsister
+qu&#39;elle soit le plus juste &amp; le plus modéré de tous les
+gouvernemens. Le peuple pour supporter l&#39;autorité
+exclusive des <i>grands</i>, doit être heureux comme à
+Venise, ou stupide comme en Pologne.
+</p>
+<p>
+De quelle sagesse, de quelle modestie la noblesse
+Vénitienne n&#39;a-t-elle pas besoin pour ménager l&#39;obéissance 
+du peuple! de quels moyens n&#39;use-t-elle
+pas pour le consoler de l&#39;inégalité! Les courtisanes
+&amp; le carnaval de Venise sont d&#39;institution politique.
+Par l&#39;un de ces moyens, les richesses des <i>grands</i> refluent 
+sans faste &amp; sans éclat vers le peuple : par
+l&#39;autre, le peuple se trouve six mois de l&#39;année au
+pair des <i>grands</i>, &amp; oublie avec eux sous le masque
+sa dépendance &amp; leur domination.
+</p>
+<p>
+La liberté romaine avoit chéri l&#39;autorité des rois ;
+elle ne put souffrir l&#39;autorité des <i>grands</i>. L&#39;esprit républicain<gap type="hyphenpb" />
+<pb n="7:849" facs="V7/ENC_7-849.jpeg" />
+<milestone unit="column" n="1" />
+fut indigné d&#39;une distinction humiliante.
+Le peuple voulut bien s&#39;exclure des premieres places,
+mais il ne voulut pas en être exclu ; &amp; la preuve 
+qu&#39;il méritoit d&#39;y prétendre, c&#39;est qu&#39;il eut la sagesse 
+&amp; la vertu de s&#39;en abstenir.
+</p>
+<p>
+En un mot la république n&#39;est une que dans le cas
+du droit universel aux premieres dignités. Toute
+prééminence héréditaire y détruit l&#39;égalité, rompt
+la chaîne politique, &amp; divise les citoyens.
+</p>
+<p>
+Le danger de la liberté n&#39;est donc pas que le peuple 
+prétende élire entre les citoyens sans exception,
+ses magistrats &amp; ses juges, mais qu&#39;il les méconnoisse 
+après les avoir élûs. C&#39;est ainsi que les Romains ont passé de la liberté à la licence, de la licence 
+à la servitude.
+</p>
+<p>
+Dans les gouvernemens républicains, les <i>grands</i>
+revêtus de l&#39;autorité l&#39;exercent dans toute sa force.
+Dans le gouvernement monarchique, ils l&#39;exercent
+quelquefois &amp; ne la possedent jamais : c&#39;est par eux
+qu&#39;elle passe ; ce n&#39;est point en eux qu&#39;elle réside ; ils
+en sont comme les canaux, mais le prince en ouvre
+&amp; ferme la source, la divise en ruisseaux, en mesure
+le volume, en observe &amp; dirige le cours.
+</p>
+<p>
+Les <i>grands</i> comblés d&#39;honneurs &amp; dénués de force,
+représentent le monarque auprès du peuple, &amp;
+le peuple auprès du monarque. Si le principe du gouvernement 
+est corrompu dans les <i>grands</i>, il faudra
+bien de la vertu &amp; dans le prince &amp; dans le peuple
+pour maintenir dans un juste équilibre l&#39;autorité protectrice 
+de l&#39;un, &amp; la liberté légitime de l&#39;autre : mais
+si cet ordre est composé de fideles sujets &amp; de bons
+patriotes, il sera le point d&#39;appui des forces de l&#39;état,
+le lien de l&#39;obéissance &amp; de l&#39;autorité.
+</p>
+<p>
+Il est de l&#39;essence du gouvernement monarchique
+comme du républicain, que l&#39;état ne soit qu&#39;un, que
+les parties dont il est composé forment un tout solide 
+&amp; compacte. Cette machine vaste toute simple
+qu&#39;elle est, ne sauroit subsister que par une exacte
+combinaison de ses pieces ; &amp; si les mouvemens sont
+interrompus ou opposés, le principe même de l&#39;activité 
+devient celui de la destruction.
+</p>
+<p>
+Or la position des <i>grands</i> dans un état monarchique,
+sert merveilleusement à établir &amp; à conserver
+cette communication, cette harmonie, cet ensemble,
+d&#39;où résulte la continuité réguliere du mouvement 
+général.
+</p>
+<p>
+Il n&#39;en est pas ainsi dans un gouvernement mixte,
+où l&#39;autorité est partagée &amp; balancée entre le prince
+&amp; la nation. Si le prince dispense les graces, les <i>grands</i>
+seront les mercenaires du prince, &amp; les corrupteurs
+de l&#39;état : au nombre des subsides imposés sur le peuple,
+sera compris tacitement l&#39;achat annuel des suffrages,
+c&#39;est-à-dire ce qu&#39;il en coûte au prince pour
+payer aux <i>grands</i> la liberté du peuple. Le prince aura 
+le tarif des voix, &amp; l&#39;on calculera en son conseil
+combien telle &amp; telle vertu peuvent lui coûter à corrompre.
+</p>
+<p>
+Mais dans un état monarchique bien constitué où
+la plénitude de l&#39;autorité réside dans un seul sans jalousie 
+&amp; sans partage, où par conséquent toute la
+puissance du souverain est dans la richesse, le bonheur 
+&amp; la fidélité de ses sujets, le prince n&#39;a aucune
+raison de surprendre le peuple : le peuple n&#39;a aucune 
+raison de se défier du prince : les <i>grands</i> ne peuvent 
+servir ni trahir l&#39;un sans l&#39;autre ; ce seroit en eux
+une fureur absurde que de porter le prince à la tyrannie,
+ou le peuple à la révolte. Premiers sujets,
+premiers citoyens, ils sont esclaves si l&#39;état devient
+despotique ; ils retombent dans la foule, si l&#39;état devient 
+républicain : ils tiennent donc au prince par
+leur supériorité sur le peuple ; ils tiennent au peuple
+par leur dépendance du prince, &amp; par-tout ce qui
+leur est commun avec le peuple, liberté, propriété,
+sûreté, <i>&amp;c.</i> aussi les <i>grands</i> sont attachés à la constitution<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+monarchique par intérêt &amp; par devoir, deux
+liens indissolubles lorsqu&#39;ils sont entrelacés.
+</p>
+<p>
+Cependant l&#39;ambition des <i>grands</i> semble devoir
+tendre à l&#39;aristocratie ; mais quand le peuple s&#39;y laisseroit 
+conduire, la simple noblesse s&#39;y opposeroit, à-moins qu&#39;elle ne fût admise au partage de l&#39;autorité ;
+condition qui donneroit aux premiers de l&#39;état vingt
+mille égaux au lieu d&#39;un maître, &amp; à laquelle par
+conséquent ils ne se résoudront jamais ; car l&#39;orgueil
+de dominer qui fait seul les révolutions, souffre bien
+moins impatiemment la supériorité d&#39;un seul, que
+l&#39;égalité d&#39;un grand nombre.
+</p>
+<p>
+Le desordre le plus effroyable de la monarchie,
+c&#39;est que les <i>grands</i> parviennent à usurper l&#39;autorité
+qui leur est confiée, &amp; qu&#39;ils tournent contre le prince 
+&amp; contre l&#39;état lui-même, les forces de l&#39;état déchiré 
+par les factions. Telle étoit la situation de la
+France lorsque le cardinal de Richelieu, ce génie
+hardi &amp; vaste, ramena les <i>grands</i> sous l&#39;obéissance
+du prince, &amp; les peuples sous la protection de la loi.
+On lui reproche d&#39;avoir été trop loin ; mais peut-être
+n&#39;avoit-il pas d&#39;autre moyen d&#39;affermir la monarchie,
+de rétablir dans sa direction naturelle ce
+grand arbre courbé par l&#39;orage, que de le plier dans
+le sens opposé.
+</p>
+<p>
+La France formoit autrefois un gouvernement fédératif 
+très-mal combiné, &amp; sans cesse en guerre
+avec lui-même. Depuis Louis XI. tous ces co-états
+avoient été réunis en un ; mais les grands vassaux
+conservoient encore dans leurs domaines l&#39;autorité
+qu&#39;ils avoient eue sous leurs premiers souverains, &amp;
+les gouverneurs qui avoient pris la place de ces souverains,
+s&#39;en attribuoient la puissance. Ces deux partis 
+opposoient à l&#39;autorité du monarque des obstacles
+qu&#39;il falloit vaincre. Le moyen le plus doux, &amp; par
+conséquent le plus sage, étoit d&#39;attirer à la cour ceux
+qui dans l&#39;éloignement &amp; au milieu des peuples accoûtumés 
+à leur obéir, s&#39;étoient rendus si redoutables.
+Le prince fit briller les distinctions &amp; les graces ; 
+les <i>grands</i> accoururent en foule ; les gouverneurs 
+furent captivés, leur autorité personnelle s&#39;évanoüit 
+en leur absence, leurs gouvernemens héréditaires 
+devinrent amovibles, &amp; l&#39;on s&#39;assûra de leurs
+successeurs ; les seigneurs oublierent leurs vassaux,
+ils en furent oubliés ; leurs domaines furent divisés,
+aliénés, dégradés insensiblement, &amp; il ne resta plus du
+gouvernement féodal que des blasons &amp; des ruines.
+</p>
+<p>
+Ainsi la qualité de <i>grand</i> de la cour n&#39;est plus qu&#39;une 
+foible image de la qualité de <i>grand du royaume</i>.
+Quelques-uns doivent cette distinction à leur naissance.
+La plûpart ne la doivent qu&#39;à la volonté du
+souverain ; car la volonté du souverain fait les <i>grands</i>
+comme elle fait les nobles, &amp; rend la grandeur ou
+personnelle, ou héréditaire à son gré. Nous disons
+<i>personnelle</i> ou <i>héréditaire</i>, pour donner au titre de
+<i>grand</i> toute l&#39;étendue qu&#39;il peut avoir ; mais on ne
+doit l&#39;entendre à la rigueur que de la grandeur héréditaire,
+telle que les princes du sang la tiennent de
+leur naissance, &amp; les ducs &amp; pairs de la volonté de
+nos rois. Les premieres places de l&#39;état s&#39;appellent <i>dignités</i> dans l&#39;église &amp; dans la robe, <i>grades</i> dans l&#39;épée,
+<i>places</i> dans le ministere, <i>charges</i> dans la maison royale ; 
+mais le titre de <i>grand</i>, dans son étroite acception,
+ne convient qu&#39;aux pairs du royaume.
+</p>
+<p>
+Cette réduction du gouvernement féodal à une
+grandeur qui n&#39;en est plus que l&#39;ombre, a dû coûter
+cher à l&#39;état ; mais à quelque prix qu&#39;on achette l&#39;unité 
+du pouvoir &amp; de l&#39;obéissance, l&#39;avantage de n&#39;être 
+plus en bute au caprice aveugle &amp; tyrannique de
+l&#39;autorité fiduciaire, le bonheur de vivre sous la tutele 
+inviolable des lois toûjours prêtes à s&#39;armer contre 
+les usurpations, les vexations &amp; les violences ;
+il est certain que de tels biens ne seront jamais trop
+payés.
+<pb n="7:850" facs="V7/ENC_7-850.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Dans la constitution présente des choses il nous
+semble donc que les <i>grands</i> sont dans la monarchie
+françoise, ce qu&#39;ils doivent être naturellement dans
+toutes les monarchies de l&#39;Univers ; la nation les respecte 
+sans les craindre ; le souverain se les attache
+sans les enchaîner, &amp; les contient sans les abattre:
+pour le bien leur crédit est immense ; ils n&#39;en ont aucun 
+pour le mal, &amp; leurs prérogatives mêmes sont de
+nouveaux garans pour l&#39;état du zele &amp; du dévouement 
+dont elles sont les récompenses.
+</p>
+<p>
+Dans le gouvernement despotique tel qu&#39;il est souffert 
+en Asie, les <i>grands</i> sont les esclaves du tyran, &amp;
+les tyrans des esclaves ; ils tremblent &amp; ils font trembler : aussi barbares dans leur domination que lâches
+dans leur dépendance, ils achetent par leur servitude
+auprès du maître, leur autorité sur les sujets, également prêts à vendre l&#39;état au prince, &amp; le prince à
+l&#39;état ; chefs du peuple dès qu&#39;il se révolte, &amp; ses
+oppresseurs tant qu&#39;il est soûmis.
+</p>
+<p>
+Si le prince est vertueux, s&#39;il veut être juste, s&#39;il
+peut s&#39;instruire, ils sont perdus : aussi veillent-ils nuit
+&amp; jour à la barriere qu&#39;ils ont élevée entre le throne
+&amp; la vérité; ils ne cessent de dire au souverain, <i>vous
+pouvez tout</i>, afin qu&#39;il leur permette de tout oser ; ils
+lui crient, <i>votre peuple est heureux</i>, au moment qu&#39;ils
+expriment les dernieres gouttes de sa sueur &amp; de son
+sang ; &amp; si quelquefois ils consultent ses forces, il
+semble que ce soit pour calculer en l&#39;opprimant combien 
+d&#39;instans encore il peut souffrir sans expirer.
+</p>
+<p>
+Malheureusement pour les états où de pareils monstres 
+gouvernent, les lois n&#39;y ont point de tribunaux,
+la foiblesse n&#39;y a point de refuge : le prince s&#39;y reserve 
+à lui seul le droit de la vindicte publique ; &amp; tant
+que l&#39;oppression lui est inconnue, les oppresseurs sont
+impunis.
+</p>
+<p>
+Telle est la constitution de ce gouvernement déplorable,
+que non-seulement le souverain, mais chacun 
+des <i>grands</i> dans la partie qui lui est confiée, tient
+la place de la loi. Il faut donc pour que la justice y regne,
+que non-seulement un homme, mais une multitude 
+d&#39;hommes soient infaillibles, exempts d&#39;erreur
+&amp; de passion, détachés d&#39;eux-mêmes, accessibles à
+tous, égaux pour tous comme la loi ; c&#39;est-à-dire qu&#39;il
+faut que les <i>grands</i> d&#39;un état despotique soient des
+dieux. Aussi n&#39;y a-t-il que la théocratie qui ait le droit
+d&#39;être despotique ; &amp; c&#39;est le comble de l&#39;aveuglement 
+dans les hommes que d&#39;y prétendre ou d&#39;y consentir.
+<i>Article de M. <sc>Marmontel</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29079" id="51:235:86" vol="7">
+<index type="head" value="Garde ordinaire ou Garde-basse" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Escrime." />
+<index type="normclass" value="Escrime" />
+<index type="englishclass" value="Fencing" />
+<index type="generatedclass" value="Escrime" />
+<index type="pos" value="NA" />
+<head>Garde ordinaire</head>
+<p>
+<sc>Garde ordinaire</sc> <i>ou</i> <sc>Garde-basse</sc>, (<i>Escrime.</i>) est celle où le poignet est plus bas que la pointe.
+</p>
+<p>
+<i>Façon de se mettre en cette garde:</i> 1°. tournez la tête
+&amp; le pié droit en face de l&#39;ennemi ; 2°. portez le talon 
+gauche à deux longueurs de piés de distance du
+talon droit ; 3°. mettez le pié gauche perpendiculaire 
+au droit ; 4°. alignez les piés, desorte que le
+droit paisse passer derriere le talon gauche, sans laisser 
+d&#39;intervalle ; 5°. alignez les épaules sur le pié
+droit, ou ce qui est le même, mettez-les perpendiculaires 
+au pié gauche ; 6°. pliez le jarret gauche en
+avançant le genou, jusqu&#39;à qu&#39;il soit sur l&#39;à-plomb
+du bout de son pié (ceux qui ont le pié petit, peuvent 
+un peu passer cet à plomb); 7°. portez tout le
+corps sur le jarret gauche, &amp; enfoncez le dans les
+hanches ; 8°. étendez le genou droit sans le roidir,
+au contraire il faut en avoir l&#39;articulation flexible ;
+9°. posez le tronc du corps bien à-plomb, &amp; ne tendez 
+ni le ventre ni le derriere ; 10°. levez le bras
+gauche, &amp; arrondissez-le, ensorte que la naissance
+de la main soit au niveau &amp; vis-à vis le noeud de
+l&#39;épaule, &amp; la distance de la naissance de la main à
+ce noeud doit être de la longueur de l&#39;humerus ; 11°.
+levez le coude à la hauteur de l&#39;oeil, pour diminuer
+le poids du bras ; 12°. avancez la main droite jusqu&#39;à
+ce que le pouce soit sur l&#39;à-plomb du bout de son pié ;
+13°. tournez la main droite de façon que le plat de la
+lame faste un angle de 45 degrés avec l&#39;horison ; 14°.
+mettez le pommeau à hauteur de la ceinture ; 15°.
+tenez la pointe de votre épée à hauteur du noeud de
+l&#39;epaule, &amp; jamais plus. <i>Nota</i>. Que les jointures de
+votre bras soient souples sans être trop pliées.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29540" id="53:49" vol="7">
+<index type="head" value="GIBELIN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="s.m." />
+<head>GIBELIN</head>
+<p>
+GIBELIN, s. m. (<i>Hist. mod.</i>) nom de la faction
+opposée à celle des <i>Guelphes</i>. Quelques-uns fixent le
+commencement de ces deux factions à l&#39;an 1140.
+</p>
+<p>
+On se rappellera sans doute que les <i>Gibelins</i>
+étoient attachés aux prétentions des empereurs,
+dont l&#39;empire en Italie n&#39;étoit qu&#39;un vain titre, &amp;
+que les Guelphes étoient soûmis aux volontés des
+pontifes régnans.
+</p>
+<p>
+Nous ne remonterons point à l&#39;origine de ces deux
+partis ; nous ne crayonnerons point le tableau de
+leurs ravages, encore moins rapporterons-nous les
+conjectures odieuses des savans sur l&#39;étymologie des
+noms <i>Guelphe</i> &amp; <i>Gibelin ;</i> c&#39;est assez de dire, avec
+l&#39;auteur de l&#39;<i>essai sur l&#39;Histoire générale</i>, que ces deux
+factions desolerent également les villes &amp; les familles ; 
+&amp; que pendant les xij. xiij. &amp; xjv. siecles, l&#39;Italie devint par leur animosité le théatre, non d&#39;une
+guerre, mais de cent guerres civiles, qui, en aiguisant<gap type="hyphenpb" />
+<pb n="7:658" facs="V7/ENC_7-658.jpeg" />
+<milestone unit="column" n="1" />
+les esprits, accoûtumerent les petits potentats
+italiens à l&#39;assassinat &amp; à l&#39;empoisonnement.
+</p>
+<p>
+Boniface VIII. ne fit qu&#39;accroître le mal ; il devint
+aussi cruel guelphe en devenant pape, qu&#39;il avoit été
+violent <i>gibelin</i> pendant qu&#39;il fut simple particulier.
+On raconte à ce sujet qu&#39;un premier jour de carême,
+donnant les cendres à un archevêque de Genes, il
+les lui jetta au nez, en lui disant:
+<blockquote> 
+« Souviens-toi que
+tu es <i>gibelin</i>,»
+</blockquote>
+au lieu de lui dire, souviens-toi
+que tu es homme.
+</p>
+<p>
+Je ne sais si beaucoup de curieux en matiere historique,
+seront tentés de lire aujour d&#39;hui dans Villani,
+Sigonius, Ammirato, Biondo, ou autres historiens,
+le détail des horreurs de ces deux factions ; mais les
+gens de goût liront toûjours le Dante : cet homme
+de génie, si long-tems persécuté par Boniface VIII.
+pour avoir été <i>gibelin</i>, a exhalé dans ses vers toute
+sa douleur sur les querelles de l&#39;Empire &amp; du Sacerdoce. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

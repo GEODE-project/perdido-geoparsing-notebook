@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30192" id="54:84:5" vol="7">
+<index type="head" value="Grattoir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Bijoutier" />
+<index type="normclass" value="Bijoutier" />
+<index type="englishclass" value="Jeweller" />
+<index type="generatedclass" value="Bijoutier" />
+<index type="pos" value="NA" />
+<head>Grattoir</head>
+<p>
+<sc>Grattoir</sc>, <i>en terme de Bijoutier</i>, est un outil de
+fer trempé, de diverses formes, selon le besoin de
+l&#39;artiste ; il a toûjours une partie tranchante. Pour en
+comprendre l&#39;utilité, il faut distinguer dans la manoeuvre 
+deux tems ou l&#39;ouvrier est obligé de s&#39;en servir.
+</p>
+<p>
+1°. Quand son lingot est fondu &amp; forgé d&#39;une
+certaine épaisseur ; il le découvre avec un <i>grattoir</i>
+de toutes parts, pour en enlever les pailles ou impuretés 
+provenues de la fonte &amp; des sels dont on
+s&#39;est servi pour faciliter la fusion du métal : il
+n&#39;est besoin pour cette opération que d&#39;un <i>grattoir</i>
+plat pour découvrir, &amp; d&#39;un demi-rond pour enlever<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les impuretés profondes : cette opération s&#39;appelle 
+<i>épailler. Voyez</i> <sc><ref target="head:Épailler" type="search">Épailler</ref></sc>.
+</p>
+<p>
+2°. Quand la tabatiere, garniture, ou autre bijou
+quelconque, est au point de perfection que pour le
+polir en-dedans il faut le reparer, c&#39;est-là le second
+tems où l&#39;artiste est obligé d&#39;employer cette sorte
+d&#39;outil : pour amener son bijou à ce point, il a fallu
+nécessairement qu&#39;il aille plusieurs fois au feu, qu&#39;il
+restât plusieurs heures dans l&#39;eau mixte, d&#39;où il a
+résulte une espece de croûte qu&#39;il faut enlever ; il a
+fallu en outre employer des soudures qui dans la
+fusion, laissent toûjours des superfluités qu&#39;il faut
+faire disparoître, ces bijoux n&#39;étant point égaux dans
+leurs formes : la diversité des angles &amp; des cavités
+qu&#39;il faut nettoyer, décident l&#39;artiste sur la forme
+qu&#39;il doit donner à son outil.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

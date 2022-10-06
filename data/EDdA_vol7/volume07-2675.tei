@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30129" id="54:52:15" vol="7">
+<index type="head" value="Grand Gosier" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Ornith." />
+<index type="normclass" value="Ornithologie" />
+<index type="englishclass" value="Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Grand Gosier</head>
+<p>
+<sc>Grand Gosier</sc>, (<i>Ornith.</i>) gros oiseau marin
+plus fort qu&#39;une oie ; il a l&#39;air triste &amp; pesant ; ses
+jambes sont courtes &amp; fortes : son cou est long, ainsi
+que son bec, dont la partie inférieure s&#39;élargit à volonté 
+pour laisser passer librement les gros poissons
+que l&#39;oiseau reçoit dans une grande poche qu&#39;il a
+au-dessous de ce bec. On prétend qu&#39;on peut apprivoiser 
+cet oiseau, &amp; s&#39;en servir comme d&#39;un pourvoyeur,
+en lui faisant regorger le poisson qu&#39;il a pris.
+Nous ne garantissons point ce fait. Son plumage est
+blanchâtre &amp; gris-mêlé de quelques plumes noires
+aux aîles. Quelques-uns le nomment <i>pélicant</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

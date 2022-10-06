@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27745" id="49:35" vol="7">
+<index type="head" value="FORJUR ou FORJUREMENT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>FORJUR ou FORJUREMENT</head>
+<p>
+FORJUR <i>ou</i> FORJUREMENT, s. m. (<i>Jurisprud.</i>)
+c&#39;est en Normandie une espece d&#39;abdication &amp; de
+délaissement que l&#39;on fait de quelque chose. <i>Forjurer
+le pays</i>, c&#39;est abandonner le pays &amp; se retirer ailleurs,
+comme font les forbannis &amp; forjugés. Dans
+les anciens arrêts du parlement, il est souvent fait
+mention de <i>forjurer</i>, lorsqu&#39;il est traité des assûremens.
+<i>Forjurer les facteurs</i> en Hainaut, signifie <i>renier
+les criminels</i>, &amp; <i>abjurer</i> tellement leur parenté qu&#39;on
+ne prenne plus de part à leurs différends. Cet usage
+avoit pris son origine des guerres privées, dans lesquelles 
+les parens entroient de part &amp; d&#39;autre en faveur 
+de leur parent ; &amp; quand une fois on avoit <i>forjuré</i> un parent, on ne lui succédoit plus, comme il se
+voit dans le <i>ch. lxxxviij.</i> des lois d&#39;Henri I. roi d&#39;Angleterre, publiées par Lambard : <i>Si quis propter foridiam 
+vel causam aliquam de parentelâ, se velit tollere &amp;
+eam fori juraverit, &amp; de societate &amp; hereditate &amp; totâ
+illius ratione se separet</i>. Il étoit autrefois d&#39;usage en
+Hainaut, que quand un meurtre avoit été commis,
+ou qu&#39;il y avoit eu quelqu&#39;un blessé grievement jusqu&#39;à perdre quelque membre, si les auteurs du délit
+ou leurs assistans s&#39;absentoient ou se tenoient dans
+des lieux francs, les parens du côté du pere comme
+de la mere, étoient tenus de <i>forjurer</i> les accusés:
+mais la coûtume de Hainaut, <i>ch. xlv.</i> abolit ce <i>forjur</i>, &amp; défend aux sujets de ce pays d&#39;user dorénavant 
+de cette coûtume.
+</p>
+<p>
+<i>Forjurer son héritage</i>, dans l&#39;ancienne coûtume de
+Normandie, <i>ch. x.</i> c&#39;est le vendre &amp; aliéner. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

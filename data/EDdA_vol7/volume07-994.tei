@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28448" id="50:172:5" vol="7">
+<index type="head" value="Frontaux, (Sinus)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chirurg. " />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Frontaux, (Sinus</head>
+<p>
+<sc>Frontaux, (Sinus</sc>) <i>Chirurg</i>. Il est avantageux
+aux Chirurgiens d&#39;avoir une connoissance exacte de
+la structure des <i>sinus frontaux</i>, afin de n&#39;y pas appliquer 
+le trépan, parce que l&#39;ulcere resteroit toûjours
+fistuleux, &amp; afin de ne pas prendre la membrane qui
+les revêt pour la dure-mere.
+</p>
+<p>
+Il est quelquefois arrivé au sujet des plaies pénétrantes 
+dans les <i>sinus frontaux</i>, que la mucosité qu&#39;ils 
+fournissent étant de couleur grisâtre, abondante,
+trop épaissie, &amp; s&#39;échappant par la blessure, des chirurgiens 
+ignorans ont pris cette humeur glutineuse
+pour la substance corticale du cerveau, &amp; en conséquence 
+ont appliqué le trépan au grand détriment
+du malade.
+</p>
+<p>
+On peut connoître que les plaies pénetrent dans
+les <i>sinus frontaux</i>, 1°. quand l&#39;humeur muqueuse
+sort par la plaie ; 2°. quand la bouche étant fermée
+&amp; l&#39;air poussé avec force, la chandelle que l&#39;on tient
+allumée près de la plaie est tellement agitée, qu&#39;elle
+est prête à s&#39;éteindre ; 3°. si l&#39;on verse dans la blessure 
+une liqueur amere, ou d&#39;une autre saveur, elle
+se fait sentir dans la bouche ; 4°. enfin si l&#39;on seringue 
+quelque liqueur dans la même plaie, elle s&#39;écoulera 
+par le nez. Au surplus les plaies qui pénetrent
+dans les <i>sinus frontaux</i>, se guérissent difficilement,
+&amp; dégénerent d&#39;ordinaire en fistules &amp; en ulceres
+malins ; parce qu&#39;il s&#39;amasse dans ces parties une humeur 
+huileuse, laquelle venant à se corrompre, ne
+manque pas de carier les os qui sont dans le voisinage.
+</p>
+<p>
+Fallope non-seulement confirme cette vérité,
+mais il prétend même que les fractures pénétrantes
+dans les <i>sinus frontaux</i> ne se consolident point, tant
+à cause de la sécheresse de l&#39;os, qu&#39;à cause de l&#39;air
+que l&#39;on respire, qui s&#39;échappe sans cesse par l&#39;ouverture 
+de la plaie ; &amp; il assûre n&#39;avoir jamais vû
+une plaie de cette nature se fermer qu&#39;à un seul enfant,
+dans lequel la cavité du sinus fut remplie d&#39;une
+chair fongueuse.
+</p>
+<p>
+Enfin les plaies qui pénetrent dans les <i>sinus frontaux</i> ont, avec les yeux, une si grande communication,
+que Fabrice de Hilden dit avoir vû (<i>centur. ji.
+observ. 400.</i>) que le pus acre qui découloit d&#39;une
+plaie de ce genre dans les cavités frontales, tomba
+sur la conjonctive, &amp; poussa l&#39;oeil hors de sa place.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

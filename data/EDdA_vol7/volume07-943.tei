@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28397" id="50:151" vol="7">
+<index type="head" value="FRISSON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.m." />
+<head>FRISSON</head>
+<p>
+FRISSON, s. m. (<i>Medecine.</i>) c&#39;est un mouvement
+convulsif très-prompt de la surface du corps, c&#39;est-à-dire des tégumens, qui se fait à l&#39;occasion d&#39;un sentiment 
+de froid externe, causé par l&#39;application subite 
+d&#39;un air, ou de tout autre corps beaucoup plus
+froid que l&#39;air dont on étoit environné dans l&#39;instant
+précédent ; ou par un embarras de la circulation du
+sang dans les vaisseaux cutanés, en conséquence duquel 
+embarras la chaleur de la peau est considérablement 
+diminuée, &amp; les nerfs qui en sont affectés de la
+même maniere, portent à l&#39;ame la même impression
+que si le froid étoit de cause externe, absolument
+étrangere au corps.
+</p>
+<p>
+Si ces différentes causes sont de nature à se renouveller 
+ou à subsister, &amp; à produire les mêmes effets 
+pendant un tems considérable, sans interruption,
+ce mouvement extraordinaire de la peau est
+le <i>frisson</i> proprement dit ; si elles ne sont qu&#39;instantanées,
+ou qu&#39;elles ne se fassent sentir que par intervalles,
+la convulsion de la peau est appellée <i>frissonnement</i> comme par diminutif.
+</p>
+<p>
+L&#39;un &amp; l&#39;autre de ces mouvemens contre nature,
+constituent un véritable tremblement de la peau,
+dont les causes occasionnelles prochaines &amp; finales
+ne different que par le siége &amp; l&#39;intensité de celles du
+tremblement des membres : celui-là, comme celui-ci,
+peut être produit par le froid, être un symptome
+<pb n="7:311" facs="V7/ENC_7-311.jpeg" />
+<milestone unit="column" n="1" />
+de fievre, ou de différentes affections de l&#39;ame : ainsi
+<i>voyez</i> <sc><ref target="head:Tremblement" type="search">Tremblement</ref></sc>, (<i>Patholog.</i>) 
+<sc><ref target="head:Fievre" type="search">Fievre</ref>, <ref target="head:Passion" type="search">Passion</ref>, <ref target="head:Nature" type="search">Nature</ref></sc>
+. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

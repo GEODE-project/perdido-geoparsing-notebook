@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30198" id="54:84:11" vol="7">
+<index type="head" value="Grattoir à creuser" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Papillon" />
+<index type="shortauth" value="Papillon" />
+<index type="kafnum" value="101" />
+<index type="kafauth" value="Papillon, Jean-Baptiste-Michel (1698-1776)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gravure en bois." />
+<index type="normclass" value="Gravure en bois" />
+<index type="englishclass" value="Woodcut engraving" />
+<index type="generatedclass" value="Gravure en bois" />
+<index type="pos" value="NA" />
+<head>Grattoir à creuser</head>
+<p>
+<sc>Grattoir à creuser</sc>, (<i>Gravure en bois.</i>) c&#39;est
+un outil qui sert à polir le bois, dans la nouvelle maniere 
+de le préparer selon M. Papillon, pour y graver 
+les lointains &amp; points éclairés. <i>Voyez la figure de
+cet outil, <ref target="XPL:5389" type="platelink">Pl. du suppl</ref>. de la Gravure en bois, <ref target="XPL:5390" type="platelink">fig. 2</ref>.</i>
+&amp; la maniere de s&#39;en servir, immédiatement après
+les principes de cet art, dans l&#39;<i>article des secrets &amp;
+nouvelles manieres de préparer le bois</i>, &amp;c. <i>Article de
+M. <sc>Papillon</sc></i>.
+</p>
+<p>
+La Gravure en cuivre a aussi son <i>grattoir</i>, qui n&#39;a
+rien de particulier.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,171 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30142" id="54:63" vol="7">
+<index type="head" value="GRANULATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métall." />
+<index type="normclass" value="Métallurgie" />
+<index type="englishclass" value="Metallurgy" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.f." />
+<head>GRANULATION</head>
+<p>
+GRANULATION, s. f. (<i>Métall.</i>) réduction des
+métaux en poudre ou en petite grenaille, afin qu&#39;ils
+puissent se fondre plus aisément, &amp; se mêler plus
+également avec d&#39;autres corps dans certaines opérations 
+délicates.
+</p>
+<p>
+C&#39;est ce qu&#39;on exécute d&#39;une façon grossiere par
+la voie humide, en jettant les métaux quand ils sont
+en fusion, dans l&#39;eau froide, au-travers d&#39;un balai
+de genêt ou de bouleau tout neuf ; ou plûtôt en les
+faisant passer dans un cylindre creux percé de trous,
+espece de couloir destiné à cette opération. Mais la
+meilleure méthode de <i>granuler</i> les métaux cassans,
+se pratique par la voie seche, c&#39;est-à-dire en jettant
+ces sortes de métaux au moment qu&#39;ils sont en fusion,
+dans une boîte de bois bien enduite intérieurement 
+de craie : on <i>granule</i> parfaitement Je plomb
+de cette maniere, &amp; voici comment il faut s&#39;y
+prendre.
+</p>
+<p>
+Mettez une certaine quantité de plomb dans une
+cueillere de fer ; faites-le fondre lentement sur un
+petit feu ; dès qu&#39;il sera entierement liquéfié, versez-le 
+dans votre boîte de bois, dont l&#39;intérieur, ainsi
+que son couvercle, qui doit être juste &amp; bien fait,
+seront partout enduits de craie ; secouez sur le champ
+votre boîte avec le métal fondu que vous venez d&#39;y
+verser, &amp; secouez-la fortement, ensorte que le métal 
+soit violemment agité contre toutes les parois de
+la boîte ; continuez cette agitation jusqu&#39;à ce que le
+métal soit refroidi ; alors ouvrez la boîte, &amp; vous
+trouverez la plus grande partie de votre métal finement 
+<i>granulé</i>, c&#39;est-à-dire réduit en très-petits grains ;
+lavez tous ces grains dans l&#39;eau chaude, vous enleverez 
+la craie qui s&#39;y est attachée ; enfin passez-les
+par des couloirs pour en trier les diverses grosseurs.
+</p>
+<p>
+Le plomb, l&#39;étain, le cuivre, sont les métaux les
+plus propres à ce procedé, parce qu&#39;ils deviennent
+très-cassans lorsqu&#39;ils entrent en fusion. La craie
+dont on couvre tout l&#39;intérieur de la boîte de bois,
+y donne une grande force de résistance, &amp; l&#39;empêche 
+de se brûler, tandis que le métal secoué contre
+ses parois, acquérant de la fragilité, à mesure qu&#39;il
+se refroidit, se réduit par les secousses réitérées en
+une fine poudre, qu&#39;on ne peut obtenir par aucune
+autre méthode.
+</p>
+<p>
+Il y a pourtant quelques précautions à suivre dans
+ce procédé, qu&#39;il est bon de savoir ; 1°. le plomb
+<milestone unit="column" n="2" />
+ne doit pas être fondu à un feu violent, parce qu&#39;il
+dépose dans la fusion une pellicule sur sa surface, qui
+se regenere aussi souvent qu&#39;on l&#39;écarte ; de sorte
+que toutes ces pellicules se mêlant avec le métal,
+tandis que vous le secouez dans votre boîte, s&#39;opposent 
+à la <i>granulation ;</i> 2°. quoique le feu ne soit pas
+violent, il faut observer que le plomb soit toûjours
+fluide ; autrement il se réuniroit en masse presque
+aussi-tôt que vous le verseriez dans la boîte ; vous
+n&#39;en retireriez donc que peu de poudre, &amp; vous seriez 
+obligé de répéter le procédé à plusieurs reprises ; 
+3°. l&#39;espece de <i>granulation</i> dont nous parlons,
+ne doit pas s&#39;appliquer à tous les métaux ; on ne
+peut l&#39;obtenir de ceux qui sont d&#39;autant plus tenaces,
+qu&#39;ils approchent davantage de la fusion L&#39;or &amp;
+l&#39;argent, par exemple, sont de cette classe ; ils ne
+peuvent être <i>granulés</i> que par la méthode humide
+&amp; grossiere de l&#39;eau froide : du-moins les découvertes 
+de nos jours en ce genre ne s&#39;étendent pas plus
+loin. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28693" id="51:56" vol="7">
+<index type="head" value="GABIUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GABIUM</head>
+<p>
+<i>GABIUM</i>, (<i>Géog. anc.</i>) ville ancienne du Latium,
+dont Horace &amp; Properce parlent avec beaucoup de
+dédain ; il n&#39;en reste plus que des ruines à l&#39;endroit
+nommé <i>Campo-Gabio</i>, vers Palestrine, à quatre ou
+cinq bonnes lieues de Rome en tirant vers l&#39;orient.
+</p>
+<p>
+Du tems de Denis d&#39;Halicarnasse sous Auguste,
+<i>Gabium</i> étoit presque deserte ; mais ses ruines marquoient 
+qu&#39;elle avoit été une assez belle ville, puisqu&#39;avant la fondation de Rome, il y avoit à <i>Gabium</i>
+<milestone unit="column" n="2" />
+une école célebre où l&#39;on enseignoit les Beaux-Arts
+&amp; les Sciences à la jeunesse. Cicéron &amp; Plutarque la
+mettent au nombre des villes municipales : Junon y
+étoit particulierement honorée ; &amp; c&#39;est pour cela
+que Virgile appelle cette déesse, <i>Gabina Juno</i>.
+</p>
+<p>
+La voie Gabienne, <i>via Gabiniana</i>, ou <i>via Gabina</i>,
+étoit un chemin qui conduisoit de Salone à Clissa,
+anciennement dite <i>Andetrium</i>. Ce fut sur la voie Gabienne que Camille défit les Gaulois après la prise &amp;
+l&#39;embrasement de Rome, comme le marque Tite-Live : sur la même voie on voyoit le superbe tombeau 
+de Pallas, affranchi de Tibere, avec une inscription 
+encore plus arrogante, que Panvinus nous a
+conservée.
+</p>
+<p>
+La ceinture, ou plûtôt la troussure Gabienne, <i>cinctus Gabinus</i>, dont il est parlé dans Virgile, dans Horace, Lucain, Silius Italicus, &amp; autres auteurs, étoit
+une maniere particuliere qu&#39;avoient les Romains de
+trousser leur robe à la guerre, &amp; qu&#39;ils avoient prise
+des Gabiens : les Consuls &amp; les Préteurs en retinrent
+l&#39;usage sous les empereurs, quand ils faisoient les
+fonctions de leurs charges ; cette maniere consistoit
+à croiser les deux pans de leur robe en forme d&#39;écharpe 
+sur les épaules &amp; sur la poitrine, &amp; à les noüer
+ensemble pour les assujettir fixement. (<i>D J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

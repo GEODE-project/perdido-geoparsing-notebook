@@ -1,0 +1,157 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29378" id="52:160:1" vol="7">
+<index type="head" value="Genre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Formey" />
+<index type="shortauth" value="Formey" />
+<index type="kafnum" value="50" />
+<index type="kafauth" value="Formey, Jean-Henri-Samuel (1711-1797)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métaph." />
+<index type="normclass" value="Métaphysique" />
+<index type="englishclass" value="Metaphysics" />
+<index type="generatedclass" value="Métaphysique" />
+<index type="pos" value="s.m." />
+<head>Genre</head>
+<p>
+<sc>Genre</sc>, s. m. (<i>Métaph.</i>) notion universelle qui
+se forme par l&#39;abstraction des qualités qui sont les
+mêmes dans certaines especes, tout comme l&#39;idée
+de l&#39;espece se forme par l&#39;abstraction des choses qui
+se trouvent semblables dans les individus. Toutes
+les especes de triangle se ressemblent en ce qu&#39;elles
+sont composées de trois lignes qui forment trois angles ; 
+ces deux qualités, <i>figure de trois lignes &amp; de trois
+angles</i>, suffisent donc pour former la notion générique 
+du triangle. Les chevaux, les boeufs, les chiens,
+<i>&amp;c.</i> se ressemblent par les quatre piés : voilà le <i>genre</i> des quadrupedes qui exprime toutes ces especes.
+</p>
+<p>
+Le <i>genre</i> le plus bas est celui qui ne contient sous
+lui que des especes, au lieu que les <i>genres</i> supérieurs
+se subdivisent en de nouveaux <i>genres</i>. Le chien, par
+exemple, se partage en plusieurs especes, épagneuls,
+lévriers, <i>&amp;c.</i> mais comme ces especes n&#39;ont plus que
+des individus sous elles, si l&#39;on veut regarder l&#39;idée
+du chien comme un <i>genre</i>, c&#39;est le plus bas de tous ;
+au lieu que le quadrupede est un <i>genre</i> supérieur, dont
+les especes en contiennent encore d&#39;autres, comme
+l&#39;exemple du chien vient d&#39;en fournir la preuve.
+</p>
+<p>
+La méthode de former la notion de ces deux sortes 
+de <i>genre</i> est toûjours la même, &amp; l&#39;on continue
+à réunir les qualités communes à certains <i>genres</i> jusqu&#39;à ce qu&#39;on soit arrivé au <i>genre</i> suprème, à l&#39;être ;
+ces qualités s&#39;appellent <i>déterminations génériques</i>. Leur
+nombre s&#39;accroit à mesure que le <i>genre</i> devient moins
+étendu ; il diminue lorsque le <i>genre</i> s&#39;éleve : ainsi la
+notion d&#39;un <i>genre</i> inférieur est toûjours composée de
+celle du <i>genre</i> supérieur, &amp; des déterminations qui
+sont propres à ce <i>genre</i> subalterne. Qui dit un triangle 
+équilatéral désigne un <i>genre</i> inférieur ou une espece,
+&amp; il exprime la notion du <i>genre supérieur</i>, c.
+à. d. du triangle ; &amp; ensuite la nouvelle détermination 
+qui caractérise le triangle équilateral ; c&#39;est la
+raison d&#39;égalité qui se trouve entre les trois côtés.
+</p>
+<p>
+Les <i>genres</i> &amp; les especes se déterminent par les
+qualités essentielles. Si l&#39;on y faisoit entrer les modes<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+qui sont changeans, ces notions universelles ne
+seroient pas fixes, &amp; ne pourroient être appliquées
+avec succès ; mais comme il n&#39;est pas toûjours possible 
+de saisir les qualités essentielles, on a recours en
+physique &amp; dans les choses de fait aux qualités qui
+paroissent les plus constantes aux possibilités des
+modes, à l&#39;ordre &amp; à la figure des parties ; en un mot
+à tout ce qui peut caracteriser les objets qu&#39;on se propose 
+de réduire en certaines classes.
+</p>
+<p>
+La possibilité des <i>genres</i> &amp; des especes se découvre 
+en faisant attention à la production ou génération 
+des choses qui sont comprises sous ces <i>genres</i> ou
+especes ; dans les êtres composés les qualités des parties 
+&amp; la maniere dont elles sont liées servent à déterminer 
+les <i>genres</i> &amp; les especes. <i>Art. de M. <sc>Formey</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28014" id="49:142:1" vol="7">
+<index type="head" value="Fourmiliere" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econom. rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fourmiliere</head>
+<p>
+<sc>Fourmiliere</sc>, (<i>Econom. rustiq.</i>) Ces petits monceaux 
+de terre que les fourmis forment en cône pour
+leur demeure &amp; la nourriture de leurs petits, causent
+un grand dommage aux prairies seches des pays
+chauds, &amp; non-seulement en diminuant d&#39;autant le
+fourrage qui y est précieux, mais encore en altérant
+la seve de l&#39;herbe, &amp; ne laissant qu&#39;une nourriture
+pernicieuse au bétail affamé.
+</p>
+<p>
+La bonne méthode de ruiner toutes <i>fourmilieres</i>,
+consiste à les découper depuis le sommet en quatre
+parties, &amp; ensuite à creuser dans chacune assez profondement 
+pour détacher la racine de la <i>fourmiliere:</i>
+alors il faut en retourner la terre, &amp; l&#39;abaisser un peu
+plus que le niveau du reste du terrein : ce moyen rendra 
+cette terre plus humide, &amp; empêchera les fourmis 
+de rebâtir leurs logemens dans la même place:
+la terre de la <i>fourmiliere</i> qu&#39;on vient de détruire doit
+être jettée de toutes parts a une assez grande distance : sans quoi les fourmis ne manqueroient pas de se
+rassembler de nouveau, &amp; de construire pour leurs
+besoins une autre habitation voisine.
+</p>
+<p>
+Le tems propre à l&#39;opération dont il s&#39;agit ici, est
+l&#39;hyver, parce que la gelée &amp; les pluies de cette saison 
+contribuent beaucoup à la destruction des fourmis : mais alors il faut avoir soin de semer au printems 
+de la graine de sain-foin ou de luzerne sur la
+terre qui est nue &amp; pelée : autrement elle produiroit
+infiniment moins d&#39;herbe que les autres endroits.
+</p>
+<p>
+Dans quelques pays, où le nombre des <i>fourmilieres</i> est sort nuisible, on se sert d&#39;un instrument fait exprès 
+pour les couper ; c&#39;est une bêche pointue &amp;
+taillée en croissant, de maniere que tout le tranchant
+de la bêche fait plus que les trois quarts d&#39;un cercle : aussi coupe-t-elle de tous côtes, &amp; par conséquent 
+expédie très-promptement : enfin on peut
+employer au même usage les instrumens particuliers
+qui ont été imaginés pour détruire les taupinieres.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

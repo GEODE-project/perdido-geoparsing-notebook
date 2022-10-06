@@ -1,0 +1,155 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27540" id="48:49" vol="7">
+<index type="head" value="FONCTION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Algebre." />
+<index type="normclass" value="Algèbre" />
+<index type="englishclass" value="Algebra" />
+<index type="generatedclass" value="Algebre" />
+<index type="pos" value="s.f." />
+<head>FONCTION</head>
+<p>
+FONCTION, s. f. (<i>Algebre.</i>) les anciens géometres,
+ou plûtôt les anciens analystes ont appellé
+<i>fonctions</i> d&#39;une quantité quelconque <i>x</i> les différentes
+<i>puissances</i> de cette quantité (<i>voyez</i> <sc><ref target="head:Puissance" type="search">Puissance</ref></sc>) ;
+mais aujourd&#39;hui on appelle <i>fonction</i> de <i>x</i>, ou en général 
+d&#39;une quantité quelconque, une quantité algébrique 
+composée de tant de termes qu&#39;on voudra,
+&amp; dans laquelle <i>x</i> se trouve d&#39;une maniere quelconque,
+mêlée, ou non, avec des constantes ; ainsi <gap type="formula" />, <i>&amp;c.</i>
+sont des fonctions de <i>x</i>.
+</p>
+<p>
+De même <i>x</i><sup>2</sup><i>y</i>+<i>a y</i><sup>3</sup>, <i>&amp;c.</i> est une <i>fonction</i> de <i>x</i>
+&amp; de <i>y</i>, &amp; ainsi des autres.
+</p>
+<p>
+Tous les termes d&#39;une <i>fonction</i> de <i>x</i> sont censés
+avoir la même <i>dimension ;</i> quand ils ne l&#39;ont pas,
+c&#39;est qu&#39;il y a une constante sousentendue qu&#39;on prend
+pour l&#39;unité; ainsi dans <i>x</i><sup>2</sup>+<i>x</i><sup>3</sup>, on doit regarder
+<i>x<sup>2</sup></i> comme égale à <i>ax</i><sup>2</sup>, <i>a</i> étant l&#39;unité.
+</p>
+<p>
+Quand la <i>fonction</i> n&#39;est ni fraction ni radical, sa
+dimension est égale à celle d&#39;un de ses termes. Ainsi
+la <i>fonction x</i><sup>2</sup>+<i>x</i><sup>3</sup> est de trois dimensions.
+</p>
+<p>
+Quand la <i>fonction</i> est une fraction, la dimension est
+égale à celle du numérateur moins celle du dénominateur.
+Ainsi <gap type="formula" /> est de dimension 1, <gap type="formula" /> est de
+dimension-1, &amp; <gap type="formula" /> est de <i>dimension nulle.
+Voyez</i> <sc><ref target="head:Tautochrone" type="search">Tautochrone</ref> <i>&amp;</i> <ref target="head:Intégral" type="search">Intégral</ref></sc>.
+</p>
+<p>
+Quand la <i>fonction</i> est radicale, sa dimension est
+égale à celle de la quantité qui est sous le signe,
+divisée par l&#39;exposant du radical ; ainsi <gap type="formula" />
+est de 2/2=1 dimensions, <gap type="formula" /> &amp; <i>s d x</i>
+sont de 1+2/3=5/3 dimensions, <i>&amp;c.</i> &amp;
+ainsi des autres.
+</p>
+<p>
+<i>Fonction homogene</i> est une <i>fonction</i> de deux ou plusieurs<gap type="hyphenpb" />
+<pb n="7:51" facs="V7/ENC_7-51.jpeg" />
+<milestone unit="column" n="1" />
+variables <i>x, y</i>, &amp;c. dans laquelle la somme
+des dimensions de <i>x, y</i>, &amp;c. est la même.
+</p>
+<p>
+Ainsi <i>x</i><sup>2</sup><i>y</i>+<i>ax</i><sup>3</sup>+<i>by</i><sup>3</sup> est une <i>fonction</i> homogene ; 
+il en est de même de <gap type="formula" />,
+&amp;c. <i>Voyez</i> <sc><ref target="head:Homogene" type="search">Homogene</ref> <i>&amp;</i> <ref target="head:Intégral" type="search">Intégral</ref></sc>.
+</p>
+<p>
+<i>Fonctions semblables</i> sont celles dans lesquelles les
+variables &amp; les constantes entrent de la même maniere ; 
+ainsi <i>aa+xx</i> &amp; <i>AA+XX</i> sont des <i>fonctions</i> semblables des constantes <i>A, a</i>, &amp; des variables 
+<i>X, x</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

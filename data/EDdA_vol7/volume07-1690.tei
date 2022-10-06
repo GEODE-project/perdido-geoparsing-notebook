@@ -1,0 +1,102 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29144" id="52:2" vol="7">
+<index type="head" value="GARNISSEUR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Art méch." />
+<index type="normclass" value="Art méchanique" />
+<index type="englishclass" value="Mechanical arts" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="s.m." />
+<head>GARNISSEUR</head>
+<p>
+GARNISSEUR, s. m. (<i>Art méch.</i>) on appelloit
+<i>Selliers-Garnisseurs</i> ceux qui étoffoient, garnissoient
+&amp; montoient les corps des carrosses, coches, <i>&amp;c.</i>
+par opposition aux Lormiers-Eperoniers qu&#39;on appelloit 
+<i>ouvriers de forge</i>, parce que ceux-ci forgeoient 
+les ouvrages de leur métier ; ces deux
+communautés n&#39;en faisoient qu&#39;une autrefois, mais
+elles ont été séparées vers le milieu du dix-septieme
+siecle.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

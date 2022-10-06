@@ -1,0 +1,2245 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30237" id="54:102" vol="7">
+<index type="head" value="GRAVURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Beaux Arts." />
+<index type="normclass" value="Beaux-Arts" />
+<index type="englishclass" value="Fine arts" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="s.f." />
+<head>GRAVURE</head>
+<p>
+GRAVURE, s. f. (<i>Beaux Arts.</i>) On a déjà dit au
+<i>mot</i> <sc>Estampe</sc> quelque partie des choses qui ont rapport 
+à l&#39;art de graver ; mais cet art n&#39;a été regardé
+alors que du côté de ses productions. Nous devons
+entrer ici dans le détail des opérations nécessaires
+pour produire par les moyens qui lui sont propres,
+les ouvrages auxquels il est destiné.
+</p>
+<p>
+Les mots <i>gravure</i> &amp; <i>graver</i> viennent ou du grec
+<foreign lang="greek">γράφω</foreign>, qui signifie <i>j&#39;écris</i>, ou du latin <i>cavare</i>, creuser.
+</p>
+<p>
+Il est moins nécessaire de s&#39;arrêter à fixer son étymologie, que d&#39;expliquer précisément l&#39;action de
+graver. Cette action consiste à creuser, &amp; toutes les
+differentes matieres dans lesquelles on peut creuser
+les formes des objets qu&#39;on a dessein de graver sont
+comprises dans les idées générales de l&#39;art de la <i>Gravure</i>. La différence des matieres &amp; celle des outils &amp;
+des procédés qu&#39;on employe, distinguent les especes
+de <i>Gravure:</i> ainsi l&#39;on dit, <i>graver en cuivre, en bois,
+en or, en argent, en fer, en pierres fines</i>.
+</p>
+<p>
+Je commencerai par l&#39;art de graver en cuivre, non
+pas comme le plus ancien, mais comme celui qui est
+d&#39;un plus grand usage, &amp; sans doute d&#39;un usage plus
+utile aux hommes pour multiplier leurs connoissances.
+</p>
+<p>
+Dans les détails des opérations de cet art, j&#39;emprunterai 
+les préceptes &amp; les descriptions qui sont
+contenus dans un ouvrage d&#39;Abraham Bosse, graveur 
+du roi, qui a été considérablement enrichi par
+les lumieres de M. Cochin le fils, savant artiste de
+nos jours, qui dans une derniere édition de cet ouvrage 
+l&#39;a augmenté de différens traités que les progrès 
+de l&#39;art lui ont fournis, &amp; de réflexions justes
+qu&#39;il doit à son talent &amp; à ses succès.
+</p>
+<p>
+Le cuivre dont on se sert pour la <i>Gravure</i> dont je
+parle, est le cuivre rouge. Le choix que l&#39;on fait de
+cette espece de cuivre, est fondé sur ce que le cuivre 
+jaune est communement aigre, que sa substance
+n&#39;est pas égale, qu&#39;il s&#39;y trouve des pailles, &amp; que
+ces défauts sont des obstacles qui s&#39;opposent à la
+beauté des ouvrages auxquels on le destineroit. Le
+cuivre rouge même n&#39;est pas totalement à l&#39;abri de
+ces défauts ; il en est dont la substance est aigre, &amp;
+les traits qu&#39;on y grave se ressentent de cette qualité; 
+ils sont maigres &amp; rudes : il s&#39;en trouve de mou
+dont la substance approche (quant à cette qualité)
+de celle du plomb. Les ouvrages que l&#39;on y grave
+n&#39;ont pas la netteté qu&#39;on voudroit leur donner:
+<milestone unit="column" n="2" />
+l&#39;eau-forte ne l&#39;entame qu&#39;avec peine ; elle ne creuse
+pas, &amp; trompe l&#39;attente du graveur. Quelquefois on
+rencontre dans une même planche de cuivre ces qualités 
+opposées ; enfin on y trouve de petits trous imperceptibles,
+ou des taches desagréables.
+</p>
+<p>
+Le cuivre rouge qui a les qualités les plus propres
+à la <i>Gravure</i>, doit donc être plein, ferme, liant ; &amp;
+la façon de connoître s&#39;il est exempt des défauts contraires 
+que j&#39;ai énoncés, c&#39;est d&#39;y former quelques
+traits avec le burin en différens sens : alors, s&#39;il est
+aigre, le bruit que fera le burin en le coupant, &amp;
+le sentiment de la main, vous l&#39;indiqueront ; s&#39;il est
+mou, ce même sentiment qui vous rappellera l&#39;idée
+du plomb, vous le découvrira aussi.
+</p>
+<p>
+Lorsqu&#39;on a fait choix d&#39;un cuivre propre à graver,
+on doit mettre ses soins à ce qu&#39;il reçoive la
+préparation qui lui est nécessaire pour l&#39;usage auquel 
+on le destine. Les Chauderoniers l&#39;applanissent,
+le coupent, le polissent ; mais il est à-propos que les
+Graveurs connoissent eux-mêmes ces préparations,
+parce qu&#39;il pourroit se trouver que voulant faire
+usage de leur art dans un pays où il seroit inconnu,
+ils ne trouveroient pas les ouvriers en cuivre
+instruits des moyens qu&#39;il faut employer.
+</p>
+<p>
+Une planche de cuivre de la grandeur d&#39;environ
+un pié sur neuf pouces, doit avoir à-peu-près une
+ligne d&#39;épaisseur ; &amp; cette proportion peut régler
+pour d&#39;autres dimensions. La planche doit être bien
+forgée &amp; bien applanie à froid : c&#39;est par ce moyen
+que le cuivre devient plus serré &amp; moins poreux.
+</p>
+<p>
+Il s&#39;agit, après ce premier soin, de la polir. On
+choisit celui des deux côtés de la planche qui paroit 
+être plus uni &amp; moins rempli de gersures &amp; de
+pailles ; on attache la planche par le côté contraire 
+sur un ais, de maniere qu&#39;elle y soit retenue par
+quelques pointes ou clous ; alors on commence à
+frotter le côté apparent avec un morceau de grès,
+en arrosant la planche avec de l&#39;eau commune : on
+la polit ainsi le plus également qu&#39;il est possible, en
+passant le grès fortement dans tous les sens, &amp; en
+continuant de mouiller le cuivre &amp; le grès, jusqu&#39;à
+ce que cette premiere opération ait fait disparoître
+les marques des coups de marteau qu&#39;on a imprimés
+sur la planche en la forgeant.
+</p>
+<p>
+Lorsque ces marques ont disparu, ainsi que les
+pailles, les gersures, &amp; les autres inégalités qui
+pourroient s&#39;y rencontrer ; on substitue au grès la
+pierre-ponce bien choisie ; on s&#39;en sert en frottant
+le cuivre comme on a dejà fait en tous sens, &amp; en
+l&#39;arrosant d&#39;eau commune : l&#39;on efface ainsi les raies
+que le grain trop inégal du grès a laissées sur la planche ; 
+après quoi l&#39;on se sert pour donner un poli plus
+fin, d&#39;une pierre-ponce à aiguiser, qui pour l&#39;ordinaire 
+est de couleur d&#39;ardoise, quoiqu&#39;il s&#39;en trouve
+quelquefois de couleur d&#39;olive &amp; de rouge. Enfin le
+charbon &amp; le brunissoir achevent de faire disparoître
+de dessus la planche les plus petites inégalités.
+</p>
+<p>
+Voici comme il faut s&#39;y prendre pour préparer le
+charbon qu&#39;on doit employer. Vous choisirez des
+charbons de bois de saule qui soient assez gros &amp;
+pleins, qui n&#39;ayent point de fente ni de gersure, &amp;
+tels que ceux dont communément les Orfevres se
+servent pour souder. Vous ratisserez l&#39;écorce de ces
+charbons, vous les rangerez ensemble dans le feu,
+vous les couvrirez ensuite d&#39;autres charbons allumés 
+&amp; de quantité de cendre rouge ; desorte qu&#39;ils
+puissent demeurer sans communication avec l&#39;air,
+pendant environ une heure &amp; demie, &amp; que le feu
+les ayant entierement pénétrés, il n&#39;y reste aucune
+vapeur. Lorsque vous jugerez qu&#39;ils seront en cet
+état, vous les plongerez dans l&#39;eau &amp; les laisserez
+refroidir.
+</p>
+<p>
+Vous frotterez la planche qui a déjà été unie par le
+grès, la pierre-ponce, la pierre à aiguiser, avec un
+<pb n="7:878" facs="V7/ENC_7-878.jpeg" />
+<milestone unit="column" n="1" />
+charbon préparé, comme je viens de le dire, en arrosant 
+d&#39;eau commune &amp; le cuivre &amp; le charbon,
+jusqu&#39;à ce que vous ayez fait disparoître ainsi les
+marques que peuvent avoir laissées les pierres différentes 
+dont j&#39;ai indiqué l&#39;usage. Il faut remarquer
+que quelquefois il arrive qu&#39;un charbon glisse sur le
+cuivre sans le mordre, &amp; par conséquent sans le polir ; 
+il faut alors en choisir un autre qui soit plus propre 
+à cette opération, &amp; la repéter avec patience
+jusqu&#39;à ce que le cuivre soit exempt des moindres
+raies &amp; des plus petites inégalités apparentes. La derniere 
+préparation qu&#39;il peut recevoir, ou de la main
+de l&#39;ouvrier en cuivre, ou de celle de l&#39;artiste, c&#39;est
+d&#39;être bruni. On se sert pour cela d&#39;un instrument
+qu&#39;on nomme <i>brunissoir</i>. Cet instrument est d&#39;acier:
+l&#39;endroit par où l&#39;on s&#39;en sert pour donner le lustre à
+une planche, est extrèmement poli ; il a à-peu-près
+la forme d&#39;un coeur, comme on peut le voir dans la
+<i><ref target="XPL:5399" type="platelink">Planche premiere</ref></i> ayant rapport à l&#39;art du Graveur en
+cuivre, lettre <i>A.</i> Son épaisseur est de quelques lignes ; 
+il se termine en pointe, &amp; l&#39;usage qu&#39;on en fait
+après avoir répandu quelques gouttes d&#39;huile sur le
+cuivre, est de le passer diagonalement sur toute la
+planche, en appuyant un peu fortement la main ; ce
+qui s&#39;appelle <i>brunir</i>. C&#39;est ainsi qu&#39;on parvient à donner 
+à la planche de cuivre un poli pareil à celui
+d&#39;une glace de miroir, &amp; qu&#39;on fait disparoître les
+plus petites inégalites.
+</p>
+<p>
+Lorsqu&#39;on a mis en usage ces différens moyens, si
+l&#39;on veut être assûré que l&#39;on a réussi, il faut livrer la
+planche à un imprimeur en taille-douce, qui après
+l&#39;avoir frottée de noir &amp; essuyée, comme on a coûtume 
+de faire, lorsque la planche est gravée, la fera
+passer sous la presse avec une feuille de papier blanc.
+Les inégalités les moins sensibles, s&#39;il en reste quelques 
+-unes, s&#39;imprimeront sur le papier, &amp; vous serez 
+en état d&#39;ôter à la planche les moindres défauts
+qu&#39;elle pourroit avoir.
+</p>
+<p>
+Je crois qu&#39;après avoir instruit de la façon d&#39;apprêter 
+le cuivre, il faut commencer par les opérations 
+qui servent à graver à l&#39;eau forte ; après quoi
+j&#39;en viendrai à la maniere de graver au burin.
+</p>
+<p>
+Pour parvenir à faire usage de l&#39;eau-forte, il est
+nécessaire de couvrir la planche d&#39;un vernis ; &amp; voici
+les differentes manieres de composer les vernis dont
+on couvre les planches, comme je le dirai ensuite.
+</p>
+<p>
+Il est de deux especes de vernis : on nomme l&#39;un
+<i>vernis dur</i>, &amp; l&#39;autre <i>vernis mou</i>. Le premier par lequel 
+je commencerai est d&#39;un usage plus ancien. Voici
+sa composition.
+</p>
+<p>
+Prenez cinq onces de poix greque, ou, à son défaut,
+de la poix grasse, autrement poix de Bourgogne ; cinq onces de résine de Tyr ou colophone ; à
+son défaut, de la résine commune : faites fondre ce
+mélange ensemble sur un feu médiocre, dans un pot
+de terre neuf, bien plombé, vernissé, &amp; bien net.
+Ces deux ingrédiens étant fondus &amp; bien mêlés ensemble,
+mettez-y quatre onces de bonne huile de
+noix, ou d&#39;huile de lin ; mêlez bien le tout sur le feu
+durant une bonne demi-heure ; puis laissez cuire ce
+mélange jusqu&#39;à ce qu&#39;en ayant mis refroidir, &amp; le
+touchant avec le doigt, il file comme un sirop bien
+gluant : alors retirez le vernis de dessus le feu ; &amp;
+lorsqu&#39;il sera un peu refroidi, passez-le à-travers d&#39;un
+linge neuf, dans quelque vase de fayence ou de terre
+bien plombé; vous le serrerez ensuite dans une bouteille 
+de verre épais, ou dans quelqu&#39;autre vase qui
+ne s&#39;imbibe pas, &amp; que l&#39;on puisse bien boucher : le
+vernis se gardera alors vingt ans, &amp; n&#39;en sera que
+meilleur.
+</p>
+<p>
+Voilà la composition du vernis dur tel que Bosse
+le donne, &amp; tel qu&#39;il s&#39;en servoit sans doute. Voici
+celui dont se servoit Callot, &amp; qu&#39;on appelle vulgairement 
+<i>vernis de Florence</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Prenez un quarteron d&#39;huile grasse bien claire &amp;
+faite avec de bonne huile de lin, pareille à celle dont
+les Peintres se servent : faites-la chauffer dans un
+poëlon de terre vernissé &amp; neuf : ensuite mettez-y
+un quarteron de mastic en larmes pulvérisé; remuez
+bien le tout, jusqu&#39;à ce qu&#39;il soit fondu entierement.
+Passez alors toute la masse à-travers un linge fin &amp;
+propre, dans une bouteille qui ait un cou assez large ; 
+bouchez-la exactement pour que le vernis se
+conserve mieux.
+</p>
+<p>
+Je crois qu&#39;après avoir donné la composition du
+vernis dur, il est à-propos de dire la maniere d&#39;appliquer 
+ce vernis dur sur la planche de cuivre.
+</p>
+<p>
+La planche ayant été forgée, polie &amp; lustrée comme 
+je l&#39;ai dit ci-dessus, il faut encore prendre soin
+d&#39;ôter de sa surface la moindre impression grasse qui
+pourroit s&#39;y rencontrer ; pour cela vous la frotterez
+avec une mie de pain, un linge sec, ou bien avec un
+peu de blanc d&#39;Espagne mis en poudre, &amp; un morceau 
+de peau ; vous aurez soin sur-tout de ne pas
+passer les doigts &amp; la main sur le poli du cuivre,
+lorsque vous serez au moment d&#39;appliquer le vernis.
+Pour l&#39;appliquer sur la planche, vous l&#39;exposerez
+sur un réchaud dans lequel il y ait un feu médiocre ;
+lorsque le cuivre sera un peu échauffé, vous le retirerez ; 
+&amp; trempant alors dans le vase où vous conservez 
+votre vernis, une petite plume, un petit bâton,
+ou une paille, vous poserez du vernis sur la
+planche en assez d&#39;endroits, pour que vous puissiez
+ensuite l&#39;étendre par-tout &amp; l&#39;en couvrir ; au reste il
+faut remarquer que la façon ancienne dont Bosse fait
+mention pour étendre ce vernis, au moyen de la paume 
+de la main, est sujet à inconvénient, soit à cause
+de la transpiration de la main, soit parce qu&#39;il est difficile 
+de l&#39;étendre avec une grande égalité. Je croi donc
+qu&#39;il vaut mieux (&amp; j&#39;en parle par expérience) se
+servir de tampons faits avec de petits morceaux de
+taffetas neufs, dans lesquels on renferme un morceau
+de coton qui soit neuf aussi. Lorsqu&#39;on s&#39;est muni de
+quelques tampons proportionnés à la grandeur de la
+planche qu&#39;on veut vernir, on frappe doucement sur
+les endroits de la planche où l&#39;on a mis du vernis ; on
+l&#39;étend ainsi par-tout avec égalité; &amp; l&#39;on doit surtout 
+prendre garde qu&#39;il n&#39;y en ait une trop grande
+épaisseur, parce qu&#39;il seroit plus difficile de le faire
+cuire, &amp; de graver ensuite. Ce vernis, qui est fort
+transparent, pourroit aisément mettre dans l&#39;erreur
+ceux qui s&#39;en serviroient sans le connoître : il ne faut
+donc pas s&#39;attendre à voir facilement si le vernis a la
+juste épaisseur qui lui convient ; mais j&#39;avertis que
+lorsqu&#39;il semblera qu&#39;il n&#39;y en a point du tout, pour
+ainsi dire, il y en aura encore assez. Je me suis servi
+avec succès d&#39;un moyen pour l&#39;unir parfaitement : le
+voici. J&#39;ai coupé des morceaux de papier blanc fin &amp;
+lisse, à-peu-près de la grandeur de la planche ; &amp; les
+passant avec la paume de la main legerement sur la
+planche où j&#39;avois étendu le vernis à l&#39;aide des tampons 
+dont j&#39;ai parlé, je suis parvenu ainsi à rendre ma
+couche de vernis égale, &amp; aussi peu épaisse qu&#39;on
+peut le desirer.
+</p>
+<p>
+Cette opération faite, il faut donner au vernis par
+le moyen du feu le degré de consistance, qui lui fait
+donner le nom de <i>vernis d&#39;or ;</i> mais auparavant il faut
+le noircir, pour qu&#39;il soit plus facile d&#39;appercevoir
+les traits qu&#39;on forme avec les instrumens qui servent
+à graver.
+</p>
+<p>
+Pour noircir le vernis, vous vous servirez de plusieurs 
+bouts de bougie jaune que vous assemblerez,
+afin qu&#39;étant allumés, il en résulte une fumée grasse
+&amp; épaisse. Cela fait, vous attacherez au bord de votre 
+planche un, deux, trois ou quatre étaux, suivant
+la grandeur de la planche &amp; la difficulté de la manier.
+Ces étaux qui pour plus de commodité peuvent avoir
+des manches de fer propres à les tenir, vous donneront<gap type="hyphenpb" />
+<pb n="7:879" facs="V7/ENC_7-879.jpeg" />
+<milestone unit="column" n="1" />
+la facilité d&#39;exposer le côté de la planche que
+vous avez vernie à la fumée des bougies, comme
+vous verrez <i><ref target="XPL:5400" type="platelink">fig. 1</ref>. de la <ref target="XPL:5401" type="platelink">Planche</ref></i> qui a rapport a la
+<i>gravure sur cuivre</i>. Vous aurez attention de promener 
+continuellement ou la planche ou les bougies,
+pour que la flamme ne fasse pas trop d&#39;impression sur
+quelque endroit de la planche ; ce qui pourroit brûler 
+le vernis. Il faut aussi ne pas trop approcher le
+vernis de la meche, ou meme de la flamme. L&#39;usage
+indiquera le juste milieu qu&#39;il faut observer. Le point
+où il faut arriver, est de rendre la planche d&#39;un noir
+égal &amp; exempt de transparence, sans que le vernis
+soit brûlé dans aucun endroit.
+</p>
+<p>
+Venons au moyen de sécher, de cuire, &amp; durcir
+le vernis à l&#39;aide du feu. Il faut allumer une quantité
+de charbon proportionnée à la grandeur de la planche ; 
+vous formerez avec ces charbons, dans un endroit 
+qui soit sur-tout à l&#39;abri de la poussiere, un
+brasier dont l&#39;étendue excede de quelque chose la
+planche en tous sens ; vous aurez encore attention
+de mettre fort peu de charbons dans le milieu, parce 
+que la chaleur se concentrera assez, &amp; qu&#39;il faut
+plus de tems pour cuire les bords de la planche : lorsque 
+ces précautions seront prises, vous exposerez
+votre planche sur ce brasier, à l&#39;aide de deux petits
+chenets faits exprès, ou de deux étaux, avec lesquels 
+vous la tiendrez suspendue à quelques pouces
+du feu. On doit comprendre que le côté de la planche 
+sur lequel est appliqué le vernis, n&#39;est pas celui
+qui doit être tourné vers le brasier, il se trouvera
+dessus ; &amp; pour éviter qu&#39;il n&#39;y tombe d&#39;atomes de
+poussiere, ce qui est très-essentiel, vous étendrez un
+linge qui vous garantira de ces petits accidens. Lorsqu&#39;après l&#39;espace de quelques minutes, vous verrez
+votre planche jetter de la fumée, vous vous tiendrez 
+prêt à la retirer ; &amp; pour ne pas risquer de le
+faire trop tard, ce qui pourroit arriver si l&#39;on attendoit 
+qu&#39;elle ne rendît plus de fumée du tout, vous
+éprouverez en touchant le vernis avec un petit bâton,
+s&#39;il résiste ou s&#39;il cede au petit frottement que
+vous lui ferez éprouver ; s&#39;il s&#39;attache au bâton, &amp; s&#39;il
+quitte le cuivre, il n&#39;est pas encore durci ; s&#39;il fait
+résistance, &amp; s&#39;il ne s&#39;attache point au bâton, vous
+le retirerez ; &amp; si par hasard vous avez tardé un peu
+trop long-tems, &amp; que vous craigniez qu&#39;il ne soit
+un peu trop cuit, vous arroserez le derriere de la
+planche avec de l&#39;eau fraîche ; parce que la chaleur
+que le cuivre retient assez long-tems après avoir été
+séparé du feu, donneroit au vernis un trop grand
+degré de cuisson ; il seroit alors difficile à travailler,
+&amp; s&#39;écailleroit.
+</p>
+<p>
+Je vais à-présent parler du vernis mou ; après quoi
+je donnerai les moyens de transmettre un dessein sur
+le vernis, &amp; ensuite de le graver.
+</p>
+<p>
+Voici différentes compositions du vernis mou.
+</p>
+<p>
+<i>Composition du vernis mou suivant Bosse</i>. Prenez
+une once &amp; demie de cire vierge bien blanche &amp;
+nette, une once de mastic en larmes pur &amp; net,
+une demi-once de spalt calciné; broyez bien le mastic 
+&amp; le spalt ; faites fondre au feu votre cire dans
+un pot de terre bien plombé &amp; verni par-dedans ;
+quand elle sera entierement fondue &amp; bien chaude,
+vous la saupoudrerez de ce mastic peu-à-peu, afin
+qu&#39;il fonde &amp; qu&#39;il se mêle. Vous remuerez le tout
+avec un petit bâton. Ensuite vous saupoudrerez ce
+mélange avec le spalt, comme vous avez fait la cire
+avec le mastic, en remuant encore le tout sur le feu
+jusqu&#39;à ce que le spalt soit bien fondu &amp; mêlé avec
+le reste, c&#39;est-à-dire environ la moitié d&#39;un demi-quart-d&#39;heure ; puis vous l&#39;ôterez du feu &amp; le laisserez 
+refroidir. Ayant ensuite mis de l&#39;eau claire dans
+un plat, vous y verserez le vernis, &amp; vous le pétrirez 
+avec vos mains dans cette eau ; vous en formerez<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ainsi de petites boules, que vous envelopperez
+dans du taffetas pour servir comme je le dirai.
+</p>
+<p>
+Je passe sous silence les differentes combinaisons
+qu&#39;on peut faire des ingrédiens avec lesquels cette
+sorte de vernis peut se composer ; vous en trouverez
+plusieurs décrites dans le livre de Bosse, de l&#39;édition
+de 1745. Voici seulement une façon de le composer
+qui me paroît une des meilleures, après avoir éprouvé 
+toutes les autres.
+</p>
+<p>
+Faites fondre dans un vase neuf de terre vernie
+deux onces de cire vierge, demi-once de poix noire,
+&amp; demi-once de poix de Bourgogne. Il faut y ajoûter 
+peu-à-peu deux onces de spalt, que l&#39;ou aura réduit 
+en poudre très-fine. Laissez cuire le tout jusqu&#39;à
+ce qu&#39;en ayant fait tomber une goutte sur une assiette,
+cette goutte étant bien refroidie puisse se rompre
+en la pliant trois ou quatre fois entre les doigts : alors
+le vernis est assez cuit, il faut le retirer du feu, le
+laisser refroidir un peu, puis le verser dans de l&#39;eau
+tiede, afin de pouvoir le manier facilement, &amp; en
+faire de petites boules que l&#39;on enveloppera dans du
+taffetas neuf pour s&#39;en servir.
+</p>
+<p>
+Il y a quelques observations à faire, qui serviront
+dans les différens procédés qu&#39;on employera pour la
+composition du vernis.
+</p>
+<p>
+1°. Il faut prendre garde que le feu ne soit pas trop
+violent, de crainte que les ingrédiens dont on se sert
+ne brûlent.
+</p>
+<p>
+2°. Pendant qu&#39;on employe le spalt, &amp; même après
+l&#39;avoir employé, il faut remuer le mélange continuellement 
+avec une spatule ou un petit morceau
+de bois.
+</p>
+<p>
+3°. L&#39;eau dans laquelle on versera la composition
+doit être à-peu-près du même degré de chaleur que
+les drogues qu&#39;on y verse.
+</p>
+<p>
+4°. Il faut faire ensorte que le vernis soit plus dur,
+pour s&#39;en servir en été, que pour l&#39;employer en hyver.
+On parviendra à le rendre plus ferme, en lui
+donnant un plus grand degré de cuisson, ou en mettant 
+une plus forte dose de spalt, ou un peu de poix-résine.
+</p>
+<p>
+La maniere d&#39;appliquer ce vernis sur la planche,
+differe un peu de la maniere d&#39;appliquer le vernis
+dur.
+</p>
+<p>
+J&#39;ai dit à la fin de la préparation que je viens de
+donner, que lorsque le vernis est assez cuit, il faut le retirer 
+du feu, le laisser refroidir un peu, puis le verser
+dans de l&#39;eau tiede, afin de pouvoir le manier facilement 
+&amp; en faire de petites boules que l&#39;on enveloppera 
+dans du taffetas neuf pour s&#39;en servir. Vous tiendrez
+au moyen d&#39;un étau votre planche sur un réchaud,
+dans lequel il y aura un feu médiocre ; vous lui donnerez 
+une chaleur modérée ; &amp; passant alors le morceau 
+de taffetas dans lequel est enfermée la boule de
+vernis que vous avez pétrie sur la planche en divers
+sens, la chaleur fera fondre doucement le vernis, qui
+se faisant jour au-travers du taffetas, se répandra legerement 
+sur la surface du cuivre. Lorsque vous croirez
+qu&#39;il y en a suffisamment, vous vous servirez d&#39;un tampon 
+fait avec du coton enfermé dans du taffetas ; &amp;
+frappant doucement dans toute l&#39;étendue de la planche,
+vous porterez par ce moyen le vernis dans les
+endroits où il n&#39;y en aura pas, &amp; vous ôterez ce qu&#39;il
+y en a de trop dans les endroits où il sera trop abondant.
+Il faut avoir une grande attention qu&#39;il n&#39;y ait
+pas trop de vernis sur les planches, &amp; qu&#39;il y soit
+également répandu ; le travail de la pointe en devient
+plus fin &amp; plus facile.
+</p>
+<p>
+Pour cela, vous retirerez à-propos votre planche
+de dessus le feu (tandis que vous vous servirez du
+tampon), &amp; l&#39;y remettrez s&#39;il est nécessaire ; parce
+que si le vernis devient trop chaud, il brûle &amp; se calcine 
+dans les endroits où il est atteint d&#39;une chaleur
+trop vive : si, au contraire, il est trop peu chaud, le
+<pb n="7:880" facs="V7/ENC_7-880.jpeg" />
+<milestone unit="column" n="1" />
+tampon que vous appuyez legerement l&#39;enleve, &amp;
+laisse des parties de la planche à découvert.
+</p>
+<p>
+Lorsque cette opération est faite, vous remettez
+un instant votre planche sur le réchaud ; &amp; lorsque
+le vernis a pris une chaleur égale qui le rend luisant
+par-tout, vous vous servez, ainsi que pour le vernis
+dur, des morceaux de bougie jaune, à la fumée desquels 
+vous noircissez votre planche avec les attentions 
+que j&#39;ai prescrites ; après quoi vous laissez bien
+refroidir la planche dans un endroit qui soit à l&#39;abri
+de la poussiere, pour vous en servir comme je vais le
+dire.
+</p>
+<p>
+Voici donc la planche qu&#39;on destine à la <i>gravure</i>,
+forgée, polie, vernie, soit au vernis dur, soit au
+vernis mou, &amp; noircie ; ensorte qu&#39;elle ne semble
+plus un morceau de cuivre, mais une surface noire
+&amp; unie, sur laquelle il s&#39;agit de tracer le dessein
+qu&#39;on veut graver.
+</p>
+<p>
+La façon la plus ordinaire de transmettre sur le
+vernis les traits du dessein qu&#39;on doit graver, est de
+frotter ce dessein par-derriere avec de la sanguine
+mise en poudre très-fine, ou de la mine de plomb.
+Lorsqu&#39;on a ainsi rougi ou noirci l&#39;envers du dessein,
+de maniere cependant qu&#39;il n&#39;y ait pas trop de cette
+poudre dont on s&#39;est servi, on l&#39;applique sur le vernis 
+par le côté qui est rouge ou noir ; on l&#39;y maintient 
+avec un peu de cire qu&#39;on met aux quatre coins
+du dessein : ensuite on passe avec une pointe d&#39;argent
+ou d&#39;acier qui ne soit pas coupante, quoique fine,
+sur tous les trains qu&#39;on veut transmettre, &amp; ils se
+dessinent ainsi sur le vernis. Après quoi on ôte le dessein ; 
+&amp; pour empêcher que ces traits legers qu&#39;on a
+tracés en calquant ne s&#39;effacent lorsque l&#39;on appuie
+la main sur le vernis en gravant, on expose la planche 
+un instant sur un feu presque éteint, ou sur du
+papier enflammé, &amp; on la retire dès qu&#39;on s&#39;apperçoit 
+que le vernis rendu un peu humide, a pu imbiber 
+le trait du calque.
+</p>
+<p>
+Cette façon de calquer la plus commune &amp; la plus
+facile a un inconvénient ; les objets dessinés ainsi sur
+la planche &amp; gravés, se trouveront dans les estampes 
+qu&#39;on imprimera, placés d&#39;une façon contraire
+à celle dont ils étoient disposés dans le dessein : il
+paroîtra par conséquent dans les estampes que les figures 
+feront de la main gauche les actions qu&#39;elles
+sembloient faire de la main droite dans le dessein
+qu&#39;on a calqué; &amp; quel que soit cet inconvénient, il
+est si desagréable ou si nuisible à l&#39;usage qu&#39;on attend
+de la <i>gravure</i>, qu&#39;il faut absolument le surmonter. Voici les différens moyens qu&#39;on a pour cela. 1°. Si le dessein 
+original est fait avec la sanguine ou la mine de
+plomb, il faut, au moyen de la presse à imprimer
+les estampes, en tirer une contre-épreuve, c&#39;est-à-dire, transmettre un trait ou une empreinte de l&#39;original 
+sur un papier blanc, en faisant passer le dessein
+&amp; le papier qu&#39;on a posé dessus, sous la presse, comme 
+on le dira à l&#39;<i>article de l&#39;</i><sc><ref target="head:Impression des Estampes" type="search">Impression des Estampes</ref></sc> ; alors on a une représentation du dessein
+original dans un sens contraire. En faisant ensuite à
+l&#39;égard de cette contre-épreuve ce que j&#39;ai prescrit
+tout-à-l&#39;heure pour le dessein même, c&#39;est-à-dire en
+calquant la contre-épreuve sur la planche, les épreuves qu&#39;on tirera de cette planche lorsqu&#39;elle sera
+gravée, offriront les objets placés du même sens qu&#39;ils
+le sont sur l&#39;original.
+</p>
+<p>
+Si le dessein n&#39;est pas fait à la sanguine ou à la
+mine de plomb, &amp; qu&#39;il soit lavé, dessiné à l&#39;encre,
+ou peint, il faut user d&#39;un autre moyen que voici.
+Prenez du papier fin vernis, avec l&#39;esprit de térébenthine,
+ou le vernis de Venise, qui sert à vernir les
+tableaux ; appliquez ce papier qui doit être sec &amp;
+qui est extraordinairement transparent sur le dessein
+ou sur le tableau : dessinez alors les objets que vous
+voyez au-travers avec le crayon ou l&#39;encre de la
+<milestone unit="column" n="2" />
+Chine. Ensuite ôtant votre papier de dessus l&#39;original,
+retournez-le ; les traits que vous aurez formés
+&amp; que vous verrez au-travers, y paroîtront disposés 
+d&#39;une façon contraire à ce qu&#39;ils sont dans l&#39;original ; 
+appliquez sur la planche le côté du papier sur
+lequel vous avez dessiné; mettez entre ce papier vernis 
+&amp; la planche, une feuille de papier blanc, dont
+le côté qui touche à la planche soit frotté de sanguine 
+ou de mine de plomb ; assûrez vos deux papiers 
+avec de la cire, pour qu&#39;ils ne varient pas ; &amp;
+calquez avec la pointe, en appuyant un peu plus que
+vous ne feriez s&#39;il n&#39;y avoit qu&#39;un seul papier sur
+la planche ; vous aurez un calque tel qu&#39;il faut qu&#39;il
+soit pour que l&#39;estampe rende les objets disposés
+comme ils le sont sur le dessein.
+</p>
+<p>
+Je dois ajoûter ici que pour vous conduire dans
+l&#39;exécution de la planche, il vous faudra consulter
+la contre-épreuve, ou le dessein que vous aurez fait ;
+&amp; que si vous voulez, pour une plus grande exactitude,
+vous servir du dessein ou du tableau original,
+il faut le placer de maniere que se réfléchissant dans
+un miroir, le miroir qui devient votre guide, vous
+présente les objets du sens dont ils sont tracés sur
+votre planche.
+</p>
+<p>
+Ces moyens que je viens d&#39;indiquer, sont propres 
+à préparer le trait lorsque l&#39;on grave un dessein
+ou un tableau de la même grandeur qu&#39;il est ; mais
+s&#39;il est nécessaire, comme il arrive souvent, de diminuer 
+ou d&#39;augmenter la proportion des objets, il
+faut se servir des opérations indiquées <i>aux mots</i>
+<sc><ref target="head:Graticuler" type="search">Graticuler</ref></sc> <i>ou</i> <sc><ref target="head:Réduire" type="search">Réduire</ref></sc>.
+</p>
+<p>
+La planche étant préparée au point qu&#39;il ne s&#39;agît
+plus que de graver, il est bon de donner une idée
+générale de l&#39;opération à laquelle on veut parvenir,
+en gravant à l&#39;eau-forte ; ensuite nous dirons de
+quels instrumens on se sert.
+</p>
+<p>
+Le vernis dont on vient d&#39;enduire la planche, est
+de telle nature que si vous versez de l&#39;eau-forte
+dessus, elle ne produira aucun effet ; mais si vous
+découvrez le cuivre en quelqu&#39;endroit, en enlevant
+ce vernis, l&#39;eau-forte s&#39;introduisant par ce moyen,
+rongera le cuivre dans cet endroit, le creusera, &amp;
+ne cessera de le dissoudre, que lorsque vous l&#39;en ôterez, ou qu&#39;elle aura perdu &amp; consumé sa qualité
+corrosive. Il s&#39;agit donc de ne découvrir le cuivre
+que dans les endroits que l&#39;on a dessein de creuser,
+&amp; de livrer ces endroits à l&#39;effet de l&#39;eau-forte, en
+ne la laissant opérer qu&#39;autant de tems qu&#39;il en faut
+pour creuser, suivant votre intention, les endroits
+dont vous aurez ôté le vernis : vous vous servirez
+pour cela d&#39;outils qu&#39;on nomme <i>pointes</i> &amp; <i>échopes</i>.
+</p>
+<p>
+La façon de faire des pointes la plus facile est de
+choisir des aiguilles à coudre de différentes grosseurs,
+d&#39;en armer de petits manches de bois de la grandeur
+d&#39;environ cinq ou six pouces, &amp; de les aiguiser au
+besoin &amp; à son gré, pour les rendre plus ou moins
+fines, suivant l&#39;usage qu&#39;on en veut faire. On peut
+mettre à ces outils le degré de propreté qu&#39;on juge
+à-propos ; on peut se servir de morceaux de burins,
+qui étant d&#39;un très-bon acier, sont très-propres à
+faire des pointes ; &amp; quant à la maniere de les monter,
+c&#39;est ordinairement une virole de cuivre qui les
+unit au bois, au moyen d&#39;un peu de mastic ou de
+cire d&#39;Espagne. J&#39;ai éprouvé que des morceaux de
+burins arrondis &amp; enfoncés profondément dans un
+manche de bois assez gros pour faire l&#39;effet d&#39;un porte-crayon de cuivre, formoient de très-bonnes pointes ; 
+la profondeur dont elles sont enfoncées supplée
+à la virole, &amp; fait que lorsque vous voulez entamer
+le cuivre, &amp; appuyer quelques touches, elles se prêtent 
+à la force que vous y mettez sans se démancher.
+La façon de les aiguiser est de les passer sur une pierre
+fine à aiguiser, en les tournant sans cesse entre les
+doigts pour les arrondir parfaitement. On sent aisément<gap type="hyphenpb" />
+<pb n="7:881" facs="V7/ENC_7-881.jpeg" />
+<milestone unit="column" n="1" />
+que l&#39;on est le maître de leur rendre la pointe
+plus ou moins épaisse, suivant l&#39;usage qu&#39;on en veut
+faire. On appelle du nom de <i>pointe</i> en général, toutes 
+ces sortes d&#39;outils ; mais le nom d&#39;<i>échopes</i> distingue 
+celles des pointes dont on applatit un des côtés ;
+ensorte que l&#39;extrémité n&#39;est pas parfaitement ronde,
+mais qu&#39;il s&#39;y trouve une espece de biseau, comme
+on peut le voir dans la <i><ref target="XPL:5402" type="platelink">Planche de la gravure sur cuivre</ref></i>, lettre <i>B</i>.
+</p>
+<p>
+Avant que de parler de la maniere de se servir des
+pointes &amp; des échopes, je vais prescrire quelques
+observations nécessaires pour conserver le vernis.
+</p>
+<p>
+C&#39;est sur-tout le vernis mou que ce soin doit regarder ; 
+le vernis dur est à l&#39;abri des petits accidens
+qu&#39;il faut éviter ; il ne se raye pas aisément : il suffit
+d&#39;envelopper la planche qui en est couverte, d&#39;un
+papier, d&#39;un linge, ou d&#39;un morceau de peau, lorsque 
+l&#39;on ne travaille pas. Pour le vernis mou, le
+moindre frottement d&#39;un corps tant-soit-peu dur
+l&#39;enleve ; &amp; l&#39;on doit ou tenir la planche sur laquelle
+on s&#39;en sert, enfermée dans un tiroir lorsqu&#39;on ne
+grave pas ; ou bien enveloppée dans un linge fin,
+ou dans une peau fine. Il faut même, lorsqu&#39;en gravant 
+on appuie la main sur le vernis, le faire avec
+précaution ; au reste il y a des moyens de réparer les
+petits accidens qui peuvent y être arrivés, que je
+dirai avant que d&#39;expliquer la maniere d&#39;appliquer
+l&#39;eau-forte : venons à la maniere de travailler avec
+les pointes sur le vernis.
+</p>
+<p>
+Il est nécessaire premierement que l&#39;artiste choisisse 
+une place convenable pour y placer la table sur
+laquelle il doit graver. Cette place est l&#39;embrasure
+d&#39;une croisée qui ait un beau jour, &amp; qui, s&#39;il se
+peut, ne soit pas exposée au plein midi ; car le trop
+de jour pourroit être aussi nuisible à la vûe du graveur 
+que l&#39;obscurité. Pour modérer ce jour, il suspendra 
+entre la fenêtre &amp; lui un chassis garni de papier 
+huilé ou vernis, comme il est marqué dans <i>la
+<ref target="XPL:5403" type="platelink">fig. 3</ref>. de la <ref target="XPL:5404" type="platelink">Planche de la Gravure sur cuivre</ref></i>. Il se servira 
+aussi pour plus de commodité d&#39;un pupitre, dans
+lequel il enfermera la planche, pour la mettre à l&#39;abri 
+de tout accident, lorsqu&#39;il n&#39;y travaillera pas. Il
+y a eu des graveurs qui se sont servis d&#39;un chevalet
+de peintre, &amp; qui à l&#39;aide de l&#39;appuie main, ont exécuté 
+leurs ouvrages de la même façon qu&#39;on peint
+un tableau ; cette pratique est, je crois infiniment
+moins préjudiciable à la santé, que l&#39;attitude courbée 
+qu&#39;on a ordinairement en gravant ; mais il est
+difficile de s&#39;y faire &amp; d&#39;y accoûtumer la main : c&#39;est
+à l&#39;artiste à éprouver &amp; à choisir ; &amp; je crois nécessaire 
+de recommander aux Artistes d&#39;essayer toûjours 
+avec soin &amp; réflexion tout ce qui a été pratiqué 
+avant eux ; c&#39;est le moyen d&#39;étendre un art &amp;
+de rencontrer soi-même des découvertes neuves ;
+d&#39;ailleurs telle pratique convient au caractere, au
+tempérament, au génie, &amp; au goût d&#39;un artiste,
+qui en peut tirer un parti que nul n&#39;a pu en tirer
+avant lui.
+</p>
+<p>
+Venons à l&#39;opération de graver : j&#39;ai fait sentir <i>au
+mot</i> <sc>Estampe</sc>, que graver est en quelque façon
+dessiner &amp; peindre ; ainsi plus le graveur sera instruit
+des principes théoriques de la Peinture &amp; de la pratique 
+de cet art, plus il lui sera facile d&#39;en faire une
+juste application. Il faut au moins indispensablement
+que le graveur sache bien dessiner, &amp; qu&#39;il s&#39;entretienne 
+toûjours dans l&#39;habitude du dessein au crayon
+d&#39;après la bosse &amp; d&#39;après la nature. Ces conditions
+supposées, le graveur ayant calqué comme je l&#39;ai
+dit sur sa planche le dessein qu&#39;il veut exécuter, il
+se servira de ses pointes, pour en rendre l&#39;effet par
+des hachures plus ou moins fortes, c&#39;est-à-dire plus
+fines &amp; plus grosses. Les regles de la perspective aérienne 
+&amp; la réflexion qu&#39;il fera sur l&#39;effet que produisent 
+les corps en raison de leur éloignement, le
+<milestone unit="column" n="2" />
+conduiront aisément à se servir des pointes les plus
+fines dans les plans éloignés, &amp; des pointes les plus
+fortes pour les premiers plans. Il s&#39;agira donc d&#39;ombrer 
+par le moyen des hachures qu&#39;il formera sur sa
+planche, en enlevant le vernis avec ses pointes, les
+objets que lui présente son dessein. Je remarquerai
+pour ceux qui n&#39;ont jamais gravé, qu&#39;il y a pour s&#39;y
+habituer une petite difficulté à surmonter : elle consiste 
+en ce que lorsqu&#39;on dessine sur le papier blanc,
+les hachures qu&#39;on forme se trouvent opposées à la
+blancheur du fond par une couleur brune, foncée,
+ou noire ; au lieu que les hachures que produisent
+les pointes en découvrant le vernis qui est très-noir,
+sont claires &amp; brillantes : ensorte que cette opposition 
+est absolument différente de celle que produit
+le dessein. Au reste, on s&#39;accoûtume aisément à cette
+différence ; &amp; l&#39;on se fait à imaginer que ce qui est
+le plus clair &amp; le plus brillant sur la planche vernie,
+deviendra le plus noir sur l&#39;estampe. Revenons à
+quelques-uns des principes de cet art : j&#39;ai dit que l&#39;on
+y parvenoit à une juste dégradation par la différente
+grosseur des pointes qu&#39;on employe. Mais l&#39;on sent
+aisément que le travail doit concourir à produire les
+effets nécessaires à l&#39;accord &amp; à l&#39;harmonie. Ce travail,
+c&#39;est-à-dire le sens dans lequel on trace les hachures,
+doit être déterminé par l&#39;étude de la nature
+comme dans le dessein ; &amp; assez ordinairement si le
+dessein est bon, les hachures du crayon vous indiqueront 
+celles des pointes. Ainsi le sens des muscles
+&amp; le tissu de la peau pour les figures, seront les points
+dont vous partirez pour regler votre travail : &amp;
+voilà pourquoi il est essentiel qu&#39;un graveur ait une
+grande habitude de dessiner. Sans cela la liberté que
+se donnent quelquefois les Artistes en dessinant,
+pourroit l&#39;égarer. Cette réflexion me conduit naturellement 
+à dire en passant un mot sur ce qui peut
+contribuer à la corruption de cet art.
+</p>
+<p>
+On ne connoissoit dans les premiers tems où on
+l&#39;a exercé que la <i>Gravure</i> au burin, dont je donnerai
+le détail. La longueur du travail du burin, &amp; l&#39;avantage 
+de la découverte &amp; de la promptitude d&#39;un
+nouveau moyen, contribuerent à rendre la façon de
+graver à l&#39;eau-forte plus générale &amp; plus commune ; 
+cependant on commença par soûmettre cette
+nouvelle pratique à une imitation servile des effets
+du burin : c&#39;étoit les premiers pas d&#39;un art timide
+qui n&#39;osoit s&#39;écarter de celui à qui il devoit la naissance ; 
+mais cette subordination dura peu : la <i>gravure</i> à l&#39;eau-forte prit l&#39;essor &amp; se chargea de faire les
+trois quarts des ouvrages qu&#39;elle entreprenoit, laissant 
+au burin le soin de leur donner un peu plus de
+propreté, d&#39;accord, &amp; de perfection. Elle ne se borna 
+pas-là; elle hasarda d&#39;exécuter d&#39;une façon libre
+des ouvrages entiers ; elle se débarrassa du joug que
+lui avoit imposé le burin ; les regles qu&#39;on avoit établies n&#39;y furent plus des lois auxquelles on ne pouvoit 
+se dispenser de se soûmettre ; d&#39;habiles artistes
+en promenant au hasard la pointe sur le vernis, formerent 
+des croquis pleins d&#39;esprit &amp; de feu, mais
+fort incorrects &amp; d&#39;un travail fort peu agréable. Un
+nombre infini de graveurs de tous états s&#39;éleverent,
+&amp; crurent qu&#39;il suffisoit de calquer un dessein ou
+un tableau sur le cuivre, d&#39;en former un trait peu
+correct, de le couvrir de hachures arbitraires, &amp;
+de laisser à l&#39;eau-forte le soin d&#39;achever ces ouvrages 
+imparfaits, dont nous sommes inondés aujourd&#39;hui. Mais si l&#39;art de la <i>Gravure</i> a perdu, &amp; perd
+ainsi tous les jours du mérite savant qu&#39;elle a eu
+dans les tems où on l&#39;exerçoit avec plus de reserve,
+de soins, &amp; de réflexions ; cette espece d&#39;abus qu&#39;on
+en fait a son utilité pour la communication générale
+des Arts &amp; des connoissances. Il n&#39;est point d&#39;ouvrage 
+sur ces matieres, où les idées un peu compliquées
+ne soient éclaircies par des figures gravées, qui font
+<pb n="7:882" facs="V7/ENC_7-882.jpeg" />
+<milestone unit="column" n="1" />
+entendre ce qu&#39;on auroit souvent de la peine à comprendre 
+sans cela. Ces figures le plus souvent très imparfaites 
+du côté de l&#39;art, ne servent pas moins à
+la fin pour laquelle on les employe : l&#39;art de la
+<i>Gravure</i> est donc devenu moins parfait, mais plus
+utile aux hommes.
+</p>
+<p>
+Voici quelques-unes des regles que Bosse nous a
+transmises, &amp; desquelles on peut supprimer, ou
+auxquelles on peut ajoûter, pourvû que ce soit d&#39;après 
+des travaux raisonnés, &amp; qu&#39;on ait toûjours en
+vûe l&#39;imitation de la nature, &amp; l&#39;application des
+vrais principes de la Peinture &amp; du Dessein. J&#39;ai dit
+que la premiere taille ou le premier rang de hachures 
+qu&#39;on trace avec la pointe sur le vernis doit suivre 
+le sens des hachures du dessein, ou de la brosse
+&amp; du pinceau, si c&#39;est d&#39;après un tableau qu&#39;on grave : mais ce premier rang de hachures n&#39;est pas suffisant 
+pour parvenir à l&#39;effet d&#39;une planche ; il est d&#39;usage 
+de passer sur ces premieres tailles un second,
+&amp; quelquefois un troisieme, &amp; même un quatrieme
+rang de traits qui se croisent en différens sens. Les
+secondes tailles doivent concourir avec les premieres 
+à assûrer les formes, à fortifier les ombres, &amp; à
+décider les figures ou les objets qu&#39;on grave ; mais
+comme dès les premieres tailles, on a dû épargner
+les reflets &amp; les demi-teintes, les secondes doivent
+ménager de même les parties qui doivent être moins
+colorées. Si l&#39;ombre se trouve très-forte &amp; le reflet
+aussi, les deux tailles de l&#39;ombre doivent être faites
+avec une pointe molle &amp; forte, &amp; ces deux mêmes
+tailles seront continuées dans les reflets par des pointes 
+plus fines dans le même genre de travail.
+</p>
+<p>
+On doit observer de faire la premiere taille forte,
+nourrie, &amp; serrée ; la seconde un peu plus déliée &amp;
+plus écartée, &amp; la troisieme encore plus fine. La
+raison de cela est, que la premiere étant celle qui
+indique le sens des muscles &amp; de la peau, doit être
+celle qui domine ; les autres ne sont ajoûtées que
+pour colorer davantage les figures ou les corps sur
+lesquels on les employe. L&#39;une dessine, les autres
+peignent ; la premiere est faite pour imiter les formes,
+les autres pour répandre sur ces formes l&#39;effet
+juste du clair obscur. Si la premiere &amp; la seconde
+taille forment en se croisant des quarrés, la troisieme 
+doit former des losanges sur l&#39;une des deux ; ou
+si les deux premieres sont en losange, la troisieme
+sera quarrée.
+</p>
+<p>
+On doit se servir rarement de troisieme hachure
+à l&#39;eau-forte, lorsqu&#39;on se réserve de retoucher la
+planche au burin, parce qu&#39;on laisse cette troisieme
+pour ajoûter, par le moyen du burin, la couleur qui
+peut manquer, &amp; la propreté qu&#39;on veut donner à
+l&#39;ouvrage.
+</p>
+<p>
+Le genre de travail que l&#39;on employe doit, comme 
+on le sentira aisément, avoir rapport à la nature 
+des objets qu&#39;on grave. Cette espece de convention 
+contribue beaucoup à l&#39;effet que produit la
+<i>Gravure ;</i> ainsi on a remarqué que les traits doublés
+qui forment des quarrés, c&#39;est-à-dire qui se croisent
+perpendiculairement, produiroient à la vûe un travail 
+plus dur &amp; moins agréable à l&#39;oeil, que les traits
+qui se coupent en formant des losanges ou des demi-losanges.
+On a donné la préférence à ce dernier travail,
+pour représenter des corps délicats, tels que
+ceux des femmes, des enfans, des jeunes hommes ;
+&amp; l&#39;on s&#39;est éloigné plus ou moins de cette combinaison 
+de tailles à-proportion de l&#39;austérité qu&#39;on
+desiroit dans les travaux qu&#39;on vouloit employer.
+Quelques artistes ont trouvé que dans les figures qui
+ne demandoient pas une grande vigueur de couleur,
+on pouvoit hardiment se servir du grand losange ;
+mais qu&#39;il devenoit embarrassant, lorsqu&#39;il faut rendre 
+les tons plus colorés. Au reste il est des artistes
+qui sans s&#39;astreindre à ces regles, ont fait de très-belles<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+estampes, ce qui ne prouve pas qu&#39;elles soient
+inutiles, mais seulement qu&#39;il ne faut s&#39;en affranchir
+qu&#39;autant qu&#39;on est sûr de réussir sans leurs secours.
+Les plus beaux exemples de ces pratiques, dont je
+viens de rendre compte, sont les estampes de Corneille Vischer.
+</p>
+<p>
+Les draperies exigent du graveur une infinité de
+combinaisons &amp; d&#39;attentions dans le travail qui varie,
+suivant la nature des étoffes, le mouvement des
+plis &amp; le plan des figures. En général il faut, comme
+dans les chairs, que la premiere taille dessine la forme 
+&amp; le mouvement du pli : mais si la continuation
+de cette taille dans le pli qui suit, n&#39;est pas propre,
+comme cela doit arriver souvent, à en exprimer le
+juste caractere, il faut la destiner à servir de seconde 
+ou de troisieme même, en subordonnant cette
+taille à celle que vous lui substituez. Cette combinaison 
+qui demande du soin &amp; de l&#39;habitude, donnera 
+à votre travail une aisance &amp; une justesse qui
+charmeront l&#39;oeil. Une feconde observation est, qu&#39;il
+faut éviter que ces tailles dont vous vous servez, &amp;
+qui vont se terminer au contour des membres nuds,
+ou des autres corps qui se touchent, tombent à angles 
+droits sur ces contours ; mais il faut que ces hachures 
+se perdent avec eux d&#39;une maniere insensible
+&amp; douce. En général, les hachures des draperies doivent 
+former des traits ondoyans, &amp; éviter d&#39;être
+roides &amp; gênées ; elles doivent s&#39;unir par les moyens
+dont j&#39;ai parlé, de maniere que dans l&#39;ouvrage les
+objets se détachent principalement par l&#39;effet des
+ombres &amp; des jours.
+</p>
+<p>
+Les clairs &amp; les demi-teintes exigent dans la <i>Gravure</i>, ainsi que dans le Dessein, une propreté de travail 
+extrème : on aura donc soin de varier les pointes,
+&amp; de se servir dans cette occasion de celles qui sont
+plus fines. Les ombres qui demandent à être solides,
+&amp; qui représentent l&#39;effet de la privation de la lumiere,
+admettent un travail ferme, &amp;, pour ainsi
+dire, plus rempli d&#39;accidens &amp; d&#39;inégalités ; mais les
+demi-teintes &amp; les reflets qui participent de la lumiere,
+doivent être exécutés avec une attention
+d&#39;autant plus grande, que lorsque les objets sont
+clairs, on doit mieux en distinguer les formes &amp; les
+détails. Sur les grandes lumieres les travaux ne peuvent 
+être ou trop ménagés, ou faits avec trop de legereté,
+&amp; avec cette propreté qui flatte l&#39;oeil. Les
+tailles doivent être écartées les unes des autres ; &amp; si
+l&#39;on a dessein de terminer l&#39;ouvrage à la pointe, c&#39;est
+alors que le travail de cet outil doit tendre à imiter la
+netteté du burin. Pour les planches qu&#39;on destine à
+être retouchées au burin, il faut y reserver le travail
+dont je viens de parler ; parce qu&#39;on est plus maître
+de donner avec le burin ce degré juste de netteté qui
+doit faire valoir l&#39;ouvrage. Les linges &amp; les étoffes
+fines doivent se préparer à une seule taille propre ;
+il faut laisser au burin à les terminer par des secondes
+tailles legeres &amp; mises à-propos. Puisqu&#39;il est question 
+de cette propreté qu&#39;on doit chercher, sans la
+pousser trop loin, je vais me permettre quelques réflexions 
+qui viennent à-propos.
+</p>
+<p>
+Il en doit être de l&#39;art de la <i>Gravure</i>, comme de
+tous les autres Arts. Les principes généraux que les
+réflexions ont établis, embrassent un art en général : ces principes se restraignent ensuite, &amp; se soûmettent 
+à des exceptions &amp; à des modifications qu&#39;exigent 
+les différens genres de productions de l&#39;art qui
+les a adoptés : il seroit donc injuste de vouloir que
+dans la <i>Gravure</i> tous les ouvrages fussent soûmis indispensablement 
+aux principes que je viens de donner.
+Parcourons legerement les classes principales
+des ouvrages de caracteres différens, auxquels la
+<i>Gravure</i> s&#39;employe. Son usage le plus commun &amp; le
+plus relatif à la Peinture, est de multiplier les idées
+de composition des tableaux des bons artistes, &amp; les
+<pb n="7:883" facs="V7/ENC_7-883.jpeg" />
+<milestone unit="column" n="1" />
+effets du clair-obscur de ces compositions. Il y a des
+tableaux de différens genres ; par conséquent il doit
+y avoir différens genres de <i>Gravure</i> pour les imiter.
+L&#39;histoire est l&#39;objet principal de la Peinture ; on peut
+exiger, pour qu&#39;elle soit traitée parfaitement par un
+peintre, que toutes les parties de son art y concourent ;
+que le beau fini soit uni à la grandeur du faire, à la perfection 
+de l&#39;effet, &amp; à la justesse de l&#39;expression : un
+tableau de cette espece, s&#39;il y en a, pour être gravé
+parfaitement, doit être rendu dans l&#39;estampe par
+toutes les parties de la <i>Gravure</i>. Le burin le plus fier,
+le plus propre, le plus varié, le plus savant, sera à
+peine suffisant pour imiter parfaitement le tableau
+dont je parle. Le travail de l&#39;eau-forte donneroit trop
+au hasard, &amp; je crois qu&#39;elle nuiroit à la beauté de
+l&#39;exécution. Si un tableau moins parfait offroit une
+composition pleine de feu, d&#39;expression, &amp; en même
+tems un faire moins terminé, &amp; un accord moins
+exact, je crois que le graveur qui employeroit l&#39;eau-forte 
+pour rendre le feu de l&#39;expression qui domine
+dans l&#39;ouvrage, &amp; qui retouchant au burin ajoûteroit 
+à son ouvrage le degré d&#39;harmonie que contient
+son original, rempliroit les vûes de la <i>Gravure</i>. Enfin un tableau dont le mérite consisteroit plus dans le
+beau faire &amp; dans l&#39;harmonie, que dans l&#39;expression
+&amp; la force, doit recevoir en <i>Gravure</i> la plus grande 
+partie de la vérité de son imitation, d&#39;un burin
+bien conduit, &amp; dont le beau travail répondra au
+précieux méchanisme du pinceau &amp; à la fonte des
+couleurs.
+</p>
+<p>
+Le portrait est un second genre de <i>Gravure</i>, d&#39;un
+usage aussi grand &amp; peut-être plus multiplié encore
+que le premier. Ce genre de <i>Gravure</i> doit suivre à-peu-près les mêmes regles que je viens d&#39;établir. Les
+tableaux d&#39;après lesquels on grave les portraits, doivent 
+inspirer au graveur habile le méchanisme dont
+il doit se servir, à-moins que par une application
+différente des moyens qu&#39;il employe, il ne les proportionne 
+en quelque sorte à l&#39;état, au sexe, à l&#39;âge
+&amp; à la figure des personnages dont il transmet la ressemblance.
+La jeunesse &amp; les graces du sexe demandent 
+une propreté de travail &amp; une douceur dans
+l&#39;arrangement des tailles, qui sied moins à la vieillesse 
+ou au caractere austere d&#39;un guerrier. Cette réflexion 
+m&#39;a souvent frappé, lorsqu&#39;admirant les précieux 
+ouvrages des Drevets &amp; des Edelinks, j&#39;ai vû
+un magistrat âgé, ou un guerrier, dont la représentation 
+m&#39;offroit quelque chose d&#39;efféminé, que j&#39;ai
+cru être l&#39;effet d&#39;une trop grande uniformité de travail,
+&amp; de ce qu&#39;on appelle <i>un trop beau burin</i>. Au
+reste je ne prétends pas que cette réflexion soit prise
+à la rigueur, &amp; je la soûmets à ceux des artistes qui
+auront assez exercé leur art &amp; assez refléchi, pour
+la modifier comme elle doit l&#39;être.
+</p>
+<p>
+Le paysage, sous le nom duquel je comprendrai,
+pour ne pas être trop long, tous les autres genres
+particuliers, peut se livrer à plus de liberté, &amp; par
+conséquent l&#39;eau-forte y peut être employée avec
+succès, mais toûjours avec un rapport juste au
+caractere du tableau qu&#39;on grave, ou à la nature
+des objets qu&#39;on représente. Je n&#39;ai en vûe dans tout
+ce que je dis ici, que les ouvrages de <i>Gravure</i> auxquels 
+on cherche à donner un juste degré de perfection ; 
+car pour les <i>gravures</i> qui sont l&#39;ouvrage des
+Peintres, il seroit injuste de leur fixer aucune regle,
+ce sont des délassemens pour eux ; &amp; la pointe en s&#39;égarant 
+même entre leurs mains, porte toûjours l&#39;empreinte 
+du génie des artistes qui la font obéir à leur
+caprice. Je passe aussi sous silence les <i>gravures</i> multipliées 
+des amateurs ; ce sont des amusemens qui servent 
+à les instruire : il en est peu qui puissent aspirer
+à un degré de perfection, pour lequel un travail assidu,
+constant &amp; suivi pendant un grand nombre d&#39;années,
+est à peine suffisant.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Je reviens aux préceptes de Bosse, dont je donne
+l&#39;extrait raisonné. Indépendamment des hachures
+simples, de celles qui se croisent, soit en formant
+des quarrés, soit en formant des losanges, il y a encore 
+une sorte de travail dont on se sert dans différentes 
+occasions. Ce travail se fait en formant des
+points séparés les uns des autres, &amp; ces points peuvent 
+être ou totalement ronds, ou ronds par un
+côté, &amp; un peu alongés par l&#39;autre ; ils peuvent être
+longs, droits, ou tremblotés. L&#39;usage est de se servir 
+de points ronds à l&#39;eau-forte, &amp; on les employe
+pour donner aux chairs un caractere délicat qui fasse
+naître une idée des pores &amp; du tissu de la peau. Ce
+travail, ainsi que ceux dont j&#39;ai déjà parlé, est subordonné 
+au goût &amp; aux réflexions du graveur. L&#39;usage excessif des points, rend le travail mou &amp; peu
+brillant ; celui des tailles seules pour représenter des
+chairs, est trop austere ; un mélange judicieux de ces
+deux especes de travaux, donnera à la <i>gravure</i> à l&#39;eau-forte 
+un degré d&#39;agrément auquel elle peut tendre.
+</p>
+<p>
+Il est nécessaire d&#39;arranger avec beaucoup de soin
+les points qu&#39;on place avec la pointe ; les petits hasards 
+de l&#39;eau-forte les dérangeront assez. L&#39;usage est
+d&#39;en faire des rangs dans le sens dont on auroit fait
+des tailles, dans l&#39;endroit où on les employe. Ceux
+du second rang se placent de maniere qu&#39;ils se trouvent 
+au-dessous ou au-dessus de l&#39;intervalle qui est
+entre chacun des premiers ; ils servent aussi de continuation 
+aux hachures, en approchant des clairs
+dans lesquels ils se perdent, en les diminuant à mesure 
+que l&#39;on approche des grandes lumieres.
+</p>
+<p>
+Je reviens encore, avec Bosse, aux tailles, comme 
+au principal objet du travail de la <i>Gravure</i>. Un
+effet de la dégradation qu&#39;éprouvent les objets dans
+l&#39;éloignement, est que les détails de ces objets s&#39;apperçoivent 
+moins : c&#39;est cette raison qui a dicté le
+précepte de serrer les tailles, en même tems qu&#39;on
+les rend plus fines dans les plans éloignés. Par cette
+même raison on détaillera moins, à l&#39;aide des hachures 
+&amp; des traits qui forment les contours, les différens 
+objets dont on gravera la représentation lorsqu&#39;ils seront censés éloignés de l&#39;oeil. On observera
+cette dégradation par plan, &amp; ce soin donnera beaucoup 
+d&#39;effet aux planches : on changera donc de
+pointe à mesure que les objets approcheront de l&#39;horison ; 
+on serrera les tailles ; on détaillera moins les
+petites parties, &amp; l&#39;on gravera les grandes d&#39;une façon 
+un peu indécise, mais large, en ombrant par
+masses, comme on le peut voir dans les estampes de
+Gerard Audran, entre autres dans l&#39;estampe de Pyrrhus sauvé, qu&#39;il a gravée d&#39;après le Poussin, &amp; dans
+laquelle il a rendu d&#39;une maniere excellente la touche 
+large du pinceau dans les lointains &amp; dans les
+fonds. L&#39;art de l&#39;imitation, dans la Peinture comme
+dans la <i>Gravure</i>, exige qu&#39;on ne se livre à l&#39;exactitude 
+des détails que fort à-propos : c&#39;est de-là que naît
+l&#39;ensemble, l&#39;unité, &amp; l&#39;effet des ouvrages. Un objet 
+travaillé avec soin, dont toutes les parties sont
+rendues avec exactitude &amp; recherche, est capable,
+avec le plus grand mérite d&#39;exécution, de gâter &amp;
+de détruire l&#39;effet d&#39;une composition. Savoir supprimer 
+avec discernement en Peinture, &amp; passer à-propos sous silence dans l&#39;art d&#39;écrire, sont les moyens
+d&#39;arriver à la perfection à laquelle doivent tendre ces
+différens arts.
+</p>
+<p>
+C&#39;est dans le paysage, comme je l&#39;ai déjà indiqué,
+que l&#39;on peut se permettre une plus grande liberté
+dans les différens travaux des hachures. Le travail
+libre, varié, les hachures tremblantes, interrompues,
+redoublées &amp; confondues, donnent à ce genre 
+de <i>gravure</i> un effet piquant, qui plaît extrèmement
+aux connoisseurs, aux artistes, &amp; souvent aux amateurs,
+sans qu&#39;ils en approfondissent trop la raison.
+Il en résulte qu&#39;on abuse très-souvent de cette façon
+<pb n="7:884" facs="V7/ENC_7-884.jpeg" />
+<milestone unit="column" n="1" />
+de travailler, qui n&#39;exige, pour ainsi dire, aucune
+regle, &amp; qui met ainsi fort à son aise celui qui s&#39;y livre.
+L&#39;illusion qu&#39;on se fait, &amp; le prétexte qu&#39;offre à
+l&#39;ignorance &amp; à la paresse le mot de <i>goût</i>, pris dans
+un sens fort éloigné de celui qu&#39;il doit avoir, produisent 
+des paysages où les arbres, les fabriques, le
+ciel &amp; les terreins sont d&#39;un travail si brut &amp; si égratigné, qu&#39;on ne sent aucun plan, aucune forme, &amp;
+aucun effet. Si cette maniere qu&#39;on ose appeller <i>graver de goût &amp; avec esprit</i>, continue à se répandre, elle
+achevera de corrompre cette partie de l&#39;art de la <i>Gravure</i>. Il est une liberté que l&#39;esprit &amp; le goût véritables 
+peuvent inspirer, mais qui a toûjours pour but
+de faire sentir au spectateur ou la forme des objets
+qu&#39;on grave, ou leur effet de clair obscur, ou le caractere 
+principal qui les distingue. Lorsqu&#39;un graveur
+n&#39;est affecté dans son travail d&#39;aucun de ces objets, &amp;
+qu&#39;il ne met pas son art à les faire passer dans l&#39;esprit
+de ceux qui voyent ses ouvrages, il en impose injustement ; 
+&amp; ce charlatanisme dont il colore son peu
+de talent, doit être puni par une juste évaluation de
+ses ouvrages.
+</p>
+<p>
+Je n&#39;entrerai pas dans un plus grand détail de principes 
+pour la <i>gravure</i> à l&#39;eau-forte. Les principes du
+dessein auxquels on peut recourir au <i>mot</i> <sc>Dessein</sc>,
+&amp; une grande partie de ceux de la Peinture qui sont
+distribués dans les articles qui leur conviennent,
+doivent servir de supplément à celui-ci. Je vais reprendre 
+le méchanisme de la <i>gravure</i> à l&#39;eau-forte.
+</p>
+<p>
+Les pointes dont on se sert &amp; dont j&#39;ai donné le détail,
+peuvent être de deux sortes, ou coupantes, ou
+émoussées. Celles qui sont coupantes sont particulierement 
+destinées à graver au vernis dur, parce que ce
+vernis resisteroit trop aux pointes qui ne coupent pas.
+Lorsqu&#39;on grave sur le vernis mou, on peut se servir 
+des unes &amp; des autres. L&#39;inconvénient des pointes 
+coupantes est de faire quelquefois des touches
+dures, parce que la pointe qui va en grossissant depuis 
+le point qui la termine, ouvre le cuivre d&#39;autant
+plus qu&#39;elle s&#39;y enfonce davantage ; ce qui produit
+des tailles trop noires, si elles ne sont pas accompagnées 
+par d&#39;autres tailles. On doit en général avoir
+grand soin dans la <i>Gravure</i>, d&#39;éviter &amp; dans les touches 
+&amp; dans toutes sortes de travaux, une certaine
+maigreur &amp; sécheresse, que la finesse des outils dont
+on se sert doit occasionner. Je crois que les planches
+qui n&#39;ont qu&#39;une médiocre étendue, peuvent être
+gravées avec esprit &amp; à l&#39;aide des pointes coupantes ;
+qu&#39;en général on doit mêler les pointes des deux especes,
+&amp; que le juste emploi qu&#39;on en fera répandra
+beaucoup de goût sur les ouvrages auxquels on les
+aura employées. L&#39;échope est une pointe coupante
+qui, comme je l&#39;ai dit, a une espece de biseau sur
+un des côtés de son extrémité, comme vous le verrez 
+à la <i><ref target="XPL:5405" type="platelink">Planche I</ref>. de la gravure en taille-douce</i>. Il en
+résulte que vous pouvez regarder l&#39;échope comme
+une plume à écrire, dont l&#39;ovale <i>ABCD</i> seroit l&#39;ouverture,
+&amp; la partie proche le <i>C</i> seroit le bout qui
+écrit. La maniere de tenir l&#39;échope est aussi à-peu-près semblable à celle dont on tient la plume, à la
+reserve qu&#39;au lieu que la taille, ou l&#39;ouverture de la
+plume, est tournée vers le creux de la main, &amp; que
+l&#39;ovale ou la face de l&#39;échope est d&#39;ordinaire tournée
+vers le pouce, comme la <i>figure</i> le montre : ce n&#39;est pas
+que l&#39;on ne la puisse tourner &amp; manier d&#39;un autre
+sens ; mais la premiere maniere peut mériter la préférence,
+parce qu&#39;elle est peut-être la plus commode,
+&amp; qu&#39;on a bien plus de force pour appuyer. C&#39;est en
+s&#39;esseyant &amp; en s&#39;exerçant, que l&#39;on concevra facilement 
+le moyen de faire avec l&#39;échope des traits
+gros &amp; profonds.
+</p>
+<p>
+La <i>figure ABCD</i> représente la face ou l&#39;ovale de
+l&#39;échope : or si l&#39;on pouvoit enfoncer le bout de cet
+outil dans le cuivre jusqu&#39;à la ligne <i>DB</i>, qui est le
+<milestone unit="column" n="2" />
+point où l&#39;ovale est le plus large, on feroit un trait
+dont la largeur seroit égale à la longueur de <i>DB</i>, &amp;
+qui dans le milieu seroit creux ou profond de la longueur 
+de <i>OC</i>. Si vous n&#39;enfoncez pas votre échope
+dans le cuivre jusqu&#39;aux points que j&#39;ai désignés,
+vous pourrez faire un trait, tel que le représente la
+figure marquée par les lettres <i>b, o, d, c</i>.
+</p>
+<p>
+Vous voyez par ces deux exemples, qu&#39;en appuyant 
+fort peu, le trait sera moins profond, &amp; conséquemment 
+plus large, comme sont les traits marqués 
+dans la <i>figure</i> aux lettres <i>r n s</i>, où vous voyez
+qu&#39;il faut commencer legerement par <i>r</i>, qu&#39;il faut
+appuyer de plus en plus jusqu&#39;a <i>n</i>, enfin qu&#39;ayant
+rendu la main plus legere jusqu&#39;à <i>s</i>, vous ferez un
+trait pareil à <i>r n s</i>. Il faut remarquer que pour que
+la figure soit plus intelligible, on a dessiné l&#39;échope
+beaucoup plus grosse qu&#39;elle ne doit être en effet.
+</p>
+<p>
+Lorsque l&#39;on veut rendre le commencement &amp; la
+fin des hachures plus déliés, il faut avec une pointe
+reprendre l&#39;extrémité de ces hachures, en appuyant
+un peu à l&#39;endroit où l&#39;on reprend, &amp; en soulevant
+doucement la main jusqu&#39;à l&#39;endroit où la hachure
+doit se perdre. Vous remarquerez qu&#39;en tournant la
+planche suivant le sens dans lequel on veut travailler,
+on rendra cette manoeuvre plus facile. Ces remarques 
+sur l&#39;échope sont entierement tirées de l&#39;ouvrage 
+que j&#39;ai cité. J&#39;ai fait l&#39;épreuve des pratiques
+qu&#39;elles contiennent ; &amp; je pense, ainsi que Bosse,
+qu&#39;on peut en acquérant l&#39;usage de cette espece de
+pointe, en tirer un très-grand parti pour la variété
+des traits ; puisqu&#39;en se servant de cet outil par le côté 
+tranchant, on fera des traits d&#39;une finesse extrème,
+&amp; que le moindre mouvement des doigts donnera 
+à ces traits une largeur plus ou moins grande:
+mais je préviendrai en même tems qu&#39;il faut de l&#39;adresse,
+de l&#39;attention, &amp; beaucoup d&#39;habitude pour
+y habituer entierement la main : aussi y a t-il peu
+d&#39;artistes qui s&#39;en servent uniquement. La maniere
+de gouverner l&#39;échope servira aisément pour le maniement 
+de la pointe ; ainsi je n&#39;insisterai point là-dessus.
+Il faut avoir l&#39;attention de tenir en général
+les pointes &amp; les échopes le plus à-plomb qu&#39;il est
+possible, &amp; de les passer souvent sur la pierre à aiguiser,
+pour que leurs inégalités ne nuisent pas à la
+propreté du travail. Il est encore nécessaire de nettoyer 
+votre vernis, &amp; de n&#39;y laisser aucune malpropreté: vous vous servirez pour cela ou des barbes
+d&#39;une plume, ou d&#39;un linge très-fin, ou d&#39;une petite
+brosse douce qui sera faite exprès.
+</p>
+<p>
+Il est tems de passer aux préparatifs nécessaires,
+avant de livrer la planche à l&#39;eau-forte. Je suppose
+donc qu&#39;on a tracé sur cette planche, en ôtant le
+vernis avec les pointes &amp; les échopes, tout ce qui
+peut contribuer à rendre plus exactement le dessein
+ou le tableau qu&#39;on a entrepris de graver : la planche
+étant dans cet état, il faut commencer par un examen 
+qui tendra à connoître si le vernis ne se trouve
+pas égratigné dans des endroits où il ne doit pas l&#39;être,
+soit par l&#39;effet du hasard, soit parce qu&#39;on a fait
+quelques faux traits. Lorsque vous aurez remarqué
+ces petits défauts, vous préparerez un mélange propre 
+à les couvrir. Ce mélange se fait en mettant du
+noir de fumée en poudre dans du vernis de Venise
+(c&#39;est celui dont on se sert pour vernir les tableaux) ;
+vous employerez ce mélange, après lui avoir donné
+assez de corps pour qu&#39;il couvre les traits que vous
+voulez faire disparoître, avec des pinceaux à laver
+ou à peindre en mignature. Il est une autre mixtion
+nécessaire pour en enduire le derriere de la planche,
+qui sans cela seroit exposé sans nécessité à l&#39;effet corrosif 
+de l&#39;eau-forte. En voici la composition.
+</p>
+<p>
+Prenez une écuelle de terre plombée, mettez-y
+une portion d&#39;huile d&#39;olive, posez ladite écuelle sur
+le feu. Lorsque l&#39;huile sera bien chaude, jettez-y du
+<pb n="7:885" facs="V7/ENC_7-885.jpeg" />
+<milestone unit="column" n="1" />
+suif de chandelle : le moyen de savoir si le mélange
+est tel qu&#39;il doit être, est d&#39;en laisser tomber quelques 
+gouttes sur un corps froid, tel qu&#39;une planche
+de cuivre, par exemple ; si ces gouttes se figent de
+maniere qu&#39;elles soient médiocrement fermes, le
+mélange est juste ; si elles sont trop fermes &amp; cassantes,
+vous remettrez de l&#39;huile ; si au contraire elles
+sont trop molles &amp; qu&#39;elles restent presque liquides,
+vous ajoûterez une petite dose de graisse. Lorsque
+la mixtion sera au degré convenable, vous ferez
+bien bouillir le tout ensemble l&#39;espace d&#39;une heure,
+afin que le suif &amp; l&#39;huile se lient &amp; se mêlent bien ensemble.
+On se sert d&#39;une brosse ou d&#39;un gros pinceau
+pour employer cette mixtion ; &amp; lorsqu&#39;on veut en
+couvrir le derriere du cuivre, on la fait chauffer de
+maniere qu&#39;elle soit liquide.
+</p>
+<p>
+Ces précautions nécessaires que je viens d&#39;indiquer,
+sont communes aux ouvrages dans lesquels on
+s&#39;est servi du vernis dur, &amp; à ceux où le vernis mou
+a été employé: mais l&#39;eau-forte dont on doit se servir,
+n&#39;est pas la même pour l&#39;un &amp; l&#39;autre de ces ouvrages.
+Commençons par l&#39;eau-forte dont on se doit
+servir pour faire mordre les planches vernies au vernis 
+dur.
+</p>
+<p>
+Prenez trois pintes de vinaigre blanc, du meilleur
+&amp; du plus fort ; six onces de sel commun, le plus net
+&amp; le plus pur ; six onces de sel ammoniac clair, transparent,
+&amp; qui soit aussi bien blanc &amp; bien net ; quatre 
+onces de verdet, qui soit sec &amp; exempt de raclure 
+de cuivre &amp; de grappes de raisin avec lesquelles 
+on le fabrique. Ces doses serviront de regle pour
+la quantité d&#39;eau-forte qu&#39;on voudra faire. Mettez le
+tout (après avoir bien pilé les drogues qui ont besoin 
+de l&#39;être) dans un pot de terre bien vernissé principalement 
+en-dedans, &amp; qui soit assez grand pour
+que les drogues en bouillant &amp; en s&#39;élevant ne passent 
+pas par-dessus les bords ; couvrez le pot de son
+couvercle, mettez-le sur un grand feu ; faites bouillir 
+promptement le tout ensemble deux ou trois gros
+bouillons, &amp; non davantage. Lorsque vous jugerez à-peu-près que le bouillon est prêt à se faire, découvrez
+le pot &amp; remuez le mélange avec un petit bâton, en
+prenant garde que l&#39;eau-forte ne s&#39;éleve trop &amp; ne
+surmonte les bords, d&#39;autant qu&#39;elle a coûtume en
+bouillant de s&#39;enfler beaucoup. Lorsqu&#39;elle aura
+bouilli, comme je l&#39;ai dit ci-dessus, deux ou trois
+bouillons, vous la retirerez du feu, vous la laisserez
+refroidir en tenant le pot découvert ; &amp; lorsqu&#39;elle
+sera enfin refroidie, vous la verserez dans une bouteille 
+de verre ou de grès, la laissant reposer un jour
+ou deux avant que de vous en servir ; si en vous en
+servant vous la trouviez trop forte, &amp; qu&#39;elle fît
+éclater le vernis, vous la pourrez modérer en y mêlant 
+un verre ou deux du même vinaigre dont vous
+vous serez servi pour la faire.
+</p>
+<p>
+J&#39;observerai ici que cette composition est assez
+dangereuse à faire, lorsqu&#39;on ne prend pas l&#39;attention 
+de respirer le moins qu&#39;il est possible la vapeur
+qui s&#39;exhale, &amp; de renouveller souvent l&#39;air dans
+l&#39;endroit où on la fait chauffer.
+</p>
+<p>
+Après avoir composé l&#39;eau-forte dont on se sert
+pour faire mordre la planche qu&#39;on a vernie au
+vernis dur, il faut savoir en faire usage. Je vais
+dire premierement la maniere dont Bosse fait mention ; 
+elle est la plus simple, mais non pas la plus
+commode. Je dirai ensuite comment M. le Clerc
+avoit commencé de rendre cette opération plus commode ; 
+&amp; je finirai par décrire une machine assez
+simple que j&#39;ai fait exécuter, dont je me sers, &amp; qui
+tout-à-la-fois ménage le tems de l&#39;artiste, &amp; le met à
+l&#39;abri du danger qu&#39;on peut courir par l&#39;évaporation
+de l&#39;eau-forte.
+</p>
+<p>
+L&#39;ancienne maniere d&#39;employer l&#39;eau-forte dont
+j&#39;ai parlé, est de la verser sur la planche, de façon
+<milestone unit="column" n="2" />
+qu&#39;elle ne s&#39;y arrête pas &amp; qu&#39;elle coule dans toutes 
+les hachures. Pour cela on place la planche presque 
+perpendiculairement, &amp; pour plus de facilité on
+l&#39;attache, à l&#39;aide de quelques pointes, contre une
+planche de bois assez grande, qui a un rebord par en-haut 
+&amp; par les deux côtés. On l&#39;appuie presque perpendiculairement,
+ou contre un mur, ou contre un
+chevalet ; ensuite on met au-dessous une terrine qui
+reçoit l&#39;eau-forte qu&#39;on verse sur la planche, &amp; qui
+se rend dans la terrine après avoir coulé dans toutes
+les hachures. La planche de bois dont j&#39;ai parlé, &amp;
+sur laquelle la planche de cuivre est attachée, sert à
+empêcher l&#39;eau-forte qu&#39;on verse de tomber à terre,
+&amp; les rebords la contiennent : on voit par-là qu&#39;il ne
+faut pas qu&#39;il y en ait en-bas, puisqu&#39;alors l&#39;eau-forte trouveroit un obstacle pour se rendre dans le vase
+qui doit la recevoir. On prend encore une précaution 
+pour qu&#39;elle se rende plus immédiatement dans
+ce vase : c&#39;est de mettre au-dessous de la planche de
+bois une espece d&#39;auge dans laquelle cette planche
+de bois entre, &amp; qui la débordant des deux côtés,
+reçoit sans qu&#39;il s&#39;en perde toute l&#39;eau-forte, qui y
+est conduite par les rebords dont j&#39;ai parlé. L&#39;auge
+est percée d&#39;un seul trou, qui répond à la terrine qui
+est au-dessous ; &amp; moyennant ces précautions, toute
+l&#39;eau-forte, après avoir lavé la planche, se rend dans
+la terrine. On la puise de nouveau alors avec le vase
+qui sert à la verser, &amp; on la répand encore sur la planche ; 
+ce qu&#39;on recommence jusqu&#39;à ce que l&#39;opération
+soit faite, en observant toûjours que lorsqu&#39;on la
+verse la planche en soit bien inondée, afin qu&#39;elle
+pénetre dans toutes les hachures. Voilà la plus ancienne 
+maniere de faire mordre avec cette sorte
+d&#39;eau-forte, qu&#39;on nomme communément <i>eau-forte
+à couler</i>.
+</p>
+<p>
+La <i><ref target="XPL:5406" type="platelink">Pl. I</ref>.</i> rendra cette explication plus sensible ;
+on y voit à la <i><ref target="XPL:5407" type="platelink">fig. 2</ref>. let. A</i>, le <i>graveur</i> versant l&#39;eau-forte ; 
+la lettre <i>B</i> désigne la planche de cuivre attachée 
+sur la planche de bois marquée <i>C</i>: les rebords
+sont indiqués par les lettres <i>D</i>, l&#39;auge par la lettre <i>E</i>,
+&amp; la terrine par la lettre <i>F.</i> Passons à la maniere
+dont M. le Clerc a cherché à simplifier cette opération : il a senti que son objet principal étoit de faire
+passer l&#39;eau-forte sur la planche, &amp; que c&#39;étoit en
+partie par ce mouvement qu&#39;elle approfondissoit les
+tailles qu&#39;on a faites sur le vernis ; il a jugé alors
+qu&#39;en attachant la planche de cuivre horisontalement 
+dans le fond d&#39;une espece de boîte découverte
+plus grande que la planche de cuivre ; qu&#39;en enduisant 
+cette boîte de suif, pour qu&#39;elle contînt l&#39;eau-forte ; 
+qu&#39;en y versant ensuite de l&#39;eau-forte, &amp; en
+baissant &amp; haussant alternativement cette boîte,
+l&#39;eau-forte qui y seroit passeroit sur la planche au premier 
+mouvement, &amp; y repasseroit en second en allant 
+d&#39;un côté de la boîte à l&#39;autre ; qu&#39;ainsi en ballottant 
+cette eau-forte par le moyen des deux mains,
+on épargneroit la fatigue qu&#39;on essuie dans la maniere 
+précédente, dans laquelle il faut ramasser l&#39;eau-forte 
+dans la terrine, pour la reporter sans cesse sur
+la planche. D&#39;ailleurs la façon précipitée dont l&#39;eau-forte 
+contenue dans la boîte passe sur la planche, fait
+gagner un tems considérable à l&#39;artiste ; ce qui est un
+objet intéressant.
+</p>
+<p>
+C&#39;est cet objet qui m&#39;a déterminé à chercher un
+nouveau moyen. J&#39;ai premierement obvié à l&#39;évaporation 
+de l&#39;eau-forte, dont la vapeur est nuisible à
+celui qui fait mordre, en adaptant à la boîte dont je
+viens de parler un couvercle qui n&#39;est autre chose
+qu&#39;un verre blanc, une vitre ou une glace montée à
+jour dans un quadre de fer-blanc ou d&#39;autre métal.
+Ce couvercle qui ferme exactement la boîte, empêche 
+que la vapeur de l&#39;eau-forte mise en mouvement
+ne soit à beaucoup près aussi abondante &amp; aussi
+nuisible que lorsqu&#39;elle se répand librement. Les boîtes<gap type="hyphenpb" />
+<pb n="7:886" facs="V7/ENC_7-886.jpeg" />
+<milestone unit="column" n="1" />
+dont je me sers sont entierement de fer-blanc,
+j&#39;en ai de plus grandes &amp; de plus petites, &amp; je les
+enduis de plusieurs couches de couleur à l&#39;huile pour
+les mettre à l&#39;abri de l&#39;impression de l&#39;eau-forte : ces
+sortes de boîtes sont peu coûteuses &amp; durent toûjours,
+pourvû qu&#39;on ait soin de leur donner de tems
+en tems quelques couches de couleur à l&#39;huile. La
+façon la plus commode de se servir de la boîte pour
+ballotter l&#39;eau-forte, est de la poser sur les genoux
+qui forment un point d&#39;appui. On tient les deux côtés 
+avec les deux mains, &amp; on souleve un peu chaque 
+main l&#39;une après l&#39;autre, comme on peut le
+voir <i><ref target="XPL:5408" type="platelink">fig. 4</ref>. de la <ref target="XPL:5409" type="platelink">Pl. I</ref>. de la grav. en taille-douce</i>.
+</p>
+<p>
+Cette maniere me parut simple, &amp; j&#39;ai par la seule
+addition du couvercle, remédié au danger réel auquel 
+le fréquent usage de l&#39;eau-forte peut exposer les
+artistes qui s&#39;en servent souvent : mais ce moyen a
+toûjours l&#39;inconvénient d&#39;entraîner une perte de tems
+assez considérable pour l&#39;artiste, ou la nécessité d&#39;employer 
+un homme dont il faut payer la peine. Pour
+surmonter cette difficulté, j&#39;ai adapté à la boîte une
+machine très-simple qui lui communique le mouvement 
+qu&#39;on lui donneroit avec les deux mains, &amp;
+qui rend ce mouvement si égal, que l&#39;on est bien plus
+à portée de calculer l&#39;effet de l&#39;eau-forte sur la planche.
+Voici en quoi consiste cette machine, dont les
+figures aideront à bien faire entendre la construction.
+</p>
+<p>
+Cette machine dont l&#39;assemblage se voit <i><ref target="XPL:5410" type="platelink">Pl. II</ref>.
+de la gravure en taille-douce, <ref target="XPL:5411" type="platelink">fig. 1</ref>.</i> est composée d&#39;une
+cage de fer formée par deux montans <i>A A</i>, joints
+ensemble par deux traverses <i>B B ;</i> l&#39;inférieure est attachée 
+à deux piés <i>C C</i>, qui passent au-travers de la
+table, &amp; y sont arrêtés par deux écrous. Cette cage
+renferme deux roues &amp; deux pignons : sur la premiere 
+roue est rivé un tambour ou barillet contenant
+un fort ressort : leur arbre commun porte un rochet,
+&amp; l&#39;un des montans un encliquetage, lesquels servent 
+à remonter le grand ressort &amp; à lui donner la
+bande nécessaire. La deuxieme roue est enarbrée
+sur le premier pignon ; elle engrene dans le second,
+qui porte sur un de ses pivots, extérieurement à la
+cage, un rochet à trois dents.
+</p>
+<p>
+Ce rochet forme un échappement au moyen de
+deux palettes fixées sur un anneau elliptique <i>D D</i>,
+dans lequel il est renfermé. Sur le prolongement de
+son grand axe, cet anneau porte deux queues sur
+lesquelles sont deux coulisses, l&#39;une supérieure, l&#39;autre 
+inférieure ; il est arrêté sur un des montans de la
+cage par des tenons à vis qui lui permettent de se
+mouvoir librement de haut en-bas. La queue inférieure 
+formée en équerre, porte un petit bras de fer
+<i>I</i>, qui lui est joint au moyen d&#39;une vis par une de ses
+extrémités, &amp; qui l&#39;est de même par l&#39;autre à la
+branche courte <i>F</i> du <i>T</i>, marqué <i>E F G</i>. En <i>K</i> est une
+goupille fixée sur un des montans ; elle passe à-travers
+une douille rivée sur le <i>T</i>, sur laquelle il peut se
+mouvoir. Sa branche <i>G</i> passe par une ouverture faite
+à la table en forme de rainure, suffisamment grande
+pour ne pas gêner son mouvement, &amp; porte une lentille 
+de plomb assez pesante. A l&#39;extrémité de la branche 
+longue <i>E</i> est attaché un autre petit bras <i>L</i>, semblable 
+à <i>I</i>, joint par son autre bout au levier <i>M</i>, lequel 
+est fixé invariablement à l&#39;un des tourillons du
+porte-boîte. Celui-ci est fait d&#39;une piece de fer <i>O N,
+N O</i>, coudée en <i>N N</i> &amp; en <i>O O</i> où sont deux tourillons 
+sur lesquels il se meut. <i>P P</i> sont deux doigts
+de fer rivés sur la barre <i>N N</i>, lesquels entrent dans
+deux mains artachées sur la boîte pour l&#39;empêcher
+de se renverser. <i>Q Q</i> sont deux supports terminés
+par deux tenons qui traversent la table, &amp; sont
+arrêtés dessous par deux vis ou deux clavettes ; ils
+servent à porter les tourillons du porte-boîte : on y
+a ajoûté deux petits anneaux afin qu&#39;ils ne puissent
+s&#39;échapper. La boite est de fer-blanc, couverte d&#39;un
+<milestone unit="column" n="2" />
+verre qui permet à l&#39;artiste de voir l&#39;effet de l&#39;eau-forte,
+&amp; la situation de sa planche.
+</p>
+<p>
+Voici maintenant comment se fait le jeu de cette
+machine. Si l&#39;on met le balancier <i>G</i> en mouvement
+il le communique par le petit bras <i>L</i> au levier <i>M</i>, &amp;
+par conséquent au porte-boîte ; ce qui produit un
+bercement qui agite sans cesse l&#39;eau-forte contenue
+dans la boîte, en la faisant passer sur la planche &amp;
+repasser sans discontinuer : mais ce mouvement se
+rallentiroit &amp; cesseroit peu-à-peu tout-à-fait, si le
+rochet <i>R</i> faisant monter &amp; descendre alternativement 
+l&#39;anneau elliptique au moyen de ses palettes,
+ne restituoit pas le mouvement au balancier, auquel
+il communique le sien par le petit bras <i>I</i>.
+</p>
+<p>
+Pour faciliter l&#39;intelligence de cette machine, nous
+allons développer quelques-unes de ses parties. La
+<i><ref target="XPL:5412" type="platelink">fig. 2</ref>. de la <ref target="XPL:5413" type="platelink">Pl. II</ref>.</i> représente le plan de l&#39;anneau elliptique.
+<i>DD</i> sont les queues sur lesquelles sont les
+coulisses. <i>P P</i> sont les palettes : on voit en <i>R</i> le rochet
+renfermé dans cet anneau. C&#39;est le retour d&#39;équerre
+de la queue inférieure qui porte le petit bras <i>I</i>, joint
+de même à la branche courte <i>F</i> du <i>T</i> marqué <i>E F G</i>.
+</p>
+<p>
+<i><ref target="XPL:5414" type="platelink">Fig. 3</ref>. de la même <ref target="XPL:5415" type="platelink">Planche, K</ref></i> est la douille sur laquelle 
+il se meut ; <i>G</i> est le balancier ; <i>H</i> la lentille ;
+<i>E</i> la branche longue qui communique par le petit
+bras <i>L</i> au levier <i>M</i> du porte-boîte.
+</p>
+<p>
+<i><ref target="XPL:5416" type="platelink">Fig. 4</ref>, O O</i> sont les tourillons ; <i>S S</i> les petits anneaux 
+pour les contenir ; <i>P P</i> les doigts pour arrêter
+la boîte ; <i>Q Q</i> les supports des tourillons.
+</p>
+<p>
+J&#39;avertirai que comme cette machine n&#39;est parfaitement 
+intelligible qu&#39;avec le secours des figures qui
+ne doivent paroître qu&#39;à la fin de l&#39;ouvrage, si quelqu&#39;un étoit curieux de la faire exécuter, je serai toûjours 
+disposé à faire voir celle dont je me sers, ou à
+en envoyer le dessein, si cela peut obliger quelqu&#39;un
+ou lui être de quelque utilité.
+</p>
+<p>
+Revenons à ce qui regarde l&#39;effet de l&#39;eau-forte.
+Cette liqueur corrosive destinée à approfondir les
+tailles, lorsqu&#39;elle est répandue sur la planche, la
+creuse effectivement en détruisant les parties de cuivre 
+qui sont découvertes, &amp; en respectant celles qui
+sont enduites de vernis. Mais il est nécessaire, pour
+qu&#39;une planche soit au point de perfection où tend
+le graveur, que ces tailles soient approfondies avec
+une juste dégradation : les lointains ou les plans éloignés ne feront point l&#39;effet qu&#39;ils doivent faire, si les
+tailles dont ils sont travaillés sont trop approfondies ;
+car alors le noir d&#39;impression dont on remplit ces
+tailles en imprimant la planche, y sera en trop grande 
+abondance ; ces objets paroîtront trop noirs sur
+l&#39;estampe, &amp; ne feront pas l&#39;illusion qu&#39;ils doivent
+causer : il est donc nécessaire de conduire avec une
+grande sagacité &amp; beaucoup d&#39;intelligence l&#39;opération 
+de l&#39;eau-forte sur les tailles. Pour cela, lorsqu&#39;on
+a fait mordre sa planche pendant l&#39;espace de tems
+qu&#39;on estime suffisant pour les lointains, on suspend
+l&#39;opération de l&#39;eau-forte ; on retire la planche, on la
+lave en versant beaucoup d&#39;eau fraîche dessus ; ensuite 
+on la laisse secher ou à l&#39;air ou en l&#39;approchant
+doucement d&#39;un feu très-modéré. Lorsque la planche
+sera seche, vous vous éclaircirez de l&#39;effet qu&#39;a produit 
+l&#39;eau-forte, en découvrant le vernis, avec un
+grattoir ou un petit morceau de charbon de saule,
+dans quelque endroit des lointains.
+</p>
+<p>
+Si vous jugez qu&#39;ils soient assez mordus, vous couvrirez 
+tout ce qui doit être du ton de ces lointains,
+en vous servant du mélange que j&#39;ai déjà indiqué,
+&amp; qui se fait avec le vernis de peintre &amp; le noir de
+fumée ; vous l&#39;employerez avec des pinceaux plus
+ou moins fins, suivant la finesse des traits &amp; des
+masses que vous voulez couvrir. Ensuite, après
+avoir donné le tems à ce vernis que vous venez d&#39;employer,
+de sécher, vous remettrez votre planche comme 
+elle étoit, pour l&#39;exposer de nouveau à l&#39;eau-forte ;<gap type="hyphenpb" />
+<pb n="7:887" facs="V7/ENC_7-887.jpeg" />
+<milestone unit="column" n="1" />
+vous la ferez mordre autant que vous croirez 
+qu&#39;il est nécessaire pour les plans qui suivent ceux
+que vous avez couverts ; ensuite vous retirerez encore
+votre planche, vous couvrirez une seconde fois ce
+que vous voulez soustraire à l&#39;effet de l&#39;eau-forte:
+enfin vous réitérerez cette opération autant de fois
+que vous le voudrez &amp; que vous croirez qu&#39;il le faut
+pour parvenir à un juste effet de dégradation dans
+les plans &amp; dans les objets.
+</p>
+<p>
+J&#39;observerai qu&#39;il seroit injuste d&#39;exiger qu&#39;on donnât 
+des évaluations précises du tems qu&#39;on doit employer 
+l&#39;eau-forte chaque fois ; les calculs &amp; les observations 
+les plus exactes n&#39;ont pû me satisfaire ;
+l&#39;effet de l&#39;eau-forte dépend de trop de causes accidentelles,
+pour qu&#39;on puisse le soûmettre à des regles
+invariables.
+</p>
+<p>
+1°. L&#39;eau-forte est plus ou moins agissante, suivant 
+le degré de cuisson qu&#39;on lui a donné, &amp; suivant 
+la qualité &amp; le choix particulier des ingrédiens
+dont elle est composée.
+</p>
+<p>
+2°. Le cuivre par sa nature peut être plus ou
+moins docile à l&#39;effet de l&#39;eau forte. Le cuivre mou
+dont j&#39;ai parlé dans le commencement de cet article,
+résiste à l&#39;action de l&#39;eau-forte ; le cuivre aigre
+se dissout trop tôt, &amp; toutes ces différences sont susceptibles 
+de degrés &amp; de nuances infinies.
+</p>
+<p>
+3°. L&#39;effet de l&#39;air influe sensiblement sur l&#39;effet de
+l&#39;eau-forte, le froid retarde son action, le chaud l&#39;accélere,
+l&#39;humidité y cause des différences sensibles.
+</p>
+<p>
+4°. La maniere de se servir des outils avec lesquels 
+on grave, &amp; la différence des pointes ou émoussées ou coupantes, facilitent à l&#39;eau-forte l&#39;entrée du
+cuivre, ou lui laissent la peine de l&#39;entamer.
+</p>
+<p>
+Il faut donc que l&#39;usage accompagné des observations 
+particulieres de l&#39;artiste, lui donnent les lumieres 
+dont il a besoin pour se guider : il est fort difficile 
+d&#39;arriver à faire mordre une planche à un effet
+juste ; &amp; c&#39;est pour cela que la plus grande partie des
+graveurs se contentent d&#39;obtenir de l&#39;eau-forte un
+ton général, gris, propre, &amp; égal, en réservant de
+donner à leur ouvrage avec le secours du burin un
+accord &amp; un effet dont ils sont les maîtres par ce
+moyen : mais cette pratique que le méchanisme de la
+<i>gravure</i> favorise, est sujet à des réflexions que j&#39;ai
+déjà indiquées. Poursuivons ce qui regarde l&#39;opération 
+que je viens de décrire.
+</p>
+<p>
+Lorsqu&#39;après avoir exposé autant de tems qu&#39;il le
+faut la planche à l&#39;action de l&#39;eau-forte, ce qui va
+quelquefois à l&#39;espace d&#39;une heure, d&#39;une heure &amp;
+demie &amp; plus, vous la trouvez parvenue au point
+que vous souhaitez ; vous la lavez une derniere fois
+dans une quantité d&#39;eau fraîche, ensuite la chauffant
+raisonnablement, vous enlevez avec un linge tout le
+vernis dont vous avez fait usage avec le pinceau, pour
+couvrir les différens plans : vous ôtez par le même
+moyen la mixtion de suif &amp; d&#39;huile dont le derriere
+de la planche est couvert ; après quoi il reste à enlever
+le vernis dur : vous y parviendrez en vous servant
+du charbon de saule que vous passerez dessus la planche,
+en frottant fortement &amp; en mouillant d&#39;eau commune 
+ou d&#39;huile &amp; la planche &amp; le charbon. Il est
+inutile d&#39;observer qu&#39;à mesure que vous voyez le
+cuivre se découvrir, il faut ménager le frottement,
+pour que le charbon n&#39;altere point les finesses de la
+<i>gravure</i>. Lorsque vous aurez enfin enlevé tout ce
+qui reste de vernis dur à la planche, vous la livrerez
+à l&#39;imprimeur pour en tirer des épreuves : on donnera 
+<i>au mot</i> <sc><ref target="head:Impression" type="search">Impression</ref></sc>, tout le détail de cette opération,
+avec la figure de la presse &amp; sa description.
+</p>
+<p>
+Revenons à la maniere de faire mordre les planches 
+vernies au vernis mou, lorsqu&#39;on employe pour
+cela l&#39;eau-sorte qu&#39;on nomme <i>eau de départ</i>.
+</p>
+<p>
+Cette eau-forte se fait avec le vitriol, le salpetre,
+&amp; quelquefois l&#39;alun de roche, distillés ensemble ;
+<milestone unit="column" n="2" />
+c&#39;est celle dont les affineurs se servent pour séparer
+l&#39;or d&#39;avec l&#39;argent &amp; le cuivre ; elle se trouve plus
+aisément que l&#39;autre. D&#39;ailleurs la composition en
+doit être détaillée ailleurs ; ainsi je ne la donnerai
+point.
+</p>
+<p>
+Je remarquerai ici, pour ne point l&#39;oublier, qu&#39;on
+peut se servir pour faire mordre les planches gravées 
+au vernis mou, de l&#39;eau-forte dont j&#39;ai donné la
+composition, &amp; qui est faite avec le vinaigre, le sel
+ammoniac, &amp; le verdet ; elle ménage davantage le
+vernis, &amp; on la gouverne plus aisément : mais l&#39;eau-forte 
+de départ ne peut servir pour les planches vernies 
+au vernis dur ; elle fait éclater ce vernis, &amp;
+détruit ainsi en un moment l&#39;ouvrage de plusieurs
+jours &amp; quelquefois de plusieurs mois.
+</p>
+<p>
+Venons au vernis mou &amp; à l&#39;eau-forte de départ.
+</p>
+<p>
+Il faut prendre de la cire molle, rouge ou verte,
+qui devienne flexible en l&#39;échauffant un peu, comme 
+celle dont se servent les Sculpteurs pour modeler.
+Vous en formerez en le paîtrissant &amp; l&#39;étendant
+un rebord autour de votre planche. Ce rebord n&#39;a
+pas besoin d&#39;être plus haut que cinq ou six lignes au
+plus ; mais il faut qu&#39;il soit tellement appliqué à la
+planche de cuivre, qu&#39;elle puisse par son moyen, contenir 
+l&#39;eau dont on doit la couvrir à la hauteur de
+deux ou trois lignes. La planche ainsi préparée, vous
+la placerez horisontalement sur une table qui soit de
+niveau, comme on le voit à la <i><ref target="XPL:5417" type="platelink">fig. 5</ref>. de la I. <ref target="XPL:5418" type="platelink">Planche de la gravure en taille-douce</ref></i>. Alors vous prendrez
+l&#39;eau-forte dont j&#39;ai parlé, vous y mêlerez moitié
+d&#39;eau commune, &amp; vous la verserez sur la planche ;
+vous observerez son effet qui se rend sensible par le
+bouillonnement qui est excité par-tout où elle creuse
+le cuivre : le reste de l&#39;opération se rapporte à celle
+que j&#39;ai décrite pour l&#39;eau-forte à couler, c&#39;est-à-dire,
+que lorsque vous jugez que les lointains &amp; les
+traits qui doivent être foibles, sont assez mordus,
+vous versez l&#39;eau-forte, vous lavez bien la planche
+avec de l&#39;eau commune, vous la laissez secher, vous
+couvrez ce que vous jugez qui doit être couvert avec
+le vernis de peintre &amp; le noir de fumée, après quoi
+vous y remettez l&#39;eau-forte, <i>&amp;c.</i>
+</p>
+<p>
+Voilà les manieres connues de graver à l&#39;eau-forte ; 
+c&#39;est aux artistes à les éprouver toutes, &amp;
+sur-tout à ne jamais opérer sans faire des observations : c&#39;est ainsi qu&#39;ils pourront découvrir des pratiques 
+ou plus commodes, ou plus sûres, ou plus convenables 
+à leur génie &amp; à leur goût. Il y a, je crois,
+une infinité de recherches à faire sur cette partie,
+dont j&#39;espere donner un jour les détails, lorsque je
+m&#39;en serai assûré par des expériences réitérées. Je
+me contente aujourd&#39;hui d&#39;offrir aux artistes la machine 
+dont j&#39;ai donné le détail, comme un moyen sûr
+d&#39;éviter les inconvéniens que l&#39;eau-forte a pour ceux
+qui s&#39;en approchent. La conservation des hommes
+doit toûjours être l&#39;objet principal de ceux qui dans
+les arts cherchent à étendre leurs découvertes.
+</p>
+<p>
+Je vais maintenant emprunter de l&#39;ouvrage que
+j&#39;ai cité au commencement de cet article, la plus
+grande partie de ce qui regarde la <i>gravure</i> au burin.
+</p>
+<p>
+<i>De la gravure au burin</i>. Le Dessein est toûjours la
+base sur laquelle on doit appuyer toutes les opérations 
+de la <i>Gravure ;</i> on ne peut donc trop recommander 
+aux Graveurs, soit à l&#39;eau-forte soit au burin,
+de s&#39;exercer continuellement à dessiner ; ils doivent 
+sur-tout s&#39;appliquer à dessiner long-tems des
+têtes, des piés, &amp; des mains d&#39;après nature, &amp; peut-être
+aussi souvent d&#39;après les desseins des artistes qui
+ont bien dessiné ces extrémités. Augustin Carrache
+&amp; Villamene sont des exemples à suivre pour cette
+partie du Dessein, dans laquelle ils ont parfaitement
+réussi. Un graveur qui aura les ouvrages de ces artistes 
+sous les yeux, &amp; qui fera de continuelles études, se trouvera en état de corriger les desseins peu
+<pb n="7:888" facs="V7/ENC_7-888.jpeg" />
+<milestone unit="column" n="1" />
+corrects d&#39;après lesquels il est quelquefois obligé de
+graver ; &amp; peut-être même d&#39;ajoûter quelquefois à
+des tableaux d&#39;ailleurs fort estimables, une exactitude 
+dans les détails, que les peintres habiles se croyent
+mal-à-propos en droit de négliger. Je ne prétens pas
+pour cela insinuer aux Graveurs de se donner une
+liberté qui seroit condamnable. Le graveur est pour
+les peintres dont il imite les tableaux, ce que le traducteur 
+est pour les auteurs dont il interprete les
+ouvrages ; ils doivent l&#39;un &amp; l&#39;autre conserver le caractere 
+de l&#39;original, &amp; se dépouiller de celui qu&#39;ils
+ont ; ils doivent être des protées : on ne lit une traduction,
+&amp; l&#39;on ne consulte pour l&#39;ordinaire une <i>gravure</i>, que pour connoître les auteurs originaux.
+</p>
+<p>
+Il est nécessaire que les Graveurs sachent l&#39;Architecture &amp; la Perspective, par les raisons que j&#39;ai
+données ci-dessus ; en effet il arrive quelquefois qu&#39;un
+dessein ne fait qu&#39;indiquer d&#39;une maniere indécise
+les différens ornemens de l&#39;Architecture, ou les effets
+de la Perspective. Si le graveur ignore les regles qui
+doivent déterminer les effets, &amp; les proportions qui
+assujettissent les ornemens &amp; les marbres de l&#39;Architecture, il ajoûtera à la négligence &amp; aux défauts du
+Dessein, ou commettra des erreurs essentielles,
+faute de pouvoir lire ce qu&#39;un peintre aura indiqué.
+</p>
+<p>
+Le cuivre rouge est aussi celui qu&#39;on choisit pour
+graver au burin ; il faut qu&#39;il ait les mêmes qualités
+pour être propre à cette sorte de <i>gravure</i> que pour
+servir à la <i>gravure</i> à l&#39;eau-forte ; il faut aussi qu&#39;il soit
+préparé de même, &amp; sur-tout qu&#39;il soit parfaitement
+propre, uni, &amp; lisse.
+</p>
+<p>
+Les outils qu&#39;on nomme <i>burins</i>, se font de l&#39;acier
+le plus pur &amp; le meilleur ; celui d&#39;Allemagne a jusqu&#39;ici la réputation d&#39;être préférable à tout autre.
+L&#39;acier, pour être bon, doit avoir un grain fin &amp; de
+couleur de cendre. Il est essentiel que l&#39;ouvrier qui
+forge les burins connoisse bien l&#39;art de tremper l&#39;acier.
+La forme du burin est représentée à la <i><ref target="XPL:5419" type="platelink">Planche
+I</ref>. de la Gravure en taille-douce</i>. On y a représenté
+les especes principales des burins, tels que le burin
+quarré lettre <i>A</i>, &amp; le burin losange lettre <i>B</i>. On approche 
+ou on s&#39;éloigne plus ou moins de ces deux
+formes, suivant le plan de travail qu&#39;on s&#39;est formé:
+on les fait aussi plus courts ou plus longs, suivant son
+goût ou la facilité qu&#39;on y trouve, ou le genre d&#39;ouvrage 
+qu&#39;on grave. Le burin le plus commode en général 
+&amp; d&#39;un plus fréquent usage, est celui qui n&#39;est
+ni trop long ni trop court, dont la forme est entre le
+losange &amp; le quarré, qui est assez délié par le bout,
+mais ensorte que cette finesse ne vienne pas de trop
+loin pour qu&#39;il conserve du corps &amp; de la force ; car
+il casse ou plie s&#39;il est délié dans toute sa longueur,
+ou aiguisé trop également. Il faut observer que le
+graveur doit avoir le plus grand soin que son burin
+soit toûjours parfaitement aiguisé, &amp; qu&#39;il n&#39;ait jamais 
+la pointe émoussée, s&#39;il veut que sa <i>gravure</i> soit
+nette &amp; que son ouvrage soit propre.
+</p>
+<p>
+J&#39;ai dit que les burins étoient ordinairement ou
+losanges ou quarrés ; les premiers sont propres à faire
+un trait profond à proportion de leur largeur : le burin 
+quarré fait un trait large qu&#39;on approfondit quelquefois 
+avec le burin losange.
+</p>
+<p>
+Le burin a quatre côtés ; il n&#39;est nécessaire d&#39;aiguiser 
+que les deux dont la réunion forme la pointe de
+l&#39;outil. <i>Voyez la figure marquée C:</i> elle vous indique
+<i>a b</i> &amp; <i>b c</i>. Ce sont les deux côtés qu&#39;il faut aiguiser:
+après quoi, en applatissant le bout par un plan incliné,
+on forme la pointe <i>b</i> qui est destinée à pénétrer
+le cuivre &amp; à ouvrir la route du burin. C&#39;est sur une
+pierre à l&#39;huile bien choisie que se fait l&#39;opération
+d&#39;aiguiser le burin de la maniere qui est marquée <i>fig.
+D, <ref target="XPL:5420" type="platelink">Pl. I</ref></i>. On y applique comme vous le pouvez
+voir, un des côtés du burin dans toute sa longueur:
+on tient ce côté ferme &amp; bien à plat sur la pierre qui
+<milestone unit="column" n="2" />
+est humectée d&#39;huile, en appuyant le second &amp; le
+troisieme doigt, qui servent à contenir le burin pour
+qu&#39;il ne se sépare point de la pierre : on glisse alors
+le burin le long de la pierre, &amp; on le ramene autant
+de fois qu&#39;il est nécessaire pour que le côté soit bien
+&amp; bien également aiguisé; on en fait autant pour l&#39;autre 
+côté, jusqu&#39;à ce que l&#39;arête commune à ces deux
+côtés soit bien vive &amp; bien affilée : ensuite on travaille 
+à former la face, comme vous le voyez aussi
+représenté <i><ref target="XPL:5421" type="platelink">fig. 1</ref>. de la même <ref target="XPL:5422" type="platelink">Planche</ref></i>. Il faut de l&#39;adresse 
+&amp; de l&#39;habitude pour parvenir à aiguiser un
+burin, de maniere que ces trois faces soient parfaitement 
+lisses &amp; plates ; ce qui est nécessaire cependant 
+à la perfection de l&#39;outil.
+</p>
+<p>
+Je n&#39;ai point parlé de la monture du burin, elle
+est figurée, &amp; cela suffit ; elle se fait du bois le plus
+commun ; on la tient plus longue ou plus courte en
+raison de la facilité qu&#39;on y trouve ; mais vous observerez 
+seulement dans la <i>fig. F de la même <ref target="XPL:5423" type="platelink">Planche</ref></i>,
+que l&#39;un des côtés du manche est applati ; ce qui est
+nécessaire pour pouvoir mettre le burin à plat sur la
+planche, &amp; pour que par ce moyen la pointe du burin 
+qui s&#39;engageroit trop dans le cuivre en levant le
+manche du burin, ne casse pas si souvent.
+</p>
+<p>
+Examinez la <i>fig. G</i>, pour y apprendre la façon de
+tenir le burin : vous remarquerez dans cette figure,
+que le bout du manche qui est à moitié arrondi, doit
+être appuyé dans le creux de votre main ; ensorte
+que ce soit l&#39;os du bras qui lui donne une impulsion
+directe. Vous observerez aussi, par la maniere dont
+les doigts sont arrangés, qu&#39;il ne doit s&#39;en trouver
+aucun entre le burin &amp; la planche, lorsqu&#39;on applique 
+le burin sur le cuivre pour travailler : cela est nécessaire 
+par la même raison que je viens de donner,
+pour laquelle on coupe le bout du manche du burin ;
+la meilleure maniere est donc de faire ensorte que le
+burin glisse toûjours horisontalement sur le cuivre:
+alors vous pouvez en rendant votre main legere,
+commencer un trait d&#39;une finesse extrème ; pour peu
+que vous soûleviez ensuite imperceptiblement le poignet,
+le burin entrera plus profondément dans le cuivre 
+par la pointe, &amp; élargira par conséquent la taille,
+si la main se remet enfin comme elle étoit en commençant,
+le trait finira par être aussi délicat que lorsque
+vous l&#39;avez commencé. Or cette manoeuvre est essentielle 
+pour la beauté de la <i>Gravure</i> &amp; pour l&#39;intelligence 
+des ombres : il faut donc s&#39;y rompre par une
+infinité d&#39;essais ; il en faut beaucoup aussi pour qu&#39;en
+faisant cette opération délicate, vous puissiez encore 
+tourner votre burin en tout sens, &amp; donner à
+vos tailles une flexibilité à laquelle en général la
+maniere de conduire cet outil qu&#39;on pousse toûjours,
+semble contraire. Au reste, il faut avertir qu&#39;il n&#39;est
+pas besoin d&#39;autant de force qu&#39;on le croit pour cette
+manoeuvre, &amp; que la roideur est sur-tout nuisible à
+la conduite du burin. Une force bien ménagée,
+adoucie, &amp; liante, est ce qu&#39;il faut acquérir pour
+réussir à cette sorte de <i>gravure</i>.
+</p>
+<p>
+Il faut ajoûter à ce que j&#39;ai dit du méchanisme de
+la <i>gravure</i> au burin, que pour rendre plus facile l&#39;exécution 
+des tailles courbes, on peut de la main gauche 
+faire tourner doucement la planche elle-même,
+en ayant soin que les mouvemens des deux mains
+s&#39;accordent bien, &amp; que la planche fasse bien également une partie du mouvement, tandis que le burin 
+fait l&#39;autre : pour cela, on appuie la planche
+qu&#39;on grave sur un petit coussinet de cuir rempli de
+sable ou de son. La planche y prend une espece d&#39;équilibre,
+comme elle est représentée, <i>fig. H, <ref target="XPL:5424" type="platelink">Pl. I</ref>.</i>
+&amp; on peut aisément la faire prêter avec la main gauche 
+aux mouvemens qui sont nécessaires.
+</p>
+<p>
+Lorsque vous êtes parvenu à faire à l&#39;aide du burin 
+une taille en coupant le cuivre, cette taille a besoin 
+d&#39;être nettoyée, c&#39;est-à-dire qu&#39;il se forme par
+<pb n="7:889" facs="V7/ENC_7-889.jpeg" />
+<milestone unit="column" n="1" />
+l&#39;action du burin deux petites barbes sur le haut de la
+taille, ensorte qu&#39;en passant le doigt vous sentez une
+inégalité le long de la hachure, qu&#39;il faut faire disparoître ; 
+on se sert pour cela d&#39;un outil très-coupant 
+qu&#39;on nomme <i>grattoir ;</i> on le passe à plat sur la
+taille, en allant diagonalement tout le long de la
+taille, &amp; l&#39;on s&#39;apperçoit en y passant le doigt ensuite,
+s&#39;il y reste encore quelque ébarbure : on appelle 
+donc cette opération <i>ébarber</i>. Le grattoir est représenté 
+dans la <i><ref target="XPL:5425" type="platelink">Planche I</ref>.</i> tenant au bout du brunissoir.
+Lorsqu&#39;on a ainsi approprié sa taille, on la
+frotte avec un petit tampon fait de feutre roulé &amp;
+sali de noir &amp; d&#39;huile, pour en voir l&#39;effet, &amp; pour juger 
+si elle est ou assez large ou assez nette, ou enfin
+telle qu&#39;on la desire.
+</p>
+<p>
+Avant que de dire un mot sur quelques parties de
+l&#39;exercice de cet art, j&#39;ajoûterai que si vos burins sont
+trempés trop durs, ils casseront très-souvent &amp; malgré 
+l&#39;adresse que vous mettrez à les conduire. Il faut,
+si vous vous appercevez de ce défaut, mettre ces
+burins sur un charbon ardent dont vous excitez le
+feu jusqu&#39;à ce que l&#39;acier jaunisse ; vous les tremperez 
+ensuite dans l&#39;eau ou dans du suif, &amp; vous essayerez 
+ainsi de leur donner le juste degré qui leur
+est nécessaire : s&#39;ils émoussent leur pointe, au contraire,
+changez-en, c&#39;est un signe certain qu&#39;ils sont
+mauvais.
+</p>
+<p>
+Venons à quelques observations &amp; quelques regles 
+générales, en rappellant ce que j&#39;ai déjà dit, savoir 
+que le caractere du graveur, son intelligence,
+&amp; le genre d&#39;ouvrage qu&#39;il traite, doivent le décider
+ou à suivre une maniere, ou mieux encore à s&#39;en
+former une qu&#39;il doit toûjours soûmettre aux principes 
+invariables de la Peinture &amp; du Dessein.
+</p>
+<p>
+Les manieres de graver de Goltzius, Muller, Lucas-Kilian, Mellan, &amp; d&#39;autres qui leur ressemblent,
+sont libres &amp; faciles ; elles ont un mérite réel ; on
+peut les blâmer aussi d&#39;un peu d&#39;affectation dans le
+tournoyement des tailles ; ils étoient bien-aises qu&#39;on
+leur sût gré de l&#39;habitude qu&#39;ils avoient acquise.
+Il vaudroit mieux qu&#39;ils n&#39;en eussent point fait parade,
+&amp; qu&#39;ils ne l&#39;eussent employée que dans les
+endroits où elle étoit nécessaire. Point d&#39;affectation
+ni de négligence, voilà le point duquel le graveur
+doit approcher le plus qu&#39;il lui sera possible.
+</p>
+<p>
+Evitez de croiser les tailles de maniere qu&#39;elles
+soient trop en losange, sur-tout dans les chairs, parce 
+que les angles aigus répétés dans cette sorte de
+travail, forment un effet desagréable.
+</p>
+<p>
+La maniere entre quarré &amp; losange, est la plus
+utile &amp; la plus agréable à l&#39;oeil ; elle est aussi plus
+difficile à employer, parce que l&#39;inégalité des traits
+s&#39;y fait plus aisément remarquer.
+</p>
+<p>
+Le burin doit observer une partie des principes
+que j&#39;ai donnés au commencement de cet article ; les
+hachures principales doivent donc suivre le sens des
+muscles, en s&#39;adoucissant vers les lumieres &amp; vers
+les reflets, &amp; se renflant ou s&#39;approfondissant dans
+les places des fortes ombres. Il faut que l&#39;extrémité
+des hachures qui viennent former les contours,
+ou se perdre dans les traits qui décident ces contours,
+soit conduite d&#39;une façon nette &amp; legere ; de maniere 
+qu&#39;il n&#39;y ait rien de tranché ni de dur. On peut
+consulter là-dessus les ouvrages d&#39;Edelinck qui a
+possédé cette partie.
+</p>
+<p>
+Il est à souhaiter que les tailles s&#39;ajustent tellement
+entre elles, qu&#39;elles s&#39;aident dans leur effet, &amp; ne se
+nuisent jamais en se rencontrant &amp; en se croisant ;
+l&#39;air de facilité que cela donne à l&#39;ouvrage y répand
+un grand agrément.
+</p>
+<p>
+Que les tailles soient ondoyées ; qu&#39;elles se plient
+en divers sens, mais avec aussi peu d&#39;affectation que
+de roideur, comme je l&#39;ai déjà dit : il est difficile d&#39;en
+prendre l&#39;habitude ; mais il est aussi blâmable d&#39;en
+<milestone unit="column" n="2" />
+abuser, qu&#39;il le seroit de faire toûjours des traits
+droits, parce qu&#39;il est plus aisé d&#39;en venir à bout.
+</p>
+<p>
+Les cheveux, la barbe, &amp; le poil des animaux,
+demandent une grande legereté dans la main, &amp;
+une flexibilité rare dans le burin.
+</p>
+<p>
+Mais il ne faut pas que pour faire parade de cette
+adresse on néglige de faire bien sentir ses masses,
+qui doivent indiquer les formes &amp; l&#39;effet de la lumiere 
+&amp; de l&#39;ombre sur les masses.
+</p>
+<p>
+Les étoffes demandent aussi de la legereté d&#39;outil,
+en proportion cependant avec la nature des étoffes ; les étoffes de gros draps &amp; de laine épaisse demandent 
+un travail plus brut ; le linge veut être gravé 
+d&#39;une façon déliée &amp; pressée à une taille ou à
+deux tout au plus, si cela se peut. Les étoffes fermes
+&amp; luisantes veulent des tailles plus droites &amp; moins
+variées ; les plis de ces étoffes sont cassés &amp; forment
+des surfaces plates. Les tailles qu&#39;on nomme <i>entre-deux</i> servent à indiquer le luisant ; on s&#39;en sert aussi
+dans les métaux qui réfléchissent la lumiere.
+</p>
+<p>
+L&#39;Architecture demande des tailles droites, mais
+celles qui se trouvent sur les plans qui fuient doivent
+tendre au point de vûe. Les hachures des colonnes
+veulent être perpendiculaires : si vous les faites rondes 
+&amp; horisontales, il arrivera souvent que pour satisfaire 
+aux lois de la Perspective, il faudra que celles 
+qui approchent du chapiteau, soient d&#39;un sens
+contraire à celles qui approchent de la base ; ce qui
+fait, sur les premiers plans sur-tout, un effet desagréable.
+</p>
+<p>
+Le paysage est difficile à traiter au burin ; souvent
+on l&#39;ébauche à l&#39;eau-forte, &amp; je crois qu&#39;on fait bien:
+il faut chercher à se faire une maniere, &amp; pour cela
+consulter les bons auteurs ; Augustin Carrache, Villamene, Jean Sadeler, sont bons à imiter : Corneille
+Carts en a gravé plusieurs d&#39;après le Mucian, qui sont
+très-beaux &amp; qui peuvent servir de modeles.
+</p>
+<p>
+Les montagnes &amp; les rochers, lorsqu&#39;ils sont sur
+les premiers &amp; seconds plans, doivent être travaillés
+d&#39;une maniere un peu brute, en quittant &amp; reprenant
+souvent les tailles, en les variant suivant les plans
+des pierres &amp; des rochers, en les entre-mêlant de
+plantes, d&#39;herbages, &amp; de terreins : pour ces objets,
+lorsqu&#39;ils se trouvent dans les lointains, ils doivent
+participer de l&#39;interposition de l&#39;air ; être peu décidés
+dans leurs inégalités &amp; dans les accidens qui les accompagnent,
+&amp; se perdre quelquefois avec les travaux 
+dont on se sert pour graver les ciels.
+</p>
+<p>
+Les eaux se représentent ordinairement par des lignes 
+très-droites, égales, &amp; mêlées d&#39;entre-deux fines 
+&amp; déliées, pour exprimer le luisant de l&#39;eau, mais
+si c&#39;est une mer agitée qu&#39;on représente, on sent bien
+que ce doit être par un autre genre de travail qu&#39;on
+doit y arriver : il faut alors que les tailles suivent le
+sens des flots &amp; indiquent le mouvement des vagues.
+Les nuages demandent aussi que leur forme &amp;
+leur mouvement soient indiqués par les hachures, &amp;
+que les travaux qu&#39;on employe soient d&#39;autant plus
+legers que l&#39;éloignement des nuées est plus grand.
+</p>
+<p>
+En général il faut proportionner autant qu&#39;on le
+peut la grosseur des tailles &amp; l&#39;espece de travail, à la
+grandeur des ouvrages, indépendamment des autres
+assujettissemens dont j&#39;ai parlé. Il faut donc employer
+des tailles mâles &amp; nourries dans une grande estampe,
+mais sans que le travail devienne pour cela
+grossier &amp; desagréable ; par le même principe une
+petite planche sera gravée avec les burins losanges
+qui font des tailles fines, mais en évitant que le travail 
+soit maigre &amp; aride.
+</p>
+<p>
+C&#39;est un art très-difficile que celui de la <i>Gravure ;</i>
+il demande beaucoup d&#39;exercice du Dessein, beaucoup 
+d&#39;adresse à conduire les outils, une grande intelligence 
+pour se transformer, pour ainsi dire, &amp;
+prendre l&#39;esprit de l&#39;auteur d&#39;après lequel on grave.
+<pb n="7:890" facs="V7/ENC_7-890.jpeg" />
+<milestone unit="column" n="1" />
+Il faut encore de la patience sans froideur, de l&#39;assiduité 
+sans dégoût, de l&#39;exactitude qui ne soit pas servile,
+de la facilité sans abus : ces qualités si nombreuses 
+enfantent beaucoup de graveurs, &amp; leur union
+si difficile fait qu&#39;il en est fort peu d&#39;excellens. <i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

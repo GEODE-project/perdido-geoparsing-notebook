@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28678" id="51:44" vol="7">
+<index type="head" value="GABARI ou GABARIT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m." />
+<head>GABARI ou GABARIT</head>
+<p>
+GABARI <i>ou</i> GABARIT, s. m. (<i>Marine.</i>) est proprement 
+le modele qu&#39;on fait avec des planches ressciées,
+larges de huit à neuf pouces, qu&#39;on joint les
+unes au bout des autres, &amp; que l&#39;on taille exactement 
+selon les contours &amp; les dimensions des principales 
+couples, &amp; sur lesquelles les charpentiers
+n&#39;ont plus qu&#39;à se conformer exactement lorsqu&#39;ils
+taillent les pieces de bois qui doivent former les
+membres du vaisseau.
+</p>
+<p>
+On employe quelquefois ce terme pour signifier
+le contour vertical de la carene. C&#39;est dans ce sens
+qu&#39;on dit, <i>ce vaisseau est d&#39;un bon gabari</i>.
+</p>
+<p>
+<i>Gabari</i> est quelquefois synonyme du mot <i>couple ;</i>
+c&#39;est pourquoi on dit <i>le maître gabari</i>, au lieu <i>du maître 
+couple ;</i> le <i>gabari de l&#39;avant</i>, le <i>gabari de l&#39;arriere</i>,
+&amp;c. C&#39;est dans ce dernier sens que nous en parlons
+ici. <i>Voyez le mot</i> <sc><ref target="head:Couple" type="search">Couple</ref></sc>.
+</p>
+<p>
+Pour donner une idée du maître couple ou <i>maître
+gabari</i>, &amp; de toutes les pieces qui le composent, il
+ne faut que jetter les yeux sur la <i><ref target="XPL:5201" type="platelink">figure 3</ref>.</i> de la <i>Plan.
+XV. de Marine</i>, où elles sont toutes énoncées.
+</p>
+<p>
+Le corps du vaisseau est formé par plusieurs côtes,
+qu&#39;on nomme <i>couples</i> ou <i>levées</i>.
+</p>
+<p>
+Les couples diminuent en-avant &amp; en-arriere,
+suivant de certaines proportions. Pour tracer un
+maître couple &amp; tous les autres, &amp; leur donner les
+proportions les plus convenables &amp; les plus avantageuses,
+il y a beaucoup de méthodes toutes différentes ; 
+les unes de pure pratique entre les constructeurs,
+&amp; les autres de théorie. Si l&#39;on en veut prendre une
+connoissance exacte, il faut avoir recours au <i>traité
+du navire</i> de M. Bouguer, &amp; au <i>traité pratique de la
+construction des vaisseaux</i>, par M. Duhamel, que j&#39;ai
+déjà cité dans plusieurs occasions. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

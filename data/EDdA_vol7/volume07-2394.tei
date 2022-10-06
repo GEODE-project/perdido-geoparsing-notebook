@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29848" id="53:268" vol="7">
+<index type="head" value="GORCUM, ou GORKUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GORCUM, ou GORKUM</head>
+<p>
+GORCUM, <i>ou</i> GORKUM, <i>Gorichemum</i>, (<i>Géog.</i>)
+ville forte de la Hollande méridionale, commerçante 
+en fromages, beurre, &amp; autres denrées ; elle
+est à l&#39;embouchure du Linge qui la traverse, à cinq
+lieues E. de Dordrecht, sept N. E. de Bréda, treize
+S. E. d&#39;Amsterdam. <i>Longit. 22. 29. latit. 51. 49</i>.
+</p>
+<p>
+<i>Gorkum</i> est la patrie de plusieurs hommes qui se
+sont illustres dans les Sciences &amp; dans la Peinture ;
+il suffira d&#39;en nommer ici quelques-uns.
+</p>
+<p>
+Erpenius, (<i>Thomas</i>) mort professeur en arabe à
+Leyden, le 13 Novembre 1624, à l&#39;âge de soixante
+ans : nous lui devons une <i>grammaire arabe</i>, &amp; d&#39;autres 
+ouvrages en ce genre, dans lesquels il a excellé.
+</p>
+<p>
+Estius, (<i>Guillaume</i>) s&#39;est fait une haute réputation
+par sa <i>théologie en deux vol. in-fol.</i> &amp; par ses <i>commentaires</i> sur les épîtres de S. Paul.
+</p>
+<p>
+Kamphuysen, en latin <i>Camphusius</i>, ministre socinein,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+naquit à <i>Gorcum</i> dans le dernier siecle, &amp; déclara 
+dans ses écrits, qu&#39;il auroit vécu toute sa vie
+sans religion, s&#39;il n&#39;eût le des ouvrages où l&#39;on combat 
+la trinité, &amp; dans lesquelles on enseigne que les
+peines de l&#39;enfer ne seront pas éternelles.
+</p>
+<p>
+Bloëmart, (<i>Abraham</i>) né à <i>Gorcum</i> en 1567, &amp;
+mort en 1647, s&#39;est distingué parmi les peintres hollandois,
+&amp; dans le goût de sa nation : on fait surtout 
+beaucoup de cas de ses paysages.
+</p>
+<p>
+Verschuring, (<i>Henri</i>) né en 1627, excelloit à peindre 
+des animaux, des chasses, &amp; des batailles : il périt 
+sur mer d&#39;un coup de vent, à deux lieues de Dordrecht, en 1690.
+</p>
+<p>
+Van-der-Heyden, (<i>Jean</i>) mort en 1712 à quatre-vingts 
+ans, avoit un talent particulier pour peindre
+des ruines, des vûes de maisons de plaisance, des
+temples &amp; des lointains. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

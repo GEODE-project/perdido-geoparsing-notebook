@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30253" id="54:106" vol="7">
+<index type="head" value="GREBE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ornit." />
+<index type="normclass" value="Ornithologie" />
+<index type="englishclass" value="Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GREBE</head>
+<p>
+GREBE, s. m. <i>colymbus major cristatus &amp; cornutus</i>,
+(<i>Ornit.</i>) oiseau aquatique du genre des colymbes qui
+n&#39;ont point de queue, &amp; dont les doigts sont bordés
+d&#39;une membrane qui ne les unit pas les uns aux autres.
+</p>
+<p>
+Le <i>grebe</i> qui a servi de sujet pour cette description,
+avoit environ deux piés de longueur depuis l&#39;extrémité 
+du bec jusqu&#39;au bout des ongles ; la tête étoit
+petite, les ailes &amp; les jambes étoient très-courtes, il
+n&#39;y avoit point de queue ; le bec étoit droit, pointu,
+&amp; étroit ; il avoit deux pouces un quart de longueur 
+depuis la pointe jusqu&#39;aux coins de la bouche ;
+les plumes du derriere de la tête étoient un peu plus
+longues que les autres, &amp; formoient une petite crête 
+partagée en deux pointes. Le front, le sommet,
+<pb n="7:904" facs="V7/ENC_7-904.jpeg" />
+<milestone unit="column" n="1" />
+&amp; le derriere de la tête, le côté postérieur du cou,
+le dos, le croupion, &amp; toutes les plumes qui paroissoient 
+sur les ailes lorsqu&#39;elles étoient pliées, avoient
+une couleur brune, cendrée, excepté sur les bords
+de la plûpart des plumes ; ils étoient de couleur cendrée 
+claire. Les côtés de la tête, le côté antérieur
+du cou, la gorge, &amp; le ventre en entier avoient une
+couleur blanche, luisante, &amp; argentée. Les côtés de
+la poitrine &amp; du corps avoient des teintes de cendré,
+de blanc, &amp; de roussatre ; le bec étoit en partie 
+blanc, en partie cendré, en partie rougeâtre ; les
+pattes avoient une couleur cendrée, &amp; les bords des
+membranes des doigts étoient jaunâtres ; il y avoit
+quatre doigts à chaque pié; le doigt extérieur étoit
+le plus long, &amp; le postérieur étoit le plus court ; les
+ongles ressembloient à ceux de l&#39;homme. La poitrine
+&amp; le ventre du <i>grebe</i> sont très-recherchés à cause
+de la belle couleur blanche &amp; brillante des plumes
+&amp; de leur finesse. On en fait des manchons, des paremens 
+de robes, &amp; d&#39;autres parures de femmes. Il
+y a beaucoup de ces oiseaux sur le lac de Genève ;
+on tire de cette ville le plus grand nombre des peaux
+de <i>grebe</i> &amp; les plus belles ; il en vient aussi de Suisse ;
+il s&#39;en trouve en Bretagne, mais elles ne sont pas si
+belles ; on les appelle dans le commerce <i>grebes de
+pays</i>. J&#39;en ai vû un à Montbard en Bourgogne il y
+a cinq ou six ans ; il y fut tué dans le plus grand froid
+de l&#39;hyver ; on en a vû aussi aux environs de Paris,
+<i>&amp;c. Voyez</i> <sc><ref target="head:Oiseau" type="search">Oiseau</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

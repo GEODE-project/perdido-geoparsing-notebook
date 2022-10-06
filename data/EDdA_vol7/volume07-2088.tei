@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29542" id="53:51" vol="7">
+<index type="head" value="GIBERNE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="s.f." />
+<head>GIBERNE</head>
+<p>
+GIBERNE, s. f. (<i>Art milit.</i>) partie de l&#39;équipement 
+du grenadier. La <i>giberne</i> est composée d&#39;une
+poche de cuir, avec le cordon pour la fermer ; d&#39;un
+patron de cartouches à trente trous, nervé &amp; collé
+de toile, &amp; couvert d&#39;une patelette ; d&#39;une patte de
+cuir, avec deux courroies d&#39;attache à oeillets sur la
+poche ; d&#39;une bandouliere de buffle longue de cinq
+à six piés, &amp; large de deux pouces &amp; demi, bien
+cousue, sans clous ni piquûre. La bandouliere a un
+porte-hache &amp; un porte-fourniment ou pulverin ;
+une traverse, avec le porte-bayonnette &amp; le porte-bonnet.
+La poche sert à porter des cartouches de provision,
+ou des grenades ; lorsque le service l&#39;exige.
+Elle a intérieurement une petite poche à balles, &amp;
+plusieurs divisions, pour y placer une phiole à huile
+ou une petite boîte à graisse ; une piece grasse de cuir
+ou de drap ; le tampon du bassinet avec sa chaînette ;
+plusieurs pierres de rechange ; une pierre de bois
+pour les exercices, &amp; un tire bourre ; effets dont elle
+doit toûjours être garnie. La <i>giberne</i> ne differe de la
+demi-<i>giberne</i> ou cartouche du soldat, que par la grandeur 
+de la poche ; elle est soûtenue par la bandouliere,
+qui se porte de gauche à droite. <i>Article de M.
+<sc>Durival</sc> le cadet</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

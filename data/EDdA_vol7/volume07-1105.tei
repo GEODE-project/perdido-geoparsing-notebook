@@ -1,0 +1,187 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28559" id="50:233:8" vol="7">
+<index type="head" value="Funérailles des sauvages d&#39;Amérique" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Funérailles</head>
+<p>
+�<sc>Funérailles</sc> <i>des sauvages d&#39;Amérique</i>.
+<blockquote> 
+« Parmi
+les peuples d&#39;Amérique, dit le P. de Charlevoix,
+sitôt qu&#39;un malade a rendu les derniers soupirs, tout
+retentit de gémissemens ; &amp; cela dure autant que la
+famille est en état de fournir à la dépense ; car il
+faut tenir table ouverte pendant tout ce tems-là.
+Le cadavre paré de sa plus belle robe, le visage
+peint. ses armes &amp; tout ce qu&#39;il possédoit à côté de
+lui, est expose à la porte de la cabanne, dans la
+posture qu&#39;il doit avoir dans le tombeau ; &amp; cette
+posture, en plusieurs endroits, est celle où l&#39;enfant
+est dans le sein de sa mere. L&#39;usage de quelques nations 
+est que les parens du défunt jeûnent jusqu&#39;à la
+fin des funérailles ; &amp; tout cet intervalle se passe
+en pleurs, en éjulations, à régaler tous ceux dont
+on reçoit la visite, à faire l&#39;eloge du mort, &amp; en
+complimens réciproques. Chez d&#39;autres, on loue des
+pleureuses, qui s&#39;acquittent parfaitement de leur
+devoir ; elles chantent, elles dansent, elles pleurent 
+sans cesse, &amp; toûjours en cadence : mais ces
+démonstrations d&#39;une douleur empruntée ne préjudicient 
+point à ce que la nature exige des parens
+du défunt.
+</blockquote></p>
+<p>
+On porte, sans aucune cérémonie le corps au
+lieu de sa sépulture : mais quand il est dans la fosse,
+on a soin de le couvrir de maniere que la terre ne
+le touche point : il y est dans une cellule toute tapissée 
+de peaux ; on dresse ensuite un poteau où l&#39;on attache 
+tout ce qui peut marquer l&#39;estime qu&#39;on faisoit 
+du mort, comme son portrait, <i>&amp;c.</i> . . . On
+y porte tous les matins de nouvelles provisions ;
+&amp; comme les chiens &amp; d&#39;autres betes ne manquent
+point d&#39;en faire leur profit, on veut bien se persuader 
+que c&#39;est l&#39;ame du defunt qui y est venue prendre 
+sa réfection.
+</p>
+<p>
+Quand quelqu&#39;un meurt dans le tems de la chasse,
+on expose son corps sur un échafaut fort elevé, &amp;
+il y demeure jusqu&#39;au départ de la troupe qui l&#39;emporte 
+avec elle au village. Les corps de ceux qui
+<milestone unit="column" n="2" />
+meurent à la guerre sont brûlés, &amp; leurs cendres
+rapportées pour être mises dans la sépulture de
+leurs peres. Ces sepultures, parmi les nations les
+plus sédentaires, sont des especes de cimetieres
+près du village : d&#39;autres enterrent leurs morts dans
+les bois au pié des arbres, ou les font secher &amp; les
+gardent dans des caisses jusqu&#39;à la fete des morts.
+</p>
+<p>
+On observe en quelques endroits, pour ceux qui
+se sont noyés ou qui sont morts de froid, un cérémonial 
+assez bisarre. Les préliminaires des pleurs,
+des danses, des chants, &amp; des festins, étant achevés,
+on porte le corps au lieu de la sépulture ; ou,
+si l&#39;on est trop éloigné de l&#39;endroit où il doit demeurer 
+en dépôt jusqu&#39;à la fête des morts, on y
+creuse une fosse très-large, &amp; on y allume du feu ;
+de jeunes gens s&#39;approchent ensuite du cadavre,
+coupent les chairs aux parties qui ont été crayonnées 
+par un maître des cérémonies, &amp; les jettent
+dans le feu avec les visceres ; puis ils placent le
+cadavre ainsi déchiqueté dans le lieu qui lui est
+destiné. Durant cette opération, les femmes, &amp;
+sur-tout les parentes du défunt, tournent sans cesse 
+autour de ceux qui travaillent ; les exhortent à
+bien s&#39;acquitter de leur emploi ; &amp; leur mettent des
+grains de porcelaine dans li bouche, comme on y
+mettroit des dragées à des enfans pour les engager
+à quelque chose qu&#39;on souhaiteroit d&#39;eux ».
+</p>
+<p>
+L&#39;enterrement est suivi de présens qu&#39;on fait à la
+famille affligée ; &amp; cela s&#39;appelle <i>couvrir le mort:</i> on
+fait ensuite des festins accompagnés de jeux &amp; de
+combats, où l&#39;on propose des prix ; &amp; là, comme
+dans l&#39;antiquité payenne, une action toute lugubre
+est terminee par des chants &amp; des cris de victoire.
+</p>
+<p>
+Le même auteur rapporte que chez les Natchez,
+une des nations sauvages de la Loüisianne, quand
+une femme chef, c&#39;est-à-dire <i>noble</i>, ou de la race du
+soleil, meurt, on étrangle douze petits enfans &amp;
+quatorze grandes personnes, pour être enterrés avec
+elles <i>Journ d&#39;un voyag. d&#39;Amériq</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

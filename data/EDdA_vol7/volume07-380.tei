@@ -1,0 +1,285 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27834" id="49:74:1" vol="7">
+<index type="head" value="Fortuit" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métaphys." />
+<index type="normclass" value="Métaphysique" />
+<index type="englishclass" value="Metaphysics" />
+<index type="generatedclass" value="Métaphysique" />
+<index type="pos" value="NA" />
+<head>Fortuit</head>
+<p>
+<sc>Fortuit</sc>, (<i>Métaphys.</i>) Tout étant lié dans la nature,
+les évenemens dépendent les uns des autres ;
+la chaîne qui les unit est souvent imperceptible, mais
+n&#39;en est pas moins réelle. <i>Voyez</i> <sc><ref target="head:Fatalité" type="search">Fatalité</ref></sc>.
+</p>
+<p>
+Supposez un évenement de plus ou de moins dans
+le monde, ou même un seul changement dans les
+circonstances d&#39;un évenement, tous les autres se ressentiront 
+de cette altération legere, comme une
+montre toute entiere se ressent de la plus petite altération 
+essuyée par une des roues. Mais, dit-on, il y
+a des évenemens qui ont des effets, &amp; d&#39;autres qui
+n&#39;en ont point ; &amp; ces derniers au-moins n&#39;influent
+pas dans le système général du monde. Je répons 1°.
+qu&#39;on peut douter s&#39;il y a aucun évenement sans effet.
+2°. Que quand même il y auroit des évenemens
+sans effet, si ces évenemens n&#39;eussent pas existé, ce
+qui leur a donné naissance n&#39;eût pas existé non plus ;
+la cause qui les a produits n&#39;eût donc pas été exactement 
+telle qu&#39;elle est, ni par conséquent la cause de
+cette cause, &amp; ainsi en remontant. Il y a dans un arbre 
+des branches extremes qui n&#39;en produisent point
+d&#39;autres ; mais supposez une feuille de moins à l&#39;une
+des branches, vous ôtez à la branche ce qu&#39;elle
+avoit pour produire cette feuille ; vous changez
+donc à certains égards cette branche, &amp; par conséquent 
+celle qui l&#39;a produite, &amp; ainsi de suite jusqu&#39;au tronc &amp; aux racines. Cet arbre est l&#39;image du
+monde.
+</p>
+<p>
+On demande si la chaîne des évenemens est contraire 
+à la liberté. Voici quelques réflexions sur cet
+important sujet.
+</p>
+<p>
+Soit que les lois du mouvement instituées par le
+Créateur, ayent leur source dans la nature même
+de la matiere, soit que l&#39;Être suprème les ait librement 
+établies (<i>voyez</i> <sc><ref target="head:Equilibre" type="search">Equilibre</ref></sc>), il est constant
+que notre corps est assujetti à ces lois, qu&#39;il en résulte 
+dans notre machine depuis le premier instant
+de son existence une suite de mouvemens dépendans
+<pb n="7:205" facs="V7/ENC_7-205.jpeg" />
+<milestone unit="column" n="1" />
+les uns des autres, dont nous ne sommes nullement
+les maîtres, &amp; auxquels notre ame obéit par les lois
+de son union avec le corps. D&#39;un autre côté, chaque
+évenement étant prévû par l&#39;intelligence divine, &amp;
+existant de toute éternité dans ses decrets, tout ce
+qui arrive doit infailliblement arriver ; la liberté de
+l&#39;homme paroit inconciliable avec ces vérités. Nous
+sentons néanmoins que nous sommes libres ; l&#39;expérience 
+&amp; une opération facile de notre esprit suffisent 
+pour nous en convaincre. Accoûtumés à faire
+à plusieurs reprises, souvent même dans des occasions 
+semblables en apparence, des actions directement 
+opposées, nous séparons par abstraction le pouvoir 
+d&#39;agir d&#39;avec l&#39;action même ; nous regardons ce
+pouvoir comme subsistant, même après que l&#39;action
+est faite, ou pendant que nous faisons l&#39;action contraire ; 
+&amp; ce pouvoir oisif, quoique réel, est ce que
+nous appellons <i>liberté</i>. En vain la toute puissance du
+Créateur, en vain la sagesse de ses vûes éternelles,
+qui assujettit &amp; qui regle tout, nous paroissent incompatibles 
+avec cette liberté de l&#39;homme ; le sentiment 
+intérieur, &amp;, si on peut parler ainsi, l&#39;instinct
+contraire doit l&#39;emporter. Il en est ici comme de l&#39;existence 
+des corps, à laquelle nous sommes forcés de
+revenir, par quelque sophisme qu&#39;on l&#39;attaque. Nous
+sommes libres, parce que dans la supposition que
+nous le fussions réellement, nous ne pourrions pas
+en avoir une conscience plus vive que celle que nous
+en avons. D&#39;ailleurs cette conscience est la seule
+preuve que nous puissions avoir de notre liberté ;
+car la liberté n&#39;est autre chose qu&#39;un pouvoir qui ne
+s&#39;exerce pas actuellement, &amp; ce pouvoir ne peut
+être connu que par conscience, &amp; non par l&#39;exercice 
+actuel, puisqu&#39;il est impossible d&#39;exécuter en même 
+tems deux actions opposées.
+</p>
+<p>
+Supposons mille mondes existans à-la-fois, tous
+semblables à celui-ci, &amp; gouvernés par conséquent
+par les mêmes lois ; tout s&#39;y passeroit absolument de
+même. Les hommes en vertu de ces lois feroient aux
+mêmes instans les mêmes actions dans chacun de ces
+mondes ; &amp; une intelligence différente du Créateur
+qui verroit à-la-fois tous ces mondes si semblables,
+en prendroit les habitans pour des automates, quoiqu&#39;ils n&#39;en fussent pas, &amp; que chacun d&#39;eux au-dedans de lui-même fût assûre du contraire. Le sentiment 
+intérieur est donc la seule preuve que nous
+ayons &amp; que nous puissions avoir d&#39;être libres.
+</p>
+<p>
+Cette preuve nous suffit, &amp; paroît bien supérieure 
+à toute autre ; car de dire avec quelques philosophes 
+que les lois sont fondées sur la liberté, qu&#39;il seroit 
+injuste de punir les crimes s&#39;ils étoient nécessaires,
+c&#39;est établir une vérité bien claire par une preuve 
+bien foible. Les hommes fussent-ils de pures machines,
+il suffiroit que la crainte fût un des mobiles
+principaux de ces machines, pour que cette crainte
+fût un moyen efficace d&#39;empêcher un grand nombre
+de crimes. Il ne seroit alors ni juste ni injuste de les
+punir, parce que sans liberté il n&#39;y a ni justice ni injustice ; 
+mais il seroit toûjours nécessaire d&#39;arrêter la
+méchanceté des hommes par des châtimens, comme
+on oppose à un torrent funeste des digues puissantes
+qui le forcent à changer son cours. L&#39;effet nécessaire
+de la crainte est d&#39;arreter la main de l&#39;automate réel
+ou supposé; supprimer ou arréter ce ressort, ce seroit 
+en empècher l&#39;effet ; les supplices seroient donc
+dans une société même d&#39;automates (qui n&#39;existe pas)
+une roue nécessaire pour regler la machine.
+</p>
+<p>
+La notion du bien &amp; du mal est donc une suite de
+la notion de la liberté, &amp; non pas la notion de la liberté 
+une suite de la notion du bien &amp; du mal moral.
+</p>
+<p>
+A l&#39;égard de la maniere dont notre liberté subsiste
+avec la providence éternelle, avec la justice par laquelle 
+Dieu punit le crime, avec les lois immuables
+auxquelles tous les êtres sont soûmis, c&#39;est un secret
+<milestone unit="column" n="2" />
+incompréhensible pour nous, dont il n&#39;a pas plû au
+Créateur de nous révéler la connoissance ; mais ce
+qui n&#39;est peut-être pas moins incompréhensible, c&#39;est
+la témérité avec laquelle certains hommes qui se
+croyent ou qui se disent sages, ont entrepris d&#39;expliquer 
+&amp; de concilier de tels mysteres. En vain la
+révélation nous assûre que cet abysme est impénétrable 
+<sup><ref type="note" target="n7" n="*" /></sup> ; la philosophie orgueilleuse a entrepris de le
+sonder, &amp; n&#39;a fait que s&#39;y perdre. Les uns croyent
+avoir reussi par une distinction entre l&#39;infaillible &amp; le
+nécessaire ; distinction qui pour être réelle, ne nous
+laissera pas des idées plus nettes, dès que nous voudrons 
+l&#39;approfondir de bonne foi : les autres, pour
+expliquer comment Dieu est l&#39;auteur de tout sans
+l&#39;être du peché, disent que Dieu en produit tout le
+physique sans en produire le moral, qui est une privation ; 
+comme si en leur accordant même cette distinction 
+futile &amp; chimérique, il ne restoit pas toûjours 
+à expliquer comment la sagesse de Dieu peut
+concourir à un physique auquel le moral est nécessairement 
+attaché, &amp; comment sa justice punit ensuite 
+ce même moral, suite nécessaire du physique
+qu&#39;il a produit ; ceux-ci, en faisant agir l&#39;homme
+d&#39;une maniere très-subordonnée à Dieu, &amp; dépendante 
+de decrets prédéterminans, sauvent réellement 
+la puissance de Dieu aux depens de notre liberté; 
+ceux-là au contraire plus amis de l&#39;homme en apparence,
+croyent sauver la perfection &amp; l&#39;intelligence 
+divine, en admettant en Dieu une science indépendante 
+de ses decrets, &amp; antérieure à nos actions.
+Ils ne s&#39;appercoivent pas non-seulement qu&#39;ils
+détruisent par ce système la providence &amp; la toutepuissance 
+de Dieu, en faisant la volonté de l&#39;homme
+<i>indépendante</i>, mais qu&#39;ils retombent sans y penser,
+ou dans le système de la fatalité, ou dans l&#39;athéisme ;
+car la science de Dieu ne peut être fondée que sur
+la connoissance qu&#39;il a des lois immuables par lesquelles 
+l&#39;univers est gouverné, &amp; de l&#39;effet infaillible
+de ces lois, &amp; Dieu ne peut devoir cette connoissance 
+qu&#39;à la dépendance où ces lois &amp; leurs effets
+sont de lui. C&#39;est ainsi qu&#39;en voulant concilier (malgré l&#39;oracle de Dieu même) les deux vérités dont il
+s&#39;agit, on ne fait qu&#39;anéantir l&#39;une des deux, ou peut-être
+affoiblir l&#39;une &amp; l&#39;autre : aussi n&#39;y a-t-il aucune
+secte de scholastiques, qui après s&#39;être épuisée en raisonnemens,
+en distinctions, en subtilités, &amp; en systèmes 
+sur cet important article, ne revienne enfin,
+pressée par les objections, à la profondeur des decrets
+eternels. Tous ces sophistes en avoüant leur ignorance 
+un peu plûtôt, n&#39;auroient pas eu la peine de
+faire tant de détours pour revenir au point d&#39;où ils
+étoient partis. Le vrai philosophe n&#39;est ni th miste,
+ni moliniste, ni congruiste ; il reconnoit &amp; voit partout 
+la puissance souveraine de Dieu ; il avoue que
+l&#39;homme est libre, &amp; se taît sur ce qu&#39;il ne peut comprendre.
+(<i>O</i>)
+</p>
+<div2 type="notes">
+<note id="n7">
+* <i>O altitudo!</i> &amp;c. <i>Quam incomprehensibilia sunt jurdicia ejus,
+&amp; quam inenarrabiles viae ejus!</i> Ces paroles prouvent assez que,
+suivant l&#39;Ecriture même, l&#39;accord de la liberté avec la science
+&amp; la puissance de Dieu, est un mystere.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

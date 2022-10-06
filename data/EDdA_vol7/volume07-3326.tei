@@ -1,0 +1,497 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30780" id="55:315" vol="7">
+<index type="head" value="GYMNIQUES, (Jeux, ou Combats) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littérat. greq. &amp; rom. " />
+<index type="normclass" value="Littérature grecque | Littérature romaine" />
+<index type="englishclass" value="Greek literature | Roman literature" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>GYMNIQUES</head>
+<p>
+GYMNIQUES, (<sc>Jeux</sc>, <i>ou</i> <sc>Combats</sc>) <i>Littérat.
+greq. &amp; rom</i>. Les jeux ou combats <i>gymniques</i> étoient
+des exercices célebres chez les Grecs &amp; les Romains,
+qui prirent leur nom de la nudité des athletes, lesquels 
+pour être plus libres, se mettoient nuds ou
+presque nuds.
+</p>
+<p>
+On convient qu&#39;Hercule en instituant les jeux
+olympiques, imposa aux athletes qui devoient y
+combattre, la loi d&#39;y paroître nuds ; la nature de la
+plûpart des exercices usités dans ces jeux, jointe à la
+chaleur du climat &amp; de la saison où l&#39;on tenoit ces
+sortes d&#39;assemblées, exigeoient nécessairement cette
+nudité, qui pourtant n&#39;étoit pas entiere ; on avoit
+soin de cacher ce que la décence défend de découvrir,
+&amp; l&#39;on employoit pour cela une espece de ceinture,
+de tablier, ou d&#39;écharpe, dont on attribue l&#39;invention 
+à Palestre fille de Mercure. Nous voyons cet
+usage établi dès le tems d&#39;Homere, qui appelle <foreign lang="greek">ζῶμα</foreign>
+cette sorte de ceinture, en parlant du pugilat d&#39;Euriale &amp; d&#39;Epeus.
+</p>
+<p>
+Mais vers la quinzieme Olympiade, s&#39;il en faut
+croire Denis d&#39;Halicarnasse, les Lacédémoniens s&#39;affranchirent 
+de la servitude de l&#39;écharpe ; ce fut, au
+rapport d&#39;Eustathe, l&#39;avanture d&#39;un certain Orsippe
+qui en amena l&#39;occasion : l&#39;écharpe de cet athlete s&#39;étant 
+déliée lorsqu&#39;il disputoit le prix de la course,
+ses piés s&#39;y accrocherent, ensorte qu&#39;il se laissa tomber,
+&amp; se tua, ou du-moins fut vaincu par son concurrent,
+(car on compte la chose de deux façons).
+Ce malheur donna lieu de porter un réglement qui
+décidoit qu&#39;à l&#39;avenir les athletes combattroient sans
+écharpe &amp; sacrifieroient la pudeur à leur commodité,
+en retranchant même ce reste d&#39;habillement.
+Acanthe le Spartiate suivit le premier l&#39;ordonnance,
+&amp; disputa tout nud le prix de la course aux jeux
+olympiques : toutefois les autres peuples rejetterent
+cette coûtume, &amp; continuerent à se couvrir de l&#39;écharpe 
+dans la lutte &amp; dans le pugilat ; ce qu&#39;observoient 
+encore les Romains du tems de Denis d&#39;Halicarnasse. Cependant l&#39;époque de l&#39;entiere nudité
+des athletes, que cet auteur met à la quinzieme olympiade,
+est démentie par Thucydide, qui prétend qu&#39;elle 
+ne s&#39;étoit introduite que quelques années avant
+le tems où il écrivoit l&#39;histoire de la guerre du Péloponnèse : or l&#39;on sait que le commencement de cette
+guerre tombe à la premiere année de la 87<sup>e</sup> olympiade.
+</p>
+<p>
+Quoi qu&#39;il en soit, la nudité des athletes n&#39;étoit
+d&#39;usage que dans certains exercices, tels que la lutte,
+le pugilat, le pancrace, &amp; la course à pié; car il
+est prouvé par d&#39;anciens monumens, que dans l&#39;exercice 
+du disque, les discoboles portoient des tuniques ; 
+on ne se dépouilloit point pour la course des
+chars, non plus que pour l&#39;exercice du javelot ; &amp;
+c&#39;est pour cette raison, comme le remarque Eustathe, qu&#39;Homere, grand observateur des bienséances,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ne fait paroître Agamemnon aux jeux funebres
+de Patrocle, que dans cette derniere espece de combats,
+où ce prince n&#39;étoit point obligé de déroger en
+quelque sorte à sa dignité, en quittant ses habits.
+</p>
+<p>
+Cependant comme dans les gymnases destinés à
+former la jeunesse aux combats <i>gymniques</i>, les jeunes
+gens y paroissoient d&#39;ordinaire presque nuds, il y
+avoit des inspecteurs appellés <i>sophronistes</i>, préposés
+pour veiller sur eux &amp; les maintenir dans la pudeur.
+</p>
+<p>
+Lycon, selon Pline, institua les jeux <i>gymniques</i> en
+Arcadie, qui de-là se répandirent par tout, firent successivement 
+les délices des Grecs &amp; des Romains,
+&amp; accompagnerent presque toûjours la célébration
+des grandes fêtes, sur-tout celles des bacchanales.
+</p>
+<p>
+Ces jeux se donnoient avec magnificence quatre
+fois l&#39;année, savoir 1°. à Olympie, province d&#39;Elide, &amp; par cette raison furent appellés <i>jeux olympiques</i>, en l&#39;honneur de Jupiter Olympien ; 2°. dans
+l&#39;isthme de Corinthe, d&#39;où ils prirent le nom de <i>jeux
+isthmiens</i>, &amp; furent dédiés à Neptune ; 3°. dans la forêt 
+de Némée, à la gloire d&#39;Hercule, &amp; furent appellés 
+<i>jeux néméens ;</i> 4°. on les connut aussi sous le nom
+de <i>jeux pythiens</i>, en l&#39;honneur d&#39;Apollon qui avoit
+tué le serpent Python. <i>Voyez</i> 
+<sc><ref target="head:Olympiques" type="search">Olympiques</ref>, <ref target="head:Isthmiens" type="search">Isthmiens</ref>, <ref target="head:Néméens" type="search">Néméens</ref>, <ref target="head:Pythiens" type="search">Pythiens</ref></sc>
+</p>
+<p>
+On y disputoit le prix du pugilat, de la lutte, de
+la course à pié, de la course des chars, de l&#39;exercice
+du disque, &amp; du javelot ; Lucien nous a laissé de ces
+divers combats avec son badinage ordinaire, un tableau 
+fort instructif dans un de ses dialogues, où il
+fait parler ainsi Anacharsis &amp; Solon.
+</p>
+<p>
+<i>Anacharsis</i>.
+<blockquote> 
+« A qui en veulent ces jeunes gens, de
+se mettre si fort en colere, &amp; de se donner le croc
+en jambe, de se rouler dans la boue comme des
+pourceaux, tâchant de se suffoquer? Ils s&#39;huiloient,
+se rasoient d&#39;abord paisiblement l&#39;un l&#39;autre : mais
+tout-à-coup baissant la tête, ils se sont entrechoqués 
+comme des béliers ; puis l&#39;un élevant en l&#39;air
+son compagnon, le laisse tomber à terre par une
+secousse violente, &amp; se jettant sur lui, l&#39;empêche
+de se relever, lui pressant la gorge avec le coude,
+&amp; le serrant si fort avec les jambes, que j&#39;ai peur
+qu&#39;il ne l&#39;étouffe, quoique l&#39;autre lui frappe sur
+l&#39;épaule, pour le prier de le lâcher, comme se reconnoissant 
+vaincu. Il me semble qu&#39;ils ne devroient
+point s&#39;enduire ainsi de boüe, après s&#39;être huilés,
+&amp; je ne puis m&#39;empêcher de rire, quand je vois
+qu&#39;ils esquivent les mains de leurs compagnons
+comme des anguilles que l&#39;on presse ; en voilà qui
+se roulent dans le sable avant que de venir au combat,
+afin que leur adversaire ait plus de prise, &amp;
+que la main ne coule pas sur l&#39;huile ni sur la sueur.»
+</blockquote>
+</p>
+<p>
+<i>Solon</i>.
+<blockquote> 
+« La difficulté qui se trouve à colleter un
+adversaire lorsque l&#39;huile &amp; la sueur font glisser la
+main sur la peau, met en état d&#39;emporter sans peine 
+dans l&#39;occasion un blessé hors du combat, ou
+d&#39;enlever un prisonnier. Quant au sable &amp; à la
+poussiere dont on se frotte, on le fait pour une raison 
+toute différente, c&#39;est-à-dire pour donner plus
+de prise, afin de s&#39;accoûtumer à esquiver les mains
+d&#39;un antagoniste malgré cet obstacle ; outre que
+cela sert, non-seulement à essuyer la sueur &amp; à décrasser,
+mais encore à soûtenir les forces, en s&#39;opposant 
+à la dissipation des esprits, &amp; à fermer l&#39;entrée 
+à l&#39;air, en bouchant les pores qui sont ouverts
+par la chaleur.»
+</blockquote>
+</p>
+<p>
+<i>Anacharsis</i>.
+<blockquote> 
+« Que veulent dire ces autres qui sont
+aussi couverts de poussiere? ils s&#39;entrelacent à
+coups de pié &amp; de poing, sans essayer de se renverser 
+comme les premiers : mais l&#39;un crache ses
+dents avec le sable &amp; le sang, d&#39;un coup qu&#39;il a
+reçû dans la mâchoire, sans que cet homme vêtu
+de pourpre, qui préside à ces exercices, se mette
+en peine de les séparer ; ceux-ci font voler la poussiere»
+</blockquote>
+<pb n="7:1020" facs="V7/ENC_7-1020.jpeg" />
+<milestone unit="column" n="1" />
+<blockquote> 
+«en sautant en l&#39;air, comme ceux qui disputent
+le prix à la course.»
+</blockquote>
+</p>
+<p>
+<i>Solon</i>.
+<blockquote> 
+« Ceux que tu vois dans la boue ou dans
+la poussiere, combattent à la lutte ; les autres
+se frappent à coups de pié &amp; de poing, au pancrace ; 
+il y a encore d&#39;autres exercices que tu verras,
+comme le palet, &amp; le pugilat &amp; tu sauras que
+par-tout le vainqueur est couronné ».
+</blockquote>
+</p>
+<p>
+Mais avant que de parler de la couronne qu&#39;obtenoit 
+l&#39;athlete vainqueur, il importe d&#39;exposer avec
+quelque détail, la police, les lois, &amp; les formalités
+qu&#39;on observoit dans la célebration des jeux solennels,
+qui intéressoient si fort &amp; des villes fameuses à
+tous égards, &amp; des peuples entiers.
+</p>
+<p>
+Il ne suffisoit pas aux athletes pour être admis à
+concourir dans ces jeux, d&#39;avoir soigneusement cultivé 
+les divers exercices du corps des leur plus tendre 
+jeunesse, &amp; de s&#39;être distingués dans les gymnases 
+parmi leurs camarades : il falloit encore, du moins 
+parmi les Grecs, qu&#39;ils subissent d&#39;autres
+épreuves par rapport à la naissance, aux moeurs, &amp;
+à la condition : car les esclaves étoient exclus des
+<i>combats gymniques ;</i> les agonothetes, autrement dits
+les <i>hellanodiques</i>, préposés à l&#39;examen des athletes,
+écrivoient sur un registre le nom &amp; le pays de ceux
+qui s&#39;enrôloient pour ainsi dire.
+</p>
+<p>
+A l&#39;ouverture des jeux, un héraut proclamoit publiquement 
+les athletes qui devoient paroîtir dans
+chaque sorte de combats, &amp; les faisoit passer en revûe 
+devant le peuple, en publiant leurs noms à haute 
+voix. On travailloit ensuite à regler les rangs de
+ceux qui dans chaque espece de jeux, devoient payer
+de leur personne ; c&#39;étoit le sort qui seul en décidoit ;
+&amp; dans les jeux où plus de deux concurrens pouvoient 
+disputer en même tems le prix proposé, tels
+que la course à pié, la course des chars, <i>&amp;c.</i> les champions 
+se rangeoient dans l&#39;ordre solon lequel on avoit
+tiré leurs noms ; mais dans la lutte, le pugilat, &amp; le
+pancrace, où les athletes ne pouvoient combattre
+que deux à deux, on apparioit les combattans en les
+tirant au sort d&#39;une maniere différente ; c&#39;est Lucien
+qui nous apprend encore toutes ces particularités.
+</p>
+<p>
+Après avoir tiré les athletes au sort, &amp; les avoir
+animés à bien faire, on donnoit le signal des divers
+combats, dont l&#39;assemblage formoit les <i>jeux gymniques ;</i> c&#39;étoit alors que les athletes entroient en lice,
+&amp; qu&#39;ils mettoient en oeuvre toute la force &amp; la dextérité 
+qu&#39;ils avoient acquise dans leurs exercices,
+pour remporter le prix. Il ne faut pas croire cependant 
+qu&#39;affranchis de toute servitude, ils fussent en
+droit de tout oser &amp; de tout entreprendre pour se
+procurer la victoire ; les hellanodiques &amp; les autres
+magistrats, par des lois sagement établies, avoient
+soin en conséquence de ces lois de refréner la licence 
+des combattans, en bannissant de ces sortes de
+jeux la fraude, l&#39;artifice, &amp; la violence outrée. Toutes les lois athlétiques, &amp; toutes celles de la police
+des jeux, étoient observées d&#39;autant plus exactement,
+que l&#39;on punissoit avec sévérité ceux qui manquoient
+d&#39;y obéir. C&#39;étoit-là d&#39;ordinaire la fonction des mastigophores.
+<i>Voyez</i> <sc><ref target="head:Mastigophores" type="search">Mastigophores</ref></sc>.
+</p>
+<p>
+Il étoit défendu de gagner ses juges &amp; ses antagonistes 
+par des présens ; &amp; la violation de cette loi se
+punissoit par des amendes, dont on employoit l&#39;argent 
+à ériger des statues en l&#39;honneur des dieux.
+</p>
+<p>
+Enfin, ces hommes dévoüés aux divertissemens
+publics, après avoir passé par diverses épreuves laborieuses 
+&amp; rebutantes avant &amp; pendant la célébration 
+des jeux, recevoient à la fin les récompenses
+qu&#39;ils se proposoient pour but, &amp; dont l&#39;attente étoit
+capable de les soûtenir dans une carriere aussi pénible 
+que la leur.
+</p>
+<p>
+Ces récompenses étoient de plus d&#39;une espece ; les
+spectateurs célébroient d&#39;abord la victoire des athletes<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+remportée dans les jeux par des applaudissemens
+&amp; des acclamations réitérées ; on faisoit proclamer
+par un héraut le nom des vainqueurs ; on leur distribuoit 
+les prix qu&#39;ils avoient mérités, des esclaves,
+des chevaux, des vases d&#39;airain avec leurs trépiés,
+des coupes d&#39;argent, des vêtemens, des armes, de
+l&#39;argent monnoyé; mais les prix les plus estimés consistoient 
+en palmes &amp; en couronnes qu&#39;on leur mettoit 
+sur la tête, aux yeux des spectateurs, &amp; qu&#39;on
+gardoit pour ces occasions dans les thrésors des villes
+de la Grece.
+</p>
+<p>
+On les conduisoit ensuite en triomphe, revêtus
+d&#39;une robe de fleurs dans tout le stade, &amp; ce triomphe 
+n&#39;étoit que le préliminaire d&#39;un autre encore plus
+glorieux, qui les attendoit dans leur patrie. Le vainqueur 
+en y arrivant, étoit reçû aux acclamations de
+ses compatriotes, qui accouroient sur ses pas : décoré 
+des marques de sa victoire, &amp; monté sur un char
+à quatre chevaux, il entroit dans la ville par une
+breche qu&#39;on faisoit exprès au rempart ; on portoit
+des flambeaux devant lui, &amp; il étoit suivi d&#39;un nombreux 
+cortége qui honoroit cette pompe. Le triomphe 
+de Néron à son retour de Grece, tel que le décrivent 
+Suetone &amp; Xiphilin, nous présente une image 
+complete de tout ce qui composoit la pompe de
+ces sortes de triomphes athlétiques.
+</p>
+<p>
+La cérémonie se terminoit presque toûjours par
+des festins, dont les uns se faisoient aux dépens du public,
+les autres aux dépens des particuliers connus
+du vainqueur ; ensuite, ce vainqueur régaloit à son
+tour ses parens &amp; ses amis. Alcibiade poussa plus loin
+la magnificence lorsqu&#39;il remporta le premier, le second,
+&amp; le quatrieme prix de la course des chars aux
+jeux olympiques ; car après s&#39;être acquitté des sacrifices 
+dûs à Jupiter olympien, il traita toute l&#39;assemblée : l&#39;athlete Léophron en usa de même au rapport
+d&#39;Athénée : Empédocle d&#39;Agrigente ayant vaincu aux
+mêmes jeux, &amp; ne pouvant comme Pythagoricien,
+régaler le peuple, ni en viande, ni en poisson, il fit
+faire un boeuf avec une pâte composée de myrrhe,
+d&#39;encens, &amp; de toutes sortes d&#39;aromates, &amp; le distribua 
+par morceaux à tous ceux qui se présenterent.
+Le festin donné par Scopas, vainqueur dans un des
+<i>jeux gymniques</i>, est devenu célebre par l&#39;accident
+qui le termina, &amp; dont Simonide fut miraculeusement 
+préservé; cette histoire nous a été transmise
+par Cicéron, Phedre, &amp; Quintilien, qui la racontent
+dans toute son étendue ; la Fontaine en a fait le sujet
+d&#39;une de ses fables.
+</p>
+<p>
+Ces couronnes, ces palmes, ces triomphes, ces
+acclamations, &amp; ces festins, qui donnoient d&#39;abord
+un si grand relief à la victoire des athletes dans les
+<i>jeux gymniques</i>, n&#39;étoient au fond que des honneurs
+passagers, dont le souvenir se seroit bien-tôt effacé,
+si l&#39;on n&#39;en eût fait succéder d&#39;autres plus fixes, plus
+solides, &amp; qui duroient autant que la vie des vainqueurs : ces honneurs-ci consistoient en différens priviléges 
+qu&#39;on leur accordoit, &amp; dont ils joüissoient
+paisiblement à l&#39;abri des lois, &amp; sous la protection
+des princes &amp; des magistrats ; l&#39;un des plus honorables 
+de ces priviléges, étoit le droit de préséance
+dans les jeux publics. Une telle préséance étoit bien
+dûe à des hommes que les Grecs regardoient comme
+des dieux ; <i>palmaque nobilis terrarum dominos evehit
+ad deos ;</i> à des hommes pour lesquels ils avoient une
+si grande considération, que c&#39;étoit, dit Cicéron,
+quelque chose de plus glorieux en Grece d&#39;avoir
+vaincu dans les jeux olympiques, qu&#39;à Rome d&#39;avoir
+obtenu les honneurs du triomphe.
+</p>
+<p>
+Un autre privilége des vainqueurs dans les <i>combats
+gymniques</i>, privilége où l&#39;utile se trouvoit joint à
+l&#39;honorable, c&#39;étoit celui d&#39;être nourri le reste de
+leurs jours aux dépens de leur patrie ; ce droit leur
+étoit acquis de toute ancienneté: mais dans la suite,
+<pb n="7:1021" facs="V7/ENC_7-1021.jpeg" />
+<milestone unit="column" n="1" />
+leurs victoires se multipliant aussi-bien que les jeux
+publics, cette dépense seroit devenue fort à charge à
+leurs compatriotes, si l&#39;on ne l&#39;eût resserrée dans les
+bornes de la médiocrité; les empereurs conserverent
+tous ces priviléges des vainqueurs aux <i>jeux gymniques</i>, &amp; même les accrûrent ; Auguste en montra
+l&#39;exemple, suivant le témoignage de Suetone.
+</p>
+<p>
+L&#39;exemption de toute charge &amp; de toute fonction
+civile, n&#39;étoit pas une de leurs moindres prérogatives ; 
+mais il falloit pour l&#39;obtenir, avoir été couronné 
+au-moins trois fois aux jeux sacrés.
+</p>
+<p>
+Le desir d&#39;immortaliser les victoires des athletes
+remportées aux <i>jeux gymniques</i>, fit mettre en oeuvre
+divers moyens qui conduisoient naturellement à ce
+but : tels étoient les archives publiques, les écrits
+des poëtes, les statues, les inscriptions. La célébration 
+des jeux finie, un des premiers soins des agonothetes 
+étoit d&#39;inscrire sur le registre public le nom,
+le pays des vainqueurs, &amp; l&#39;espece de combat dont
+ils étoient sortis victorieux. Leurs loüanges devinrent
+chez les Grecs un des principaux sujets de la poésie
+lyrique ; c&#39;est sur quoi roulent, comme l&#39;on sait, toutes 
+les odes de Pindare, partagées en quatre livres,
+chacun desquels porte le nom des jeux où se sont signalés 
+les athletes dont les victoires sont célébrées
+dans ces poëmes immortels.
+</p>
+<p>
+Les peuples non contens du secours qu&#39;ils empruntoient 
+des archives publiques &amp; des poetes pour perpétuer 
+le souvenir des victoires des athletes dans les
+<i>jeux gymniques</i>, employerent outre cela tout l&#39;art
+des Sculpteurs pour transmettre aux siecles à venir
+la figure &amp; les traits de ces mêmes hommes, qu&#39;ils
+regardoient avec tant d&#39;admiration. On peut lire dans
+Pausanias un dénombrement de toutes les statues qui
+se voyoient de son tems à Olympie, &amp; ces statues
+ne devoient pas être plus grandes que le naturel ; on
+ornoit ces statues d&#39;inscriptions, qui marquoient le
+pays des athletes vainqueurs, representes par ces statues,
+le genre, &amp; le tems de leurs victoires, &amp; le prix
+qu&#39;ils avoient remporté. Octavio Falconerii a recueilli,
+publié, &amp; éclairci par de savantes notes plusieurs 
+de ces inscriptions qui nous restent encore.
+</p>
+<p>
+Enfin, malgré la défense des agonothetes, on est
+allé jusqu&#39;à rendre des honneurs divins aux vainqueurs 
+dans les <i>combats gymniques</i>, &amp; cette espece
+de culte peut passer pour le comble de la gloire athlétique.
+On en cite trois exemples tirés de l&#39;histoire:
+le premier rapporté par Herodote, est de Philippe
+Crotoniate, vainqueur aux jeux olympiques, &amp; le
+plus bel homme de son tems ; les Egestains lui dresserent 
+après sa mort un monument superbe, &amp; lui sacrifierent 
+comme à un heros : le second exemple encore 
+plus extraordinaire, est d&#39;Euthime de Locres,
+excellent athlete pour le pugilat, lequel pendant sa
+vie reçut les honneurs divins ; Pline le naturaliste raconte 
+ce fait, <i>liv. VII. ch. lvij.</i> de son histoire : le
+troisieme exemple est celui de l&#39;athlete Théagene,
+qui au rapport de Pausanias, fut après sa mort non seulement 
+adoré par les Thasiens ses compatriotes,
+mais par divers peuples tant grecs que barbares.
+Voilà quels étoient les fruits des <i>combats gymniques</i>,
+ces exercices a jamais célebres, &amp; dont nous n&#39;avons
+plus d&#39;idée. <i>Article de M. le Chev. <sc>de Jaucourt</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

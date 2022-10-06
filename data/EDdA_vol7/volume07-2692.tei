@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30146" id="54:67" vol="7">
+<index type="head" value="GRAPHOMETRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géom. prat." />
+<index type="normclass" value="Géométrie pratique" />
+<index type="englishclass" value="Practical geometry" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.m." />
+<head>GRAPHOMETRE</head>
+<p>
+GRAPHOMETRE, s. m. (<i>Géom. prat.</i>) nom que
+plusieurs auteurs donnent à un instrument de mathématique,
+appellé plus communément demi-cercle.
+</p>
+<p>
+Ce mot vient de deux mots grecs, <foreign lang="greek">γράφω</foreign>, <i>j&#39;écris</i>,
+&amp; <foreign lang="greek">μέτρον</foreign>, <i>mesure ;</i> apparemment parce que les divisions 
+de degrés qui sont sur cet instrument donnent,
+pour ainsi dire, par écrit la mesure des angles qu&#39;on
+observe par son moyen.
+</p>
+<p>
+On a vû au <i>mot</i> <sc>Demi-Cercle</sc> en quoi cet instrument 
+differe de l&#39;équerre d&#39;arpenteur. <i>V</i>. <sc><ref target="head:Equerre d&#39;Arpenteur" type="search">Equerre d&#39;Arpenteur</ref></sc>. Il differe de la planchette en ce
+que celle-ci est un instrument beaucoup plus simple
+&amp; sans aucune division. <i>Voyez</i> . Ce
+dernier est plus expéditif, mais le <i>graphometre</i> est plus
+exact ; cependant quand il s&#39;agit d&#39;opérations trigonométriques 
+qui demandent une grande précision,
+comme de celles qu&#39;il faut faire pour mesurer les
+<pb n="7:860" facs="V7/ENC_7-860.jpeg" />
+<milestone unit="column" n="1" />
+angles des triangles dans la mesure d&#39;un degré du
+méridien, on se sert d&#39;un instrument encore plus
+exact que le <i>graphometre</i>, d&#39;un quart de cercle bien
+divisé &amp; garni de lunette. <i>Voyez</i> <sc><ref target="head:Quart de Cercle" type="search">Quart de Cercle</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,167 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29275" id="52:97" vol="7">
+<index type="head" value="GEMATRIE ou GAMETRIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théol." />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.f." />
+<head>GEMATRIE ou GAMETRIE</head>
+<p>
+GEMATRIE <i>ou</i> GAMETRIE, s. f. (<i>Théol.</i>) nom
+de la premiere espece de cabale artificielle des Juifs.
+<i>Voyez</i> <sc><ref target="head:Cabale" type="search">Cabale</ref></sc>.
+</p>
+<p>
+La <i>gématrie</i> est une espece d&#39;explication géométrique 
+&amp; arithmétique des mots, qui se fait en deux
+manieres, ce qui forme deux especes de <i>gématries:</i>
+la premiere tient plus de l&#39;Arithmétique, &amp; la seconde 
+a plus de rapport à la Géométrie.
+</p>
+<p>
+Celle-là consiste à prendre la valeur numérique de
+chaque lettre dans un mot ou dans une frase, &amp; à
+donner à ce mot la signification d&#39;un autre mot ou
+d&#39;une autre frase, dont les lettres prises de même
+pour des chiffres, sont le même nombre ; car on sait
+que chez les Hébreux, comme chez les Grecs, il n&#39;y
+a point d&#39;autres chiffres que les lettres de l&#39;alphabet.
+<i>Voyez</i> <sc><ref target="head:Lettre" type="search">Lettre</ref> <i>&amp;</i> <ref target="head:Caractere" type="search">Caractere</ref></sc>.
+</p>
+<p>
+Ainsi un cabaliste ayant trouvé que les lettres de la
+frase hébraïque, <i>il a créé au commencement</i>, présentent
+le même nombre que les lettres de cette autre frase
+hébraïque, <i>il a été créé au commencement de l&#39;année</i>,
+il en conclura que le monde a été créé au commencement 
+de l&#39;année.
+</p>
+<p>
+Ainsi c&#39;est une opinion reçue chez les Cabalistes,
+que le monde a été créé au mois Thisri, qui étoit
+autrefois le premier de l&#39;année. C&#39;est le premier mois
+d&#39;autonne, qui répondoit à-peu-près à notre mois
+de Septembre. De même dans la prophétie de Jacob,
+<i>Genes. 49. 10.</i> où il est dit, <i>celui qui est envoyé viendra</i>, ils disent que celui qui est promis là est le Messie, parce que les lettres font le même nombre que
+celles du nom qui signifie <i>Messiah</i>, Messie ; car les
+unes &amp; les autres font le même nombre 358.
+</p>
+<p>
+La seconde espece de <i>gématrie</i> est plus difficile &amp;
+plus obscure, aussi est-elle plus rare : elle s&#39;occupe à
+chercher des signification abstruses &amp; cachées dans
+les masures des édifices dont il est fait mention dans
+l&#39;Ecriture, en divisant, multipliant ces grandeurs
+les unes par les autres. En voici un exemple pris de
+quelques cabalistes chrétiens.
+</p>
+<p>
+L&#39;Ecriture dit que l&#39;arche de Noé étoit longue de
+300 coudées, large de 50, &amp; haute de 30. Le cabaliste 
+prend pour la base de ses opérations la longueur
+de l&#39;arche, 300; c&#39;est en hébreu un <gap />: il divise
+cette longueur par la hauteur, qui est 30: il trouve
+10, qui en hébreu s&#39;exprime par un <gap />, qu&#39;il met à
+droite du <gap />: il divise ensuite la même longueur par
+la largeur, qui est 50; ce qui lui donne pour quotient 
+6, qui en hébreu s&#39;exprime par un <gap />, qui étant
+mis au côté gauche du <gap />, fait avec les deux autres
+lettres le nom de <i>Jesus</i>, <gap />. Ainsi par les regles de la
+cabale il s&#39;ensuit qu&#39;on ne peut se sauver que par
+Jesus-Christ, comme au tems du déluge porsonne ne
+fut sauvé hormis ceux qui étoient dans l&#39;arche.
+</p>
+<p>
+On trouve de même le nom de <i>Jesus</i> dans les dimensions 
+du temple de Salomon. Mais c&#39;est faire tort
+<pb n="7:545" facs="V7/ENC_7-545.jpeg" />
+<milestone unit="column" n="1" />
+à la religion, que de l&#39;appuyer de ces vaines subtilités.
+<i>Voyez</i> <sc><ref target="head:Figure" type="search">Figure</ref></sc>. <i>Diction. de Trév. &amp; Chamb.</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

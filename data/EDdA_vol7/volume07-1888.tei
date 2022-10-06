@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29342" id="52:137:1" vol="7">
+<index type="head" value="Genette" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Man." />
+<index type="normclass" value="Manège" />
+<index type="englishclass" value="Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="s.f." />
+<head>Genette</head>
+<p>
+<sc>Genette</sc>, s. f. (<i>Man.</i>) embouchure autrefois en
+usage. Il y avoit des <i>genettes</i> vraies ; il y en avoit de
+bâtardes : elles étoient employées dans l&#39;intention
+d&#39;assûrer la tête du cheval, de lui former l&#39;appui,
+de l&#39;empêcher de peser, de tirer, <i>&amp;c.</i>
+</p>
+<p>
+Pour concevoir une idée de cette sorte de mors,
+qui differe peu de celui que l&#39;on nomme <i>mors à la
+turque</i>, il suffit de se représenter d&#39;une part un canon
+non-brisé, ayant assez de montant pour s&#39;élever à la
+hauteur de l&#39;oeil du banquet, &amp; de l&#39;autre un anneau
+de fer d&#39;une seule piece, mobilement engagé dans le
+sommet de ce montant, &amp; diversement contourné
+pour embrasser la barbe de l&#39;animal &amp; tenir lieu de
+gourmette.
+</p>
+<p>
+La <i>genette</i> tient une place distinguée parmi cette
+foule d&#39;embouchures &amp; d&#39;instrumens effrayans, que
+les anciens avoient imaginés, &amp; que nous avons
+rejettés avec d&#39;autant plus de raison, que nous ne
+les devions qu&#39;à leur ignorance. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,159 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29100" id="51:240:2" vol="7">
+<index type="head" value="Gardien des Meubles" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gardien des Meubles</head>
+<p>
+<sc>Gardien des Meubles</sc>, est celui qui s&#39;est chargé
+de la garde des meubles saisis sur un débiteur.
+</p>
+<p>
+L&#39;huissier ne doit établir pour <i>gardien</i> qu&#39;une personne 
+solvable &amp; de facile discussion, qui est ce que
+l&#39;on appelle un <i>gardien bon &amp; solvable</i>.
+</p>
+<p>
+On ne doit établir pour <i>gardien</i>, ni les parens de
+l&#39;huissier, ni le saisi, sa femme, enfant, ou petitsenfans ; 
+mais on peut établir pour <i>gardiens</i> les freres,
+oncles, &amp; neveux, pourvû qu&#39;ils y consentent.
+</p>
+<p>
+Celui qui accepte la commission du <i>gardien</i>, doit
+signer sur le procès-verbal, ou déclarer qu&#39;il ne peut
+signer.
+</p>
+<p>
+Si l&#39;huissier ne trouve pas de <i>gardien</i> solvable, il
+doit établir garnison.
+</p>
+<p>
+Il n&#39;est pas permis d&#39;empêcher l&#39;établissement du
+<i>gardien</i>, ni de le troubler, à peine de payer le double 
+de la valeur des meubles saisis, &amp; de 100 livres
+d&#39;amende, sans préjudice des poursuites extraordinaires.
+</p>
+<p>
+Le <i>gardien</i> suit ordinairement la foi de celui sur
+qui la saisie est faite, c&#39;est-à-dire qu&#39;il laisse la partie
+saisie en possession des meubles ; il peut néanmoins
+requérir l&#39;huissier qui en fait la saisie de le mettre en
+possession de ces meubles, &amp; de les enlever.
+</p>
+<p>
+Lorsqu&#39;il fait enlever les meubles, il ne doit ni s&#39;en
+servir, ni les loüer à personne ; il doit les conserver
+fidelement comme un dépositaire, à peine de tous
+dommages &amp; intérêts.
+</p>
+<p>
+Les <i>gardiens</i> étant dépositaires de justice, sont contraignables 
+par corps à la représentation des meubles 
+saisis, soit pour être vendus à la requête du créancier,
+soit pour être restitués à la partie saisie, lorsqu&#39;il y a eu déplacement, &amp; que la partie saisie a
+obtenu main-levée.
+</p>
+<p>
+La contrainte par corps n&#39;a lieu néanmoins qu&#39;en
+vertu d&#39;un jugement qui la prononce.
+</p>
+<p>
+S&#39;il survient des oppositions qui retardent la vente,
+le <i>gardien</i> est déchargé deux mois après qu&#39;elles
+ont été jugées ; ou si elles ne le sont pas, il est déchargé 
+au bout d&#39;un an : mais s&#39;il a été mis en possession 
+réelle des meubles, il en est chargé pendant
+trente ans. <i>Voyez</i> l&#39;ordonnance de 1667, <i>tit. xjx. &amp;
+xxxiij</i>. (<i>A</i>)
+<pb n="7:513" facs="V7/ENC_7-513.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

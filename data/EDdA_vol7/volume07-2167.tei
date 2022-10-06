@@ -1,0 +1,1418 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29621" id="53:115" vol="7">
+<index type="head" value="GLACE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Ratte" />
+<index type="shortauth" value="Ratte" />
+<index type="kafnum" value="114" />
+<index type="kafauth" value="Ratte, Etienne-Hyacinthe de (1722-1805)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physique." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GLACE</head>
+<p>
+GLACE, s. f. (<i>Physique.</i>) La <i>glace</i> est un corps solide,
+formé naturellement ou artificiellement d&#39;une
+substance fluide, telle que l&#39;eau, l&#39;huile, <i>&amp;c.</i> refroidie 
+à un cert un degré; ou plutôt ce n&#39;est autre chose 
+que ce fluide même devenu concret &amp; solide par
+le simple refroidissement. Lorsqu&#39;un fluide s&#39;est converti 
+en <i>glace</i>, on dit qu&#39;il est gelé ou congelé. l&#39;opération 
+par laquelle la nature seule ou aidée de
+l&#39;art, fait éprouver à un corps fluide le changement
+dont nous parlons, est connue de même sous le nom
+de congelation. <i>Voyez</i> <sc><ref target="head:Froid" type="search">Froid</ref> <i>&amp;</i> <ref target="head:Congelation" type="search">Congelation</ref></sc>.
+</p>
+<p>
+La congelation differe de la concentration ou rapprochement 
+qui se fait par l&#39;évaporation, la precipitation 
+ou la crystallisation. <i>Voyez ces articles</i>. On
+ne doit pas non plus la confondre avec la coagulation 
+proprement dite, qui est l&#39;épaississement spontané 
+de certains liquides ; épaississement qui loin de
+dépendre constamment de l&#39;action du froid, suppose
+dans plusieurs fluides un degré de chaleur considérable.
+<i>Voyez</i> <sc><ref target="head:Coagulation" type="search">Coagulation</ref></sc>.
+</p>
+<p>
+En s&#39;attachant à l&#39;idée que nous venons de développer,
+on doit donner indifferemment le nom de
+<i>glace</i> à tout fluide gelé. L&#39;usage a cependant restreint
+la signification de ce terme, qui n&#39;est guere employé
+que pour designer l&#39;eau congelée : la <i>glace</i> proprement 
+dite, la <i>glace</i> par excellence est toûjours la
+<i>glace</i> d&#39;eau.
+</p>
+<p>
+Les phénomenes de la <i>glace</i> sont remarquables,
+&amp; en très-grand nombre ; aussi ont-ils mérité d&#39;exciter 
+vivement dans tous les tems la curiosité des physiciens.
+Tous à l&#39;envi se sont empressés de les examiner 
+avec soin pour en reconnoître les causes. Le
+détail que nous allons donner de cette multitude de
+phénomenes fera le fort de cet article : nous y ferons 
+un grand usage de l&#39;excellente dissertation de
+M. de Mairan sur cette matiere. Il seroit difficile de
+parler de la <i>glace</i>, sans profiter des savantes recherches 
+de cet illustre physicien, sans le copier ou sans
+l&#39;abréger.
+</p>
+<p>
+La <i>glace</i>, comme nous l&#39;avons dit, est naturelle
+ou artificielle. L&#39;eau se gele naturellement, quand
+la température de l&#39;air répond au zéro ou à un degré 
+inférieur du thermometre de M. de Reaumur,
+<milestone unit="column" n="2" />
+ce qui arrive assez souvent en hyver dans nos climats.
+Tous les liquides simplement aqueux se glacent 
+à-peu-près dans le même tems &amp; par le même
+degré de froid.
+</p>
+<p>
+Les huiles grasses, sur-tout l&#39;huile d&#39;olive, gelent
+à un degré de froid très-médiocre, &amp; fort inférieur
+à celui qui est requis pour la congelation de l&#39;eau.
+</p>
+<p>
+Les liqueurs spiritueuses au contraire, telles que
+le vin, l&#39;eau-de-vie, l&#39;esprit-de-vin, <i>&amp;c.</i> se gelent
+très-difficilement ; non-seulement leur fluidité résiste
+à un degré de froid supérieur à celui qui fait geler
+l&#39;eau ; mais lors même qu&#39;elles se glacent, ce n&#39;est
+guere qu&#39;en partie au-moins dans nos climats. Ce
+qu&#39;elles ont d&#39;aqueux se gele, mais leur partie spiritueuse 
+qui alors se sépare de la partie aqueuse, ne
+perd rien de sa liquidité: elle se rassemble presque
+toûjours au centre du vaisseau ou de la piece de <i>glace</i>, sous la forme fluide qui lui est propre, &amp; que le
+froid n&#39;a pû altérer.
+</p>
+<p>
+La même chose a lieu dans la congelation du vinaigre ; 
+elle est imparfaite, &amp; l&#39;on trouve au milieu 
+de la masse gelée, ce que les Chimistes appellent 
+<i>vinaigre concentré. Voyez</i> <sc><ref target="head:Vinaigre" type="search">Vinaigre</ref></sc>.
+</p>
+<p>
+L&#39;huile d&#39;olive elle-même qui se glace avec tant
+de facilité, a quelques parties en très-petite quantité,
+qui réunies au centre du vaisseau, s&#39;y conservent
+liquides dans les plus grands froids.
+</p>
+<p>
+Selon les observations des académiciens qui ont
+fait le voyage du cercle polaire, l&#39;esprit-de-vin des
+thermometres de M. de Reaumur gele à un degré de
+froid ordinaire en Laponie. Cet esprit-de-vin est celui 
+qu&#39;on vend communément chez les Droguistes:
+il n&#39;est pas extrèmement rectifié, &amp; l&#39;on pourroit
+peut-être penser qu&#39;il ne se gele qu&#39;à raison des parties 
+d&#39;eau qu&#39;il contient en assez grande quantité ;
+ce qui est certain, c&#39;est que de l&#39;esprit-de-vin bien
+alkoolisé, soûtient sans se geler un aussi grand degré 
+de froid, &amp; même des degrés plus considérables.
+Ce que nous disons de l&#39;alkool doit à plus forte 
+raison être entendu de l&#39;éther la plus volatile
+peut-être de toutes les liqueurs. <i>Voyez</i> <sc><ref target="head:Alkool" type="search">Alkool</ref> <i>&amp;</i> <ref target="head:Ether" type="search">Ether</ref></sc>.
+</p>
+<p>
+L&#39;esprit de nitre &amp; la plûpart des esprits acides,
+certaines huiles chimiques, comme l&#39;huile de térébenthine,
+celle de lin, <i>&amp;c.</i> se glacent aussi très-difficilement. Le mercure ne se gele point : du-moins
+nul degré de froid observé jusqu&#39;ici n&#39;a été suffisant
+pour le congeler. A l&#39;égard de l&#39;air, on sait qu&#39;il est
+toûjours fluide quand il est en masse sensible ; ainsi
+tout ce que nous avons à dire des phénomenes de la
+congelation ne le regarde pas.
+</p>
+<p>
+Ceux des liquides qui sont sujets à se glacer, n&#39;offrent 
+pas tous à beaucoup près dans leur congelation
+les mêmes phénomenes ; autant de fluides particuliers,
+autant de sortes de <i>glace</i>. Nous allons principalement 
+considérer la <i>glace</i> commune, ou celle qui
+résulte de la congelation de l&#39;eau ; sans cesse exposée 
+aux regards curieux des physiciens &amp; aux yeux
+du vulgaire, on a dû l&#39;examiner avec plus de soin,
+&amp; la soûmettre à un plus grand nombre d&#39;épreuves.
+</p>
+<p>
+M. de Mairan considere la <i>glace</i> sous différens
+points de vûe : 1°. dans ses commencemens &amp; dans
+tout le cours de sa formation : 2°. dans sa formation,
+relativement à l&#39;état &amp; aux circonstances où
+se trouve l&#39;eau qui se gele : 3°. dans sa perfection,
+ou lorsqu&#39;elle est toute formée : 4°. dans sa fonte &amp;
+dans le dégel : 5°. &amp; enfin dans sa formation artificielle 
+par le moyen des sels.
+</p>
+<p>
+1°. <i>Des phénomenes de la glace dans ses commencemens 
+&amp; dans tout le cours de sa formation</i>. Si l&#39;on expose 
+à l&#39;air lorsqu&#39;il gele, un ou plusieurs vases cylindriques 
+de verre mince, pleins d&#39;eau pure, il sera
+facile d&#39;observer les phénomenes suivans.
+</p>
+<p>
+On remarquera d&#39;abord, s&#39;il ne gele que foiblement,<gap type="hyphenpb" />
+<pb n="7:678" facs="V7/ENC_7-678.jpeg" />
+<milestone unit="column" n="1" />
+une pellicule de <i>glace</i> très-mince, qui se formera 
+à la surface supérieure qui touche immédiatement 
+l&#39;air ; ensuite on verra partir des parois du
+vaisseau des filets diversement inclinés à ces parois,
+ou faisant avec elles divers angles aigus &amp; obtus,
+rarement l&#39;angle droit. A ces filets il s&#39;en joindra
+d&#39;autres qui leur seront de même diversement inclinés,
+&amp; à ceux-ci d&#39;autres encore, &amp; ainsi de suite.
+Tous ces filets se multipliant s&#39;élargiront en forme
+de lames, qui augmentant en nombre &amp; en épaisseur, composeront enfin une seule masse solide par
+leur réunion. On conçoit aisément qu&#39;à mesure que
+le froid continue ou qu&#39;il augmente, ce premier tissu
+de <i>glace</i> devient toûjours plus épais.
+</p>
+<p>
+Si la gelée est plus âpre, tout se passera plus confusément ; 
+à peine aura-t-on le tems d&#39;observer ces
+filets &amp; ces lames, qui se formeront &amp; s&#39;uniront en
+un clin d&#39;oeil.
+</p>
+<p>
+M. de Mairan a examiné avec une attention particuliere 
+les différentes positions des filets de <i>glace</i>
+dont nous venons de parler, soit entr&#39;eux, soit par
+rapport aux parois du vaisseau, ainsi que les diverses 
+figures qui en résultent. Il a remarqué que les angles 
+aigus, sous lesquels s&#39;assemblent les filets, ne
+sont presque jamais au-dessous de l&#39;angle de 30 degrés ; 
+qu&#39;assez souvent ces angles sont de 60 &amp; de
+120 degrés ; en sorte qu&#39;il n&#39;est pas rare, lorsqu&#39;on
+fait geler de l&#39;eau, de voir ceux des filets de <i>glace</i>
+qui tiennent par les deux bouts aux parois du vaisseau,
+y faire la corde d&#39;un are de 120 degrés, ou
+du tiers de la circonférence. Il y a beaucoup de variété 
+dans les figures qui résultent de l&#39;assemblage
+de tous ces filets ; souvent elles sont irrégulieres, &amp;
+ne réveillent l&#39;idée de rien de connu ; souvent aussi
+elles imitent par des desseins &amp; des contours assez
+réguliers divers ouvrages de la nature &amp; de l&#39;art.
+C&#39;est ainsi qu&#39;elles représentent des champs diversement 
+sillonnés, des plumes avec leurs barbes, des
+especes d&#39;étoile ou de croix de Malthe, <i>&amp;c.</i> Les figures 
+les plus fréquentes sont celles de morceaux de
+feuilles, ou même de feuilles entieres ; toutes ces
+figures sont legerement tracées, &amp; comme ciselées
+sur les différentes superficies qui les offrent à nos
+yeux.
+</p>
+<p>
+Avant la congelation de l&#39;eau, &amp; pendant qu&#39;elle
+se gele, il en sort une grande quantité d&#39;air en bulles 
+plus ou moins grosses, qui viennent crever à sa
+surface.
+</p>
+<p>
+La sortie de ces bulles est d&#39;autant plus aisée que
+la congelation se fait plus lentement. En général,
+quand la congelation est trop prompte, il sort très peu 
+d&#39;air de l&#39;eau, mais les bulles d&#39;air qui en sortent 
+sont plus grosses ; &amp; au contraire quand la congelation 
+est lente, les bulles qui s&#39;échappent sont en
+très-grand nombre, mais fort petites.
+</p>
+<p>
+Quoiqu&#39;il sorte beaucoup d&#39;air de l&#39;eau qui est
+prête à se geler, il en reste une quantité considérable 
+dans l&#39;eau glacée. Une masse de <i>glace</i> formée par
+une lente congelation paroît assez homogene &amp; assez 
+transparente depuis sa surface extérieure, qui
+s&#39;est gelée la premiere jusqu&#39;à 2 ou 3 lignes de distance 
+en-dedans ; mais dans le reste de son extérieur,
+&amp; sur-tout vers son milieu, elle est interrompue 
+par une grande quantité de bulles d&#39;air, &amp; la
+surface supérieure qui d&#39;abord s&#39;étoit formée plane,
+se trouve élevée en bosse &amp; toute raboteuse.
+</p>
+<p>
+Une prompte congelation répand indifféremment
+les bulles d&#39;air dans toute la masse, qui par-là est
+plus opaque que dans le premier cas ; la surface supérieure 
+est aussi &amp; plus convexe &amp; plus inégale.
+</p>
+<p>
+Les bulles d&#39;air dont nous parlons, sont pour la
+plûpart de figure sphérique, &amp; de la grosseur à-peu-près d&#39;une tête d&#39;épingle ; elles deviennent beaucoup 
+plus grosses quand le froid continue. Assez
+<milestone unit="column" n="2" />
+souvent on en observe d&#39;autres oblongues, vers la
+fond du vaisseau &amp; prés de ses parois intérieures,
+d&#39;où elles semblent quelquefois partir pour se réunir 
+au centre ; celles-ci sont toûjours en moindre
+nombre que les premieres.
+</p>
+<p>
+Ces bulles qu&#39;on apperçoit à la vûe simple, ne
+sont pas les seules qui interrompent la continuité
+d&#39;une masse de <i>glace ;</i> en examinant la <i>glace</i> avec la
+loupe, on en distingue encore une infinité d&#39;autres
+beaucoup plus petites &amp; plus près les unes des autres.
+</p>
+<p>
+On peut par des ébullitions réitérées, &amp; sur-tout
+par le moyen de la machine pneumatique, priver
+l&#39;eau de la plus grande partie de l&#39;air, &amp; des autres
+fluides élastiques qui y sont naturellement contenus.
+Cette eau ainsi purgée d&#39;air, étant exposée
+dans la machine du vuide à un froid considérable,
+se gelera comme l&#39;eau ordinaire par filets &amp; par lames,
+qui formeront par leur réunion une masse de
+<i>glace</i> moins interrompue par des bulles d&#39;air que la
+<i>glace</i> ordinaire, &amp; dont la surface supérieure sera
+fort unie.
+</p>
+<p>
+Cette nouvelle <i>glace</i> contiendra d&#39;autant moins
+de bulles, qu&#39;on aura eu plus de soin de bien purger 
+l&#39;eau qui aura servi à la former. En suivant avec
+exactitude le procédé indiqué par M. Musschenbroek,
+on pourra parvenir à faire de la <i>glace</i> sensiblement
+homogene &amp; sans aucune bulle visible. <i>Essai de Physique, tome I. chap. xxv. Tentam. Florent.</i> &amp;c.
+</p>
+<p>
+Je dis <i>sans aucune bulle visible</i> ; car toutes les
+précautions qu&#39;on prendra dans cette expérience,
+n&#39;empêcheront point qu&#39;il n&#39;y ait toûjours dans la
+<i>glace</i> de ces bulles qui échappent à la vûe simple,
+&amp; qu&#39;on ne découvre qu&#39;avec la loupe ; elles y seront 
+quelquefois en si grand nombre, qu&#39;elles rendront 
+la <i>glace</i> faite avec de l&#39;eau purgée d&#39;air, moins
+transparente que la <i>glace</i> ordinaire. Ainsi M. l&#39;abbé
+Nollet ne dit rien que d&#39;exactement vrai en un sens,
+quand il assûre qu&#39;il n&#39;a jamais pû faire de <i>glace</i> qui
+ne contînt des bulles d&#39;air. <i>Leçons de Physique tome
+IV. pag. 104</i>.
+</p>
+<p>
+Cet air rassemblé en bulles dans la <i>glace</i>, y est
+communément plus condensé que dans l&#39;état naturel ; 
+ce qui le prouve, c&#39;est qu&#39;on le voit presque
+toûjours s&#39;échapper avec précipitation quand on
+perce la <i>glace</i> pour faire jour aux bulles. Quelquefois aussi on n&#39;observe rien de semblable, &amp; l&#39;air
+dont nous parlons ne donne aucune marque de condensation 
+extraordinaire. Mariotte, <i>mouvement des
+eaux, premier discours</i>. Nollet, <i>leçons de Physique, tome
+IV. pag. 117</i>. Hales, <i>analyse de l&#39;air, à la fin</i>.
+</p>
+<p>
+L&#39;augmentation du volume de l&#39;eau, quand elle
+approche de sa congelation, &amp; sur-tout lorsqu&#39;elle
+se gole, est un phénomene des plus importans, dont
+nous n&#39;avons point encore parlé, &amp; de la réalité
+duquel il est facile de se convaincre. On met pour
+cet effet de l&#39;eau dans un long tuyau, &amp; on marque
+l&#39;endroit où se trouve sa surface, lorsqu&#39;elle est dans
+un lieu tempéré: on expose ensuite le tout à la gelée,
+l&#39;eau descend très-sensiblement ; mais lorsqu&#39;elle
+approche de sa congelation, sa surface s&#39;arrête &amp;
+demeure stationnaire pendant quelques momens ;
+après quoi elle remonte assez promptement, &amp; s&#39;éleve 
+au-dessus de l&#39;endroit où elle étoit d&#39;abord.
+Cette expérience ne laisse aucun lieu de douter que
+l&#39;eau qui approche de la congelation, &amp; celle qui se
+glace actuellement, n&#39;occupent plus d&#39;espace, &amp; ne
+soient par-là plus legeres qu&#39;un pareil volume d&#39;eau
+médiocrement froide.
+</p>
+<p>
+Cette augmentation de volume n&#39;est pas moins
+sensible dans l&#39;eau actuellement gelée. On sait que
+la <i>glace</i> nage toûjours sur l&#39;eau, &amp; que les glaçons
+qu&#39;on met au fond d&#39;un vaisseau plein d&#39;eau ou au
+fond d&#39;une riviere, montent toûjours vers la superficie.
+</p>
+<p>
+<pb n="7:679" facs="V7/ENC_7-679.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Une suite &amp; une nouvelle preuve de la dilatation
+de l&#39;eau convertie en <i>glace</i>, c&#39;est la rupture des vaisseaux 
+où elle est contenue ; rupture très-ordinaire
+dans le cas d&#39;une prompte congelation, lorsque ces
+vaisseaux sont étroits par le haut, &amp; que l&#39;épaisseur
+de leurs parois est trop peu considérable pour résister
+à l&#39;effort que fait la <i>glace</i> en se dilatant.
+</p>
+<p>
+Cet effort en plusieurs cas est immense. Tout le
+monde a entendu parler de la fameuse expérience
+de M. Huyghens, répétée par M. Buot, dans laquelle
+un canon de fer épais d&#39;un doigt, rempli d&#39;eau &amp;
+bien fermé, ayant été exposé à une forte gelée,
+creva en deux endroits au bout de douze heures.
+M<sup>rs</sup>. de l&#39;académie de Florence ont fait rompre par
+ce même moyen plusieurs vaisseaux, soit de verre,
+soit de différens métaux, la plûpart de figure sphérique ; 
+&amp; M. Musschenbroek ayant calculé l&#39;effort
+nécessaire pour faire crever un de ces vaisseaux, il
+a trouvé qu&#39;il avoit fallu une force capable de soulever 
+un poids de 27720 livres. <i>Tentam. pag. 135</i>.
+</p>
+<p>
+Il ne faut plus s&#39;étonner après cela que la gelée
+souleve le pavé des rues, qu&#39;elle creve les tuyaux
+des fontaines, quand on n&#39;a pas la précaution de les
+tenir vuides, qu&#39;elle fende les pierres &amp; les arbres,
+qu&#39;elle détruise en plusieurs circonstances tout le
+tissu des végétaux, <i>&amp;c.</i> Ce sont des suites nécessaires 
+de la dilatation &amp; de la force expansive dont
+nous venons de parler. <i>Voyez</i> <sc><ref target="head:Gelée" type="search">Gelée</ref></sc>.
+</p>
+<p>
+La <i>glace</i> faite avec de l&#39;eau ordinaire non purgée
+d&#39;air, se dilatant avec tant de force &amp; si sensiblement,
+il étoit naturel d&#39;examiner ce qui arriveroit
+dans les mêmes circonstances à de l&#39;eau bien purgée
+d&#39;air, qu&#39;on auroit soûmise à l&#39;action de la gelée ;
+de voir si elle augmenteroit ou si elle diminueroit de
+volume en se gelant : on a fait pour éclaircir ce
+point quantité d&#39;expériences. M. Homberg par un
+procédé qui dura deux ans, fit en 1693 avec de l&#39;eau
+purgée d&#39;air, de la <i>glace</i> qu&#39;il jugea plus pesante &amp;
+d&#39;un moindre volume que l&#39;eau ordinaire, <i>mémoires
+de l&#39;académie, tom. X. pag. 255</i>. Il paroît qu&#39;il se
+décida sur la seule inspection du morceau de <i>glace</i>,
+&amp; non par son enfoncement dans l&#39;eau, la seule
+preuve sans replique ; ce qui est certain, c&#39;est que
+M<sup>rs</sup>. de Mairan, Musschenbroek, Nollet &amp; plusieurs
+autres physiciens, qui ont répété &amp; tourné en plusieurs 
+manieres cette même expérience, n&#39;en ont
+jamais pû obtenir le même résultat. La <i>glace</i> faite
+avec de l&#39;eau purgée d&#39;air a toûjours nagé sur l&#39;eau ;
+souvent même elle a cassé les vaisseaux où elle étoit
+contenue, preuves incontestables d&#39;une augmentation 
+de volume. Il faut néanmoins remarquer que
+si la <i>glace</i> faite avec de l&#39;eau purgée d&#39;air, est plus
+legere à raison de son volume que l&#39;eau dans l&#39;état
+de liquidité, cette même <i>glace</i> est toûjours spécifiquement 
+plus pesante que celle qu&#39;on a faite avec
+de l&#39;eau ordinaire : on verra même que la différence
+de leurs pesanteurs spécifiques est souvent assez considérable.
+</p>
+<p>
+La dilatation de l&#39;eau qui devient <i>glace</i> est une
+exception apparente à la loi générale, suivant laquelle 
+presque toutes les matieres qui perdent leur
+fluidité pour devenir solides, loin d&#39;augmenter de
+volume en diminuent constamment ; ainsi les huiles
+en se gelant &amp; lorsqu&#39;elles sont gelées, occupent
+toûjours moins d&#39;espace qu&#39;auparavant. Une autre
+observation importante, c&#39;est que les huiles ne se
+gelent point comme l&#39;eau par filets &amp; par lames,
+mais par pelotons de différente figure, qui tombant
+les uns sur les autres, composent une masse solide
+assez peu liée dans les commencemens ; mais qui à
+mesure que le froid augmente, acquiert de la consistance 
+&amp; de la fermeté.
+</p>
+<p>
+Le vin glacé se leve par feuillets assez semblables
+à des pelures d&#39;oignon.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Nous venons d&#39;exposer avec assez d&#39;étendue ce
+qui se passe réellement &amp; sous nos yeux dans la formation 
+de la <i>glace ;</i> voyons maintenant ce que les
+Philosophes ont imaginé pour rendre raison de ces
+phénomenes.
+</p>
+<p>
+Descartes suivi en cela d&#39;un grand nombre de physiciens,
+a cru que la congelation de l&#39;eau &amp; des autres 
+liquides étoit une suite nécessaire de leur refroidissement 
+à un certain degré déterminé, sans qu&#39;il
+intervint précisément pour cet effet dans les pores
+du liquide aucune matiere étrangere ; c&#39;est aussi
+le sentiment de Boerhaave, de s&#39;Gravesande, de
+Hartsoeker, de M. Hamberger, de M. de Mairan,
+<i>&amp;c.</i> Tous ces physiciens rejettent les corpuscules
+frigorifiques, la matiere congelante proprement dite : si l&#39;on remarque de la diversité dans le détail de
+leurs explications, on voit en même tems qu&#39;ils se
+réunissent tous dans le point que je viens d&#39;indiquer ;
+c&#39;est un même fond qui se reproduit sous plusieurs
+formes différentes.
+</p>
+<p>
+Les Gassendistes supposent au contraire des corpuscules 
+frigorifiques salins ou nitreux, qui s&#39;introduisant 
+entre les pores d&#39;un fluide, arrêtent le mouvement 
+de ses parties, &amp; les fixent en un corps solide 
+&amp; dur. Cette opinion a été adoptée par le célebre 
+M. de la Hire.
+</p>
+<p>
+M. Musschenbroek s&#39;en éloigne peu : il soûtient
+à la vérité contre les Gassendistes, que le froid n&#39;est
+que la simple privation du feu ; mais persuadé en
+même tems que la congelation &amp; le froid sont deux
+choses assez différentes, il a recours à une matiere
+répandue dans l&#39;air, qui venant à pénétrer l&#39;eau &amp;
+les autres fluides, fixe la mobilité respective de leurs
+parties en les liant fortement entr&#39;elles, comme feroit 
+de la colle ou de la glu. Cette matiere est-elle
+abondamment répandue dans l&#39;air? la gelée est considérable ; 
+au contraire n&#39;y a-t-il dans l&#39;air que peu
+ou point de cette matiere? il ne gele point ou il ne
+gele que foiblement. Ce n&#39;est point précisément
+par le degré de froid (nous parlons d&#39;après M. Musschenbroek) qu&#39;on doit juger de la presence ou de
+l&#39;absence de ces particules congelantes ; si on lui
+demande ce que c&#39;est que ces particules, il répondra 
+que leur nature est encore un mystere qu&#39;on
+pourra quelque jour pénétrer. <i>Essais de Physique,
+tome I. chap. xxv. Tentam. Florent</i>.
+</p>
+<p>
+Nous ne connoissons aucun système sur la formation 
+de la <i>glace</i>, essentiellement différent de ceux
+que nous venons de rapporter ; tout paroît donc se
+réduire à cette seule question. La congelation d&#39;un
+liquide suit-elle nécessairement d&#39;un refroidissement
+à un certain degré déterminé, ou faut-il pour la formation 
+de la <i>glace</i> quelque chose de plus? Si le refroidissement 
+suffisoit, la matiere congelante dont
+l&#39;existence n&#39;est point prouvée immédiatement seroit
+inutile, &amp; par-là même elle devroit être rejettée.
+</p>
+<p>
+Quelque idée qu&#39;on se forme de la fluidité, on ne
+sauroit s&#39;empêcher de reconnoitre la chaleur pour
+une de ses principales causes ; il suffit donc afin qu&#39;un
+corps devienne solide de fluide qu&#39;il étoit, que la
+chaleur qui agitoit ses parties diminue à un certain
+degré, ou, ce qui est la même chose, que ce corps
+se refroidisse. Dans ce cas la force de cohésion de
+ses particules augmente ; nous l&#39;avons vû en parlant
+du froid : or on sait que cette force de cohésion est
+la cause de la solidité des corps &amp; de leur dureté.
+<i>Voyez</i> 
+<sc><ref target="head:Fluidité" type="search">Fluidité</ref>, <ref target="head:Solidité" type="search">Solidité</ref> <i>&amp;</i> <ref target="head:Cohésion" type="search">Cohésion</ref></sc>
+</p>
+<p>
+Voilà l&#39;eau changée en un corps dur par un simple 
+refroidissement ; mais ce corps dur aura-t-il toutes 
+les propriétés de la <i>glace?</i> présentera-t-il dans
+sa formation les mêmes phénomenes? C&#39;est ce qu&#39;il
+faut examiner.
+</p>
+<p>
+L&#39;eau se gele par filets qui s&#39;assemblent sous différens 
+angles, d&#39;où résultent diverses figures ; dans
+<pb n="7:680" facs="V7/ENC_7-680.jpeg" />
+<milestone unit="column" n="1" />
+ce phénomene on n&#39;apperçoit rien qui favorise la
+matiere congelante. Tout paroît dépendre de la
+figure, quelle qu&#39;elle soit, des parties intégrantes de
+l&#39;eau, &amp; de la maniere dont la force de cohésion
+agit sur ces particules pour leur leur faire prendre un certain 
+arrangement déterminé. Un liquide autrement
+conformé &amp; sur lequel l&#39;attraction agira d&#39;une autre 
+maniere, se gelera par pelotons, comme on l&#39;observe 
+dans les huiles ; les sels n&#39;affectent-ils pas différentes 
+figures dans leurs crystallisations? Si l&#39;on
+demande pourquoi les filets de <i>glace</i> tiennent d&#39;ordinaire 
+par un de leurs bouts aux parois du vase
+qui les renferme, nous répondrons que tout corps
+flottant sur l&#39;eau dans un vase qui n&#39;est pas plein, va
+s&#39;attacher de lui-même aux parois du vaisseau, si
+ces parois sont de nature à être mouillées par l&#39;eau ;
+&amp; ce qui prouve la justesse de cette explication,
+c&#39;est que l&#39;adhésion des filets de <i>glace</i> aux parois du
+vase disparoît absolument, quand on a frotté le dedans 
+du vaisseau d&#39;huile, de suif ou de quelqu&#39;autre
+matiere qui s&#39;unit difficilement avec l&#39;eau.
+</p>
+<p>
+L&#39;eau qui se gele à mesure que les parties se rapprochent,
+se dessaisit de l&#39;air qu&#39;elle contient en
+grande quantité; une partie de cet air s&#39;échappe à-peu-près comme l&#39;eau sort d&#39;une éponge mouillée
+que l&#39;on presse.
+</p>
+<p>
+Ce qui reste d&#39;air dans l&#39;eau glacée s&#39;y rassemble
+en différentes bulles ; c&#39;est un air, pour ainsi dire,
+extravasé, dont la masse de <i>glace</i> est entre-coupée.
+</p>
+<p>
+L&#39;air ne sauroit se développer de la sorte sans augmenter 
+son volume ; avant ce développement il étoit
+comme dissous dans l&#39;eau : or on sait que du sel, par
+exemple, dissous dans l&#39;eau, y tient moins de place
+que du sel en masses sensibles.
+</p>
+<p>
+L&#39;air caché dans l&#39;eau &amp; intimement mêlé avec
+elle, y est sans ressort ; en se dégageant il reprend
+son élasticité, autre cause de dilatation.
+</p>
+<p>
+De tout ceci on infere naturellement, que quoiqu&#39;il soit sorti beaucoup d&#39;air de l&#39;eau prête à se geler,
+ce qui reste dégagé &amp; en masse doit y occuper
+plus de place que le tout n&#39;en occupoit quand il y
+étoit dissous, &amp; qu&#39;ainsi le volume de l&#39;eau glacée
+en doit être augmenté.
+</p>
+<p>
+La force qui rassemble l&#39;air en bulles est très-considérable ; elle est absolument la même que la force
+de cohésion qui unit les particules d&#39;eau, &amp; qui est
+très-supérieure à la pesanteur : le ressort qui se rétablit 
+dans l&#39;air à mesure qu&#39;il se dégage, est aussi très actif 
+&amp; très-puissant. De ces deux causes réunies suit
+la rupture des vaisseaux où la <i>glace</i> est contenue.
+</p>
+<p>
+Cette explication, qui est celle d&#39;un très-grand nombre 
+de physiciens, ne laisseroit rien à desirer, si la <i>glace</i> faite avec de l&#39;eau purgée d&#39;air se trouvoit aussi
+pesante que l&#39;eau même, ce qui n&#39;arrive jamais ; mais
+nous avons vû que toute <i>glace</i> contient des bulles d&#39;air,
+quelque soin qu&#39;on ait pris de l&#39;en purger. De plus
+la <i>glace</i> faite avec de l&#39;eau privée d&#39;air autant qu&#39;il
+est possible, est sensiblement plus pesante que la <i>glace</i> ordinaire, ce qui affoiblit beaucoup la difficulté.
+</p>
+<p>
+Ceux qui admettent la matiere congelante, prétendent 
+que cette matiere s&#39;introduisant dans les pores 
+de l&#39;eau, augmente le volume de ce fluide. Il
+semble que cette autre explication ne doit avoir lieu,
+que supposé qu&#39;on ne puisse pas déduire d&#39;ailleurs le
+phénomene dont il est ici question.
+</p>
+<p>
+En l&#39;attribuant seulement en partie à l&#39;air rassemblé 
+en bulles, ne peut-on pas soupçonner en même
+tems que les parties intégrantes de l&#39;eau qui se gele,
+se disposent dans un ordre différent de celui
+qu&#39;elles observoient avant la congelation? Selon
+cette idée, il faudroit reconnoître dans la <i>glace</i> une
+nouvelle sorte d&#39;aggrégation, pour parler le langage
+des Chimistes : ceci au reste n&#39;est pas difficile à concevoir.
+La chaleur qui portée à un certain degré,
+<milestone unit="column" n="2" />
+maintient l&#39;eau dans l&#39;état de liquidité, ne tend pas
+seulement à desunir les parties intégrantes de ce fluide ; 
+elle peut encore altérer facilement la direction
+de leur tendance mutuelle : il ne faudra donc qu&#39;un
+refroidissement pour rendre à ces différentes molécules 
+la liberté de s&#39;arranger conformément à cette
+tendance qui leur est propre. Or pourquoi, en vertu 
+de cette tendance, ces molécules ne s&#39;uniroient-elles 
+pas de maniere qu&#39;en adhérant plus fortement
+les unes aux autres par certaines portions de leurs
+surfaces, elles laisseroient entr&#39;elles d&#39;un autre côté
+des intervalles plus considérables que ceux qui les
+séparoient dans l&#39;état de liquidité? M. de Mairan
+regarde comme une preuve assez forte de tout ce
+qu&#39;on vient d&#39;avancer, la constance des filets de
+<i>glace</i> à s&#39;assembler sous différens angles, principalement 
+sous des angles de 60 degrés : on peut consulter 
+la <i>seconde partie de sa dissertation sur la glace</i>. Un
+plus grand détail sur ce sujet nous meneroit loin, &amp;
+nous devons nous resserrer.
+</p>
+<p>
+Contentons-nous de remarquer, 1°. que l&#39;augmentation 
+de volume de l&#39;eau glacée n&#39;est point
+proprement une suite de l&#39;action immediate du froid ;
+ce n&#39;est que par accident que le froid y contribue,
+&amp; à raison seulement de certaines circonstances particulieres.
+</p>
+<p>
+2°. Que la dilatation de l&#39;air reuni en bulles dans
+la <i>glace</i>, &amp; peut-être aussi une certaine tendance
+propre aux particules intégrantes de l&#39;eau, semblent
+être les principales causes de ce phénomene.
+</p>
+<p>
+3°. Que si on n&#39;observe pas la même chose dans
+les huiles, c&#39;est sans doute par le défaut d&#39;une tendance 
+de cette nature, &amp; parce que l&#39;air qu&#39;elles
+contiennent se dégage &amp; s&#39;échappe avec plus de facilité.
+</p>
+<p>
+4°. Que la matiere congelante paroît inutile pour
+l&#39;explication des phénomenes dont nous avons donné 
+le détail ; qu&#39;ainsi la congelation ne dépend probablement 
+que du refroidissement d&#39;un liquide &amp;
+de la cohésion de ses parties, qui s&#39;accroît toûjours
+à mesure que la chaleur diminue.
+</p>
+<p>
+Selon cette idée, la congelation &amp; le dégel sont
+deux effets beaucoup plus communs qu&#39;on ne pourroit 
+d&#39;abord l&#39;imaginer ; on les découvre dans toute
+la nature : la fonte d&#39;un métal occasionnée par la
+chaleur est un dégel ; la dureté qui survient à ce métal 
+fondu en conséquence du refroidissement de ses
+parties, est une véritable congelation. Nul corps
+n&#39;est essentiellement solide ou fluide : la solidité &amp;
+la fluidité sont deux états différens &amp; successifs d&#39;un
+même corps ; l&#39;eau est une <i>glace</i> fondue par la chaleur ; 
+la <i>glace</i> une eau que le froid a fixée en un corps
+dur : comme tous les corps ne se fondent pas au
+même degré de chaleur, de même aussi tous les liquides 
+ne se gelent pas au même degré de froid. Si
+certains fluides comme le mercure ne se gelent jamais,
+c&#39;est sans doute parce qu&#39;on n&#39;a pas observé
+jusqu&#39;ici un froid suffisant pour les glacer.
+</p>
+<p>
+Nous avons vû à l&#39;<i>article</i> <sc><ref target="head:Gelée" type="search">Gelée</ref></sc>, que la <i>glace</i> se
+formoit dans tous les pays au même degré de froid,
+en faisant abstraction de certaines circonstances que
+nous allons indiquer : cela seul est un grand préjugé
+que la congelation est une suite du simple refroidissement.
+</p>
+<p>
+2°. <i>Des phénomenes de la congélation relativement
+à l&#39;état &amp; aux circonstances où se trouve l&#39;eau qui se
+gele</i>. Ce que l&#39;expérience &amp; l&#39;observation nous apprennent 
+à ce sujet se réduit aux points suivans:
+</p>
+<p>
+1°. L&#39;eau qu&#39;on a fait bouillir ne gele pas plus
+promptement que d&#39;autre eau qui n&#39;a point été altérée 
+par l&#39;ébullition ; on a cru long-tems le contraire 
+sans beaucoup de fondement.
+</p>
+<p>
+2°. Le mouvement translatif de l&#39;eau augmentant
+en quelque maniere sa fluidité, apporte toûjours du
+<pb n="7:681" facs="V7/ENC_7-681.jpeg" />
+<milestone unit="column" n="1" />
+changement à sa congelation. On sait qu&#39;une eau
+dormante, comme celle d&#39;un étang, gele plus facilement 
+&amp; plus promptement que l&#39;eau d&#39;une riviere
+qui coule avec rapidité; il est même assez rare que
+le milieu d&#39;une grande riviere, &amp; ce qu&#39;on appelle
+<i>le fil de l&#39;eau</i>, se glace de lui-même. Si une riviere
+se prend entierement, c&#39;est presque toûjours par la
+rencontre des glaçons qu&#39;elle charrioit, &amp; que divers 
+obstacles auront forcés de se réunir : ces glaçons
+s&#39;amoncelant &amp; s&#39;entassant irrégulierement les uns
+sur les autres, ne forment jamais une <i>glace</i> unie
+comme celle d&#39;un étang.
+</p>
+<p>
+3°. Ceci explique assez naturellement pourquoi
+la Seine qu&#39;on voit assez souvent à Paris geler d&#39;un
+bord à l&#39;autre dans des hyvers moins rudes que celui 
+de 1709, ne fut pas totalement prise cette année-là. La violence même du froid produisit un effet 
+extraordinaire en apparence, en glaçant tout-à-coup &amp; entierement les petites rivieres qui se
+déchargent dans la Seine au-dessus de Paris, que
+leurs glaçons ne purent y être portés, du-moins
+en assez grande quantité. Ceuz qui se formerent
+dans la Seine même s&#39;attacherent trop fortement à
+ses bords ; ainsi elle charria peu, &amp; le milieu de son
+courant, qui, comme nous venons de le dire, ne se
+glace point de lui-même, demeura toûjours libre.
+<i>Hist. de l&#39;acad. des Sciences, année 1709, pag. 9</i>.
+</p>
+<p>
+4°. On a été long-tems en doute si les rivieres
+cemmençoient à se geler par la surface ou par le
+sond, mais cette question n&#39;en est plus une ; il est
+présentement bien sûr qu&#39;elles commencent à se geler 
+comme les autres eaux par la surface. M. l&#39;abbé
+Nollet a demêlé la vérité sur cet article à-travers
+plusieurs apparences séduisantes qui en avoient imposé 
+à d&#39;habiles physiciens. <i>Leçons de Phys. t. IV</i>.
+</p>
+<p>
+5°. L&#39;état de l&#39;air qui touche immédiatement la
+gelée doit être considéré. Un grand vent rend la
+congelation plus difficile, &amp; souvent même l&#39;empêche 
+entierement ; c&#39;est qu&#39;il diminue d&#39;une part
+la violence du froid (<i>voyez</i> <sc><ref target="head:Froid" type="search">Froid</ref></sc>), &amp; que de l&#39;autre 
+il agite l&#39;eau considérablement, celle sur-tout
+d&#39;un étang ou d&#39;une grande riviere. Au contraire
+un petit vent sec est toûjours favorable à la formation 
+de la <i>glace</i>, quand il emporte l&#39;air chaud ou
+moins froid qui étoit sur la surface du liquide, pour
+se mettre à sa place.
+</p>
+<p>
+6°. Le repos sensible tant de la masse d&#39;eau qu&#39;on
+expose à la gelée, que de l&#39;air qui touche immédiatement 
+cette eau, produit un effet qu&#39;il n&#39;étoit
+pas facile de prévoir ; ce double repos empêche
+que l&#39;eau ne se gele, quoiqu&#39;elle ait acquis un degré 
+de froid fort supérieur à celui qui naturellement
+lui sait perdre sa liquidité. De l&#39;eau étant dans cet
+état, vient-elle à éprouver la plus legere agitation
+sensible de la part de l&#39;air, ou de quelqu&#39;autre corps
+environnant, elle se gele dans l&#39;instant. C&#39;est à M.
+Fahrenheit que nous devons la premiere observation 
+de ce phénomene ; c&#39;est lui qui a vû le premier
+avec la plus grande surprise de l&#39;eau refroidie au
+quinzieme degré de son thermometre, ce qui revient 
+à plus de dix au-dessous du zéro de la graduation 
+de M. de Reaumur, se maintenir dans une liquidité 
+parfaite jusqu&#39;au moment où on l&#39;agitoit:
+cette expérience a réussi de même à plusieurs autres
+physiciens curieux de la répéter. Je l&#39;ai faite plusieurs 
+fois à Montpellier pendant les fortes gelées
+de 1755, sur de l&#39;eau exposée à un air parfaitement
+tranquille, &amp; qui s&#39;étoit refroidie au quatrieme degré 
+de l&#39;échelle de M. de Reaumur ; ce qu&#39;il y a de
+bien singulier, c&#39;est que de l&#39;eau ainsi refroidie de
+plusieurs degrés au-dessous du terme de la <i>glace</i>,
+venant à se geler en conséquence de l&#39;agitation
+qu&#39;on lui imprime, fait monter dans le tems qu&#39;elle
+se glace la liqueur du thermometre au degré ordinaire<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de la congelation ; ainsi l&#39;eau diminue de froideur 
+en se gelant, espece de paradoxe qui a besoin
+de toute l&#39;autorité de l&#39;expérience pour pouvoir
+être cru.
+</p>
+<p>
+La vraie cause de ce phénomene est peut-être
+d&#39;une nature à se dérober long-tems à nos recherches.
+On pourroit penser qu&#39;une masse d&#39;eau tranquille 
+ou peu agitée se refroidissant plus régulierement,
+la force d&#39;attraction s&#39;y distribue avec uniformité; 
+qu&#39;ainsi les parties intégrantes de l&#39;eau tendans 
+les unes vers les autres avec une égale force,
+balancent mutuellement leurs efforts : cet équilibre
+contraire à l&#39;union des molécules d&#39;eau, &amp; qui seule 
+entretient la liquidité, doit disparoître à la moindre 
+secousse. Ceci revient assez à l&#39;explication que
+M. de Mairan a donnée de ce phénomene, qui au
+reste n&#39;est point particulier à la congelation. M. Romieu de la societé royale des Sciences de Montpellier, a observé qu&#39;une dissolution de sel de Glauber
+dont il avoit fait évaporer une partie, ne s&#39;étoit
+point crystallisée, tant que le vaisseau qui contenoit 
+cette dissolution avoit été tenu en repos ; mais
+ayant tant-soit-peu agité ce vaisseau, il vit paroître
+à l&#39;instant plusieurs crystaux. Deux effets si parfaitement 
+semblables ne dépendent-ils point d&#39;un même 
+principe qui influe &amp; dans la congelation &amp; dans
+la crystallisation?
+</p>
+<p>
+3°. <i>Des phénomenes de la glace lorsqu&#39;elle est toute
+formée</i>. Examinons maintenant la <i>glace</i> dans son état
+de perfection. M. Boerhaave en décrit exactement les
+principaux caracteres, quand il dit que c&#39;est une espece 
+de verre qui se fondant naturellement &amp; de
+lui-même à une chaleur de 33 degrés du thermometre 
+de Fahrenheit, ne conserve sa solidité que parce
+qu&#39;il est exposé à un degré de froid un peu plus
+grand ; que c&#39;est une masse moins dense que l&#39;eau
+dure, élastique, fragile, transparente, sans odeur,
+insipide, que l&#39;on peut polir en lui donnant différentes 
+figures, <i>&amp;c.</i> Quelques-unes de ces différentes
+propriétés doivent être examinées séparément : n&#39;oublions 
+point qu&#39;il est question de la <i>glace</i> proprement
+dite, de la <i>glace</i> de l&#39;eau.
+</p>
+<p>
+On a déjà beaucoup parlé de l&#39;augmentation de
+volume de l&#39;eau glacée ; il reste à assigner le degré
+précis de cette dilatation : ce degré n&#39;est point uniforme ; 
+tantôt le poids spécifique de l&#39;eau est à celui
+de la <i>glace</i>, comme 19 à 18, tantôt comme 15 à 14,
+quelquefois dans la raison de 9 à 8. En général la
+<i>glace</i> est d&#39;autant plus legere qu&#39;elle contient plus
+de bulles d&#39;air, &amp; que ces bulles sont plus grosses.
+</p>
+<p>
+Selon M. de Mairan, la <i>glace</i> faite avec de l&#39;eau
+purgée d&#39;air, n&#39;excede que d&#39;un vingt-deuxieme le
+volume qui la produit ; ainsi cette <i>glace</i> est sensiblement 
+plus pesante que la <i>glace</i> de l&#39;eau ordinaire,
+&amp; le rapport de leurs gravités spécifiques est quelquefois 
+celui de 99 à 92.
+</p>
+<p>
+Les bulles d&#39;air qui se rencontrent dans la <i>glace</i>
+dès sa premiere formation, ne sont d&#39;abord, comme
+nous l&#39;avons vû, que de la grosseur à-peu-près d&#39;une
+tête d&#39;épingle ; mais à mesure que le froid continue
+ou qu&#39;il augmente, la réunion de ces bulles forme
+des globules plus considérables, qui ont souvent 3
+à 4 lignes de diametre, quelquefois un demi-pouce,
+&amp; même un pouce entier. Dans ces circonstances le
+ressort de l&#39;air contenu dans la <i>glace</i> agit plus fortement 
+pour la dilater : une grosse bulle d&#39;air fait plus
+d&#39;effet qu&#39;un grand nombre de petites dispersées çà
+&amp; là, quoique ces petites jointes ensemble composent 
+une masse égale à celle de la grosse bulle. En
+général les forces expansives de deux bulles d&#39;air
+de figure sphérique sont proportionnelles à leurs diametres.
+M. de Mairan en a donné la véritable raison 
+dans <i>sa dissert. sur la</i> glace, <i>II. part. sect. j. ch. 5</i>.
+</p>
+<p>
+Il suit de-là, &amp; l&#39;expérience le justifie, que le volume<gap type="hyphenpb" />
+<pb n="7:682" facs="V7/ENC_7-682.jpeg" />
+<milestone unit="column" n="1" />
+de la <i>glace</i> doit continuer à augmenter après
+qu&#39;elle s&#39;est formée. Un morceau de <i>glace</i> qui dans
+sa premiere formation n&#39;étoit que d&#39;un quatorzieme
+plus leger que l&#39;eau, fut trouvé au bout de huit
+jours plus leger que ce fluide dans la raison de 12 à
+11: nous devons cette observation à M. de Mairan.
+</p>
+<p>
+La durete de la <i>glace</i> est très grande ; elle surpasse
+considérablement celle du marbre &amp; de plusieurs
+autres corps connus. Il paroît que la <i>glace</i> est d&#39;autant 
+plus forte pour résister à sa rupture ou à son
+applatissement, qu&#39;elle est plus compacte &amp; plus dégagée 
+d&#39;air, ou qu&#39;elle a été formée par un plus
+grand froid &amp; dans des pays plus froids. Les <i>glaces</i>
+du Spitzberg &amp; des mers d&#39;Islande sont si dures,
+qu&#39;il est très-difficile de les rompre avec le marteau:
+voici une preuve bien singuliere de la fermeté &amp;
+de la tenacité de ces <i>glaces</i> septentrionales. Pendant
+le rigoureux hyver de 1740, on construisit à Petersbourg, suivant les regles de la plus élégante architecture,
+un palais de <i>glace</i> de 52 piés 1/2 de longueur,
+sur 16 1/2 de largeur &amp; 20 de hauteur, sans que le
+poids des parties supérieures &amp; du comble qui étoit
+aussi de <i>glace</i>, parût endommager le moins du monde 
+le pié de l&#39;édifice : la Neva riviere voisine, où
+la <i>glace</i> avoit 2 ou 3 piés d&#39;épaisseur, en avoit fourni 
+les matériaux. Pour augmenter la merveille, on
+plaça au-devant du bâtiment six canons de <i>glace</i>
+avec leurs affuts de la même matiere, &amp; deux mortiers 
+à bombe dans les mêmes proportions que
+ceux de fonte. Ces pieces de canon étoient du calibre 
+de celles qui portent ordinairement trois livres 
+de poudre : on ne leur en donna cependant
+qu&#39;un quarteron ; mais on les tira, &amp; le boulet d&#39;une
+de ces pieces perça à 60 pas une planche de deux
+pouces d&#39;épaisseur : le canon dont l&#39;épaisseur étoit
+tout au plus de 4 pouces, n&#39;éclata point par une si
+forte explosion. Ce fait peut rendre croyable ce que
+rapporte Olaüs-Magnus des fortifications de <i>glace</i>,
+dont il assûre que les nations septentrionales savent
+faire usage dans le besoin. M. de Mairan, <i>dissert.
+sur la glace, II. part. iij sect. chap. iij</i>.
+</p>
+<p>
+La <i>glace</i> étant plus le ere que l&#39;eau, peut supporter 
+des poids considérables, lorsqu&#39;elle est elle même
+portée &amp; soûtenue par l&#39;eau. Dans la grande gelée
+de 1683, la <i>glace</i> de la Tamise n&#39;étoit que de onze
+pouces ; cependant on alloit dessus en carrosse.
+On doit observer qu&#39;une <i>glace</i> adhérente à des corps
+solides, comme celle d&#39;une riviere l&#39;est à ses bords,
+doit supporter un plus grand poids que celle qui flotte 
+sur l&#39;eau, ou qui est rompue &amp; felée en plusieurs
+endroits.
+</p>
+<p>
+Ce qu&#39;on peut dire de plus précis sur la froideur
+de la <i>glace</i>, c&#39;est que dans les commencemens le degré 
+qui l&#39;exprime est le trente-deuxieme du thermometre 
+de Fahrenheit, ou le zéro de celui de M. de
+Reaumur. Mais dans la suite la <i>glace</i>, comme tous
+les autres corps solides, prend à peu-près la température 
+du milieu qui l&#39;environne ; elle doit donc
+augmenter de froideur, quand il gele plus fortement,
+&amp; en diminuer, quand la gelée est moindre.
+</p>
+<p>
+La <i>glace</i> est communément moins transparente &amp;
+plus blanchâtre que l&#39;eau dont elle est formée : ce
+qui vient de cette multitude de bulles d&#39;air qui interrompent 
+toûjours la continuité de sa masse. Cet
+air rassemblé en bulles est d&#39;une part beaucoup plus
+rare que les parties propres de l&#39;eau glacée, &amp; de
+l&#39;autre Newton a démontré qu&#39;un corps est opaque,
+quand les vuides que laisse sa matiere propre, sont
+remplis d&#39;une substance dont la densité differe de la
+sienne. Plus les bulles d&#39;air sont grosses, moins la
+<i>glace</i> est transparente. Celle qu&#39;on a faite avec de
+l&#39;eau purgée d&#39;air, autant qu&#39;il est possible, n&#39;est pas
+toûjours également diaphane ; elle l&#39;est quelquefois
+plus que la <i>glace</i> ordinaire, quelquefois aussi elle
+<milestone unit="column" n="2" />
+l&#39;est beaucoup moins ; c&#39;est qu&#39;elle n&#39;est pas privée
+de tout l&#39;air qui y étoit contenu, &amp; que les petites
+bulles presque invisibles qui s&#39;y forment, peuvent
+dans certaines circonstances faire beaucoup d&#39;effet.
+<i>Voyez</i> <sc><ref target="head:Opacité" type="search">Opacité</ref> <i>&amp;</i> <ref target="head:Transparence" type="search">Transparence</ref></sc>.
+</p>
+<p>
+Les <i>glaces</i> du Groënland sont moins transparentes
+que les nôtres : de plus, s&#39;il en faut croire certains
+voyageurs, elles ont une couleur bleue que n&#39;ont
+point celles de notre climat.
+</p>
+<p>
+La réfraction de la <i>glace</i> est un peu moindre que
+celle de l&#39;eau ; elle est d&#39;ailleurs assez réguliere : on
+fait des lentilles de <i>glace</i> qui rassemblent les rayons
+du soleil au point d&#39;allumer &amp; de brûler de la poudre 
+au fort de l&#39;hyver. <i>Voyez</i> <sc><ref target="head:Lentille" type="search">Lentille</ref>, <ref target="head:Miroir-Ardent" type="search">Miroir-Ardent</ref></sc>, <i>&amp;c</i>.
+</p>
+<p>
+Quoique la <i>glace</i> soit un corps solide &amp; très-dur,
+elle est sujette à s&#39;évaporer considérablement ; &amp; ce
+qui est bien digne de remarque, cette évaporation
+est d&#39;autant plus grande &amp; plus prompte, que le froid
+est plus violent. Selon les observations faites à Montpellier en 1709 par feu M. Gauteron, secrétaire de
+la société royale des Sciences de cette ville, la <i>glace</i>
+exposée à l&#39;air libre perdoit alors un quart de son
+poids en vingt-quatre heures ; évaporation que M.
+Gauteron jugea plus considérable que celle de l&#39;eau
+dans un tems moyen entre le chaud &amp; le froid. <i>Mém.
+de l&#39;Acad. 1709, à la fin du volume</i>.
+</p>
+<p>
+M. de Mairan fait dépendre ce phénomene de la
+contexture particuliere de la <i>glace</i>, qui occupant un
+plus grand volume que l&#39;eau, offrant une plus grande 
+superficie, hérissée d&#39;une infinité d&#39;inégalités,
+doit par-là même, nonobstant sa dureté, donner plus
+de prise à la cause générale de l&#39;évaporation. J&#39;ajouterai que la sécheresse de l&#39;air &amp; le vent de nord accompagnent 
+presque toûjours les grandes gelées. Or
+dans ces circonstances l&#39;évaporation est considérable ; 
+un air plus sec est plus disposé à se charger de
+vapeurs, qui s&#39;éleveront d&#39;ailleurs en plus grande
+quantité, quand cet air sera incessamment renouvellé.
+Ceci explique assez naturellement pourquoi
+les liquides qui ne se gelent point, s&#39;évaporent de
+même très-considerablement pendant les grands
+froids.
+</p>
+<p>
+Nous ne parlons point ici de la neige ni de la gelée 
+blanche ; ce sont des especes de <i>glace</i>, dont on
+marque ailleurs les différences d&#39;avec la <i>glace</i> proprement 
+dite. La grêle est une vraie <i>glace</i>, qui n&#39;a
+rien de particulier que les circonstances &amp; le méchanisme 
+de sa formation. <i>Voyez</i> 
+<sc><ref target="head:Neige" type="search">Neige</ref>, <ref target="Gelée blanche" type="search">Gelée blanche</ref>  <i>&amp;</i> <ref target="head:Grêle" type="search">Grêle</ref></sc>.
+</p>
+<p>
+Tout ce que nous avons dit des propriétés de la
+<i>glace</i> de l&#39;eau, ne sauroit guere être appliqué aux
+différentes sortes de <i>glace</i> qui résultent de la congelation 
+des autres liquides. La <i>glace</i> de l&#39;huile d&#39;olive,
+par exemple, est terne, opaque, &amp; fort blanchâtre ;
+celle de l&#39;eau est transparente : la premiere est plus
+dense qu&#39;auparavant ; l&#39;autre est plus rare &amp; plus legere 
+qu&#39;elle n&#39;étoit avant la perte de sa liquidité. Il
+paroît que la dureté est la propriété que convient le
+plus généralement à toutes les especes de <i>glace ;</i> encore 
+ceci doit-il être entendu avec quelque restriction.
+La <i>glace</i> de l&#39;huile d&#39;olive n&#39;est pas dure dans
+les commencemens, mais elle le devient toûjours
+quand le froid continue, &amp; ce n&#39;est qu&#39;alors qu&#39;elie
+est censée avoir acquis toute sa perfection.
+</p>
+<p>
+4°. <i>Des phénomenes de la glace dans sa fonte, &amp; du
+dégel</i>. La <i>glace</i> se fond à un degré de froid un peu
+moindre que celui qui la produit. Ainsi le contact des
+corps voisins suffit pour la fondre, si ces corps sont
+moins froids qu&#39;elle, ou, ce qui est la même chose,
+si leur température actuelle est au-dessous du froid
+de la congelation.
+</p>
+<p>
+Tous les corps solides appliqués sur la <i>glace</i> ne
+sont pas également propres à produire cet effet. Ceux
+<pb n="7:683" facs="V7/ENC_7-683.jpeg" />
+<milestone unit="column" n="1" />
+qui la touchent en un plus grand nombre de points,
+la fondent beaucoup plus vîte que les autres, tout
+le reste étant égal d&#39;ailleurs. Ainsi la <i>glace</i> fond beaucoup 
+plus vîte sur une assiette d&#39;argent que sur la
+paume de la main.
+</p>
+<p>
+M. Haguenot, de la société royale des Sciences de
+Montpellier, répéta &amp; vérifia plusieurs fois cette
+expérience en 1729; il en fit en même tems plusieurs
+autres dans ce goût, dont les résultats ne sont pas
+moins curieux. Il trouva, par exemple, que la <i>glace</i>
+fondoit plus vîte sur le cuivre que sur aucun autre
+métal. <i>Assemblée publique de la S. R. des Sciences de
+Montpellier, du 22 Décembre 1729</i>.
+</p>
+<p>
+L&#39;efficacité des fluides pour fondre la <i>glace</i> n&#39;est
+pas moins puissante que celle des solides. La <i>glace</i>
+redevient plûtôt liquide dans l&#39;eau que dans l&#39;air à la
+même température, &amp; plus promptement dans de
+l&#39;eau tiede que près du feu, à une distance où l&#39;on
+auroit peine à tenir la main. Ajoûtons qu&#39;elle fond
+aussi plus aisément dans l&#39;air subtil que dans l&#39;air
+grossier. Selon les observations de M. de Mairan,
+un morceau de <i>glace</i> qui est six minutes vingt-quatre
+secondes à fondre à l&#39;air libre, est absolument fondu
+en quatre minutes dans la machine du vuide. On
+comprend sans peine que l&#39;air contenu dans la <i>glace</i>
+fait essort pour en desunir &amp; en séparer les parties:
+or cet effort est toûjours plus considérable dans le
+vuide, où il n&#39;est point balancé par la pression de
+l&#39;air extérieur environnant.
+</p>
+<p>
+La <i>glace</i> se fond beaucoup plus lentement qu&#39;elle
+ne s&#39;est formée. La matiere du feu trouve sans doute
+plus de difficulté à séparer de petites masses liées par
+une forte cohésion, qu&#39;a s&#39;échapper d&#39;un liquide qui
+se gele. Quoi qu&#39;il on soit, le fait est constant : de
+l&#39;eau qui se sera gelée en cinq ou six minutes, ne reprendra
+sa liquidité qu&#39;au bout de quelques heures,
+quelquefois même de quelques jours, dans un lieu
+dont la temperature est au-dessous du terme de la
+congelation, &amp; où cette eau ne se seroit jamais glacée 
+d&#39;elle-même. C&#39;est sur ceci qu&#39;est fondée l&#39;utile
+invention des glacieres ; car ce seroit une erreur de
+s&#39;imaginer qu&#39;à l&#39;endroit le plus profond du creux
+qu&#39;on fait en terre pour conserver la <i>glace</i>, le froid
+surpasse toûjours le degré de la congelation : bien
+loin de-là, l&#39;eau qu&#39;on y porteroit s&#39;y maintiendroit
+presque toûjours liquide ; mais il suffit que la température 
+des glacieres soit au-moins un peu au-dessus
+du terme de la congelation : par-là les grosses masses
+de <i>glace</i> qu&#39;on y a entassées ne se fondent que très lentement,
+&amp; il en reste toûjours assez pour notre
+usage.
+</p>
+<p>
+La destruction de la <i>glace</i> offre quelques-uns des
+phénomenes remarqués dans sa formation ; ainsi l&#39;on
+retrouve les filets de <i>glace</i> qui subsistent encore,
+quand les intervalles qui les séparoient sont dégelés.
+Les angles de soixante degrés reparoissent aussi dans
+ces circonstances, mais toutes ces apparences sont
+rares dans un morceau de <i>glace</i> un peu épais. Au
+reste l&#39;ordre qui s&#39;observe dans la fonte de la <i>glace</i>,
+n&#39;est point à tous égards contraire à celui de sa formation.
+La <i>glace</i> se forme par les bords &amp; par la surface 
+de l&#39;eau : elle commence de même à se détruire
+par ses bords, par ses pointes, ses angles solides, &amp;
+ensuite par toute sa surface exposée à l&#39;air.
+</p>
+<p>
+La <i>glace</i> se fond naturellement par la diminution
+du froid de l&#39;atmosphere, quand la liqueur du thermometre 
+qui s&#39;étoit abaissée au terme de la congelation 
+&amp; au-dessous, remonte de quelques degrés
+au-dessus. Ce relâchement du grand froid, cet adoucissement 
+qui résout les <i>glaces</i> &amp; les neiges dans tout
+un pays est ce qu&#39;on appelle proprement <i>dégel. Voyez</i>
+<sc><ref target="head:Dégel" type="search">Dégel</ref> <i>&amp;</i> <ref target="head:Gelée" type="search">Gelée</ref></sc>.
+</p>
+<p>
+5°. <i>De la glace artificielle par le moyen des sels</i>. L&#39;art
+qui imite si souvent la nature, a trouvé le moyen
+<milestone unit="column" n="2" />
+de se procurer de la <i>glace</i> semblable à celle qui est
+formée par les causes générales, &amp; dont nous venons 
+de décrire les propriétés. Rien de plus aisé que
+d&#39;avoir en peu de tems au fort de l&#39;été de cette <i>glace</i>
+artificielle. Nous avons vû à l&#39;<i>article</i> <sc><ref target="head:Froid" type="search">Froid</ref></sc>, qu&#39;on
+plaçoit pour cet effet dans un vaisseau de capacité &amp;
+de figure convenable une bouteille remplie de l&#39;eau
+qu&#39;on vouloit glacer ; qu&#39;on appliquoit ensuite autour 
+de cette bouteille de la <i>glace</i> pilée ou de la neige 
+mêlée avec du salpetre ou du sel commun, ou
+avec quelqu&#39;autre sel ; que ce mélange entrant de
+lui-même en fusion, l&#39;eau de la bouteille se refroidissoit 
+de plus en plus à mesure qu&#39;il se fondoit : &amp;
+qu&#39;enfin elle se convertissoit en <i>glace ;</i> qu&#39;on pouvoit
+hâter la fusion réciproque de la <i>glace</i> &amp; des sels, &amp;
+la congelation de l&#39;eau qui en est une suite, en plaçant 
+immédiatement sur le feu le vaisseau qui contient 
+le mélange.
+</p>
+<p>
+Nous avons fait voir que c&#39;étoit une propriété
+commune aux sels de toute espece, que celle de fondre 
+la <i>glace</i> &amp; de la refroidir en la fondant ; que non seulement 
+les sels qui sont sous forme seche, mais
+encore que les esprits acides, tels que ceux de nitre,
+de sel, <i>&amp;c.</i> les esprits ardens, comme l&#39;esprit-de-vin, <i>&amp;c.</i> opéroient le même effet ; que toutes ces
+substances mêlées avec la <i>glace</i> donnoient des congelations 
+artificielles, qui, selon la nature &amp; la dose
+des matieres qu&#39;on avoit employées, différoient les
+unes des autres &amp; par la force &amp; par la promptitude.
+Le sel marin, par exemple, est plus efficace que le
+salpêtre, l&#39;esprit de nitre est plus actif, &amp; produit un
+degré de froid plus considérable que l&#39;esprit de sel,
+<i>&amp;c.</i> Nous ne reviendrons plus sur ces différens objets,
+pour ne pas tomber dans des redites inutiles.
+</p>
+<p>
+On ne voit rien dans la <i>glace</i> artificielle, qui la
+distingue de la <i>glace</i> naturelle formée rapidement ;
+il ne paroît point qu&#39;elle se charge des particules
+des sels qu&#39;on employe, qui en effet auroient bien
+de la peine à pénétrer le vaisseau qui la contient.
+</p>
+<p>
+Si au lieu d&#39;appliquer autour d&#39;une bouteille pleine 
+d&#39;eau un mélange de sel &amp; de <i>glace</i>, on remplit la
+bouteille de ce même mélange, &amp; qu&#39;on la plonge
+ainsi dans de l&#39;eau, une partie de cette eau se glacera 
+autour de la bouteille.
+</p>
+<p>
+Que le mélange soit autour de l&#39;eau, ou que l&#39;eau
+environne le mélange, la chose est très-indifférente, quant à l&#39;effet qui doit s&#39;ensuivre ; l&#39;essentiel est
+que le mélange soit plus froid que l&#39;eau d&#39;un certain
+nombre de degrés : car alors il la convertira facilement 
+en <i>glace</i> par la communication d&#39;une partie de
+sa froideur.
+</p>
+<p>
+Ce qu&#39;on observe dans le cas où l&#39;eau entoure le
+mélange, arrive précisément de la même maniere,
+lorsqu&#39;on fait dégeler des fruits dans de l&#39;eau médiocrement 
+froide ou dans de la neige qui se fond actuellement ; 
+car il se forme très-promptement autour de
+leur peau une croûte de glace dure &amp; transparente,
+&amp; plus ou moins épaisse, selon la grosseur &amp; la qualité 
+du fruit.
+</p>
+<p>
+Nous avons remarqué à l&#39;<i>article</i> <sc><ref target="head:Gelée" type="search">Gelée</ref></sc>, que les
+fruits ou les membres gelés étoient perdus sans ressource,
+si on les faisoit dégeler trop promptement.
+C&#39;est la raison pour laquelle on employe ici l&#39;eau
+médiocrement froide ou la neige, plûtôt que l&#39;eau
+chaude, qui par la fonte trop subite qu&#39;elle produiroit,
+détruiroit absolument l&#39;organisation qu&#39;on veut
+conserver. <i>Voyez</i> <sc><ref target="head:Gelée" type="search">Gelée</ref></sc>.
+</p>
+<p>
+On a cherché long-tems les moyens de se procurer 
+de la <i>glace</i> artificielle par les sels tout seuls, sans
+le secours d&#39;une <i>glace</i> étrangere. Voici comme on y
+est enfin parvenu. Nous avons parlé ailleurs (<i>voyez</i>
+<sc><ref target="head:Froid" type="search">Froid</ref></sc>) de la propriété qu&#39;ont les sels, principalement 
+le sel ammoniac, de refroidir l&#39;eau, où ils sont
+dissous sans la glacer. Si donc on a de l&#39;eau déjà froide<gap type="hyphenpb" />
+<pb n="7:684" facs="V7/ENC_7-684.jpeg" />
+<milestone unit="column" n="1" />
+à un degré voisin de la congelation, il sera facile
+d&#39;en augmenter la froideur de plusieurs degrés, en y
+faisant dissoudre un tiers de sel ammoniac. Ce mélange 
+servira à rendre plus froide une seconde masse
+d&#39;eau déjà refroidie au degré où l&#39;étoit d&#39;abord la
+premiere qu&#39;on a employée. On fera encore dissoudre 
+du sel ammoniac dans cette nouvelle eau. En
+continuant ce procédé, &amp; en employant ainsi des
+masses d&#39;eau successivement refroidies, on aura enfin 
+un mélange de sel &amp; d&#39;eau beaucoup plus froid
+que la <i>glace ;</i> d&#39;où il suit évidemment que si on plonge 
+dans ce mélange une bouteille d&#39;eau pure moins
+froide que la <i>glace</i>, cette eau s&#39;y gelera. Nous avons
+dit qu&#39;il falloit pour cette expérience de l&#39;eau déjà
+voisine de la congelation. Ainsi ce moyen n&#39;est pas
+praticable en tout lieu &amp; en toute saison ; il ne laisse
+pourtant pas de pouvoir devenir utile en bien des
+occasions. C&#39;est à M. Boerhaave qu&#39;on doit cette
+decouverte. <i>Voyez sa chimie</i> de igne, <i>exp. jv. cor. 4</i>.
+</p>
+<p>
+Ne pourroit-on pas se procurer de la <i>glace</i> artificielle 
+sans sels &amp; sans <i>glace</i>? Ce qui est constant, c&#39;est
+qu&#39;on rafraîchit l&#39;eau en l&#39;exposant à un courant
+d&#39;air dans un vaisseau construit d&#39;une terre poreuse,
+ou dans une bouteille enveloppée d&#39;un linge mouille.
+C&#39;est ce qu&#39;on pratique avec succès en Egypte, à la
+Chine, au Mogol, &amp; dans d&#39;autres pays. Si l&#39;eau
+étoit déjà voisine de la congelation, ne pourroit-elle 
+pas se geler par ce moyen? Cette idée qui est de
+M. de Mairan, merite d&#39;être suivie.
+</p>
+<p>
+Dans toutes les expériences précédentes, l&#39;eau soûmise 
+à l&#39;action de la gelée étoit pure &amp; sans aucun
+mélange. De l&#39;eau mêlée avec quelque corps étranger, soit solide, soit fluide, présente dans sa congelation 
+d&#39;autres phenomenes.
+</p>
+<p>
+L&#39;eau salée se gele plus difficilement que l&#39;eau
+pure ; il faut pour la glacer un froid supérieur au
+degré de la congelation, &amp; qui excede d&#39;autant plus
+ce degré, que l&#39;eau est plus chargée de sels. La <i>glace</i>
+d&#39;eau salée est moins dure que la <i>glace</i> ordinaire ; elle
+est plus chargée de sel au centre qu&#39;à l&#39;extérieur : ce
+milieu même trop charge de sel, ou ne se gele point,
+on ne prend que peu de consistance.
+</p>
+<p>
+Il en est de même de l&#39;eau qu&#39;on a mêlée avec de
+l&#39;esprit-de-vin extremement rectifie. Ce mélange se
+gele avec peine, &amp; on voit toûjours au milieu de la
+masse de <i>glace</i> l&#39;esprit-de-vin sous sa forme liquide.
+Dans l&#39;un &amp; dans l&#39;autre exemple l&#39;eau se sépare plus
+ou moins parfaitement des particules de sel ou de
+celles de l&#39;esprit de vin.
+</p>
+<p>
+Il seroit difficile de ne pas appercevoir ici un rapport 
+marqué entre la congelation de l&#39;eau mêlée
+avec quelqu&#39;autre substance, &amp; la congelation des
+liquides différens de l&#39;eau, tels que le vin, le vinaigre,
+<i>&amp;c.</i> Ces liquides ne sont eux-mêmes que de
+l&#39;eau combinée avec des matieres salines ou huileuses.
+Que l&#39;art ou la nature ayent formé ces mélanges,
+le même effet doit avoir lieu dans leur congelation 
+&amp; dans la séparation de l&#39;eau d&#39;avec les substances 
+qui lui étoient unies.
+</p>
+<p>
+L&#39;eau des mares, qui est souvent mêlée avec l&#39;urine 
+des animaux, avec les parties grasses ou salines
+des matieres tant animales que végétales, qui s&#39;y
+sont pourries ; cette eau, dis-je, lorsqu&#39;elle se glace,
+represente des figures très-singulieres, que l&#39;imagination 
+rend encore plus merveilleuses : il n&#39;est pas
+rare d&#39;y voir des especes de dentelles, de figures d&#39;arbres 
+ou d&#39;animaux, <i>&amp;c.</i> Des auteurs décides pour le
+merveilleux vont beaucoup plus loin ; ils assûrent
+que la lessive des cendres d&#39;une plante venant à se
+glacer, en représente fidelement l&#39;image. C&#39;est ici la
+fameuse <i>palingenesie</i> ou régénération des anciens chimistes,
+chimere trop décriée pour qu&#39;on s&#39;applique
+sérieusement à en montrer l&#39;absurdité.
+</p>
+<p>
+L&#39;exposition que nous venons de faire des phénomenes<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de la <i>glace</i> renferme à-peu près tout ce qu&#39;il
+y a de plus essentiel dans cette matiere. Rien d&#39;interessant 
+n&#39;a été omis ; nous pourrions plûtôt craindre
+le reproche d&#39;avoir donné trop d&#39;étendue à cet article,
+mais l&#39;importance du sujet sera notre excuse, le
+détail des faits nous a d&#39;ailleurs bien plus occupés
+que la recherche des causes ; les vrais philosophes
+n&#39;auront garde de nous en savoir mauvais gre. On
+trouvera dans la dissertation de M. de Mairan des
+conjectures ingénieuses sur les causes de plusieurs
+phénomenes particuliers que nous avons laissés sans
+explication. La matiere subtile que cet habile physicien 
+a mise en oeuvre, est moins liée qu&#39;on ne pourroit 
+d&#39;abord le penser, au fond de son systeme, auquel 
+il ne seroit pas difficile de donner, s&#39;il le falloit,
+un air tout-à-sait newtonien.
+</p>
+<p>
+La <i>glace</i> doit être considérée par rapport à nos
+besoins &amp; à l&#39;usage qu&#39;on en fait journellement dans
+les Sciences &amp; dans les Arts. Combien de boissons
+rafraîchissantes ne nous procure-t-elle pas, secours
+que la nature sembloit nous avoir entierement refusés?
+La Medecine employe avec succès quelques unes 
+de ces boissons rafraîchissantes, l&#39;eau à la <i>glace</i>
+sur-tout, dans plusieurs cas. Le chimiste se sert de la
+<i>glace</i> pour rectifier les esprits ardens, pour concentrer 
+le vinaigre, pour séparer les differentes substances 
+qui entrent dans la composition des eaux minérales,
+<i>&amp;c.</i> L&#39;anatomiste, en faisant geler certaines
+parties du corps humain, a quelquefois découvert
+des structures cachées, invisibles dans l&#39;erat naturel.
+Nous ne faisons qu&#39;indiquer tous ces différens usages,
+expliqués avec plus de détail dans plusieurs endroits 
+de ce Dictionnaire. Il suffit d&#39;avoir sait remarquer 
+que la <i>glace</i>, loin d&#39;être pour les Philosophes un
+objet de pure curiosité, peut beaucoup fournir à
+cette physique pratique, qui dédaignant les spéculations 
+steriles, ramene tout à nos besoins. M. de
+Mairan, <i>dissert. sur la glace ;</i> Musschenbroek, <i>tentat</i>.
+&amp; <i>essais de Physique ;</i> Nollet, <i>leçons de Physique, tome 
+IV</i>. Boerhaave, <i>chim. tract. de aqua ;</i> Hamberger,
+<i>élement. physic.</i> &amp;c. <i>Article de M. <sc>de Ratte</sc>, auteur
+du mot</i> <sc><ref target="head:Froid" type="search">Froid</ref></sc>, <i>&amp; autres</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

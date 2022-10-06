@@ -1,0 +1,187 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29297" id="52:116" vol="7">
+<index type="head" value="GÉNÉALOGIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist." />
+<index type="normclass" value="Histoire" />
+<index type="englishclass" value="History" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="s.f." />
+<head>GÉNÉALOGIE</head>
+<p>
+GÉNÉALOGIE, s. f. (<i>Hist.</i>) mot tiré du grec, &amp;
+qui n&#39;a que la terminaison françoise. il est composé
+de <foreign lang="greek">γόνος</foreign>, <i>race, lignée</i>, &amp; de <foreign lang="greek">λόγος</foreign> <i>discours, traité</i>.
+</p>
+<p>
+On entend ordinairement par <i>généalogie</i>, une suite 
+&amp; dénombrement d&#39;ayeux, ou une histoire sommaire 
+des parentés &amp; alliances d&#39;une personne ou
+d&#39;une maison illustre, tant en ligne directe qu&#39;en ligne 
+collatérale. <i>Voyez</i> 
+<sc><ref target="head:Ligne directe" type="search">Ligne directe</ref>, <ref target="head:Collatéral" type="search">Collatéral</ref>, <ref target="head:Degré" type="search">Degré</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+Il faut prouver sa noblesse par sa <i>généalogie</i>, quand
+on entre dans des ordres nobles &amp; militaires, ou
+dans certains chapitres, &amp; c&#39;est ce qu&#39;on appelle
+<i>faire ses preuves</i>. On est aussi quelquefois obligé de
+faire apparoir de sa <i>généalogie</i> dans un procès où il
+s&#39;agit de succession. <i>Voyez</i> <sc><ref target="head:Preuves" type="search">Preuves</ref> <i>&amp;</i> <ref target="head:Naissance" type="search">Naissance</ref></sc>.
+</p>
+<p>
+On forme d&#39;une <i>généalogie</i> une espece d&#39;arbre.
+<i>Voyez l&#39;article suivant</i>.
+</p>
+<p>
+L&#39;etude des <i>généalogies</i> est d&#39;une extrème importance 
+pour l&#39;histoire ; outre qu&#39;elles servent à distinguer 
+les personnages historiques du même nom &amp; de
+<br>MVO-  = <FONT COLOR="#CC3300">perionnages </FONT> ENCFREQ = 3 <br>
+même famille, elles montrent les liaisons de parenté,
+les successions, les droits, les prétentions. Mais
+il faut être en garde contre les absurdités de certains
+historiens, qui par adulation font remonter jusqu&#39;aux
+tems héroïques, l&#39;origine des maisons ou des princes 
+en faveur de qui ils écrivent ; comme il arriva à
+un auteur espagnol, qui vouloit faire la cour à Philippe II. Il le faisoit descendre en ligne directe d&#39;Adam, depuis lequel jusqu&#39;à ce prince, il comptoit
+cent dix-huit générations sans lacune ou interruption.
+Il n&#39;est guere de nation qui n&#39;ait ses fables à
+cet égard.
+</br></br></p>
+<p>
+Si l&#39;on avoit la <i>généalogie</i> exacte &amp; vraie de chaque 
+famille, il est plus que vraissemblable qu&#39;aucun
+homme ne seroit estimé ni méprisé à l&#39;occasion de sa
+naissance. A peine y a-t-il un mendiant dans les rues
+qui ne se trouvât descendre en droite ligne de quelque<gap type="hyphenpb" />
+<pb n="7:549" facs="V7/ENC_7-549.jpeg" />
+<milestone unit="column" n="1" />
+homme illustre, ou un seul noble élevé aux
+plus hautes dignités de l&#39;état, des ordres &amp; des chapitres,
+qui ne découvrit au nombre de ses ayeux,
+quantité de gens obscurs. Supposé qu&#39;un homme de
+la premiere qualité, plein de sa haute naissance, vit
+passer en revûe sous ses yeux, toute la suite de
+ses ancêtres, à-peu-près de la même maniere que
+Virgile fait contempler à Enée tous ses descendans,
+de quelles différentes passions ne seroit-il pas agité,
+lorsqu&#39;il verroit des capitaines &amp; des pastres, des
+ministres d&#39;état &amp; des artisans, des princes &amp; des
+goujats, se suivre les uns les autres, peut-être d&#39;assez
+près, dans l&#39;espace de quatre mille ans? De quelle
+tristesse ou de quelle joie son coeur ne seroit-il pas
+saisi à la vûe de tous les jeux de la fortune, dans une
+décoration si bigarrée de haillons &amp; de pourpre,
+d&#39;outils &amp; de sceptres, de marques d&#39;honneur &amp;
+d&#39;opprobre? Quel flux &amp; reflux d&#39;espérances &amp; de
+craintes, de transports de joie &amp; de mortification,
+n&#39;essuyeroit-il pas, à-mesure que sa <i>généalogie</i> paroitroit 
+brillante ou ténébreuse? Mais que cet homme 
+de qualité, si fier de ses ayeux, rentre en lui-même,
+&amp; qu&#39;il considere toutes ces vicissitudes d&#39;un
+oeil philosophique, il n&#39;en sera point altéré. Les
+générations des mortels, alternativement illustres
+&amp; abjectes, s&#39;effacent, se confondent, &amp; se perdent
+comme les ondes d&#39;un fleuve rapide ; rien ne peut
+arrêter le tems qui entraine après lui tout ce qui paroît 
+le plus immobile, &amp; l&#39;engloutit à jamais dans
+la nuit éternelle. (<i>D. J.</i>)
+</p>
+<p>
+Quand les familles modernes remontent jusqu&#39;au
+tems des premieres croisades, &amp; qu&#39;à partir de-là
+elles prennent pour tige un homme déjà illustre ou
+de quelque considération, leur <i>généalogie</i> peut être
+regardée comme respectable. On peut s&#39;aider sur ces
+matieres des <i>généalogies</i> anciennes de Claude de
+l&#39;Isle, &amp; d&#39;un livre du P. Buffier, intitulé <i>les souverains 
+de l&#39;Europe</i>, &amp; pour la maison de France en
+particulier, de l&#39;histoire généalogique qu&#39;en a donné 
+M. le Gendre de Saint-Aubin.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

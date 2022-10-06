@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29327" id="52:131" vol="7">
+<index type="head" value="GENESE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théolog." />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.f." />
+<head>GENESE</head>
+<p>
+GENESE, s. f. (<i>Théolog.</i>) premier livre de l&#39;ancien 
+testament où la création &amp; l&#39;histoire des premiers 
+patriarches est écrite.
+</p>
+<p>
+Le livre de la <i>Genese</i> est à la tête du Pentateuque,
+&amp; Moyse en est l&#39;auteur. Quelques-uns croyent qu&#39;il
+l&#39;a écrit avant la sortie d&#39;Egypte ; mais il est plus
+vraissemblable qu&#39;il la composé depuis la promulgation 
+de la loi. Il comprend l&#39;histoire de 2369 ans ou
+environ, qui s&#39;étendent depuis le commencement
+du monde jusqu&#39;à la mort de Joseph. Il est défendu
+chez les Juifs de lire les premiers chapitres de la <i>Genese</i> &amp; ceux d&#39;Ezéchiel avant l&#39;âge de trente ans.
+<i>Voyez</i> <sc><ref target="head:Bible" type="search">Bible</ref>, <ref target="head:Écriture" type="search">Écriture</ref></sc>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

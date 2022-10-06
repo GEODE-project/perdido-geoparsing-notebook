@@ -1,0 +1,340 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28590" id="51:2" vol="7">
+<index type="head" value="FURIES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Myth." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="s.f.pl." />
+<head>FURIES</head>
+<p>
+FURIES, s. f. pl. (<i>Myth.</i>) divinités infernales imaginées 
+par la Fable pour servir de ministres à la vengeance 
+des dieux contre les méchans, &amp; pour exécuter 
+sur eux les sentences des juges des enfers. Expliquons ici l&#39;origine des <i>furies</i>, leurs noms, leur
+emploi, leur caractere, le culte qu&#39;on leur a rendu,
+&amp; les figures sous lesquelles on les a représentées.
+</p>
+<p>
+Selon Apollodore, les <i>furies</i> avoient été formées
+dans la mer, du sang qui sortit de la plaie que Saturne avoit fait à son pere Coelus : Hésiode qui les rajeunit 
+d&#39;une génération, les fait naître de la Terre,
+qui les avoit conçûes du sang de Saturne : cependant 
+le même poëte dit ailleurs, qu&#39;elles étoient filles
+de la Discorde, &amp; qu&#39;elles étoient nées le cinquieme
+de la Lune, assignant à un jour que les Pythagoriciens croyoient consacré à la Justice, la naissance des
+déesses qui devoient la faire rendre avec la derniere
+rigueur. Eschyle &amp; Lycophron prétendent que les
+<i>furies</i> étoient filles de la Nuit &amp; de l&#39;Achéron : Sophocle tire leur origine de la Terre &amp; des Ténebres ;
+Epyménide veut qu&#39;elles soient soeurs de Vénus &amp;
+des Parques, &amp; filles de Saturne &amp; d&#39;Evonyme:
+d&#39;autres enfin assûrent qu&#39;elles devoient leur naissance 
+à Pluton &amp; à Proserpine. Ainsi chacun, en suivant
+en cela les traditions de son tems &amp; de son pays, a
+donné à ces divinités les parens qui paroissoient le
+mieux convenir à leur caractere : mais la véritable
+origine de ces déesses se doit plus vraissemblablement
+attribuer à l&#39;idée naturelle qu&#39;ont eue les hommes,
+qu&#39;il devoit y avoir après cette vie des châtimens de
+même que des récompenses : c&#39;est sans doute sur cette 
+idée que furent formés l&#39;Enfer &amp; les champs Elisées des poëtes ; &amp; comme on y établit des juges,
+pour rendre à chacun la justice qu&#39;il méritoit, on
+�imagina des <i>furies</i> pour leur servir de ministres, &amp;
+exécuter les sentences qu&#39;ils portoient contre les
+scélérats.
+</p>
+<p>
+Si les anciens ont varié sur l&#39;origine des déesses
+infernales, ils n&#39;ont pas été plus uniformes sur leur
+nombre : cependant il paroît qu&#39;ils en ont admis ordinairement 
+trois, Tysiphone, Mégere, &amp; Alecto ;
+&amp; ces noms, qui signifient <i>carnage, envie, trouble perpétuel</i>, leur conviennent parfaitement. Virgile suppose 
+plus de trois <i>furies ;</i> car il parle d&#39;elles en ces
+termes, <i>agmina saeva sororum</i>, la troupe des cruelles
+soeurs ; il comprend même les harpies au nombre
+des <i>furies</i>, puisqu&#39;il appelle Céléno, <i>la plus grande
+des furies, furiarum maxima</i>. Plutarque, au contraire,
+ne reconnoît qu&#39;une <i>furie</i>, qu&#39;il nomme <i>Adrastie</i>,
+fille de Jupiter &amp; de la Nécessité; &amp; c&#39;étoit elle, selon 
+cet auteur, qui étoit le seul ministre de la vengeance 
+des dieux.
+</p>
+<p>
+Outre le nom de <i>furies</i> que les Latins donnoient à
+ces déesses vengeresses, ils leur donnoient aussi le
+nom de <i>poenoe</i>, témoin ce vers de Virgile:
+<lg>
+</lg></p>
+<p>
+<i>Verberibus saevo cogunt sub judice poenoe</i>.
+Les Grecs les appelloient <i>Erynnies</i>, parce que, suivant 
+la remarque de Pausanias, <foreign lang="greek">ἐρινύειν</foreign> signifie <i>tomber en fureur:</i> les Sicyoniens les nommoient <i>déesses
+respectables</i>, &amp; les Athéniens, <i>manies:</i> enfin après qu&#39;<gap type="hypheneol" />
+Oreste les eut appaisées par des sacrifices, on les appella 
+<i>Euménides</i>, ou <i>bien-faisantes. Voyez</i> <sc><ref target="head:Euménides" type="search">Euménides</ref></sc>.
+</p>
+<p>
+Les poëtes grecs &amp; latins donnerent souvent aux
+<i>furies</i> des épithetes qui marquent ou leur caractere,
+ou leur habillement, ou les serpens qu&#39;elles portoient
+au lieu de cheveux, ou les lieux où elles étoient honorées : c&#39;est ainsi qu&#39;Ovide les appelle <i>les déesses de
+Paleste, Palestinas deas</i>, parce que ces déesses avoient
+un temple à Paleste en Epire.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Il n&#39;est pas difficile de comprendre à-présent quel
+étoit leur emploi. L&#39;antiquité les a toûjours regardées 
+comme des déesses inexorables, dont l&#39;unique
+�occupation étoit de punir le crime, non-seulement
+dans les Enfers, mais même dès cette vie, poursuivant 
+sans relâche les criminels, soit par des remords
+qui ne leur donnoient aucun repos, soit par des visions 
+terribles, qui leur faisoient souvent perdre le
+sens.
+</p>
+<p>
+Il faudroit copier les poëtes, principalement Euripide, Sophocle, &amp; Séneque, si on vouloit rapporter 
+tous les traits dont ils se servent pour exprimer
+dans quel excès de fureur elles jettoient ceux qu&#39;elles 
+tourmentoient. On sait avec quelle beauté Virgile peint le desordre que produisit une de ces <i>furies</i> à
+la cour du roi Latinus : ce que fit Tysiphone à l&#39;égard 
+d&#39;Etéocle &amp; de Polynice, n&#39;est ignoré que de
+ceux qui n&#39;ont point lû la Thébaïde de Stace. Ovide
+représente avec la même vivacité le ravage que fit
+à Thebes la <i>furie</i> envoyée par Junon pour se venger
+d&#39;Athamas, &amp; ce que fit endurer à Isis une autre <i>furie</i> que la même Junon avoit suscitée pour la persécuter : mais de tous ceux que ces implacables déesses 
+infernales ont poursuivis, personne n&#39;a été un
+exemple plus éclatant de leur vengeance, que le
+malheureux Oreste. Les théatres de la Grece ont
+mille fois retenti des plaintes de ce parricide, qu&#39;elles 
+poursuivoient avec tant d&#39;acharnement.
+</p>
+<p>
+Les <i>furies</i> étoient employées non-seulement lorsqu&#39;il falloit punir les coupables, mais aussi quand il
+s&#39;agissoit de châtier les hommes par des maladies,
+par la guerre, &amp; par les autres fléaux de la colere
+céleste. Alecto passoit en particulier pour la mere de
+la guerre, comme Stace l&#39;appelle ; il falloit bien une
+<i>furie</i> pour inspirer aux hommes l&#39;idée de s&#39;entre-détruire,
+&amp; l&#39;art funeste d&#39;y parvenir. Mais Cicéron
+rapporte à un trait de morale fort judicieux, toutes
+les différentes fonctions des <i>furies</i>.
+<blockquote> 
+« Ne vous imaginez 
+pas, dit-il, que les impies &amp; les scélérats
+soient tourmentés par les <i>furies</i> qui les poursuivent
+avec leurs torches ardentes : les remords qui suivent 
+le crime, sont les véritables <i>furies</i> dont parlent 
+les poëtes ».
+</blockquote>
+Telle étoit aussi l&#39;opinion des
+autres philosophes de l&#39;antiquité.
+</p>
+<p>
+Cependant, comme les peuples ne sont pas philosophes,
+des déesses aussi redoutables que les <i>furies</i>
+s&#39;attirerent un culte particulier. En effet, le respect
+qu&#39;on leur portoit étoit si grand, qu&#39;on n&#39;osoit presque 
+les nommer, ni jetter les yeux sur leurs temples.
+On regarda comme une impiété, si nous en
+croyons Sophocle, la démarche que fit OEdipe, lorsqu&#39;allant à Athenes en qualité de suppliant, il se retira 
+dans un bois qui leur étoit consacré; &amp; on l&#39;obligea,
+avant que d&#39;en sortir, d&#39;appaiser ces déesses
+par un sacrifice, dont ce poëte &amp; Théocrite nous
+ont laissé la description.
+</p>
+<p>
+Comme la crainte avoit été la mesure du culte
+qu&#39;on rendoit aux divinités, &amp; qu&#39;il n&#39;y en avoit
+aucune qui fût si redoutée que les <i>furies</i>, on n&#39;avoit
+rien oublié pour les appaiser, lorsqu&#39;on les croyoit
+irritées ; &amp; c&#39;est par ce motif qu&#39;elles avoient des
+temples dans plusieurs endroits de la Grece.
+</p>
+<p>
+Les Sicyoniens, au rapport de Pausanias, leur sacrifioient 
+tous les ans, au jour de leur fête, des brebis 
+pleines, &amp; leur offroient des couronnes &amp; des
+guirlandes de fleurs, sur-tout de narcisse, plante chérie 
+des filles de l&#39;Enfer, à cause du malheur arrivé
+au jeune prince qui portoit ce nom. Eustathe, sur le
+premier livre de l&#39;Iliade, dit que la raison pour laquelle 
+on offroit le narcisse aux <i>furies</i>, venoit de l&#39;étymologie 
+de ce mot, <foreign lang="greek">ναρκοῦν</foreign>, <i>torpere</i>, parce que les
+<i>furies</i> étourdissoient les coupables qu&#39;elles tourmentoient.
+</p>
+<p>
+Elles avoient aussi un temple dans Céryne, ville
+<pb n="7:383" facs="V7/ENC_7-383.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;Achaïe, où l&#39;on voyoit leurs statues faites de bois
+&amp; assez petites ; &amp; ce lieu étoit si fatal aux gens coupables 
+de quelque crime, que dès qu&#39;ils y entroient
+ils étoient saisis d&#39;une fureur subite qui leur faisoit
+perdre l&#39;esprit ; tant la seule présence de ces déesses
+pouvoit causer de troubles! Il falloit même que ces
+événemens fussent arrivés plus d&#39;une fois, puisqu&#39;on
+fut obligé de défendre l&#39;entrée du temple de Céryne.
+</p>
+<p>
+Pausanias nous apprend que les statues de ces
+déesses n&#39;avoient rien de fort singulier ni de fort recherché,
+mais qu&#39;on en voyoit dans le vestibule plusieurs 
+autres en marbre, d&#39;un travail exquis, qui représentoient 
+des femmes qu&#39;on croyoit avoir été les
+prêtresses de ces divinités. Néanmoins c&#39;est peut-être
+là le seul endroit où il soit dit que les <i>furies</i>
+avoient des prêtresses ; puisqu&#39;on sait d&#39;ailleurs que
+leurs ministres étoient des hommes nommés <i>hésychides</i> par les habitans de Silphonse en Arcadie, &amp; que
+Démosthene avoue lui-même avoir été prêtre de ces
+déesses dans le temple de l&#39;aréopage. Tous ceux qui
+paroissoient devant ce tribunal étoient obligés d&#39;offrir 
+un sacrifice dans le temple, &amp; de jurer sur l&#39;autel 
+des <i>furies</i>, qu&#39;ils diroient la vérité; tant il est vrai
+qu&#39;il faut frapper les hommes par la terreur, pour
+les garantir du parjure!
+</p>
+<p>
+Mais de tous les temples dédiés à ces divinités,
+il n&#39;y en eut point, après celui de l&#39;aréopage, de
+plus connus que les deux que leur fit bâtir Oreste en
+Arcadie ; le premier, au lieu même où les <i>furies</i>
+avoient commencé de le saisir après son crime, &amp;
+l&#39;autre à l&#39;endroit où elles s&#39;étoient montrées plus
+favorables, &amp; lui avoient paru mériter le titre d&#39;<i>euménides</i>.
+</p>
+<p>
+Enfin, pour terminer ce qui regarde le culte de
+ces déesses, je dois ajoûter, qu&#39;outre le narcisse qui
+leur étoit consacré, on se servoit aussi de safran, de
+genievre, de branches de cedre, d&#39;aulne, &amp; d&#39;aubépine ; 
+qu&#39;on leur immoloit des brebis &amp; des tourterelles 
+blanches, &amp; qu&#39;on employoit dans Jeurs sacrifices 
+les mêmes cérémonies que dans ceux des autres 
+divinités infernales.
+</p>
+<p>
+Venons aux figures &amp; aux portraits des <i>furies</i>.
+D&#39;abord les statues de ces déesses n&#39;eurent rien de
+différent de celles des autres divinités ; ce fut Eschile qui les fit paroître le premier dans une de ces tragédies,
+avec cet air horrible qu&#39;on leur donna depuis.
+Il falloit en effet que leur figure fût extrèmement 
+hideuse ; puisqu&#39;on rapporte que dès que les <i>furies</i> qui sembloient endormies autour d&#39;Oreste, vinrent 
+à se réveiller, &amp; à paroître tumultuairement sur
+le théatre, quelques femmes enceintes furent blessées 
+de surprise, &amp; des enfans en moururent d&#39;effroi.
+L&#39;idée du poëte fut suivie, &amp; son portrait des <i>furies</i>
+passa du théatre dans les temples : il ne fut plus question 
+de les représenter autrement, qu&#39;avec un air effrayant,
+avec des habits noirs &amp; ensanglantés,
+ayant au lieu de cheveux des serpens entortillés autour 
+de la tête, une torche ardente à une main, un
+foüet de serpens à l&#39;autre ; &amp; pour compagnes, la
+terreur, la rage, la pâleur, &amp; la mort. C&#39;est ainsi
+qu&#39;assises au pié du throne de Pluton, dont elles
+éoient les ministres, elles attendoient ses ordres
+avec une impatience qui marquoit toute la rage
+dont elles étoient possédées.
+</p>
+<p>
+Les <i>furies</i> se trouvent quelquefois représentées de
+cette maniere dans d&#39;anciennes médailles. Patin
+Spanheim &amp; Seguin prétendent, par exemple, que
+ce sont elles que l&#39;on voit sur une medaille de l&#39;empereur 
+Philippe, frappée à Antioche, au revers de
+laquelle paroissent trois figures de femmes habillées
+en longues robes qui leur tombent jusque sur les talons,
+&amp; qu&#39;une ceinture serre à la hauteur de la poitrine : elles sont armées d&#39;une clé, de torches ardentes,
+de poignards, &amp; de serpens.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Nous n&#39;avons point en grand de figures antiques
+de ces déesses. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,424 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29262" id="52:89" vol="7">
+<index type="head" value="GELÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Ratte" />
+<index type="shortauth" value="Ratte" />
+<index type="kafnum" value="114" />
+<index type="kafauth" value="Ratte, Etienne-Hyacinthe de (1722-1805)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physique." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GELÉE</head>
+<p>
+GELÉE, s. f. (<i>Physique.</i>) froid par lequel l&#39;eau &amp;
+les liquides aqueux se gelent naturellement, se convertissent 
+d&#39;eaux-mêmes en glace dans un certain canton,
+dans toute une région déterminée. La <i>gelée</i> est
+opposée au <i>dégel</i>. qui est proprement ce relâchement
+du grand froid, cet adoucissement qui rend à l&#39;eau
+sa liquidité, &amp; qui détrempe la terre en fondant les
+glaces &amp; les neiges dans tout un pays. <i>Voy.</i> 
+<sc><ref target="head:Froid" type="search">Froid</ref>, <ref target="head:Glace" type="search">Glace</ref>, <ref target="head:Congelation" type="search">Congelation</ref>, <i>&amp;</i> <ref target="head:Dégel" type="search">Dégel</ref></sc>.
+</p>
+<p>
+L&#39;eau &amp; les liquides aqueux sont les seuls fluides
+dont on ait dû faire mention dans les deux définitions 
+précedentes : ce n&#39;est pas que d&#39;autres liqueurs,
+l&#39;huile d&#39;olive, par exemple, ne gelent plus facilement 
+&amp; plus promptement que l&#39;eau, &amp; à de moindres 
+degrés de froid : mais tant que la froideur de l&#39;air
+n&#39;opere que la congelation des huiles grasses, &amp; que
+l&#39;eau se maintient dans sa liquidité ordinaire, l&#39;usage
+autorise à dire qu&#39;il ne gele point. La <i>gelée</i> n&#39;arrive
+dans un pays, que quand l&#39;eau &amp; les liqueurs aqueuses 
+qui ne sont pas trop agitées, se glacent d&#39;elles-mêmes 
+à l&#39;air libre ; c&#39;est-là le premier &amp; le moindre
+degré de la <i>gelée</i>. On verra ailleurs (<i>artic.</i> <sc>Glace</sc>),
+comment la grande agitation d&#39;un liquide peut mettre 
+obstacle à sa congelation. Si le froid augmente,
+la <i>gelée</i> sera plus forte ; des fluides dont la liquidité
+résiste au degré de froid qui fait geler l&#39;eau, se convertiront 
+en glace ; il gelera dans l&#39;intérieur des maisons 
+&amp; jusque dans les chambres les plus exactement
+fermées ; les rivieres les plus rapides obéissant à l&#39;impression 
+du froid, se glaceront en partie, ou même
+entierement jusqu&#39;à une certaine profondeur : tout
+ceci est facile à concevoir. Ce qu&#39;il est important de
+bien remarquer, c&#39;est ce qu&#39;on a dit du caractere essentiel 
+&amp; distinctif de la <i>gelée</i>, laquelle a toûjours
+lieu quand l&#39;eau ou tranquille ou peu agitée se glace
+d&#39;elle-même à l&#39;air libre dans tout un pays.
+</p>
+<p>
+Nous connoissons divers agens capables d&#39;opérer
+dans une certaine étendue de pays la congelation naturelle 
+de l&#39;eau : on peut consulter sur ce sujet les
+<i>articles</i> 
+<sc><ref target="head:Froid" type="search">Froid</ref>, <ref target="head:Glace," type="search">Glace,</ref> <i>&amp;</i> <ref target="head:Congelation" type="search">Congelation</ref></sc>
+. La <i>gelée</i>
+ayant un rapport marqué à la température de l&#39;air
+&amp; à la constitution de l&#39;atmosphere, c&#39;est principalement 
+sous ce rapport que nous devons d&#39;abord la
+considérer dans cet article.
+</p>
+<p>
+Il se présente une question que l&#39;observation seule
+pourra résoudre : on demande si dans tous les pays
+du monde l&#39;eau se gele constamment par le même degré 
+de froid ; ou si le climat, dont l&#39;influence est si sensible 
+sur une infinité de phénomenes, met ici de la
+<pb n="7:540" facs="V7/ENC_7-540.jpeg" />
+<milestone unit="column" n="1" />
+diversité. Plusieurs physiciens célebres parmi lesquels
+on compte le savant M. Musschenbroek, ont adopté
+ce dernier sentiment ; ils pensent que dans les pays
+méridionaux, en Italie, par exemple, il gele assez
+constamment à un degré de froid fort inférieur à celui 
+qui en France, en Allemagne, en Angleterre, <i>&amp;c.</i>
+est nécessaire pour ôter à l&#39;eau sa liquidité. Les preuves 
+de cette assertion se réduisent à quelques observations 
+faites à Naples par M. Cyrillo, professeur en
+Medecine, &amp; rapportées dans les <i>Transactions philosophiq.
+n°. 430.</i> mais, comme l&#39;a fait voir M. de Mairan, ces observations ne sont rien moins que décisives ; 
+elles sont même démenties par des observations
+postérieures, dont nous sommes redevables à M.
+Taitbout, ci-devant consul de la nation françoise à
+Naples, par lesquelles il paroît que la glace ne se
+forme dans cette ville que quand le thermometre
+est au degré qui indique à Paris &amp; ailleurs le commencement 
+de la <i>gelée</i>. Une infinité d&#39;observations
+pareilles faites dans d&#39;autres villes de l&#39;Europe, s&#39;accordent 
+toutes à donner la même conclusion. On
+peut donc assûrer que l&#39;eau se gele par-tout au même 
+degré de froid, &amp; qu&#39;elle ne se convertit naturellement 
+en glace, que quand la température de
+l&#39;air ou du milieu quelconque qui l&#39;environne, est
+parvenue à ce degré. Ceux qui ont crû voir le contraire 
+ont été certainement trompés par quelque
+circonstance particuliere qui leur a échappé. M. de
+Mairan, <i>dissertation sur la glace, II. part. 2. sect. ch.
+vj. &amp; vij.</i>
+</p>
+<p>
+Le degré de froid nécessaire pour la formation
+naturelle de la glace, est celui auquel s&#39;arrête la liqueur 
+d&#39;un thermometre, dont on a plongé la boule
+dans de l&#39;eau qui commence à se geler, ou ce qui revient 
+au même, dans de la glace ou de la neige prête
+à se fondre. C&#39;est le degré marqué zéro sur le thermometre 
+de M. de Reaumur ; 32, sur celui de Fahrenheit, <i>&amp;c.</i> Il ne gele point avant que la liqueur du
+thermometre soit descendue à ce degré. Lorsqu&#39;elle
+y est parvenue, si la froideur de l&#39;air se soûtient ou
+qu&#39;elle augmente pendant quelque tems, la glace
+paroît, à-moins que des circonstances particulieres
+ou certains accidens, dont nous ferons mention ailleurs,
+n&#39;empêchent sa formation. Remarquons que
+la glace ne fond pas toûjours, lorsque la température 
+de l&#39;air fait remonter le thermometre de quelques 
+degrés au-dessus du terme ordinaire de la congelation ; 
+ce qui s&#39;accorde avec d&#39;autres expériences 
+qui prouvent que la glace est communément
+beaucoup plus de tems à se fondre, qu&#39;elle n&#39;en a
+employé à se former. <i>Voyez ci-après</i> <sc><ref target="head:Glace" type="search">Glace</ref></sc>.
+</p>
+<p>
+La <i>gelée</i> dépendant principalement de la froideur
+de l&#39;air, il est évident que, toutes choses d&#39;ailleurs
+égales, la <i>gelée</i> sera d&#39;autant plus forte, que le froid
+sera plus vif.
+</p>
+<p>
+Dans notre hémisphere boréal le froid se fait sentir 
+d&#39;ordinaire par les vents de nord ; communément
+aussi ces mêmes vents nous donnent les <i>gelées</i>. On
+imagine aisément que les vents de sud doivent produire 
+un semblable effet dans l&#39;hémisphere opposé.
+</p>
+<p>
+Le vent de nord est sec, &amp; nous lui devons le
+plus souvent le beau tems ; c&#39;est la raison pour laquelle,
+généralement parlant, il gele plus souvent
+quand l&#39;air est sec &amp; assez serein, que dans des tems
+humides &amp; couverts.
+</p>
+<p>
+Les <i>gelées</i> qui arrivent dans des tems sereins, sont
+connues sous le nom de <i>belles gelées</i>.
+</p>
+<p>
+Lorsqu&#39;il gele très-fortement, le soleil paroît un
+peu pâle, &amp; la sérénité de l&#39;air n&#39;est pas si grande
+que dans certains jours d&#39;hyver, où l&#39;on n&#39;a que
+des <i>gelées</i> médiocres. C&#39;est que d&#39;une part l&#39;évaporation 
+des liquides est considérable dans les grandes
+<i>gelées</i>, &amp; que de l&#39;autre les vapeurs qui s&#39;élevent
+alors, ne peuvent arriver dans l&#39;atmosphere à une
+<milestone unit="column" n="2" />
+médiocre hauteur, sans y rencontrer un froid qui les
+force de se réunir, sinon en nuages épais, du moins
+en petites masses assez sensibles, pour diminuer la
+transparence de l&#39;air qui ne transmet dans ces circonstances 
+que des rayons foibles &amp; languissans.
+Ceci fait comprendre pourquoi les belles <i>gelées</i> sont
+moins fréquentes dans le voisinage des lacs &amp; des
+grandes rivieres, le froid &amp; la glace y étant assez
+souvent accompagnés de brouillards.
+</p>
+<p>
+Les grands vents, tant par l&#39;agitation qu&#39;ils communiquent 
+aux liquides exposés à leur action, que
+parce qu&#39;ils diminuent toûjours un peu l&#39;intensité du
+froid, sont un obstacle à la formation de la glace.
+Ainsi, quoique le vent de nord nous amene d&#39;ordinaire 
+la <i>gelée</i>, ce n&#39;est point à beaucoup près lorsqu&#39;il souffle avec le plus de violence, qu&#39;il gele le
+plus fortement. L&#39;air dans les fortes <i>gelées</i> est tranquille 
+ou médiocrement agité. Nous ferons voir en
+parlant de la glace, qu&#39;un petit vent sec accélere
+toûjours la congelation.
+</p>
+<p>
+Le vent de nord &amp; la sérénité de l&#39;air étant souvent 
+réunis avec le froid &amp; la <i>gelée</i>, l&#39;air dans ces
+circonstances est plus dense, plus pesant ; il soûtient
+le mercure dans le barometre à d&#39;assez grandes hauteurs : on peut même regarder le dégel comme très prochain,
+quand on voit le mercure baisser considérablement 
+&amp; promptement après quelques jours
+de <i>gelée ;</i> cet abaissement étant causé par le vent de
+sud, qui en hyver nous donne communément le
+tems doux.
+</p>
+<p>
+Nous avons dit que l&#39;évaporation des liquides
+étoit considérable pendant les <i>gelées ;</i> elle l&#39;est même
+d&#39;autant plus, qu&#39;il gele plus fortement. <i>Voyez</i> sur
+ce sujet <i>les articles</i> <sc><ref target="head:Evaporation" type="search">Evaporation</ref> <i>&amp;</i> <ref target="head:Glace" type="search">Glace</ref></sc>.
+</p>
+<p>
+La sécheresse qui accompagne les fortes <i>gelées</i>,
+rend certains jours d&#39;hyver très-favorables aux expériences 
+de l&#39;électricité. <i>Voyez</i> <sc><ref target="head:Electricité" type="search">Electricité</ref></sc>.
+</p>
+<p>
+Les effets de la <i>gelée</i> sur les végétaux méritent une
+attention particuliere. On connoît une infinité de
+plantes que li moindre <i>gelée</i> fait périr : ce sont celles
+qui, ne croissant naturellement que dans les pays
+chauds, ne sauroient résister à un degré de froid qui
+approche beaucoup du terme de la glace. En se bornant 
+aux plantes de nos climats, plus robustes &amp;
+plus vigoureuses, on ne peut nier que les fortes <i>gelées</i> ne leur soient nuisibles par le grand froid qui les
+accompagne. De plus, quand l&#39;humidité de la terre
+est congelée à une certaine profondeur, quantité de
+plantes sont privées d&#39;une partie des sucs nécessaires
+à leur entretien. On les voit alors languir ; &amp; ce
+n&#39;est qu&#39;au dégel qu&#39;elles reprennent leur premiere
+vigueur. Il en est qui périssent entierement ; d&#39;autres 
+perdent leurs parties les plus délicates, telles
+que les boutons de fleurs, les fruits naissans, <i>&amp;c.</i>
+Celles qui ont dans leurs racines une ample provision 
+de seve, résistent beaucoup mieux à la <i>gelée</i> &amp;
+au froid.
+</p>
+<p>
+Jamais une forte <i>gelée</i> ne produit de plus funestes
+effets sur les plantes &amp; sur les arbres, que quand elle
+succede tout-à-coup à un dégel, à de longues pluies,
+à une fonte de neiges ; car dans ces circonstances
+toutes les parties des végétaux se trouvent imbibées
+de beaucoup d&#39;eau, qui, venant à se glacer dans les
+petits tuyaux où elle s&#39;étoit glissée, écarte les fibres
+&amp; toutes les parties organiques des arbres même,
+dont le bois est le plus dur, y cause une violente
+distension &amp; les rompt. C&#39;est la raison pour laquelle
+la plûpart des oliviers, &amp; beaucoup d&#39;autres arbres,
+périrent en Languedoc &amp; en Provence dans le rigoureux 
+hyver de 1709. Les arbres les plus forts
+&amp; les plus vieux moururent en plus grande quantité,
+parce que leurs fibres moins flexibles se prêtoient 
+moins à l&#39;effort que faisoit l&#39;eau <i>gelée</i> en se dilatant.
+Ce phénomene a donc pour cause la dilatasion<gap type="hyphenpb" />
+<pb n="7:541" facs="V7/ENC_7-541.jpeg" />
+<milestone unit="column" n="1" />
+&amp; la force expansive de la glace dont nous parlerons 
+ailleurs ; &amp; il est parfaitement semblable à
+celui de la rupture des vaisseaux, causée par la congelation 
+de l&#39;eau qui y étoit contenue. <i>Voyez ci-après</i>
+<sc><ref target="head:Glace" type="search">Glace</ref></sc>.
+</p>
+<p>
+Tout le monde sait que les fruits se gelent &amp; se
+durcissent pendant les hyvers qui sont un peu rudes.
+Dans cet état ils perdent ordinairement tout leur
+goût ; &amp; lorsque le dégel arrive, on les voit le plus
+souvent tomber en pourriture. Les parties aqueuses
+que les fruits contiennent en grande quantite, étant
+changées en autant de petits glaçons, dont le volume 
+augmente, brisent &amp; crevent les petits vaisseaux 
+qui les renferment, ce qui détruit l&#39;organisation.
+</p>
+<p>
+On observe quelque chose de semblable sur les
+animaux mêmes qui habitent les pays froids. Il n&#39;est
+pas rare d&#39;y voir des gens qui ont perdu le nez ou les
+oreilles, pour avoir été exposés à une forte <i>gelée</i>.
+Ces accidens nè sent pas sans exemple dans les climats 
+tempérés.
+</p>
+<p>
+Quand un membre a été gelé, on ne peut espérer
+de le sauver, qu&#39;en le faisant dégeler fort lentement,
+en le tenant, par exemple, quelque tems dans la
+neige, avant que de l&#39;exposer a un air plus doux.
+On previent de la même maniere la perte d&#39;un fruit
+gelé. <i>Voyez</i> sur ce sujet <i>l&#39;article</i> <sc><ref target="head:Glace" type="search">Glace</ref></sc>. La lenteur
+du dégel est absolument necessaire. Une fonte trop
+brusque, qui ne laisseroit pas aux parties d&#39;un corps
+gelé le tems de reprendre l&#39;ordre qu&#39;elles ont perdu,
+détruiroit dans ce corps l&#39;organisation qu&#39;on y veut
+conserver.
+</p>
+<p>
+Il suit de là que les fruits qui se sont gelés sur les
+arbres, sont perdus sans ressource, s&#39;il survient un
+dégel trop considérable &amp; trop prompt. Un pareil
+degel n&#39;est guere moins nuisible qu&#39;une forte <i>gelee</i>,
+qui succede tout à coup à une très-grande humidité.
+</p>
+<p>
+Tous les pays ne ressentent point les funestes effets 
+de la <i>gelee</i>. On sait qu&#39;il ne gele jamais sous la
+zone torride, m aux extrémites des zones tempérées
+voisines des tropiques ; au contraire il gele dans les
+zones glaciales pendant presque toute l&#39;année. Les
+zones tempérées ont des vicissitudes de <i>gelee</i>, &amp; de
+dégels, qui, paroissant au premier coup-d&#39;oeil n&#39;avoir 
+rien de régle, sont pourtant moins irrégulieres
+qu&#39;on ne pense. Dans la Nature, dit à ce sujet M. de
+Mairan, tout tend à une espece d&#39;équilibre &amp; d&#39;uniformité,
+&amp; on ne peut douter que l&#39;inconstance même 
+n&#39;y ait ses lois.
+</p>
+<p>
+Dans le milieu des zones tempérées on a des hyvers 
+sans glace, mais qui, en comparaison des hyvers 
+ou il gele, sont en petit nombre. On y voit
+des printems &amp; des automnes où la <i>gelée</i> se fait sentir 
+vivement ; il y gele très-rarement en été. Les
+plus fortes <i>gelees</i> arrivent, comme le plus grand
+froid, environ un mois après le solstice d&#39;hyver.
+</p>
+<p>
+Quand on distingue les pays où il gele de ceux où
+il ne gele point, on a simplement égard à ce qui a
+lieu sur la surface de notre globe ; car en s&#39;éloignant
+de cette superficie, on rencontre dans tous les pays
+du monde, &amp; sous l&#39;équateur même, un froid suffisant 
+pour glacer l&#39;eau : on arrive même à une hauteur,
+au-delà de laquelle, jusqu&#39;à une distance qui
+nous est inconnue, il ne degelle jamais. Il est évident
+que cette hauteur est moindre dans les pays septentrionaux,
+&amp; plus froids par leur situation. Peut-être
+est-elle nulle sous les poles, qui dans ce cas seroient
+couverts d&#39;une croute de glace qui ne se fondroit
+jamais. M. Bouguer, <i>relation du Perou</i>.
+</p>
+<p>
+Le froid qui devient toûjours plus vif, à-mesure
+qu&#39;on s&#39;éleve à une plus grande hauteur dans l&#39;atmosphere,
+n&#39;augmente pas de même quand on pénetre 
+dans l&#39;interieur de la terre, la chaleur étant
+constamment assez considérable à soixante-dix piés
+<milestone unit="column" n="2" />
+de profondeur. De-là vient que la congelation ne
+gagne point dans les terres aussi avant qu&#39;on pourroit 
+se l&#39;imaginer. En France, en Allemagne, &amp; dans
+les pays situés au milieu de l&#39;Europe, la glace ne
+pénetre guere dans les grandes <i>gelées</i> au-delà de deux
+piés de profondeur ; elle va en Moscovie à six &amp; à
+dix piés. M. de Mairan, <i>dissertation sur la glace ;</i> M.
+Musschenbroek, <i>essais de Physique ; leçons de Physique</i> de M. l&#39;abbé de Nollet, <i>tome IV.</i> &amp;c. <i>Cet article
+est de M. <sc><ref target="head:de Ratte" type="search">de Ratte</ref></sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

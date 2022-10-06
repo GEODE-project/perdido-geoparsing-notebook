@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29624" id="53:115:3" vol="7">
+<index type="head" value="Glace inflammable" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie." />
+<index type="normclass" value="Chimie" />
+<index type="englishclass" value="Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Glace inflammable</head>
+<p>
+<sc>Glace inflammable</sc>, (<i>Chimie.</i>) <i>glace</i> artificielle 
+qui prend feu. On fait par l&#39;art une telle <i>glace</i>
+avec de l&#39;huile de térébenthine, du spermaceti, &amp;
+de l&#39;esprit de nitre : ce n&#39;est qu&#39;un jeu chimique rapporté 
+dans l&#39;<i>hist. de l&#39;acad. des Sciences, ann. 1745 ;</i>
+mais il y a des curieux, des artistes comme M. Roüelle,
+des seigneurs même qui préferent ces sortes de jeux à
+ceux qu&#39;on joue dans la société; &amp; il arrive quelquefois 
+que la Physique leur est redevable de plusieurs 
+connoissances utiles : voici donc une maniere
+de produire de la <i>glace inflammable</i>.
+</p>
+<p>
+On prendra de l&#39;huile de térébenthine distillée ; on
+la mettra dans un vaisseau sur un feu doux ; on y fera
+fondre lentement du spermaceti ou blanc de baleine:
+cette solution restera aussi claire que de l&#39;eau commune,
+en plaçant le vaisseau qui la contient dans un
+lieu frais ; &amp; en trois minutes au plus la liqueur se
+glacera. Cependant si elle se glaçoit trop difficilement,
+un peu de nouveau blanc de baleine qu&#39;on y
+fera fondre, y remédieroit : il n&#39;y a nul inconvénient
+à en remettre à plusieurs fois ; la seule circonstance
+essentielle est de ne le point piler, mais de le mettre
+fondre en assez gros morceaux ; sans cela, la <i>glace</i>
+seroit moins transparente.
+</p>
+<p>
+Lorsque la chaleur de l&#39;été est trop forte, ou qu&#39;on
+n&#39;a pas de lieu assez frais pour faire prendre la liqueur,
+il ne faut que mettre le vaisseau qui la contient 
+dans de l&#39;eau bien fraîche ; la liqueur se glace en
+moins d&#39;une demi-minute : mais cette <i>glace</i> faite brusquement 
+n&#39;est jamais si belle que celle qui s&#39;est formée 
+tranquillement. Dès que la liqueur commencera
+à dégeler, &amp; pendant qu&#39;il y aura encore des glaçons 
+flottans dessus, versez-y de bon esprit de nitre ;
+alors la liqueur &amp; la <i>glace</i> s&#39;enflammeront &amp; se consumeront 
+dans l&#39;instant. Il est vrai qu&#39;il n&#39;y a rien de
+moins étonnant que de voir l&#39;huile de térébenthine
+s&#39;enflammer par l&#39;esprit de nitre : mais l&#39;art consiste à
+la charger d&#39;une matiere capable de la réduire en
+<i>glace</i> sans altérer sa transparence &amp; son inflammabilité ;<gap type="hyphenpb" />
+<pb n="7:687" facs="V7/ENC_7-687.jpeg" />
+<milestone unit="column" n="1" />
+&amp; c&#39;est ce qui arrive dans le procédé qu&#39;on vient
+d&#39;indiquer. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

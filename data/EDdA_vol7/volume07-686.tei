@@ -1,0 +1,306 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28140" id="50:35" vol="7">
+<index type="head" value="FRAISIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton &amp; Jaucourt" />
+<index type="shortauth" value="Daubenton &amp; Jaucourt" />
+<index type="kafnum" value="33 &amp; 60" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. bot." />
+<index type="normclass" value="Histoire naturelle | Botanique" />
+<index type="englishclass" value="Natural history. Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>FRAISIER</head>
+<p>
+FRAISIER, s. m. <i>fragaria</i>, (<i>Hist. nat. bot.</i>) genre
+de plante à fleurs en rose, composées de plusieurs pétales 
+disposés en rond. Le calice est découpé; il en
+sort un pistil qui devient dans la suite un fruit presque 
+rond ou ovoïde, &amp; pointu par le bout. Il y a plusieurs 
+semences adhérentes à un placenta qui est charnu 
+dans quelques especes, &amp; sec dans d&#39;autres. Ajoûtez aux caracteres de ce genre, que les feuilles sont
+portées trois-à-trois à l&#39;extrémité d&#39;un pédicule.
+Tournefort, <i>inst. rei herb. Voyez</i> <sc><ref target="head:Plante" type="search">Plante</ref></sc>. (<i>I</i>)
+</p>
+<p>
+Boerhaave compte six especes de <i>fraisiers</i> fertiles ;
+mais il nous suffira de décrire la plus commune, le
+<i>fragaria vulgaris</i>, C. B. Pin. 326.
+</p>
+<p>
+Sa racine est vivace, roussâtre, fibreuse, chevelue,
+d&#39;une saveur astringente ; elle pousse des pédicules 
+longs d&#39;une palme, grêles, velus, branchus
+à leurs sommets, &amp; qui portent des fleurs ; elle jette
+aussi des queues de même longueur &amp; de même figure,
+qui soûtiennent des feuilles ; elle pousse encore 
+des jets traçans &amp; rampans sur terre, noüeux, donnant 
+de chaque noeud des feuilles &amp; des racines,
+par lesquelles cette plante se multiplie. Ses feuilles,
+au nombre de trois sur une queue, sont oblongues,
+larges, semblables à celles de l&#39;argentine : veinées,
+velues, dentelées à leur bord, vertes en-dessus,
+blanchâtres en-dessous. Ses fleurs, au nombre de
+quatre ou cinq sur un même pédicule, sont en rose
+à cinq pétales blancs placés en rond ; elles ont beaucoup 
+d&#39;étamines courtes, garnies de sommets jaunâtres,
+&amp; un pistil sphérique, porté sur un calice
+découpé en dix parties ; le pistil se change en un
+fruit ovoïde, bon à manger, charnu, mou, rouge
+quand il est mûr, quelquefois blanc, rempli d&#39;un sue
+doux, vineux, odorant, chargé de quantité de petites 
+graines entassées les unes sur les autres.
+</p>
+<p>
+Cette plante fleurit en Mai, &amp; donne son fruit
+mûr au mois de Juin. Elle vient naturellement dans
+les forêts &amp; à l&#39;ombre ; on la cultive dans les jardins
+où elle profite davantage, &amp; porte dos <i>fraises</i> plus
+grosses &amp; plus douces que celles des bois &amp; des montagnes,
+mais bien moins odorantes &amp; moins agréables 
+au goût.
+</p>
+<p>
+M. Frézier en revenant de son voyage de la mer
+du Sud, a le premier fait connoître en Europe le
+<i>fraisier</i> du Chili, <i>fragoria chiliensis fructu maximo,
+foliis carnosis, hirsutis</i>. Il differe de toutes les especes 
+européennes par la largeur, l&#39;épaisseur, &amp; le velu 
+de ses feuilles. Son fruit de couleur rouge-blanchâtre, est généralement de la grosseur d&#39;une noix,
+&amp; même quelquefois aussi gros qu&#39;un oeuf de poule ;
+mais sa saveur n&#39;a pas l&#39;agrément &amp; le parfum de nos
+fraises de bois. Cette plante a produit du fruit au jardin 
+royal de Paris, &amp; en porte aujourd&#39;hui dans le
+jardin de Chelesca par les soins de Miller. Elle réussit 
+le mieux à l&#39;exposition du soleil du matin, &amp; demande 
+de fréquens arrosemens dans les tems de sécheresse.
+</p>
+<p>
+Le <i>fraisier</i>, tant celui qui porte des fraises rouges,
+que celui qui fournit des fraises blanches, se multiplie
+de plan enraciné. Le plan de <i>fraisier</i> qu&#39;on tire des
+bois, vaut mieux pour transplanter que celui des jardins ; 
+les fruits qu&#39;il produit sont plus odorans.
+</p>
+<p>
+On met les <i>fraisiers</i> en planche ou en bordure, dans
+une terre bien préparée ; &amp; pour le mieux, on les
+plante sur des à-dos, contre un mur exposé au midi,
+afin d&#39;avoir des premieres fraises ; on les espace de
+huit pouces en terre sablonneuse. On observe que les
+<pb n="7:277" facs="V7/ENC_7-277.jpeg" />
+<milestone unit="column" n="1" />
+planches ou les bordures soient un peu plus enfoncées 
+que les allées ou que les sentiers, pour y retenir 
+les eaux de pluie &amp; des arrosemens.
+</p>
+<p>
+Si on en plante dans des terres grasses &amp; presque
+fraîches, comme la grande humidité pourrit les piés,
+on les éloigne communément de dix à douze pouces ;
+&amp; on en met deux à trois piés dans chaque trou, que
+l&#39;on fait avec un plantoir.
+</p>
+<p>
+Le tems de les planter est au commencement de
+Juin, c&#39;est-à-dire avant les sécheresses ; on en plante
+néanmoins tout l&#39;été dans les tems pluvieux. Il est
+important d&#39;en faire des pépinieres dans quelque endroit 
+exposé au nord, pour éviter les grandes chaleurs 
+d&#39;été: on les plante pour lors à trois ou quatre
+pouces l&#39;un de l&#39;autre. Lorsque ces piés sont fortifiés,
+on les replante dans le mois de Septembre, pour en
+faire des planches ou des quarrés, selon le besoin
+qu&#39;on en peut avoir.
+</p>
+<p>
+La principale culture des <i>fraisiers</i> consiste en premier 
+lieu à les arroser fréquemment dans la sécheresse : on laisse en second lieu quelques montans des plus
+sorts à chaque pié; en troisieme lieu, on ne laisse sur
+chaque montant que trois ou quatre fraises, qui sont
+les premieres venues, &amp; les plus près du pié. On pince 
+toutes les autres fleurs de la queue des branches
+qui ont déjà fleuri, ou qui sont encore en fleurs ; car
+rarement on voit noüer &amp; venir à bien toutes ces
+dernieres fleurs : il n&#39;y a que les premieres qui réussissent ; 
+&amp; quand on est soigneux de bien pincer, on
+est assûré d&#39;avoir de belles fraises.
+</p>
+<p>
+Les <i>fraisiers</i> font fort bien l&#39;année suivante qu&#39;ils
+ont été plantés, si c&#39;est au mois de Mai qu&#39;on les a
+plantés, mais médiocrement, s&#39;ils n&#39;ont été plantés
+qu&#39;au mois de Septembre.
+</p>
+<p>
+On doit renouveller les <i>fraisiers</i> au plus tard tous les
+5 ans ; leur couper tous les ans la vieille fane, quand
+les fraises sont finies ; ce qui arrive vers la fin de Juillet. Les premieres mûrissent au commencement de
+Juin ; ce sont celles dont les piés ont été plantes le
+long d&#39;une muraille au midi &amp; au levant ; &amp; les dernieres 
+mûres sont celles dont les piés sont au nord.
+</p>
+<p>
+Lorsque les <i>fraisiers</i> sont leurs traînasses, il les faut
+soigneusement châtrer, &amp; n&#39;y laisser que celles qu&#39;on
+destine pour avoir du plant. On fera tous les ans de
+nouvelles planches, &amp; on détruira celles qui ont
+plus de quatre ans, parce qu&#39;après ce tems, les fraises 
+commencent à décheoir de leur bonté &amp; de leur
+grosseur. On fumera ces planches de petit fumier un
+peu avant les gelées, afin de les améliorer, coupant
+toutes les feuilles, comme on le pratique à l&#39;égard
+de l&#39;oseille. Par rapport à la terre que les <i>fraisiers</i> desirent,
+le sablon leur est meilleur que la terre forte:
+en choisit pour cet effet la partie du jardin la plus sablonneuse 
+pour les y planter. Si on veut avoir des
+fraises dans l&#39;automne, on n&#39;a qu&#39;à couper toutes les
+premieres fleurs qui pousseront, &amp; les empêcher de
+fructifier ; elles reproduiront d&#39;autres fleurs, qui donneront 
+des fruits dans l&#39;arriere-saison.
+</p>
+<p>
+Les ennemis du plant du <i>fraisier</i> sont les taons, qui
+pendant les mois de Mai &amp; de Juin mangent le col
+de la racine entre deux terres, &amp; font ainsi périr la
+plante : on doit donc alors parcourir tous les jours
+ses <i>fraisiers</i>, &amp; fouiller au pié de ceux qui commencent 
+à se faner ; d&#39;ordinaire on y trouve le gros ver,
+qui après avoir causé ce premier mal, passe, si on
+n&#39;a soin de le détruire, à d&#39;autres <i>fraisiers</i>, &amp; les fait
+pareillement mourir.
+</p>
+<p>
+Les Anglois, qui ont poussé plus loin que les autres 
+peuples la culture du <i>fraisier</i>, sont non-seulement
+très-attentifs à détruire la vermine qui peut endommager 
+cette plante, mais encore à choisir l&#39;exposition
+la plus favorable ; à arracher perpétuellement toutes
+les mauvaises herbes ; à bêcher le terrein ; à l&#39;arroser
+abondamment ; à former chaque année de nouveaux
+<milestone unit="column" n="2" />
+plants avant que de détruire les anciens ; à les espacer
+à une distance convenable, &amp; à laisser un sentier de
+deux piés de large entre les plates-bandes, pour y
+marcher commodément &amp; cueillir le fruit. Ils prennent 
+du fumier de cheval &amp; autant de cendres de
+choux, qu&#39;ils mêlent &amp; incorporent bien ensemble ;
+ils en répandent sur leur terre préparée &amp; nivellée,
+une quantité suffisante pour être enfouie &amp; retournée
+au mois de Février ; ensuite ils forment des platesbandes 
+de trois piés &amp; demi de large, &amp; y plantent
+les especes de <i>fraisiers</i> qu&#39;ils jugent à-propos, à dix,
+quinze, &amp; vingt pouces de distance les uns des autres,
+suivant la grosseur de l&#39;espece de fraises qu&#39;ils
+veulent avoir. Comme les <i>fraisiers</i> ne donnent du fruit
+que la seconde année dans cette même terre, ils sement 
+la premiere année une récolte de féves ; &amp; dans
+ces mêmes carreaux, ils plantent encore de six en six
+piés des rosiers, des groseillers blancs &amp; rouges, des
+églantiers odorans, qui, indépendamment de l&#39;ombre
+qu&#39;ils donnent aux fraises, sont d&#39;un bon rapport.
+</p>
+<p>
+Une piece de terre plantée en fraises, qu&#39;on nomme 
+<i>écarlatte</i> (<i>virginian strawberg</i>), se conserve pendant 
+cinq ou six ans ; &amp; ils renouvellent les haut-boys 
+(<i>the haut-boy strawberry</i>), &amp; les fraises de bois,
+(<i>commonwood strawberry</i>), tous les trois ans : ils renouvellent 
+encore, comme nous, leur plant des
+nouveaux <i>fraisiers</i>, qu&#39;ils vont chercher dans les forêts ; 
+car ceux des jardins dégénerent. <i>Voyez</i> Bradley <i>&amp;</i> Miller, si vous desirez de plus grands détails.
+</p>
+<p>
+La fraise est un petit fruit rouge ou blanc ; il ressemble 
+au bout des mammelles des nourrices ; c&#39;est
+le plus hâtif, &amp; un des plus délicieux fruits du printems : on connoît qu&#39;il est mûr &amp; bon à manger, quand
+il quitte la queue sans peine. Il y en a de plusieurs
+especes, soit rouges soit blanches ; mais la plus petite
+&amp; la meilleure pour le parfum, est la fraise de bois
+ou de montagnes. On cultive la fraise du Chily, <i>fragaria chiliensis</i>, par curiosité: la fraise écarlate de Virginie, <i>fragaria virginiana fructu coccineo</i>, est recherchée 
+pour sa bonté; &amp; la fraise <i>haut boy</i> des Anglois,
+<i>fragaria, fructu parvi pruni magnitudine</i>, C. B. est estimée 
+pour la grosseur de son fruit. <i>Voyez</i> <sc><ref target="head:Fraisier" type="search">Fraisier</ref></sc>,
+(<i>Mat. med.</i>) (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

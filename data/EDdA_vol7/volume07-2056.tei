@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29510" id="53:21" vol="7">
+<index type="head" value="GETES, (les) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GETES</head>
+<p>
+GETES, (<sc>les</sc>) <i>Géog. anc.</i> ancien peuple de Scythes, qui ayant passé en Europe, vinrent s&#39;établir
+aux environs du Danube. Dès le tems d&#39;Auguste, ils
+occupoient la rive gauche du Danube, avec les Bastarnes, les Besses, &amp; les Sarmates. Les oeuvres
+d&#39;Ovide sont remplies des plaintes qu&#39;il fait de vivre 
+au milieu d&#39;eux. Quoique le lieu où il étoit relegué,
+soit à-peu-près sous le parallele de Bordeaux, il le dépeint comme s&#39;il se trouvoit jetté dans
+le climat de la Norvege. Du tems d&#39;Auguste, les <i>Getes</i> n&#39;étoient point encore établis en-deçà du Danube, mais il paroît qu&#39;ils l&#39;avoient passé au moins en
+<milestone unit="column" n="2" />
+partie sous Claudius. Au reste, Strabon est le seul
+des anciens qui ait bien marqué les divisions des <i>Getes</i>, &amp; qui nous apprenne les vrais détails de cette
+nation.
+</p>
+<p>
+Les <i>Getes</i>, selon cet auteur, habitoient le pays
+qui est au-delà de celui des Sueves, à l&#39;orient, le
+long du Danube ; c&#39;est ce que nous appellons aujourd&#39;hui la Transylvanie, la Valachie, &amp; la partie
+de la Bulgarie qui est à la droite du Danube. Ils parloient 
+la même langue que les Thraces ; le nom de
+<i>Getes</i> étoit le nom commun à toute la nation, &amp; le
+nom particulier d&#39;un peuple de cette nation. L&#39;autre peuple étoit composé de Daces, <i>Daci</i>, que Strabon appelle <foreign lang="greek">Δάυοι</foreign>, <i>Davi</i>, Daves. De ces noms
+de <i>Getes</i> &amp; de <i>Daves</i>, sont venus les noms de valets 
+<i>Geta</i> &amp; <i>Davus</i>, si communs dans les comédies
+latines.
+</p>
+<p>
+Il faut bien distinguer les Goths des <i>Getes</i>. Les
+Goths habitoient près de la mer Baltique, à l&#39;occident 
+de la Vistule, &amp; les <i>Getes</i> dès le commencement
+ont été sur les bords du Danube, près de la Dacie.
+<i>Voyez</i> <sc><ref target="head:Goths" type="search">Goths</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,104 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30729" id="55:270:1" vol="7">
+<index type="head" value="Guipé" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Boutonnier" />
+<index type="normclass" value="Boutonnier" />
+<index type="englishclass" value="Buttonmaker" />
+<index type="generatedclass" value="Boutonnier" />
+<index type="pos" value="NA" />
+<head>Guipé</head>
+<p>
+<sc>Guipé</sc>, <i>en terme de Boutonnier</i>, il se dit d&#39;un fil
+de deux ou plusieurs brins retordus ensemble dans
+le sens naturel, &amp; d&#39;un troisieme de même ou de différente 
+couleur, attaché plus ou moins loin du roüet,
+mais vis-à-vis, sur un émerillon ; le roüet en mouvement 
+y met les maîtres brins qui sont accrochés
+à l&#39;émerillon, qui tourne &amp; fait tourner le troisieme
+que l&#39;on conduit de l&#39;émerillon jusqu&#39;au roüet, en
+laissant entre les tours qu&#39;il fait sur les maîtres brins,
+plus ou moins de distance. Le <i>guipé</i> peut entrer dans
+toutes sortes d&#39;enjolivemens.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

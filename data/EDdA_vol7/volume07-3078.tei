@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30532" id="55:121" vol="7">
+<index type="head" value="GRUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ornith." />
+<index type="normclass" value="Ornithologie" />
+<index type="englishclass" value="Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GRUE</head>
+<p>
+GRUE, s. f. <i>grus</i>, (<i>Ornith.</i>) grand oiseau aquatique 
+qui a le cou &amp; les jambes fort longues. Il pese
+pour l&#39;ordinaire dix livres, &amp; il a près de cinq piés
+de longueur, depuis l&#39;extrémité du bec jusqu&#39;au bout
+des piés. Le bec est droit, pointu, &amp; de couleur verdâtre 
+teinte de noirâtre. Il a près de quatre pouces
+de longueur, &amp; il est applati sur les côtés. Le sommet
+de la tête a une couleur noire, &amp; il est couvert de poil
+ou de soie, au lieu de plumes. Il y a sur l&#39;occiput une
+aréole rouge &amp; nue ; deux bandes blanches s&#39;étendent 
+depuis les yeux jusqu&#39;au sommet d&#39;une tache
+de couleur de cendrée qui est sur l&#39;occiput, au-dessous de l&#39;aréole dont il a été fait mention : ces deux
+bandes descendent ensuite jusqu&#39;à la poitrine. La
+gorge &amp; les côtés de la tête sont noirs ; le dos, les
+épaules &amp; la poitrine, le ventre en entier, les cuisses 
+&amp; presque toutes les petites plumes des aîles ont
+une couleur cendrée ; les aîles sont très-étendues,
+&amp; ont vingt-quatre grandes plumes ; la queue est petite,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ronde &amp; composée de douze plumes qui sont
+de couleur cendrée, à l&#39;exception du bout qui est
+noir ; les jambes ont aussi une couleur noire, &amp; sont
+nues jusqu&#39;au-dessous de l&#39;articulation. Cet oiseau
+est passager, &amp; il a la chair assez bonne ; il vit de semences 
+&amp; d&#39;herbes. Willughbi, <i>Ornit. Voyez</i> <sc><ref target="head:Oiseau" type="search">Oiseau</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

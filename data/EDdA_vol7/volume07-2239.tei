@@ -1,0 +1,885 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29693" id="53:161:1" vol="7">
+<index type="head" value="Globe" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Robert de Vaugondy &amp; d&#39;Alembert" />
+<index type="shortauth" value="Robert de Vaugondy &amp; d&#39;Alembert" />
+<index type="kafnum" value="115 &amp; 2" />
+<index type="kafauth" value="Robert de Vaugondy, Didier (1723-1786) &amp; Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Astronom. &amp; Géogr." />
+<index type="normclass" value="Astronomie | Géographie" />
+<index type="englishclass" value="Astronomy | Geography" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="NA" />
+<head>Globe</head>
+<p>
+<sc>Globe</sc>, (<i>Astronom. &amp; Géogr.</i>) On appelle <i>globe
+céleste</i> &amp; <i>globe terrestre</i>, deux instrumens de Mathématique, dont le premier sert à représenter la surface
+concave du ciel avec ses constellations ; &amp; le second
+la surface de la terre, avec les mers, les îles, les rivieres,
+les lacs, les villes, <i>&amp;c.</i> Sur l&#39;un &amp; l&#39;autre,
+l&#39;on trouve décrites plusieurs circonférences de cercle
+qui répondent à des cercles que les Astronomes ont
+imaginés pour pouvoir rendre raison du méchanisme
+de l&#39;univers.
+</p>
+<p>
+L&#39;on en distingue dix principaux, savoir six grands
+&amp; quatre petits ; les premiers sont l&#39;équateur, le méridien,
+l&#39;écliptique, le colure des solstices, le colure 
+des équinoxes, &amp; l&#39;horison ; les seconds sont les
+tropiques du cancer &amp; du capricorne, &amp; les deux
+cercles polaires. <i>Voyez ces mots</i>.
+</p>
+<p>
+Le <i>globe</i> &amp; la sphere different, en ce que le <i>globe</i>
+est plein &amp; la sphere évuidée. <i>Voyez</i> <sc><ref target="head:Armillaire" type="search">Armillaire</ref></sc>.
+</p>
+<p>
+Nous ignorons par qui &amp; en quel tems ces instrumens 
+ont été inventés : il est certain cependant qu&#39;on
+en connoissoit l&#39;utilité du tems d&#39;Archimede. Strabon, <i>liv. II. p. 116.</i> nous parle d&#39;un <i>globe</i> de Cratès,
+comme d&#39;un moyen très-avantageux pour représenter 
+au naturel les parties connues de la terre. Ce Cratès étoit de Mallus en Cilicie ; il avoit été maître de
+Panaetius de Rhodes, qui vivoit 130 ans avant J. C.
+</p>
+<p>
+Les principaux <i>globes</i> que l&#39;on connoisse depuis le
+renouvellement des Sciences en Europe, sont ceux
+de Tycho, célebre astronome, dont un de quatre
+piés sept pouces une ligne de diametre, fut exécuté
+<milestone unit="column" n="2" />
+en cuivre, que M. Picard a vû en 1671 à Copenhague, dans l&#39;auditoire de l&#39;académie ; &amp; un autre qui
+par sa grandeur énorme frappa d&#39;étonnement le czar
+Pierre le Grand : douze personnes peuvent s&#39;asseoir
+dedans autour d&#39;une table, &amp; y faire des observations ; 
+il fut transporté de Gottorp à Petersbourg, où
+M. Delisle, l&#39;astronome, dit l&#39;avoir vû &amp; orienté
+lui-même.
+</p>
+<p>
+L&#39;on connoît en France les beaux <i>globes</i> que le
+cardinal d&#39;Etrées fit exécuter &amp; dédia à Louis XIV.
+ils ont douze piés de diametre. Ils avoient été placés
+à Marly, mais ils sont présentement à Paris dans la
+bibliotheque du Roi. Coronelli se signala par des <i>globes</i> de trois piés huit pouces de diametre, pour l&#39;exécution 
+desquels les princes de l&#39;Europe souscrivirent ; 
+le céleste fut fait en France, &amp; le terrestre à Venise. Au commencement de ce siecle, Guillaume Delisle en composa d&#39;un pié de diametre. Les plus nouveaux 
+enfin sont ceux qui furent faits par ordre du
+roi, &amp; publiés en 1752. L&#39;Angleterre a vû ceux de
+Senex, célebre astronome ; &amp; l&#39;on attend les nouveaux 
+dont la société royale de Gottingue avoit publié 
+le projet de souscription, lorsqu&#39;elle résidoit à
+Nuremberg.
+</p>
+<p>
+Il seroit inutile de s&#39;étendre davantage touchant
+toutes les différentes sortes de <i>globes</i> qui ont été publiés 
+depuis ; ils sont plûtôt l&#39;objet du commerce de
+leurs auteurs, que la preuve de leurs connoissances
+dans la composition de ces ouvrages. Il convient plûtôt 
+de traiter de la construction de ces instrumens ; je
+la distingue en deux parties, l&#39;une purement géométrique,
+&amp; l&#39;autre méchanique.
+</p>
+<p>
+La premiere donne la méthode de disposer sur une
+surface plane les élémens qui constituent la surface
+sphérique du <i>globe ;</i> &amp; la seconde donne la construction 
+des boules &amp; de tout ce qui en concerne la
+monture, pour faire des <i>globes</i> complets.
+</p>
+<p>
+Si l&#39;on considere une boule dont les deux poles sont
+marqués, &amp; dont l&#39;équateur est divisé en 360 degrés ; 
+les cercles qui passeront par les deux poles &amp;
+par chacun de ces degrés, renfermeront un espace
+qui va toûjours en diminuant depuis l&#39;équateur jusqu&#39;à l&#39;un &amp; l&#39;autre pole : c&#39;est cet espace que l&#39;on
+appelle <i>fuseau</i>. Il s&#39;agit de trouver les élémens de la
+courbe qui renferme cet espace. Il semble que plus
+on multiplieroit ces fuseaux, plus on approcheroit
+de l&#39;exactitude : mais la pratique contredit en cela
+la théorie ; c&#39;est pourquoi l&#39;on se contente ordinairement 
+de partager l&#39;équateur en douze parties égales.
+</p>
+<p>
+<i>Pour tracer les fuseaux</i>. Tirez la droite <i>AB</i> (<i><ref target="XPL:5304" type="platelink">fig.
+1</ref>.</i>), égale au rayon du <i>globe</i> que vous voulez construire.
+<i>Voyez la <ref target="XPL:5305" type="platelink">Pl. des globes</ref></i>, à la suite des <i><ref target="XPL:5306" type="platelink">Pl. de
+Géographie</ref></i>.
+</p>
+<p>
+Du point <i>A</i> comme centre, décrivez le quart de
+circonférence <i>ABC</i>, que vous diviserez en trois parties 
+égales aux points <i>D, E</i>.
+</p>
+<p>
+Tirez <i>BE</i>, corde de trente degrés.
+</p>
+<p>
+Coupez en deux également au point <i>F</i> l&#39;arc <i>BE</i>.
+</p>
+<p>
+Tirez la corde <i>BF ;</i> elle sera la demi-largeur du fuseau,
+&amp; trois fois la corde <i>BE</i> de trente degrés, donnera 
+la longueur du même fuseau.
+</p>
+<p>
+Il s&#39;agit présentement d&#39;en décrire la courbe : pour
+y parvenir, tirez la droite <i>GH</i> égale à deux fois la
+corde <i>BF</i> de quinze degrés. <i><ref target="XPL:5307" type="platelink">Fig. 1</ref>.</i>
+</p>
+<p>
+Elevez sur le milieu <i>I</i> de cette ligne <i>GH</i> la perpendiculaire 
+indéfinie <i>IK</i>.
+</p>
+<p>
+Portez sur cette perpendiculaire trois fois la longueur 
+de la corde <i>CD</i> de la premiere figure, de 30
+degrés : savoir de <i>I</i> en <i>L, M, N ;</i> &amp; subdivisez chacun 
+de ces espaces en trois parties égales, elles vous
+donneront sur la ligne <i>IK</i> un point 10, 20, 30, <i>&amp;c.</i>
+de chacun des cercles paralleles à l&#39;équateur.
+</p>
+<p>
+Décrivez ensuite sur une ligne égale à <i>GH</i> de la
+<i><ref target="XPL:5308" type="platelink">fig. 2</ref>.</i> une demi circonférence <i>GON</i> (<i><ref target="XPL:5309" type="platelink">fig. 3</ref>.</i>)
+<pb n="7:708" facs="V7/ENC_7-708.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Divisez chaque quart de cercle <i>GO, NO</i>, en
+neuf parties égales, c&#39;est-à-dire de 10 en 10 degrés.
+Par ces divisions correspondantes 10, 10; 20, 20,
+<i>&amp;c.</i> tirez des lignes paralleles au diametre <i>GN</i>.
+</p>
+<p>
+Portez la moitié de chacune de ces cordes successivement 
+sur les lignes paralleles qui coupent la ligne 
+<i>IK</i> (<i><ref target="XPL:5310" type="platelink">fig. 2</ref>.</i>). Par exemple, la moitié de la corde
+10, 10 du demi-cercle (<i><ref target="XPL:5311" type="platelink">fig. 3</ref>.</i>) sur la premiere parallele 
+<i>aa</i> (<i><ref target="XPL:5312" type="platelink">fig. 2</ref>.</i>) de 10 en <i>a</i> de part &amp; d&#39;autre ; la
+moitié de la corde 20, 20 sur la seconde parallele
+<i>b, b,</i> &amp; ainsi de suite jusqu&#39;en <i>N</i>.
+</p>
+<p>
+Joignez tous les points <i>a, b, c, d, e, f, g, h, N</i>,
+par des lignes droites, vous aurez la courbe cherchée 
+du demi-fuseau.
+</p>
+<p>
+L&#39;on remarquera aisément que cette courbe sera
+d&#39;autant plus juste, que l&#39;on aura divisé la ligne <i>IN</i>
+(<i><ref target="XPL:5313" type="platelink">fig. 2</ref>.</i>) &amp; la demi circonférence <i>GON</i> (<i><ref target="XPL:5314" type="platelink">fig. 3</ref>.</i>) en
+un plus grand nombre de parties.
+</p>
+<p>
+Il est avantageux de tracer ce fuseau en cuivre,
+pour le faire aussi juste qu&#39;on peut le desirer. Ce
+fuseau étant donc ainsi construit, il faut tracer sur
+une feuille de papier une ligne indéfinie, sur laquelle
+l&#39;on portera 12 fois la largeur <i>GH</i> du fuseau, si on
+la fait de 30<sup>d</sup> ; ou 24 fois, si elle comprend 15<sup>d</sup>.
+</p>
+<p>
+Vous diviserez chaque espace en deux parties
+égales ; &amp; par tous ces points de division vous éleverez des perpendiculaires. Pour lors, si vous posez
+avec précision ce demi fuseau de cuivre, ensorte que
+sa base convienne avec la ligne, &amp; sa pointe avec
+la perpendiculaire qui tombe sur le milieu de chaque 
+douzieme partie de cette même ligne, vous tracerez 
+les courbes des fuseaux.
+</p>
+<p>
+Pour décrire sur ces fuseaux les arcs qui font partie 
+des cercles paralleles à l&#39;équateur, divisez en neuf
+parties égales chacune des courbes qui forment la
+circonférence des demi-fuseaux ; par ces points de
+division &amp; ceux de la ligne du milieu de chaque fuseau 
+faites passer des portions de circonférences de
+cercle, elles seront les parties des paralleles cherchés.
+</p>
+<p>
+Il est facile encore de trouver les centres de ces
+arcs par le moyen des tangentes (<i>voyez</i> <sc><ref target="head:Tangente" type="search">Tangente</ref></sc>)
+calculées de 10 en 10 ou de 5 en 5 degrés, eu égard
+au rayon du <i>globe</i> que l&#39;on veut construire. Pour le
+80<sup>e</sup> parallele, il faut prendre avec un compas sur
+une échelle ou sur le compas de proportion la longueur 
+de la tangente de 10 degrés, poser une pointe
+du compas sur la ligne du milieu du fuseau au point
+du 80<sup>e</sup> parallele, &amp; porter l&#39;autre pointe de ce compas 
+sur la même ligne, prolongée autant qu&#39;il en sera
+besoin ; cette longueur donnera le centre de l&#39;arc
+proposé. Pour le 70<sup>e</sup> parallele, il faut prendre la tangente 
+de 20 degrés ; pour le cercle polaire, celle de
+23<sup>d</sup> 1/2, c&#39;est-à-dire qu&#39;il faut toûjours prendre la tangente 
+du complément de la distance du parallele à
+l&#39;équateur ; &amp; l&#39;on aura successivement les centres
+de tous les paralleles.
+</p>
+<p>
+Les méridiens se traceront, en divisant chacun de
+ces arcs de paralleles en trois parties égales, si on
+veut avoir ces méridiens de 10 en 10 degrés ou en
+six parties égales, pour les avoir de 5 en 5 degrés,
+&amp; en joignant ces points de divisions par des lignes
+droites.
+</p>
+<p>
+Il ne reste plus que l&#39;écliptique à tracer. Pour cela
+il faut considérer que l&#39;écliptique étant un grand
+cercle qui coupe le <i>globe</i> en deux parties égales, &amp;
+qui est incliné à l&#39;équateur, la moitié doit s&#39;en trouver 
+dans la partie supérieure de six fuseaux, &amp; l&#39;autre 
+moitié dans la partie inférieure des six autres.
+C&#39;est pourquoi il faut prendre les trois premiers fuseaux 
+qui sont compris entre le point équinoxial <gap />
+&amp; le point solstitial <i>69</i>.
+</p>
+<p>
+Divisez en degrés un des demi-méridiens qui fait
+une partie de la circonférence d&#39;un fuseau ; par exemple,
+la courbe <i>AE</i> (<i><ref target="XPL:5315" type="platelink">fig. 4</ref>.</i>) du 1<sup>er</sup> fuseau <i>AEB</i> qui
+<milestone unit="column" n="2" />
+passe par le point équinoxial <gap />, &amp; qui sera aussi le
+premier méridien sur le <i>globe</i>. Prenez sur ce méridien
+12<sup>d</sup>. 16. que vous porterez de <i>B</i> en <i>a</i> sur les courbes 
+<i>BE, BF</i> des deux premiers fuseaux ; portez de
+<i>C</i> en <i>b</i> 20<sup>d</sup>. 38. sur les courbes <i>CF, CG</i> du second
+&amp; du troisieme fuseau ; portez enfin 23. 28. de <i>D</i> en
+<i>c</i> sur la courbe <i>DG</i> du troisieme fuseau.
+</p>
+<p>
+Joignez ces points par des lignes droites, elles
+vous donneront un quart de l&#39;écliptique ; les trois
+autres quarts se décriront de même, en partant toûjours 
+du premier &amp; du 180<sup>e</sup> méridien, qui sont les
+colures des équinoxes.
+</p>
+<p>
+Tous ces cercles étant tracés, l&#39;on divisera, si
+l&#39;on veut opérer avec exactitude, chaque fuseau de
+degré en degré, tant pour les méridiens que pour les
+paralleles ; &amp; l&#39;on dessinera les côtes, les rivieres,
+les îles, en un mot tout ce qui peut entrer de détail
+dans la composition géographique du <i>globe</i> terrestre,
+d&#39;après les mémoires, les cartes les plus exactes, &amp;
+les observations les plus autentiques. Ce dessein du
+<i>globe</i> terrestre étant fait, c&#39;est au graveur ensuite à
+le mettre sur le cuivre pour l&#39;exécuter.
+</p>
+<p>
+Toutes les opérations précédentes sont communes 
+aux <i>globes</i> céleste &amp; terrestre ; il s&#39;agit cependant 
+de convenir pour le céleste du calcul dont on
+doit se servir pour y placer les étoiles. Comme l&#39;on
+a remarqué pour les étoiles deux mouvemens principaux,
+l&#39;un d&#39;Orient en Occident sur les poles du
+monde, &amp; l&#39;autre d&#39;Occident en Occident sur les poles
+de l&#39;écliptique : le premier donne les ascensions droites 
+&amp; les déclinaisons des étoiles (<i>voyez</i> 
+<sc><ref target="Ascension droite" type="search">Ascension droite</ref> <i>&amp;</i> <ref target="head:Declinaison" type="search">Declinaison</ref></sc> ); &amp; le second leurs longitudes 
+&amp; leurs latitudes. Dans le premier cas, les
+cercles qui nous ont donné pour le <i>globe</i> terrestre les
+longitudes &amp; les latitudes, se convertissent sur le
+<i>globe</i> céleste en ascensions droites &amp; déclinaisons ; &amp;
+l&#39;équateur avec l&#39;écliptique auront la même disposition.
+</p>
+<p>
+Mais si l&#39;on se sert des longitudes &amp; des latitudes
+célestes, pour lors le cercle qui nous servoit d&#39;équateur 
+sur les fuseaux du <i>globe</i> terrestre, deviendra 
+l&#39;écliptique sur ceux du céleste ; &amp; l&#39;équateur se
+tracera sur ces derniers, comme l&#39;écliptique l&#39;a été
+sur les premiers. Dans ce dernier cas, supposant les
+courbes des fuseaux tracées, il ne s&#39;agit plus que de
+donner une méthode pour décrire les colures des
+équinoxes, les tropiques du Cancer &amp; du Capricorne, &amp; les cercles polaires.
+</p>
+<p>
+Pour tracer le colure des équinoxes, il s&#39;agit de
+trouver les points où ce cercle coupe la partie supérieure 
+des trois premiers fuseaux, &amp; par conséquent 
+la distance de ces points à l&#39;écliptique, ce qui
+s&#39;opere aisément par la Trigonométrie sphérique
+(<i>voyez</i> <sc><ref target="head:Trigonometrie" type="search">Trigonometrie</ref></sc>), en disant : le sinus total
+est à la tangente de 66. 32. inclinaison de ce colure
+à l&#39;écliptique, comme 30 &amp; 60 degrés pour <i>AB</i> &amp;
+<i>AC</i> (<i><ref target="XPL:5316" type="platelink">fig. 5</ref>.</i>) sont à 49<sup>d</sup> &amp; 63<sup>d</sup> 30&#39;.
+</p>
+<p>
+Portant donc 49<sup>d</sup> depuis le point <i>B</i> jusqu&#39;en <i>aa</i>
+des circonférences <i>BE, BF</i> des deux premiers fuseaux ; 
+portant aussi 63<sup>d</sup> 3&#39;de <i>C</i> en <i>bb</i> sur les circonférences 
+<i>CF, CG</i> du second &amp; troisieme fuseau ;
+&amp; enfin 66<sup>d</sup> 32&#39;de <i>D</i> en <i>cc</i> sur la circonférence <i>DG</i>
+du troisieme fuseau, les lignes droites tirées par ces
+points donneront le quart du colure. Il faut répéter
+la même opération pour les trois autres fuseaux qui
+suivent, &amp; agir de même pour la partie inférieure
+des six autres.
+</p>
+<p>
+Quant aux tropiques, l&#39;on prendra, si l&#39;on veut,
+celui du Cancer qui se trouve dans la partie supérieure 
+des fuseaux. L&#39;on sait qu&#39;il touche l&#39;écliptique
+au point marqué <i>69</i> ou <i>A</i>. En partant de ce point,
+l&#39;on portera 3<sup>d</sup> 23&#39;de <i>B</i> en <i>a</i> (<i><ref target="XPL:5317" type="platelink">fig. 6</ref>.</i>) sur les circonférences 
+<i>BH, BI</i> des deux 1<sup>ers</sup> fuseaux ; 12<sup>d</sup> 53&#39;de <i>C</i>
+en <i>b</i> sur les circonférences <i>CI, CK</i> du second &amp;
+<pb n="7:709" facs="V7/ENC_7-709.jpeg" />
+<milestone unit="column" n="1" />
+troisieme fuseau ; 25<sup>d</sup> 46&#39;de <i>D</i> en <i>c</i> sur les circonférences 
+<i>DK, DL</i> du troisieme &amp; quatrieme fuseau ; 
+37<sup>d</sup> 25&#39;de <i>E</i> en <i>d</i> sur <i>EL, EM; </i> 44. 39. de
+<i>F</i> en <i>e</i> sur <i>FM, FN ;</i> enfin 47<sup>d</sup> sur <i>GN</i>, circonférence 
+du dernier fuseau : ce qui fait la moitié du tropique.
+La même opération se fait pour le tropique
+du Capricorne, en observant qu&#39;il doit toucher l&#39;écliptique 
+au point opposé au premier, &amp; qu&#39;il doit
+se tracer dans la partie inférieure des six autres fuseaux.
+</p>
+<p>
+Le centre commun aux arcs qui doivent passer par
+les points correspondans d&#39;un même fuseau, se trouve 
+de cette maniere. L&#39;on joint ces deux points, tels
+que <i>A, a</i>, par une ligne droite, au milieu de laquelle
+on éleve une perpendiculaire indéfinie. L&#39;on prend
+ensuite avec un compas la longueur de la tangente
+de 66<sup>d</sup> 32&#39;proportionnelle au rayon du <i>globe ;</i> l&#39;on
+pose une pointe de ce compas sur un des points <i>A</i>
+de la courbe <i>AH</i>, &amp; de l&#39;autre point l&#39;on trace une
+section ; l&#39;on fait la même chose à l&#39;autre point <i>A</i> de
+la courbe <i>BH</i>, &amp; le point d&#39;intersection qui se trouve
+dans la perpendiculaire est le centre de l&#39;arc requis.
+</p>
+<p>
+A l&#39;égard des cercles polaires, il suffit d&#39;en tracer
+la moitié, touchant le pole de l&#39;écliptique au point
+<i>K.</i> L&#39;on portera 43<sup>d</sup> de <i>A</i> en <i>g</i> sur la courbe <i>AH</i> du
+premier fuseau <i>AHB ;</i> 48. 44. de <i>B</i> en <i>h</i> sur les
+courbes <i>BH, BI</i> du premier &amp; du second fuseau ;
+enfin 65<sup>d</sup> 28&#39;de <i>C</i> en <i>i</i> sur les courbes <i>CI, CK</i> du
+second &amp; troisieme fuseau. L&#39;on trouvera les centres
+des arcs qui doivent passer par ces points <i>gh, hi,
+ik</i>, en prenant, comme ci-dessus, avec le compas
+la longueur de tangente de 23<sup>d</sup> 28&#39;, elle sera le rayon
+des cercles qui doivent passer par ces points.
+</p>
+<p>
+Ces fuseaux du <i>globe</i> céleste étant donc construits
+avec tous les cercles dont il doit être composé, l&#39;on
+divisera tous les paralleles à l&#39;écliptique ou latitudes,
+de même que les longitudes célestes, de degrés
+en degrés, pour pouvoir poser les étoiles à leur
+juste place, conformément aux meilleurs catalogues
+que l&#39;on en a faits ; l&#39;on enveloppe ensuite les amas
+d&#39;étoiles appellées <i>constellations</i>, dans des figures
+d&#39;hommes &amp; d&#39;animaux dont on est convenu ; enfin
+l&#39;on ajoûte à chaque étoile, distinguée selon sa grosseur,
+les caracteres introduits par Bayer, dont les
+Astronomes font usage pour pouvoir se reconnoître
+dans leurs observations ; &amp; le dessein du <i>globe</i> céleste 
+est entierement fini.
+</p>
+<p>
+Des deux méthodes de placer les étoiles, savoir
+par les ascensions droites &amp; déclinaisons &amp; par les
+longitudes &amp; latitudes célestes, la derniere est préférable 
+par le tems &amp; le travail qu&#39;elle épargne ;
+d&#39;autant plus qu&#39;il ne faut qu&#39;ajoûter aux tables calculées 
+par longitudes le nombre de degrés &amp; de minutes,
+eu égard au tems auquel ces tables ont été
+calculées, &amp; à raison d&#39;un degré en 72 ans ; au lieu
+que par les ascensions droites &amp; les déclinaisons, il
+faut calculer le lieu de chaque étoile pour ces deux
+objets différens. Or, quand on seroit assûré de n&#39;avoir 
+point fait de faute dans son calcul, il est toûjours 
+certain que l&#39;épargne du tems auroit été un
+gain plus considérable.
+</p>
+<p>
+<i>Description de la méchanique des globes</i>. Dans la
+construction méchanique des <i>globes</i>, rien n&#39;est plus
+essentiel que la précision dans la rondeur &amp; la monture 
+des boules. C&#39;est à l&#39;expérience jointe à la théorie 
+que j&#39;ai de ces instrumens, que je suis redevable
+du détail dans lequel je vais entrer.
+</p>
+<p>
+Les outils nécessaires qui entrent dans la main-d&#39;oeuvre d&#39;un <i>globe</i>, ne sont pas en grand nombre.
+</p>
+<p>
+Il faut avoir premierement un demi-fuseau <i>ABC</i>
+de cuivre ou de fer-blanc, proportionné aux boules 
+que l&#39;on veut construire. <i>A</i> est la pointe du fuseau,
+<i>BC</i> son pié de diametre ; il faut y laisser environ 
+un pouce &amp; demi de plus que la moitié de son
+grand axe. <i><ref target="XPL:5318" type="platelink">Figure 1</ref>. <ref target="XPL:5319" type="platelink">Planche II</ref></i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+2°. Une ou plusieurs demi boules <i>ABC</i> (<i><ref target="XPL:5320" type="platelink">fig. 2</ref>.</i>)
+de bois bien dur, tel que des souches de racines d&#39;orme 
+tortillard, qui ayent été long-tems exposées au
+soleil, pour ne pas être sujettes à se fendre. Ces demi-boules doivent être portées sur un seul pié,
+quand elles sont petites ; &amp; sur trois piés, lorsqu&#39;elles
+doivent servir à faire des grosses boules. <i>AB</i> est un
+trait dans le plan de l&#39;équateur de la boule, &amp; à son
+pole <i>C</i> est une pointe.
+</p>
+<p>
+3°. Un demi-cercle de fer ou de cuivre (<i><ref target="XPL:5321" type="platelink">fig. 3</ref>.</i>),
+dont la circonférence intérieure soit en biseau &amp;
+juste du diametre de la boule à construire. Il doit être
+d&#39;une largeur &amp; d&#39;une épaisseur assez considérable
+pour pouvoir résister. Vers le milieu de ce demi-cercle 
+l&#39;on réserve une partie plus large percée de
+deux trous, pour être montés à vis sur un morceau
+de bois épais &amp; oblong, au milieu duquel se trouve
+aussi un trou par lequel l&#39;on fait passer une forte vis,
+pour fixer le tout sur un établi avec l&#39;écrou que l&#39;on
+serre en-dessous. A ce demi-cercle sont attachées
+par-derriere aux points <i>H, K</i> deux équerres vissées
+aussi dans le même morceau de bois. <i>EF, GD</i> sont
+deux petites broches cylindriques à oreille, qui font
+partie du diametre du demi-cercle ; elles se poussent
+&amp; se tirent dans un trou cylindrique ; &amp; on les fixe,
+quand on veut, par le moyen des vis <i>F, G</i>. C&#39;est de
+l&#39;exactitude de cet outil que dépend la précision des
+boules que l&#39;on veut faire.
+</p>
+<p>
+La <i><ref target="XPL:5322" type="platelink">fig. 4</ref>.</i> représente des ciseaux montés sur un
+morceau de bois taillé en coin, &amp; que l&#39;on visse aussi
+sur l&#39;établi quand on veut s&#39;en servir. Ils sont destinés 
+pour couper du carton de telle épaisseur qu&#39;il soit.
+</p>
+<p>
+Pour commencer une boule, l&#39;on prend une feuille
+de carton de pâte le plus mince que l&#39;on trouve ;
+l&#39;on fixe sur cette feuille le fuseau de cuivre <i>ABC</i>
+par son sommet <i>A ;</i> l&#39;on trace avec un stilet douze
+demi-fuseaux qui se tiennent tous par le sommet. Il
+faut ensuite enduire de savon humide la demi boule
+de bois ; de sorte que la couche de savon soit assez
+épaisse pour ne pas être dissoute par l&#39;humidité du
+carton que l&#39;on doit y appliquer, &amp; de peur que la
+calotte que l&#39;on veut mouler ne s&#39;y attache.
+</p>
+<p>
+L&#39;on applique cette premiere couche de fuseaux
+bien imbibée d&#39;eau sur la demi-boule, ensorte que
+la pointe <i>C</i> de ce moule (<i><ref target="XPL:5323" type="platelink">fig. 2</ref>.</i>) passe par le trou
+commun au sommet des demi-fuseaux. Ce carton
+humide, obéissant au coup qu&#39;on lui donne avec la
+main, s&#39;applique exactement. On retient le tout par
+une corde que l&#39;on tourne au-dessous du trait <i>AB</i>
+qui marque l&#39;équateur de la boule, &amp; l&#39;on y fait un
+noeud coulant pour pouvoir la délier quand on veut.
+</p>
+<p>
+Il faut tailler ensuite vingt-quatre autres demi-fuseaux détachés que l&#39;on imbibe aussi d&#39;eau, &amp; que
+l&#39;on enduit de bonne colle de farine. On en applique
+une nouvelle couche ; en sorte que chaque demi-fuseau 
+recouvre d&#39;un tiers les joints de ceux de la
+premiere couche, comme on le voit par le profil de
+la <i><ref target="XPL:5324" type="platelink">figure 5</ref>.</i> Ayant fait de même pour la troisieme
+couche, l&#39;on enduit le tout de colle ; &amp; quand ces
+demi-fuseaux paroissent bien unis, on laisse sécher le
+tout naturellement. Il est avantageux d&#39;avoir au moins 
+deux moules de même calibre pour expédier
+l&#39;ouvrage, &amp; l&#39;on doit faire en été une provision de
+ces calottes.
+</p>
+<p>
+Lorsque la calotte est bien seche, l&#39;on y trace avec
+un trusquin ouvert de la distance <i>AD</i> (<i><ref target="XPL:5325" type="platelink">fig. 2</ref>.</i>) un
+trait qui termine la moitié juste de la boule. Il faut
+dénoüer la corde qui maintient la premiere couche
+de fuseau, &amp; avec une lame mince détacher les
+bords du carton de dessus le moule. Si l&#39;on a de la
+peine à enlever la calotte, il faut frapper dessus partout 
+avec un maillet de buis ; &amp; il est rare après cela
+que l&#39;on ne l&#39;enleve pas : autrement ce seroit un défaut 
+de savonnage, auquel il faut toûjours bien prendre 
+garde.
+<pb n="7:710" facs="V7/ENC_7-710.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Ayant deux calottes seches &amp; enlevées du moule,
+on les rognera au trait marqué par le trusquin avec
+les ciseaux destinés à cette opération (<i><ref target="XPL:5326" type="platelink">fig. 4</ref>.</i>).
+</p>
+<p>
+Ces calottes ainsi rognées, l&#39;on en rape la coupe
+pour aggrandir la surface de la tranche, &amp; pour
+donner plus de prise à la colle-forte qui doit les
+joindre. Un axe de bois appellé ordinairement <i>os de
+mort</i>, à cause de sa forme déliée vers son milieu, &amp;
+qui a pour longueur le diametre intérieur de la boule
+qu&#39;on veut faire, sert à assembler les deux calottes.
+Ses extrémités doivent être un peu sphériques ; &amp;
+l&#39;on y réserve à chaque une douille qui doit passer
+à-travers le pole de chaque calotte que l&#39;on perce
+avec un emporte-piece du diametre de la douille.
+Lorsque les boules sont d&#39;une grosseur considérable,
+au lieu d&#39;un simple axe, l&#39;on se sert d&#39;un autre
+(<i><ref target="XPL:5327" type="platelink">fig. 6</ref>.</i>) muni de quatre branches perpendiculaires
+entr&#39;elles, qui sont destinées à soûtenir la soudure
+des deux calottes.
+</p>
+<p>
+L&#39;on commence par fixer cet axe premierement
+dans une des calottes avec de la colle-forte que l&#39;on
+met à une de ses extrémités, de même qu&#39;au pole de
+la calotte où il doit être arrêté. Ensuite l&#39;on attache
+sur la moitié des extrémités <i>C, D, E, F</i>, des quatre 
+autres branches le bord de la calotte avec de la
+colle-forte &amp; de petites pointes. Lorsque cet axe
+est ainsi fixé dans la premiere calotte, l&#39;on fait de
+même pour la seconde calotte. Il faut à cette opération 
+la plus grande promptitude possible, pour ne
+pas donner le tems à la colle-forte de se prendre
+avant que l&#39;assemblage soit fait.
+</p>
+<p>
+Lorsque cet assemblage est fait, s&#39;il est resté quelques 
+endroits de la jointure sans colle, l&#39;on y en introduit 
+avec une petite spatule. La colle étant bien
+durcie, l&#39;on rape la soudure jusqu&#39;à ce qu&#39;elle soit
+bien unie, &amp; l&#39;on y applique ensuite deux ou trois
+bandes de gros papier imbibées de celle de farine.
+</p>
+<p>
+Les boules ainsi préparées sont d&#39;une grande solidité; 
+mais elles seroient encore trop grossieres,
+pour pouvoir y appliquer les épreuves imprimées
+du <i>globe</i>. C&#39;est pourquoi il faut proceder à les rendre 
+encore plus parfaites. Pour cet effet l&#39;on se servira 
+du demi-cercle de fer dont on a parlé plus haut ;
+l&#39;on coupera les deux bouts excédens des douilles
+de l&#39;axe qui traverse la boule, jusqu&#39;à ce qu&#39;ils soient
+pris justes dans le diametre du demi-cercle. L&#39;on
+percera chaque bout d&#39;un trou très-fin pour recevoir 
+les petites broches cylindriques du demi cercle
+qui doivent tenir la boule comme dans un tour. S&#39;il
+arrive que quelque petite éminence du carton frotte
+le demi-cercle, il faut les raper afin que la boule n&#39;y
+touche en aucun endroit. L&#39;on se sert ensuite d&#39;une
+composition de blanc dont nous parlerons plus bas,
+pour enduire la boule jusqu&#39;à ce qu&#39;elle touche de
+toutes parts le demi-cercle. L&#39;on doit observer de
+n&#39;en pas trop mettre à chaque couche, de peur qu&#39;il
+ne vienne à se fendre. La boule ainsi enduite tourne
+dans le demi-cercle qui en emporte le trop ; on la
+retire ensuite pour la faire secher naturellement. Il
+faut répéter la même opération jusqu&#39;à ce que l&#39;on
+ne voye plus de jour entre le demi-cercle &amp; la boule.
+Lorsqu&#39;elle est presque finie, l&#39;on doit éclaircir le
+blanc, en sorte qu&#39;il ne soit que comme une eau
+blanche un peu épaisse : il sert à la polir ; &amp; le mastic 
+étant bien sec est d&#39;une consistance très-dure.
+</p>
+<p>
+Voici la maniere de préparer ce blanc ou ce mastic.
+Il faut prendre du blanc en gres pains dont se
+servent les Doreurs, l&#39;écraser avec un rouleau de
+bois &amp; le passer au tamis, pour l&#39;avoir le plus fin
+qu&#39;il est possible ; prendre de la colle de Flandre, la
+plus blanche est la meilleure, parce qu&#39;elle ne colore 
+point la composition ; une livre pesant de cette
+colle est la dose pour huit pains de blanc. L&#39;on met
+tremper dans l&#39;eau cette colle la veille ; &amp; lorsqu&#39;elle
+<milestone unit="column" n="2" />
+est bien amollie, on la fait fondre sur un feu doux ;
+puis on la passe par un tamis, pour n&#39;y pas laisser
+de peaux qui feroient un mauvais effet. Lorsqu&#39;elle
+est ainsi passée, l&#39;on met tout le blanc écrasé dans
+une grande terrine propre à aller sur le feu ; &amp; l&#39;on
+y verse petit-à-petit cette colle fondue, en broyant
+bien le tout avec les mains, comme si l&#39;on pétrissoit
+une pâte. Le blanc ou le mastic étant ainsi achevé
+peut être mis tout de suite sur les boules ; &amp; lorsqu&#39;il est refroidi, il faut le faire refondre sur un petit 
+feu, &amp; le remuer avec un bâton, de peur qu&#39;il
+ne vienne à brûler.
+</p>
+<p>
+La boule étant entierement achevée, il est bon de
+s&#39;assûrer si elle est absolument sphérique ; elle en
+servira elle-même de preuve. Il la faut remettre dans
+le demi-cercle ; &amp; posant un stilet de cuivre à la division 
+de l&#39;équateur marqué sur cet instrument, l&#39;on
+tracera ce cercle sur la boule en la tournant. Si l&#39;on
+divise ensuite ce cercle en quatre parties égales, &amp;
+que les points opposés soient présentés aux chevilles 
+cylindriques du demi-cercle, en tournant cette
+boule, l&#39;on tracera avec le stilet un cercle qui sera
+un des méridiens. Si enfin l&#39;on prend sur ce dernier
+cercle deux points diamétralement opposés &amp; à une
+distance quelconque des poles de la boule, &amp; qu&#39;on
+les présente de même aux chevilles du demi-cercle,
+l&#39;on tracera encore un troisieme cercle qui doit couper 
+les deux autres à leur commune section, si la
+boule est parfaitement ronde. Telle est la précision
+à laquelle je suis parvenu, lorsque j&#39;ai dressé un ouvrier 
+pour ces instrumens.
+</p>
+<p>
+Il s&#39;agit présentement de poser les épreuves imprimées 
+du <i>globe</i> sur cette boule. Pour y parvenir
+avec facilite, il faut diviser cette boule en douze
+fuseaux, &amp; tracer les paralleles à l&#39;équateur, de
+même que l&#39;écliptique, les tropiques, &amp; les cercles
+polaires. Le demi-cercle ou instrument que l&#39;on a divisé 
+exprès de 10 en 10 degrés, &amp; où l&#39;on a remarqué 
+aussi les points des tropiques &amp; des cercles polaires,
+servira à tracer ces cercles, en faisant tourner 
+la boule dedans, &amp; appliquant sur chaque division 
+le stilet. Quant aux douze fuseaux, l&#39;on divisera 
+l&#39;équateur en douze parties égales ; &amp; le demi-cercle 
+rasant chacun de ces points, servira encore
+de regle pour tracer ces fuseaux.
+</p>
+<p>
+Il ne reste plus qu&#39;à appliquer chaque fuseau du
+<i>globe</i> imprimé sur chacun des douze de la boule. Il
+faut découper séparément ces fuseaux imprimés, les
+humecter d&#39;eau, &amp; les imbiber de colle d&#39;amydon ;
+on les appliquera les uns après les autres sur la boule,
+en faisant convenir les paralleles de l&#39;épreuve
+avec ceux de la boule ; &amp; l&#39;on fera prêter l&#39;épreuve
+autant qu&#39;il le faudra, en la frottant avec un brunissoir,
+jusqu&#39;à ce que le papier remplisse exactement
+sa place. L&#39;on encollera ensuite la boule ainsi avec
+la même colle d&#39;amydon un peu plus claire, en faisant 
+tourner la boule dans les mains ; l&#39;on aura
+soin que l&#39;encollage soit bien fait par-tout, &amp; l&#39;on
+suspendra la boule dans un lieu qui ne soit point exposé 
+à la poussiere, jusqu&#39;à ce qu&#39;elle soit entierement 
+seche.
+</p>
+<p>
+Cet encollage est un préparatif nécessaire pour
+recevoir les couches de vernis que l&#39;on applique
+dessus. J&#39;ai dit qu&#39;il devoit être fait avec de la colle
+bien claire, parce que si elle étoit trop épaisse, elle
+feroit un corps qui viendroit à se gerser, &amp; qui
+obligeroit le vernis à se fendre.
+</p>
+<p>
+Il faut à-présent monter cette boule dans un méridien.
+Or ce méridien peut être de carton ou de
+cuivre : le premier ne peut être bon que pour de petits 
+<i>globes ;</i> mais quand ils sont d&#39;une certaine dimension,
+telle que d&#39;un pié ou de dix-huit pouces, le
+méridien de cuivre est indispensable. Je ne parlerai
+point de la construction de ce dernier ; c&#39;est aux Ingénieurs <gap type="hyphenpb" />
+<pb n="7:711" facs="V7/ENC_7-711.jpeg" />
+<milestone unit="column" n="1" />
+en instrumens de Mathématiques à les construire.
+</p>
+<p>
+Les cartons dont on se servoit autrefois pour faire
+les méridiens, &amp; les autres cercles des <i>globes</i> &amp; des
+spheres, étoient composés de maculatures de rames
+&amp; de pains de sucre, sur lesquelles l&#39;on colloit plusieurs 
+feuilles de papier de rebut ; mais le mauvais
+service que l&#39;on en retiroit, m&#39;a fait préférer l&#39;emploi 
+de bon papier de gros-chapelet. Il faut au-moins
+vingt-quatre feuilles pour l&#39;épaisseur d&#39;un carton,
+qui, quand il est fait, &amp; qu&#39;il a passé sous la presse,
+se réduit au plus à deux lignes. L&#39;on fait aussi l&#39;horison 
+du même carton ; il ne s&#39;agit que de prendre
+la grandeur convenable à ces cercles pour les tailler ; 
+l&#39;on colle ensuite dessus les épreuves ; on les
+encolle &amp; on les vernit.
+</p>
+<p>
+Je ne m&#39;étendrai pas davantage sur ce qui concerne 
+la fabrique des <i>globes ;</i> les détails dans lesquels
+je suis entré m&#39;ont paru suffisans, pour pouvoir en
+rendre la pratique aisée. Je terminerai cet article par
+une courte description de la monture nouvelle des
+<i>globes</i> que j&#39;ai construits par ordre du Roi en 1752.
+</p>
+<p>
+La <i><ref target="XPL:5328" type="platelink">figure 7</ref>.</i> représente un de ces <i>globes</i> monté; son
+pié est en forme de cassolette couronnée par un bandeau 
+circulaire <i>A B C</i>, dans lequel tourne l&#39;horison
+de bois <i>D E F</i>, dont on voit le profil dans la <i><ref target="XPL:5329" type="platelink">fig. 8</ref>.
+a b c d e f</i> est la coupe de l&#39;horison ; <i>g h</i> est une petite
+plaque de cuivre vissée à cet horison pour empêcher 
+qu&#39;il ne se leve ; <i>I K</i> est le bandeau circulaire
+qui tient aux branches du pié.
+</p>
+<p>
+Pour procurer à l&#39;horison un mouvement commode 
+qui n&#39;obligeât point à déranger le pié du <i>globe</i>,
+l&#39;on a imaginé un moyen très-simple représenté dans
+la <i><ref target="XPL:5330" type="platelink">fig. 9</ref></i>. C&#39;est une piece ronde de cuivre <i>i k l m</i>, percée 
+dans le milieu d&#39;un trou rond <i>p q r s</i>, dans lequel
+entre une douille cylindrique <i>p q n o</i>, faisant corps
+avec une autre piece cylindrique <i>g c d h</i>. Cette piece
+a une ouverture <i>c d e f</i>, dont la joue se trouve dirigée 
+dans le centre de la douille <i>p q n o ;</i> cette fente
+est d&#39;une certaine largeur suffisante pour contenir
+une roulette <i>a b</i> sur laquelle le méridien de cuivre
+doit tourner.
+</p>
+<p>
+Tout ce méchanisme se place dans le centre de la
+noix, où les branches qui supportent l&#39;horison viennent 
+s&#39;emboîter. Il faut le disposer ensorte que la
+distance depuis le bord <i>a</i> de la roulette <i>a b</i>, soit
+égale à celle du centre de la boule au bord extérieur
+du méridien. Pour lors le méridien entrant dans l&#39;horison 
+&amp; posant sur la roulette, reçoit deux mouvemens,
+l&#39;un vertical sur cette roulette, &amp; l&#39;autre qu&#39;il
+communique à l&#39;horison par le mouvement de la
+douille autour de son axe. L&#39;on apperçoit aisément
+l&#39;avantage que l&#39;on retire de cette invention : lorsque 
+l&#39;on veut orienter le <i>globe</i>, il ne s&#39;agit que de
+tourner cet horison, jusqu&#39;à ce que la boussole qui y
+est posée, &amp; dont le nord &amp; le sud se trouvent dans
+le plan du méridien, indique la déclinaison convenable 
+au tems de l&#39;opération. <i>Article de M. <sc>Robert
+de Vaugondy</sc>, Géographe ordinaire du Roi</i>.
+</p>
+<p>
+Dans les <i><ref target="XPL:5331" type="platelink">Planches d&#39;Astronomie</ref>, <ref target="XPL:5332" type="platelink">fig. 58</ref>.</i> on a représenté 
+deux <i>globes</i>, soit céleste, soit terrestre, vûs
+suivant différens profils &amp; différentes positions ; la
+<i><ref target="XPL:5333" type="platelink">fig. 59</ref>. n°. 2.</i> représente la suite des fuseaux qu&#39;on
+doit coller sur le <i>globe ;</i> la <i><ref target="XPL:5334" type="platelink">fig. 60</ref>.</i> représente un de
+ces fuseaux divisé par degrés, &amp; sur lequel on a
+tracé les portions de cercles qu&#39;il doit contenir ; enfin 
+la <i><ref target="XPL:5335" type="platelink">fig. 61</ref>.</i> représente un quart de cercle de hauteur,
+dont la partie supérieure <i>H</i> s&#39;adapte au zénith
+du <i>globe</i>, &amp; sert à mesurer les distances des differens
+points du <i>globe</i> à l&#39;horison, lorsque cela est nécessaire,
+comme on le verra dans la suite de cet article.
+</p>
+<p>
+Pour choisir de bons <i>globes</i>, il faut prendre garde
+que l&#39;équateur &amp; l&#39;horison s&#39;entre-coupent justement 
+en deux parties égales ; ce que l&#39;on pourra reconnoître <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+si l&#39;on remarque que les points de section
+de ces deux cercles soient aux points du vrai orient
+&amp; occident marqués au bord de l&#39;horison, &amp; que
+ces mêmes points soient distans de 90 degrés ou d&#39;un
+quart de cercle des points du septentrion &amp; du midi.
+On pourra encore s&#39;assûrer si le <i>globe</i> est bien construit,
+en élevant le pole de 90 degrés, c&#39;est à-dire
+en plaçant verticalement l&#39;axe du <i>globe</i>, &amp; en examinant 
+si la circonférence de l&#39;équateur s&#39;ajuste bien
+avec celle de l&#39;horison, &amp; si l&#39;horison coupe le méridien 
+en deux parties égales ; ce qui arrivera, si le
+90<sup>e</sup> degré compté depuis le pole de part &amp; d&#39;autre,
+se trouve à l&#39;horison.
+</p>
+<p>
+Parmi les différens <i>globes</i> anciens que nous avons,
+on estime principalement ceux de Blaeu. Cet ouvrier,
+bien instruit des observations de Tycho, &amp;
+qui a même publié un traité où il explique l&#39;usage
+des <i>globes</i> avec beaucoup de clarté, a construit pour
+l&#39;année 1640 des <i>globes</i> célestes si parfaits, qu&#39;il est
+difficile de trouver rien de plus précis en ce genre ;
+&amp; d&#39;autant que le catalogue des principales étoiles
+venoit d&#39;être tout récemment restitué par Tycho,
+l&#39;erreur de deux à trois minutes qui auroit pu se
+glisser dans la longitude de quelques étoiles de ce
+catalogue, ne sauroit être aucunement sensible sur
+des <i>globes</i> de 30 pouces. C&#39;est pourquoi on peut s&#39;en
+servir avec assez de précision, en observant pourtant 
+de faire les corrections nécessaires pour les
+changemens arrivés aux positions des étoiles depuis
+1640. Les <i>globes</i> de Coronelli sont fort beaux &amp; les
+figures bien dessinées ; mais il s&#39;en faut bien qu&#39;ils
+soient aussi exacts &amp; aussi parfaits. <i>Inst. astr. de</i> M.
+le Monnier.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,380 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30229" id="54:97" vol="7">
+<index type="head" value="GRAVITATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Physique" />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GRAVITATION</head>
+<p>
+GRAVITATION, s. f. <i>en terme de Physique</i>, signifie 
+proprement l&#39;<i>effet</i> de la gravité ou la <i>tendance</i>
+qu&#39;un corps a vers un autre par la force de sa gravité.
+<i>Voyez ci-après</i> <sc><ref target="head:Gravité" type="search">Gravité</ref></sc>.
+</p>
+<p>
+Suivant le systeme de Physique établi par Newton, &amp; reçu maintenant par un grand nombre de philosophes,
+chaque particule de matiere pese ou gravite 
+vers chaque autre particule. <i>Voyez</i> <sc><ref target="head:Newtonianisme" type="search">Newtonianisme</ref></sc>.
+</p>
+<p>
+Ce que nous appellons <i>gravitation</i> par rapport à
+un corps <i>A</i>, qui pese vers un autre corps <i>B</i>, Newton l&#39;appelle <i>attraction</i> par rapport au corps <i>B</i> vers
+lequel le corps <i>A</i> pese : ou, ou ce qui revient au même,
+l&#39;attraction que le corps <i>B</i> exerce sur le corps
+<i>A</i>, est ce qui fait que le corps <i>A</i> a une <i>gravitation</i>
+vers <i>B ;</i> l&#39;attraction est la cause inconnue &amp; la <i>gravitation</i> l&#39;effet. <i>Voyez</i> <sc><ref target="head:Attraction" type="search">Attraction</ref></sc>.
+</p>
+<p>
+Selon Newton, les planetes, tant premieres que
+secondaires, aussi-bien que les cometes, pesent ou
+tendent toutes vers le soleil, &amp; pesent outre cela les
+<milestone unit="column" n="2" />
+unes vers les autres, comme le soleil pese &amp; tend
+vers elles ; &amp; la <i>gravitation</i> d&#39;une planete quelconque 
+<i>C</i> vers une autre planete <i>D</i>, est en raison directe 
+de la quantité de matiere qui se trouve dans la
+planete <i>D</i>, &amp; en raison inverse du quarré de la distance 
+de la planete <i>C</i> à la planete <i>D. Voyez</i> 
+<sc><ref target="head:Planete" type="search">Planete</ref>, <ref target="head:Comete" type="search">Comete</ref>, <ref target="head:Soleil" type="search">Soleil</ref>, <ref target="head:Terre" type="search">Terre</ref>, <ref target="head:Lune" type="search">Lune</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+Mais ce ne sont pas seulement les corps célestes
+qui s&#39;attirent mutuellement. Newton ajoute que toutes 
+les parties de la matiere ont cette proprieté réciproque 
+les unes par rapport aux autres ; &amp; c&#39;est
+ce qu&#39;il appelle la <i>gravitation universelle</i>. On peut
+voir aux <i>mots</i> <sc><ref target="head:Attraction" type="search">Attraction</ref> <i>&amp;</i> <ref target="head:Gravité" type="search">Gravité</ref></sc>, les preuves 
+de ce systeme &amp; l&#39;usage que Newton en a fait,
+ainsi que les reflexions que nous avons faites sur ces
+preuves &amp; sur cet usage. A ces réflexions nous en
+joindrons ici quelques-unes.
+</p>
+<p>
+I. <i>Reflexions philosophiques sur le système de la gravitation 
+universelle</i>. Les observations astronomiques
+demontrent que les planetes se meuvent, ou dans le
+vuide, ou au-moins dans un milieu fort rare, ou enfin,
+comme l&#39;ont pretendu quelques philosophes,
+dans un milieu fort dense qui ne resiste point, ce
+qui seroit néanmoins plus difficile à concevoir que
+l&#39;attraction même. Mais quelque parti qu&#39;on prenne
+sur la nature du milieu dans lequel les planetes se
+meuvent, la loi de Kepler démontre au-moins qu&#39;elles 
+tendent vers le soleil. <i>Voyez</i> 
+<sc><ref target="head:Loi de Kepler" type="search">Loi de Kepler</ref> <i>&amp;</i> <ref target="head:Gravité" type="search">Gravité</ref></sc>. Ainsi la <i>gravitation</i> des planetes vers le
+soleil, quelle qu&#39;en soit la cause, est un fait qu&#39;on
+doit regarder comme démontré, ou rien ne l&#39;est en
+Physique.
+</p>
+<p>
+La <i>gravitation</i> des planetes secondaires ou satellites 
+vers leurs planetes principales, est un second
+fait évident &amp; démontre par les mêmes raisons &amp;
+par les mêmes faits.
+</p>
+<p>
+Les preuves de la <i>gravitation</i> des planetes principales 
+vers leurs satellites ne sont pas en aussi grand
+nombre ; mais elles suffisent cependant pour nous
+faire reconnoitre cette <i>gravitation</i>. Les phénomenes
+du flux &amp; reflux de la mer, &amp; sur-tout la théorie de
+la nutation de l&#39;axe de la terre &amp; de la précession des
+équinoxes, si bien d&#39;accord avec les observations,
+prouvent invinciblement que la terre tend vers la
+lune ; <i>voyez</i> 
+<sc><ref target="head:Flux" type="search">Flux</ref> <i>&amp;</i> <ref target="head:Reflux" type="search">Reflux</ref>, <ref target="head:Marée" type="search">Marée</ref>, <ref target="head:Nutation" type="search">Nutation</ref>, <ref target="head:Précession" type="search">Précession</ref></sc>. Nous n&#39;avons pas de semblables
+preuves pour les autres satellites. Mais l&#39;analogie
+seule ne suffit-elle pas pour nous faire conclure que
+l&#39;action entre les planetes &amp; leurs satellites est réciproque?
+Je n&#39;ignore pas l&#39;abus qu&#39;on peut faire de
+cette maniere de raisonner, pour tirer en Physique
+des conclusions trop générales ; mais il me semble,
+ou qu&#39;il faut entierement renoncer à l&#39;analogie, ou
+que tout concourt ici pour nous engager à en faire
+usage.
+</p>
+<p>
+Si l&#39;action est réciproque entre chaque planete &amp;
+ses satellites, elle ne paroit pas l&#39;être moins entre
+les planetes premieres. Independamment des raisons
+tirées de l&#39;analogie, qui ont à la vérité moins de
+force ici que dans le cas précédent, mais qui pourtant 
+en ont encore, il est certain que Saturne éprouve dans son mouvement des variations sensibles, &amp;
+il est fort vraissemblable que Jupiter est la principale
+cause de ces variations. Le tems seul, il est vrai,
+pourra nous éclairer pleinement sur ce point, les
+Géometres &amp; les Astronomes n&#39;ayant encore ni des
+observations assez complettes sur les mouvemens de
+Saturne, ni une théorie assez exacte des dérangemens 
+que Jupiter lui cause. Mais il y a beaucoup
+d&#39;apparence que Jupiter, qui est sans comparaison
+la plus grosse de toutes les planetes &amp; la plus proche 
+de Saturne, entre au-moins pour beaucoup dans
+la cause de ces dérangemens : je dis <i>pour beaucoup</i>,
+&amp; non <i>pour tout ;</i> car outre une cause dont nous
+<pb n="7:872" facs="V7/ENC_7-872.jpeg" />
+<milestone unit="column" n="1" />
+parlerons dans un moment, l&#39;action des cinq satellites 
+de Saturne pourroit encore produire quelque dérangement 
+dans cette planete ; &amp; peut-être sera-t-il
+necessaire d&#39;avoir égard à l&#39;action des satellites pour
+determiner entierement &amp; avec exactitude toutes
+les inégalités du mouvement de Saturne, aussi-bien
+que celles de Jupiter.
+</p>
+<p>
+Si les satellites agissent sur les planetes principales ; 
+&amp; si celles-ci agissent les unes sur les autres, elles 
+agissent donc aussi sur le soleil : c&#39;est une conséquence 
+assez naturelle. Mais jusqu&#39;ici les faits nous
+manquent encore pour la verifier. Le moyen le plus
+infaillible de decider cette question, est d&#39;examiner
+les inégalités de Saturne ; car si Jupiter agit sur le
+Soleil en même tems que Saturne, il est nécessaire
+de transporter à Saturne, en sens contraire, l&#39;action
+de Jupiter sur le Soleil, pour avoir le mouvement de
+Saturne par rapport à cet astre ; &amp; entr&#39;autres inégalites 
+cette action doit produire dans le mouvement
+de Saturne une variation proportionnelle au sinus de
+la distance entre le lieu de Jupiter &amp; celui de Saturne. C&#39;est aux Astronomes à s&#39;assurer si cette variation 
+existe, &amp; si elle est telle que la théorie la donne.
+<i>Voyez</i> <sc><ref target="head:Saturne" type="search">Saturne</ref></sc>.
+</p>
+<p>
+On peut voir par ce detail quels sont les différens
+degrés de certitude que nous avons jusqu&#39;ici sur les
+principaux points du système de la <i>gravitation universelle</i>, &amp; quelle nuance, pour ainsi dire, observent 
+ces degrés. Ce sera la même chose quand on
+voudra transporter, comme fait Newton, le système
+general de la <i>gravitation</i> des corps celestes à celle
+des corps terrestres ou sublunaires. Nous remarquerons 
+en premier lieu que cette attraction ou <i>gravitation</i> generale s&#39;y manifeste moins en détail dans
+toutes les parties de la matiere, qu&#39;elle ne fait, pour
+ainsi dire, en total dans les differens globes qui composent 
+le systeme du monde ; nous remarquerons de
+plus qu&#39;elle se manifeste dans quelques-uns des corps
+qui nous environnent plus que dans les autres ;
+qu&#39;elle paroit agir ici par impulsion, là par une
+mechanique inconnue, ici suivant une loi, là suivant
+une autre ; enfin plus nous généraliserons &amp; étendrons 
+en quelque maniere la <i>gravitation</i>, plus ses
+effets aous paroitront varies, &amp; plus nous la trouverons 
+obscure, &amp; en quelque maniere informe dans
+les phenomenes qui en resultent, ou que nous lui
+attribuons. Soyons donc très-reserves sur cette généralisation,
+aussi-bien que sur la nature de la force
+qui produit la <i>gravitation</i> des planetes ; reconnoissons 
+seulement que les effets de cette force n&#39;ont pu
+se réduire, du-moins jusqu&#39;ici, à aucune des lois
+connues de la mechanique ; n&#39;emprisonnons point la
+nature dans les limites étroites de notre intelligence ; 
+approfondissons assez l&#39;idée que nous avons de
+la matiere, pour être circonspects sur les propriétes 
+que nous lui attribuons ou que nous lui refusons ;
+&amp; n&#39;imitons pas le grand nombre des philosophes modernes,
+qui en affectant un doute raisonné sur les objets 
+qui les intéressent le plus, semblent vouloir se
+dedommager de ce doute par des assertions prématurées 
+sur les questions qui les touchent le moins.
+</p>
+<p>
+II. <i>Loi génerale de la gravitation</i>. Si on appelle <foreign lang="greek">φ</foreign>
+la force de la <i>gravitation</i> d&#39;un point vers un autre,
+<i>e</i> l&#39;espace que cette force fait parcourir pendant
+le tems <i>t</i>, on aura <i>d d e</i>=<foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>, ou plus exactement 
+<gap type="formula" />, comme on l&#39;a vû au <i>mot</i> <sc>Force</sc>, <i>page 118 de ce Volume</i>, en appellant <i>a</i> l&#39;espace
+que la pesanteur <i>p</i> fait parcourir pendant un tems <foreign lang="greek">θ</foreign>.
+M. Euler, dans sa piece sur le mouvement de Saturne, qui a remporte le prix de l&#39;académie des Sciences en 1748, prend pour équation, non pas <i>d d e</i>
+=<foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>, mais <i>d d e</i>=1/2 <foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>. Comme cette maniere 
+de presenter l&#39;équation des forces accélératrices<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+a causé de la difficulté à plusieurs personnes, je
+dirai ici qu&#39;elle ne me paroit point exacte. En effet
+supposons <foreign lang="greek">φ</foreign>=<i>p</i>, c&#39;est-à-dire <foreign lang="greek">φ</foreign> égale à la pesanteur
+naturelle, on auroit donc, suivant M. Euler, <gap type="formula" />
+&amp; <gap type="formula" /> ou <gap type="formula" /> ; cependant
+toutes les formules reçues jusqu&#39;ici donnent la vitesse 
+à la fin de l&#39;espace <gap type="formula" />, &amp; le tems
+<gap type="formula" /> ; ce qui est fort différent de l&#39;expression 
+de <i>t</i> qui résulte de la formule de M. Euler.
+Il est vrai que l&#39;équation, peu exacte en elle même,
+<i>d d e</i>=1/2 <foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>, dont M. Euler se sert, n&#39;influe point
+sur le reste de sa piece, parce qu&#39;il corrige cette erreur 
+par une autre, en substituant dans la suite de la
+piece, à la place de <gap type="formula" />, la quantité <gap type="formula" />, <i>a</i> étant
+le rayon de l&#39;orbite, <foreign lang="greek">σ</foreign> l&#39;anomalie, &amp; <foreign lang="greek">Θ</foreign> le soleil ; au
+lieu qu&#39;en nous servant de la formule <i>d d e</i>=<foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>,
+nous eussions substitué cette quantité <gap type="formula" />, non à
+la place de <gap type="formula" />, mais à la place de <i>d t</i><sup>2</sup> ; en sorte
+que dans les deux cas le résultat auroit été le même,
+savoir <gap type="formula" />. En effet <gap type="formula" /> étant ici la force
+centripete, &amp; <i>a d</i> <foreign lang="greek">σ</foreign> l&#39;arc parcouru pendant le tems
+<i>d t</i>, on a <gap type="formula" /> (<i>voyez l&#39;article</i> <sc><ref target="head:Force" type="search">Force</ref></sc>,
+<i>pages 118 &amp; 119.</i>): donc, puisque <gap type="formula" />,
+on aura <gap type="formula" />. Nous supposons qu&#39;on ait
+ici sous les yeux la piece de M. Euler imprimée à
+Paris en 1749.
+</p>
+<p>
+III. <i>Maniere de trouver la gravitation d&#39;un corps
+vers un autre</i>. Newton dans le <i>livre I. de ses principes</i>,
+a donné pour cela une méthode qui a été commentée 
+&amp; étendue depuis par différens auteurs. <i>Voyez
+les memoires de l&#39;acad. 1732. le commentaire</i> des PP.
+le Seur &amp; Jaquier ; <i>les mémoires de Petersbourg</i>, &amp;c.
+Cette méthode a principalement pour objet l&#39;attraction 
+que les corps sphériques, elliptiques &amp; cylindriques,
+ou regardés comme tels, exercent sur un
+point donné. Nous avons donné les premiers la methode 
+de trouver l&#39;attraction qu&#39;un solide peu différent 
+d&#39;une sphere, elliptique ou non, sphéroïde ou
+non, exerce sur un point placé, soit au-dedans, soit
+au-dehors de lui. <i>Voyez la seconde &amp; la troisieme partie
+de nos recherches sur le système général du monde</i>, Paris
+1754 &amp; 1756; <i>voyez aussi l&#39;article</i> 
+<sc><ref target="head:Figure de la Terre" type="search">Figure de la Terre</ref></sc>. De plus une remarque singuliere que nous
+avons faite à ce sujet, &amp; que nous croyons nouvelle,
+c&#39;est que quand un corpuscule est au-dehors d&#39;une 
+surface spherique &amp; très-près de cette surface,
+l&#39;attraction que cette surface exerce sur ce corpuscule,
+est à-peu-près double de celle qu&#39;elle exerce,
+si le corpuscule est placé sur la surface même. On
+peut voir dans la <i>III. partie de nos recherches sur le système 
+du monde, 1756, pp. 198 &amp; 199.</i> la preuve &amp; le
+dénouement de cette espece de paradoxe. Mais pour
+faire sentir aux commençans comment le calcul
+donne ce paradoxe, représentons-nous la différentielle 
+<gap type="formula" /> de l&#39;attraction d&#39;une surface
+sphérique, <i>r</i> étant le rayon, 2 <foreign lang="greek">π</foreign> le rapport de la circonférence 
+au rayon, <i>n</i> la distance du corpuscule à
+la surface sphérique, &amp; <i>x</i> une abscisse quelconque ;
+nous trouverons aisément par les méthodes connues
+que l&#39;intégrale de cette différentielle est
+<gap type="formula" />
+<i>Voyez</i> <sc><ref target="head:Intégral" type="search">Intégral</ref></sc>,
+<pb n="7:873" facs="V7/ENC_7-873.jpeg" />
+<milestone unit="column" n="1" />
+<sc><ref target="head:Transformation" type="search">Transformation</ref></sc>, <i>&amp; la II. partie de mes recherches
+sur le système du monde, page 284</i>. Or, soit que <i>n</i> soit
+=0, ou non, la seconde partie de cette intégrale,
+savoir <gap type="formula" /> devient
+<gap type="formula" />, quand <i>x</i> = 2<i>r</i>. A l&#39;égard de la premiere
+partie, elle est évidemment toûjours nulle, quand
+n=0, puisque <i>n</i> en multiplie tous les termes ; mais
+quand <i>n</i> n&#39;est pas=0, elle devient, lorsque <i>x</i> = 2<i>r</i>,
+<gap type="formula" />, comme la précédente 
+à laquelle elle s&#39;ajoûte pour lors. Ainsi quand
+n=0, l&#39;attraction n&#39;est que <gap type="formula" /> ; &amp; quand <i>n</i> n&#39;est
+pas zéro, elle est <gap type="formula" />. Voilà la raison 
+analytique du paradoxe.
+</p>
+<p>
+IV. <i>Usage du système de la gravitation pour trouver
+les masses des planetes</i>. Soient deux planetes, dont les
+masses soient <i>M, m</i>, qui ayent des satellites qui
+tournent autour d&#39;elles à la distance <i>A, a</i>, &amp; qui
+fassent leurs révolutions dans les tems <i>T, t</i>, les forces 
+centripetes de ces satellites seront <gap type="formula" />,
+puisque la <i>gravitation</i> est en raison directe de la masse
+du corps attirant, &amp; inverse du quarré de la distance : de plus ces forces centripetes seront égales aux
+forces centrifuges ; &amp; en considérant les orbites des
+satellites comme des cercles, les forces centrifuges
+seront entr&#39;elles comme <gap type="formula" /> <i>Voyez</i> <sc><ref target="head:Force centrale" type="search">Force
+centrale</ref></sc> <i>au mot</i> <sc><ref target="head:Central" type="search">Central</ref></sc>. Donc on aura <gap type="formula" />.
+Donc si on connoît le rapport de
+<i>A</i> avec <i>a</i> &amp; celui de <i>T</i> avec <i>t</i>, on connoîtra le rapport 
+de <i>M</i> à <i>m</i>. Par-là on peut connoître le rapport
+de la masse du Soleil, de Jupiter &amp; de Saturne, à
+celle de la Terre ; car toutes ces planetes (en y comprenant 
+le Soleil) ont des satellites, dont on connoit 
+le rapport des distances à leurs planetes principales,
+&amp; les tems des révolutions. <i>V.</i> <sc><ref target="head:Planete" type="search">Planete</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

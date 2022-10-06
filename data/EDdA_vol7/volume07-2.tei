@@ -1,0 +1,936 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27456" id="48:3" vol="7">
+<index type="head" value="ÉLOGE DE M. DU MARSAIS" />
+<index type="objecttype" value="editorial" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="" />
+<pb n="7:NA6" facs="V7/ENC_7-NA6.jpeg" />
+<head>ÉLOGE DE M. DU MARSAIS</head>
+<milestone unit="column" n="0" />
+<gap type="image" />
+<p>
+<center>
+ÉLOGE
+DE M. DU MARSAIS.
+</center>
+</p>
+<p>
+<sc>LA</sc> Vie sédentaire &amp; obscure de la plûpart des Gens de Lettres offre pour l&#39;ordinaire 
+peu d&#39;évenemens, sur-tout quand leur fortune n&#39;a pas répondu à ce
+qu&#39;ils avoient mérité par leurs travaux. M. du Marsais a été de ce nombre ;
+il a vécu pauvre &amp; presqu&#39;ignoré dans le sein d&#39;une patrie qu&#39;il avoit instruite:
+le détail de sa vie n&#39;occupera donc dans cet Eloge que la moindre place, &amp;
+nous nous attacherons principalement à l&#39;analyse raisonnée de ses Ouvrages. Par-là nous
+acquitterons, autant qu&#39;il est en nous, les obligations que l&#39;Encyclopédie &amp; les Lettres
+ont eues à ce Philosophe ; nous devons d&#39;autant plus d&#39;honneur à sa mémoire, que le sort
+lui en a plus refusé de son vivant, &amp; l&#39;histoire de ses Ecrits est le plus beau monument que
+nous puissions lui consacrer. Cette histoire remplira d&#39;ailleurs le principal but que nous
+nous proposons dans nos Eloges, d&#39;en faire un objet d&#39;instruction pour nos Lecteurs, &amp;
+un recueil de Mémoires sur l&#39;état présent de la Philosophie parmi nous.
+</p>
+<p>
+<sc>César Chesneau</sc>, Sieur <sc>du Marsais</sc>, Avocat au Parlement de Paris, naquit
+à Marseille le 17 Juillet 1676. Il perdit son pere au berceau, &amp; resta entre les mains d&#39;une
+mere qui laissa dépérir la fortune de ses enfans par un desintéressement romanesque, sentiment 
+loüable dans son principe, estimable peut-être dans un Philosophe isolé, mais
+blâmable dans un chef de famille. Le jeune du Marsais étoit d&#39;autant plus à plaindre, qu&#39;il
+avoit aussi perdu en très-bas âge, &amp; peu après la mort de son pere, deux oncles d&#39;un
+mérite distingué, dont l&#39;un, Nicolas Chesneau, savant Medecin, est auteur de quelques
+Ouvrages (<i><ref type="note" target="n1" n="a" /></i>). Ces oncles lui avoient laissé une Bibliotheque nombreuse &amp; choisie, qui
+bientôt après leur mort fut vendue presqu&#39;en entier à un prix très-modique : l&#39;enfant, qui
+n&#39;avoit pas encore atteint sa septieme année, pleura beaucoup de cette perte, &amp; cachoit
+tous les livres qu&#39;il pouvoit soustraire. L&#39;excès de son affliction engagea sa mere à mettre
+à part quelques livres rares, pour les lui réserver quand il seroit en âge de les lire ; mais ces
+livres mêmes furent dissipés peu de tems après : il sembloit que la Fortune, après l&#39;avoir
+privé de son bien, cherchât encore à lui oter tous les moyens de s&#39;instruire.
+</p>
+<p>
+L&#39;ardeur &amp; le talent se fortifierent en lui par les obstacles ; il fit ses études avec succès
+chez les Peres de l&#39;Oratoire de Marseille : il entra même dans cette Congrégation, une
+de celles qui ont le mieux cultivé les Lettres, &amp; la seule qui ait produit un Philosophe
+célebre, parce qu&#39;on y est moins esclave que dans les autres, &amp; moins obligé de penser
+comme ses Supérieurs. Mais la liberté dont on y joüit n&#39;etoit pas encore assez grande pour
+M. du Marsais. Il en sortit donc bientôt, vint à Paris à l&#39;âge de vingt-cinq ans, s&#39;y maria,
+&amp; fut reçû Avocat le 10 Janvier 1704. Il s&#39;attacha à un célebre Avocat au Conseil, sous
+lequel il commençoit à travailler avec succès. Des espérances trompeuses qu&#39;on lui donna,
+lui firent quitter cette profession. Il se trouva sans état &amp; sans bien, chargé de famille,
+&amp; ce qui étoit encore plus triste pour lui, accablé de peines domestiques. L&#39;humeur chagrine 
+de sa femme, qui croyoit avoir acquis par une conduite sage le droit d&#39;être insociable,
+fit repentir plusieurs fois notre Philosophe d&#39;avoir pris un engagement indissoluble ; 
+il regrette à cette occasion, dans un écrit de sa main trouvé après sa mort parmi
+ses papiers, que notre Religion, si attentive aux besoins de l&#39;humanité, n&#39;ait pas permis
+le divorce aux Particuliers, comme elle l&#39;a quelquefois permis aux Princes : il déplore la
+condition de l&#39;homme, qui jetté-sur la terre au hasard, ignorant les malheurs, les passions,
+<pb n="7:ij" facs="V7/ENC_7-ij.jpeg" />
+<milestone unit="column" n="0" />
+&amp; les dangers qui l&#39;attendent, n&#39;acquiert d&#39;expérience que par ses fautes, &amp; meurt sans
+avoir eu le tems d&#39;en profiter.
+</p>
+<p>
+M. du Marsais aimant mieux se priver du nécessaire que du repos, abandonna à sa femme
+le peu qu&#39;il avoit de bien, &amp; par le conseil de ses amis entra chez M. le Président de
+Maisons, pour veiller à l&#39;éducation de son fils : c&#39;est le même que M. de Voltaire a célébré
+dans plusieurs endroits de ses OEuvres, qui dès l&#39;âge de vingt-sept ans fut reçu dans
+l&#39;Académie des Sciences, &amp; dont les connoissances &amp; les lumieres faisoient déjà beaucoup
+d&#39;honneur à son maître, lorsqu&#39;il fut enlevé à la fleur de son âge.
+</p>
+<p>
+Ce fut dans cette maison, &amp; à la priere du pere de son Eleve, que M. du Marsais commença 
+son ouvrage sur les Libertés de l&#39;Eglise Gallicane, qu&#39;il acheva ensuite pour M. le
+Duc de la Feuillade, nommé par le Roi à l&#39;Ambassade de Rome. Il étoit persuadé que
+tout François doit connoître les principes de cette importante matiere, généralement
+adoptés dans le premier âge du Christianisme, obscurcis depuis par l&#39;ignorance &amp; la superstition,
+&amp; que l&#39;Eglise de France a eu le bonheur de conserver presque seule. Mais cet
+objet qui nous intéresse de si près, est rarement bien connu de ceux même que leur devoir
+oblige de s&#39;en occuper. Les savans Ecrits de MM. Pithou &amp; Dupuy sur nos Libertés, un
+peu rebutans par la forme, sont trop peu lûs chez une Nation qui compte pour rien le mérite
+d&#39;instruire, quand il n&#39;est pas accompagné d&#39;agrément, &amp; qui préfere l&#39;ignorance de ses
+droits à l&#39;ennui de les apprendre. M. du Marsais, plein du desir d&#39;être utile à ses Concitoyens,
+entreprit de leur donner sur ce sujet un Ouvrage précis &amp; méthodique, assez intéressant par
+les détails pour attacher la paresse même ; où la Jurisprudence fût guidée par une Philosophie
+lumineuse, &amp; appuyée d&#39;une érudition choisie, répandue sobrement &amp; placée à-propos.
+Tel fut le plan qu&#39;il se forma, &amp; qu&#39;il a exécuté avec succès ; si néanmoins dans le siecle
+où nous vivons tant de science &amp; de logique est nécessaire pour prouver que le souverain
+Pontife peut se tromper comme un autre homme ; que le Chef d&#39;une Religion de paix &amp;
+d&#39;humilité ne peut dispenser ni les Peuples de ce qu&#39;ils doivent à leurs Rois, ni les Rois
+de ce qu&#39;ils doivent à leurs Peuples ; que tout usage qui va au détriment de l&#39;Etat, est
+injuste, quoique toléré ou même revêtu d&#39;une autorité apparente ; que le pouvoir des
+Souverains est indépendant des Pasteurs ; que les Ecclésiastiques enfin doivent donner aux
+autres Citoyens l&#39;exemple de la soumission aux Lois.
+</p>
+<p>
+Le Traité de M. du Marsais, sous le titre d&#39;<i>Exposition de la doctrine de l&#39;Eglise Gallicane
+par rapport aux prétentions de la Cour de Rome</i>, est divisé en deux parties. L&#39;Auteur établit
+dans la premiere, les principes généraux sur lesquels sont fondées les deux Puissances, la
+spirituelle, &amp; la temporelle : dans la seconde il fait usage de ces principes pour fixer les
+bornes du pouvoir du Pape, de l&#39;Eglise, &amp; des Evêques. Un petit nombre de maximes
+générales appuyées par la raison, par nos Lois &amp; par nos Annales, &amp; les conséquences
+qui résultent de ces maximes, font toute la substance de l&#39;Ouvrage.
+</p>
+<p>
+Ceux qui croiront avoir besoin de recourir à l&#39;Histoire ecclésiastique pour se prémunir
+contre l&#39;infaillibilité que les Ultramontains attribuent, sans la croire, aux souverains
+Pontifes, peuvent lire les Preuves de la <sc>viii</sc><sup>e</sup>. Maxime ; ils y verront S. Pierre repris par
+S. Paul, &amp; reconnoissant qu&#39;il s&#39;étoit trompé; le Pape Eleuthere approuvant d&#39;abord les
+prophéties des Montanistes, qu&#39;il proscrivit bientôt après ; Victor blâmé par S. Irenée,
+pour avoir excommunié mal-à-propos les Evêques d&#39;Asie ; Libere souscrivant aux formules
+des Ariens ; Honorius anathématisé, comme Monothélite, au sixieme Concile général, &amp;
+ses Ecrits brûlés ; Jean XXII. au xjv. siecle condamné par la Sorbonne sur son opinion
+de la vision béatifique, &amp; obligé de se rétracter ; enfin le grand nombre de contradictions
+qui se trouvent dans les décisions des Papes, &amp; l&#39;aveu même que plusieurs ont fait de n&#39;être
+pas infaillibles, dans un tems où ils n&#39;avoient point d&#39;intérêt à le soûtenir. Les faits qui
+peuvent servir à combattre des prétentions d&#39;un autre genre, sont recueillis dans cet Ouvrage avec le même choix &amp; la même exactitude. On y lit que Grégoire VII. celui qui
+a le premier levé l&#39;étendart de la rébellion contre les Rois, se repentit en mourant de cette
+usurpation, &amp; en demanda pardon à son Prince &amp; à toute l&#39;Eglise ; que Ferdinand, si
+mal-à-propos nommé le Pieux, &amp; si digne du nom de traître, enleva la Navarre à la
+Maison de France, sur une simple Bulle du Pape Jules II; que la Cour de Rome, si on en
+croit nos Jurisconsultes, a évité pour cette raison, autant qu&#39;elle l&#39;a pû, de donner à nos
+Rois le titre de Rois de Navarre ; omission, au reste, peu importante en elle-même, &amp; que
+nos Rois ont sans doute regardée comme indifférente à leur grandeur, le nom de Rois de
+France étant le plus beau qu&#39;ils puissent porter. Enfin M. du Marsais ajoûte que les Bulles
+de Sixte V. &amp; de Grégoire XIV. contre Henri IV. furent un des plus grands obstacles que
+trouva ce Prince pour remonter sur le thrône de ses peres. Il fait voir encore, ce qui n&#39;est
+pas difficile, que l&#39;absolution (réelle ou supposée) donnée à la Nation françoise par le Pape
+Zacharie, du serment de fidélité qu&#39;elle avoit fait aux descendans de Clovis, ne dispensoit
+<pb n="7:iij" facs="V7/ENC_7-iij.jpeg" />
+<milestone unit="column" n="0" />
+point la Nation de ce serment ; d&#39;où il s&#39;ensuit que la race de Hugues Capet a pû légitimement 
+recevoir de cette même Nation une couronne que la race de Charlemagne avoit enlevée 
+aux héritiers légitimes.
+</p>
+<p>
+Non-seulement, ajoûte l&#39;Auteur, les Papes n&#39;ont aucun pouvoir sur les Empires, ils
+ne peuvent même, sans la permission des Princes, rien recevoir des sujets, à quelque titre
+que ce puisse ètre. Jean XXII. ayant entrepris de faire une levée d&#39;argent sur notre Clergé,
+Charles-le-Bel s&#39;y opposa d&#39;abord avec vigueur ; mais ensuite le Pape lui ayant donné la
+dixme des Eglises pendant deux ans, le Roi, pour reconnoître cette condescendance par
+une autre, lui permit de lever l&#39;argent qu&#39;il vouloit. Les Chroniques de S. Denis, citées
+par M. du Marsais, racontent cette convention avec la simplicité de ces tems-là:
+<blockquote> 
+« Le
+Roi, disent-elles, considérant <i>donnes-m&#39;en, je t&#39;en donrai</i>, octroya au Pape de lever ».
+</blockquote>
+</p>
+<p>
+L&#39;Auteur prouve avec la même facilité, par le raisonnement &amp; par l&#39;Histoire, les maximes
+qui ont rapport à la jurisdiction ecclésiastique des Evêques, &amp; qui font une partie si essentielle 
+de nos Libertés. Selon l&#39;aveu d&#39;un des plus saints Pontifes de l&#39;ancienne Eglise, les
+Evêques ne tiennent pas leur autorité du Pape, mais de Dieu même : ils n&#39;ont donc pas
+besoin de recourir au S. Siége pour condamner des erreurs, ni, à plus forte raison, pour
+des points de discipline. Ils ont droit de juger avant le Pape &amp; après le Pape ; ce n&#39;a été
+qu&#39;à l&#39;occasion de l&#39;affaire de Jansénius, en 1650, qu&#39;ils se sont adressés à Rome avant que
+de prononcer eux mêmes. L&#39;usage des appellations au Pape n&#39;a jamais été reçu en Orient,
+&amp; ne l&#39;a été que fort tard en Occident. L&#39;Evêque de Rome n&#39;ayant de jurisdiction immédiate 
+que dans son Diocèse, ne peut excommunier ni nos Rois ni leurs Sujets, ni mettre
+le Royaume en interdit. C&#39;est par les Empereurs, &amp; non par d&#39;autres, que les premiers
+Conciles généraux ont été convoqués ; &amp; le Pape même n&#39;y a pas toûjours assisté, soit
+en personne, soit par ses Légats. Ces Conciles ont besoin d&#39;être autorisés, non par l&#39;approbation 
+du Pape, mais par la Puissance séculiere, pour faire exécuter leurs lois. Enfin
+c&#39;est aux Rois à convoquer les Conciles de leur Nation, &amp; à les dissoudre.
+</p>
+<p>
+Il faut au reste, comme M. du Marsais l&#39;observe après plusieurs Ecrivains, distinguer
+avec soin la Cour de Rome, le Pape, &amp; le Saint-Siége : on doit toûjours conserver l&#39;unité
+avec celui-ci, quoiqu&#39;on puisse desapprouver les sentimens du Pape, &amp; l&#39;ambition de la
+Cour de Rome. Il est triste, ajoûte-t-il, qu&#39;en France même on n&#39;ait 
+pas toûjours sû faire
+cette distinction si essentielle ; &amp; que plusieurs Ecclésiastiques, &amp; sur-tout certains Ordres
+religieux, soient encore secretement attachés parmi nous aux sentimens ultramontains,
+qui ne sont pas même regardés comme de foi dans les pays d&#39;Inquisition.
+</p>
+<p>
+M. du Marsais dit à la fin de son Livre, qu&#39;il avoit eu dessein d&#39;y joindre une dissertation
+historique qui exposât par quels degrés les Papes sont devenus Souverains. Cette matiere,
+aussi curieuse que délicate, étoit bien digne d&#39;être traitée par un Philosophe qui sans doute
+auroit sû se garantir également du fiel &amp; de la flaterie ; en avoüant le mal que quelques
+Papes ont fait pour devenir Princes, il n&#39;auroit pas laissé ignorer le bien que plusieurs ont
+fait depuis qu&#39;ils le sont devenus : aux entraves funestes que la Philosophie a reçûes par
+quelques Constitutions apostoliques, il eût opposé la renaissance des Arts en Europe,
+presqu&#39;uniquement dûe à la magnificence &amp; au goût des souverains Pontifes. Il n&#39;eût pas
+manqué d&#39;observer qu&#39;aucune liste de Monarques ne présente, à nombre égal, autant
+d&#39;hommes dignes de l&#39;attention de la postérité. Enfin il se fût conformé sur cette matiere à
+la maniere de penser du Public, qui malgré sa malignité naturelle, est aujourd&#39;hui trop
+éclairé sur la Religion, pour faire servir d&#39;argumens contr&#39;elle les scandales donnés par
+quelques Chefs de l&#39;Eglise. L&#39;indifférence avec laquelle on recevroit maintenant parmi
+nous une satyre des Papes, est une suite heureuse &amp; nécessaire des progrès de la Philosophie dans ce siecle.
+</p>
+<p>
+Nous savons, &amp; nous l&#39;apprenons avec regret au Public, que M. du Marsais se proposoit 
+encore de joindre à son Ouvrage l&#39;examen impartial &amp; pacifique d&#39;une querelle importante,
+qui tient de près à nos Libertés, &amp; que tant d&#39;Ecrivains ont agitée dans ces derniers
+tems avec plus de chaleur que de logique. L&#39;Auteur, en Philosophe éclairé &amp; en Citoyen
+sage, avoit réduit toute cette querelle aux questions suivantes, que nous nous bornerons
+sagement à énoncer, sans entreprendre de les résoudre : Si une société d&#39;hommes qui croit
+devoir se gouverner à certains égards par des lois indépendantes de la Puissance temporelle,
+peut exiger que cette Puissance concoure au maintien de ces lois? Si dans les pays
+nombreux où l&#39;Eglise ne fait avec l&#39;Etat qu&#39;un même corps, la liberté absolue que les
+Ministres de la Religion reclament dans l&#39;exercice de leur ministere, ne leur donneroit pas
+un droit qu&#39;ils sont bien éloignés de prétendre sur les priviléges &amp; sur l&#39;état des Citoyens?
+En cas que cet inconvénient fût réel, quel parti les Législateurs devroient prendre pour
+le prévenir? ou de mettre au pouvoir spirituel de l&#39;Eglise des bornes qu&#39;elle croira toûjours
+devoir franchir, ce qui entretiendra dans l&#39;Etat la division &amp; le trouble ; ou de tracer
+<pb n="7:iiij" facs="V7/ENC_7-iiij.jpeg" />
+<milestone unit="column" n="0" />
+entre les matieres spirituelles &amp; les matieres civiles une ligne de séparation invariable? Si
+les principes du Christianisme s&#39;opposeroient à cette séparation, &amp; si elle ne produiroit pas
+insensiblement &amp; sans effort la tolérance civile, que la politique a conseillée à tant de
+Princes &amp; à tant d&#39;Etats?
+</p>
+<p>
+Telles étoient les questions que M. du Marsais se proposoit d&#39;examiner ; éloigné, comme
+il l&#39;étoit, de tout fanatisme par son caractere, &amp; de tout préjugé par ses réflexions, personne 
+n&#39;étoit plus en état de traiter cet important sujet avec la modération &amp; l&#39;équité qu&#39;il
+exige. Mais comme ce n&#39;est point par des Livres qu&#39;on ramene au vrai des esprits ulcérés
+ou prévenus, cette modération &amp; cette équité n&#39;eussent peut-être servi qu&#39;à lui faire des
+ennemis puissans &amp; implacables. Quoique les matieres qu&#39;il a discutées dans son Ouvrage,
+soient beaucoup moins délicates que celle-ci, quoiqu&#39;en traitant ces matieres il présente
+la vérité avec toute la prudence dont elle a besoin pour se faire recevoir, il ne jugea pas
+à-propos de laisser paroître de son vivant son <i>Exposition des Libertés de l&#39;Eglise Gallicane</i>.
+Il craignoit, disoit-il, des persécutions semblables à celles que M. Dupuy, le défenseur
+de ces Libertés dans le dernier siecle, avoit eu à souffrir de quelques Evêques de France,
+desavoués sans doute en cela par leurs Confreres. La suite de cet Eloge fera voir d&#39;ailleurs
+que M. du Marsais avoit de grands ménagemens à garder avec l&#39;Eglise, dont il avoit pourtant 
+défendu les droits plus encore qu&#39;il ne les avoit bornés. Il se plaint dans une espece d&#39;introduction 
+qui est à la tete de son Livre, qu&#39;on ne puisse exposer impunément en France la
+doctrine constante du Parlement &amp; de la Sorbonne sur l&#39;indépendance de nos Rois &amp; sur
+les droits de nos Evêques, tandis que chez les Nations imbues des opinions contraires,
+tout parle publiquement &amp; sans crainte contre la justice &amp; la vérité. Nous ignorons si ces
+plaintes étoient fondées dans le tems que M. du Marsais écrivoit ; mais la France connoît
+mieux aujourd&#39;hui ses vrais intérêts. Ceux entre les mains desquels le manuscrit de l&#39;Auteur est tombé après sa mort, moins timides ou plus heureux que lui, en ont fait part au
+Public. Les ouvrages pleins de vérités hardies &amp; utiles, dont le genre humain est de tems
+en tems redevable au courage de quelque homme de Lettres, sont aux yeux de la postérité
+la gloire des Gouvernemens qui les protegent, la censure de ceux qui ne savent pas les encourager,
+&amp; la honte de ceux qui les proscrivent.
+</p>
+<p>
+La suppression de ce Livre eût été sans doute une perte pour les Citoyens ; mais les
+Philosophes doivent regretter encore plus que M. du Marsais n&#39;ait pas publié sa <i>réponse à la
+critique de l&#39;Histoire des Oracles ;</i> on n&#39;a trouvé dans ses papiers que des fragmens imparfaits
+de cette réponse, à laquelle il ne paroît pas avoir mis la derniere main. Pour la faire connoître 
+en détail, il faut reprendre les choses de plus haut.
+</p>
+<p>
+Feu M. de Fontenelle avoit donné en 1686, d&#39;après le Médecin Vandale, l&#39;Histoire des
+Oracles, un de ses meilleurs ouvrages, &amp; peut être celui de tous auquel le suffrage (<i><ref type="note" target="n2" n="b" /></i>) unanime 
+de la postérité est le plus assuré. Il y soutient, comme tout le monde sait, que les
+oracles étoient l&#39;ouvrage de la superstition &amp; de la fourberie, &amp; non celui des démons, &amp;
+qu&#39;ils n&#39;ont point cessé a la venue de J. C. Le Pere Baltus, Jesuite, vingt ans après la publication 
+de ce Livre, crut qu&#39;il étoit de son devoir d&#39;en prévenir les effets dangereux, &amp;
+se proposa de le refuter. Il soutint, avec toute la modération qu&#39;un Théologien peut se
+permettre, que M. de Fontenelle avoit attaqué une des principales preuves du Christianisme, pour avoir prétendu que les Prêtres payens etoient des imposteurs ou des dupes.
+Cependant en avançant une opinion si singuliere, le Critique avoit eu l&#39;art de lier son système 
+a la Religion, quoiqu&#39;il y soit réellement contraire par les armes qu&#39;il peut fournir 
+aux incrédules. La cause du Philosophe étoit juste, mais les dévots étoient soulevés,
+&amp; s&#39;il répondoit, il étoit perdu. Il eut donc la sagesse de demeurer dans le silence, &amp; de
+s&#39;abstenir d&#39;une defense facile &amp; dangereuse, dont le public sa dispensé depuis en lisant
+tous les jours son Ouvrage, &amp; en ne lisant point celui de son Adversaire. M. du Marsais,
+jeune encore, avide de se signaler, &amp; n&#39;ayant à risquer ni places ni fortune, entreprit
+de justifier M. de Fontenelle contre les imputations du Pere Baltus. Il accusoit le Critique
+de n&#39;avoir point entendu les PP. de l&#39;Eglise, &amp; de ne les avoir pas cités exactement ; il lui
+reprochoit des méprises considérables, &amp; un plagiat moins excusable encore du Professeur
+Moebius, qui avoit écrit contre Vandale. Assuré de la bonté de sa cause, le défenseur de
+M. de Fontenelle ne craignit point de faire part de son Ouvrage à quelques Confreres du
+Pere Baltus ; il ne vouloit par cette démarche que donner des marques de son estime à
+une Société long-tems utile aux Lettres, &amp; qui se souvient encore aujourd&#39;hui avec complaisance 
+du crédit &amp; des hommes célebres qu&#39;elle avoit alors. Nous avons peine à nous
+persuader que dans une matiere aussi indifférente en elle-même, cette Société se soit crue
+<pb n="7:v" facs="V7/ENC_7-v.jpeg" />
+<milestone unit="column" n="0" />
+blessée par l&#39;attaque d&#39;un de ses membres ; nous ignorons par qui &amp; comment la confiance 
+de M. du Marsais fut trompée ; mais elle le fut. On travailla efficacement a empécher
+l&#39;impression &amp; même l&#39;examen de l&#39;Ouvrage ; on accusa faussement l&#39;auteur d&#39;avoir voulu 
+le faire paroître sans approbation ni privilége, quoique son Adversaire eût pris la même 
+liberté. Il représenta en vain que ce livre avoit été approuvé par plusieurs personnes savantes 
+&amp; pieuses, &amp; qu&#39;il demandoit à le mettre au jour, non par vanité d&#39;Auteur, mais pour
+prouver son innocence : il offrit inutilement de le soumettre a la censure de la Sorbonne,
+de le faire même approuver par l&#39;Inquisition, &amp; imprimer avec <i>la permission des Supérieurs</i>
+dans les terres du Pape ; on étoit resolu de ne rien écouter, &amp; M. du Marsais eut une défense 
+expresse de faire paroître son Livre, soit en France, soit ailleurs. Cet évenement de
+sa vie fut la premiere époque, &amp; peut être la source des injustices qu&#39;il essuya ; on n&#39;avoit
+point eu de peine à prévenir contre lui un Monarque respectable alors dans sa vieillesse,
+&amp; d&#39;une délicatesse louable sur tout ce qu&#39;il croyoit blesser la Religion ; on lui avoit inspiré
+quelques soupçons sur la maniere de penser de l&#39;Antagoniste du P. Baltus ; espece d&#39;armes
+dont on n&#39;abuse que trop souvent auprès des Princes, pour perdre le mérite sans appui,
+sans hypocrisie, &amp; sans intrigue. L&#39;Auteur abandonna donc entierement son Ouvrage ; &amp;
+le P. Baltus libre de la guerre dont il étoit menacé, entra dans une carriere plus convenable
+à son etat ; il avoit trop légerement sacrifié les prémices de sa plume à défendre sans le vouloir 
+les Oracles des Payens ; il l&#39;employa plus heureusement dans la suite à un objet sur lequel 
+il n&#39;avoit point de contradictions à craindre, à la défense des Prophéties de la Religion chrétienne.
+</p>
+<p>
+Comme l&#39;Ouvrage de M. du Marsais sur les Oracles n&#39;a point paru, nous tâcherons d&#39;en
+donner quelqu&#39;idée a nos Lecteurs d&#39;après les fragmens qui nous ont été remis. La Préface contient quelques reflexions générales sur l&#39;abus qu&#39;on peut faire de la Religion en l&#39;étendant 
+a des objets qui ne sont pas de son ressort ; on y expose ensuite le dessein &amp; le
+plan de l&#39;Ouvrage, dans lequel il paroît qu&#39;on s&#39;est proposé trois objets ; de prouver que les
+Démons n&#39;étoient point les auteurs des oracles ; de repondre aux objections du P. Baltus ;
+d&#39;examiner enfin le tems auquel les oracles ont cessé, &amp; de faire voir qu&#39;ils ont cessé
+d&#39;une maniere naturelle.
+</p>
+<p>
+Le desir si vif &amp; si inutile de connoître l&#39;avenir, donna naissance aux Oracles des
+Payens. Quelques hommes adroits &amp; entreprenans mirent à profit la curiosité du peuple
+pour le tromper : il n&#39;y eut point en cela d&#39;autre magie ; l&#39;imposture avoit commencé l&#39;ouvrage,
+le fanatisme l&#39;acheva : car un moyen infaillible de faire des fanatiques, c&#39;est de
+persuader avant que d&#39;instruire ; quelquefois même certains prêtres ont pû être la dupe des
+oracles qu&#39;ils rendoient ou qu&#39;ils faisoient rendre, semblables à ces Empyriques dont les
+uns participent à l&#39;erreur publique qu&#39;ils entretiennent, les autres en profitent sans la partager.
+</p>
+<p>
+C&#39;est par la foi seule que nous savons qu&#39;il y a des Démons, c&#39;est donc par la foi seule
+que nous pouvons apprendre ce qu&#39;ils sont capables de faire dans l&#39;ordre surnaturel ; &amp;
+puisque la révélation ne leur attribue pas les oracles, elle nous permet de croire que ces
+oracles n&#39;étoient pas leur ouvrage. Lorsqu&#39;Isaîe défia les dieux des Payens de prédire l&#39;avenir,
+il ne mit point de restrictions à ce défi, qui n&#39;eût plus été qu&#39;imprudent, si en effet les
+Démons avoient eu le pouvoir de prophétiser. Daniel ne crut pas que le serpent des Babyloniens fût un démon ; il <i>rit</i> en Philosophe, dit l&#39;Ecriture, de la crédulité du Prince &amp; de
+la fourberie des Prêtres, &amp; empoisonna le serpent. D&#39;ailleurs les Partisans même des oracles 
+conviennent qu&#39;il y en a eu de faux, &amp; par-la ils nous mettent en droit (s&#39;il n&#39;y a pas
+de preuve évidente du contraire) de les regarder sans exception comme supposés : tout se
+réduisoit à cacher plus ou moins adroitement l&#39;imposture. Enfin les Payens même n&#39;ont pas
+crû généralement que les oracles fussent surnaturels. De grandes sectes de Philosophes,
+entr&#39;autres les Epicuriens, se vantoient, comme les Chrétiens, de faire taire les Oracles
+&amp; de démasquer les Prêtres. Valere-Maxime &amp; d&#39;autres disent, il est vrai, que des statues
+ont parlé; mais l&#39;Ecriture dément ce témoignage, en nous apprenant que les statues sont
+muettes. Les Historiens prophanes, lorsqu&#39;ils racontent sur un simple oui-dire des faits
+extraordinaires, sont moins croyables que les Historiens de la Chine sur l&#39;antiquité qu&#39;ils
+donnent au Monde. Casaubon se mocque avec raison d&#39;Hérodote, qui rapporte sérieusement 
+plusieurs de ces oracles ridicules de l&#39;antiquité, &amp; d&#39;autres prodiges de la même force.
+</p>
+<p>
+Si les oracles n&#39;eussent pas été une fourberie, l&#39;idolatrie n&#39;eût plus été qu&#39;un malheur
+excusable, parce que les Payens n&#39;auroient eu aucun moyen de découvrir leur erreur par
+la raison, le seul guide qu&#39;ils eussent alors. Quand une fausse Religion, ou quelque Secte
+que ce puisse être, vante les prodiges opérés en sa faveur, &amp; qu&#39;on ne peut expliquer ces
+prodiges d&#39;une maniere naturelle, il n&#39;y a qu&#39;un parti à prendre, celui de nier les faits. Rien
+n&#39;est donc plus conforme aux principes &amp; aux intérêts du Christianisme, que de regarder
+<pb n="7:vj" facs="V7/ENC_7-vj.jpeg" />
+<milestone unit="column" n="0" />
+le Paganisme comme un pur ouvrage des hommes, qui n&#39;a subsisté que par des moyens
+humains. Aussi l&#39;Ecriture ne donne à l&#39;Idolatrie qu&#39;une origine toute naturelle, &amp; la plûpart
+des Peres paroissent penser de même. Plusieurs d&#39;entr&#39;eux ont expressément traité les oracles 
+d&#39;impostures, &amp; aucun n&#39;a prétendu que ce sentiment offensât la Religion : ceux
+même qui n&#39;ont pas été éloignés de croire qu&#39;il y avoit quelque chose de surnaturel dans
+les oracles, paroissent n&#39;y avoir été déterminés que par une façon particuliere de penser
+tout-à-fait indépendante des vérités fondamentales du Christianisme. Selon la plûpart des
+Payens, les Dieux étoient les auteurs des oracles favorables, &amp; les mauvais Génies l&#39;étoient
+des oracles funestes ou trompeurs. Les Chrétiens profiterent de cette opinion pour attribuer
+les oracles aux démons : ils y trouvoient d&#39;ailleurs un avantage ; ils expliquoient par cette
+supposition, le merveilleux apparent qui les embarrassoit dans certains oracles. Un faux
+principe où ils étoient, servoit à les fortifier dans cette idée ; ils croyoient les démons corporels,
+&amp; S. Augustin s&#39;est expressément rétracté d&#39;avoir donné de semblables explications.
+Les Chrétiens modernes ont eu des idées plus épurées &amp; plus saines sur la nature des Démons ; mais en rejettant le principe, plusieurs ont retenu la conséquence. C&#39;est donc en vain
+que certains Auteurs ecclésiastiques, qui n&#39;ont pas dans l&#39;Eglise l&#39;autorité des Peres, &amp; qui
+croyoient que les Démons étoient des animaux d&#39;un esprit aérien, nous rapportent de faux
+oracles, dont ils prétendent tirer des argumens en faveur de la Religion. Il faut mettre
+ces faits, &amp; les raisonnemens qui en sont la suite, à côté des relations de la Légende dorée,
+du Corbeau excommunié pour avoir volé la bague de l&#39;Abbé Conrad, &amp; des extravagances 
+que l&#39;imbécillité a débitées sur les prétendus hommages que les animaux ont rendus
+à nos redoutables mysteres. Rien n&#39;est plus propre à avilir la Religion (si quelque chose
+peut l&#39;avilir), rien n&#39;est du-moins plus nuisible auprès des Peuples à une cause si respectable,
+que de la défendre par des preuves foibles ou absurdes ; c&#39;est Osa qui croit que l&#39;Arche
+chancele, &amp; qui ose y porter la main.
+</p>
+<p>
+Le P. Baltus abuse évidemment des termes, quand il prétend que l&#39;opinion qui attribue
+les oracles aux malins esprits, est une vérité enseignée par la Tradition ; puisqu&#39;on ne doit
+regarder comme des vérités de Tradition &amp; par conséquent de Foi, que celles qui ont été
+constamment reconnues pour telles par l&#39;Eglise ; le défenseur des Oracles se contredit ensuite
+lui-même, quand il avoue que l&#39;opinion qu&#39;il soûtient n&#39;est que de foi humaine, c&#39;est-à dire
+du genre des choses qu&#39;on peut se dispenser de croire sans cesser d&#39;être Chrétien ; mais en cela
+il tombe dans une autre contradiction, puisque la foi humaine ne peut tomber que sur ce qui
+est de l&#39;ordre naturel, &amp; que les oracles selon lui n&#39;en sont pas. Le témoignage des Historiens de l&#39;antiquité, ajoûte M. du Marsais, est formellement contraire à ce que le P. Baltus
+prétend, que jamais les oracles n&#39;ont été rendus par des statues creuses : mais quand cette
+prétention seroit fondée, elle seroit favorable à la cause de M. de Fontenelle, puisqu&#39;il est
+encore plus aisé de faire parler un Prêtre qu&#39;une statue. Il n&#39;est point vrai, comme le dit encore 
+le Critique, que ceux qui réduisent les oracles à des causes naturelles, diminuent par
+ce moyen la gloire de J. C. qui les a fait cesser ; ce seroit au contraire affoiblir véritablement
+cette gloire, que d&#39;attribuer les Oracles aux démons : car le P. Baltus prétend lui-même
+que Julien dans le jv. siecle du Christianisme, en évoquant <i>efficacement</i> les Enfers par la
+magie &amp; par les enchantemens, en avoit obtenu réponse. Les permissions particulieres que
+l&#39;Ecriture dit avoir été accordées au démon, ne nous donnent pas droit d&#39;en supposer d&#39;autres ; 
+rien n&#39;est plus ridicule dans l&#39;ordre surnaturel que l&#39;argument qui prouve l&#39;existence
+d&#39;un fait miraculeux par celle d&#39;un fait semblable. Ajoûter foi trop legerement aux prodiges,
+dans un siecle où ils ne sont plus nécessaires à l&#39;établissement du Christianisme, c&#39;est
+ébranler, sans le vouloir, les fondemens de la croyance que l&#39;on doit aux vrais miracles
+rapportés dans les Livres saints. On ne croit plus de nos jours aux possédés, quoiqu&#39;on
+croye à ceux de l&#39;Ecriture. Jesus-Christ a été transporté par le démon, il l&#39;a permis pour
+nous instruire ; mais de pareils miracles ne se font plus. La métamorphose de Nabuchodonosor en bête, dont il ne nous est pas permis de douter, n&#39;est arrivée qu&#39;une fois. Enfin
+Saül a évoqué l&#39;ombre de Samuel, &amp; l&#39;on n&#39;ajoûte plus de foi aux évocations. Le P. Baltus
+avoue que les prodiges mêmes racontés par les Peres, ne sont pas de foi ; à plus forte raison
+les prétendus miracles du Paganisme, qu&#39;ils ont quelquefois daigné rapporter. Si le sentiment 
+de ces Auteurs (d&#39;ailleurs très-graves) sur des objets étrangers au Christianisme,
+devoit être la regle de nos opinions, on pourroit justifier par ce principe le traitement que
+les Inquisiteurs ont fait à Galilée.
+</p>
+<p>
+On aura peine à croire que le P. Baltus ait reproché sérieusement à M. de Fontenelle
+d&#39;avoir adopté sur les Oracles le sentiment de l&#39;Anabaptiste Vandale, comme si un Anabaptiste étoit condamné à déraisonner en tout, même sur une matiere étrangere aux erreurs
+de sa Secte. La réponse de M. du Marsais à cette objection, est que le Religieux qui a pris
+la défense des Oracles, a suivi aussi le sentiment du Luthérien Moebius ; &amp; qu&#39;hérétique
+pour hérétique, un Anabaptiste vaut bien un Luthérien.
+<pb n="7:vij" facs="V7/ENC_7-vij.jpeg" />
+<milestone unit="column" n="0" />
+</p>
+<p>
+Ceux qui ont avancé que les Oracles avoient cessé à la venue de J. C. ne l&#39;ont cru que
+d&#39;après l&#39;Oracle supposé sur l&#39;enfant hébreu ; Oracle regardé comme faux par le P. Baltus
+lui-même ; aussi prétend-il que les Oracles n&#39;ont pas fini précisément à la venue du Sauveur du monde, mais peu-à-peu, à mesure que J. C. a été connu &amp; adoré. Cette maniere
+de finir n&#39;a rien de surprenant, elle étoit la suite naturelle de l&#39;établissement d&#39;un nouveau
+culte. Les faits miraculeux, ou plûtôt qu&#39;on veut donner pour tels, diminuent dans une
+fausse religion, ou à mesure qu&#39;elle s&#39;établit, parce qu&#39;elle n&#39;en a plus besoin, ou à mesure
+qu&#39;elle s&#39;affoiblit, parce qu&#39;ils n&#39;obtiennent plus de croyance. La pauvreté des peuples qui
+n&#39;avoient plus rien à donner, la fourberie découverte dans plusieurs Oracles, &amp; conclue
+dans les autres, enfin les Edits des Empereurs Chrétiens, voilà les causes véritables de la
+cessation de ce genre d&#39;imposture : des circonstances favorables l&#39;avoient produit, des circonstances 
+contraires l&#39;ont fait disparoître ; ainsi les Oracles ont été soumis à toute la vicissitude 
+des choses humaines. On se retranche à dire que la naissance de J. C. est la premiere 
+époque de leur cessation ; mais pourquoi certains démons ont-ils fui tandis que les
+autres restoient? D&#39;ailleurs l&#39;Histoire ancienne prouve invinciblement que plusieurs Oracles
+avoient été détruits avant la venue du Sauveur du monde, par des guerres &amp; par d&#39;autres
+troubles : tous les Oracles brillans de la Grece n&#39;existoient plus ou presque plus, &amp; quelquefois 
+l&#39;Oracle se trouvoit interrompu par le silence d&#39;un honnête prêtre qui ne vouloit
+pas tromper le peuple. L&#39;Oracle de Delphes, dit Lucain, est demeuré muet depuis que les
+Princes craignent l&#39;avenir ; ils ont défendu aux Dieux de parler, &amp; les Dieux ont obéi.
+Enfin tout est plein dans les Auteurs prophanes d&#39;Oracles qui ont subsisté jusqu&#39;aux jv. &amp;
+v. siecles, &amp; il y en a encore aujourd&#39;hui chez les Idolatres. Cette opiniâtreté incontestable
+des Oracles à subsister encore après la venue de J. C. suffiroit pour prouver qu&#39;ils n&#39;ont pas
+été rendus par les démons, comme le remarquent M. de Fontenelle &amp; son Défenseur ;
+puisqu&#39;il est évident que le Fils de Dieu descendant parmi les hommes, devoit tout-à-coup
+imposer silence aux Enfers.
+</p>
+<p>
+Telle est l&#39;analyse de l&#39;Ouvrage de M. du Marsais sur les Oracles. Revenons maintenant
+à sa personne. Il étoit destiné à être malheureux en tout ; M. de Maisons le pere chez qui
+il étoit entré, &amp; qui en avoit fait son ami, étoit trop éclairé pour ne pas sentir les obligations 
+qu&#39;il avoit à un pareil Gouverneur, &amp; trop équitable pour ne pas les reconnoître ;
+mais la mort l&#39;enleva dans le tems où l&#39;éducation de son fils étoit prête à finir, &amp; où il
+se proposoit d&#39;assûrer à M. du Marsais une retraite honnête, juste fruit de ses travaux
+&amp; de ses soins. Notre Philosophe, sur les espérances qu&#39;on lui donnoit de suppléer à ce
+que le pere de son Eleve n&#39;avoit pû faire, resta encore quelque tems dans la maison ;
+mais le peu de considération qu&#39;on lui marquoit &amp; les dégoûts même qu&#39;il essuya, l&#39;obligerent 
+enfin d&#39;en sortir, &amp; de renoncer à ce qu&#39;il avoit lieu d&#39;attendre d&#39;une famille riche à laquelle 
+il avoit sacrifié les douze plus belles années de sa vie. On lui proposa d&#39;entrer chez
+le fameux Law, pour être auprès de son fils, qui étoit alors âgé de seize ou dix-sept ans ;
+&amp; M. du Marsais accepta cette proposition. Quelques amis l&#39;accuserent injustement d&#39;avoir 
+eu dans cette démarche des vues d&#39;intérêt : toute sa conduite prouve assez qu&#39;il n&#39;étoit
+sur ce point ni fort éclairé, ni fort actif, &amp; il a plusieurs fois assûré qu&#39;il n&#39;eût jamais
+quitté son premier Eleve, si par le refus des égards les plus ordinaires on ne lui avoit rendu
+sa situation insupportable.
+</p>
+<p>
+La fortune qui sembloit l&#39;avoir placé chez M. Law, lui manqua encore ; il avoit des Actions qu&#39;il vouloit convertir en un bien plus solide : on lui conseilla de les garder ; bien-tôt
+après tout fut anéanti. &amp; M. Law obligé de sortir du Royaume, &amp; d&#39;aller mourir dans
+l&#39;obscurité à Venise. Tout le fruit que M. du Marsais retira d&#39;avoir demeuré dans cette maison,
+ce fut, comme il l&#39;a écrit lui-même, de pouvoir rendre des services importans à plusieurs 
+personnes d&#39;un rang très-supérieur au sien, qui depuis n&#39;ont pas paru s&#39;en souvenir ;
+&amp; de connoître (ce sont encore ses propres termes) la bassesse, la servitude &amp; l&#39;esprit d&#39;adulation 
+des Grands.
+</p>
+<p>
+Il avoit éprouvé par lui-même combien cette profession si noble &amp; si utile, qui a pour
+objet l&#39;éducation de la jeunesse, est peu honorée parmi nous, tant nous sommes eclairés
+sur nos intérets ; mais la situation de ses affaires, &amp; peut-être l&#39;habitude, lui avoient rendu
+cette ressource indispensable : il rentra donc encore dans la même carriere, &amp; toûjours avec
+un égal succès. La justice que nous devons à sa mémoire, nous oblige de repousser à cette
+occasion une calomnie qui n&#39;a été que trop répandue. On a prétendu que M. du Marsais
+étant appellé pour présider à l&#39;éducation de trois freres dans une des premieres Maisons
+du Royaume, avoit demandé <i>dans quelle religion on vouloit qu&#39;il les élevât</i>. Cette question
+singuliere avoit été faite à M. Law, alors de la Religion anglicane, par un homme d&#39;esprit
+qui avoit été pendant quelque tems auprès de son fils. M. du Marsais avoit sû le fait, &amp;
+l&#39;avoit simplement raconté: il étoit absurde de penser qu&#39;en France, dans le sein d&#39;une
+<pb n="7:viij" facs="V7/ENC_7-viij.jpeg" />
+<milestone unit="column" n="0" />
+famille catholique où personne ne le connoissoit encore, &amp; où il avoit intérêt de donner
+bonne opinion de sa prudence, il eût hazardé un discours si extravagant, &amp; qui pouvoit
+être regardé comme une injure ; mais on trouva plaisant de le lui attribuer, &amp; par cette
+raison on continuera peut-être à le lui attribuer encore, non-seulement contre la vérité,
+mais même contre la vraissemblance. Cependant nous ne devons pas laisser ignorer à ceux
+qui liront cet Eloge, que ce conte ridicule, répété &amp; même orné en passant de bouche
+en bouche, est peut-être ce qui a le plus nui à M. du Marsais. Les plaisanteries que notre
+frivolité se permet si legerement sans en prévoir les suites, laissent souvent après elles des
+plaies profondes ; la haine profite de tout ; &amp; qu&#39;il est doux pour cette multitude d&#39;hommes
+que blesse l&#39;éclat des talens, de trouver le plus leger prétexte pour se dispenser de leur rendre 
+justice!
+</p>
+<p>
+Cette imputation calomnieuse, &amp; ce que nous avons rapporté au sujet de l&#39;Histoire des
+Oracles, ne sont pas les seules persécutions que M. du Marsais ait essuyées. Il nous est tombé 
+entre les mains un fragment d&#39;une de ses lettres sur la legereté des soupçons qu&#39;on forme
+contre les autres en matiere de religion. Il ne lui étoit que trop permis de s&#39;en plaindre, puisqu&#39;il en avoit été si souvent l&#39;objet &amp; la victime. Nous apprenons par ce fragment, que
+des hommes qui se disoient Philosophes, l&#39;avoient accusé d&#39;impiété, pour avoir soûtenu
+contre les Cartésiens, que les bêtes n&#39;étoient pas des automates. Ses Adversaires donnoient
+pour preuve de cette accusation, l&#39;impossibilité qu&#39;il y avoit, selon eux, de concilier l&#39;opinion 
+qui attribue du sentiment aux bêtes, avec les dogmes de la spiritualité &amp; de l&#39;immortalité 
+de l&#39;ame, de la liberté de l&#39;homme, &amp; de la justice divine dans la distribution des
+maux<sup><ref type="note" target="n3" n="*" /></sup>. M. du Marsais répondoit que l&#39;opinion qu&#39;il avoit soûtenue sur l&#39;ame des bêtes,
+n&#39;étoit pas la sienne ; qu&#39;avant Descartes elle étoit absolument générale, comme conforme
+aux premieres notions de l&#39;expérience &amp; du sens commun, &amp; même au langage de l&#39;Ecriture ; que depuis Descartes même elle avoit toûjours prévalu dans la plûpart des Ecoles,
+qui ne s&#39;en étoient pas crues moins orthodoxes ; enfin que c&#39;étoit apparemment le sort de
+quelque opinion que ce fût sur l&#39;ame des bêtes, de faire taxer d&#39;irreligion ceux qui la soûtenoient,
+puisque Descartes lui-même en avoit été accusé de son tems, pour avoir prétendu
+que les animaux étoient de pures machines. Il en a été de même parmi nous, d&#39;abord des
+partisans des idées innées, &amp; depuis peu de leurs Adversaires ; plusieurs autres opinions
+semblables ont eu cette singuliere destinée, que le pour &amp; le contre ont été successivement
+traités comme impies ; tant le zele aveuglé par l&#39;ignorance, est ingénieux à se forger des
+sujets de scandale, &amp; à se tourmenter lui-même &amp; les autres.
+</p>
+<p>
+M. du Marsais, après la chûte de M. Law, entra chez M. le Marquis de Bauffremont. Le
+séjour qu&#39;il y fit durant plusieurs années, est une des époques les plus remarquables de sa
+vie, par l&#39;utilité dont il a été pour les Lettres. Il donna occasion à M. du Marsais de se
+dévoiler au Public pour ce qu&#39;il étoit, pour un Grammairien profond &amp; philosophe, &amp;
+pour un esprit créateur dans une matiere sur laquelle se sont exercés tant d&#39;excellens Ecrivains. C&#39;est principalement en ce genre qu&#39;il s&#39;est acquis une réputation immortelle, &amp;
+c&#39;est aussi par ce côté important que nous allons désormais l&#39;envisager.
+</p>
+<p>
+Un des plus grands efforts de l&#39;esprit humain, est d&#39;avoir assujetti les Langues à des
+regles ; mais cet effort n&#39;a été fait que peu-à-peu. Les Langues, formées d&#39;abord sans principes,
+ont été plus l&#39;ouvrage du besoin que de la raison ; &amp; les Philosophes réduits à débrouiller 
+ce cahos informe, se sont bornés à en diminuer le plus qu&#39;il étoit possible l&#39;irrégularité,
+&amp; à réparer de leur mieux ce que le Peuple avoit construit au hasard : car
+c&#39;est aux Philosophes à régler les Langues, comme c&#39;est aux bons Ecrivains à les fixer.
+La Grammaire est donc l&#39;ouvrage des Philosophes ; mais ceux qui en ont établi les regles,
+ont fait comme la plûpart des inventeurs dans les Sciences : ils n&#39;ont donné que les résultats
+de leur travail, sans montrer l&#39;esprit qui les avoit guidés. Pour bien saisir cet esprit si précieux 
+à connître, il faut se remettre sur leurs traces ; mais c&#39;est ce qui n&#39;appartient qu&#39;à
+des Philosophes comme eux. L&#39;étude &amp; l&#39;usage suffisent pour apprendre les regles, &amp; un
+degré de conception ordinaire pour les appliquer ; l&#39;esprit philosophique seul peut remonter
+jusqu&#39;aux principes sur lesquels les regles sont établies, &amp; distinguer le Grammairien de
+génie du Grammairien de mémoire. Cet esprit apperçoit d&#39;abord dans la Grammaire de
+chaque Langue les principes généraux qui sont communs à toutes les autres, &amp; qui forment 
+la Grammaire générale ; il démêle ensuite dans les usages particuliers à chaque Langue ceux qui peuvent être fondés en raison, d&#39;avec ceux qui ne sont que l&#39;ouvrage du
+hasard ou de la négligence : il observe l&#39;influence réciproque que les Langues ont eue les
+unes sur les autres, &amp; les altérations que ce mélange leur a données, sans leur ôter entierement 
+leur premier caractere : il balance leurs avantages &amp; leurs desavantages mutuels ;
+la différence de leur construction, ici libre, hardie &amp; variée, là réguliere, timide &amp; uniforme ; 
+<pb n="7:jx" facs="V7/ENC_7-jx.jpeg" />
+<milestone unit="column" n="0" />
+la diversité de leur génie tantôt favorable, tantôt contraire à l&#39;expression heureuse
+&amp; rapide des idées ; leur richesse &amp; leur liberté, leur indigence &amp; leur servitude. Le développement 
+de ces différens objets est la vraie Métaphysique de la Grammaire. Elle ne
+consiste point, comme cette Philosophie ténébreuse qui se perd dans les attributs de Dieu
+&amp; les facultés de notre ame, à raisonner à perte de vûe sur ce qu&#39;on ne connoit pas, ou
+à prouver laborieusement par des argumens foibles, des vérités dont la foi nous dispense
+de chercher les preuves. Son objet est plus réel &amp; plus à notre portée ; c&#39;est la marche de
+l&#39;esprit humain dans la génération de ses idées, &amp; dans l&#39;usage qu&#39;il fait des mots pour
+transmettre ses pensées aux autres hommes. Tous les principes de cette Métaphysique
+appartiennent pour ainsi dire à chacun, puisqu&#39;ils sont au-dedans de nous ; il ne faut pour
+les y trouver qu&#39;une analyse exacte &amp; réfléchie ; mais le don de cette analyse n&#39;est pas donné
+à tous. On peut néanmoins s&#39;assûrer si elle est bien faite, par un effet qu&#39;elle doit alors produire 
+infailliblement, celui de frapper d&#39;une lumiere vive tous les bons esprits auxquels elle
+sera présentée : en ce genre c&#39;est presqu&#39;une marque sure de n&#39;avoir pas rencontré le vrai,
+que de trouver des contradicteurs, ou d&#39;en trouver qui le soient long-tems. Aussi M. du
+Marsais n&#39;a-t-il essuyé d&#39;attaques que ce qu&#39;il en falloit pour assûrer pleinement son triomphe ; 
+avantage rare pour ceux qui portent les premiers dans les sujets qu&#39;ils traitent, le
+flambeau de la Philosophie.
+</p>
+<p>
+Le premier fruit des réflexions de M. du Marsais sur l&#39;étude des Langues, fut son <i>Exposition d&#39;une Méthode raisonnée pour apprendre la Langue Latine ;</i> elle parut en 1722: il la dédia
+à MM. de Bauffremont ses Eleves, qui en avoient fait le plus heureux essai, &amp; dont l&#39;un,
+commencé des l&#39;alphabet par son illustre Maitre, avoit fait en moins de trois ans les progres 
+les plus singuliers &amp; les plus rapides.
+</p>
+<p>
+La Methode de M. du Marsais a deux parties, l&#39;usage, &amp; la raison. Savoir une Langue,
+c&#39;est en entendre les mots ; &amp; cette connoissance appartient proprement à la mémoire,
+c&#39;est-à-dire à celle des facultés de notre ame qui se développe la premiere chez les enfans,
+qui est même plus vive à cet âge que dans aucun autre, &amp; qu&#39;on peut appeller l&#39;esprit de
+l&#39;enfance. C&#39;est donc cette faculté qu&#39;il faut exercer d&#39;abord, &amp; qu&#39;il faut même exercer
+seule. Ainsi on fera d&#39;abord apprendre aux enfans, sans les fatiguer, &amp; comme par maniere
+d&#39;amusement, suivant différens moyens que l&#39;Auteur indique, les mots latins les plus en
+usage. On leur donnera ensuite a expliquer un Auteur latin rangé suivant la construction
+françoise, &amp; sans inversion. On substituera de plus dans le texte, les mots sous-entendus
+par l&#39;Auteur, &amp; on mettra sous chaque mot latin le terme françois correspondant : vis-à-vis
+de ce texte ainsi disposé pour en faciliter l&#39;intelligence, on placera le texte de l&#39;Auteur tel
+qu&#39;il est ; &amp; à côté du françois littéral, une traduction françoise conforme au génie de notre
+Langue. Par ce moyen, l&#39;enfant repassant du texte latin altéré au texte véritable, &amp; de
+la version interlinéaire à une traduction libre, s&#39;accoûtumera insensiblement à connoître
+par le seul usage les façons de parler propres à la Langue latine &amp; à la Langue françoise.
+Cette maniere d&#39;enseigner le Latin aux enfans, est une imitation exacte de la façon dont
+on se rend familieres les Langues vivantes, que l&#39;usage seul enseigne beaucoup plus vîte
+que toutes les méthodes. C&#39;est d&#39;ailleurs se conformer a la marche de la nature. Le langage
+s&#39;est d&#39;abord établi, &amp; la Grammaire n&#39;est venue qu&#39;à la suite.
+</p>
+<p>
+A mesure que la mémoire des enfans se remplit, que leur raison se perfectionne, &amp; que
+l&#39;usage de traduire leur fait appercevoir les variétés dans les terminaisons des mots latins
+&amp; dans la construction, &amp; l&#39;objet de ces variétés, on leur fait apprendre peu-à-peu les
+déclinaisons, les conjugaisons, &amp; les premieres regles de la syntaxe, &amp; on leur en montre
+l&#39;application dans les Auteurs mêmes qu&#39;ils ont traduits : ainsi on les prépare peu-à-peu, &amp;
+comme par une espece d&#39;instinct, à recevoir les principes de la Grammaire raisonnée, qui
+n&#39;est proprement qu&#39;une vraie Logique, mais une Logique qu&#39;on peut mettre à la portée des
+enfans. C&#39;est alors qu&#39;on leur enseigne le méchanisme de la construction, en leur faisant
+faire l&#39;anatomie de toutes les frases, &amp; en leur donnant une idée juste de toutes les parties
+du discours.
+</p>
+<p>
+M. du Marsais n&#39;a pas de peine à montrer les avantages de cette Méthode sur la Méthode ordinaire. Les inconvéniens de celle-ci sont de parler aux enfans de cas, de modes,
+de concordance, &amp; de régime, sans préparation, &amp; sans qu&#39;ils puissent sentir l&#39;usage de
+ce qu&#39;on leur fait apprendre, de leur donner ensuite des regles de syntaxe très-composées,
+dont on les oblige de faire l&#39;application en mettant du françois en latin ; de vouloir forcer
+leur esprit à produire, dans un tems où il n&#39;est destiné qu&#39;à recevoir ; de les fatiguer en
+cherchant à les instruire ; &amp; de leur inspirer le dégoût de l&#39;étude, dans un âge où l&#39;on ne
+doit songer qu&#39;à la rendre agréable. En un mot, dans la Méthode ordinaire on enseigne
+le Latin à-peu près comme un homme qui pour apprendre à un enfant à parler, commenceroit 
+par lui montrer la méchanique des organes de la parole ; M. du Marsais imite
+<pb n="7:x" facs="V7/ENC_7-x.jpeg" />
+<milestone unit="column" n="0" />
+au contraire celui qui enseigneroit d&#39;abord à parler, &amp; qui expliqueroit ensuite la méchanique 
+des organes. Il termine son Ouvrage par une application du plan qu&#39;il propose, au
+Poëme séculaire d&#39;Horace : cet exemple doit suffire aux Maîtres intelligens, pour les guider
+dans la route qui leur est ouverte.
+</p>
+<p>
+Rien ne paroît plus philosophique que cette Méthode, plus conforme au développement 
+naturel de l&#39;esprit, &amp; plus propre à abreger les difficultés. Mais elle avoit deux
+grands défauts ; elle étoit nouvelle ; elle contenoit de plus une critique de la maniere d&#39;enseigner 
+qu&#39;on pratique encore parmi nous, &amp; que la prévention, la paresse, l&#39;indifférence
+pour le bien public, s&#39;obstinent à conserver, comme elles consacrent tant d&#39;autres abus
+sous le nom d&#39;usage. Aussi l&#39;Ouvrage fut-il attaqué, &amp; principalement dans celui de nos
+Journaux dont les Auteurs avoient un intérêt direct à le combattre. Ils firent à M. du
+Marsais un grand nombre d&#39;objections auxquelles il satisfit pleinement. Mais nous ne devons 
+pas oublier de remarquer que lorsqu&#39;il se chargea près de trente ans après de la partie
+de la Grammaire dans le Dictionnaire encyclopédique, il fut célébré comme un grand maître 
+&amp; presque comme un oracle dans le même Journal où ses premiers Ouvrages sur cette
+matiere avoient été si mal accueillis. Cependant bien loin d&#39;avoir changé de principes, il
+s&#39;étoit confirmé par l&#39;expérience &amp; par les réflexions, dans le peu de cas qu&#39;il faisoit de la
+Méthode ordinaire. Mais sa réputation le mettoit alors au-dessus de la critique ; il touchoit
+d&#39;ailleurs à la fin de sa carriere, &amp; il n&#39;y avoit plus d&#39;inconvénient à le loüer. La plûpart
+des Critiques de profession ont un avantage dont ils ne s&#39;apperçoivent peut-être pas eux-mêmes,
+mais dont ils profitent comme s&#39;ils en connoissoient toute l&#39;étendue ; c&#39;est l&#39;oubli
+auquel leurs décisions sont sujettes, &amp; la liberté que cet oubli leur laisse d&#39;approuver aujourd&#39;hui ce qu&#39;ils blâmoient hier, &amp; de le blâmer de nouveau pour l&#39;approuver encore.
+</p>
+<p>
+M. du Marsais encouragé par le succès de ce premier essai, entreprit de le développer
+dans un Ouvrage qui devoit avoit pour titre <i>les véritables Principes de la Grammaire, ou nouvelle 
+Grammaire raisonnée pour apprendre la Langue Latine</i>. Il donna en 1729, la Préface de
+cet Ouvrage qui contient un détail plus étendu de sa Méthode, plusieurs raisons nouvelles 
+en sa faveur, &amp; le plan qu&#39;il se proposoit de suivre dans la Grammaire générale. Il
+la divise en six articles ; sçavoir, la connoissance de la proposition &amp; de la période en tant
+qu&#39;elles sont composées de mots, l&#39;orthographe, la prosodie, l&#39;étymologie, les préliminaires 
+de la syntaxe, &amp; la syntaxe même. C&#39;est tout ce qu&#39;il publia pour lors de son Ouvrage,
+mais il en détacha l&#39;année suivante un morceau prétieux qu&#39;il donna séparément au Public,
+&amp; qui devoit faire le dernier objet de sa Grammaire générale. Nous voulons parler de son
+<i>Traité des Tropes</i>, ou des différens sens dans lesquels un même mot peut être pris dans une
+même Langue. L&#39;Auteur expose d&#39;abord dans cet Ouvrage, à-peu-près comme il l&#39;a fait
+depuis dans l&#39;Encyclopédie au mot <i>figure</i>, ce qui constitue en général le style figuré, &amp;
+montre combien ce style est ordinaire non-seulement dans les écrits, mais dans la conversation 
+même ; il fait sentir ce qui distingue les <i>figures de pensée</i>, communes à toutes les
+Langues, d&#39;avec les <i>figures de mots</i>, qui sont particulieres à chacune, &amp; qu&#39;on appelle proprement 
+<i>tropes</i>. Il détaille l&#39;usage des Tropes dans le discours, &amp; les abus qu&#39;on peut en
+faire ; il fait sentir les avantages qu&#39;il y auroit à distinguer dans les Dictionnaires latins françois 
+le sens propre de chaque mot d&#39;avec les sens figurés qu&#39;il peut recevoir ; il explique la
+subordination des tropes ou les différentes classes auxquelles on peut les réduire, &amp; les différens 
+noms qu&#39;on leur a donnés. Enfin pour rendre son Ouvrage complet, il traite encore 
+des autres sens dont un même mot est susceptible, outre le sens figuré, comme le sens
+adjectif ou substantif, déterminé ou indéterminé, actif, passif ou neutre, absolu ou relatif,
+collectif ou distributif, composé ou divisé, &amp; ainsi des autres. Les observations &amp; les
+regles sont appuyées par-tout d&#39;exemples frappans, &amp; d&#39;une Logique dont la clarté &amp; la
+précision ne laissent rien à desirer.
+</p>
+<p>
+Tout mérite d&#39;être lû dans le Traité des Tropes, jusqu&#39;à l&#39;<i>Errata ;</i> il contient des réflexions 
+sur notre orthographe, sur ses bisarreries, ses inconséquences, &amp; ses variations. On
+voit dans ces réflexions un Ecrivain judicieux, également éloigné de respecter superstitieusement 
+l&#39;usage, &amp; de le heurter en tout par une réforme impraticable.
+</p>
+<p>
+Cet Ouvrage, qu&#39;on peut regarder comme un chef-d&#39;oeuvre en son genre, fut plus
+estimé qu&#39;il n&#39;eut un prompt débit ; il lui a fallu près de trente ans pour arriver à une nouvelle 
+édition, qui n&#39;a paru qu&#39;après la mort de l&#39;Auteur. La matiere, quoique traitée d&#39;une
+maniere supérieure, intéressoit trop peu ce grand nombre de Lecteurs oisifs qui ne veulent
+qu&#39;être amusés : le titre même du Livre, peu entendu de la multitude, contribua à l&#39;indifférence 
+du Public, &amp; M. du Marsais nous a rapporté sur cela lui-même une anecdote
+singuliere. Quelqu&#39;un voulant un jour lui faire compliment sur cet Ouvrage, lui dit qu&#39;il
+venoit d&#39;entendre dire beaucoup de bien de son <i>Histoire des Tropes:</i> il prenoit les tropes pour
+un nom de Peuple.
+<pb n="7:xj" facs="V7/ENC_7-xj.jpeg" />
+<milestone unit="column" n="0" />
+</p>
+<p>
+Cette lenteur de succès, jointe à des occupations particulieres, &amp; peut-être à un peu de
+paresse, a privé le Public de la Grammaire que l&#39;Auteur avoit promise ; perte très-difficile
+à réparer dans ce siecle même, où la Grammaire plus que jamais cultivée par des Philosophes, commence à être mieux approfondie &amp; mieux connue. M. du Marsais se contenta de
+publier en 1731 l&#39;abrégé de la Fable du P. Jouvenci, disposé suivant sa Méthode ; le texte
+pur d&#39;abord, ensuite le même texte sans inversion &amp; sans mots sous entendus ; au-dessous de
+ce texte la version interlinéaire, &amp; au-dessous de cette version la vraie traduction en Langue françoise. C&#39;est le dernier Ouvrage qu&#39;il a donné au Public ; on a trouvé dans ses papiers
+plusieurs versions de ce genre qu&#39;il seroit facile de mettre au jour, si on les jugeoit utiles.
+</p>
+<p>
+Il avoit composé pour l&#39;usage de ses Eleves ou pour le sien, d&#39;autres Ouvrages qui n&#39;ont
+point paru. Nous ne citerons que <i>sa Logique</i> ou <i>réflexions sur les opérations de l&#39;esprit</i> ; ce
+traité contient sur l&#39;art de raisonner tout ce qu&#39;il est utile d&#39;apprendre, &amp; sur la Métaphysique tout ce qu&#39;il est permis de savoir. C&#39;est dire que l&#39;Ouvrage est très-court ; &amp; peut-être
+pourroit-on l&#39;abréger encore.
+</p>
+<p>
+L&#39;éducation de MM. de Bauffremont finie, M. du Marsais continua d&#39;exercer le talent
+rare qu&#39;il avoit pour l&#39;éducation de la jeunesse ; il prit une Pension au Faubourg S. Victor,
+dans laquelle il élevoit suivant sa méthode un certain nombre de jeunes gens ; mais des circonstances 
+imprévues le forcerent d&#39;y renoncer. Il voulut se charger encore de quelques
+éducations particulieres, que son âge avancé ne lui permit pas de conserver long tems : obligé 
+enfin de se borner à quelques leçons qu&#39;il faisoit pour subsister, sans fortune, sans espérance,
+&amp; presque sans ressource, il se réduisit à un genre de vie fort étroit. Ce fut alors que
+nous eumes le bonheur de l&#39;associer à l&#39;Encyclopédie ; les articles qu&#39;il lui a fournis, &amp; qui
+sont en grand nombre dans les six premiers volumes, feront à jamais un des principaux ornemens 
+de cet Ouvrage, &amp; sont supérieurs à tous nos éloges. La Philosophie saine &amp; lumineuse 
+qu&#39;ils contiennent, le savoir que l&#39;Auteur y a répandu, la précision des regles &amp; la
+justesse des applications, ont fait regarder avec raison cette partie de l&#39;Encyclopédie comme 
+une des mieux traitées. Un succès si général &amp; si juste ne pouvoit augmenter l&#39;estime
+que les gens de Lettres avoient depuis long-tems pour l&#39;Auteur, mais le fit connoître d&#39;un
+grand nombre de gens du monde, dont la plûpart ignoroient jusqu&#39;à son nom. Enhardi &amp;
+soûtenu par les marques les moins équivoques de l&#39;approbation publique, il crut pouvoir
+en faire usage pour se procurer le néceslaire qui lui manquoit. Il écrivit à un Philosophe,
+du petit nombre de ceux qui habitent Versailles, pour le prier de s&#39;intéresser en sa faveur
+auprès des distributeurs des graces. Ses ouvrages &amp; ses travaux, recommandation trop
+inutile, étoient la seule qu&#39;il pût faire parler pour lui. Il se comparoit dans sa Lettre, au
+Paralytique de trente-huit ans, qui attendoit en vain que l&#39;eau de la piscine fût agitée en
+sa faveur. Cette Lettre touchante eut l&#39;effet qu&#39;elle devoit avoir à la Cour, où les intérêts
+personnels étouffent tout autre intérêt, où le mérite a des amis timides qui le servent foiblement,
+&amp; des ennemis ardens, attentifs aux occasions de lui nuire. Les services de
+M. du Marsais, sa vieillesse, ses infirmités, les prieres de son ami, ne purent rien obtenir.
+On convint de la justice de ses demandes, on lui témoigna beaucoup d&#39;envie de l&#39;obliger ;
+ce fut tout le fruit qu&#39;il retira de la bonne volonté apparente qu&#39;on lui marquoit. La plus
+grande injure que les gens en place puissent faire à un homme de Lettres, ce n&#39;est pas de
+lui refuser l&#39;appui qu&#39;il a droit d&#39;attendre d&#39;eux ; c&#39;est de le laisser dans l&#39;oppression ou dans
+l&#39;oubli, en voulant paroître ses protecteurs. L&#39;indifférence pour les talens ne les offense pas
+toûjours, mais elle les révolte quand elle cherche à se couvrir d&#39;un faux air d&#39;intérêt ;
+heureusement elle se démasque bientôt elle-même, &amp; les moins clairvoyans n&#39;y sont pas
+long-tems trompés.
+</p>
+<p>
+M. du Marsais, avec moins de délicatesse &amp; plus de talent pour se faire valoir, eût
+peut-être trouvé chez quelques Citoyens riches &amp; généreux, les secours qu&#39;on lui refusoit
+d&#39;ailleurs. Mais il avoit assez vécu pour apprendre a redouter les bienfaits, quand l&#39;amitié
+n&#39;en est pas le principe, ou quand on ne peut estimer la main dont ils viennent. C&#39;est parce
+qu&#39;il étoit très-capable de reconnoissance, &amp; qu&#39;il en connoissoit tous les devoirs, qu&#39;il
+ne vouloit pas placer ce sentiment au hasard. Il racontoit à cette occasion avec une sorte
+de gaieté que ses malheurs ne lui avoient point fait perdre, un trait que Moliere n&#39;eût pas
+laissé échapper, s&#39;il eût pû le connoître : <i>M. du Marsais</i>, disoit un riche Avare, <i>est un fort
+honnête homme ; il y a quarante ans qu&#39;il est mon ami, il est pauvre, &amp; il ne m&#39;a jamais rien
+demandé</i>.
+</p>
+<p>
+Sur la fin de sa vie il crut pouvoir se promettre des jours un peu plus heureux ; son fils,
+qui avoit fait une petite fortune au Cap François, où il mourut il y a quelques années,
+lui donna par la disposition de son testament l&#39;usufruit du bien qu&#39;il laissoit. Peut-être un
+pere avoit-il droit d&#39;en attendre davantage ; mais c&#39;en étoit assez pour un vieillard &amp; pour
+un Philosophe : cependant la distance des lieux &amp; le peu de tems qu&#39;il survécut à son fils,
+<pb n="7:xij" facs="V7/ENC_7-xij.jpeg" />
+<milestone unit="column" n="0" />
+ne lui permirent de toucher qu&#39;une petite partie de ce bien. Dans ces circonstances M. le
+Comte de Lauraguais, avantageusement connu à l&#39;Académie des Sciences par différens
+Mémoires qu&#39;il lui a présentés, eut occasion de voir M. du Marsais, &amp; fut touché de sa
+situation ; il lui assûra une pension de 1000 liv. dont il a continué une partie à une personne
+qui avoit eu soin de la vieillesse du Philosophe : action de générosité qui aura parmi nous
+plus d&#39;éloges que d&#39;imitateurs.
+</p>
+<p>
+Notre illustre Collegue, quoiqu&#39;âgé de près de quatre-vingts ans, paroissoit pouvoir se
+promettre encore quelques années de vie, lorsqu&#39;il tomba malade au mois de Juin de
+l&#39;année derniere. Il s&#39;apperçut bientôt du danger où il étoit, &amp; demanda les Sacremens,
+qu&#39;il reçut avec beaucoup de présence d&#39;esprit &amp; de tranquillité: il vit approcher la mort
+en sage qui avoit appris à ne la point craindre, &amp; en homme qui n&#39;avoit pas lieu de regretter 
+la vie. La République des Lettres le perdit le 11 Juin 1756, après une maladie de
+trois ou quatre jours.
+</p>
+<p>
+Les qualités dominantes de son esprit étoient la netteté &amp; la justesse, portées l&#39;une &amp;
+l&#39;autre au plus haut degré. Son caractere étoit doux &amp; tranquille ; &amp; son ame, toûjours
+égale, paroissoit peu agitée par les différens évenemens de la vie, même par ceux qui
+sembloient devoir l&#39;affecter le plus. Quoiqu&#39;accoûtumé à recevoir des loüanges, il en
+étoit très-flaté; foiblesse, si c&#39;en est une, pardonnable aux Philosophes mêmes, &amp; bien
+naturelle à un homme de Lettres qui n&#39;avoit point recueilli d&#39;autre récompense de ses travaux.
+Peu jaloux d&#39;en imposer par les dehors souvent grossiers d&#39;une fausse modestie, il
+laissoit entrevoir sans peine l&#39;opinion avantageuse qu&#39;il avoit de ses Ouvrages ; mais si son
+amour-propre n&#39;étoit pas toûjours caché, il se montroit sous une forme qui ne pouvoit
+choquer celui des autres. Son extérieur &amp; ses discours n&#39;annonçoient pas toûjours ce qu&#39;il
+étoit ; il avoit l&#39;esprit plus sage que brillant, la marche plus sûre que rapide, &amp; plus propre
+aux matieres qui dépendent de la discussion &amp; de l&#39;analyse, qu&#39;à celles qui demandent une
+impression vive &amp; prompte. L&#39;habitude qu&#39;il avoit prise d&#39;envisager chaque idée par toutes
+ses faces, &amp; la nécessité où il s&#39;étoit trouvé de parler presque toute sa vie à des enfans, lui
+avoient fait contracter dans la conversation une diffusion qui passoit quelquefois dans ses
+Ecrits, &amp; qu&#39;on y remarqua sur-tout à-mesure qu&#39;il avança en âge. Souvent dans ses entretiens 
+il faisoit précéder ce qu&#39;il avoit à dire par des préambules dont on ne voyoit pas
+d&#39;abord le but, mais dont on appercevoit ensuite le motif, &amp; quelquefois la nécessité. Son
+peu de connoissance des hommes, son peu d&#39;usage de traiter avec eux, &amp; sa facilité à dire
+librement ce qu&#39;il pensoit sur toutes sortes de sujets, lui donnoient une naïveté souvent
+plaisante, qui eût passé pour simplicité dans tout autre que lui ; &amp; on eût pû l&#39;appeller le
+La Fontaine des Philosophes. Par une suite de ce caractere, il étoit sensible au naturel, &amp;
+blessé de tout ce qui s&#39;en éloignoit ; aussi, quoiqu&#39;il n&#39;eût aucun talent pour le Théatre, on
+assûre qu&#39;il ne contribua pas peu par ses conseils à faire acquérir à la célebre le Couvreur cette 
+déclamation simple d&#39;où dépend l&#39;illusion du spectateur, &amp; sans laquelle les représentations
+dramatiques, dénuées d&#39;expression &amp; de vérité, ne sont que des plaisirs d&#39;enfant. Enfin il étoit,
+dit M. de Voltaire, du nombre de ces sages obscurs dont Paris est plein, qui jugent sainement
+de tout, qui vivent entr&#39;eux dans la paix &amp; dans la communication de la raison, ignorés
+des Grands, &amp; très-redoutés de ces Charlatans en tout genre qui veulent dominer sur les
+esprits. Il se félicitoit d&#39;avoir vû deux évenemens qui l&#39;avoient beaucoup instruit, disoit-il,
+sur les maladies épidémiques de l&#39;esprit humain, &amp; qui le consoloient de n&#39;avoir pas
+vécu sous Alexandre ou sous Auguste. Le premier de ces évenemens étoit le fameux système 
+dont il avoit été une des victimes ; système très-utile en lui-même, s&#39;il eût été bien
+conduit, &amp; si son Auteur &amp; le Gouvernement n&#39;avoient pas été séduits &amp; entraînés par
+le fanatisme du Peuple. Le second évenement étoit l&#39;étrange folie des Convulsions &amp; des
+miracles qui les ont annoncées ; autre espece de fanatisme qui auroit pû être dangereux s&#39;il
+n&#39;avoit pas été ridicule, qui a porté le coup mortel aux hommes parmi lesquels il est né,
+&amp; qui les a fait tomber dans un mépris où ils resteront, si la persécution ne les en tire pas.
+</p>
+<p>
+Nous avions tout lieu de craindre que la mort de M. du Marsais ne laissât dans l&#39;Encyclopédie un vuide immense &amp; irréparable ; nous nous sommes heureusement adressés pour
+le remplir à d&#39;excellens Disciples de ce grand Maître, assez bien instruits de ses principes,
+non-seulement pour les développer avec netteté &amp; les appliquer avec justesse, mais pour
+se les rendre propres, pour les étendre, &amp; même pour oser quelquefois les combattre. M.
+Douchet, Professeur de Grammaire à l&#39;Ecole Royale Militaire, &amp; M. Beauzée son Collegue, ont bien voulu se charger à notre priere de continuer le travail de M. du Marsais.
+M. Paris de Meyzieu, Directeur général des Etudes &amp; Intendant en survivance de la
+même Ecole, auteur de l&#39;<i>article</i> <sc><ref target="head:Ecole Royale Militaire" type="search">Ecole Royale Militaire</ref></sc>, a contribué, par l&#39;intérêt
+qu&#39;il prend à l&#39;Encyclopédie, à nous procurer cet important secours ; il veut bien encore
+y joindre ses lumieres, &amp; concourir, autant que ses occupations pourront le lui permettre,
+<pb n="7:xiij" facs="V7/ENC_7-xiij.jpeg" />
+<milestone unit="column" n="0" />
+à la perfection d&#39;une partie si utile de notre Ouvrage. Plusieurs des articles que Messieurs
+Douchet &amp; Beauzée nous ont donnés, se trouvent déjà dans ce Volume ; &amp; s&#39;il nous étoit
+permis de prévenir le jugement du Public sur ces nouveaux Collegues, nous oserions croire
+qu&#39;il ne les trouvera pas indignes de leur illustre Prédécesseur.
+</p>
+<div2 type="notes">
+<note id="n1">(<i>a</i>) Ces Ouvrages sont, 1°. <i>la Pharmacie théorique</i>. Paris, Fréderic Léonard, <i>1679, in-4°</i>. Il en donna en 1682 une
+seconde édition fort augmentée.<br />
+2°. Un Traité de Chimie à la suite de cette seconde edition.<br />
+3°. <i>Observationum Nicolai Chesneau, Massiliensis. Doctoris Medici, libri V. in-8°</i>. Paris, Léonard, 1672.<br />
+4°. Discours &amp; Abrégé des vertus &amp; propriétés des Eaux de Barbotan en la Comté d&#39;Armagnac. Bordeaux, <i>1679, in-8°</i>.<br />
+On a fait à Leyde, en 1719, une nouvelle édition des Ouvrages de Chesneau : mais on a oublié les deux premiers.
+</note>
+<note id="n2">(<i>b</i>) Il n&#39;y a peut-être qu&#39;une phrase à retrancher de cet Ouvrage : ce sont ces deux lignes de la Préface:
+<blockquote> 
+« Il me
+semble qu&#39;il ne faudroit donner dans le sublime <i>qu&#39;à son corps défendant:</i> il est si peu naturel! J&#39;avoue que le style bas
+<i>est encore quelque chose de pis</i>».
+</blockquote>
+</note>
+<note id="n3">* <i>Voyez</i> dans ce Volume l&#39;<i>article</i> <sc><ref target="head:Forme substantielle" type="search">Forme substantielle</ref></sc>.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

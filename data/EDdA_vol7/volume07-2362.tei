@@ -1,0 +1,162 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29816" id="53:242:10" vol="7">
+<index type="head" value="Gomme-Gutte" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. des drog. exot." />
+<index type="normclass" value="Histoire naturelle des drogues exotiques" />
+<index type="englishclass" value="Natural history of exotic drugs" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Gomme-Gutte</head>
+<p>
+<sc>Gomme-Gutte</sc>, (<i>Hist. nat. des drog. exot.</i>) suc
+concret, résineux &amp; gommeux, inflammable, sec,
+compacte, dur, brillant, opaque, d&#39;une couleur de
+safran jaunâtre, formé en masses rondes ou en petits 
+bâtons cylindriques, sans odeur &amp; presque sans
+goût ; au-moins quand on le retient dans la bouche,
+il n&#39;a d&#39;abord d&#39;autre goût que celui de la <i>gomme</i> arabique,
+mais peu de tems après il laisse dans le gosier
+une legere acrimonie avec un peu de sécheresse.
+</p>
+<p>
+On tire la <i>gomme-gutte</i> de Camboge, du royaume 
+de Siam, de la Chine, &amp; même, dit-on, de quelques 
+provinces de l&#39;Amérique : elle a reçu une quantité 
+de noms différens, tels que <i>gutta ad podagram,
+gumma-gutta, gutta-gamba, gutta gamandra, cambodium,
+cambogium</i>, &amp; plusieurs autres qui lui ont
+été donnés, soit à cause de la goutte que l&#39;on s&#39;imaginoit 
+qu&#39;elle guérissoit, soit à cause de Cambaye, Cambodje, ou Camboge, selon que différentes 
+nations prononcent, soit à cause des différens
+pays d&#39;où on l&#39;apporte.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les anciens ne la connoissoient point du tout, &amp;
+ce n&#39;est que depuis environ un siecle, qu&#39;elle est
+employée beaucoup par les Peintres, &amp; de-tems-en-tems par les Medecins. Elle fut envoyée pour
+la premiere fois à Clusius l&#39;an 1603, &amp; des-lors son
+usage s&#39;est étendu peu-à-peu dans l&#39;Europe.
+</p>
+<p>
+On estime celle qui est pure, qui n&#39;est point mêlée 
+de sable, ni souillée d&#39;ordures, d&#39;une couleur
+fauve, ou d&#39;un beau safran, inflammable sur le feu
+&amp; donnant la couleur jaune à la salive &amp; à l&#39;eau.
+</p>
+<p>
+Les auteurs ont été long-tems incertains sur l&#39;origine 
+de ce suc ; mais on croit savoir aujourd&#39;hui
+assez sûrement qu&#39;il découle de deux arbres, dont
+l&#39;un est une espece d&#39;oranger de Malabar appellé
+<i>ghoraka cingalensibus, coddam-pulli</i>, &amp; par Acosta
+<i>carcapulli. Voyez <sc><ref target="head:Carcapulli" type="search">Carcapulli</ref></sc></i>. L&#39;autre est nommé
+<i>ghoraka dulcis</i>, &amp; differe du précédent par sa fleur
+&amp; son fruit, qui n&#39;est que de la grosseur d&#39;une cerise.
+Herman, témoin oculaire sur les lieux, rapporte
+qu&#39;il dégoutte un suc laiteux &amp; jaunâtre des incisions 
+que l&#39;on fait aux arbres dont nous venons de
+parler ; que ce suc s&#39;épaissit d&#39;abord à la chaleur du
+soleil ; &amp; que lorsqu&#39;on peut le manier, on en forme 
+de grandes masses orbiculaires ou des bâtons.
+M. Richer prétend qu&#39;il y a un arbre à Cayenne
+qui donne aussi de la <i>gomme-gutte ;</i> mais comme il
+n&#39;a point envoyé de cette <i>gomme-gutte</i> de Cayenne, &amp; qu&#39;il n&#39;a point décrit l&#39;arbre qui la fournit,
+nous ne reconnoissons pour véritable <i>gomme-gutte</i>
+que celle des Indes orientales.
+</p>
+<p>
+L&#39;usage de cette <i>gomme</i> est considérable, parce
+qu&#39;on en tire un très-beau jaune facile à employer,
+&amp; dont on se sert pour la miniature &amp; pour les lavis ; 
+mais comme la <i>gomme-gutte</i> est en même tems
+un des plus puissans cathartiques que l&#39;on connoisse
+dans le genre végétal, il mérite notre curiosité à cet
+égard. <i>Voyez donc ci-dessous</i> <sc><ref target="head:Gomme-Gutte" type="search">Gomme-Gutte</ref></sc>,
+(<i>Medec. Mat. méd.</i>) (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

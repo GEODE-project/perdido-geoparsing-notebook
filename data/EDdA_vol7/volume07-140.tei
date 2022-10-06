@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27593" id="48:57:2" vol="7">
+<index type="head" value="Fondement" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchal." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Fondement</head>
+<p>
+<sc>Fondement</sc>, (<i>Manége &amp; Maréchal.</i>) On appelle
+de ce nom, dans le cheval ainsi que dans l&#39;homme,
+l&#39;extremité du canal intestinal, ou l&#39;orifice qui permet 
+les déjections, c&#39;est-à-dire la sortie des excrémens.
+</p>
+<p>
+Des tenesmes, une toux longue &amp; violente, la
+foiblesse des muscles qui dans le corps de l&#39;animal
+répondent aux releveurs de l&#39;anus du corps humain,
+l&#39;abondance des humeurs qui abreuvent ces
+parties, peuvent en occasionner la chûte. Cet évenement, qui est néanmoins assez rare, arrive encore 
+ensuite de la trop fréquente introduction de la
+main &amp; du bras du maréchal qui n&#39;agit point avec
+toute la précaution qu&#39;exige l&#39;action de vuider le
+cheval pour le disposer à recevoir un lavement.
+</p>
+<p>
+La cure de cette maladie consiste non-seulement à
+remettre l&#39;intestin, mais à le maintenir dans sa place.
+La réduction en doit être tentée sur le champ-Bassinez-le d&#39;abord avec du vin chaud, faites ensuite 
+avec un linge trempé dans ce même vin des compressions 
+legeres sur les côtés de la portion qui se
+trouve près de l&#39;anus, &amp; soûtenez-le toûjours avec
+attention en le repoussant doucement, pour le rétablir 
+peu-à-peu dans sa situation naturelle. Cette opération 
+ne présente pas beaucoup de difficulté, lorsque 
+l&#39;enflure &amp; l&#39;inflammation ne sont pas considérables : mais dans le cas où elles s&#39;opposeroient au
+replacement, saignez l&#39;animal, &amp; employez des fomentations 
+digestives jusqu&#39;à ce que l&#39;intestin soit
+disposé à la réduction. Aussi-tôt qu&#39;elle sera faite,
+appliquez des compresses trempées dans du vin astringent 
+composé avec les racines de bistorte, de
+tormentille, l&#39;écorce de grenade, de chêne, les noix
+de galle, l&#39;alun, les balaustes, <i>&amp;c.</i> Si l&#39;intestin retomboit<gap type="hyphenpb" />
+<pb n="7:79" facs="V7/ENC_7-79.jpeg" />
+<milestone unit="column" n="1" />
+conséquemment aux efforts auxquels l&#39;animal 
+qui se décharge de ses excrémens est obligé,
+bassinez-le avec ce vin composé; saupoudrez-le même 
+avec parties égales de bitume &amp; de noix de galle
+pulvérisées : réduisez-le de nouveau ; appliquez encore 
+des compresses trempées dans le même vin, &amp;
+soûtenues par un bandage en <i>T</i> double, non moins
+praticable relativement au cheval que relativement
+à l&#39;homme. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

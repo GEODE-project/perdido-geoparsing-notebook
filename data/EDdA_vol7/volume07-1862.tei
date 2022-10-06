@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29316" id="52:127:1" vol="7">
+<index type="head" value="Génération" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Physique" />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Génération</head>
+<p>
+<sc>Génération</sc>, <i>en Physique</i>, c&#39;est en général l&#39;action 
+de produire ce qui n&#39;existoit point auparavant ;
+ou, pour parler plus exactement, c&#39;est le changement
+d&#39;un corps en un autre, qui ne conserve aucun reste
+de son état précédent. Car, à proprement parler, la
+<i>génération</i> ne suppose point une production de nouvelles<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+parties, mais seulement une nouvelle modification 
+de ces parties : c&#39;est en cela que la <i>génération</i>
+differe de ce que nous appellons <i>création. Voyez</i>
+<sc><ref target="head:Création" type="search">Création</ref></sc>.
+</p>
+<p>
+<i>Génération</i> differe d&#39;<i>altération</i>, en ce que dans celle-ci le sujet paroît toûjours le même ; les accidens
+seuls &amp; les affections sont changés ; comme quand un
+animal en santé tombe malade, ou quand un corps
+qui étoit rond devient quarré.
+</p>
+<p>
+Enfin <i>génération</i> est opposée à <i>corruption</i>, qui est la
+destruction d&#39;une chose qui existoit ; comme lorsque
+ce qui étoit auparavant bois ou oeuf, n&#39;est plus ni
+l&#39;un ni l&#39;autre. Les anciens philosophes concluoient
+de-là que la <i>génération</i> d&#39;une chose est proprement la
+corruption d&#39;une autre. <i>Voyez</i> <sc><ref target="head:Corruption" type="search">Corruption</ref></sc>. <i>Chambers</i>.
+</p>
+<p>
+La <i>génération</i> des corps en général, est un mystere
+dont la nature s&#39;est reservé le secret. Pour savoir comment 
+les corps s&#39;engendrent, il faudroit résoudre des
+questions qui sont fort au-dessus de notre portée. Il
+faudroit savoir 1°. si les parties d&#39;un corps quelconque,
+d&#39;une plante, par exemple, sont differentes des
+parties d&#39;un autre corps, comme d&#39;une pierre ; en
+sorte que les parties qui composent une plante, combinées 
+comme on voudra, ne puissent jamais faire
+une pierre : ou si les parties de tous les corps, les premiers 
+élémens qui les composent, sont les mêmes, &amp;
+produisent par la seule diversité de leur arrangement,
+les différens corps que nous voyons. 2°. Quand cette
+question seroit décidée, le mystere de la <i>génération</i>
+n&#39;en seroit pas plus clair. Il faudroit ensuite savoir
+comment il arrive qu&#39;un grain de blé, par exemple,
+étant mis en terre, ce grain de ble aide par l&#39;action
+des sucs terrestres, attire &amp; dispose d&#39;une maniere
+convenable pour former l&#39;épi, ou les parties de blé
+qui sont dans le sein de la terre, ou les parties de terre,
+&amp; d&#39;autres substances, qui par une nouvelle modification 
+deviennent des parties de blé. Que répondre
+à ces questions? se taire &amp; admirer les ressources de la
+nature : sans doute on peut faire sur ce sujet des systèmes,
+des raisonnemens à perte de vûe, de grands discours ; 
+mais que nous apprendront-ils? rien. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

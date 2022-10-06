@@ -1,0 +1,197 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28792" id="51:97:7" vol="7">
+<index type="head" value="Gain nuptial" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gain nuptial</head>
+<p>
+<sc>Gain nuptial</sc>, est un avantage qui revient au
+mari ou à la femme sur les biens de l&#39;autre conjoint,
+&amp; qui lui est accordé en faveur du mariage.
+</p>
+<p>
+Ces sortes de <i>gains</i> sont fondés sur la loi, ou sur le
+contrat de mariage, ou sur un usage non écrit qui a
+acquis force de loi.
+</p>
+<p>
+Par le terme de <i>gains nuptiaux</i> pris dans un sens
+<pb n="7:425" facs="V7/ENC_7-425.jpeg" />
+<milestone unit="column" n="1" />
+étendu, on comprend quelquefois généralement tous
+les avantages qui ont lieu entre conjoints en faveur
+de mariage.
+</p>
+<p>
+Mais le terme de <i>gains nuptiaux</i> est usité plus particulierement 
+dans les pays de droit écrit, pour exprimer 
+l&#39;augment ou agencement, le contr&#39;augment,
+les bagues &amp; joyaux &amp; autres avantages qui ont lieu
+entre conjoints, soit en vertu de la loi ou de l&#39;usage,
+ou en vertu du contrat. On les appelle aussi <i>gains de
+survie</i>, parce qu&#39;il faut survivre pour les gagner. Il y
+a néanmoins des cas où l&#39;un des conjoints peut les
+demander du vivant de l&#39;autre : comme en cas de
+faillite, séparation, mort civile.
+</p>
+<p>
+Les avantages qui ont lieu en pays coûtumier,
+sont compris sous le nom de <i>reprises</i> &amp; <i>conventions
+matrimoniales</i>.
+</p>
+<p>
+L&#39;usage de différentes provinces de droit écrit n&#39;est
+pas uniforme sur les <i>gains nuptiaux</i>.
+</p>
+<p>
+Lorsqu&#39;ils sont reglés par le contrat de mariage, il
+faut se conformer au contrat.
+</p>
+<p>
+S&#39;il n&#39;y a point de contrat ou qu&#39;il n&#39;en parle point,
+en ce cas on suit la loi ou l&#39;usage du lieu où les conjoints 
+ont d&#39;abord établi leur domicile.
+</p>
+<p>
+Les <i>gains nuptiaux</i> pour la femme se reglent communément 
+à proportion de sa dot, &amp; pour le mari à
+proportion du <i>gain</i> que doit avoir la femme.
+</p>
+<p>
+Lorsque ces <i>gains</i> n&#39;excedent point ce qui est fixé
+par la loi ou par l&#39;usage, ils ne sont pas réductibles
+pour la légitime, mais ils sont sujets au retranchement 
+de l&#39;édit des secondes nôces.
+</p>
+<p>
+Ils ne sont ordinairement exigibles qu&#39;un an après
+la mort du conjoint prédécédé; les intérêts n&#39;en sont
+dûs que du jour de la demande, excepté au parlement 
+de Paris, où ils sont dûs de plein droit, du jour
+du décès ; leur hypotheque est du jour du mariage ou
+du contrat, s&#39;il y en a un qui les regle.
+</p>
+<p>
+Ces sortes de <i>gains</i> sont ordinairement reversibles
+aux enfans, à-moins qu&#39;il n&#39;y ait clause au contraire.
+</p>
+<p>
+Dans le cas où ils sont reversibles, le survivant
+doit donner caution, mais il a une virile en propriété 
+dont il peut disposer comme bon lui semble.
+</p>
+<p>
+Si le su vivant se remarie ayant des enfans, il perd
+tout droit de propriété dans les <i>gains nuptiaux</i>, même 
+dans la virile, &amp; est obligé de reserver le tout à
+ses enfans.
+</p>
+<p>
+Le survivant qui ne poursuit pas la vengeance de
+la mort du prédécédé, ou qui est lui-même auteur
+de sa mort, est privé des <i>gains nuptiaux ;</i> les femmes 
+en sont encore privées lorsqu&#39;elles sont convaincues 
+d&#39;adultere, ou qu&#39;elles ont quitté leur mari sans
+cause legitime, ou qu&#39;elles se remarient à des personnes 
+indignes, qu&#39;elles se remarient dans l&#39;an du
+deuil, ou qu&#39;elles vivent impudiquement après la
+mort de leur mari.
+</p>
+<p>
+Les enfans n&#39;ont aucun droit certain dans les <i>gains
+nuptiaux</i> du vivant de leurs pere &amp; mere, quand on
+les fait renoncer d&#39;avance à ces sortes de <i>gains nuptiaux ;</i> il faut que la renonciation en fasse mention
+nommément, parce que ces <i>gains</i> sont un troisieme
+genre de biens que les enfans ont droit de prendre,
+quoiqu&#39;ils ne soient point héritiers de leurs pere &amp;
+mere. Voyez <i>mon traité des gains nuptiaux &amp; de
+survie</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

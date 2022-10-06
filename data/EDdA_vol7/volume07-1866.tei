@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29320" id="52:127:5" vol="7">
+<index type="head" value="Génération" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>Génération</head>
+<p>
+<sc>Génération</sc>, se dit aussi de l&#39;âge ou de la vie
+ordinaire d&#39;un homme. <i>Voyez</i> <sc><ref target="head:Age" type="search">Age</ref></sc>.
+</p>
+<p>
+De là nous disons, <i>jusqu&#39;à la troisieme &amp; quatrieme
+génération</i>: en ce sens les Historiens comptent ordinairement <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+une <i>génération</i> pour l&#39;espace de trente-rois 
+ans ou environ. <i>Voyez</i> <sc><ref target="head:Siecle" type="search">Siecle</ref></sc>.
+</p>
+<p>
+Hérodote met trois <i>générations</i> pour cent ans ; &amp;
+ce calcul, selon les auteurs modernes de l&#39;arithmétique 
+politique, paroît assez juste. <i>Voyez</i> 
+<sc><ref target="head:Arithmétique politique" type="search">Arithmétique politique</ref> <i>&amp;</i> <ref target="head:Chronologie" type="search">Chronologie</ref></sc>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

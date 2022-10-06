@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29873" id="53:279" vol="7">
+<index type="head" value="GORGERE, ou TAILLEMER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GORGERE, ou TAILLEMER</head>
+<p>
+GORGERE, <i>ou</i> TAILLEMER, s. f. (<i>Marine.</i>)
+c&#39;est une des principales pieces qui composent la
+poulaine ou éperon.
+</p>
+<p>
+La <i>gorgere</i> s&#39;étend à l&#39;avant du vaisseau, depuis
+l&#39;extrémité du brion ou la naissance de l&#39;étrave, jusqu&#39;à-peu-près au niveau du premier pont, suivant
+dans toute cette étendue le même courant que l&#39;étrave,
+sur laquelle elle est appliquée exactement ;
+elle repose par en-bas sur une dent qu&#39;on ménage sur
+le brion ou sur l&#39;étrave à laquelle elle est liée par
+plusieurs chevilles qui sont clavettées sur virole au-dedans 
+du vaisseau.
+</p>
+<p>
+A la hauteur du premier pont, la <i>gorgere</i> quitte
+l&#39;étrave dont elle s&#39;écarte en formant une grande
+gorge qui remonte à-mesure qu&#39;elle s&#39;éloigne du
+vaisseau, &amp; va se terminer à la figure.
+</p>
+<p>
+Le dehors de la <i>gorgere</i> représente une espece de
+console qui vient se terminer par-en-bas à la dent
+que nous avons dit être sur l&#39;extrémité du brion ou
+à la naissance de l&#39;étrave.
+</p>
+<p>
+La <i>gorgere</i> est formée par deux ou un plus grand
+nombre de pieces qui ont la même épaisseur que l&#39;étrave,
+à l&#39;endroit où elles la touchent, &amp; qui diminuent 
+un peu d&#39;épaisseur à-mesure qu&#39;elles s&#39;en écartent : toutes ces pieces sont liées l&#39;une à l&#39;autre par
+des empatures, &amp; retenues avec des chevilles de
+fer. <i>Voyez <ref target="XPL:5350" type="platelink">Pl. IV</ref>. <ref target="XPL:5351" type="platelink">fig. 1</ref>. la gorgere</i> ou <i>taillemer, cottée
+193</i>. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

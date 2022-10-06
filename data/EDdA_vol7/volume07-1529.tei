@@ -1,0 +1,212 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28983" id="51:228:2" vol="7">
+<index type="head" value="Garantie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en ce qui concerne la vente des chevaux" />
+<index type="normclass" value="Vente des chevaux" />
+<index type="englishclass" value="Sale of horses" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garantie</head>
+<p>
+<sc>Garantie</sc>, <i>en ce qui concerne la vente des chevaux</i>.
+Il faut distinguer, suivant l&#39;article précédent, la <i>garantie de droit</i>, la <i>garantie conventionnelle</i>, &amp; la <i>garantie d&#39;usage</i>.
+</p>
+<p>
+La <i>garantie de droit</i> ne s&#39;exprime point ; elle a lieu
+constamment, &amp; quelles que puissent être les circonstances 
+de la vente. Tout homme qui vend un cheval 
+est nécessairement astreint à répondre que l&#39;animal 
+lui appartient ; c&#39;est une loi immuable &amp; de rigueur,
+à laquelle il ne sauroit se soustraire ; parce
+qu&#39;on ne peut, sous aucun prétexte &amp; sans blesser
+les bonnes moeurs, transmettre une propriété que
+l&#39;on n&#39;a pas.
+</p>
+<p>
+La <i>garantie conventionnelle</i> s&#39;étend à tous les engagemens 
+pris par le vendeur ; il en est indispensablement 
+tenu.
+</p>
+<p>
+Enfin la garantie d&#39;usage, <i>ut mos regionis postulabat</i>, est relative aux vices déclarés par les maximes
+usitées &amp; reçûes, être de nature à annuller la vente.
+</p>
+<p>
+Ces vices ont été restreints parmi nous à la pousse,
+à la morve &amp; à la courbature. <i>Voyez les coûtumes de
+Sens, art. 160; de Bar, art. 205; d&#39;Auxerre, art.
+151; de Bourbonnois, art. 87</i>, &amp;c. Dès que le cheval 
+est atteint de l&#39;une de ces maladies, l&#39;acheteur
+est en droit de contraindre le vendeur à reprendre
+l&#39;animal, &amp; à lui restituer le prix donné: <i>redhibere,
+est facere ut rursus habeat venditor quod habuerit</i>.
+</p>
+<p>
+On ne doit point être étonné que la facilité de dérober 
+&amp; de pallier pour quelque tems, &amp; au moyen
+de certains médicamens, les signes caractéristiques
+de l&#39;espece de courbature, qu&#39;un flux considérable
+d&#39;humeurs par les nasaux décele, ainsi que les symptomes 
+évidens de la pousse &amp; de la morve, qui d&#39;ailleurs 
+ont été regardées comme des maladies incurables,
+ait suggéré une disposition qui obvie aux fraudes 
+que cette même facilité peut occasionner ; mais
+il est surprenant que la Jurisprudence varie &amp; differe
+sur la durée de l&#39;action redhibitoire, admissible dans
+ces trois cas. Il est des pays où l&#39;acheteur doit se
+pour voir dans les huit jours, à compter de celui de
+la délivrance du cheval. <i>Voyez la coûtume de Bourbonn. art. 87 ;</i> Coquille, <i>instit. au droit franç. l&#39;ancienne 
+ordonnance de la police de Paris</i>, &amp;c. Il en est
+d&#39;autres où l&#39;usage est d&#39;en accorder quarante, après
+lesquels le vendeur est à couvert &amp; à l&#39;abri de toutes 
+recherches. <i>Voyez la coûtume de Bar, article 205.
+Voyez les commentaires de Basnage, sur la coûtume de
+Normandie, de l&#39;acte en garantie</i>, &amp;c.
+</p>
+<p>
+Quoique la fixation du plus court de ces délais
+soit autorisée sur le risque des évenemens qui peuvent 
+arriver dans l&#39;espace &amp; dans la circonstance
+d&#39;un terme plus long, il est certain qu&#39;elle n&#39;en est
+ni plus juste, ni moins illusoire. En premier lieu, la
+condition de l&#39;acheteur est assez favorable pour qu&#39;on
+ne doive pas craindre de prendre tous les partis &amp;
+toutes les voies capables de réprimer dans le vendeur 
+des infidélités qu&#39;il commet, encore avec plus
+<milestone unit="column" n="2" />
+de hardiesse, lorsque la loi même qui la condamne
+ne lui interdit pas toutes les exceptions captieuses
+qu&#39;il peut employer pour en abuser. S&#39;il est vrai, en
+second lieu, qu&#39;il soit possible de faire disparoître,
+au-delà des huit jours prescrits &amp; pendant le cours
+d&#39;un mois entier, les symptomes principaux &amp; univoques 
+des maladies dont il s&#39;agit, par le secours de
+quelques remedes que je n&#39;indiquerai point ici, parce 
+qu&#39;il seroit dangereux de mettre de pareilles armes 
+dans des mains qui ne sont que trop disposées à
+s&#39;en servir, il faut nécessairement convenir que les
+coûtumes &amp; les ordonnances qui prescrivent l&#39;action 
+en redhibition, quand elle n&#39;est pas intentée
+dans la huitaine, non-seulement ne remplissent pas
+l&#39;objet qu&#39;elles semblent &amp; qu&#39;elles doivent s&#39;être
+d&#39;abord proposé, mais favorisent en quelque maniere 
+la mauvaise foi du vendeur. Il seroit donc à
+souhaiter que tous les tribunaux, auxquels de semblables 
+contestations sont déférées, prononçassent
+uniformément &amp; d&#39;après un principe généralement
+établi pour l&#39;entiere sûreté des acheteurs, tel que
+celui qui est suivi rigoureusement au parlement de
+Roüen. <i>Voyez</i> Basnage.
+</p>
+<p>
+Persuadé au surplus de l&#39;inutilité de nos réflexions
+sur toutes les ruses &amp; sur tous les artifices pratiqués
+par la plus grande partie des marchands de chevaux,
+nous ne nous y livrerons point. Eh, comment espérer 
+de mettre un frein au dol, dès que des personnes
+de tous les états ne rougissent pas de les imiter, &amp;
+sur-tout lorsqu&#39;une portion considérable de la noblesse 
+même, par une sorte d&#39;exception des regles
+de la probité &amp; des sentimens d&#39;honneur, qui néanmoins 
+sont, après ses titres, ce qu&#39;elle vante ordinairement 
+le plus, dispute publiquement &amp; sans remords 
+à des ames viles &amp; mercenaires, la gloire ou
+plûtôt la honte d&#39;avoir porté aussi loin qu&#39;elles l&#39;art
+&amp; la science funeste de la fraude &amp; du mensonge?
+A l&#39;aspect de tous les détours odieux, qu&#39;il nous seroit 
+aisé de dévoiler, &amp; qui seroient peut-être moins
+communs si, conformément à la police observée par
+les Romains &amp; à l&#39;édit fameux des édiles, tout vendeur 
+étoit obligé de déclarer les défauts &amp; les imperfections 
+de l&#39;animal qu&#39;il vend, &amp; n&#39;avoit pas
+même la faculté de s&#39;excuser sur son ignorance, le
+philosophe ne peut que s&#39;écrier avec Montagne : <i>La
+vertu assignée aux affaires de ce monde est une vertu à
+plusieurs plis, encoigneures &amp; coudes, pour s&#39;accommoder 
+à l&#39;humaine foiblesse</i>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

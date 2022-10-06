@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28425" id="50:163" vol="7">
+<index type="head" value="FROMAGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>FROMAGE</head>
+<p>
+* FROMAGE, le lait est composé de trois substances 
+différentes : la creme, la partie séreuse, &amp; la partie 
+caséeuse, ou le <i>fromage</i>.
+</p>
+<p>
+On sépare ces trois substances de toutes sortes de
+lait. Ainsi on a tout autant de sortes de <i>fromages</i> au moins 
+qu&#39;il y a d&#39;animaux lactiferes.
+</p>
+<p>
+Nos <i>fromages</i> ordinaires sont de lait de vache. Les
+bons <i>fromages</i> se font au commencement du printems
+ou au commencement de l&#39;automne. On prend le
+lait le meilleur &amp; le plus frais. On fait le <i>fromage</i> avec
+ce lait, ou écremé ou non écremé.
+</p>
+<p>
+Pour faire du <i>fromage</i>, on a de la presure ou du
+lait caillé, qu&#39;on trouve &amp; qu&#39;on conserve salé, dans
+l&#39;estomac du veau, suspendu dans un lieu chaud, au
+coin de la cheminée. Prenez de ce lait : délayez-le
+dans une cuilliere avec celui que vous voulez tourner 
+en <i>fromage:</i> répandez de cette presure délayée
+une demi-dragme, sur deux pintes de lait ; &amp; le lait
+se mettra en <i>fromage</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Alors vous le séparerez avec une cuilliere à écremer : vous aurez des vaisseaux percés de trous par
+les côtés &amp; par le fond : vous y mettrez votre <i>fromage</i> pour égoutter &amp; se mouler.
+</p>
+<p>
+Quand il est moulé &amp; égoutté, alors on le mange,
+ou on le sale, ou on lui donne d&#39;autres préparations.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Lait" type="search">Lait</ref></sc>, où l&#39;on entrera dans
+un plus grand détail sur les différentes substances
+qu&#39;on en tire.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

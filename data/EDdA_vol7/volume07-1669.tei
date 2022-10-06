@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29123" id="51:258:1" vol="7">
+<index type="head" value="Gargouille" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme d&#39;Eperonnier" />
+<index type="normclass" value="Eperonnier" />
+<index type="englishclass" value="Spurmaker" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Gargouille</head>
+<p>
+<sc>Gargouille</sc>, <i>terme d&#39;Eperonnier</i>, espece d&#39;anneau 
+diversement contourné, qui termine les branches 
+des mors. Communément sa partie la plus basse
+présente une sorte de plate-forme ronde, legere, &amp;
+percée dans son milieu d&#39;un trou que l&#39;on nomme l&#39;<i>oeil
+du touret</i>. Ce trou est pratiqué dans la direction de
+la ligne du banquet, ou parallelement à cette même
+direction, selon que la branche est droite, hardie ou
+<pb n="7:516" facs="V7/ENC_7-516.jpeg" />
+<milestone unit="column" n="1" />
+flasque. Quelquefois aussi cette plate-forme est placée 
+en-arriere, &amp; dans la direction que doivent avoir
+les renes.
+</p>
+<p>
+Outre l&#39;oeil destiné à loger le touret, c&#39;est-à-dire
+la demi-<i>S</i>, qui supérieurement est terminé par une
+tête ronde dont le contour repose librement sur la
+plate-forme, tandis que l&#39;anneau résultant inférieurement 
+de sa courbure, reçoit un autre anneau rond
+&amp; beaucoup plus considérable, auquel on boucle la
+rene ; il en est encore un plus petit, placé tantôt
+dans la partie supérieure de la <i>gargouille</i>, plus ou
+moins près du lieu où elle commence, &amp; où finit la
+branche ; tantôt dans sa partie inférieure, immédiatement 
+au-dessus de la plate-forme, mais toûjours
+postérieurement : celui-ci reçoit la chaînette par un
+autre touret plus délié. <i>Voyez</i> <sc><ref target="head:Mors" type="search">Mors</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

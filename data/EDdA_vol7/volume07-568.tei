@@ -1,0 +1,104 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28022" id="49:147:1" vol="7">
+<index type="head" value="Fourneau superficiel" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Fortification" />
+<index type="normclass" value="Fortifications" />
+<index type="englishclass" value="Fortifications" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="NA" />
+<head>Fourneau superficiel</head>
+<p>
+<sc>Fourneau superficiel</sc>, <i>terme de Fortification</i>
+qui signifie la même cho e que <i>caisson</i>. C&#39;est une caisse
+remplie de trois, quatre, cinq ou six bombes, &amp; souvent 
+remplie simplement de poudre. On s&#39;en est servi
+dans les sieges pour faire sauter les logemens du chemin
+couvert &amp; du fosse sec ; mais ces caissons ne
+sont plus guere d&#39;usage. On leur a substitué les fougasses.
+<i>Voyez ci-dev</i>. <sc><ref target="head:Fougasse" type="search">Fougasse</ref></sc> <i>ou</i> <sc><ref target="head:Fougade" type="search">Fougade</ref></sc>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

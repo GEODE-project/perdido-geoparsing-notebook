@@ -1,0 +1,488 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28430" id="50:165:1" vol="7">
+<index type="head" value="Froment" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Roy (Charles Georges)" />
+<index type="shortauth" value="Le Roy (Charles Georges)" />
+<index type="kafnum" value="75" />
+<index type="kafauth" value="Le Roy, Charles-Georges (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Economie rustique" />
+<index type="pos" value="NA" />
+<head>Froment</head>
+<p>
+<sc>Froment</sc>, (<i>Economie rustiq.</i>) c&#39;est le plus pesant
+de tous les grains ; c&#39;est celui de tous qui contient la
+farine la plus blanche, de la meilleure espece, &amp; en
+plus grande quantité.
+</p>
+<p>
+Destiné particulierement à la nourriture de l&#39;homme,
+son excellence le rend la matiere d&#39;un commerce 
+nécessaire qui ajoûte encore à son prix. <i>Voyez</i>
+<sc><ref target="head:Grains" type="search">Grains</ref></sc>, (<i>Econom. politiq.</i>)
+</p>
+<p>
+M. de Buffon pense que le <i>froment</i>, tel que nous
+l&#39;avons, n&#39;est point une production purement naturelle ; 
+que l&#39;existence de ce grain précieux n&#39;est dûe
+qu&#39;à la culture &amp; à une longue suite de soins. En effet,
+on ne trouve point dans la nature de <i>froment</i>
+sauvage ; mais il n&#39;y a encore là-dessus que des expériences 
+trop incertaines, pour que cette opinion
+probable soit au rang des vérités reconnues.
+</p>
+<p>
+Le grain de <i>froment</i> semé en terre, germe &amp; pousse
+plusieurs tiges hautes de quatre à cinq piés, droites,
+entrecoupées de trois ou quatre noeuds, &amp; accompagnées 
+de quelques feuilles longues &amp; étroites qui
+enveloppent la tige jusqu&#39;à six pouces de l&#39;épi.
+</p>
+<p>
+Les épis placés au sommet de la tige sont écailleux, &amp; forment un tissu d&#39;enveloppes dont chacune
+renferme un grain : ce grain est oblong, arrondi d&#39;un
+côté, sillonné de l&#39;autre, &amp; de couleur jaune.
+</p>
+<p>
+On distingue plusieurs especes de <i>froment ;</i> la différence 
+en est legere : quant à la forme du grain,
+elle se fait remarquer principalement dans les epis.
+L&#39;espece la plus commune &amp; la meilleure est celle
+dont l&#39;épi est blanchâtre, sans barbe, &amp; seulement
+écailleux. Celle qui est connue sous le nom de <i>blé
+barbu</i>, n&#39;est cependant pas non plus sans mérite : on
+l&#39;appelle ainsi, parce qu&#39;effectivement l&#39;épi est couvert 
+&amp; surmonté de barbes, comme sont les épis de
+seigle ; le grain en est ordinairement plus gros, la
+paille plus dure &amp; plus colorée : on dit qu&#39;il est
+moins sujet à verser ; mais la farine en est moins
+blanche que n&#39;est celle du blé sans barbe. Le blé de
+Smyrne, ou blé de miracle, produit plusieurs épis
+assemblés en bouquet au haut de la tige. Il a quelques 
+avantages, &amp; encore plus d&#39;inconvéniens.
+</p>
+<p>
+On seme tous ces grains en automne ; ils levent,
+&amp; doivent couvrir la terre pendant l&#39;hyver : on les
+appelle <i>blés d&#39;hyver</i>, pour les distinguer d&#39;une autre
+espece de <i>froment</i> qu&#39;on seme au printems, &amp; qui est
+connue sous le nom de <i>blé de Mars ;</i> il est communément 
+barbu ; mais on en voit aussi qui est sans
+barbe.
+</p>
+<p>
+Ce blé, trop délicat pour soûtenir de fortes gelées,
+mûrit dans les années favorables, en même
+tems que celui qui a passé l&#39;hyver. En général, il
+produit beaucoup moins de paille, &amp; un peu moins
+de grain ; il manque souvent : cependant c&#39;est une
+ressource à ne pas négliger dans les terres argilleuses,
+&amp; dans celles que les pluies d&#39;hyver battent aisement.
+</p>
+<p>
+Quelle que soit l&#39;espece du <i>froment</i>, la culture en est
+la même ; &amp; c&#39;est à cette culture que nous devons
+principalement nous arrêter.
+</p>
+<p>
+On sait qu&#39;avant de confier le blé à la terre, on la
+laisse reposer pendant une année, qui s&#39;employe en
+préparations ; elles ont trois objets, d&#39;ameublir la
+<pb n="7:335" facs="V7/ENC_7-335.jpeg" />
+<milestone unit="column" n="1" />
+terre, de l&#39;engraisser, &amp; de détruire un nombre infini 
+d&#39;insectes dangereux &amp; de mauvaises herbes.
+</p>
+<p>
+On remplit le premier objet par les labours ; le
+second, par les fumiers, les terres, <i>&amp;c.</i> le troisieme,
+en faisant brouter par les troupeaux les herbes qui y
+renaissent continuellement. <i>Voyez</i> 
+<sc><ref target="head:Agriculture" type="search">Agriculture</ref>, <ref target="head:Engrais" type="search">Engrais</ref>, <ref target="head:Labour" type="search">Labour</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+On donne aux terres depuis trois jusqu&#39;à cinq labours,
+selon leur qualité, &amp; quelquefois selon le hasard 
+du tems. Lorsqu&#39;on n&#39;en veut donner que trois,
+on ne fait le premier qu&#39;après les semailles de Mars ;
+mais si vous en exceptez les glaises, que souvent on
+ne peut labourer que trois fois, à cause de la difficulté 
+de saisir le moment convenable, il est toûjours
+beaucoup plus avantageux de donner quatre labours
+aux terres pendant l&#39;année de jachere. Dans ce cas,
+le premier labour se doit faire après les semailles des
+bles, c&#39;est-à-dire pendant le mois de Novembre ; &amp;
+on laisse la terre en grosses mottes, exposée à l&#39;action
+des gelées qui servent beaucoup à la façonner : lorsqu&#39;au printems elle est devenue saine, on donne le
+second labour ; &amp; il est essentiel que ce soit par un
+tems sec, sur-tout dans les terres un peu fortes. Il est
+très-utile de herser la terre quelques jours après ce
+labour &amp; les suivans ; elle en est mieux divisée ; &amp;
+les herbes qui auroient repris racine sont arrachées
+de nouveau : mais il ne faut herser que par un beau
+tems, &amp; lorsque la terre est saine. Le troisieme labour 
+devient necessaire vers le commencement de
+Juillet ; &amp; à la fin d&#39;Août, on commence à donner
+celui qui doit être le dernier, &amp; qu&#39;on appelle proprement 
+<i>labour à ble</i>. Il est essentiel que ce labour
+soit fait au-moins quinze jours avant de semer le <i>froment</i>, lorsqu&#39;on doit le couvrir avec la herse. La
+nielle est plus à craindre, quand on seme sur un labour 
+frais. Pendant cette année de jachere, on choisit 
+un intervalle entre deux labours, pour engraisser
+la terre. Le degré de putréfaction du fumier qu&#39;on
+veut y répandre, &amp; la facilité des charrois, reglent
+ce tems ; la nature &amp; les besoins de la terre doivent
+décider de la qualité &amp; de la quantité du fumier.
+<i>Voyez</i> <sc><ref target="head:Engrais" type="search">Engrais</ref></sc>.
+</p>
+<p>
+On promene aussi pendant tout le printems &amp; la
+plus grande partie de l&#39;eté, les troupeaux sur les jacheres ; 
+elles leur sont très-utiles, parce que les prairies 
+étant occupées par le soin, il ne reste que très peu 
+de paturages proprement dits ; &amp; les troupeaux,
+beaucoup mieux que les labours, détruisent l&#39;herbe
+qui renaît continuellement. On seme le <i>froment</i> depuis 
+la fin de Septembre jusqu&#39;au commencement de
+Novembre. En géneral, on peut assûrer qu&#39;il est
+avantageux de le semer de bonne heure. Il est bon
+que la plante acquerre une certaine force avant l&#39;hyver ; 
+qu&#39;elle ait le tems de s&#39;étaler, de se faire de la
+racine &amp; de la pampe. Si dans une année où l&#39;hyver
+sera trop doux, ce peut être un inconvénient d&#39;avoir 
+seme trop tôt, l&#39;expérience apprend qu&#39;il y en
+aura dix ou l&#39;on se repentira d&#39;avoir semé trop tard.
+Il faut sur-tout se presser dans les pays où il y a beaucoup 
+de gibier, lievres, perdrix, <i>&amp;c.</i>
+</p>
+<p>
+La quantité de lievres fait au blé un tort dont on
+ne peut se garantir par aucune précaution ; celle de
+semer de bonne heure &amp; de fumer un peu plus, est
+suffisante pour preserver du mal que peut faire une
+grande abondance de perdrix. Pour semer d&#39;une maniere 
+avantageuse, il faut que la terre ne soit pas
+trop humide ; il est à souhaiter qu elle soit fraiche:
+mais il vaut mieux semer dans la poudre, que de
+trop attendre. La semence doit être choisie avec soin:
+il faut que ce soit du plus beau blé de l&#39;annee ; &amp; les
+bons laboureurs vont l&#39;acheter à quelque distance,
+parce que le bié, comme beaucoup d&#39;autres plantes,
+degenere si on le laisse dans la même terre : on lessive 
+cette semence dans une eau de chaux ; quelques
+<milestone unit="column" n="2" />
+laboureurs y ajoûtent avec succès de l&#39;eau putréfiée
+avec leur fumier ; &amp; il y a encore d&#39;autres préparations 
+plus avantageuses. <i>Voyez</i> <sc><ref target="head:Nielle" type="search">Nielle</ref></sc>.
+</p>
+<p>
+Dans les environs de Paris, on seme ordinairement 
+un septier de ble, pesant deux cents cinquante 
+livres, dans un arpent à vingt piés par perche:
+mais il est certain qu&#39;un tiers de moins est suffisant
+dans une terre bien préparée par les labours &amp; par
+l&#39;engrais : on pourroit même avec succès en mettre
+encore moins.
+</p>
+<p>
+Le <i>froment</i> semé un peu clair, est moins sujet à
+verser ; la paille en est plus forte ; les épis sont plus
+longs &amp; plus gros ; &amp; la recolte en grain n&#39;en est que
+plus abondante.
+</p>
+<p>
+Lorsque la terre n&#39;est ni seche ni froide, le blé leve 
+au bout de quinze jours : après cela, si un reste
+de chaleur favorise encore la végétation, ses racines
+s&#39;étendent dans l&#39;intérieur de la terre ; plusieurs tiges 
+se préparent, &amp; la pampe s&#39;étale. Pendant l&#39;hyver,
+la plante reste ordinairement dans un état d&#39;inaction ; 
+&amp; elle prend souvent une couleur un peu
+jaune, lorsque la terre devient trop humide. Au
+printems, le premier air doux la fait reverdir ; la tige 
+se forme &amp; commence à monter : c&#39;est alors qu&#39;il
+faut nettoyer le blé des mauvaises herbes qui tendent 
+à l&#39;étouffer, &amp; qui se multiplient malgré les
+précautions prises pendant l&#39;année de jachere : il en
+est qu&#39;il faut arracher avec la main, parce qu&#39;elles
+ont des racines très-profondes ; telles sont une herbe
+connue assez généralement sous le nom de <i>nelle</i>, une
+autre appellée <i>amaroute</i> en beaucoup d&#39;endroits, &amp;
+celle nommée <i>queu : de renard</i>.
+</p>
+<p>
+Il en est d&#39;autres, comme sont les chardons, qu&#39;on
+détruit avec un instrument appellé <i>sarcloir</i>. Toutes
+ces plantes malfaisantes croissent beaucoup plus vite
+que le blé; elles l&#39;étouffent ; &amp; si on les laisse monter,
+leurs semences infectent la terre au point que la
+destruction ne peut plus en être faite que par un travail 
+de plusieurs années. Il faut donc une très grande 
+attention à sarcler le blé: mais il faut que cette
+opération se fasse avant que la tige soit à une certaine 
+hauteur : sans cela, elle seroit rompue ; &amp; on
+détruiroit la plante, au lieu de la favoriser.
+</p>
+<p>
+Le blé fleurit vers la fin de Juin ; chaque épi n&#39;est
+en fleurs que pendant un ou deux jours : alors les
+pluies froides sont à craindre ; elles font avorter une
+partie des grains ; un mois se passe entre la floraison
+&amp; la maturité. C&#39;est pendant cet intervalle, qu&#39;on
+redoute avec raison les brouillards, qui lorsqu&#39;ils
+sont suivis du soleil, causent la maladie appellée
+<i>rouille</i>. Quelle que soit la maniere dont les brouillards 
+agissent, leur effet malheureux n&#39;est que trop
+certain, les bles qui en ont été frappés ne grossissent
+plus ; les grains sont retraits, legers, &amp; presque vuides : l&#39;experience n&#39;a point appris les moyens de prévenir 
+cet accident ; &amp; il paroît être de nature à tromper 
+toutes les précautions que nous pourrions prendre.
+La rouille n&#39;est à craindre que dans des années
+humides &amp; tardives. Cette maladie, quoique très fâcheuse,
+l&#39;est beaucoup moins que celle qu&#39;on doit
+appeller <i>nielle</i>, &amp; qui fait quelquefois de grands ravages : mais l&#39;humanité doit tout récemment aux
+soins &amp; à la sagacite de M. Tillet la découverte des
+causes de cette maladie, &amp; de plusieurs remedes qui
+la préviendront ou même l&#39;anéantiront dans la suite.
+<i>Voyez</i> <sc><ref target="head:Nielle" type="search">Nielle</ref></sc>. On donnera à cet article les differens
+caracteres des maladies confondues sous le nom de
+<i>nielle</i>, ou connues en divers lieux sous d&#39;autres
+noms.
+</p>
+<p>
+Lorsque le <i>froment</i> approche de la maturité, la tige 
+jaunit à l&#39;endroit nommé le <i>collet</i>, c&#39;est-à-dire à
+l&#39;extrémité de la tige qui approche de l&#39;epi.
+</p>
+<p>
+Lorsqu&#39;il en est à ce point, rien ne retarde plus les
+progres qui lui restent à faire : les pluies même semblent<gap type="hyphenpb" />
+<pb n="7:336" facs="V7/ENC_7-336.jpeg" />
+<milestone unit="column" n="1" />
+hâter l&#39;instant où il sera bon à couper. Si l&#39;on
+tarde trop, il s&#39;égraine, &amp; on en perd une partie:
+mais ce qu&#39;il y a de plus essentiel à remarquer pour
+la récolte, c&#39;est de ne lier le blé en gerbe, &amp; de ne
+le serrer que par un tems sec ; sans quoi, il s&#39;échaufferoit 
+dans la grange, prendroit un mauvais goût ;
+&amp; on perdroit totalement le grain &amp; la paille.
+</p>
+<p>
+La nouvelle méthode pour la culture des terres, &amp;
+sur tout pour celle du <i>froment</i>, a fait assez de bruit
+pour être examinée ici. Si vous voulez vous en instruire,
+lisez la fin de l&#39;<i>article</i> <sc><ref target="head:Agriculture" type="search">Agriculture</ref></sc>. Cette
+méthode a eu moins de partisans &amp; de célébrité en
+Angleterre où elle est née, qu&#39;en France où elle n&#39;est
+qu&#39;adoptive ; elle y a été soûtenue par l&#39;activité naturelle 
+de M. Duhamel, par son zele plein de chaleur 
+pour le bien public, par une sorte de tendresse
+paternelle qui masque les défauts de ce qu&#39;on s&#39;est
+approprié. Je ne parle pas des difficultés que l&#39;on
+trouve dans l&#39;usage des instrumens qui sont nécessaires 
+pour la nouvelle culture ; je sais par expérience,
+que les instrumens se perfectionnent &amp; deviennent
+commodes entre les mains des cultivateurs. Il m&#39;a
+paru que cette culture avoit un vice intérieur, que
+rien ne pourroit jamais corriger. Il est certain que de
+fréquens labours paroissent rendre les terres fécondes : mais il ne faut pas beaucoup d&#39;expérience pour
+savoir que si les labours sont la seule préparation
+qu&#39;on leur donne, ce ne sera qu&#39;une fécondité précaire,
+qui amenera une stérilité très-difficile à
+vaincre.
+</p>
+<p>
+Les labours fréquens divisent, atténuent les molécules 
+de la terre : mais cet avantage forcé n&#39;est pas
+à comparer à celui qui résulte de la fermentation
+intérieure &amp; sourde de ces mêmes parties, qui s&#39;opere 
+naturellement dans le repos, &amp; qui est encore
+excitée par le fumier qu&#39;on y ajoûte. On sait, qu&#39;indépendamment 
+des labours, on a besoin d&#39;aider la
+terre par des engrais, en proportion de la quantité
+de récoltes qu&#39;on lui demande. Il peut arriver qu&#39;une
+très bonne terre brisée par des labours continuels,
+produise pendant quelque tems avec une abondance 
+extraordinaire ; mais ce seront ces efforts mêmes
+qui détruiront sa fécondité dans son principe ; le repos 
+long qui deviendra nécessaire, anéantira les
+avantages qu&#39;on s&#39;étoit promis. Indépendamment
+de ces principes généraux, on peut assûrer qu&#39;il y a
+eu une erreur de calcul très-considérable, dans la
+comparaison qui a été faite entre cette culture nouvelle 
+&amp; l&#39;ancienne.
+</p>
+<p>
+Dans le détail de la dépense, ce qu&#39;il en coûte
+pour sarcler devroit être doublé plus de six fois. On
+n&#39;a pas vû de jardins, si l&#39;on ne sait pas avec quelle
+assiduité il faut arracher les mauvaises herbes, que
+la culture rend vigoureuses &amp; dominantes : la même
+chose arrive dans la nouvelle culture du <i>froment</i>  ;
+chaque labour amene la nécessité de sarcler de nouveau : ce n&#39;est point une opération facile &amp; prompte,
+comme celle qui se fait dans les blés ordinaires.
+Il faut arracher avec la main des herbes fortes, dont
+les racines s&#39;étendent au loin dans une terre ameublie.
+Si leur tige se casse, on n&#39;a rien fait. La répétition 
+fréquente d&#39;une opération aussi longue devient
+rebutante par les soins &amp; les frais qu&#39;elle exige. Il y
+a eu une autre erreur dans la comparaison des produits : on fait le parallele de ce que rend une terre
+cultivée à l&#39;ordinaire, avec ce que donne la même
+quantité, suivant la nouvelle méthode. On établit la
+comparaison sur quelques arpens dont on a pris le
+plus grand soin, selon la nouvelle méthode. Pour que
+le parallele fût juste, il faudroit qu&#39;on supposât l&#39;ancienne 
+pratiquée avec autant d&#39;exactitude qu&#39;elle
+pourroit l&#39;être. Je connois des terres de qualité moyenne,
+qui ne sont bien cultivées que depuis deux ans, &amp;
+dont chaque arpent a produit dix septiers de blé. Si
+<milestone unit="column" n="2" />
+les mêmes soins leurs sont continués, il n&#39;est pas douteux 
+que dans la suite elles ne produisent douze septiers 
+dans les années heureuses. D&#39;après cela, un nouveau 
+parallele pourroit n&#39;être pas favorable à la nouvelle 
+culture ; mais je ne le ferai point ici : je me contenterai 
+de ne conseiller à personne de cultiver ses
+terres de cette maniere ; au reste, c&#39;est au tems à
+décider de la valeur de mes présomptions. Quoi
+qu&#39;on dise de la paresse &amp; de la stupidité des laboureurs,
+l&#39;intérêt les éclaire toûjours sur les choses
+vraiment utiles, dès qu&#39;une fois on les leur a montrées.
+</p>
+<p>
+Lorsque le <i>froment</i> a été serré bien sec, on peut
+le garder assez long-tems en gerbes dans la grange.
+Cependant l&#39;usage de le battre sur le champ est établi dans plusieurs pays. Cette opération se fait de
+différentes manieres, dont aucune ne paroît avoir
+sur l&#39;autre un avantage bien marqué. Le grain étant
+sorti de l&#39;épi, on le vanne pour le séparer encore de
+la paille legere des enveloppes qui s&#39;est détachée
+avec lui. Après cela on le passe par le crible pour le
+nettoyer mieux, &amp; on le porte dans le grenier. Pendant les premiers six mois on fait bien de le remuer
+tous les quinze jours. Après cela il suffit de le faire
+tous les mois ; &amp; la premiere année étant passée, on
+peut encore éloigner cette opération de quelques semaines 
+Le <i>froment</i> se conserve de cette maniere pendant 
+six ans au moins. M. Duhamel a éprouvé qu&#39;on
+pouvoit porter cette conservation beaucoup plus
+loin, avec un grenier d&#39;une construction particuliere.
+On y desseche d&#39;abord le grain par le moyen d&#39;un
+étuve, &amp; l&#39;on entretient ensuite ce premier dessechement 
+à l&#39;aide d&#39;un ventilateur. M. Duhamel, sans
+rien oser assurer, présume avec de fortes raisons que
+cette maniere de traiter le blé doit le préserver d&#39;une
+espece d&#39;insectes très dangereux, qu&#39;on appelle <i>charençons</i>, &amp; contre lesquels on n&#39;a trouvé jusqu&#39;à-présent aucun remede sûr. <i>Voyez le traité</i> de M. Duhamel <i>sur la conservation des grains</i>.
+</p>
+<p>
+L&#39;importance dont est le <i>froment</i> pour la vie des
+hommes, en a soûmis d&#39;une maniere particuliere la
+conservation &amp; le commerce à la vigilance publique.
+La crainte de disettes a fait faire beaucoup de
+réglemens précaires, &amp; fait naître plus d&#39;une fois
+l&#39;idée des magasins publics. Mais avec une connoissance 
+mieux approfondie des hommes &amp; des choses,
+on a vû que de tels magasins seroient nécessairement
+mal régis, &amp; exposeroient à un monopole odieux
+une denrée aussi nécessaire. <i>Voyez l&#39;essai sur la police
+des grains</i> par M. Herbert.
+</p>
+<p>
+Il est étonnant qu&#39;en France on ait pris pendant si
+long-tems de fausses mesures sur un objet dont tant
+d&#39;autres dépendent. Il n&#39;y a pas deux ans que le commerce 
+du blé étoit défendu d&#39;une province à l&#39;autre.
+Souvent une partie des citoyens soûmis au même
+maître mouroit de faim, pendant que la province
+voisine étoit incommodée d&#39;une abondance ruineuse 
+pour les cultivateurs. Cet abus ne pouvoit pas
+échapper à la sagesse du gouvernement, &amp; il a cessé.
+Mais on ne peut pas penser aux avantages infinis 
+qui résulteroient de l&#39;exportation libre du blé dans
+un royaume aussi fertile, sans être affligé que cet encouragement 
+soit encore refusé à l&#39;agriculture. <i>Voy</i>.
+<sc><ref target="head:Grains" type="search">Grains</ref></sc>, (<i>Economie politique.</i>) <i>Cest article est de M.
+<sc>le Roi</sc>, lieutenant des chasses du parc de Versailles</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

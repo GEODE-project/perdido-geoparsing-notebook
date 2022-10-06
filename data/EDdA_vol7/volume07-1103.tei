@@ -1,0 +1,184 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28557" id="50:233:6" vol="7">
+<index type="head" value="Funérailles des Turcs" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Funérailles</head>
+<p>
+<sc>Funérailles</sc> <i>des Turcs</i>. En Turquie, lorsqu&#39;une
+personne est morte, on met son corps au milieu de la
+chambre, &amp; l&#39;on répete tristement ces mots à-l&#39;entour, <i>subanna allah</i>, c&#39;est-à-dire, <i>ô Dieu miséricordieux,
+ayez pitié de nous</i>. On le lave ensuite avec de
+l&#39;eau chaude &amp; du savon ; &amp; après avoir brûlé assez
+d&#39;encens pour chasser le diable &amp; les autres esprits
+malins qu&#39;on suppose roder autour de lui, on l&#39;enveloppe 
+dans un suaire sans couture, afin, dit-on,
+que dans l&#39;autre monde il puisse se mettre à genoux
+lorsqu&#39;il subira son jugement ; tout cela est accompagné 
+de lamentations, où les femmes ont la principale 
+part.
+</p>
+<p>
+Autrefois on exposoit le mort sur une table, comme 
+dans un lit de parade, orné de ses plus beaux habits,
+&amp; de diverses fleurs de la saison ; après quoi on
+le portoit sur des brancards hors de la ville, dans un
+lieu destiné à la sépulture des morts. Aujourd&#39;hui
+on se contente de le mettre dans une bierre, couverte 
+d&#39;un poîle convenable à sa profession, sur
+lequel on répand des fleurs, pour marquer son
+innocence. La loi défend à qui que ce soit de garder 
+un corps mort au-delà d&#39;un jour, &amp; de le porter<gap type="hyphenpb" />
+<pb n="7:372" facs="V7/ENC_7-372.jpeg" />
+<milestone unit="column" n="1" />
+plus loin d&#39;une lieue. Il n&#39;y a que le corps du
+grand-seigneur défunt qui en soit excepté.
+</p>
+<p>
+Les Turcs sont persuadés qu&#39;au moment que l&#39;ame
+quitte le corps, les anges la conduisent au lieu où il
+doit être inhumé, &amp; l&#39;y retiennent pendant 40 jours
+dans l&#39;attente de ce corps ; ce qui les engage à le
+transporter au plus vîte au lieu de la sépulture, afin
+de ne pas faire languir l&#39;ame. Quelques-uns prétendent 
+que les femmes &amp; filles n&#39;assistent point au convoi,
+mais demeurent à la maison pour préparer à
+manger aux imans, qui après avoir mis le corps
+dans le tombeau, reviennent pour faire bonne chere,
+&amp; recevoir dix aspres qui sont leur rétribution ordinaire.
+</p>
+<p>
+Aussi tôt que le deuil est fini autour du mort &amp; qu&#39;on 
+l&#39;a enseveli, on le porte sur les épaules au lieu
+destiné à la sépulture, soit dans les cimetieres situés
+hors des villes, s&#39;il est pauvre, soit au cimetiere des
+mosquées, à l&#39;entrée desquelles on le porte s&#39;il est
+riche, &amp; à l&#39;entrée desquelles les imans font des prieres 
+qui ne consistent qu&#39;en quelques complaintes &amp;
+dans le récit de certains vers lugubres qui sont répétés 
+mot pour mot par ceux qui accompagnent le convoi,
+&amp; qui suivent couverts d&#39;une piece de drap gris
+ou de feutre pendante devant &amp; derriere.
+</p>
+<p>
+Arrivés au tombeau, les Turcs tirent le mort du
+cercueil, &amp; le descendent dans la fosse avec quelques 
+sentences de l&#39;alcoran. On ne jette point la terre 
+immédiatement sur le corps, de peur que sa pesanteur 
+ne l&#39;incommode ; pour lui donner un peu
+d&#39;air, on pose de longues pierres en-travers, qui forment 
+une espece de voûte sur le cadavre, ensorte qu&#39;il
+y est enfermé comme dans un coffre. Les cris &amp; les
+lamentations des femmes cessent aussi-tôt après l&#39;inhumation.
+Une mere peut pleurer son fils jusqu&#39;à
+trois fois ; au-delà elle peche contre la loi.
+</p>
+<p>
+Les <i>funérailles</i> du Sultan sont accompagnées d&#39;une
+majesté lugubre. On mene en main tous ses chevaux
+avec les selles renversées, couverts de housses de velours 
+noir traînantes jusqu&#39;à terre. Tous ses officiers,
+tant ceux du serrail que ceux de la garde, solaks,
+jannissaires &amp; autres, y marchent en leur rang. Les
+mutaféracas précedent immédiatement le corps, armés 
+d&#39;une lance, au bout de laquelle est le turban
+de l&#39;empereur défunt, &amp; portant une queue de cheval.
+Les armes du prince &amp; ses étendarts traînent
+par terre. La forme du cercueil est celle d&#39;un chariot 
+d&#39;armes : il est couvert d&#39;un riche poile sur lequel 
+est posé un turban, &amp; lorsque son corps est une
+fois déposé dans le tombeau, un iman gagé pour y
+lire l&#39;alcoran a soin de le couvrir tous les jours, surtout 
+le vendredi, de tapis de drap sur lesquels il place 
+ce que le feu empereur avoit coûtume de porter
+de son vivant, comme son turban, <i>&amp;c.</i> Guer, <i>moeurs
+&amp; usag. des Turcs, tom. I</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

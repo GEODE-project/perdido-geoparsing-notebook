@@ -1,0 +1,410 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29657" id="53:132" vol="7">
+<index type="head" value="GLANDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Tarin" />
+<index type="shortauth" value="Tarin" />
+<index type="kafnum" value="125" />
+<index type="kafauth" value="Tarin, Pierre (1721-1793?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme d&#39;Anat" />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="s.f." />
+<head>GLANDE</head>
+<p>
+GLANDE, s. f. <i>terme d&#39;Anat</i>. Les <i>glandes</i> sont des
+parties d&#39;une forme particuliere, qui résultent de l&#39;assemblage 
+des plus petits vaisseaux de tous genres,
+arteres, veines, nerfs, &amp; quelquefois de vaisseaux
+excréteurs &amp; des lymphatiques. Elles sont renfermées 
+dans des membranes particulieres ; elles different 
+entre elles par la figure, la couleur, &amp; la consistence,
+&amp; sont pour la plus grande partie destinées
+à séparer de la masse du sang quelques liqueurs particulieres.
+<i>Voyez</i> <sc><ref target="head:Sang" type="search">Sang</ref> <i>&amp;</i> <ref target="head:Humeur" type="search">Humeur</ref></sc>.
+</p>
+<p>
+Les anciens ont cru que les <i>glandes</i> ne servoient
+que comme d&#39;un coussinet pour soûtenir les parties
+voisines, ou d&#39;éponge pour en absorber les humidités 
+superflues ; d&#39;autres après eux les ont regardées
+comme des citernes qui contiennent des fermens,
+qui venant à se mêler avec le sang le jettent dans une
+fermentation, durant laquelle il se décharge de quelques-unes de ses parties par les conduits excrétoires
+qu&#39;elles contiennent.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les modernes croyent que les <i>glandes</i> sont les organes 
+qui servent à séparer les fluides pour les usages 
+du corps, &amp; ils les ont regardées comme des filtres 
+dont les pores ayant différentes figures, ne donnent 
+passage qu&#39;aux parties similaires. <i>Voyez</i> <sc><ref target="head:Filtration" type="search">Filtration</ref></sc>.
+</p>
+<p>
+Les auteurs des derniers siecles ont considéré les
+<i>glandes</i> comme des cribles dont les trous étant de
+différentes grosseurs, quoique de même figure, ne
+donnent passage qu&#39;aux parties dont le diametre est
+moindre que le leur.
+</p>
+<p>
+Les <i>glandes</i> paroissent à l&#39;oeil des especes de corps
+blancs &amp; membraneux, composés d&#39;une enveloppe
+ou tégument extérieur qui renferme un tissu vasculaire.
+Leur nom vient de la ressemblance qu&#39;elles ont
+avec les glands que les Latins appellent <i>glandes</i>.
+</p>
+<p>
+On a découvert à l&#39;aide de la dissection ou du microscope 
+que les <i>glandes</i> sont des véritables tissus ou
+pelotons de vaisseaux différemment entre-lacés ; mais
+les anatomistes modernes, &amp; Malpighi, Bellini,
+Wharton, Nuck, Peyer, <i>&amp;c.</i> ont été plus avant, &amp;
+ont découvert qu&#39;elles ne sont que des circonvolutions 
+continuelles des arteres capillaires. <i>Voyez</i> <sc><ref target="head:Artere" type="search">Artere</ref></sc>.
+</p>
+<p>
+Voici quelle paroît être leur formation : une artere 
+étant arrivée à un endroit, elle se divise en un
+nombre infini de branches ou de ramifications extrèmement 
+déliées qui forment différentes circonvolutions 
+&amp; des contours, desquelles naissent des nouveaux 
+rameaux ou vésicules qui forment des veines,
+qui venant à se joindre un peu plus loin, se terminent 
+en des branches un peu plus grosses.
+</p>
+<p>
+Toutes ces ramifications, tant des veines que des
+arteres, forment des pelotons, &amp; forment différentes 
+circonvolutions, des angles desquels sortent plusieurs 
+autres vaisseaux déliés qui constituent la partie 
+la plus essentielle de la <i>glande</i>.
+</p>
+<p>
+Le sang étant porté du coeur par l&#39;artere dans le
+plexus glanduleux, parcourt tous les tours &amp; les
+détours de sa partie artérielle, jusqu&#39;à ce qu&#39;étant
+arrivé à sa partie veineuse, il retourne de nouveau
+au coeur. Tandis qu&#39;il circule dans les replis artériels
+&amp; veineux, il s&#39;en absorbe une partie dans les orifices 
+des petits tubes qui sortent de leurs courbures.
+</p>
+<p>
+Ce qui entre de ce fluide dans ces conduits, que
+l&#39;on peut appeller <i>conduits secrétoires</i>, est reçû par
+d&#39;autres qui en sortent : ceux ci venant à s&#39;unir,
+composent un seul canal appellé <i>conduit excrétoire ;</i>
+qui sortant du corps de la <i>glande</i>, conduit la matiere
+séparée dans un reservoir destiné à la recevoir. <i>Voyez</i>
+<sc><ref target="head:Emonctoire" type="search">Emonctoire</ref></sc>.
+</p>
+<p>
+Les vaisseaux secrétoires aboutissent quelquefois
+eux-mêmes à un reservoir où ils déposent la liqueur
+qu&#39;ils contiennent. Telle est la structure générale &amp;
+l&#39;office des <i>glandes</i>, que nous éclaircirons plus au
+long <i>au mot</i> <sc><ref target="head:Secrétion" type="search">Secrétion</ref></sc>.
+</p>
+<p>
+Une <i>glande</i> est donc un amas de différentes especes 
+de vaisseaux ; savoir, une artere &amp; une veine,
+des conduits secrétoires &amp; excrétoires, auxquels on
+peut ajoûter un nerf que l&#39;on trouve dans chaque
+<i>glande</i>, qui est répandu dans toute sa substance, afin
+de lui fournir les esprits nécessaires pour hâter la secrétion ; 
+&amp; une membrane qui soûtient les circonvolutions 
+de la veine &amp; de l&#39;artere, &amp; les accompagne 
+dans toutes leurs divisions les plus deliées ;
+enfin des vaisseaux lymphatiques que l&#39;on a découverts 
+dans plusieurs <i>glandes. Voyez</i> 
+<sc><ref target="head:Veine" type="search">Veine</ref>, <ref target="head:Artere" type="search">Artere</ref>, <ref target="head:Nerf" type="search">Nerf</ref>, <ref target="head:Secrétoire" type="search">Secrétoire</ref>, <ref target="head:Excrétoire" type="search">Excrétoire</ref> <i>&amp;</i> <ref target="head:Lymphatique" type="search">Lymphatique</ref></sc>
+</p>
+<p>
+On considere les conduits secrétoires comme les
+principaux organes de la <i>glande ;</i> car eux seuls composent 
+quelquefois la plus grande partie de ce que
+nous appellons <i>glande</i> ou <i>corps glanduleux</i>.
+</p>
+<p>
+M. Winslow croit avoir découvert une espece de
+<pb n="7:702" facs="V7/ENC_7-702.jpeg" />
+<milestone unit="column" n="1" />
+duvet au-dedans de leurs cavités, qu&#39;il imagine faire
+l&#39;office d&#39;un filtre, &amp; servir à séparer une certaine
+humeur de la masse commune du sang. Nous exposerons 
+son sentiment quand nous traiterons de la secrétion.
+</p>
+<p>
+Il y a différentes especes de <i>glandes</i> par rapport à
+leurs formes, leurs structures, leurs fonctions &amp;
+leurs usages : on les divise pour l&#39;ordinaire en <i>conglobées</i> &amp; en <i>conglomérées</i>. Les <i>glandes conglobées</i> ou
+<i>simples</i>, sont composées d&#39;une substance continue,
+&amp; ont une surface égale.
+</p>
+<p>
+Les <i>glandes conglomérées</i> ou <i>composées</i>, sont un
+amas irrégulier de plusieurs <i>glandes</i> simples, renfermées 
+dans une même membrane. Telles sont les
+<i>glandes</i> maxillaires.
+</p>
+<p>
+Toutes les liqueurs séparées du sang au moyen de
+ces <i>glandes</i> ont toutes différens caracteres ; aussi observe-t-on une structure différente dans chacune de
+ces <i>glandes ;</i> les conglobées paroissent sur-tout destinées 
+aux vaisseaux lymphatiques. <i>Voyez</i> <sc><ref target="head:Lymphatiques" type="search">Lymphatiques</ref></sc>.
+</p>
+<p>
+La synovie ou l&#39;humeur bitumineuse des articulations 
+est séparée par une espece de <i>glande</i> conglomérée 
+d&#39;une structure particuliere. <i>Voyez</i> <sc><ref target="head:Synovie" type="search">Synovie</ref> <i>&amp;</i> <ref target="head:Synovial" type="search">Synovial</ref></sc>.
+</p>
+<p>
+Les liqueurs qui ne se coagulent point, sortent
+immédiatement des arteres exhalantes. <i>Voyez</i> <sc><ref target="head:Artere" type="search">Artere</ref></sc>.
+</p>
+<p>
+La salive est séparée par des <i>glandes</i> conglomérées 
+que les anciens ont si bien distinguées des autres,
+à cause de leur réunion en forme de grappe de
+raisin. <i>Voyez</i> <sc><ref target="head:Salive" type="search">Salive</ref></sc>.
+</p>
+<p>
+Les humeurs muqueuses sont séparées presque
+partout dans les sinus ou les <i>glandes</i> creuses auxquelles 
+on donne particulierement le nom de <i>follicule</i> &amp;
+de <i>crypte. Voyez</i> <sc><ref target="head:Follicule" type="search">Follicule</ref> <i>&amp;</i> <ref target="head:Crypte" type="search">Crypte</ref></sc>.
+</p>
+<p>
+Elles sont encore séparées par d&#39;autres <i>glandes</i> appellées 
+<i>conglutinées</i>, &amp; par d&#39;autres qu&#39;on nomme
+<i>composées</i> &amp; par les <i>attroupées. Voyez</i> <sc><ref target="head:Composées" type="search">Composées</ref> <i>&amp;</i> <ref target="head:Attroupées" type="search">Attroupées</ref></sc>.
+</p>
+<p>
+Les <i>glandes</i> sébacées séparent particulierement toutes 
+les liqueurs inflammables.
+</p>
+<p>
+On divise aussi les <i>glandes</i> en aventurines &amp; en
+<i>glandes</i> perpétuelles.
+</p>
+<p>
+On appelle <i>aventurines</i> les <i>glandes</i> qui viennent
+quelquefois sous les aisselles ou au cou. Telles sont
+les écroüelles &amp; les tumeurs qui viennent au larynx
+&amp; dans le milieu de la trachée artere.
+</p>
+<p>
+Les <i>glandes</i> perpétuelles ou naturelles sont de deux
+especes, conglobées ou conglomérées ; nous les avons
+décrites ci-dessus. <i>Voyez</i> <sc><ref target="head:Conglobée" type="search">Conglobée</ref> <i>&amp;</i> <ref target="head:Conglomérée" type="search">Conglomérée</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> buccales, <i>voyez</i> <sc><ref target="head:Buccale" type="search">Buccale</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> maxillaires, <i>voyez</i> <sc><ref target="head:Maxillaire" type="search">Maxillaire</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> sublinguales, <i>voyez</i> <sc><ref target="head:Sublinguale" type="search">Sublinguale</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> labiales, <i>voyez</i> <sc><ref target="head:Labiale" type="search">Labiale</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> palatines, <i>voyez</i> <sc><ref target="head:Palatine" type="search">Palatine</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> cerumineuses, <i>voyez</i> <sc><ref target="head:Cerumineux" type="search">Cerumineux</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> bronchiales, <i>voyez</i> <sc><ref target="head:Bronches" type="search">Bronches</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> sebacées, <i>voyez</i> <sc><ref target="head:Sebacée" type="search">Sebacée</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> jugulaires, <i>voyez</i> <sc><ref target="head:Jugulaire" type="search">Jugulaire</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> axillaires, <i>voyez</i> <sc><ref target="head:Axillaire" type="search">Axillaire</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> inguinales, <i>voyez</i> <sc><ref target="head:Inguinale" type="search">Inguinale</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> parotides, <i>voyez</i> <sc><ref target="head:Parotide" type="search">Parotide</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> de Brunner, <i>glandes</i> de Payer, <i>voyez</i> 
+<sc><ref target="head:Intestinal" type="search">Intestinal</ref>, <ref target="head:Payer," type="search">Payer,</ref> <i>&amp;</i> <ref target="head:Brunner" type="search">Brunner</ref></sc>
+</p>
+<p>
+<i>Glandes</i> mesenteriques, <i>voyez</i> <sc><ref target="head:Mésenterique" type="search">Mésenterique</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> sacrées, <i>voyez</i> <sc><ref target="head:Sacrée" type="search">Sacrée</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> iliaques, <i>voyez</i> <sc><ref target="head:Iliaque" type="search">Iliaque</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> hépatiques, <i>voyez</i> <sc><ref target="head:Hepatique" type="search">Hepatique</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> cistiques, <i>voyez</i> <sc><ref target="head:Cistique" type="search">Cistique</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> spleniques, <i>voyez</i> <sc><ref target="head:Splenique" type="search">Splenique</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> lacrymales, <i>voyez</i> <sc><ref target="head:Lacrymale" type="search">Lacrymale</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> lombaires, sont trois <i>glandes</i> auxquelles
+<milestone unit="column" n="2" />
+Bartholin a donné ce nom, parce qu&#39;elles sont couchées 
+sur les reins. <i>Voyez</i> <sc><ref target="head:Reins" type="search">Reins</ref></sc>.
+</p>
+<p>
+Les deux plus grandes sont posées l&#39;une sur l&#39;autre,
+entre la veine cave descendante &amp; l&#39;artere, dans
+l&#39;angle formé par les émulgentes avec la veine cave.
+La troisieme qui est la plus petite, est posée sur
+la premiere sous les appendices du diaphragme.
+Elles communiquent entre elles par des petits vaisseaux 
+lactiferes. Bartholin veut qu&#39;elles servent de
+reservoir commun au chyle ; mais le docteur Warthon soûtient une opinion plus probable, savoir, qu&#39;elles 
+tiennent lieu des grosses <i>glandes</i> que l&#39;on trouve
+dans le mesentere des animaux.
+</p>
+<p>
+<i>Glandes</i> miliaires, <i>voyez</i> <sc><ref target="head:Miliaire" type="search">Miliaire</ref></sc>.
+</p>
+<p>
+Les <i>glandes</i> mucilagineuses ou synoviales, sont
+des <i>glandes</i> dont Havers a donné le premier la description.
+<i>Voyez</i> 
+<sc><ref target="head:Mucilagineux," type="search">Mucilagineux,</ref> <i>&amp;</i> <ref target="head:Synoviale" type="search">Synoviale</ref></sc>
+</p>
+<p>
+<i>Glandes</i> muqueuses, <i>voyez</i> <sc><ref target="head:Muqueux" type="search">Muqueux</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> odoriferes, sont certaines petites <i>glandes</i>
+découvertes par Tyson anatomiste anglois, dans la
+partie de la verge où le prépuce est contigu au
+gland. <i>Voyez</i> <sc><ref target="head:Prépuce" type="search">Prépuce</ref></sc>.
+</p>
+<p>
+Tyson leur a donné ce nom à cause de l&#39;odeur
+forte que jette leur liqueur quand elle est séparée. Il
+y a des gens en qui ces <i>glandes</i> sont non-seulement
+en plus grande quantité, mais encore plus grosses,
+&amp; séparent une plus grande quantité de liqueur, qui
+y demeurant, lorsque le prépuce est plus long qu&#39;à
+l&#39;ordinaire, fermente souvent, s&#39;aigrit, &amp; ronge les
+<i>glandes</i>. Ces <i>glandes</i> sont très-remarquables dans plusieurs 
+animaux à quatre piés, sur-tout dans les chiens
+&amp; dans le porc.
+</p>
+<p>
+<i>Glande</i> pinéale, <i>voyez</i> <sc><ref target="head:Pinéale" type="search">Pinéale</ref></sc>.
+</p>
+<p>
+<i>Glande</i> pituitaire, <i>voyez</i> <sc><ref target="head:Pituitaire" type="search">Pituitaire</ref></sc>.
+</p>
+<p>
+<i>Glandes</i> renales, appellées autrement <i>capsules atrabilaires</i>, sont deux <i>glandes</i> dont Eustachi a fait la
+découverte, &amp; qui sont situées entre l&#39;aorte &amp; les
+reins, un peu au-dessus des vaisseaux émulgens.
+Leur situation &amp; leur figure varient ; car dans les
+uns elles sont rondes, dans les autres quarrées, triangulaires,
+<i>&amp;c.</i> Celle qui est à droite est ordinairement
+plus grosse que celle qui est à gauche ; elles sont enveloppées 
+de graisses : on ignore leur véritable usage.
+On croit qu&#39;elles servent à séparer une liqueur
+du sang artériel avant qu&#39;il arrive aux reins. <i>Voyez</i>
+<sc><ref target="head:Atrabilaire" type="search">Atrabilaire</ref> <i>&amp;</i> <ref target="head:Venale" type="search">Venale</ref></sc>. (<i>L</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

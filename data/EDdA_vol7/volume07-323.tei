@@ -1,0 +1,137 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27777" id="49:46:19" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Papeterie." />
+<index type="normclass" value="Papeterie" />
+<index type="englishclass" value="Papermaking" />
+<index type="generatedclass" value="Papeterie" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>* Forme</sc>, (<i>Papeterie.</i>) chassis sur lequel la feuille 
+de papier prend sa <i>forme ;</i> il est composé d&#39;un quadre 
+de bois <i>AA, BB</i> (<i>voyez les <ref target="XPL:4790" type="platelink">Planc. de Papeterie</ref>.</i>)
+de figure quadrilatere, mais plus long que large : le
+vuide de ce quadre est de la grandeur dont on veut
+la feuille ; il est traversé par de petits barreaux de
+bois, ou des fils de laiton, qu&#39;on appelle <i>verjures</i>.
+Les verjures ont une arrête assez tranchante (<i>voyez
+les figures K &amp; I</i>): la premiere représente la partie
+interieure d&#39;une verjure qui est arrondie ; &amp; l&#39;autre,
+la partie supérieure. Sur les arrêtes des verjures <i>DD</i>,
+<milestone unit="column" n="2" />
+qui sont assemblées dans les longs côtés du chassis, &amp;
+qui viennent presque à son affleurement, on étend
+des fils de laiton <i>BBB</i>, que l&#39;on fixe les uns auprès
+des autres par d&#39;autres fils encore plus fins qui font
+le tour des verjures, comme le filet d&#39;une vis sur son
+noyau ; de maniere que le vuide du chassis soit entierement 
+rempli. Ces lignes droites que l&#39;on remarque 
+au papier en le regardant au jour, sont les impressions 
+des verjures : quant aux écritures &amp; marques 
+du manufacturier, elles se font par l&#39;impression
+d&#39;un fil de crin cousu sur la <i>forme</i>, suivant le dessein
+qu&#39;on veut avoir. En général, la feuille prend la trace 
+de toutes les parties éminentes de l&#39;intérieur du
+quadre de la <i>forme</i>.
+</p>
+<p>
+On voit, <i><ref target="XPL:4791" type="platelink">fig. 1</ref>.</i> la <i>forme</i> par-dessus ; <i><ref target="XPL:4792" type="platelink">fig. 2</ref>.</i> la <i>forme</i>
+par-dessous ; &amp; <i><ref target="XPL:4793" type="platelink">fig. 3</ref>.</i> le cadret que l&#39;on tient sur la
+<i>forme</i>, pour lui servir de rebord. On conçoit qu&#39;en
+plongeant la <i>forme</i> dans une chaudiere pleine d&#39;eau
+&amp; de pâte à faire du papier ; la faisant entrer de
+champ ; la tenant horisontalement sons l&#39;eau, ensorte 
+qu&#39;il y ait, par exemple, six pouces depuis la surface 
+de la <i>forme</i> jusqu&#39;à la surface de l&#39;eau ; la levant
+ensuite parallelement à la surface de l&#39;eau, on emportera 
+sur la <i>forme</i> toutes les parties de pâte qui se
+trouveront au-dessus ; que l&#39;eau s&#39;échappera à-travers le réseau de la <i>forme ;</i> &amp; que les parties de pâte
+retenues s&#39;affaissant les unes sur les autres, formemeront 
+une feuille. <i>Voyez l&#39;article</i> <sc><ref target="head:Papeterie" type="search">Papeterie</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

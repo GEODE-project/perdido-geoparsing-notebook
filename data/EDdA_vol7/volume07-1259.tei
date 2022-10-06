@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28713" id="51:71:1" vol="7">
+<index type="head" value="Gage de bataille" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gage de bataille</head>
+<p>
+<sc>Gage de bataille</sc>, étoit un <i>gage</i> tel qu&#39;un gant
+ou gantelet, un chaperon, ou autre chose semblable,
+que l&#39;accusateur, le demandeur ou l&#39;assaillant jettoit
+à terre, &amp; que l&#39;accusé ou défendeur, ou autre auquel 
+étoit fait le défi, relevoit pour accepter ce défi,
+c&#39;est-à-dire le duel.
+</p>
+<p>
+L&#39;usage de ces sortes de <i>gages</i> étoit fréquent dans
+le tems que l&#39;épreuve du duel étoit autorisée pour
+vuider les questions tant civiles que criminelles.
+</p>
+<p>
+Lorsqu&#39;une fois le <i>gage de bataille</i> étoit donné, on
+ne pouvoit plus s&#39;accommoder sans payer de part &amp;
+d&#39;autre une amende au seigneur.
+</p>
+<p>
+Quelquefois par le terme de <i>gage de bataille</i>, on
+entendoit le duel même dont le <i>gage</i> étoit le signal ;
+c&#39;est en ce sens que l&#39;on dit que S. Louis défendit en
+1260 les <i>gages de bataille ;</i> on continua cependant
+d&#39;en donner tant que les duels furent permis. <i>Voyez</i>
+<sc><ref target="head:Duel" type="search">Duel</ref></sc>. Voyez <i>le style du parlement</i> dans Dumoulin,
+<i>ch. xvj.</i> (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

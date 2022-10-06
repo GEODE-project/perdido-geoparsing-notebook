@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29286" id="52:107" vol="7">
+<index type="head" value="GEMONIES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist." />
+<index type="normclass" value="Histoire" />
+<index type="englishclass" value="History" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f.pl." />
+<head>GEMONIES</head>
+<p>
+GEMONIES, s. f. pl. (<i>Hist.</i>) les <i>gemonies</i> étoient
+chez les Romains à-peu-près ce que sont les fourches 
+patibulaires en France. <i>Voyez</i> <sc><ref target="head:Gibet" type="search">Gibet</ref>. </sc> Elles furent 
+ainsi nommées, ou de celui qui les construisit,
+ou de celui qui y fut exposé le premier, ou du verbe
+<i>gemo</i>, je gémis.
+</p>
+<p>
+D&#39;autres disent <i>gemoniae scalae</i>, ou <i>gradus gemonii</i>.
+C&#39;étoit, selon Publius Victor ou Sextus Rufus, un
+lieu élevé de plusieurs degrés, d&#39;où l&#39;on précipitoit
+les criminels. D&#39;autres les représentent comme un
+lieu où l&#39;on exécutoit &amp; où l&#39;on exposoit les malfaiteurs.
+Les <i>gemonies</i> étoient dans la dixieme région de
+la ville, auprès du temple de Junon. C&#39;est Camille
+qui, l&#39;an de Rome 358, destina ce lieu à exposer le
+corps des criminels à la vûe du peuple ; ils étoient
+gardés par des soldats, de peur qu&#39;on ne vînt les enlever 
+pour les enterrer ; &amp; lorsqu&#39;ils tomboient de
+pourriture, on les traînoit de-là avec un croc dans le
+Tibre. <i>Dictionn. de Trév. &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

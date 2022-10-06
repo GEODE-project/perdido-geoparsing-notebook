@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28661" id="51:32" vol="7">
+<index type="head" value="FUTAIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Roy (Charles Georges)" />
+<index type="shortauth" value="Le Roy (Charles Georges)" />
+<index type="kafnum" value="75" />
+<index type="kafauth" value="Le Roy, Charles-Georges (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econ. rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>FUTAIE</head>
+<p>
+FUTAIE, s. f. (<i>Econ. rustiq.</i>) c&#39;est le nom qu&#39;on
+donne en général à tous les vieux bois. On dit <i>jeune
+futaie</i>, depuis quatre-vingts jusqu&#39;à cent vingt ans ;
+<i>haute futaie</i>, depuis cet âge jusqu&#39;au dépérissement
+marqué, qu&#39;on désigne par le nom de <i>vieille futaie</i>.
+</p>
+<p>
+Les <i>futaies</i> sont l&#39;ornement des forêts. La hauteur
+des arbres qui les composent, leur vieillesse, le silence 
+&amp; une sombre fraicheur, y pénetrent l&#39;ame
+d&#39;une émotion sacrée, fort voisine de l&#39;enthousiasme : mais leur utilité doit encore les rendre infiniment 
+recommandables. Les <i>futaies</i> seules peuvent
+fournir la charpente aux grands édifices, &amp; les bois
+précieux à la navigation. On ne peut attendre d&#39;ailleurs 
+aucun secours pour ces grands objets. <i>Voyez</i>
+<sc><ref target="head:Bois" type="search">Bois</ref> <i>&amp;</i> <ref target="head:Forêt" type="search">Forêt</ref></sc>.
+</p>
+<p>
+On peut avec succès laisser croître en <i>futaies</i> plusieurs 
+especes de bois ; le chêne, le chataigner, le
+hêtre, le sapin, sont celles dont on tire le plus d&#39;utilité.
+Les <i>futaies</i> de hêtre &amp; de sapin ne peuvent être
+composées que d&#39;arbres de brins ; laissez vieillir au
+contraire des taillis de chêne &amp; de chataigner dans
+un bon fonds, vous en aurez de belles <i>futaies:</i> chaque 
+sepée se trouve alors composée de plusieurs
+brins, dont un petit nombre s&#39;éleve aux dépens des
+autres. Dans ce cas-là, si vous voulez hâter l&#39;accroissement 
+des principaux arbres de votre <i>futaie</i>,
+il faut retrancher peu-à-peu ces brins, que leur foiblesse 
+destine à être étouffés. Pour ne point vous y
+méprendre, vous pouvez tous les vingt ans choisir
+&amp; couper ceux qui languissent d&#39;une maniere marquée ; 
+par ce moyen, les brins que leur vigueur naturelle 
+aura distingués, auront plus de nourriture &amp;
+plus d&#39;air ; ils grossiront &amp; s&#39;éleveront plus promptement.
+L&#39;économie n&#39;indique pas d&#39;autres moyens
+d&#39;avancer les <i>futaies</i>. La nature fait le reste, &amp; il
+faut la laisser faire. Si vous vouliez élaguer vos chênes,
+afin que le tronc profitât de la suppression des
+branches, le tronc lui-même pourriroit. Les branches 
+inutiles meurent peu-à-peu, sans que l&#39;arbre en
+souffre. Ayez donc attention que les arbres de vos
+<i>futaies</i> ne soient point élagués : c&#39;est le genre de déprédation 
+le plus ordinaire &amp; le plus dangereux. <i>Cet
+article est de M. <sc>Le Roy</sc>, lieutenant des chasses du parc
+de Versailles</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

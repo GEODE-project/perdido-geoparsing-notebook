@@ -1,0 +1,175 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30508" id="55:109" vol="7">
+<index type="head" value="GROTESQUES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Beaux-Arts." />
+<index type="normclass" value="Beaux-Arts" />
+<index type="englishclass" value="Fine arts" />
+<index type="generatedclass" value="Belles-Lettres" />
+<index type="pos" value="s.f.pl." />
+<head>GROTESQUES</head>
+<p>
+GROTESQUES, s. f. pl. (<i>Beaux-Arts.</i>) vient du
+mot italien <i>grotta</i>, grotte. Ce genre de sujets de peinture,
+que nous nommons aussi <i>ornement</i> &amp; <i>arabesque</i>,
+a été appellé <i>grotesque</i>, parce qu&#39;il est une imitation
+de certaines peintures anciennes qui ont été découvertes 
+dans des grottes soûterreines.
+</p>
+<p>
+Bellori nous dit, dans son <i>introduction aux peintures 
+antiques:</i>
+<blockquote> 
+« On voit au palais Farnese à Rome,
+un morceau d&#39;ornement admirable ; il représente
+des feuillages avec un mascaron, deux enfans,
+une figure dont la moitié offre le corps d&#39;une nymphe,
+&amp; l&#39;autre moitié le corps d&#39;un cheval. Ces
+figures sortent des branches, des feuillages, &amp;
+cette composition est un de ces caprices que Vitruve appelle <i>monstres</i> &amp; <i>figures partagées</i>, &amp; nous
+autres <i>grotesques</i>. »
+</blockquote>
+<pb n="7:967" facs="V7/ENC_7-967.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On ne peut disconvenir que ces sortes d&#39;inventions 
+ne portent le caractere des songes d&#39;un malade,
+&amp; que ce ne soit précisément ce que peint Horace, lorsqu&#39;il dit:
+<lg>
+<i>Humano capiti cervicem pictor equinam
+Jungere si velit, &amp; varias inducere plumas,
+Undique collatis membris, ut turpiter atrum
+Desinat in piscem mulier formosa supernè,
+Spectatum admissi risum teneatis amici?</i>
+</lg>
+</p>
+<p>
+On pourroit peut-être induire de ce passage avec
+assez de vraissemblance, que le goût pur &amp; solide
+n&#39;approuvoit pas du tems d&#39;Horace ce qu&#39;on a depuis 
+imité avec une espece de vénération. Mais je
+n&#39;entrerai point dans une discussion qui seroit trop
+longue ici : je crois au-moins qu&#39;on ne sauroit faire
+honneur à la raison austere de l&#39;invention de ce genre 
+de peinture, dont cependant on ne peut pas sans
+se montrer trop sévere, blâmer l&#39;usage circonspect &amp;
+modéré. Comme la sagesse n&#39;exclut point une espece
+de déraison aimable qui lui sert d&#39;ornement lorsqu&#39;elle 
+est placée, les Arts faits pour être sages &amp; reservés 
+ont le droit aussi de déroger quelquefois à l&#39;austérité 
+des grands principes. Le point important est
+de placer leurs écarts, &amp; de ne les pas rendre excessifs : mais ce point, peut-être plus embarrassant
+pour une nation vive que pour celles qui sont plus
+refléchies, a été plus d&#39;une fois perdu ou ignoré parmi 
+nous. Une histoire de nos <i>grotesques</i> en tout genre
+produiroit assûrément ce rire dont parle Horace,
+<center>
+<i>Spectatum admissi risum teneatis amici?</i>
+</center>
+</p>
+<p>
+Au reste, les modeles qui ont été regardés comme
+les meilleurs en ce genre, sont les ornemens trouvés
+dans les palais &amp; dans les thermes de Titus, à Tivoli, &amp; dans les grottes de Naples &amp; de Pouzzoles. Ces
+modeles, qui ont presque tous péri, ont servi à Raphael, à Jules Romain, à Polidore, &amp; à Jean da
+Udine, pour imposer une espece de regle à ce genre
+qui n&#39;a que trop de penchant à s&#39;affranchir de tout
+esclavage. La symmétrie, l&#39;élégance des formes, le
+choix agréable des objets, la legereté non-excessive
+dans l&#39;agencement, sont les points sur lesquels on
+peut appuyer les principes de l&#39;art des ornemens ou
+des <i>grotesques</i>. Leur convenance avec les lieux où on
+les employe, leur rapport avec les décorations dont
+ils font partie, doivent guider ces sortes d&#39;égaremens.
+Enfin comme ce genre est uniquement de convention,
+il faut tâcher d&#39;adopter en y travaillant,
+non pas les conventions excessives qui n&#39;existent
+qu&#39;un instant, mais celles qui par quelques points
+au-moins tiennent à la raison &amp; se rapprochent de la
+nature. <i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30266" id="55:3" vol="7">
+<index type="head" value="GREFFE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>GREFFE</head>
+<p>
+GREFFE, s. m. (<i>Jurisprud.</i>) est un lieu public où
+l&#39;on conserve en dépôt les minutes, registres &amp; autres 
+actes d&#39;une jurisdiction, pour y avoir recours au
+besoin ; c&#39;est aussi le lieu où ceux qui ont la garde de
+ce dépôt, font &amp; délivrent les expéditions qu&#39;on leur
+demande des actes qui y sont renfermés.
+</p>
+<p>
+Ce bureau ou dépôt est ordinairement près du tribunal 
+auquel il a rapport : il y a néanmoins certains
+<i>greffes</i> pour des objets particuliers, qui sont souvent
+éloignés du tribunal, comme pour les <i>greffes</i> des hypotheques,
+des insinuations, <i>&amp;c.</i>
+<pb n="7:921" facs="V7/ENC_7-921.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On entend aussi par le terme de <i>gresse</i>, l&#39;office de
+greffier. <i>Voyez ci-après</i> <sc><ref target="head:Greffier" type="search">Greffier</ref></sc>.
+</p>
+<p>
+Chaque tribunal, soit supérieur ou inférieur, a
+au-moins un <i>gresse ;</i> il y en a même plusieurs dans
+certains tribunaux : chacun de ces <i>greffes</i> contient
+le dépôt d&#39;une certaine nature d&#39;actes.
+</p>
+<p>
+Les <i>greffes</i>, ou plûtôt leurs expéditions, étoient
+appellés anciennement <i>écritures</i> ou <i>clergies ;</i> on les
+vendoit quelquefois, ou bien on les donnoit à ferme : l&#39;un &amp; l&#39;autre fut ensuite défendu, &amp; on ordonna 
+qu&#39;il y seroit pourvû de personnes capables. Enfin les <i>greffes</i>, qui n&#39;étoient que de simples commissions 
+révocables <i>ad nutum</i>, ont été érigés en titre
+d&#39;office. Les <i>greffes</i> royaux sont domaniaux ; ceux
+des justices seigneuriales sont patrimoniaux à l&#39;égard
+des seigneurs ; à l&#39;égard de leurs greffiers, ce ne sont
+que des commissions révocables, à-moins que les
+greffiers n&#39;ayent été pourvûs à titre onéreux. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

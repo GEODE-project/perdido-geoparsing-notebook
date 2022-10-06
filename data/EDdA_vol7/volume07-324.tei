@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27778" id="49:46:20" vol="7">
+<index type="head" value="Formes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Raffineur de sucre;" />
+<index type="normclass" value="Raffinage de sucre" />
+<index type="englishclass" value="Sugar refining" />
+<index type="generatedclass" value="Raffinage de sucre" />
+<index type="pos" value="NA" />
+<head>Formes</head>
+<p>
+<sc>* Formes</sc>, <i>en terme de Raffineur de sucre ;</i> ce sont
+des moules de terre cuite, de figure conique, dans
+les quels on coule &amp; on fait le sucre : la figure leur
+est nécessaire, pour que les sirops ne trouvent point
+de retraite où séjourner. Avant de se servir des <i>formes</i> neuves, on les met en trempe pendant vingt-quatre 
+heures, pour les dégraisser : mais quand elles
+ont déjà servi, elles n&#39;y restent que douze heures,
+après lesquelles on les lave &amp; on les prépare pour
+l&#39;empli, <i>voyez</i> <sc><ref target="head:Empli" type="search">Empli</ref></sc>. Il y en a d&#39;autant de sortes
+qu&#39;il y a de différens poids dans les pains de sucre,
+ou plûtôt de degrés de finesse, <i>voyez</i> <sc><ref target="head:Sucre" type="search">Sucre</ref></sc>. Il faut
+encore que toutes les <i>formes</i> soient humides avant de
+les employer, excepté celles que l&#39;on prépare pour
+les vergeoises &amp; les verpuintes <i>Voyez</i> <sc><ref target="head:Vergeoises" type="search">Vergeoises</ref> <i>&amp;</i> <ref target="head:Verpuintes" type="search">Verpuintes</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30109" id="54:49" vol="7">
+<index type="head" value="GRAMMONT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. eccl." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>GRAMMONT</head>
+<p>
+GRAMMONT, (<i>Hist. eccl.</i>) abbaye chef d&#39;ordre
+religieux qu&#39;on nomme l&#39;<i>ordre de Grammont</i>, fondé
+<milestone unit="column" n="2" />
+par saint Etienne de <i>Grammont</i>, environ l&#39;an 1076,
+&amp; qui fut d&#39;abord gouverné par des prieurs jusqu&#39;en
+l&#39;an 1318, que Guillaume Belliceri fut nommé abbé
+de <i>Grammont</i>, &amp; en reçut les marques des mains de
+Nicolas, cardinal d&#39;Ostie. Cet ordre fut approuvé
+par divers papes, &amp; la regle qui en étoit très-austere, fut mitigée d&#39;abord par Innocent IV. en 1247,
+puis en 1309 par Clement V. Sainte-Marthe, <i>Gall.
+christian</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

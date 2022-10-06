@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29027" id="51:235:34" vol="7">
+<index type="head" value="Garde, (Droit de-)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde, (Droit de-</head>
+<p>
+<sc>Garde, (Droit de-</sc>) droit qui se levoit anciennement 
+par les seigneurs, &amp; que les titres appellent
+<i>garda</i> ou <i>gardagium ;</i> il est souvent nommé conjointement 
+avec le droit de guet. Les vassaux &amp; autres
+hommes du seigneur etoient obligés de faire le guet
+&amp; de monter la <i>garde</i> au château pour la défense de
+leur seigneur. Ce service personnel fut ensuite converti 
+en une redevance annuelle en argent ou en
+grains. Il en y a des titres de l&#39;an 1213, 1237, &amp; 1302,
+dans l&#39;<i>histoire de Bretagne, tome I. pp. 334, 372, &amp;
+452:</i> il y en a aussi des exemples dans l&#39;<i>histoire de
+Dauphiné par</i> M. de Valbonnais.
+</p>
+<p>
+La plûpart des seigneurs s&#39;arrogerent ces droits,
+sous prétexte de la protection qu&#39;ils accordoient à
+leurs vassaux &amp; sujets dans les tems des guerres privées 
+&amp; des incursions que plusieurs barbares firent
+dans le royaume : dans ces cas malheureux, les habitans 
+de la campagne se retiroient avec leurs femmes,
+leurs enfans, &amp; leurs meilleurs effets, dans les
+châteaux de leurs seigneurs, lesquels leur vendirent
+cette <i>garde</i>, protection ou avoüerie, le plus cher qu&#39;ils
+purent ; ils les assujettirent à payer un droit de <i>garde</i>
+en blé, vin, ou argent, &amp; les obligerent de plus à
+faire le guet.
+</p>
+<p>
+On voit dans le <i>chap. liij. des établissemens de S.
+Louis</i>, que dans certains lieux les sujets étoient obligés 
+à la <i>garde</i> avec leurs femmes ; en d&#39;autres, ils
+n&#39;étoient pas obligés de mener leurs femmes avec
+eux ; &amp; quand ils n&#39;en avoient pas, ils devoient mener 
+avec eux leurs sergens, c&#39;est-à-dire leurs serviteurs 
+ou leur ménage. La <i>garde</i> ou le guet obligeoient
+<milestone unit="column" n="2" />
+l&#39;homme à passer les nuits dans le chateau du seigneur,
+lorsqu&#39;il y avoit necessité; &amp; l&#39;homme avoit
+le jour à lui. Ces droits de guet &amp; de <i>garde</i> furent dans
+la suite reglés par nos rois ; Louis XI. les regla à cinq
+sols par an. <i>Voyez ci-après</i> <sc><ref target="head:Guet" type="search">Guet</ref></sc> ; <i>&amp; le gloss. de M. de</i>
+Lauriere, aux mots <i>lige-étage</i> &amp; <i>guet &amp; garde</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

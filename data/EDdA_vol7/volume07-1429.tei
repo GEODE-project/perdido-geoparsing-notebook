@@ -1,0 +1,175 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28883" id="51:161:1" vol="7">
+<index type="head" value="Galles, (Le pays de)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>Galles</head>
+<p>
+<sc>Galles</sc>, (<i>le pays de</i>) <i>Géog</i>. autrefois nommé
+<i>Cambrie</i>, en latin <i>Cambria, Vallia</i>, &amp; en anglois
+<i>Wales ;</i> principauté d&#39;Angleterre, bornée à l&#39;est par
+les comtés de Chester, de Shrop, de Hereford, &amp;
+de Montmouth ; à l&#39;oüest &amp; au nord par la mer d&#39;Irlande, &amp; au midi par le canal de Saint-Georges.
+</p>
+<p>
+Les Romains maîtres de la Grande-Bretagne, la
+divisoient en trois parties ; savoir <i>Britannia maxima
+Caesariensis</i>, contenant la partie septentrionale ; <i>Britannia prima</i>, contenant la méridionale ; &amp; <i>Britannia secunda</i>, contenant le <i>pays de Galles</i>. Ce dernier
+pays étoit alors habité par les peuples <i>Silures, Dimetae</i> &amp; <i>Ordovices</i>.
+</p>
+<p>
+La plûpart des Bretons s&#39;y retirerent pour y être
+à couvert des Saxons, lorsqu&#39;ils envahirent l&#39;Angleterre ; &amp; depuis il a toûjours été habité par
+leur postérité, les Gallois, qui ont eu leurs princes
+particuliers jusqu&#39;à la in du treizieme siecle. Alors
+Edoüard premier les réduisit sous son obéissance, &amp;
+leur pays devint par conquête l&#39;apanage des fils aînés 
+des rois d&#39;Angleterre, avec titre de principauté.
+Cependant ces peuples ne furent jamais vraiment
+soûmis, que quand ils virent un roi Breton sur le
+throne de la Grande-Bretagne ; je veux parler d&#39;Henri VII. qui réunit les droits de la maison de Lancastre &amp; d&#39;Yorck, &amp; conserva la couronne qu&#39;il avoit
+acquise par un bonheur inoüi.
+</p>
+<p>
+Enfin sous Henri VIII. les Gallois furent déclarés
+une même nation avec l&#39;angloise, sujette aux mêmes 
+lois, capable des mêmes emplois, &amp; joüissant
+des mêmes priviléges.
+</p>
+<p>
+Leur langue est l&#39;ancien breton ; &amp; c&#39;est peut-être
+la langue de l&#39;Europe où il y a le moins de mots
+étrangers. Elle est gutturale ; ce qui en rend la prononciation 
+rude &amp; difficile. Passons au pays.
+</p>
+<p>
+Il se divise en douze provinces ; six septentrionales,
+qui forment le North-Wales ; &amp; six méridionales,
+qui constituent le South-Wales. Les Géographes vous indiqueront les noms &amp; les capitales de
+ces douze provinces.
+</p>
+<p>
+L&#39;air qu&#39;on y respire est sain, &amp; l&#39;on y vit à bon
+prix. Le sol placé entre le neuvieme &amp; le dixieme
+climat septentrional, est en général fort montagneux : cependant quelques-unes des vallées sont
+très-fertiles, &amp; produisent une grande quantité de
+<milestone unit="column" n="2" />
+blé &amp; de pâturages ; de sorte que ses denrées principales 
+consistent en bestiaux, peaux, harengs, coton,
+beurre, fromage, miel, cire, &amp; autres choses
+semblables.
+</p>
+<p>
+Ce pays contient aussi de grandes carrieres de
+pierres de taille, &amp; plusieurs mines de plomb &amp; de
+charbon. <i>Voyez-en</i> le détail dans l&#39;<i>histoire naturelle</i>
+de Childrey, Paris, 1667. <i>in</i>-12.
+</p>
+<p>
+Son étendue fait à-peu-près la cinquieme partie de
+l&#39;Angleterre ; elle comprend cinquante-huit bourgs
+à marché, &amp; environ trois cents cinquante mille
+ames, qui payent pour la taxe des terres quarante-trois 
+mille sept cents cinquante-deux livres sterlin.
+Son port de Milford, <i>Milford-Haven</i>, est un des plus
+sûrs &amp; des plus grands qu&#39;il y ait en Europe.
+</p>
+<p>
+Le <i>pays de Galles</i> a produit des gens illustres dans
+les Sciences, parmi lesquels je me contenterai de
+nommer Guillaume Morgan, traducteur de la Bible
+en gallois ; Jean Owen poéte latin, connu par ses
+épigrammes ; &amp; le lord Herbert de Cherbury : ce
+dernier né en 1581, &amp; mort en 1648, fut tout-ensemble un grand homme de guerre, un habile ministre 
+d&#39;état, &amp; un écrivain très-distingué par ses ouvrages ; 
+son histoire du regne &amp; de la vie d&#39;Henri
+VIII. est un morceau précieux. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

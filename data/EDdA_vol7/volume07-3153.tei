@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30607" id="55:189" vol="7">
+<index type="head" value="GUEDE, ou Pastel" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Teinturiers" />
+<index type="normclass" value="Teinture" />
+<index type="englishclass" value="Dyeing" />
+<index type="generatedclass" value="Teinture" />
+<index type="pos" value="s.f." />
+<head>GUEDE</head>
+<p>
+GUEDE, s. f. <i>ou</i> <sc>Pastel</sc>, drogue employée par
+les <i>Teinturiers</i>, pour teindre en bleu. <i>Voyez</i> <sc><ref target="head:Bleu" type="search">Bleu</ref> <i>&amp;</i> <ref target="head:Teinture" type="search">Teinture</ref></sc>.
+</p>
+<p>
+Le <i>pastel</i> vient d&#39;une graine semée tous les ans au
+printems, &amp; qui produit une plante appellée en latin 
+<i>glastum satum</i>. On cueille ordinairement quatre
+<milestone unit="column" n="2" />
+ou cinq fois les feuilles de cette plante tous les ans ;
+il n&#39;y a guere que les feuilles des deux ou trois premieres 
+cueillettes dont on fasse quelque cas ; &amp; ce
+sont sur-tout les premieres qu&#39;on estime le plus:
+lorsque les feuilles sont dans leur maturité, on les
+cueille, on les porte ensuite au moulin à pastel pour
+les mettre en pieces ; on les laisse huit ou dix jours
+en tas, après quoi on en fait une espece de balle
+qu&#39;on laisse sécher sur des claies.
+</p>
+<p>
+Cela fait, on les broye &amp; on les réduit en poudre ; 
+on les laisse ensuite sur le plancher, &amp; on les
+arrose : c&#39;est-là l&#39;opération qu&#39;on appelle <i>coucher</i>.
+</p>
+<p>
+Lorsque le pastel s&#39;est ensuite échauffe, &amp; qu&#39;il a
+fumé quelques jours, il devient entierement sec:
+c&#39;est ce qu&#39;on appelle <i>blanchir</i>.
+</p>
+<p>
+Huit jours après il est bon à employer par les
+Teinturiers.
+</p>
+<p>
+Les anciens Bretons se servoient de pastel pour se
+colorer le corps.
+</p>
+<p>
+Quelques uns prétendent que c&#39;est de cette plante
+appellée <i>glastum</i> en latin, qu&#39;est venu le nom de <i>glass</i>
+qui signifie <i>wede</i> dans les pays du nord ; &amp; d&#39;autres
+prétendent que <i>glas</i> &amp; <i>glastum</i> sont tirés de l&#39;ancien
+breton, dans lequel <i>glass</i> signifioit <i>la couleur bleue</i>.
+</p>
+<p>
+Le pastel bleu est le plus foncé de tous ; il est d&#39;une
+couleur fort approchante du noir, &amp; sert de base à
+former différentes couleurs qui servent d&#39;échelles
+aux Teinturiers pour former les différens degrés des
+pastels. <i>Chambers</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

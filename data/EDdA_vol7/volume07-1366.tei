@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28820" id="51:118" vol="7">
+<index type="head" value="GALATIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GALATIE</head>
+<p>
+GALATIE, (<i>Géog. anc.</i>) c&#39;étoit une grande contrée 
+de l&#39;Asie mineure, bornée à l&#39;est par la Cappadoce, au sud par la Pamphilie, à l&#39;oüest par la grande 
+Phrygie, &amp; au nord par le Pont-Euxin. Ce pays
+étoit divisé en trois contrées, la Paphlagonie, l&#39;lsaurie,
+&amp; la <i>Galatie</i> propre, autrement dite <i>Gallo-Grece</i>, située au milieu des deux autres. Ses peuples
+originaires étoient les Troêmes, les Proserliminitains, les Bycênes, &amp; les Orondices. Les Gaulois
+qui s&#39;établirent parmi eux portoient les noms de
+<i>Tectosages</i>, de <i>Tolistobogiens</i>, de <i>Votures</i>, &amp; d&#39;<i>Ambians</i>. Aujourd&#39;hui on appelle la <i>Galatie</i> propre, le
+<i>Chiangare ;</i> sa capitale, qu&#39;on nommoit anciennement
+<i>Ancyre</i>, s&#39;appelle maintenant <i>Angouri</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

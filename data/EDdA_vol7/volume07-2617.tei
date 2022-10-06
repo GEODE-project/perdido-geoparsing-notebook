@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30071" id="54:30" vol="7">
+<index type="head" value="GRADUER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mathém. prat. &amp; Arts méch." />
+<index type="normclass" value="Mathématique pratique | Art méchanique" />
+<index type="englishclass" value="Practical math | Mechanical arts" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="v.act." />
+<head>GRADUER</head>
+<p>
+GRADUER, v. act. (<i>Mathém. prat. &amp; Arts méch.</i>)
+c&#39;est diviser er. degrés un instrument de Mathématique, de Physique, <i>&amp;c.</i> Ce mot <i>degré</i> signifie dans
+ces instrumens des <i>parties égales</i> ou <i>inégales</i>, mais
+plus ordinairement <i>égales</i>, qui sont marquées ou séparées 
+par de petites lignes ; comme les degrés d&#39;un
+quart de cercle, les degrés d&#39;un thermometre, les
+degrés d&#39;une échelle quelconque ; lorsqu&#39;il est question 
+d&#39;instrument de Mathématique, on se sert plus
+du mot <i>diviser</i> que du mot <i>graduer</i> ; ainsi on dit : <i>ce
+quart de cercle est mal divisé: la division n&#39;en est pas
+exacte</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

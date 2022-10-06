@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28659" id="51:30" vol="7">
+<index type="head" value="FUTAILLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Tonnelier." />
+<index type="normclass" value="Tonnelier" />
+<index type="englishclass" value="Cooper" />
+<index type="generatedclass" value="Tonnelier" />
+<index type="pos" value="s.f." />
+<head>FUTAILLE</head>
+<p>
+FUTAILLE, s. f. (<i>Tonnelier.</i>) vaisseau où l&#39;on met
+du vin.
+</p>
+<p>
+<i>Futaille montée</i>, c&#39;est celle qui est reliée &amp; garnie
+de ses cerceaux, de ses fonds &amp; de ses barres.
+<pb n="7:402" facs="V7/ENC_7-402.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>Futaille en botte</i>, c&#39;est celle dont les douves sont
+toutes préparées, &amp; à qui il ne reste qu&#39;à les monter
+&amp; y mettre des cerceaux.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

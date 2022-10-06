@@ -1,0 +1,298 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28733" id="51:71:16" vol="7">
+<index type="head" value="Gages des Officiers" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gages des Officiers</head>
+<p>
+<sc>Gages des Officiers</sc>, (<i>Jurisprud.</i>) que l&#39;on
+appelloit autrefois <i>salaria, stipendia, annonae</i>, sont
+les appointemens ou récompense annuelle que le Roi
+ou quelque autre seigneur donne à ses officiers.
+</p>
+<p>
+On confondoit autrefois les salaires des officiers
+avec leurs <i>gages</i>, comme il paroît par le titre du code
+<i>de praebendo salario ;</i> présentement on distingue deux
+sortes de fruits dans les offices, savoir les <i>gages</i> que
+l&#39;on regarde comme les fruits naturels, &amp; les salaires 
+ou émolumens qui sont les fruits industriaux.
+</p>
+<p>
+Dans les trois derniers livres du code, les <i>gages</i>
+ou profits annuels des officiers publics sont appelles
+<i>annonae</i>, parce qu&#39;au commencement on les fournissoit 
+en une certaine quantité de vivres qui étoit
+donnée pour l&#39;usage d&#39;une année ; mais ces profits
+furent convertis en argent par Théodosius &amp; Honorius en la loi <i>annona</i> au code <i>de erogat. milit. ann</i>.
+&amp; ce fut-là proprement l&#39;origine des <i>gages</i> en argent.
+</p>
+<p>
+Les officiers publics n&#39;avoient dans l&#39;empire romain 
+point d&#39;autres profits que leurs <i>gages</i>, ne prenant 
+rien sur les particuliers, comme il résulte de la
+novelle 53, qui porte que <i>omnis militia nullum alium
+questum quam ex imperatoris munificentia habet</i>. Les
+magistrats, greffiers, notaires, appariteurs, &amp; les
+avocats même avoient des <i>gages ;</i> les juges même
+du dernier ordre en avoient ordinairement ; &amp; ceux
+qui n&#39;en avoient pas, ce qui étoit fort rare, <i>extra
+omne commodum erant</i>, comme dit la novelle <i>15. ch.
+vj.</i> C&#39;est pourquoi Justinien permet aux défenseurs
+des cités de prendre au lieu de <i>gages</i>, quatre écus
+des parties pour chaque sentence définitive, &amp; en la
+novelle <i>82, ch. xjx</i>, il assigne aux juges pedanées
+quatre écus pour chaque procès à prendre sur les
+parties, outre deux marcs d&#39;or de <i>gages</i> qu&#39;ils prenoient 
+sur le public.
+</p>
+<p>
+En France les officiers publics, &amp; sur-tout les juges
+n&#39;avoient autrefois d&#39;autres salaires que leurs <i>gages</i>.
+</p>
+<p>
+On les payoit ordinairement en argent, comme
+il paroît par une ordonnance de Philippe V. dit le
+<i>Long</i>, du 18 Jui let 1318, portant que les <i>gages</i> en
+deniers assis sur le thrésor, en baillies, prévôtés, sénéchaussées,
+&amp; en l&#39;hôtel du Roi, ne seroient point
+échangés en terre, ni assis en terre.
+</p>
+<p>
+Suivant la même ordonnance, personne ne pouvoit 
+avoir doubles <i>gages</i>, excepté certains veneurs,
+auxquels le roi avoit donné la garde de quelques unes 
+de ses forêts. Charles V. étant régent du royaume,
+permit à Jean de Dormans, qui étoit chancelier
+de Normandie, &amp; qu&#39;il nomma chancelier de place,
+de joüir des <i>gages</i> de ces deux places.
+</p>
+<p>
+Les clercs qui avoient du roi certaines pensions,
+ne les conservoient plus dès qu&#39;ils avoient un bénéfice,
+parce que ce bénéfice leur tenoit lieu de
+<i>gages</i>.
+</p>
+<p>
+Charles IV. dit <i>le Bel</i>, défendit le 15 Mai 1327,
+aux soudoyers &amp; autres qui avoient <i>gages</i> du Roi,
+de vendre leurs cédules &amp; <i>escroës</i> à vil prix, &amp; à
+toutes personnes de les acheter, sous peine de confiscation 
+de corps &amp; de biens.
+<pb n="7:419" facs="V7/ENC_7-419.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les <i>gages</i> se comptoient à termes ou par jour, de
+maniere que l&#39;on diminuoit aux officiers le nombre
+de jours qu&#39;ils n&#39;avoient pas servi.
+</p>
+<p>
+En l&#39;année 1351, le roi Jean augmenta les <i>gages</i>
+des gens de guerre, à cause de la cherté des vivres
+&amp; autres biens.
+</p>
+<p>
+C&#39;étoit d&#39;abord sur la recette des bailliages &amp; sénéchaussées,
+que les <i>gages</i> de tous officiers royaux
+étoient assignés. Charles V. en 1373 assigna ceux
+du parlement &amp; des maîtres des requêtes sur les
+amendes ; la même chose avoit déjà été ordonnée
+le 12 Novembre 1322. Dans la suite les <i>gages</i> des
+cours souveraines, des présidiaux &amp; autres officiers,
+ont été assignés sur les gabelles.
+</p>
+<p>
+On trouve au registre de la cour de l&#39;an 1430,
+tems où les Anglois étoient les maîtres du parlement,
+une conclusion portant que s&#39;ils ne sont payés
+de leurs <i>gages</i> dans Pâques, nul ne viendra plus au
+palais pour l&#39;exercice de son office : <i>&amp; in hoc signo
+indissolubile vinculum charitatis &amp; societatis ut sint socii 
+constitutionis &amp; laboris ;</i> &amp; le 12 Février audit an,
+il est dit qu&#39;il y eut cessation de plaidoierie, <i>propter
+vadia non soluta</i>, jusqu&#39;à la Pentecôte 28 Avril, &amp;
+fut envoyé signifier au Roi &amp; à son conseil à Rouen.
+<i>Voyez la bibliotheque de</i> Bouchel, <i>verbo</i> gages.
+</p>
+<p>
+Aux offices non venaux les <i>gages</i> ne courent que
+du jour de la réception de l&#39;officier ; dans les offices
+venaux ils courent du jour des provisions. <i>Voyez</i>
+ce qui est dit <i>ci-après</i> des <i>gages</i> intermédiaires.
+</p>
+<p>
+Les augmentations de <i>gages</i> ont cela de singulier,
+qu&#39;elles peuvent être acquises &amp; possédées par d&#39;autres 
+que par le propriétaire titulaire de l&#39;office. <i>Voyez
+l&#39;acte de notorieté de M.</i> le Camus, <i>du 18 Avril 1705</i>.
+</p>
+<p>
+Les <i>gages</i> cessent par la mort de l&#39;officier, &amp; du
+jour que sa résignation est admise.
+</p>
+<p>
+On trouve néanmoins deux déclarations des 13
+Décembre 1408, &amp; 18 Janvier 1410, qui ordonnent 
+que les conseillers qui auront servi pendant 20
+années, joüiront de leurs <i>gages</i>, leur vie durant ;
+mais ce droit n&#39;a plus lieu depuis la vénalité des
+charges.
+</p>
+<p>
+L&#39;ordonnance de Charles VII. du mois d&#39;Avril
+1453, <i>article xj.</i> défend à tous officiers de judicature,
+de prendre aucuns <i>gages</i> ou pensions de ceux qui
+sont leurs justiciables.
+</p>
+<p>
+Plusieurs ordonnances ont défendu aux officiers
+royaux de prendre <i>gages</i> d&#39;autres que du roi ; telle
+est la disposition de celle d&#39;Orléans, <i>art. xxxxjv ;</i> de
+celle de Moulins, <i>art. xjx &amp; xx ;</i> &amp; de celle de Blois,
+<i>art. cxij &amp; suivans:</i> ce qui s&#39;observe encore présentement,
+à-moins que l&#39;officier n&#39;ait obtenu du Roi
+des lettres de compatibilité.
+</p>
+<p>
+François I. par son ordonnance de 1539, <i>art. cxxjv.</i>
+défendit aux présidens &amp; conseillers de ses cours souveraines,
+de solliciter pour autrui les procès pendans 
+ès cours où ils sont officiers, &amp; d&#39;en parler aux
+juges directement ou indirectement, sous peine de
+privation entre autres choses de leurs <i>gages</i> pour
+un an.
+</p>
+<p>
+L&#39;ordonnance d&#39;Orléans, <i>art. 55.</i> enjoint à tous
+hauts justiciers de salarier leurs officiers de <i>gages</i> honnêtes,
+ce qui est assez mal observé; mais lorsqu&#39;il y
+a contestation portée en justice à ce sujet, on condamne 
+les seigneurs à donner des <i>gages</i> à leurs
+juges.
+</p>
+<p>
+Les <i>gages</i> des officiers de la maison du Roi, de la
+Reine, &amp; des Princes de la maison royale, ne sont
+pas saisissables, suivant une déclaration du 20 Avril
+1555, qui étend ce privilége aux <i>gages</i> de la gendarmerie ; 
+elle excepte seulement les dettes qui seroient 
+pour leurs nourriture, chevaux &amp; harnois.
+</p>
+<p>
+La déclaration du 24 Novembre 1678, ordonne
+que les transports &amp; cessions qui seront faits à l&#39;avenir 
+par les officiers du roi, des <i>gages</i> qui sont attribués<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+à leurs charges, portés par les contrats &amp;
+obligations qui seront passés au profit de leurs créanciers,
+ou en quelque autre maniere que ce soit, seront 
+nuls &amp; de nul effet, sans que les trésoriers de
+la maison du Roi puissent avoir aucun égard aux saisies 
+qui seront faites entre leurs mains ; la même
+chose est ordonnée pour les officiers employés sur
+les états des maisons de la Reine, de Monsieur, duc
+d&#39;Orléans, &amp; de Madame, duchesse d&#39;Orléans ; les
+<i>gages</i> de ces sortes d&#39;offices ne peuvent même être
+compris dans une saisie réelle, parce que l&#39;office
+même n&#39;est pas saisissable.
+</p>
+<p>
+Pour ce qui est des autres offices, les <i>gages</i> en sont
+saisissables, à la différence des autres émolumens,
+tels que les épices, vacations, &amp; autres distributions
+semblables. <i>Voyez la déclaration du 19 Mars 1661</i>.
+</p>
+<p>
+Les <i>gages</i> des commis des fermes du Roi ne sont
+pas saisissables, suivant l&#39;ordonnance de 1681, titre
+commun à toutes les fermes, <i>art. 14</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

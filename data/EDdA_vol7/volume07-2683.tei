@@ -1,0 +1,206 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30137" id="54:58" vol="7">
+<index type="head" value="GRANIT, ou GRANITE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach &amp; Jaucourt" />
+<index type="shortauth" value="d&#39;Holbach &amp; Jaucourt" />
+<index type="kafnum" value="59 &amp; 60" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Lithologie." />
+<index type="normclass" value="Histoire naturelle | Lithologie" />
+<index type="englishclass" value="Natural history. Lithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>GRANIT, ou GRANITE</head>
+<p>
+GRANIT, <i>ou</i> GRANITE, (<i>Hist. nat. Lithologie.</i>)
+c&#39;est une pierre opaque très-dure, qui donne des
+étincelles lorsqu&#39;on la frappe avec de l&#39;acier, &amp; qui
+doit être mise par conséquent au rang des jaspes ou
+des pierres quartreuses &amp; non des marbres, comme
+quelques auteurs l&#39;on prétendu ; les acides n&#39;agissent
+point sur les vrais <i>granits</i>. Wallerius fait du <i>granit</i>
+une variété du porphyre ; il y a tout lieu de croire
+que ce n&#39;est qu&#39;une même pierre, qui n&#39;en differe que
+par la couleur qui est purement accidentelle, &amp; qui
+ne change rien à la nature de la pierre. <i>Voyez</i> <sc><ref target="head:Porphyre" type="search">Porphyre</ref></sc>. Cependant M. Pott prétend que le <i>granit</i> est
+d&#39;un grain beaucoup plus grossier que le porphyre.
+Le <i>granit</i> est ordinairement d&#39;un blanc sale, rempli
+de taches noirâtres, ou d&#39;un gris foncé; il y en a
+dans lequel on trouve des particules talqueuses, luisantes,
+ou du mica. Il y a du <i>granit</i> qui est entre-mêlé de taches d&#39;un rouge pâle, d&#39;autre d&#39;un rouge
+violet ; c&#39;est celui que les Italiens nomment <i>granito
+rosso ;</i> il étoit le plus estimé des anciens, qui le nommoient 
+<i>syenites</i> ou <i>piropaecilon</i>. On le trouvoit, suivant 
+Pline, en Arabie, &amp; dans la haute Egypte ; il
+prenoit un poli admirable. C&#39;est de cette espece de
+<i>granit</i> que sont faits les fameux obélisques égyptiens que l&#39;on voit encore à Rome. <i>Voyez</i> Pline,
+<i>Hist. natur. livre XXXVI. chap. viij</i>. Quelques gens
+ont cru que le <i>granit</i> étoit une pierre composée par
+art, &amp; que les anciens avoient le secret de coller
+ensemble de petits morceaux de pierres pour en
+former des colonnes ou des obélisques d&#39;une grandeur 
+demesurée ; c&#39;est la grandeur de ces ouvrages
+<milestone unit="column" n="2" />
+qui semble avoir donné lieu à cette opinion qui n&#39;est
+point fondée ; car, suivant le témoignage de Shaw,
+dans <i>ses voyages en Egypte &amp; au Levant</i>, on voit encore 
+des carrieres considérables de <i>granit</i> dans l&#39;Arabie pétrée. Il s&#39;en trouve encore dans beaucoup
+d&#39;autres parties du monde ; le <i>granit</i> se rencontre
+en masses de roche d&#39;une grandeur énorme, &amp; tout
+l&#39;art des anciens consistoit à en détacher des morceaux 
+très-grands dont ils faisoient leurs colonnes
+&amp; leurs obelisques.
+</p>
+<p>
+C&#39;est improprement que l&#39;on donne le nom de
+<i>granit</i> à des pierres composées qui ont à peu-près
+le même coup-d&#39;oeil que lui ; ces dernieres ne sont
+pas à beaucoup-près d&#39;une dureté aussi grande ; il
+y en a de ces dernieres qui sont composées en grande 
+partie de spath calcaire feuilleté; elles s&#39;égrenent 
+facilement &amp; se pulvérisent. On trouve aussi des
+particules de quartz qui sont très dures dans ces <i>faux
+granits:</i> quand on ne s&#39;en rapporte qu&#39;au coup-d&#39;oeil,
+il est très-aisé de se tromper, &amp; l&#39;on jetteroit une
+grande confusion dans l&#39;histoire naturelle des pierres,
+en appellant <i>granit</i> tout ce qui lui ressemble ; il paroît 
+que l&#39;on ne doit donner ce nom qu&#39;à une pierre
+composée, dont toutes les parties sont très dures.
+Au reste, il semble que les particu es no res qui se
+trouvent même dans le <i>granit</i> véritable, n&#39;ont point
+encore été suffisamment examinées ; il y a des raisons 
+de présumer qu&#39;elles ne sont point de la même
+nature que les particules blanches ou rouges qu&#39;on
+y remarque.
+</p>
+<p>
+Le Dauphiné est rempli de roches de <i>granit</i> blanc
+&amp; gris, sur-tout le long des bords du Rhône ; il s&#39;en
+trouve aussi en Bourgogne &amp; en Bretagne : mais
+souvent celui qu&#39;on trouve dans ces deux provinces
+semble devoir être mis dans la classe du faux <i>granit</i>,
+étant entre-mêlé de parties spathiques &amp; calcaires.
+(-)
+</p>
+<p>
+Presque toutes les îles de l&#39;Archipel sont couvertes 
+d&#39;un <i>granit</i> blanc ou grisâtre, pétri naturellement
+avec des morceaux de talc noirâtres &amp; brillans. M.
+de Tournefort en a vû à Constantinople, dont le
+fond est isabelle, piqué de taches couleur d&#39;acier.
+</p>
+<p>
+Le <i>granit</i> violet oriental, qui est marqueté de
+rouge &amp; de blanc, vient de l&#39;ile de Chypre.
+</p>
+<p>
+Le <i>granit</i> se trouve aussi fréquemment dans toute
+l&#39;Europe ; celui de Corse qu&#39;on tire près de San-Bonifacio, est rouge, mêlé de taches blanches ; celui
+de Monte-Antico, près de Sienne, est verd &amp; noir.
+Celui de l&#39;île d&#39;Elbe sur la côte de Toscane, est
+roussâtre ; les Romains l&#39;aimoient, &amp; en tiroient
+une grande quantité de cet endroit là. Le <i>granit</i> psaronien 
+est ainsi nommé de ses taches qui imitent la
+couleur du sansonet ; le <i>granit</i> de Saxe est pourpre.
+La basse-Normandie a des carrieres de <i>granit</i> du
+côté de Granville, qu&#39;on employe sous le nom de
+<i>carreaux de Saint-Sévere</i> pour les chambranles des
+portes &amp; des cheminées ; le Maine a du <i>granit</i> difficile 
+à polir. Celui de Dauphiné est une espece de
+caillou extrèmement dur, &amp; d&#39;ailleurs bien veiné ;
+sa réputation avoit été autrefois grande ; mais la carriere 
+ayant été négligée, on en a presque perdu la connoissance.
+Toutes les colonnes qui passent pour être
+de pierre fondue, sont de <i>granit</i> des provinces de ce
+royaume.
+</p>
+<p>
+On trouve en abondance dans l&#39;île de Minorque
+de superbe <i>granit</i> rouge &amp; blanc, marqueté de noir,
+de blanc, &amp; de jaunâtre, dont on a fait à Londres
+de très-beaux dessus de table. L&#39;Angleterre, l&#39;Irlande, les comtés de Cornouailles &amp; de Devonshire,
+possedent deux sortes de <i>granit</i>, du noir &amp; blanc,
+fort dur, qu&#39;on nomme <i>moor-stone</i>, &amp; du <i>granit</i> rouge,
+blanc, &amp; noir, d&#39;une grande beauté. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

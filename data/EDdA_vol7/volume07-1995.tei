@@ -1,0 +1,157 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29449" id="52:195" vol="7">
+<index type="head" value="GERANIUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.m." />
+<head>GERANIUM</head>
+<p>
+GERANIUM, s. m. (<i>Botan.</i>) genre de plante des
+plus étendus, dont voici les caracteres, selon la méthode 
+de Ray.
+</p>
+<p>
+Ses feuilles sont pour la plûpart opposées deux à
+deux : son calice est divisé en cinq parties qui s&#39;étendent 
+en forme d&#39;étoiles : sa fleur en Europe est
+disposée en rose, &amp; composée de cinq pétales, mais
+en afrique elle n&#39;en a souvent que quatre ; elle est en
+casque, &amp; munie de cinq étamines qui embrassent la
+base de l&#39;ovaire : son fruit est fait en aiguille, &amp; divisé 
+à sa base en cinq loges, dont chacune renferme
+une semence à queue, &amp; produit un long tuyau. Ces
+cinq loges venant à s&#39;unir, paroissent représenter,
+avec l&#39;ovaire, la tête d&#39;une cigogne ou d&#39;une grue ;
+c&#39;est pourquoi les François donnent à ce genre de
+plante le nom de <i>bec de grue</i>, ainsi que les Anglois,
+<milestone unit="column" n="2" />
+qui l&#39;appellent <i>craneus-bill</i>. La graine de cette plante
+est jettée dehors, quand elle est mûre, par le recoquillement 
+du bec des capsules.
+</p>
+<p>
+Tournefort compte soixante-dix-huit especes de
+<i>geranium</i>, &amp; Miller en nomme au-moins quarante
+qui sont cultivées en Angleterre dans les jardins des
+curieux. De ce nombre, il y en a plusieurs qui le
+méritent par la beauté de leurs fleurs ; telles sont le
+<i>geranium</i> annuel, à larges feuilles &amp; à fleurs bleues ;
+le <i>geranium</i> à petites feuilles, &amp; à grandes fleurs
+purpurines ; le <i>geranium</i> d&#39;Afrique, à feuilles d&#39;oeillet,
+&amp; à fleurs d&#39;écarlate ; le <i>geranium</i> africain, qui
+s&#39;éleve en buisson, &amp; qui est à feuilles de mauve,
+&amp; à fleur d&#39;un rouge de carmin. D&#39;autres especes
+de <i>geranium</i>, outre la beauté de leurs fleurs, répandent,
+après le coucher du soleil, une odeur qui embaume 
+l&#39;air.
+</p>
+<p>
+Miller vous enseignera la culture de toutes les especes 
+de <i>geranium</i> dont il fait mention. Il ne nous
+est pas possible d&#39;entrer dans ce détail : nous remarquerons 
+seulement que les especes sauvages de <i>geranium</i>, &amp; celles des climats froids, s&#39;élevent sans
+peine ; mais les especes de <i>geranium</i> d&#39;Afrique, &amp;
+toutes celles qui viennent des climats chauds, demandent 
+bien des soins pour leur entretien &amp; leur
+multiplication : il est vrai qu&#39;on en est dédommagé
+par la belle figure qu&#39;elles font dans nos serres.
+</p>
+<p>
+Entre les especes utiles de <i>geranium</i>, citées par
+Tournefort, il y en a trois principales qui sont devenues 
+avec raison d&#39;un grand usage en Medecine ;
+savoir, 1°. le <i>geranium colombinum</i> des boutiques,
+en françois <i>pié de pigeon</i> ou <i>bec de grue</i> (<i>voy.</i> <sc><ref target="head:Bec de Grue" type="search">Bec de
+Grue</ref></sc>); 2°. le <i>geranium robertianum</i>, offic. en françois 
+<i>herbe à Robert</i> (<i>voyez</i> <sc><ref target="head:Herbe à Robert" type="search">Herbe à Robert</ref></sc>); 3°.
+le <i>geranium sanguineum</i>, offic. en françois <i>geranium
+sanguin</i>, qu&#39;on va décrire dans l&#39;article suivant.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

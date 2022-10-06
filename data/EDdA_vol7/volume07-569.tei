@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28023" id="49:147:2" vol="7">
+<index type="head" value="Fourneau" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="chez les Bimblotiers faiseurs de dragées pour la chasse" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>Fourneau</head>
+<p>
+<sc>* Fourneau</sc>, <i>chez les Bimblotiers faiseurs de dragées 
+pour la chasse</i> ; c&#39;est un massif de maçonnerie
+qui entoure une chaudiere de fer dans laquelle on
+fond le plomb dont on doit faire les bailes ou dragées.
+<i>Voyez la <ref target="XPL:4855" type="platelink">Planche de la fonte des dragées</ref></i>. C&#39;est
+le <i>fourneau ; A</i> la chaudiere, autour de laquelle sont
+deux anneaux de fer qui garantissent la maçonnerie
+du <i>fourneau</i> du frottement des moules qui la détruiroit 
+en peu de tems ; <i>D</i> l&#39;ouverture par laquelle on
+met le bois allumé sous la chaudiere ; <i>E</i> la cheminee 
+du <i>fourneau</i> par laquelle la fumée du bois qui est
+sous la chaudiere passe dans la grande cheminée <i>F</i>
+qui couvre tout le <i>fourneau</i>, d&#39;ou elle se perd hors
+de l&#39;attelier ; <i>B</i> une ouvriere assise près du <i>fourneau</i>,
+&amp; qui tient un moule dans ses mains qu&#39;elle ouvre
+pour en faire sortir la branche (<i>voyez</i> <sc><ref target="head:Branche" type="search">Branche</ref></sc>),
+qu&#39;elle tire avec des béquettes, sorte de pinces plates : les branches sorties au moule sont posées à terre
+sur un ais placé en <i>G</i> à côté de l&#39;ouvriere.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

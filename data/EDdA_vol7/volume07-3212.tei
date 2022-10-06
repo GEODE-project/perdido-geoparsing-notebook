@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30666" id="55:227" vol="7">
+<index type="head" value="GUIANE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="La Condamine" />
+<index type="shortauth" value="La Condamine" />
+<index type="kafnum" value="64" />
+<index type="kafauth" value="La Condamine, Charles-Marie de (1701-1774)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GUIANE</head>
+<p>
+GUIANE, (<i>Géog.</i>) les Géographes donnent aujourd 
+hui ce nom à tout le pays qui s&#39;étend le long
+des côtes de l&#39;Amérique méridionale, entre l&#39;Orinoque &amp; l&#39;Amazone. On peut le diviser du nom de
+ses possesseurs d&#39;orient en occident, en <i>Guiane</i> portugaise,
+<i>Guiane</i> françoise, <i>Guiane</i> hollandoise, &amp;
+<i>Guiane</i> espagnole. La <i>Guiane</i> portugaise, que la
+France a cédée à la couronne de Portugal par la
+paix d&#39;Utrecht, s&#39;étend depuis la rive septentrionale 
+&amp; occidentale de l&#39;Amazone jusqu&#39;à la riviere
+d&#39;Yapoco, que les François de Cayenne nomment
+<i>Oyapoc</i>, &amp; qui fut mal-à-propos confondue alors
+avec la riviere de Vincent Pinçon, qui est beaucoup
+plus au sud. La <i>Guiane</i> françoise, ou la France équinoxiale, qui est la colonie de Cayenne, embrasse
+l&#39;espace compris entre la riviere d&#39;Oyapoc &amp; celle
+de Marawini, que l&#39;on nomme à Cayenne <i>Marauni</i> ou <i>Maroni</i>. La <i>Guiane</i> hollandoise commence
+à la riviere de Marawini, &amp; se termine à celle d&#39;Esséquébé. Il reste pour la <i>Guiane</i> espagnole le pays
+renfermé entre l&#39;Esséquébé, où se termine la colonie 
+hollandoise &amp; l&#39;Orinoco. Dans les premiers tems
+de la découverte de l&#39;Amérique, où les Espagnols
+en prétendoient la possession exclusive, ils avoient
+donné le nom de <i>nouvelle Andalousie</i> à toutes les terres 
+voisines des côtes, entre l&#39;embouchure de l&#39;Orinoco &amp; celle de l&#39;Amazone ; &amp; ils n&#39;avoient donné le
+nom de <i>Guiane</i> ou plûtôt de <i>Goyana</i>, qui s&#39;est depuis
+étendu jusqu&#39;à la mer, qu&#39;à la partie intérieure du
+Continent, renfermée entre leur nouvelle Andalousie &amp; le fleuve des Amazones. C&#39;est dans cet intérieur 
+des terres qu&#39;on plaçoit le fameux lac Parime,
+sur les bords duquel étoit située la ville fabuleuse de
+<i>Manoa del Dorado. Voyez</i> <sc><ref target="head:Parime" type="search">Parime</ref> <i>&amp;</i> <ref target="head:Manoa" type="search">Manoa</ref></sc>. <i>Article de 
+<sc>M. de la Condamine</sc>
+</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29419" id="52:171" vol="7">
+<index type="head" value="GÉOCENTRIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Astron." />
+<index type="normclass" value="Astronomie" />
+<index type="englishclass" value="Astronomy" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="adject" />
+<head>GÉOCENTRIQUE</head>
+<p>
+GÉOCENTRIQUE, adj. (<i>Astron.</i>) se dit de l&#39;orbite 
+d&#39;une planete en tant qu&#39;on considere cette
+orbite par rapport à la Terre. Ce mot signifie proprement 
+<i>concentrique à la Terre ;</i> &amp; c&#39;est un terme des
+anciens astronomes, qui regardoient la Terre comme 
+le centre du monde. Mais, selon le système aujourd&#39;hui reçû, les orbites des planetes ne sont point
+<i>géocentriques ;</i> il n&#39;y a proprement que la Lune qui
+le soit. <i>Voyez</i> <sc><ref target="head:Planete" type="search">Planete</ref>, <ref target="head:Lune" type="search">Lune</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Le mot <i>géocentrique</i> n&#39;est en usage dans la nouvelle
+Astronomie que pour signifier 1°. la latitude <i>géocentrique</i> d&#39;une planete, c&#39;est-à-dire sa latitude telle
+qu&#39;elle paroît étant vûe de la Terre. Cette latitude
+est l&#39;angle que fait une ligne qui joint la planete &amp;
+la Terre avec le plan de l&#39;orbite terrestre qui est
+la véritable écliptique : ou, ce qui est la même
+chose, c&#39;est l&#39;angle que la ligne qui joint la planete
+&amp; la Terre, forme avec une ligne qui aboutiroit à
+la perpendiculaire abaissée de la planete sur le plan
+de l&#39;écliptique. <i>Voyez</i> <sc><ref target="head:Latitude" type="search">Latitude</ref></sc>.
+</p>
+<p>
+Ainsi, dans les <i><ref target="XPL:5271" type="platelink">Planches d&#39;Astronomie</ref>, <ref target="XPL:5272" type="platelink">figure 40</ref></i>.
+menant de la planete la ligne <i>e</i> perpendiculaire
+au plan de l&#39;écliptique, l&#39;angle <i>T e</i> est la latitude
+<i>géocentrique</i> de cette planete, lorsque la Terre est
+en <i>T</i> ; &amp; l&#39;angle <i>et</i> est la latitude <i>géocentrique</i> de
+cette même planete, quand la Terre est en <i>t. Voyez</i>
+<sc><ref target="head:Latitude" type="search">Latitude</ref></sc>.
+</p>
+<p>
+2°. Le lieu <i>géocentrique</i> d&#39;une planete est le lieu
+de l&#39;écliptique, auquel on rapporte une planete vûe
+de la Terre. Ce lieu se détermine en cherchant le
+point ou degré de l&#39;écliptique, par lequel passe la ligne 
+<i>T e</i>. On peut voir dans les <i>instr. astronomiq.</i> de
+M. le Monnier, <i>pag. 551</i>, la méthode de trouver
+le lieu <i>géocentrique. Voyez</i> <sc><ref target="head:Lieu" type="search">Lieu</ref></sc> ; <i>voyez aussi</i> <sc><ref target="head:Héliocentrique" type="search">Héliocentrique</ref></sc>.
+</p>
+<p>
+3°. On appelle <i>longitude géocentrique</i> d&#39;une planete,
+la distance prise sur l&#39;écliptique &amp; suivant
+l&#39;ordre des signes, entre le lieu <i>géocentrique</i>, &amp; le
+premier point d&#39;Ariès. <i>Voyez</i> <sc><ref target="head:Longitude" type="search">Longitude</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30030" id="54:19" vol="7">
+<index type="head" value="GRACIEUX" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="adject" />
+<head>GRACIEUX</head>
+<p>
+GRACIEUX, adj. (<i>Gramm.</i>) est un terme qui
+manquoit à notre langue, &amp; qu&#39;on doit à Ménage.
+Bouhours en avoüant que Ménage en est l&#39;auteur,
+prétend qu&#39;il en a fait aussi l&#39;emploi le plus juste, en
+disant : <i>pour moi de qui les vers n&#39;ont rien de gracieux</i>.
+Le mot de Ménage n&#39;en a pas moins réussi. Il veut
+dire plus qu&#39;<i>agréable</i> ; il indique l&#39;envie de plaire:
+des manieres <i>gracieuses</i>, un air <i>gracieux</i>. Boileau,
+dans <i>son ode sur Namur</i>, semble l&#39;avoir employé
+d&#39;une façon impropre, pour signifier <i>moins fier,
+abaissé, modeste:</i>
+<lg>
+</lg></p>
+<p>
+<i>Et desormais gracieux
+Allez à Liége, à Bruxelles
+Porter les humbles nouvelles
+De Namur pris à vos yeux</i>.
+</p>
+<p>
+La plûpart des peuples du nord disent, <i>notre gracieux 
+souverain</i> ; apparemment qu&#39;ils entendent <i>bienfaisant</i>. De <i>gracieux</i> on a fait <i>disgracieux</i>, comme
+de <i>grace</i> on a formé <i>disgrace</i> ; des paroles <i>disgracieuses</i>, une avanture <i>disgracieuse</i>. On dit <i>disgracié</i>, &amp;
+on ne dit pas <i>gracié</i>. On commence à se servir du
+<milestone unit="column" n="2" />
+mot <i>gracieuser</i>, qui signifie <i>recevoir, parler obligeamment</i> ; mais ce mot n&#39;est pas encore employé par
+les bons écrivains dans le style noble. <i>Article de
+<sc>M. de Voltaire</sc>
+</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30775" id="55:313" vol="7">
+<index type="head" value="GYMNASTERION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littérat. greq. &amp; rom." />
+<index type="normclass" value="Littérature grecque | Littérature romaine" />
+<index type="englishclass" value="Greek literature | Roman literature" />
+<index type="generatedclass" value="Architecture" />
+<index type="pos" value="NA" />
+<head>GYMNASTÉRION</head>
+<p>
+GYMNASTÉRION, (<i>Littérat. greq. &amp; rom.</i>) appartement 
+des gymnases, qui servoit d&#39;une garderobe 
+ou l&#39;on quittoit ses habits, soit pour les exercices,
+soit pour le bain, &amp; ou l&#39;on se r&#39;habilloit ensuite ; 
+il se nommoit aussi <i>apodyterion</i> &amp; <i>spoliarium</i>, car
+ces deux mots ont le même sens. On fit cet appartement 
+avec une grande magnificence, quand les bains
+reprirent faveur sur la fin du regne de Néron ; il composoit 
+dans les thermes de Dioclétien, un sallon octogone,
+de figure oblongue, dont chaque face formoit 
+un demi-cercle, &amp; dont la voûte étoit soutenue
+par plusieurs rangs de colonnes d&#39;une hauteur extraordinaire.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

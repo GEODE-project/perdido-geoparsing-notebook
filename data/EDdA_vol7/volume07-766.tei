@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28220" id="50:50" vol="7">
+<index type="head" value="FRANCISCAINS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ordre monastiq." />
+<index type="normclass" value="Ordre monastique" />
+<index type="englishclass" value="Monastic order" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="s.m.pl." />
+<head>FRANCISCAINS</head>
+<p>
+FRANCISCAINS, s. m. pl. (<i>Ordre monastiq.</i>) religieux 
+encore plus connus sous leur autre nom de
+<i>Cordeliers. Voyez</i> <sc><ref target="head:Cordeliers" type="search">Cordeliers</ref></sc> ; &amp; joignez-y, avec
+vos propres réflexions, les deux traits historiques
+qui suivent, &amp; qui méritent de n&#39;être pas oubliés
+dans l&#39;histoire de ces religieux.
+</p>
+<p>
+Si les <i>Franciscains</i> vénerent singulierement François d&#39;Assise ; s&#39;ils lui attribuent tant de miracles, il
+faut du-moins convenir que c&#39;en fut un bien grand
+qu&#39;opéra ce fondateur, en multipliant son ordre, au
+point que neuf ans après l&#39;avoir fondé, il se trouva
+dans un chapitre général qui se tint près d&#39;Assise, cinq
+mille députés de ses couvens. Aujourd&#39;hui même,
+quoique les Protestans leur ayent enlevé un nombre
+prodigieux de leurs monasteres, ils ont encore sept
+mille maisons d&#39;hommes sous des noms différens, &amp;
+plus de neuf cents couvens de filles. On a compté par
+leurs derniers chapitres cent-quinze mille hommes,
+&amp; environ vingt-neuf mille filles.
+</p>
+<p>
+La querelle théologique de cet ordre avec les Dominicains plus puissans qu&#39;eux, quoique moins nombreux,
+paroît avoir pris sa source dans la seule jalousie.
+La premiere occasion qui se présenta de la déployer,
+tomba sur la naissance de la mere de J. C. Les
+<milestone unit="column" n="2" />
+Dominicains ayant dit qu&#39;elle étoit livrée au démon
+comme les autres, les <i>Franciscains</i> crierent à l&#39;impiété,
+&amp; soûtinrent qu&#39;elle avoir été exempte du
+péché originel. Les Dominicains s&#39;appuyerent de
+l&#39;autorité de S. Thomas, de celle même de S. Bernard, appellé <i>le soldat de la Vierge ;</i> &amp; les <i>Franciscains</i>
+de celle de Jean Duns, écossois, nommé improprement 
+<i>Scot</i>, mais fort connu en son tems par le titre
+de <i>docteur subtil. Voyez</i> <sc><ref target="head:Immaculée Conception" type="search">Immaculée Conception</ref></sc>.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

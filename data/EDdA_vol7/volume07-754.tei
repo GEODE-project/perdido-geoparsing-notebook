@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28208" id="50:45:2" vol="7">
+<index type="head" value="Franche-Aumône" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Franche-Aumône</head>
+<p>
+<sc>Franche-Aumône</sc>, (<i>Jurisprud.</i>) est lorsqu un seigneur 
+donne un fonds mouvant de lui, pour construire 
+une église, cimetiere, ou autre lieu sacré, sans y
+retenir aucun droit, auquel cas, il ne lui reste plus
+ni foi ni jurisdiction proprement dites sur ce fonds,
+mais seulement le droit de patronage. Tous les biens
+aumônés à l&#39;eglise ne sont pas donnés en <i>franche-aumône:</i> car on distingue deux sortes d&#39;aumône, savoir,
+la <i>franche-aumône</i>, dont on vient de parler, &amp; la <i>pure
+aumône ;</i> celle-ci est lorsqu&#39;on donne à l&#39;église des
+biens temporels, produisant des fruits &amp; revenus, sur
+lesquels le fief &amp; la jurisdiction demeurent, soit au
+donateur, s&#39;il a fief &amp; jurisdiction sur le fonds, soit
+au seigneur féodal &amp; justicier, si le donateur ne l&#39;est
+pas ; &amp; néanmoins les biens ainsi tenus en pure-aumône par des gens d&#39;église, sont tenus franchement,
+c&#39;est-à-dire sans en payer aucun devoir ni redevance,
+<i>ad obsequium precum. Voy</i>. Maichin, <i>sur la coût. d&#39;Angely, tit. jv. art. 1. ch. viij.</i> Dupineau, <i>sur l&#39;art. 112.
+d&#39;Anjou ;</i> Boucheul, <i>sur l&#39;article 108. de Poitou</i>.
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

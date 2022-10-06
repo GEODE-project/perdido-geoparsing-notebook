@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28283" id="50:92" vol="7">
+<index type="head" value="FREIDBERG" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>FREIDBERG</head>
+<p>
+FREIDBERG, (<i>Géog.</i>) ville d&#39;Allemagne en Misnie, remarquable par ses mines d&#39;argent, de cuivre,
+d&#39;étain &amp; de plomb. Elle est sur la Multe à 14 lieues
+S. E. de Leipsik, six S. O. de Dresde. Zeyler nous
+<milestone unit="column" n="2" />
+en a donné l&#39;histoire dans sa <i>topographie de la Misnie</i>,
+&amp; peut-être aurons nous un jour une exacte description 
+de ses riches mines. Elle a produit quelques gens
+de lettres célebres, comme Horn (Gaspard Henr)
+jurisconsulte, mort en 1718, âgé de 68 ans ; Questenberg (Jacques Aurele de), antiquaire du xv. siecle ; 
+&amp; Weller (Jerôme), mort en 1572, âgé de 63
+ans, connu par plusieurs ouvrages theologiques latins,
+réimprimés à Leipsik dans le dernier siecle, en
+deux volumes <i>in-fol. Longit. 32<sup>d</sup>. 15&#39;. latit. 51<sup>d</sup>. 2&#39;</i>.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

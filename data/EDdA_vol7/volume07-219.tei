@@ -1,0 +1,458 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27673" id="48:98:3" vol="7">
+<index type="head" value="Force d&#39;inertie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Force d&#39;inertie</head>
+<p>
+<sc>Force d&#39;inertie</sc>, est la propriété qui est commune 
+à tous les corps de rester dans leur état, soit
+de repos ou de mouvement, à moins que quelque
+cause étrangere ne les en fasse changer.
+</p>
+<p>
+Les corps ne manifestent cette <i>force</i>, que lorsqu&#39;on veut changer leur état ; &amp; on lui donne alors
+le nom de <i>résistance</i> ou d&#39;<i>action</i>, suivant l&#39;aspect sous
+lequel on la considere. On l&#39;appelle <i>résistance</i>, lorsqu&#39;on veut parler de l&#39;effort qu&#39;un corps fait contre
+ce qui tend à changer son état ; &amp; on la nomme
+<i>action</i>, lorsqu&#39;on veut exprimer l&#39;effort que le même 
+corps fait pour changer l&#39;état de l&#39;obstacle qui
+lui résiste. <i>Voyez</i> <sc><ref target="head:Action" type="search">Action</ref>, <ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, &amp; <i>la
+suite de cet article</i>.
+</p>
+<p>
+Dans la définition de la <i>force d&#39;inertie</i>, je me suis
+servi du mot de <i>propriété</i>, plûtôt que de celui de
+<i>puissance ;</i> parce que le second de ces mots semble
+désigner un être métaphysique &amp; vague, qui réside
+dans le corps, &amp; dont on n&#39;a point d&#39;idée nette ;
+au lieu que le premier ne désigne qu&#39;un effet constamment 
+observé dans les corps.
+</p>
+<p>
+<i>Preuves de la force d&#39;inertie</i>. On voit d&#39;abord fort
+clairement qu&#39;un corps ne peut se donner le mouvement 
+à lui-même : il ne peut donc être tiré du repos 
+que par l&#39;action de quelque cause étrangere.
+De-là il s&#39;ensuit que si un corps reçoit du mouvement 
+par quelque cause que ce puisse être, il ne
+pourra de lui-même accélérer ni retarder ce mouvement.
+On appelle en général <i>puissance</i> ou <i>cause
+motrice</i>, tout ce qui oblige un corps à se mouvoir.
+<i>Voyez</i> <sc><ref target="head:Puissance" type="search">Puissance</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Un corps mis une fois en mouvement par une
+cause quelconque, doit y persister toûjours uniformément 
+&amp; en ligne droite, tant qu&#39;une nouvelle
+cause différente de celle qui l&#39;a mis en mouvement,
+n&#39;agira pas sur lui, c&#39;est-à-dire qu&#39;à moins
+qu&#39;une cause étrangere &amp; différente de la cause
+motrice n&#39;agisse sur ce corps, il se mouvra perpétuellement 
+en ligne droite, &amp; parcourra en tems
+égaux des espaces égaux.
+</p>
+<p>
+Car, ou l&#39;action indivisible &amp; instantanée de la
+cause motrice au commencement du mouvement,
+suffit pour faire parcourir au corps un certain espace,
+ou le corps a besoin pour se mouvoir de l&#39;action 
+continuée de la cause motrice.
+</p>
+<p>
+Dans le premier cas, il est visible que l&#39;espace
+parcouru ne peut être qu&#39;une ligne droite décrite
+uniformément par le corps mû: car (<i>hyp.</i>) passé le
+premier instant, l&#39;action de la cause motrice n&#39;existe 
+plus, &amp; le mouvement néanmoins subsiste encore : il sera donc nécessairement uniforme, puisqu&#39;un corps ne peut accélérer ni retarder son mouvement 
+de lui-même. De plus, il n&#39;y a pas de raison
+pour que le corps s&#39;écarte à droite plûtôt qu&#39;à gauche ; 
+donc dans ce premier cas, où l&#39;on suppose qu&#39;il
+soit capable de se mouvoir de lui-même pendant un
+certain tems, indépendamment de la cause motrice,
+il se mouvra de lui même pendant ce tems uniformément 
+&amp; en ligne droite.
+</p>
+<p>
+Or un corps qui peut se mouvoir de lui-même
+uniformément &amp; en ligne droite pendant un certain 
+tems, doit continuer perpétuellement à se mouvoir 
+de la même maniere, si rien ne l&#39;en empêche:
+car supposons le corps partant de <i>A</i>, (<i><ref target="XPL:4747" type="platelink">fig. 32</ref>. Méchan.</i>) &amp; capable de parcourir de lui-même uniformément 
+la ligne <i>AB ;</i> soient pris sur la ligne <i>AB</i> deux
+points quelconques <i>C, D</i>, entre <i>A</i> &amp; <i>B</i> ; le corps
+étant en <i>D</i> est précisément dans le même état que
+<pb n="7:111" facs="V7/ENC_7-111.jpeg" />
+<milestone unit="column" n="1" />
+lorsqu&#39;il est en <i>C</i>, si ce n&#39;est qu&#39;il se trouve dans un
+autre lieu. Donc il doit arriver à ce corps la même
+chose que quand il est en <i>C</i>. Or étant en <i>C</i>, il peut
+(<i>hyp.</i>) se mouvoir de lui-même uniformément jusqu&#39;en <i>B</i>. Donc étant en <i>D</i>, il pourra se mouvoir de
+lui-même uniformément jusqu&#39;au point <i>G</i>, tel que
+<i>DG = CB</i>, &amp; ainsi de suite.
+</p>
+<p>
+Donc si l&#39;action premiere &amp; instantanée de la cause
+motrice est capable de mouvoir le corps, il sera mû
+uniformément &amp; en ligne droite, tant qu&#39;une nouvelle 
+cause ne l&#39;en empêchera pas.
+</p>
+<p>
+Dans le second cas, puisqu&#39;on suppose qu&#39;aucune
+cause étrangere &amp; différente de la cause motrice n&#39;agit 
+sur le corps, rien ne détermine donc la cause
+motrice à augmenter ni à diminuer ; d&#39;où il s&#39;ensuit
+que son action continuée sera uniforme &amp; constante,
+&amp; qu&#39;ainsi pendant le tems qu&#39;elle agira, le corps
+se mouvra en ligne droite &amp; uniformément. Or la
+même raison qui a fait agir la cause motrice constamment 
+&amp; uniformément pendant un certain tems,
+subsistant toûjours tant que rien ne s&#39;oppose à son
+action, il est clair que cette action doit demeurer
+continuellement la même, &amp; produire constamment
+le même effet. Donc, <i>&amp;c.</i>
+</p>
+<p>
+Donc en général un corps mis en mouvement par
+quelque cause que ce soit, y persistera toûjours uniformément 
+&amp; en ligne droite, tant qu&#39;aucune cause
+nouvelle n&#39;agira pas sur lui.
+</p>
+<p>
+La ligne droite qu&#39;un corps décrit ou tend à décrire,
+est nommée <i>sa direction. Voyez</i> <sc><ref target="head:Direction" type="search">Direction</ref></sc>.
+</p>
+<p>
+Nous nous sommes un peu étendus sur la preuve
+de cette seconde loi, parce qu&#39;il y a eu &amp; qu&#39;il y
+a peut-être encore quelques philosophes qui prétendent 
+que le mouvement d&#39;un corps doit de lui-même
+se ralentir peu-à-peu, comme il semble que l&#39;expérience 
+le prouve. Il faut convenir au reste, que les
+preuves qu&#39;on donne ordinairement de la <i>force
+d&#39;inertie</i>, en tant qu&#39;elle est le principe de la conservation 
+du mouvement, n&#39;ont point le degré d&#39;évidence 
+nécessaire pour convaincre l&#39;esprit ; elles sont
+presque toutes fondées, ou sur une <i>force</i> qu&#39;on imagine 
+dans la matiere, par laquelle elle résiste à tout
+changement d&#39;état, ou sur l&#39;indifférence de la matiere 
+au mouvement comme au repos. Le premier
+de ces deux principes, outre qu&#39;il suppose dans la
+matiere un être dont on n&#39;a point d&#39;idée nette, ne
+peut suffire pour prouver la loi dont il est question:
+car lorsqu&#39;un corps se meut, même uniformement, le
+mouvement qu&#39;il a dans un instant quelconque, est
+distingué &amp; comme isolé du mouvement qu&#39;il a eu
+ou qu&#39;il aura dans les instans précédens ou suivans.
+Le corps est donc en quelque maniere à chaque instant 
+dans un nouvel état ; il ne fait, pour ainsi dire,
+continuellement que commencer à se mouvoir, &amp;
+on pourroit croire qu&#39;il tendroit sans cesse à retomber 
+dans le repos, si la même cause qui l&#39;en a tiré
+d&#39;abord, ne continuoit en quelque sorte à l&#39;en tirer
+toûjours.
+</p>
+<p>
+A l&#39;égard de l&#39;indifférence de la matiere au mouvement 
+ou au repos, tout ce que ce principe présente,
+ce me semble, de bien distinct à l&#39;esprit, c&#39;est
+qu&#39;il n&#39;est pas essentiel à la matiere de se mouvoir
+toûjours, ni d&#39;être toûjours en repos ; mais il ne
+s&#39;ensuit pas de cette loi, qu&#39;un corps en mouvement
+ne puisse tendre continuellement au repos, non que
+le repos lui soit plus essentiel que le mouvement,
+mais parce qu&#39;il pourroit sembler qu&#39;il ne faudroit
+autre chose à un corps pour être en repos, que d&#39;être 
+un corps, &amp; que pour le mouvement il auroit
+besoin de quelque chose de plus, &amp; qui devroit être
+pour ainsi dire continuellement reproduit en lui.
+</p>
+<p>
+La démonstration que j&#39;ai donnée de la conservation 
+du mouvement, a cela de particulier, qu&#39;elle 
+a lieu également, soit que la cause motrice
+<milestone unit="column" n="2" />
+doive toûjours être appliquée au corps, ou non. Ce
+n&#39;est pas que je croye l&#39;action continuée de cette
+cause, nécessaire pour mouvoir le corps ; car si
+l&#39;action instantanée ne suffisoit pas, quel seroit alors
+l&#39;effet de cette action? &amp; si l&#39;action instantanée n&#39;avoit 
+point d&#39;effet, comment l&#39;action continuée en
+auroit-elle? Mais comme on doit employer à la solution 
+d&#39;une question le moins de principes qu&#39;il est
+possible, j&#39;ai cru devoir me borner à démontrer que
+la continuation du mouvement a lieu également
+dans les deux hypothèses : il est vrai que notre démonstration 
+suppose l&#39;existence du mouvement, &amp;
+à plus forte raison sa possibilité; mais nier que le
+mouvement existe, c&#39;est se refuser à un fait que personne 
+ne révoque en doute. <i>Voyez</i> <sc><ref target="head:Mouvement" type="search">Mouvement</ref></sc>.
+</p>
+<p>
+Voilà, si je ne me trompe, comment on peut
+prouver la loi de la continuation du mouvement,
+d&#39;une maniere qui soit à l&#39;abri de toute chicane.
+Dans le mouvement il semble, comme nous l&#39;avons
+déja observé, qu&#39;il y ait en quelque sorte un changement 
+d&#39;état continuel ; &amp; cela est vrai dans ce seul
+sens, que le mouvement du corps, dans un instant
+quelconque, n&#39;a rien de commun avec son mouvement 
+dans l&#39;instant précédent ou suivant. Mais on
+auroit tort d&#39;entendre par <i>changement d&#39;état</i>, le <i>changement de place</i> ou <i>de lieu</i> que le mouvement produit : car quand on examine ce prétendu changement 
+d&#39;état avec des yeux philosophiques, on n&#39;y
+voit autre chose qu&#39;un changement de relation,
+c&#39;est-à-dire un changement de distance du corps mû
+aux corps environnans.
+</p>
+<p>
+Nous sommes fort enclins à croire qu&#39;il y a dans
+un corps en mouvement un effort ou énergie, qui
+n&#39;est point dans un corps en repos. La raison pour
+laquelle nous avons tant de peine à nous détacher
+de cette idée, c&#39;est que nous sommes toûjours portés 
+à transférer aux corps inanimés les choses que
+nous observons dans notre propre corps. Ainsi nous
+voyons que quand notre corps se meut, ou frappe
+quelque obstacle, le choc ou le mouvement est accompagné 
+en nous d&#39;une sensation qui nous donne
+l&#39;idée d&#39;une <i>force</i> plus ou moins grande ; or en transportant 
+aux autres corps ce même mot <i>force</i>, nous
+appercevrons avec une legere attention, que nous
+ne pouvons y attacher que trois différens sens : 1°.
+celui de la sensation que nous éprouvons, &amp; que
+nous ne pouvons pas supposer dans une matiere inanimée : 2°. celui d&#39;un être métaphysique, différent
+de la sensation, mais qu&#39;il nous est impossible de
+concevoir, &amp; par conséquent de définir : 3°. enfin
+(&amp; c&#39;est le seul sens raisonnable) celui de l&#39;effet même,
+ou de la propriété qui se manifeste par cet effet,
+sans examiner ni rechercher la cause. Or en attachant 
+au mot <i>force</i> ce dernier sens, nous ne voyons
+rien de plus dans le mouvement, que dans le repos,
+&amp; nous pouvons regarder la continuation du mouvement,
+comme une loi aussi essentielle que celle de
+la continuation du repos. Mais, dira-t-on, un corps
+en repos ne mettra jamais un corps en mouvement ;
+au lieu qu&#39;un corps en mouvement meut un corps
+en repos. Je réponds que si un corps en mouvement
+meut un corps en repos, c&#39;est en perdant lui-même
+une partie de son mouvement ; &amp; cette perte vient
+de la résistance que fait le corps en repos au changement 
+d&#39;état. Un corps en repos n&#39;a donc pas moins
+une <i>force</i> réelle pour conserver son état, qu&#39;un corps
+en mouvement, quelque idée qu&#39;on attache au mot
+<i>force. Voyez</i> <sc><ref target="head:Communication" type="search">Communication</ref></sc> <i>de mouvement</i>, &amp;c.
+</p>
+<p>
+Le principe de la <i>force d&#39;inertie</i> peut se prouver
+aussi par l&#39;expérience. Nous voyons 1°. <i>que les corps
+en repos y demeurent tant que rien ne les en tire ;</i> &amp; si
+quelquefois il arrive qu&#39;un corps soit mû sans que
+nous connoissions la cause qui le meut, nous sommes 
+en droit de juger, &amp; par l&#39;analogie, &amp; par l&#39;uniformité<gap type="hyphenpb" />
+<pb n="7:112" facs="V7/ENC_7-112.jpeg" />
+<milestone unit="column" n="1" />
+des lois de la nature, &amp; par l&#39;incapacité de
+la matiere à se mouvoir d&#39;elle-même, que cette cause,
+quoique non apparente, n&#39;en est pas moins réelle.
+2°. Quoiqu&#39;il n&#39;y ait point de corps qui conserve
+éternellement son mouvement, parce qu&#39;il y a toûjours 
+des causes qui le rallentissent peu-à-peu, comme 
+le frotement &amp; la résistance de l&#39;air ; cependant
+nous voyons qu&#39;un corps en mouvement y persiste
+d&#39;autant plus long-tems, que les causes qui retardent
+ce mouvement sont moindres : d&#39;où nous pouvons
+conclure que <i>le mouvement ne finiroit point, si les forces 
+retardatrices étoient nulles</i>.
+</p>
+<p>
+L&#39;expérience journaliere de la pesanteur semble
+démentir le premier de ces deux principes. La multitude 
+a peine à s&#39;imaginer qu&#39;il soit nécessaire qu&#39;un
+corps soit poussé vers la terre pour s&#39;en approcher ;
+accoûtumée à voir tomber un corps dès qu&#39;il n&#39;est
+pas soûtenu, elle croit que cette seule raison suffit
+pour obliger le corps à se mouvoir. Mais une réflexion
+bien simple peut desabuser de cette opinion. Qu&#39;on
+place un corps sur une table horisontale ; pourquoi
+ce corps ne se meut-il pas horisontalement le long de
+la table, puisque rien ne l&#39;en empêche? pourquoi ce
+corps ne se meut-il pas de bas en-haut, puisque rien
+n&#39;arrête son mouvement en ce sens? Donc, puisque
+le corps se meut de haut en-bas, &amp; que par lui-même
+il est évidemment indifférent à se mouvoir dans un
+sens plûtôt que dans un autre, il y a quelque cause
+qui le détermine à se mouvoir en ce sens. Ce n&#39;est
+donc pas sans raison que les Philosophes s&#39;étonnent
+de voir tomber une pierre ; &amp; le peuple qui rit de leur
+étonnement, le partage bien-tôt lui-même pour peu
+qu&#39;il refléchisse.
+</p>
+<p>
+Il y a plus : la plûpart des corps que nous voyons
+se mouvoir, ne sont tirés du repos que par l&#39;impulsion 
+visible de quelque autre corps. Nous devons
+donc être naturellement portés à juger que le mouvement 
+est toûjours l&#39;effet de l&#39;impulsion : ainsi la
+premiere idée d&#39;un philosophe qui voit tomber un
+corps, doit être que ce corps est poussé par quelque
+fluide invisible. S&#39;il arrive cependant qu&#39;après avoir
+approfondi davantage cette matiere, on trouve que
+la pesanteur ne puisse s&#39;expliquer par l&#39;impulsion d&#39;un
+fluide, &amp; que les phénomenes se refusent à cette hypothèse ; 
+alors le philosophe doit suspendre son jugement,
+&amp; peut-être même doit-il commencer à croire 
+qu&#39;il peut y avoir quelque autre cause du mouvement 
+des corps que l&#39;impulsion ; ou du moins (ce qui
+est aussi contraire aux principes communément reçûs) que l&#39;impulsion des corps, &amp; sur-tout de certains 
+fluides inconnus, peut avoir des lois toutes différentes 
+de celles que l&#39;expérience nous a fait découvrir 
+jusqu&#39;ici. <i>Voyez</i> <sc><ref target="head:Attraction" type="search">Attraction</ref></sc>.
+</p>
+<p>
+Un savant géometre de nos jours (<i>Voyez Euleri
+opuscula</i>, Berlin, 1746.) prétend que l&#39;attraction,
+quand on la regarde comme un principe différent de
+l&#39;impulsion, est contraire au principe de la <i>force
+d&#39;inertie</i>, &amp; par conséquent ne peut appartenir aux
+corps ; car, dit ce géometre, un corps ne peut se
+donner le mouvement à lui-même, &amp; par conséquent 
+ne peut tendre de lui-même vers un autre
+corps, sans y être déterminé par quelque cause.
+Il suffit de répondre à ce raisonnement, 1°. que la
+tendance des corps les uns vers les autres, quelle
+qu&#39;en soit la cause, est une loi de la nature constatée
+par les phénomenes. <i>Voyez</i> <sc><ref target="head:Gravitation" type="search">Gravitation</ref></sc>. 2°. Que
+si cette tendance n&#39;est point produite par l&#39;impulsion,
+ce que nous ne décidons pas, en ce cas la présence 
+d&#39;un autre corps suffit pour altérer le mouvement 
+de celui qui se meut ; &amp; que comme l&#39;action de
+l&#39;ame sur le corps n&#39;empêche pas le principe de la
+<i>force d&#39;inertie</i> d&#39;être vrai, de même l&#39;action d&#39;un corps
+sur un autre, exercée à distance, ne nuit point à la
+vérité de ce principe, parce que dans l&#39;énoncé de ce
+<milestone unit="column" n="2" />
+principe, on fait abstraction de toutes les causes
+(quelles qu&#39;elles puissent être) qui peuvent altérer
+le mouvement du corps, soit que nous puissions
+comprendre ou non la maniere d&#39;agir de ces <i>forces</i>.
+</p>
+<p>
+Le même géometre va plus loin ; il entreprend de
+prouver que la <i>force d&#39;inertie</i> est incompatible avec
+la faculté de penser, parce que cette derniere faculté
+entraîne la propriété de changer de soi-même son
+état : d&#39;où il conclut que la <i>force d&#39;inertie</i> étant une
+propriété reconnue de la matiere, la faculté de penser 
+n&#39;en sauroit être une. Nous applaudissons au zele
+de cet auteur pour chercher une nouvelle preuve d&#39;une 
+vérité que nous ne prétendons pas combattre : cependant 
+à considérer la chose uniquement en philosophes,
+nous ne voyons pas que pas cette nouvelle
+preuve il ait fait un grand pas en Métaphysique. La
+<i>force d&#39;inertie</i> n&#39;a lieu, comme l&#39;expérience le prouve,
+que dans la matiere brute, c&#39;est-à-dire dans la
+matiere qui n&#39;est point unie à un principe intelligent
+dont la volonté la meut : ainsi soit que la matiere reçoive 
+par elle-même la faculté de penser (ce que
+nous sommes bien éloignés de croire), soit qu&#39;un
+principe intelligent &amp; d&#39;une nature différente lui soit
+uni, dès-lors elle perdra la <i>force d&#39;inertie</i>, ou, pour
+parler plus exactement, elle ne paroîtra plus obéir à
+cette <i>force</i>. Sans doute il n&#39;est pas plus aisé de concevoir 
+comment ce principe intelligent, uni à la matiere 
+&amp; différent d&#39;elle, peut agir sur elle pour la
+mouvoir, que de comprendre comment la <i>force d&#39;inertie</i> peut se concilier avec la faculté de penser, que
+les Matérialistes attribuent faussement aux corps:
+mais nous sommes certains par la religion, que la
+matiere ne peut penser ; &amp; nous sommes certains par
+l&#39;expérience, que l&#39;ame agit sur le corps. Tenons-nous-en donc à ces deux vérités incontestables, sans
+entreprendre de les concilier.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

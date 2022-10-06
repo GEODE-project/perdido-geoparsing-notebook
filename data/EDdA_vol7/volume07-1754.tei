@@ -1,0 +1,189 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29208" id="52:48" vol="7">
+<index type="head" value="GAUFRER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. Grav. &amp; Manus. d&#39;étoffes." />
+<index type="normclass" value="Grammaire | Gravure | Manufacture d&#39;étoffes" />
+<index type="englishclass" value="pending" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="v.act." />
+<head>GAUFRER</head>
+<p>
+* GAUFRER, v. act. (<i>Gramm. Grav.</i> &amp; <i>Manuf.
+d&#39;étoffes.</i>) c&#39;est en général par le moyen de deux
+corps, sur l&#39;un desquels on a tracé quelques traits
+en creux, imprimer ces mêmes traits sur une étoffe
+ou sur quelque matiere interposée. Le mot de <i>gaufrer</i> vient d&#39;un mets de pâte legere &amp; friande qu&#39;on
+étend fluide entre deux plaques de fer qui sont assemblées 
+à tenaille, &amp; sur lesquelles on a gravé
+quelque dessein, que la pâte mince pressée entre ces
+plaques chaudes, prend en se cuisant. Ce mets s&#39;appelle 
+<i>une gaufre</i>.
+</p>
+<p>
+Les velours d&#39;Utrecht &amp; ceux qui sont fil &amp; coton,
+sont les étoffes particulieres que l&#39;on <i>gaufre ;</i>
+comme elles sont épaisses &amp; velues, la partie solide
+du corps gravé contre lequel on les presse, entre
+profondément &amp; donne beaucoup de relief au reste.
+Nous nous contenterons d&#39;expliquer la machine à
+<i>gaufrer:</i> cette machine bien entendue, on aura compris 
+le reste de la manoeuvre.
+</p>
+<p>
+<i>A A</i> est un chassis de charpente, dont l&#39;assemblage 
+doit être solide.
+</p>
+<p>
+<i>B</i> un gros rouleau de bois, ou un cylindre tournant 
+sur un essieu, auquel est attachée la puissance <i>K:</i>
+c&#39;est entre ce rouleau &amp; le petit cylindre de fonte,
+que nous allons décrire que passe l&#39;étoffe à <i>gaufrer</i>.
+</p>
+<p>
+<i>C</i> petit cylindre de fonte, creux dans toute sa longueur,
+pour recevoir deux, trois, ou quatre barres
+de fer, qu&#39;on fait rougir au feu : c&#39;est sur ce cylindre
+de fonte que sont gravés &amp; ciselés les ornemens &amp;
+fleurons, qui doivent paroître en relief sur l&#39;étoffe.
+</p>
+<p>
+<i>D</i> piece de bois horisontale, mobile de haut enbas,
+entre les montans du chassis, &amp; portant par ses
+extrémités sur les deux tasseaux <i>E</i>.
+</p>
+<p>
+<i>E</i> tasseaux, ayant chacun à la partie inférieure
+une échancrure, qui saisit &amp; embrasse le collet pratiqué 
+a chaque bout du petit cylindre de fonte.
+</p>
+<p>
+<i>F</i> deux grosses vis, dont l&#39;usage est de presser la
+piece de bois mobile <i>D</i> sur les deux tasseaux <i>E</i>, qui
+doivent aussi serrer le petit cylindre de fonte contre
+le gros cylindre de bois ; celui-ci porte sur son essieu ;
+n&#39;a de mouvement qu&#39;autour de son axe, &amp; il faut
+observer qu&#39;il communique son mouvement au petit 
+cylindre de fer, &amp; le fait tourner en sens contraire.
+</p>
+<p>
+<i>G</i> l&#39;étoffe à <i>gaufrer</i>, qui doit être prise &amp; serrée
+entre les deux cylindres ; mais avant que de l&#39;engager,
+on a soin d&#39;étendre par-dessous &amp; immédiatement 
+sur le gros cylindre, une autre étoffe de laine
+commune, qui sert comme de lit à l&#39;étoffe à <i>gaufrer</i>.
+La souplesse de ce lit fait que les ornemens gravés
+sur le petit cylindre s&#39;impriment mieux, plus profondément 
+&amp; plus correctement.
+</p>
+<p>
+<i>H</i> plusieurs bâtons ou petits rouleaux de bois,
+entre lesquels les deux étoffes sont enlassées, de maniere 
+qu&#39;il en résulte un frottement qui les étend, les
+bande un peu, les arrête &amp; les empêche de passer
+trop vîte entre les cylindres <i>BC</i>.
+</p>
+<p>
+<i>I</i> forme des barres de fer dont l&#39;usage est de remplir 
+le petit cylindre de fome &amp; de l&#39;échauffer ; elles
+ont à leur extrémité un oeil ou trou rond, dans lequel 
+on passe un crochet de fer : c&#39;est avec ce crochet
+&amp; par cet oeil qu&#39;on les prend &amp; qu&#39;on les porte de
+dessus un brasier, dans l&#39;intérieur du petit cylindre.
+</p>
+<p>
+<i>L</i> crochet de fer à prendre les barres quand elles
+sont rouges.
+</p>
+<p>
+Au sortir d&#39;entre les cylindres, l&#39;étoffe porte une
+empreinte si forte du dessein tracé sur le petit cylindre 
+de fer, qu&#39;elle ne la perd presque jamais, à
+moins qu&#39;elle ne soit mouillée. On se sert beaucoup
+de ces velours &amp; autres étoffes gaufrées, pour les
+meubles, les carrosses, <i>&amp;c.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

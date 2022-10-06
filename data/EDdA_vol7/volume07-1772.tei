@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29226" id="52:60:3" vol="7">
+<index type="head" value="Gayac, (Gomme de-)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. des drogues" />
+<index type="normclass" value="Histoire des drogues" />
+<index type="englishclass" value="History of drugs" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Gayac</head>
+<p>
+<sc>Gayac</sc>, (<sc>Gomme de-</sc>) <i>Hist. des drogues ;</i> nom
+impropre qu&#39;on donne dans les boutiques des Droguistes, à la résine qui découle de l&#39;arbre <i>gayac ;</i>
+cette résine bien choisie doit être nette, luisante,
+transparente ; elle est brune en-dehors, blanche en-dedans,
+tantôt roussâtre, tantôt verdâtre, friable,
+d&#39;un goût un peu acre, d&#39;une odeur agréable de résine 
+quand on l&#39;écrase ou quand on la brûle, &amp; qui
+approche de celle du bois de <i>gayac ;</i> sa dose est depuis 
+un scrupule jusqu&#39;à trois ; elle passe pour exciter 
+puissamment la transpiration insensible, &amp; pour
+être propre aux maladies de la peau qui naissent de
+l&#39;obstruction des glandes miliaires.
+</p>
+<p>
+On peut tirer aussi du <i>gayac</i> une substance gommeuse,
+en faisant bouillir long-tems dans de l&#39;eau
+commune, de la rapure de <i>gayac</i>. Alors après avoir
+fait épaissir cette décoction sur le feu, il reste au fond
+du vaisseau une résine épaisse, d&#39;une odeur balsamique,
+&amp; d&#39;un goût legerement acre. Cette substance
+sechée, pulvérisée, &amp; tirée par le nez, irrite vivement 
+la membrane pituitaire, &amp; fait évacuer le
+phlegme qui est logé dans cet endroit. Hoffmann préféroit 
+ce remede à tous les sternutatoires, &amp; lui attribuoit <gap type="hyphenpb" />
+<pb n="7:532" facs="V7/ENC_7-532.jpeg" />
+<milestone unit="column" n="1" />
+en même tems une vertu corroborative:
+mais Hoffmann vantoit beaucoup tous les remedes
+qu&#39;il composoit lui-même. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

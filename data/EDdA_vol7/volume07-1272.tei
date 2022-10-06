@@ -1,0 +1,170 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28726" vol="7">
+<index type="head" value="Gage plege" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Gage plege</head>
+<p>
+<i>Gage-plege</i> signifie aussi en Normandie une <i>convocation extraordinaire</i> que fait le juge dans le territoire
+d&#39;un fief pour l&#39;élection d&#39;un prevôt ou sergent pour
+faire payer les rentes &amp; redevances seigneuriales
+dûes au seigneur par ses censitaires, rentiers &amp; redevables.
+</p>
+<p>
+Le seigneur féodal a par rapport aux rentes &amp; redevances 
+dûes à son fief &amp; seigneurie, deux devoirs
+différens : l&#39;un de plaids, l&#39;autre de <i>gage-plege ;</i> les
+plaids &amp; <i>gage-plege</i> se tiennent par son juge bas-justicier ; il ne peut pas les tenir lui-même ; la convocation 
+doit être faite dans l&#39;étendue du fief, &amp; non
+ailleurs ; les plaids sont pour juger les contestations
+au sujet des rentes &amp; redevances seigneuriales contre 
+les redevables. Le <i>gage-plege</i> est pour élire un
+prevôt pour faire le recouvrement des rentes &amp; redevances 
+seigneuriales, &amp; y recevoir les nouveaux
+aveux des censitaires &amp; rentiers.
+</p>
+<p>
+La convocation du <i>gage-plege</i> doit être faite par le
+sénéchal si c&#39;est dans une haute-justice, ou par le prevôt 
+si c&#39;est dans une moyenne ou basse-justice. Elle
+se fait en présence du greffier, tabellion, notaire ou
+autre personne publique, avant le 15 de Juillet au
+plus tard ; &amp; tous les aveux &amp; autres actes du <i>gage-plege</i> doivent être signés tant du juge que du greffier,
+ou autre personne publique que l&#39;on a commis pour
+en faire la fonction.
+</p>
+<p>
+Les minutes des aveux &amp; déclarations demeurent
+ès mains du notaire ou tabellion, &amp; les minutes des
+jugemens au greffe de la justice.
+</p>
+<p>
+Le <i>gage-plege</i> ne se tient qu&#39;une fois l&#39;année, à jour
+marqué.
+</p>
+<p>
+Tous les hommes de fiefs sujets ou vassaux tenans
+roturierement du fief, sont obligés de comparoître
+au <i>gage-plege</i> en personne, ou par procureur spécial
+<i>&amp; ad hoc</i>, pour faire élection d&#39;un prevôt receveur,
+&amp; en outre pour reconnoître les rentes &amp; redevances 
+seigneuriales par eux dûes au fief &amp; seigneurie ;
+ils doivent spécifier les héritages à cause desquels
+<pb n="7:418" facs="V7/ENC_7-418.jpeg" />
+<milestone unit="column" n="1" />
+les rentes &amp; redevances sont dûes, &amp; si depuis leurs
+derniers aveux ou déclarations ils ont acheté ou vendu 
+quelques héritages tenus de ladite seigneurie, le
+nom du vendeur ou de l&#39;acheteur, le prix porté au
+contrat, &amp; le nom du notaire ou tabellion qui a reçû
+l&#39;acte.
+</p>
+<p>
+Lorsque les sujets du seigneur sont défaillans de
+comparoir au <i>gage-plege</i>, on les condamne en l&#39;amende 
+qui ne peut excéder la somme de cinq sols
+pour chaque tête ; cette amende est taxée par le juge,
+eu égard à la qualité &amp; quantité des héritages tenus
+par le vassal ou sujet ; &amp; outre l&#39;amende, le juge
+peut faire saisir les fruits de l&#39;héritage, &amp; les faire
+vendre pour le payement des rentes &amp; redevances
+qui sont dûes sans préjudice de l&#39;amende des plaids,
+qui est de 8 s. 1 den.
+</p>
+<p>
+La proclamation du <i>gage-plege</i> doit être faite publiquement 
+un jour de dimanche, à l&#39;issue de la grande 
+messe paroissiale, par le prevôt de la seigneurie,
+quinze jours avant le terme d&#39;icelui ; &amp; cette publication 
+doit annoncer le jour, le lieu, &amp; l&#39;heure de la
+séance. <i>Voyez</i> la coûtume de Normandie, <i>art. 185.
+&amp; suiv</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

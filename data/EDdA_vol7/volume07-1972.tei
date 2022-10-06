@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29426" id="52:177" vol="7">
+<index type="head" value="GÉOGRAPHIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jeu" />
+<index type="pos" value="adject" />
+<head>GÉOGRAPHIQUE</head>
+<p>
+GÉOGRAPHIQUE, adj. se dit de tout ce qui
+appartient à la Géographie ; ainsi on dit <i>mesures géographiques,
+opérations géographiques</i>, &amp;c.
+</p>
+<p>
+Comme la Géographie en général, qui est la description 
+de la terre, a sous elie deux parties qui lui
+sont subordonnées, la <i>Chorographie</i> qui est la description 
+d&#39;un pays de quelqu&#39;étendue comme une province,
+&amp; la <i>Topographie</i> qui est la description d&#39;une
+partie peu étendue de terrein ; il y a aussi différentes 
+especes d&#39;opérations <i>géographiques</i>: celles qui se
+font pour lever la carte d&#39;une partie considérable
+de la terre, par exemple, de la France, de l&#39;Angleterre, demandent plus de précision que les autres,
+parce que de petites erreurs qui ne sont rien sur une
+partie de terrein peu considérable, deviennent trop
+sensibles, &amp; s&#39;accumulent sur un grand espace ; ainsi
+ces cartes se levent pour l&#39;ordinaire en liant les principaux 
+points par des triangles dont on observe les angles 
+avec un quart de cercle, &amp; en calculant ensuite
+les côtés de ces triangles ; en faisant en un mot les mêmes 
+opérations que pour mesurer un degré de la terre,
+opérations qui s&#39;appellent aussi <i>géographiques. V.</i>
+<sc><ref target="head:Figure de la Terre" type="search">Figure de la Terre</ref> <i>&amp;</i> <ref target="head:Degré" type="search">Degré</ref></sc>
+. C&#39;est ainsi qu&#39;on
+a travaillé à la carte de la France dont on publie actuellement 
+les feuilles. Quand il ne s&#39;agit que de cartes 
+chorographiques, &amp; que l&#39;on ne cherche pas une
+grande précision, un bon graphometre suffit pourvû
+qu&#39;il soit d&#39;une plus grande étendue que les graphometres 
+ordinaires ; &amp; quand on ne veut faire qu&#39;une
+carte topographique, on peut se borner à la planchette.
+<i>Voyez</i> .
+<i>Voyez</i> aussi <sc><ref target="head:Carte" type="search">Carte</ref></sc>.
+</p>
+<p>
+<i>Carte géographique</i> se peut dire en général de
+toutes les cartes de géographie, puisqu&#39;elles représentent 
+toûjours quelque partie de la terre ; mais on
+ne désigne certaines cartes par le mot <i>géographique</i>,
+que pour les distinguer des cartes qu&#39;on appelle <i>hydrographiques</i>, &amp; qui servent principalement aux
+marins. Dans celle-ci on ne représente guere que
+les rivages, le gisement des côtes, les îles ; dans
+les autres on détaille l&#39;intérieur des terres. <i>Voyez</i>
+<sc><ref target="head:Hydrographique" type="search">Hydrographique</ref> <i>&amp;</i> <ref target="head:Carte" type="search">Carte</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

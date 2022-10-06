@@ -1,0 +1,171 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28644" id="51:23:3" vol="7">
+<index type="head" value="Fusion" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie &amp; Métallurgie." />
+<index type="normclass" value="Chimie | Métallurgie" />
+<index type="englishclass" value="Chemistry | Metallurgy" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fusion</head>
+<p>
+<sc>Fusion</sc>, (<i>Chimie &amp; Métallurgie.</i>) c&#39;est une opération 
+par laquelle des corps solides &amp; durs, tels que
+les métaux, les pierres, les sels, <i>&amp;c.</i> sont mis dans un
+état de fluidité par le moyen du feu qu&#39;on leur applique 
+médiatement ou immédiatement.
+</p>
+<p>
+Il y a des corps qui ont la propriété d&#39;entrer en <i>fusion</i> par la seule application du feu ; les métaux, les
+demi-métaux, le verre, les seuls alkalis fixes, la plupart 
+des sels neutres, les soufres, les résines, &amp; quelques 
+pierres, sont dans ce cas : d&#39;autres corps n&#39;ont
+point la même propriété; &amp; il faut leur joindre d&#39;autres 
+substances pour les faire entrer en fusion. <i>Voyez
+l&#39;article</i> <sc><ref target="head:Fondant" type="search">Fondant</ref></sc>.
+</p>
+<p>
+Les métaux &amp; demi-métaux exigent différens degrés 
+de feu pour être mis en <i>fusion</i>, &amp; présentent des
+phénomenes tout différens.
+</p>
+<p>
+Le plomb &amp; l&#39;étain entrent très-promptement en
+<i>fusion</i>, &amp; même avant d&#39;avoir rougi ; l&#39;or &amp; l&#39;argent
+y entrent en même tems qu&#39;ils rougissent ; le cuivre &amp;
+le fer veulent avoir été rougis pendant long-tems &amp;
+vivement, sur-tout le dernier, avant que de se
+fondre.
+</p>
+<p>
+Si l&#39;on a fait fondre ou de l&#39;or, ou de l&#39;argent, ou
+du cuivre, ou du plomb, ou de l&#39;étain, ou du zinc ;
+&amp; lorsque l&#39;une de ces substances métalliques sera
+fondue, qu&#39;on y jette un morceau de métal de la même 
+espece, il tombera au fond ; ou bien il restera au
+fond, si on verse du même métal fondu par-dessus.
+Ces mêmes métaux mis en <i>fusion</i>, occupent un plus
+grand espace que lorsqu&#39;ils sont refroidis : d&#39;où l&#39;on
+voit que la <i>fusion</i> augmente leur volume &amp; diminue
+leur pesanteur spécifique. Il n&#39;en est pas de même
+du fer, du bismuth, de l&#39;antimoine, &amp; du soufre ; si
+on fait fondre une de ces substances en y jettant un
+morceau froid de la même substance, il surnagera à
+la matiere fondue ; ce qui prouve que ces dernieres
+substances acquierent par la <i>fusion</i> une pesanteur
+spécifique plus grande qu&#39;elles n&#39;avoient étant solides.
+</p>
+<p>
+La <i>fusion</i> opere encore des phénomenes très-singuliers sur les métaux que l&#39;on allie les uns avec les
+autres : il y en a qui par son moyen deviennent d&#39;un
+plus grand volume qu&#39;ils n&#39;étoient avant que d&#39;avoir
+été fondus ensemble, tandis que d&#39;autres deviennent
+d&#39;un volume moins considérable. Outre cela, il y a
+des métaux qui s&#39;unissent parfaitement par la <i>fusion</i>  ;
+tels sont l&#39;or &amp; l&#39;argent, l&#39;or &amp; le cuivre, <i>&amp;c.</i> D&#39;autres métaux, au contraire, ne peuvent aucunement
+s&#39;unir ; le zinc &amp; le bismuth, l&#39;argent &amp; le fer, le cuivre 
+&amp; le fer, le plomb &amp; le fer, sont dans ce dernier
+cas.
+</p>
+<p>
+Le but qu&#39;on se propose dans la <i>fusion</i>, est fondé
+sur la pesanteur spécifique des métaux, qui fait qu&#39;ils
+ont la propriété de tomber au fond du vaisseau dans
+lequel on les traite, lorsque la matiere qui les environne 
+a été mise en <i>fusion</i> ou dans l&#39;état d&#39;un verre
+fluide, à l&#39;aide des fondans. <i>Voyez l&#39;article</i> <sc><ref target="head:Fondant" type="search">Fondant</ref></sc>.
+Dans cette opération, les particules métalliques
+éparses &amp; répandues quelquefois dans un volume
+considérable de matieres pierreuses, terreuses, étrangeres, se rapprochent &amp; se réunissent ensemble. On
+voit par-là que la <i>fusion</i> du minerai est nécessaire
+pour que la partie métallique se dégage de celle qui
+ne l&#39;est pas ; &amp; par conséquent, on doit la regarder
+comme la principale opération de la métallurgie.
+<i>Voyez</i> 
+<sc><ref target="head:Fondant" type="search">Fondant</ref>, <ref target="head:Métal" type="search">Métal</ref>, <ref target="head:Métallurgie" type="search">Métallurgie</ref>, <ref target="head:Docimastique" type="search">Docimastique</ref></sc>
+, <i>&amp;c.</i> (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

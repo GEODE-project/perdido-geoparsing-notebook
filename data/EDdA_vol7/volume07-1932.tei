@@ -1,0 +1,191 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29386" id="52:161" vol="7">
+<index type="head" value="GENS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. franç." />
+<index type="normclass" value="Grammaire françoise" />
+<index type="englishclass" value="French grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GENS</head>
+<p>
+GENS, s. m. &amp; f. (<i>Gramm. franç.</i>) Voici un mot
+si bizarre de notre langue, un mot qui signifie tant
+de choses, un mot enfin d&#39;une construction si difficile,
+qu&#39;on peut en permettre l&#39;article dans ce Dictionnaire en faveur des étrangers ; &amp; même plusieurs
+françois le liroient utilement.
+</p>
+<p>
+Le mot <i>gens</i> tantôt signifie les personnes, les
+hommes, tantôt les domestiques, tantôt les soldats,
+tantôt les officiers de justice d&#39;un prince, &amp; tantôt
+les personnes qui sont de même suite &amp; d&#39;un même
+parti. Il est toûjours masculin en toutes ces significations,
+excepté quand il veut dire <i>personnes ;</i> car alors
+il est féminin si l&#39;adjectif le précede, &amp; masculin si
+l&#39;adjectif le suit. Par exemple, j&#39;ai vû des <i>gens</i> bien
+<i>faits</i>, l&#39;adjectif <i>bien faits</i> après <i>gens</i>, est masculin. Au
+contraire on dit de vieilles <i>gens</i>, de bonnes <i>gens ;</i> ainsi
+l&#39;adjectif devant <i>gens</i> est féminin. Il n&#39;y a peut-être
+qu&#39;une seule exception qui est pour l&#39;adjectif <i>tout</i>,
+lequel étant mis devant <i>gens</i>, est toûjours masculin,
+comme <i>tous</i> les <i>gens</i> de bien, <i>tous</i> les honnêtes <i>gens ;</i>
+on ne dit point <i>toutes</i> les honnêtes <i>gens</i>.
+</p>
+<p>
+Le P. Bouhours demande, si lorsque dans la même
+phrase, il y a un adjectif devant, &amp; un adjectif ou
+un participe après, il les faut mettre tous deux au
+même genre, selon la regle générale ; ou si l&#39;on doit
+mettre le féminin devant, &amp; le masculin après ; par
+exemple, s&#39;il faut dire, il y a de certaines <i>gens</i> qui
+sont bien <i>sots</i>, ou bien <i>sotes ;</i> ce sont les meilleures
+<i>gens</i> que j&#39;aye jamais <i>vûs</i> ou <i>vûes ;</i> les plus savans
+dans notre langue croyent qu&#39;il faut dire <i>sots</i> &amp; <i>vûs</i>
+au masculin, par la raison que le mot de <i>gens</i> veut
+toûjours le masculin après soi. C&#39;est cependant une
+bizarrerie étrange, qu&#39;un mot soit masculin &amp; féminin 
+dans la même phrase, &amp; ces sortes d&#39;irrégularités 
+rendent une langue bien difficile à savoir correctement.
+</p>
+<p>
+Le mot <i>gens</i> pris dans la signification de <i>nation</i>,
+se disoit autrefois au singulier, &amp; se disoit même il
+n&#39;y a pas un siecle. Malherbe dans une de ses odes
+dit : <i>ô combien lors aurta de veuves</i>, la gent <i>qui porte le
+turban ;</i> mais aujourd&#39;hui il n&#39;est d&#39;usage au singulier
+qu&#39;en prose ou en poésie burlesque : par exemple,
+Scaron nomme plaisamment les pages de son tems,
+la <i>gent</i> à gregues retroussées. Il y a pourtant tel endroit 
+dans des vers sérieux, où <i>gent</i> a bonne grace,
+comme en cet endroit du liv. V. de l&#39;Enéïde de M.
+de Segrais, <i>de cette</i> gent <i>farouche adoucira les moeurs</i>.
+Il se pourroit bien qu&#39;on a cessé de dire <i>la gent</i>, à
+cause de l&#39;équivoque de l&#39;<i>agent</i>.
+</p>
+<p>
+On demande, si l&#39;on doit dire <i>dix gens</i>, au nombre
+déterminé, puisqu&#39;on dit <i>beaucoup de gens, beaucoup
+de jeunes gens</i>. Vaugelas, Ménage, &amp; le P. Bouhours,
+le grand critique de Ménage, s&#39;accordent unanimement 
+à prononcer que <i>gens</i> ne se dit point d&#39;un nombre 
+déterminé, desorte que c&#39;est mal parler, que de
+dire <i>dix gens</i>. Ils ajoûtent qu&#39;il est vrai qu&#39;on dit fort
+bien <i>mille gens</i>, mais c&#39;est parce que le mot de <i>mille</i>
+en cet endroit, est un nombre indéfini ; &amp; par cette
+raison, on pourroit dire de même <i>cent gens</i>, sans la
+cacophonie. Cette décision de nos maîtres paroît
+d&#39;autant plus fondée qu&#39;ils ajoûtent, que si en effet
+il y avoit cent personnes dans une maison, ou bien
+mille de compte, fait, ce seroit mal parler que de
+dire, <i>il y a cent gens ici, j&#39;ai vû mille gens dans le</i>
+<milestone unit="column" n="2" />
+<i>sallon de Versailles ;</i> il faudroit dire, <i>il y a cent personnes 
+ici, j&#39;ai vû mille personnes dans le sallon de Versailles</i>.
+</p>
+<p>
+Cependant quoiqu&#39;il soit formellement décidé,
+que c&#39;est mal parler que de dire <i>dix gens</i>, on dira
+fort bien, ce me semble, <i>dix jeunes gens, trois honnêtes 
+gens</i>, en parlant d&#39;un nombre préfix ; il paroît 
+que quand on met un adjectif entre le mot
+<i>gens</i>, ou un mot quelconque devant <i>gens</i>, on peut
+y faire précéder un nombre déterminé, <i>dix jeunes
+gens, trois honnêtes gens ;</i> c&#39;est pour cela qu&#39;on dit,
+très-bien en prenant <i>gens</i> pour soldat ou pour domestique : cet officier accourut avec <i>dix de ses gens ;</i>
+le prince n&#39;avoit qu&#39;<i>un de ses gens</i> avec lui.
+</p>
+<p>
+Il reste à remarquer qu&#39;on dit en conséquence de
+la décision de Vaugelas. Bouhours, &amp; Ménage,
+<i>c&#39;est un honnête homme:</i> mais on ne dit point en parlant 
+indéfiniment, <i>ce sont d&#39;honnêtes hommes</i>, il faut
+dire <i>ce sont d&#39;honnêtes gens ;</i> cependant on dit, <i>c&#39;est
+un des plus honnêtes hommes que je connoisse ;</i> on peut
+dire aussi, <i>deux honnêtes hommes vinrent hier chez moi.</i>
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27927" id="49:111:1" vol="7">
+<index type="head" value="Fouille des terres" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Agriculture." />
+<index type="normclass" value="Agriculture" />
+<index type="englishclass" value="Agriculture" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Fouille</head>
+<p>
+<sc>Fouille</sc> <i>des terres</i>, (<i>Agriculture.</i>) action de remuer 
+les terres pour en connoitre le fond, le mettre
+en état d&#39;y recevoir diverses plantes, &amp; l&#39;améliorer
+en y faisant des tranchées pour des palissades, des
+couches sourdes, ou autres projets d&#39;agriculture.
+Voici comme on se conduit communément dans la
+pratique du jardinage pour <i>fouiller</i> les terres.
+</p>
+<p>
+On fait d&#39;abord sur le terrein qu&#39;on veut <i>fouiller</i>,
+une tranchée large de trois ou quatre piés pour un
+homme, profonde de deux piés &amp; demi ou trois pies,
+selon que le terrein le demande, c&#39;est-à-dire selon
+qu&#39;il y a de bonnes terres. Dans les endroits où il
+n&#39;y a qu&#39;un pié &amp; demi, on ôte cette terre de la
+tranchée, &amp; on pioche dans le fond environ un demi-pié de la mauvaise terre, soit pierrotis, ou autre
+chose qu&#39;on y laisse.
+</p>
+<p>
+Cela fait, &amp; lorsque cette tranchée, qui doit avoir
+environ quatre piés de longueur, est vuidée, on la
+remplit d&#39;autant de terre, qu&#39;on prend en suivant
+toûjours son chemin ; de sorte qu&#39;on fait consécutivement 
+une seconde tranchée, puis une troisieme,
+&amp; ainsi du reste, jusqu&#39;à ce qu&#39;on soit au bout du
+morceau de terre qu&#39;on veut <i>fouiller</i>. Si on est plusieurs,
+on se met tous de front, &amp; chacun ouvre tout
+de suite une tranchée large, comme on l&#39;a dit. On
+continue de même ; &amp; comme la derniere tranchee
+reste toûjours à remplir, on se sert pour cela de la
+terre qu&#39;on a tirée de la premiere tranchée, &amp; qu&#39;on
+transporte dedans, ou dans des broüettes ou dans
+des hottes. La <i>fouille</i> des terres contribue à l&#39;accroissement 
+des plantes ; les habiles jardiniers en sont assez 
+convaincus par l&#39;expérience. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

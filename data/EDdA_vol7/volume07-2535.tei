@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29989" id="53:350:1" vol="7">
+<index type="head" value="Gouttieres" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="NA" />
+<head>Gouttieres</head>
+<p>
+<sc>Gouttieres</sc>, (<i>Marine.</i>) La tonture des ponts
+fait que l&#39;eau coule vers les bords où l&#39;on met une
+piece qui forme le premier bordage horisontal ou du
+pont, &amp; le commencement du bordage vertical ou
+de la premiere vaigre de l&#39;entrepont. Cette piece qui
+regne tout-au-tour du vaisseau se nomme <i>la gouttiere:</i> elle est entaillée d&#39;un pouce &amp; demi ou deux
+pouces vis-à-vis chaque ban &amp; chaque barroit ; on
+l&#39;entaille aussi vis-à-vis chaque aiguillette de parque,
+de tout l&#39;équarrissage de l&#39;aiguillette.
+</p>
+<p>
+La <i>gouttiere</i> repose sur les entremises, qui sont des
+pieces qui s&#39;étendent d&#39;un bau à l&#39;autre ; elle est
+clouée sur les baux &amp; arrêtée sur les membres par
+des chevilles qui percent les bordages, les membres,
+la <i>gouttiere</i>, &amp; qui sont clavetées en-dedans sur des
+viroles.
+</p>
+<p>
+C&#39;est dans les <i>gouttieres</i> qu&#39;on perce les dalots ou
+les trous par lesquels l&#39;eau doit s&#39;échapper.
+</p>
+<p>
+Il faut que la partie de la <i>gouttiere</i> qui porte sur les
+baux, sans y comprendre l&#39;entaille qui forme la <i>gouttiere</i>, ait la même épaisseur que les illoires.
+</p>
+<p>
+Les <i>gouttieres</i> n&#39;ont jamais trop de largeur, &amp; on
+les laisse de toute la longueur des pieces.
+</p>
+<p>
+Pour bien comprendre leur situation dans le vaisseau,
+<i>voyez Marine, <ref target="XPL:5375" type="platelink">Pl. V</ref>. <ref target="XPL:5376" type="platelink">fig. 1</ref>. n°. 144. gouttieres</i>
+<pb n="7:782" facs="V7/ENC_7-782.jpeg" />
+<milestone unit="column" n="1" />
+des gaillards ; <i>n°. 74. gouttieres</i> du premier pont, &amp;
+<i>n°. 75. les serres-gouttieres</i> du premier pont.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

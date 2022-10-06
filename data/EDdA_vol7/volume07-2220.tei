@@ -1,0 +1,181 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29674" id="53:146" vol="7">
+<index type="head" value="GLAUCUS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythologie." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="s.m." />
+<head>GLAUCUS</head>
+<p>
+GLAUCUS, s. m. (<i>Mythologie.</i>) dans la Fable,
+c&#39;est un dieu marin fils de Neptune &amp; de Naïs, selon
+Evante, &amp; selon Athénée d&#39;Eubée &amp; de Polybe, fils
+de Mercure. Dans l&#39;histoire, <i>Glaucus</i> n&#39;étoit qu&#39;un
+habile pêcheur de la ville d&#39;Anthédon en Béotie : il
+savoit si bien plonger, qu&#39;il alloit souvent sous l&#39;eau
+aborder dans des lieux écartés, pour s&#39;y cacher quelque 
+tems ; &amp; lorsqu&#39;il étoit de retour, il se vantoit
+d&#39;avoir passé tout ce tems là dans la compagnie de
+Thétis, de Neptune, d&#39;Amphitrite, de Nérée, des
+Néréïdes, &amp; des Tritons : cependant il eut le malheur
+de se noyer, ou peut-être d&#39;être dévoré par quelque
+poisson ; mais cet évenement servit à l&#39;immortaliser.
+On publia dans tout le pays, qu&#39;il avoit été changé
+en dieu de la mer ; &amp; cette merveille fut consacrée
+d&#39;âge en âge.
+</p>
+<p>
+Philostrate est presque le seul qui mette <i>Glaucus</i>
+au nombre des Tritons, &amp; qui se plaise à le peindre
+sous cette derniere forme.
+<blockquote> 
+« Sa barbe, dit-il, est humide 
+&amp; blanche ; ses cheveux lui flottent sur les
+épaules ; ses sourcils épais se touchent &amp; paroissent 
+n&#39;en faire qu&#39;un seul : ses bras sont en maniere
+de nageoires ; sa poitrine est couverte d&#39;herbes marines : tout le reste de son corps se termine en poisson,
+dont la queue se recourbe jusqu&#39;aux reins, &amp;
+les »
+</blockquote>
+alcyons volent sans cesse autour de lui.
+</p>
+<p>
+Cependant la ville d&#39;Anthédon plaça <i>Glaucus</i> au
+nombre des dieux marins, lui bâtit un temple, &amp;
+lui offrit des sacrifices. Ce temple rendit des oracles
+qui furent consultés par les matelots ; &amp; l&#39;endroit
+même où <i>Glaucus</i> périt, devint si célebre, que Pausanias raconte que de son tems on montroit encore
+le saut de <i>Glaucus</i>, c&#39;est-à-dire le rocher du haut duquel 
+il se jettoit dans la mer.
+</p>
+<p>
+Tant de renommée engagea les Poëtes &amp; quelques
+autres auteurs, à débiter sur <i>Glaucus</i> un grand nombre 
+de fables toutes merveilleuses. Euripide assûre
+que ce dieu étoit l&#39;interprete de Nérée, &amp; qu&#39;il prédisoit 
+l&#39;avenir avec les Néréïdes ; c&#39;est de lui-même,
+ajoûte Nicander, qu&#39;Apollon apprit l&#39;art de prophétiser : ce fut lui, selon Apollonius, qui sortit du fond
+des eaux sous la figure d&#39;un dieu marin, pour annoncer 
+aux Argonautes que le destin s&#39;opposoit au
+voyage d&#39;Hercule dans la Colchide, &amp; qu&#39;il avoit
+bien fait de l&#39;abandonner. Ovide ne pouvant enchérir 
+sur le don de prophétie dont on avoit honoré
+<i>Glaucus</i>, se mit à broder l&#39;histoire de sa métamorphose : il nous dit à ce sujet que ce fameux pêcheur
+ayant pris un jour quelques poissons, il les posa sur
+le rivage, &amp; s&#39;apperçut que l&#39;attouchement d&#39;une
+certaine herbe leur redonnoit leur premiere vigueur,
+&amp; les faisoit sauter dans la mer : curieux de tenter sur
+lui-même l&#39;expérience de cette herbe, il en eut à peine 
+mâché, qu&#39;il sentit un si grand desir de changer de
+nature, que ne pouvant y résister, il se précipita sur
+le champ au fond des eaux. I&#39;Océan &amp; Thétis le
+voyant arriver, le dépouillerent de tout ce qu&#39;il
+avoit de mortel, &amp; l&#39;admirent au nombre des dieux
+marins.
+</p>
+<p>
+Après tout ce détail, on ne peut plus confondre
+notre <i>Glaucus</i>, dieu marin dans la fable, &amp; surnommé 
+glorieusement dans l&#39;Histoire, <i>Glaucus le Pontique</i>, avec les autres <i>Glaucus</i> dont nous ne parlerons
+<pb n="7:706" facs="V7/ENC_7-706.jpeg" />
+<milestone unit="column" n="1" />
+pas ici, quelle qu&#39;ait eté leur célébrité: on le distinguera 
+donc sans peine de <i>Glaucus</i> fils de Minos, second 
+roi de Crete ; de <i>Glaucus le Généreux</i>, petit-fils
+de Bellérophon, qu&#39;Enée vit dans les enfers parmi
+les fameux guerriers ; de <i>Glaucus</i>, fils de Démyle,
+qui s&#39;acquit tant d&#39;honneur par ses victoires dans les
+jeux gymniques ; de <i>Glaucus</i>, fils d&#39;Hyppolite, étouffé dans un tonneau de miel &amp; ressuscité par Esculape ; &amp; enfin de <i>Glaucus</i> l&#39;argonaute, fils de Sysiphe, qui fut déchiré, selon la fable, par ses jumens
+qu&#39;il nourrissoit de chair humaine ; ce que Paléphate
+explique de ses dépenses excessives en chevaux, qui
+le mirent à la mendicité; folie qui fut l&#39;occasion du
+proverbe latin, <i>Glaucus alter</i>, qu&#39;on a depuis lors
+appliqué à tous ceux qui se ruinent en ce genre de
+magnificence. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

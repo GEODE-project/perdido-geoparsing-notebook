@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29456" id="52:200:1" vol="7">
+<index type="head" value="Gerbe, (offrande de la)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Hydraulique" />
+<index type="pos" value="NA" />
+<head>Gerbe</head>
+<p>
+<sc>Gerbe</sc>, (<i>offrande de la</i>) ou des prémices chez les
+anciens Hébreux. Le lendemain de la fête de Pâque,
+on apportoit au temple une <i>gerbe</i>, comme les prémices 
+de la moisson des orges, &amp; voici les cérémonies
+qui s&#39;y observoient. Le quinzieme de Nisan, au soir,
+lorsque la fête du premier jour de la Pâque étoit passée,
+&amp; que le second jour, qui étoit jour ouvrable,
+étoit commencé, la maison du jugement députoit
+trois hommes pour aller en solennité cueillir la <i>gerbe</i>
+d&#39;orge. Les villes des environs s&#39;assembloient pour
+voir la cérémonie. L&#39;orge se cueilloit dans le territoire 
+de Jérusalem. Les députés demandoient par
+trois fois si le soleil étoit couché, &amp; on leur répondoit 
+trois fois qu&#39;il l&#39;étoit ; ensuite ils demandoient
+trois fois la permission de couper la <i>gerbe</i>, &amp; trois
+fois on la leur accordoit. Ils la moissonnoient dans
+trois champs divers avec trois faucilles différentes,
+&amp; on mettoit les épis dans trois cassettes, pour les
+apporter au temple.
+</p>
+<p>
+Lorsque la <i>gerbe</i>, ou, si l&#39;on veut, les trois <i>gerbes</i>
+étoient au temple, on les battoit dans le parvis ; &amp; du
+grain qui en résultoit, on en prenoit un plein gomor,
+c&#39;est-à-dire environ trois pintes, après l&#39;avoir bien
+vanné, bien rôti &amp; concassé. On répandoit par-dessus un log d&#39;huile, c&#39;est-à-dire un demi-septier, un
+poisson &amp; un peu plus. On y ajoûtoit une poignée
+d&#39;encens ; &amp; le prêtre qui recevoit cette offrande,
+l&#39;agitoit devant le Seigneur, vers les quatre parties
+du monde, en forme de croix. Il en jettoit une partie
+sur l&#39;autel, &amp; le reste étoit à lui. Après cela chacun
+pouvoit commencer sa moisson. <i>Voyez</i> <sc><ref target="head:Offrandes" type="search">Offrandes</ref></sc>.
+Calmet, <i>dictionn. de la Bible</i>. (<i>G</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

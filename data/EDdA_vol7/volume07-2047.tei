@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29501" id="53:15" vol="7">
+<index type="head" value="GESTATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gymn. medic." />
+<index type="normclass" value="Gymnastique médicinale" />
+<index type="englishclass" value="Medical gymnastics" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GESTATION</head>
+<p>
+GESTATION, s. f. <i>gestatio</i>, (<i>Gymn. medic.</i>) sorte
+d&#39;exercice d&#39;usage chez les Romains pour le rétablissement 
+de la santé; il consistoit à se faire porter en
+litiere, en chaise, ou à se faire traîner rapidement,
+soit dans un charriot, soit dans un bateau sur l&#39;eau,
+afin de donner au corps du mouvement &amp; de la secousse.
+Celse vante beaucoup les avantages de cet
+exercice pour la guérison des maladies chroniques ;
+<i>longis</i>, dit-il, <i>&amp; jam inclinatis morbis aptissima est</i>
+<milestone unit="column" n="2" />
+<i>gestatio, lib. II. cap. xjv.</i> c&#39;est Asclépiade qui mit le
+premier en pratique les frictions &amp; la <i>gestation ;</i>
+AEtius l&#39;appelle <foreign lang="greek">αἰώρα</foreign>, &amp; en a fait un petit traité dans
+son <i>tetrab.</i> 1. <i>serm. 3. cap. vj.</i> consultez le, il est méthodique 
+&amp; de bon sens. Nos medecins modernes recommandent 
+aussi la <i>gestation</i> dans des voitures un
+peu rudes, &amp; non pas dans celles qui mollement suspendues 
+indiquent des Sybarites dans une nation
+guerriere : toute <i>gestation</i> où l&#39;on se sent à peine mouvoir,
+ne peut produire aucun effet. La promenade à
+pié, qu&#39;il ne faut pas confondre avec la <i>gestation</i>,
+s&#39;appelloit à Rome <i>ambulatio ;</i> &amp; la plûpart des grands
+la préféroient à la <i>gestation</i> sur la fin de la république : <i>constituimus inter nos</i>, dit Cicéron, <i>ut ambulationem 
+pomeridianam conficeremus in academiâ ;</i>
+<blockquote> 
+« Nous
+convinmes de faire notre promenade d&#39;après diner »
+</blockquote>
+dans les allées solitaires de l&#39;académie. <i>Voyez donc</i>
+<sc><ref target="head:Promenade" type="search">Promenade</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

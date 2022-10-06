@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30235" id="54:100:1" vol="7">
+<index type="head" value="Gravoir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Lunetier." />
+<index type="normclass" value="Lunetier" />
+<index type="englishclass" value="Optician" />
+<index type="generatedclass" value="Horlogerieie" />
+<index type="pos" value="NA" />
+<head>Gravoir</head>
+<p>
+<sc>* Gravoir</sc>, (<i>Lunetier.</i>) c&#39;est un instrument avec
+lequel le lunetier trace dans la châsse de la lunette,
+<pb n="7:877" facs="V7/ENC_7-877.jpeg" />
+<milestone unit="column" n="1" />
+la rainure où se place le verre, &amp; qui le retient.
+Il consiste en une plaque ronde, d&#39;un diametre un
+peu plus petit que le verre &amp; la châsse. Cette plaque 
+est tranchante &amp; dentelée. Il y a une platine appliquée 
+à cette plaque, &amp; qui la déborde : l&#39;un &amp;
+l&#39;autre sont montés sur un petit arbre qui les traverse,
+qui a ses poupées comme les arbres des tours à
+tourner en l&#39;air, &amp; qui porte au milieu une boîte
+ronde, comme il y en a aux forets. On monte la
+corde de l&#39;arçon sur cette boite ; on fait tourner l&#39;arbre 
+&amp; la plaque tranchante ; l&#39;ouvrier place sa châsse
+contre la platine qui le dirige ; il fait mordre la plaque 
+tranchante dans l&#39;épaisseur de la châsse, &amp; la rainure 
+se fait. Il faut observer que la platine peut être
+montée avec la plaque tranchante sur un même arbre,
+pourvû que ces deux parties laissent entre elles
+l&#39;intervalle convenable, ou qu&#39;elles peuvent être séparées,
+ensorte que la plaque tranchante soit seule fixée 
+sur l&#39;arbre, &amp; qu&#39;on en puisse approcher parallelement,
+&amp; fixer solidement &amp; à la distance convenable,
+la platine qui sert de directrice à l&#39;ouvrier,
+&amp; sans laquelle il ne seroit pas sûr de pratiquer sa
+rainure dans un plan bren vertical.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

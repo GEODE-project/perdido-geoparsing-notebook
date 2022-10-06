@@ -1,0 +1,146 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28167" id="50:40:17" vol="7">
+<index type="head" value="Francs-Archers" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Francs-Archers</head>
+<p>
+<sc>Francs-Archers</sc>, c&#39;est ainsi qu&#39;on appella une
+nouvelle milice d&#39;infanterie, établie en France par
+Charles VII. en 1448. Ce prince pour avoir toûjours 
+une troupe d&#39;infanterie sur pié, ordonna que
+chaque paroisse de son royaume lui fournît un des
+meilleurs hommes qu&#39;il y auroit pour aller en campagne,
+&amp; servir en qualité d&#39;<i>archer</i> avec l&#39;arc &amp; la
+fleche.
+<blockquote> 
+« Le privilége qu&#39;il accorda à ceux qui seroient 
+choisis, fit qu&#39;il y eut de l&#39;empressement
+pour l&#39;être, car il les affranchit presque de tous
+subsides ; &amp; c&#39;est de cet affranchissement qu&#39;on
+les appella <i>francs-archers</i> ou <i>francs-taupins</i>. Ce nom
+de <i>taupins</i> leur fut donné sans doute, parce qu&#39;on
+le donnoit alors aux paysans, à cause des taupinieres 
+dont les clos des gens de la campagne sont
+ordinairement remplis ».
+</blockquote>
+<i>Hist. de la milice franç</i>.
+</p>
+<p>
+Les <i>francs-archers</i> étoient distribues en quatre compagnies 
+de quatre mille hommes chacune ; ainsi ils
+composoient un corps de seize mille hommes prêts
+à servir au premier commandement. C&#39;est-là le premier 
+corps réglé de l&#39;infanterie françoise. Avant sa
+création l&#39;infanterie n&#39;étoit composée, ainsi que s&#39;exprime 
+Brantome dans le discours des colonels, <i>que
+de marauts, bellistres, mal-avinés, mal-complexionnés, fainéans, pilleurs &amp; mangeurs de peuples</i>, &amp;c.
+</p>
+<p>
+Les <i>francs-archers</i> ne subsisterent pas long-tems ;
+ils furent supprimés dans les dernieres années du regne 
+de Louis XI. Mais ce prince qui sentoit le besoin
+d&#39;entretenir toûjours un corps d&#39;infanterie sur pié,
+commença, pour suppléer aux <i>francs-archers</i>, par
+faire lever six mille Suisses ; il leur ajoûta ensuite un
+corps de dix mille hommes d&#39;infanterie françoise
+pour être à sa solde, &amp; pour cela il mit, dit le pere
+Daniel, un grand impôt sur le peuple.
+</p>
+<p>
+L&#39;établissement des <i>francs-archers</i> peut avoir servi
+de modele à celui des milices qu&#39;on leve également
+dans toutes les paroisses du royaume, à-peu-près
+de la même maniere qu&#39;on y choisissoit les <i>francs-archers. Voyez</i> <sc><ref target="head:Milice" type="search">Milice</ref></sc>. <i>Voyez aussi</i> sur ce sujet l&#39;<i>histoire
+de la milice françoise</i> du P. Daniel, dont cet article
+est tiré. (<i>Q</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

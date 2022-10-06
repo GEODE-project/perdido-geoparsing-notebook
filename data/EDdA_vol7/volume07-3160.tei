@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30614" id="55:193" vol="7">
+<index type="head" value="GUÉONIM, ou GÉHONIM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théolog." />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="NA" />
+<head>GUÉONIM, ou GÉHONIM</head>
+<p>
+GUÉONIM, <i>ou</i> GÉHONIM, (<i>Théolog.</i>) mot hébreu 
+qui signifie <i>excellent ;</i> c&#39;est le titre qu&#39;ont pris
+certains rabbins qui demeuroient dans le territoire
+de Babylone, comme M. Simon l&#39;a remarqué dans
+son supplément aux cérémonies des Juifs : il observe
+en même tems que les Arabes s&#39;étant rendus les maîtres 
+de ce pays là, &amp; ayant détruit les écoles des
+Juifs, les <i>Guéonims</i> se retirerent en Europe &amp; principalement 
+en Espagne ou R. Isaac Alfez qui vivoit
+sur la fin des tems où les <i>Guéonims</i> ont été en crédit,
+fit un excellent recueil des décisions de la gémare 
+qui est une glose du talmud, sans s&#39;arrêter aux
+questions &amp; aux disputes inutiles : Buxtorf, dans sa
+<i>bibliotheque des rabbins</i>, a parlé fort au long de cet
+ouvrage.
+</p>
+<p>
+Il y a grande apparence que ces <i>Guéonims</i> ou <i>Géhonims</i> sont les mêmes que ceux que d&#39;autres auteurs
+appellent <i>Gaons. Voyez</i> <sc><ref target="head:Gaons" type="search">Gaons</ref></sc>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

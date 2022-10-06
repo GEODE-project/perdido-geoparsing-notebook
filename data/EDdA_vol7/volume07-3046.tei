@@ -1,0 +1,215 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30500" id="55:102:2" vol="7">
+<index type="head" value="Grosse-Avanture" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Commerce de mer" />
+<index type="pos" value="s.f." />
+<head>Grosse-Avanture</head>
+<p>
+<sc>Grosse-Avanture</sc>, s. f. (<i>Jurisprud.</i>) qu&#39;on
+appelle aussi <i>contrat à la grosse</i>, ou <i>contrat à retour de
+voyage</i>, &amp; que les Jurisconsultes appellent <i>trajectitia</i>
+<pb n="7:957" facs="V7/ENC_7-957.jpeg" />
+<milestone unit="column" n="1" />
+<i>pecunia</i>, est un prêt que l&#39;on fait d&#39;une somme d&#39;argent 
+à gros intérêt, comme au denier quatre, cinq,
+six, ou autres qui excede le taux de l&#39;ordonnance,
+à quelqu&#39;un qui va trafiquer au-delà des mers, à
+condition que si le vaisseau vient à périr, la dette
+sera perdue.
+</p>
+<p>
+Ces contrats sont admis en France nonobstant le
+chapitre dernier aux décrétales <i>de usuris</i>, dont la décision 
+n&#39;a point été suivie par nos théologiens. Ils
+sont aussi autorisés par l&#39;ordonnance de la Marine,
+<i>liv. III. tit. v.</i> La raison qui fait qu&#39;on ne les regarde
+pas comme usuraires, est tant par rapport aux gains
+considérables, que peut faire celui qui emprunte
+pour le commerce maritime, qu&#39;à cause du risque
+que court le créancier de perdre son argent : c&#39;est
+d&#39;ailleurs une espece de société dans laquelle le
+créancier entre avec celui auquel il prête.
+</p>
+<p>
+Les contrats à <i>grosse avanture</i> peuvent être faits
+devant notaire ou sous seing-privé.
+</p>
+<p>
+L&#39;argent peut être prêté sur le corps &amp; quille du
+vaisseau, sur agrêts &amp; apparaux, armement &amp; victuailles,
+conjointement &amp; séparément, &amp; sur le
+tout ou partie de son chargement pour un voyage
+entier, ou pour un tems limité.
+</p>
+<p>
+Il n&#39;est pas permis d&#39;emprunter sur le navire ou
+sur le chargement au-delà de leur valeur, à peine
+d&#39;être contraint en cas de fraude au payement des
+sommes entieres, nonobstant la perte ou prise du
+vaisseau.
+</p>
+<p>
+Il est aussi défendu sous même peine, de prendre
+des deniers sur le fret à faire par le vaisseau &amp; sur le
+profit espéré des marchandises, même sur les loyers
+des matelots, si ce n&#39;est en présence &amp; du consentement 
+du maitre, &amp; au-dessous de la moitié du loyer.
+</p>
+<p>
+On ne peut pareillement donner de l&#39;argent à <i>la
+grosse</i>, aux matelots sur leurs loyers ou voyages, sinon 
+en présence &amp; du consentement du maitre, à peine 
+de confiscation du prêt &amp; de 50 liv. d&#39;amende.
+</p>
+<p>
+Les n&#39;aîtres sont responsables en leur nom du total
+des sommes prises de leur consentement par les matelots 
+si elles excedent la moitié de leurs loyers, &amp;
+ce nonobstant la perte ou prise du vaisseau.
+</p>
+<p>
+Le navire, ses agrêts &amp; apparaux, armement &amp;
+victuailles, même le fret, sont affectés par privilége
+au principal &amp; intérêt de l&#39;argent prêté sur le corps
+&amp; quille du vaisseau pour les nécessités un voyage,
+&amp; le chargement au payement des deniers pris pour
+le faire.
+</p>
+<p>
+Ceux qui prêteront à <i>la grosse</i> au maître dans le
+lieu de la demeure des propriétaires, sans leur consentement,
+n&#39;auront hypotheque ni privilége que sur
+la portion que le maître pourra avoir au vaisseau &amp;
+au fret, quoique les contrats fussent causés pour radoub 
+ou victuailles de bâtiment.
+</p>
+<p>
+Mais les parts &amp; portions des portions des propriétaires qui
+auroient refusé de contribuer pour mettre le bâtiment 
+en état, sont affectées aux deniers pris par les
+maîtres pour radoub &amp; victuailles.
+</p>
+<p>
+Les deniers laissés pour renouvellement ou continuation,
+n&#39;entrent point en concurrence avec ceux
+qui sont actuellement fournis pour le même voyage.
+</p>
+<p>
+Tous contrats à <i>la grosse</i> demeurent nuls par la
+perte entiere des effets sur lesquels on a prêté, pourvû 
+qu&#39;elle arrive par cas fortuit dans le tems &amp; dans
+les lieux des risques.
+</p>
+<p>
+Les prêteurs à <i>la grosse</i> contribuent à la décharge
+des preneurs aux <i>grosses</i> avaries, comme rachats,
+compositions, jets, mâts &amp; cordages coupés pour
+le salut commun du navire &amp; des marchandises, &amp;
+non aux simples avaries ou dommages particuliers
+qui leur pourroient arriver, s&#39;il n&#39;y a convention
+contraire.
+</p>
+<p>
+En cas de naufrage les contrats à <i>la grosse</i> sont réduits 
+à la valeur des effets sauvés.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Lorsqu&#39;il y a contrat à <i>la grosse</i>, &amp; assûrance sur
+un même chargement, le donneur à <i>la grosse</i> est préféré 
+aux assureurs sur les effets sauvés du naufrage
+pour son capital seulement.
+</p>
+<p>
+Il y a encore plusieurs regles pour ces contrats,
+que l&#39;on peut voir dans l&#39;ordonnance. <i>Voyez aussi la
+loi 4. ff. de nautico foenore</i>, &amp; <i>la loi 1. cod. codem</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

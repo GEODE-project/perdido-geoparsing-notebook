@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29160" id="52:8:1" vol="7">
+<index type="head" value="Garrot" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége. Maréchall." />
+<index type="normclass" value="Manège. Maréchallerie" />
+<index type="englishclass" value="Horsemanship. Farrier" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Garrot</head>
+<p>
+<sc>Garrot</sc>, (<i>Manége. Maréchall.</i>) partie du corps
+du cheval ; elle est supérieure aux épaules, postérieure 
+à l&#39;encolure, &amp; formée principalement par
+les apophyses épineuses des huit premieres vertebres
+dorsales.
+</p>
+<p>
+Le <i>garrot</i> est parfaitement conformé, lorsqu&#39;il est
+haut &amp; tranchant.
+</p>
+<p>
+Dans le premier cas, l&#39;encolure est beaucoup plus
+relevée, &amp; la selle a moins de facilité de couler en-avant,
+&amp; d&#39;incommoder les épaules.
+</p>
+<p>
+Dans le second, il n&#39;est point aussi sujet aux accidens 
+dont il est menacé, quand il est trop garni de
+chair ; car cette partie est dès-lors fort aisément soulée, <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+meurtrie, &amp; blessée, soit que des arçons trop
+larges ou trop ouverts occasionnent la descente de
+l&#39;arcade de la selle, soit que l&#39;animal éprouve la morsure 
+d&#39;un autre cheval, quelques corps, ou un frottement 
+violent contre des corps durs.
+</p>
+<p>
+Il est certain que les blessures du <i>garrot</i> peuvent
+avoir des suites très-funestes, sur tout lorsque le traitement 
+en est confié à des maréchaux incapables
+d&#39;en prévoir &amp; d&#39;en redouter le danger. Les apophyses 
+épineuses dont j&#39;ai parlé sont recouvertes par
+le ligament cervical ; ligament qui soûtient &amp; affermit 
+la tête des quadrupedes : il en est deux autres attaches 
+à ces mêmes apophyses, servant conjointement 
+avec les muscles, à suspendre les omoplates &amp;
+à leur donner un point d&#39;appui stable, fixe, &amp; détermine.
+Or s&#39;il y a plaie dans cette partie, ou que
+la tumeur survenue dégenere en plaie, dès qu&#39;elle
+sera considérable, il est evident qu&#39;à-moins qu&#39;on ne
+favorise l&#39;écoulement de la matiere, elle cavera dans
+le <i>garrot ;</i> elle y creusera des sinus &amp; des clapiers,
+qui ne pourront être alors que très-difficilement susceptibles 
+de contre-ouverture ; elle intéressera le ligament 
+cervical, les muscles, les apophyses ; elle détruira 
+les ligamens suspensoires ; &amp; l&#39;animal sera véritablement 
+égarroté. <i>Voyez</i> 
+<sc><ref target="head:Plaies" type="search">Plaies</ref>, <ref target="head:Tumeurs" type="search">Tumeurs</ref>, <ref target="head:Fistule" type="search">Fistule</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27727" id="49:21" vol="7">
+<index type="head" value="FORFAIT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. &amp; synon." />
+<index type="normclass" value="Grammaire | Synonymes" />
+<index type="englishclass" value="Grammar | Synonyms" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>FORFAIT</head>
+<p>
+* FORFAIT, s. m. (<i>Gramm. &amp; synon.</i>) On distingue 
+les mauvaises actions des hommes relativement 
+au degré de leur méchanceté. Ainsi <i>faute, crime,
+forfait</i>, désignent tous une mauvaise action:
+mais la <i>faute</i> est moins grave que le <i>crime ;</i> le <i>crime</i>, moins grave que le <i>forfait</i>. Le <i>crime</i> est la plus
+grande des <i>fautes ;</i> le <i>forfait</i>, le plus grand des
+<i>crimes</i>. La <i>faute</i> est de l&#39;homme ; le <i>crime</i>, du méchant ; 
+le <i>forfait</i>, du scélérat. Les lois n&#39;ont presque
+point décerné de peines contre les <i>fautes ;</i> elles en
+ont attaché à chaque <i>crime:</i> elles sont quelquefois
+dans le cas d&#39;en inventer, pour punir le <i>forfait</i>. La
+<i>faute</i>, le <i>crime</i>, le <i>forfait</i>, sont des péchés plus ou
+moins atroces. Dans une mauvaise action, il y a
+<milestone unit="column" n="2" />
+l&#39;offense faite à l&#39;homme, &amp; l&#39;offense commise envers 
+Dieu : la premiere se désigne par les mots de
+<i>faute, crime</i>, &amp; <i>forfait ;</i> la seconde, en général par le
+mot de <i>péché</i>. Le prêtre donne l&#39;absolution au pécheur ; 
+&amp; le juge fait pendre le coupable. La medisance 
+est une <i>faute ;</i> le vol &amp; la calomnie sont des <i>crimes ;</i> le meurtre est un <i>forfait</i>. Il y a des <i>fautes</i> plus
+ou moins graves ; des <i>crimes</i> plus ou moins grands ;
+des <i>forfaits</i> plus ou moins atroces. Si le méchant qui
+attenteroit à la vie de son pere commettroit un horrible 
+<i>forfait</i>, quel nom donnerons-nous à celui qui assassineroit 
+le pere du peuple? <i>Voyez</i> <sc><ref target="head:Crime" type="search">Crime</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

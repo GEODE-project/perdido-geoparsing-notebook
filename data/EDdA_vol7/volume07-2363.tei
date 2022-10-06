@@ -1,0 +1,281 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29817" id="53:242:11" vol="7">
+<index type="head" value="Gomme Gutte" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medec. Mat. méd. &amp; Chimie." />
+<index type="normclass" value="Médecine | Matière médicale | Chimie" />
+<index type="englishclass" value="Medicine | Materia medica | Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Gomme Gutte</head>
+<p>
+<sc>Gomme Gutte</sc>, (<i>Medec. Mat. méd.</i> &amp; <i>Chimie.</i>)
+Quoique l&#39;Histoire naturelle des drogues soit un
+vaste pays dont on tire plus de dépouilles par l&#39;amour 
+du gain, que par l&#39;envie de connoitre la nature,
+cependant il y a des philosophes qui ne sont
+epris que de cette derniere ambition. Nous pouvons 
+donner parmi nous cette loüange à MM. Boulduc &amp; Geoffroi, d&#39;avoir consacre leurs veilles à
+des recherches utiles sur les simples efficaces. Les
+mémoires de l&#39;academie royale des Sciences le prouvent.
+L&#39;annee 1701 de ce recueil nous offre, par
+exemple, une excellente dissertation de M. Boulduc, &amp; le traité de matiere médicale de M. Geoffroi
+contient un très-bon morceau sur la <i>gomme-gutte</i> en
+particulier. Profitons de leurs travaux, &amp; appliquons-nous toûjours à les étendre.
+</p>
+<p>
+La <i>gomme-gutte</i> étant approchée de la flamme,
+s&#39;allume, brûle, jette elle-même une-flamme brillante 
+comme les résines, &amp; repand beaucoup de fumée ; 
+elle se dissout dans l&#39;esprit-de-vin, mais non
+pas entierement, car la sixieme partie ou environ,
+reste sans se dissoudre, &amp; c&#39;est la partie gommeuse,
+laquelle se dissout promptement dans l&#39;eau chaude,
+ou dans l&#39;huile de tartre. La <i>gomme-gutte</i> paroit se
+dissoudre dans les menstrues aqueux, mais elle ne
+fait que se convertir comme la scammonée, en un
+lait blanchâtre ou jaunâtre, se precipite ensuite au
+fond du vaisseau, &amp; l&#39;eau demeure claire &amp; limpide.
+</p>
+<p>
+Il semble résulter de l&#39;analyse chimique, que la
+<i>gomme gutte</i> est un composé salin, résineux, &amp; gommeux,
+formé d&#39;abord d&#39;un soufre leger, lequel donne 
+l&#39;amertume &amp; l&#39;odeur au phlegme qui sort le premier ; 
+ensuite d&#39;un soufre grossier, qui ne s&#39;eleve &amp;
+ne se separe de la terre que par un feu violent ; &amp;
+finalement d&#39;un sel tartareux, un peu ammomacal,
+qui par le moyen de la distillation se résout partie en
+acide, &amp; partie en sel nitreux.
+<pb n="7:738" facs="V7/ENC_7-738.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+La dissolution entiere de la <i>gomme-gutte</i> acquiert
+la couleur du sang, en y versant de l&#39;huile de tartre
+par défaillance, ou de l&#39;eau de chaux, peut-être parce 
+que les parties sulphureuses se développent, comme 
+il arrive dans la dissolution du soufre minéral,
+par une forte lessive alkaline.
+</p>
+<p>
+C&#39;est d&#39;après les principes chimiques de la <i>gomme-gutte</i>, qu&#39;on soupçonne que sa vertu cathartique dépend 
+d&#39;une substance sulphureuse, ténue &amp; mêlée
+avec une certaine portion de sel volatil, ensorte que
+ses particules salines, sulphureuses, développées par
+le suc gastrique, irritent violemment les membranes
+de l&#39;estomac &amp; des intestins, &amp; excitent les nausées,
+les vomissemens, &amp; la purgation ; mais on ne doit
+donner ces sortes d&#39;explications que pour des hypothèses,
+&amp; non pour des vérités.
+</p>
+<p>
+M. Boulduc n&#39;a pu réussir à obtenir des fleurs de
+la <i>gomme-gutte</i>, ainsi qu&#39;on en obtient du benjoin ; la
+résine de cette <i>gomme</i> tirée à l&#39;esprit-de-vin, purge
+avec beaucoup plus de force &amp; d&#39;irritation, que la
+<i>gomme</i> même.
+</p>
+<p>
+Cette <i>gomme</i> dans les expériences que ce chimiste
+a faites, s&#39;est dissoute dans une égale quantité d&#39;eau
+bouillante, à l&#39;exception d&#39;un petit nombre de particules 
+terrestres ; cette liqueur étant filtrée, a donné 
+après son évaporation à petit feu, une espece de
+sel grisâtre qui coule aisément lorsqu&#39;on n&#39;a pas soin
+de bien boucher le vaisseau dans lequel on l&#39;enferme.
+Cet extrait salin purge avec moins d&#39;activité &amp;
+en moindre dose que la <i>gomme ;</i> mais comme il ulcere
+la gorge, il faut quand on l&#39;employe, l&#39;envelopper
+dans quelque substance onctueuse &amp; adoucissante.
+</p>
+<p>
+Nous avons déjà remarqué que la <i>gomme-gutte</i> ne
+se dissout point dans l&#39;eau, qu&#39;elle se précipite aufond 
+du vase en substance laiteuse de couleur jaunâtre,
+&amp; laisse l&#39;eau aussi nette qu&#39;auparavant ; nous
+ajoûtons ici que ce résidu ne differe en rien de la
+<i>gomme</i>, mais qu&#39;il est plus pur. Le vinaigre distillé
+éclaircit cette substance laiteuse ; l&#39;huile de vitriol
+la trouble, &amp; l&#39;esprit-de-vin la rend de couleur d&#39;or.
+</p>
+<p>
+Puisque la <i>gomme-gutte</i> est un des plus puissans cathartiques 
+du regne végétal, &amp; par consequent un des
+plus propres à produire de grands effets, il importe
+de savoir à qui, comment, à quelle dose, &amp; avec
+quelle précaution ou correctif on peut la prescrire.
+</p>
+<p>
+Elle ne convient point aux tempéramens délicats
+dont les nerfs sont attaqués, ni aux personnes qui
+ont une grande difficulté à vomir. Lorsque la maladie 
+l&#39;exige dans certains cas, il est bon de la donner
+sous la forme de bol ou de pilules, parce qu&#39;il n&#39;y
+a point de menstrue capable d&#39;en extraire toutes les
+qualités : on ne peut la bien pulvériser, sans y ajoûter 
+quelque peu de sel lixiviel, tel que celui de tartre 
+ou du sucre, qui d&#39;ailleurs ont l&#39;avantage de diviser 
+ses parties résineuses, &amp; de les empécher de
+s&#39;attacher trop fortement aux membranes de l&#39;estomac 
+&amp; des intestins.
+</p>
+<p>
+Cette <i>gomme</i> évacue sur-tout &amp; promptement,
+les humeurs séreuses &amp; bilieuses, ténues, tant par
+haut que par bas. Les medecins éclairés qui savent
+administrer ce remede avec prudence, y trouvent
+les avantages suivans, qu&#39;il est sans goût &amp; sans
+odeur, qu&#39;on le donne en petite dose, qu&#39;il sait son
+effet en peu de tems, qu&#39;il dissout puissamment les
+sucs visqueux &amp; tenaces en quelque partie du corps
+qu&#39;ils se trouvent, &amp; enfin qu&#39;il chasse par le vomissement 
+ceux qui sont dans l&#39;estomac, &amp; les autres 
+en abondance par les selles. Ces mêmes medecins 
+assûrent avoir employé ce remede avec un grand
+succès dans l&#39;apoplexie séreuse, l&#39;hydropisie, l&#39;asthme
+humide, &amp; d&#39;autres graves maladies catarrheuses.
+</p>
+<p>
+Ils prescrivent la <i>gomme-gutte</i> depuis deux grains
+jusqu&#39;à quatre, &amp; ils ont observé que ce remede
+donné à cette dose, excitoit peu ou point de vomissement ; <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; que lorsqu&#39;il en causoit, cet effet cessoit 
+d&#39;ordinaire à la seconde ou troisieme prise.
+</p>
+<p>
+Ce remede depuis quatre grains jusqu&#39;à sept, développé 
+dans beaucoup de liqueur, purge par haut
+&amp; par bas, mais communément sans violence. Si
+on le donne à cette dose sous la forme de bol ou de
+pilules, il fait d&#39;abord vomir ; mais le vomissement
+est très-leger, ou n&#39;arrive point du tout, si on joint
+la <i>gomme</i> avec du mercure doux.
+</p>
+<p>
+Cependant quand on a considéré que la <i>gomme-gutte</i> etoit du nombre de ces violens cathartiques,
+qui causent le bouleversement de l&#39;estomac &amp; la superpurgation,
+on s&#39;est attaché à lui chercher des correctifs,
+pour modérer son activité: on a proposé à ce
+sujet les substances incrassantes, les sels lixiviels,
+tels que celui de tartre, le sucre, le mercure doux,
+&amp; quelques autres moyens.
+</p>
+<p>
+M. Boulduc a imaginé pour y parvenir, une expérience 
+assez singuliere ; il a enfermé la <i>gomme-gutte</i> dans un sachet, a mis ce sachet dans un pain
+tout chaud, &amp; l&#39;y a laissé pendant vingt-quatre heures ; 
+ensuite il a pulvérisé sa <i>gomme</i>, l&#39;a remise dans
+un autre sachet, &amp; a repété son procédé quatre ou
+cinq sois consecutivement. Il nous assûre que cette
+préparation a détruit la violence irritante de la <i>gomme-gutte</i>, sans diminuer ses vertus. Il ajoûte qué la
+croute du pain où il avoit enfermé cette <i>gomme</i>,
+possédoit une qualité purgative &amp; émétique.
+</p>
+<p>
+Tout cela se peut ; mais outre qu&#39;une telle épreuve est très-fautive, la <i>gomme-gutte</i> de M. Boulduc
+n&#39;en étoit pas moins émétique ; &amp; en effet tous les
+correctifs du monde ne sauroient détruire l&#39;éméticité 
+de ce remede : d&#39;ailleurs, il n&#39;est pas besoin de
+recourir à des correctifs, pourvû qu&#39;on donne la
+<i>gomme</i> à une petite dose, avec un adjoint convenable,
+ou en la délayant suffisamment. D&#39;autres chimistes 
+préparent une resine &amp; un magistere avec ce
+suc ; mais de telles préparations sont inutiles &amp; sont
+même plus de mal que de bien, car les résines des
+purgatifs purgent généralement moins, &amp; allument
+un plus grand feu dans les visceres.
+</p>
+<p>
+Je finis par une observation sur la <i>gomme-gutte</i>,
+c&#39;est que tandis qu&#39;elle purge violemment, le fruit
+de l&#39;arbre qui la produit est très-sain, se mange avec
+délices comme nos oranges ; &amp; quand il est sec, il
+sert de remede efficace pour arrêter les flux de ventre 
+séreux &amp; bilieux. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

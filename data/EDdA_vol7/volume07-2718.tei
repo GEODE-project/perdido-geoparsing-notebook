@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30172" id="54:79:1" vol="7">
+<index type="head" value="Gratification" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. du gouvern. d&#39;Anglet." />
+<index type="normclass" value="Histoire du governement d&#39;Angleterre" />
+<index type="englishclass" value="History of the government of England" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="NA" />
+<head>Gratification</head>
+<p>
+<sc>Gratification</sc>, (<i>Hist. du gouvern. d&#39;Anglet.</i>)
+la <i>gratification</i> est une récompense que le parlement
+accorde sur l&#39;exportation de quelques articles de
+Commerce, pour mettre les négocians en état de
+soûtenir la concurrence avec les autres nations dans
+les marchés étrangers. Le remede est très-sage, &amp;
+ne sauroit s&#39;étendre à trop de branches de négoce,
+à mesure que l&#39;industrie des autres peuples &amp; le succès 
+de leurs manufactures y peuvent donner lieu.
+</p>
+<p>
+La <i>gratification</i> instituée en particulier en 1689,
+pour l&#39;exportation des grains sur les vaisseaux anglois,
+afin d&#39;encourager la culture des terres, a presque 
+changé la face de la Grande-Bretagne : les communes 
+ou incultes ou mal cultivées, des pâturages
+arides ou deserts, sont devenus, au moyen des haies
+dont on les a fermés &amp; séparés, des champs fertiles,
+ou des prairies très riches.
+</p>
+<p>
+Les cinq schelings de <i>gratification</i> par quartier de
+grain, c&#39;est-à-dire environ vingt-quatre boisseaux de
+Paris, s&#39;employent par le laboureur au défrichement
+&amp; à l&#39;amélioration de ses champs, qui étant ainsi
+portés en valeur, ont doublé de revenu. L&#39;effet de
+cette <i>gratification</i> est de mettre le royaume en état
+de vendre son blé dans les marchés étrangers, au
+même prix que la Pologne, le Dannemark, Hambourg, l&#39;Afrique, la Sicile, <i>&amp;c.</i> c&#39;est en d&#39;autres termes,
+donner au laboureur une <i>gratification</i> de 200
+mille liv. sterling par an, pour que l&#39;Angleterre gagne 
+1500 mille liv. sterling, qu&#39;elle n&#39;auroit pas sans
+ce secours. Généralement parlant, la voie de la <i>gratification</i> est la seule qui puisse être employée en Angleterre, pour lui conserver la concurrence de tous
+les commerces avec l&#39;étranger. C&#39;est une belle chose
+dans un état, que de l&#39;enrichir en faisant prospérer
+les mains qui y travaillent davantage. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

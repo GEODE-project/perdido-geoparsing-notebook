@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28522" id="50:216" vol="7">
+<index type="head" value="FULMINATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Villiers" />
+<index type="shortauth" value="Villiers" />
+<index type="kafnum" value="133" />
+<index type="kafauth" value="Villiers, Jacques-François de (1727-1790)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie." />
+<index type="normclass" value="Chimie" />
+<index type="englishclass" value="Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.f." />
+<head>FULMINATION</head>
+<p>
+FULMINATION, s. f. (<i>Chimie.</i>) c&#39;est l&#39;action d&#39;un
+corps qui en conséquence de la chaleur qu&#39;on lui applique,
+s&#39;écarte rapidement &amp; avec fracas, &amp; qui est
+capable de l&#39;imprimer à ceux qu&#39;il rencontre ; ce,
+qu&#39;on appelle <i>explosion:</i> telle est l&#39;action de l&#39;or fulminant,
+de la poudre fulminante, de la poudre à canon,
+<i>&amp;c.</i> La <i>fulmination</i> ne differe donc de la détonation 
+qu&#39;en degré de force ; c&#39;est une détonation
+portée à l&#39;excès, soit par la nature du corps même
+qui détonne, soit par sa quantité ou par les obstacles
+qu&#39;il rencontre ; toutes causes capables de changer
+l&#39;une en l&#39;autre. Ainsi le mélange qui fait les flux
+noir &amp; blanc, détonne simplement ; de même que
+celui qui constitue la poudre à canon, pourvû toutefois 
+que cette poudre soit en petite quantité &amp; à
+l&#39;air libre. Mais la poudre fulminante &amp; l&#39;or fulminant 
+ne détonnent pas simplement ; en sorte que c&#39;est
+à juste titre qu&#39;on les a qualifiés de la sorte. Lefevre
+a confondu mal-à-propos la <i>fulmination</i> avec la fulguration,
+outre qu&#39;il en donne une définition fausse
+dans tous ses points. <i>Voyez</i> 
+<sc><ref target="head:Or fulminant" type="search">Or fulminant</ref>, <ref target="head:Poudre fulminante" type="search">Poudre fulminante</ref>, <ref target="head:Poudre à Canon" type="search">Poudre à Canon</ref>, <ref target="head:Détonation" type="search">Détonation</ref>, <ref target="head:Vapeurs" type="search">Vapeurs</ref>, <ref target="head:Expansion" type="search">Expansion</ref></sc>
+. <i>Article de M. <sc>de
+Villiers</sc>.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

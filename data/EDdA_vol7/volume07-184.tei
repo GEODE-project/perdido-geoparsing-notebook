@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27638" id="48:78:1" vol="7">
+<index type="head" value="Fonte" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Fonderie en caracteres." />
+<index type="normclass" value="Fonderie en caracteres" />
+<index type="englishclass" value="Type foundry" />
+<index type="generatedclass" value="Fonderie en caracteres d&#39;Imprimerie" />
+<index type="pos" value="NA" />
+<head>Fonte</head>
+<p>
+<sc>Fonte</sc>, (<i>Fonderie en caracteres.</i>) On entend par ce
+mot, un assortiment complet de toutes les lettres majuscules,
+minuscules, accentuées, points, chiffres, <i>&amp;c.</i>
+nécessaires à imprimer un discours, &amp; fondues sur un
+senl corps. <i>Voyez</i> <sc><ref target="head:Corps" type="search">Corps</ref></sc>.
+</p>
+<p>
+On dit, une <i>fonte</i> de cicéro, de petit-romain, lorsque 
+ces <i>fontes</i> sont fondues sur le corps de cicéro ou
+petit-romain ; &amp; ainsi des autres corps de l&#39;Imprimerie.
+</p>
+<p>
+Les <i>fontes</i> sont plus ou moins grandes suivant le besoin 
+ou le moyen de l&#39;imprimeur, qui demande par
+cent pesant ou par feuilles ; ce qui revient au même.
+On dit une <i>fonte</i> de cinq cents, de six cents plus
+ou moins ; c&#39;est-à-dire qu&#39;on veut que cette <i>fonte</i> bien
+assortie de toutes ses lettres, pese cinq cents ou six
+cents livres, <i>&amp;c.</i>
+</p>
+<p>
+On dit aussi, une <i>fonte</i> de tant de feuilles, ou de
+tant de formes, pour faire entendre que l&#39;on veut
+qu&#39;avec cette <i>fonte</i> on puisse composer de suite tant
+de feuilles ou tant de formes, sans être obligé de distribuer.
+En conséquence, le fondeur prend ses mesures,
+&amp; compte pour la feuille cent vingt livres pesant 
+de caracteres, y compris les cadrats &amp; espaces ;
+&amp; soixante livres pour la forme, qui n&#39;est que la moitié 
+de la feuille. Ce n&#39;est pas que la feuille pese toûjours 
+cent vingt livres, ni la forme soixante, étant
+plus grandes ou plus petites : mais comme il n&#39;entre
+pas dans toutes les feuilles le même nombre ni les
+mêmes sortes de lettres, il faut qu&#39;il en reste toûjours
+dans la casse pour suppléer au besoin <i>Voyez</i> <sc><ref target="head:Casse" type="search">Casse</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

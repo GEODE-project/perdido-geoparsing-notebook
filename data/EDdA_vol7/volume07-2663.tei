@@ -1,0 +1,668 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30117" id="54:52:3" vol="7">
+<index type="head" value="Grands-Audienciers de France" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Grands-Audienciers de France</head>
+<p>
+<sc>Grands-Audienciers de France</sc>, (<i>Jurispr.</i>)
+sont les premiers officiers de la grande chancellerie
+de France, dont ils reçoivent en leur hôtel toutes
+les lettres qu&#39;ils doivent rapporter au sceau. Ils rapportent 
+les premiers au sceau, avant messieurs les
+maîtres des requêtes &amp; messieurs les deux grands-rapporteurs 
+&amp; autres, qui ont droit d&#39;y rapporter
+certaines lettres.
+</p>
+<p>
+Ils commencent par la liasse de messieurs les secrétaires 
+d&#39;état, &amp; rapportent en certains cas des
+édits &amp; déclarations du roi, dont après qu&#39;ils sont
+scellés, ils font la lecture publique &amp; les enregistrent
+sur le registre de l&#39;audience de France, &amp; en signent
+aussi l&#39;enregistrement sur les originaux qui ne sont
+<milestone unit="column" n="2" />
+ni présentés ni registrés au parlement, ni dans aucune 
+autre cour supérieure.
+</p>
+<p>
+Après la liasse du roi ils rapportent au sceau celle
+du public, composée de toutes especes de lettres, à
+l&#39;exception des lettres de justice, des provisions d&#39;office,
+des lettres de ratification, &amp; des lettres de rémission 
+&amp; pardon, qui sont rapportées par d&#39;autres
+officiers. Ils enregistrent sur différens registres pour
+chaque matiere, les provisions scellées des grands
+officiers &amp; des secrétaires du roi de la grande chancellerie,
+qui viennent s&#39;immatriculer chez le <i>grand-audiencier</i> de quartier, à la suite de leurs provisions
+registrées. Celles des autres secrétaires du roi des
+chancelleries près les cours supérieures du royaume,
+sont aussi enregistrées sur un autre registre, &amp; ces
+dernieres provisions ne sont scellées qu&#39;après que
+l&#39;information des vie &amp; moeurs du récipiendaire a,
+été faite par le <i>grand-audiencier</i> assisté de son contrôleur,
+dont mention est faite sur le repli des provisions,
+à la suite du renvoi qui leur en est fait par M.
+le garde des sceaux, lequel écrit de sa main le <i>soit
+montré</i>.
+</p>
+<p>
+Les <i>grands-audienciers</i> enregistrent encore sur des
+registres différens les octrois accordés par le roi, les
+prébendes de nomination royale, les indults, les
+priviléges &amp; permissions d&#39;imprimer. A chacun des
+articles M. le garde des sceaux écrit sur le registre,
+<i>scellé</i>.
+</p>
+<p>
+Ils président au contrôle, où leur fonction est de
+taxer toutes les lettres qui ont été scellées. Les taxes
+apposées sur chaque lettre, &amp; paraphées du <i>grand-audiencier de France</i> &amp; de son contrôleur, font le
+caractere &amp; la preuve des lettres scellées ; puisque
+pour l&#39;ordinaire &amp; par un abus très-repréhensible,
+on ôte la cire sur laquelle sont empreints les sceaux
+de France &amp; du dauphin.
+</p>
+<p>
+Le nom d&#39;<i>audienciers</i> qu&#39;on leur a donné vient,
+suivant les formules de Marculphe, de ce que le
+parchemin qui sert à faire les lettres de chancellerie,
+s&#39;appelloit autrefois <i>carta audientialis:</i> d&#39;autres disent 
+que c&#39;est parce que l&#39;<i>audiencier</i> demande l&#39;audience 
+à celui qui tient le sceau, pour lui présenter
+les lettres : d&#39;autres prétendent que ce nom d&#39;<i>audiencier</i> vient de ce que ce sont eux qui présentent
+les lettres au sceau, dont la tenue est réputée une
+audience publique : d&#39;autres enfin, &amp; c&#39;est l&#39;opinion
+qui paroît la mieux fondée, tiennent que l&#39;<i>audiencier</i>
+est ainsi nommé, parce que la salle où se tient le
+sceau est réputée la chambre du roi, &amp; que le sceau
+qui s&#39;y tient s&#39;appelle l&#39;<i>audience de France:</i> c&#39;est le
+terme des ordonnances. Dans cette audience, le
+<i>grand-audiencier</i> délivroit autrefois les lettres, nommant 
+tout haut ceux au nom desquels elles étoient
+expédiées ; c&#39;est pourquoi on l&#39;appelloit en latin <i>judiciarius praeco</i>.
+</p>
+<p>
+On leur donne encore en latin les noms, <i>in judiciali 
+cancelleriae Francioe praetorio supremo diplomatum
+ac rescriptorum relatores, amanuensium decuriones,
+scribarum magistri:</i> ces derniers titres annoncent
+qu&#39;ils ont toûjours été au-dessus des clercs-notaires
+&amp; secrétaires du roi.
+</p>
+<p>
+Ils ont aussi le titre de <i>conseillers du roi en ses conseils</i>, &amp; sont secrétaires du roi nés en la grande chancellerie ; 
+ils en peuvent prendre le titre, &amp; en faire
+toutes les fonctions, &amp; en ont tous les priviléges
+sans être obligés d&#39;avoir un office de secrétaire du
+roi, étant tous réputés du collége des secrétaires du
+roi : ils peuvent cependant aussi posséder en même
+tems un office de secrétaire du roi.
+</p>
+<p>
+Leur office est de la couronne du roi ; c&#39;est pourquoi 
+ils payent leur capitation à la cour, à celui qui
+reçoit celle de la famille royale, des princes &amp; princesses 
+du sang, &amp; des grands officiers de la couronne.
+</p>
+<p>
+<pb n="7:851" facs="V7/ENC_7-851.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Il n&#39;y avoit anciennement qu&#39;un seul <i>audiencier</i>
+en la chancellerie de France. Les plus anciens titres
+où il en soit fait mention, sont deux états de la maison 
+du roi Philippe-le-Long, l&#39;un du 2 Décembre
+1316, l&#39;autre du 18 Novembre 1317, où il est dit,
+que le chancelier doit héberger avec lui son chauffe-cire 
+&amp; celui qui rend les lettres ; celui-ci quoique
+bien supérieur à l&#39;autre, puisqu&#39;il est le premier officier 
+de la grande chancellerie, n&#39;est nommé que le
+dernier, soit par inattention du redacteur, soit parce
+qu&#39;on les a nommés suivant l&#39;ordre des opérations,
+&amp; que l&#39;on chauffe la cire pour sceller avant que l&#39;on
+rende les lettres.
+</p>
+<p>
+Celui qui faisoit alors la fonction d&#39;<i>audiencier</i> étoit
+seul ; il rapportoit les lettres, les rendoit après les
+avoir taxées, &amp; faisoit les fonctions de thrésorier &amp;
+de scelleur.
+</p>
+<p>
+On l&#39;a de puis appellé <i>audiencier du roi</i>, ou <i>audiencier de France</i>, &amp; ensuite <i>grand-audiencier de France</i>.
+</p>
+<p>
+On le nommoit encore en 1321 comme en 1316,
+suivant un réglement de Philippe-le-Long, du mois
+de Février 1321, portant qu&#39;il établira une certaine
+personne avec celui qui rend les lettres, pour recevoir 
+l&#39;émolument du sceau.
+</p>
+<p>
+Ce même réglement ne vouloit pas que celui qui
+rendoit les lettres fût notaire, &amp; cela, est-il dit,
+pour ôter toute suspicion ; ce qui a été bien changé
+depuis, puisque les <i>audienciers</i> sont en cette qualité
+secrétaires du roi, qu&#39;ils en peuvent prendre le titre
+&amp; en faire toutes les fonctions.
+</p>
+<p>
+L&#39;<i>audiencier</i> a été surnommé <i>grand-audiencier</i>, soit
+à cause de l&#39;importance de son office &amp; parce qu&#39;il
+sait ses fonctions en la grande chancellerie de France, soit pour le distinguer des <i>audienciers</i> particuliers
+qu&#39;il commettoit autrefois dans les autres chancelleries,
+&amp; qui ont depuis été érigés en titre d&#39;office.
+</p>
+<p>
+Le <i>sciendum</i> ou instruction faite pour le service
+de la chancellerie, que quelques-uns croyent de
+1339. d&#39;autres de 1394, d&#39;autres seulement de 1415,
+est l&#39;acte le plus ancien qui donne le titre d&#39;<i>audiencier</i> à celui qui exerce cette fonction.
+</p>
+<p>
+Il y est dit, entre autres choses, que chaque notaire 
+du roi (c&#39;est-à-dire secrétaire) aura soin d&#39;envoyer 
+chaque mois qu&#39;il aura exercé son office à Paris ou ailleurs, en suivant la cour, à l&#39;<i>audiencier</i> ou
+au contrôleur de l&#39;audience du roi, sa cédule, le premier,
+le second, ou au plûtard le troisieme ou le
+quatrieme jour du mois, conçûe en ces termes:
+<i>Monsieur l&#39;audiencier du roi, je tel ai été à Paris, ou
+en la cour du roi pendant un tel mois faisant ma charge,
+ayant escrit, &amp;c.</i> Que si dans la distribution des
+bourses le secrétaire du roi trouve de l&#39;erreur à son
+préjudice, il peut recourir à l&#39;<i>audiencier</i> &amp; lui dire:
+<i>Monsieur, je vous prie de voir si au rôle secret de la distribution 
+des bourses ii ne s&#39;est pas trouvé de faute sur
+moi, car je n&#39;ai en ma bourse que tant ;</i> &amp; alors l&#39;<i>audiencier</i> verra, est-il dit, le rôle secret ; &amp; s&#39;il y a
+erreur, il suppléera le défaut. La naïveté de ces formules 
+font connoître la simplicité de ces tems, &amp;
+peut faire croire que le <i>sciendum</i> est plûtôt de 1339
+que de 1415.
+</p>
+<p>
+Ce même <i>sciendum</i> porte que des lettres en simple
+queue pour chasseurs, <i>venatoribus</i>, &amp; autres semblables,
+on n&#39;a pas coûtume de rien recevoir, mais qu&#39;ils 
+chassent pour l&#39;<i>audiencier</i> &amp; le contrôleur ; ce qui
+est néanmoins de grace. Ces derniers termes sont
+équivoques ; car on ne sait si c&#39;est la remise des droits
+qui étoit de grace, ou si c&#39;étoit le gibier que donnoient 
+les chasseurs.
+</p>
+<p>
+Par le terme de <i>chasseurs</i> on pourroit peut-être entendre 
+le grand-véneur &amp; autres officiers de la vénerie 
+du roi, le grand-fauconnier, <i>&amp;c.</i> En effet on
+voit que les principaux officiers du roi étoient
+exempts des droits du sceau, tels que le chancelier,
+<milestone unit="column" n="2" />
+les chambellans, le grand-bouteiller, &amp; autres semblables : mais il y a plus d&#39;apparence que par le terme 
+de <i>chasseurs</i> on a entendu en cet endroit de simples 
+chasseurs sans aucune dignité; le droit de l&#39;<i>audiencier</i> n&#39;en étoit que plus étendu, vû qu&#39;alors la
+chasse étoit après la guerre la principale occupation
+de toute la noblesse : &amp; à ce compte la maison de
+l&#39;<i>audiencier</i> devoit être bien fournie de gibier ; mais
+il faut aussi convenir que si l&#39;on chassoit beaucoup,
+alors on prenoit peu de lettres en chancellerie.
+</p>
+<p>
+Pour ce qui est des personnes que le <i>sciendum</i> comprend 
+sous ces mots <i>&amp; autres semblables</i>, il y a apparence 
+que c&#39;étoient aussi des personnes peu opulentes 
+qui vivoient de leur industrie, &amp; que par cette
+raison le <i>grand-audiencier</i> ne prenoit point d&#39;argent
+d&#39;eux ; de même que c&#39;étoit alors la coûtume qu&#39;un
+menétrier passoit à un péage sans rien payer, pourvû 
+qu&#39;il joüât de son instrument devant le péager,
+ou qu&#39;il fît joüer son singe s&#39;il en avoit un : d&#39;où est
+venu le proverbe, <i>payer en monnoie de singe</i>. On ne
+voit point comment l&#39;ancien usage a changé par
+rapport à l&#39;<i>audiencier</i>, à-moins que ce ne soit par les
+défenses qui lui ont été faites dans la suite de recevoir 
+autre chose que la taxe.
+</p>
+<p>
+L&#39;<i>audiencier</i> du roi, appellé depuis <i>grand-audiencier</i>, étoit autrefois seul pour la grande chancellerie
+de France, de même que le contrôleur général de
+l&#39;audience de France, dont la fonction est de contrôler 
+toutes les lettres que délivre l&#39;<i>audiencier</i>.
+</p>
+<p>
+A-mesure que l&#39;on établit des chancelleries près
+les cours, l&#39;<i>audiencier</i> &amp; le contrôleur y établissoient
+de leur part des commis &amp; subdélégués, pour y faire
+en leur nom les mêmes fonctions qu&#39;ils faisoient en
+la grande chancellerie, &amp; ces <i>audienciers</i> &amp; contrôleurs 
+particuliers commis, étoient subordonnés au
+<i>grand-audiencier</i> &amp; au contrôleur général, auxquels
+ils rendoient compte de leur mission. Ce fut sans doute 
+pour distinguer l&#39;<i>audiencier</i> de la grande chancellerie 
+de tous ces <i>audienciers</i> particuliers par lui commis,
+qu&#39;on le surnomma <i>grand-audiencier de France</i>.
+</p>
+<p>
+Dans un réglement du roi Jean, du 7 Décembre
+1361, il est fait mention de l&#39;<i>audiencier</i> de Normandie qui étoit apparemment un de ces <i>audienciers</i> commis 
+par celui de la grande chancellerie, lequel y est
+qualifié d&#39;<i>audiencier du roi</i>.
+</p>
+<p>
+Suivant les statuts des secrétaires du roi, confirmés 
+par lettres de Charles V. du 24 Mai 1389, quand
+le roi étoit hors de Paris pour quelque voyage, on
+commettoit un <i>audiencier</i> forain pour recevoir les
+émolumens des collations, lequel à son retour devoit 
+remettre ces émolumens aux secrétaires du roi
+commis pour cette recette en vérifiant la sienne sur
+son journal de l&#39;audience.
+</p>
+<p>
+Il y avoit aussi un <i>audiencier</i> &amp; un contrôleur particuliers 
+pour la chancellerie de Bretagne, laquelle
+ayant formé autrefois une chancellerie particuliere
+indépendante de celle de France, avoit toûjours conservé 
+un <i>audiencier</i> &amp; un contrôleur en titre, même
+depuis l&#39;édit du mois de Mai 1494, par lequel Charles VIII. abolit le nom &amp; l&#39;office de chancelier de
+Bretagne.
+</p>
+<p>
+A l&#39;égard des autres chancelleries particulieres établies près les cours, dans lesquelles le <i>grand-audiencier</i> &amp; le contrôleur général de l&#39;audience avoient
+des commis ou subdélégués ; ces fonctions ayant paru 
+trop importantes pour les confier à des personnes 
+sans caractere, Henri II. par un édit du mois de
+Janvier 1551, créa en chef &amp; titre d&#39;office formé six
+offices d&#39;<i>audiencier</i> &amp; six offices de contrôleur, tant
+pour la grande chancellerie que pour celles établies
+près les parlemens de Paris, Toulouse, Dijon, Bordeaux &amp; Roüen ; il supprima les noms &amp; qualités de
+<i>grand-audiencier de France</i> &amp; de <i>contrôleur général de
+l&#39;audience</i>, &amp; ordonna qu&#39;ils s&#39;appelleroient dorénavnt,<gap type="hyphenpb" />
+<pb n="7:852" facs="V7/ENC_7-852.jpeg" />
+<milestone unit="column" n="1" />
+savoir en la grande chacenllerie, <i>conseiller
+du roi &amp; audiencier de France</i>, &amp; <i>contrôleur de l&#39;audience 
+de France ;</i> &amp; que dans les autres chancelleries
+l&#39;<i>audiencier</i> s&#39;appelleroit <i>conseiller du roi audiencier de
+la chancellerie</i> du lieu où il seroit établi, &amp; que le
+contrôleur s&#39;appelleroit <i>contrôleur de ladite chancellerie</i>.
+</p>
+<p>
+Par le même édit, ces nouveaux officiers furent
+créés clercs-notaires &amp; secrétaires du roi, pour signer 
+&amp; expédier toutes lettres qui s&#39;expédieroient
+en la chancellerie en laquelle chacun seroit établi,
+&amp; non ailleurs ; de maniere qu&#39;ils n&#39;auroient pas besoin 
+de tenir un autre office de secrétaire du roi &amp;
+de la maison &amp; couronne de France ; mais si quelqu&#39;un d&#39;eux s&#39;en trouve pourvû, l&#39;édit déclare ces
+deux charges compatibles, &amp; veut qu&#39;en ce cas il
+prenne une bourse à part à cause de l&#39;office de secrétaire 
+du roi.
+</p>
+<p>
+On ne voit point par quel réglement le titre de
+<i>grand-audiencier</i> a été rendu à l&#39;<i>audiencier</i> de la
+grande chancellerie ; l&#39;édit du mois de Février 1561
+paroît être le premier où cette qualité lui ait été
+donnée depuis la suppression qui en avoit été faite
+dix ans auparavant ; les édits &amp; déclarations postérieurs 
+lui donnent aussi la plûpart la même qualité,
+&amp; elle a été communiquée aux trois autres <i>audienciers</i> qui ont été créés pour la grande chancellerie.
+</p>
+<p>
+L&#39;édit du mois d&#39;Octobre 1571 créa pour la grande 
+chancellerie deux offices, l&#39;un d&#39;<i>audiencier</i>, l&#39;autre 
+de contrôleur, pour exercer de six mois en six
+mois avec les anciens, &amp; avec les mêmes droits
+qu&#39;eux.
+</p>
+<p>
+Au mois de Juillet 1576, Henri III. créa encore
+pour la grande chancellerie deux <i>audienciers</i> &amp; deux
+contrôleurs, outre les deux qui y étoient déjà, pour
+exercer chacun par quartier, &amp; les nouveaux avec
+les mêmes droits que les anciens.
+</p>
+<p>
+On a aussi depuis multiplié le nombre des <i>audienciers</i> dans les petites chancelleries, mais ceux de la
+grande sont les seuls qui prennent le titre de <i>grands
+audienciers de France</i>.
+</p>
+<p>
+Ils prêtent serment entre les mains de M. le garde
+des sceaux.
+</p>
+<p>
+Le <i>grand audiencier</i> a sur les secrétaires du roi une
+certaine inspection relativement à leurs fonctions,
+&amp; qui étoit même autrefois plus étendue qu&#39;elle ne
+l&#39;est présentement.
+</p>
+<p>
+Le roi Jean fit le 7 Décembre 1361 un réglement
+pour les notaires du roi, suivant lequel ils devoient
+donner à la fin de chaque mois une cédule des jours
+de leur service ; ils étoient obligés à une continuelle
+résidence dans le lieu où ils étoient distribués ; &amp;
+lorsqu&#39;ils vouloient s&#39;absenter sans un mandement du
+roi, ils devoient prendre congé de l&#39;<i>audiencier</i> &amp; lui
+dire par serment la cause pour laquelle ils vouloient
+s&#39;absenter ; alors il leur donnoit congé &amp; leur fixoit
+un tems pour revenir, selon les circonstances, mais
+il ne pouvoit pas leur donner plus de huit jours,
+sans l&#39;autorité du chancelier. L&#39;<i>audiencier</i> ni le chancelier 
+même ne pouvoient permettre à plus de quatre 
+à la fois de s&#39;absenter ; &amp; s&#39;ils manquoient quatre 
+fois de suite, à la quatrieme l&#39;<i>audiencier</i> pouvoit
+mettre un des autres notaires en leur place, pour
+servir continuellement : il ne pouvoit cependant le
+faire que par le conseil du chancelier.
+</p>
+<p>
+Suivant une déclaration de Charles IX. du mois
+de Juillet 1565, les secrétaires du roi doivent donner 
+ou envoyer au <i>grand-audiencier</i> toutes les lettres 
+qu&#39;ils ont dressées &amp; signées, pour les présenter 
+au sceau, à l&#39;exception des provisions d&#39;offices,
+qui se portent chez le garde des rôles. Il est enjoint
+à l&#39;<i>audiencier</i> ou à celui des secrétaires du roi qui sera 
+commis en son absence ou empêchement légitime,
+de présenter les lettres selon l&#39;ordre &amp; ancienneté <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de leurs dates &amp; longueur du tems de la pour
+suite des parties, avec défense d&#39;en interrompre l&#39;ordre 
+pour quelque cause que ce soit, sinon pour lettres 
+concernant les affaires du roi : présentement
+après la liasse du roi ils rapportent les autres lettres,
+en les arrangeant par especes.
+</p>
+<p>
+Le réglement fait par le chancelier de Sillery le
+23 Décembre 1609, pour l&#39;ordre que l&#39;on doit tenir
+au sceau, porte pareillement que les lettres seront
+présentées par le <i>grand-audiencier</i> seul &amp; non par
+d&#39;autres ; ce qui doit s&#39;entendre seulement des lettres
+de sa compétence. Il est dit aussi que pendant la tenue 
+du sceau il n&#39;en pourra recevoir aucunes, sinon
+les arrêts ou lettres concernant le service de sa majesté.
+</p>
+<p>
+Le garde des sceaux du Vair fit le premier Décembre 1619 un réglement pour le sceau, portant entre
+autres choses, que les provisions des <i>audienciers</i> &amp;
+contrôleurs des chancelleries, avant d&#39;être présentées 
+au sceau, seront communiquées aux <i>grands audienciers</i> de France &amp; contrôleurs généraux de l&#39;audience,
+qui mettront sur icelles s&#39;ils empêchent ou
+non lesdites provisions.
+</p>
+<p>
+Il est aussi d&#39;usage, suivant un édit du mois de Novembre 1482, que les secrétaires du roi ne peuvent
+faire aucune expédition ni signature, qu&#39;ils n&#39;ayent
+fait serment devant le <i>grand-audiencier</i> &amp; le contrôleur,
+d&#39;entretenir la confrairie du collége des secrétaires 
+du roi, &amp; qu&#39;ils n&#39;ayent fait enregistrer leurs
+provisions sur le livre de l&#39;<i>audiencier</i> &amp; du contrôleur.
+</p>
+<p>
+Les <i>grands-audienciers</i> font chacun pendant leur
+quartier le rapport des lettres qui sont de leur compétence.
+</p>
+<p>
+L&#39;édit du mois de Février 1599, &amp; plusieurs autres
+réglemens postérieurs qui y sont conformes, veulent
+qu&#39;aussi-tôt que les lettres sont scellées elles soient
+mises dans les coffres sans que les <i>audienciers</i> contrôleurs 
+&amp; autres en puissent délivrer aucune, pour
+quelque cause que ce soit, quand même les impétrans 
+seroient secrétaires du roi ou autres notoirement
+exemts du sceau ; mais que les lettres seront délivrées
+seulement après le contrôle, à moins que ce ne fût
+pour les affaires de sa majesté &amp; par ordre du chancelier.
+</p>
+<p>
+Ce même édit ordonne que le contrôle &amp; l&#39;audience 
+de la grande chancellerie se feront en la maison 
+du chancelier, si faire se peut, sinon en la maison
+du <i>grand-audiencier</i> qui sera de quartier, &amp; en son
+absence dans celle du contrôleur, toutefois proche
+du logis de M. le chancelier.
+</p>
+<p>
+Que l&#39;<i>audiencier</i> &amp; le contrôleur assisteront au
+contrôle, qu&#39;ils suivront les réglemens pour la taxe
+des lettres, que les taxes seront écrites tout-au-long
+&amp; paraphées de la main du <i>grand-audiencier</i> &amp; du
+contrôleur.
+</p>
+<p>
+Pour faire la taxe, toutes les lettres doivent être
+lûes intelligiblement par l&#39;<i>audiencier</i> &amp; le contrôleur
+alternativement, savoir la qualité des impétrans &amp;
+le dispositif.
+</p>
+<p>
+Il est défendu aux <i>audienciers</i> &amp; contrôleurs d&#39;en
+donner aucune au clerc de l&#39;audience par lequel ils
+les font délivrer, qu&#39;elles n&#39;ayent été lûes &amp; taxées.
+</p>
+<p>
+Enfin il est ordonné aux <i>audienciers</i> &amp; contrôleurs,
+de faire un registre des lettres expédiées chaque jour
+de sceau, &amp; qui seront taxées à cent-deux sous parisis 
+&amp; au-dessus : l&#39;<i>audiencier</i> a pour faire ce registre
+un droit sur chaque lettre appellé <i>contentor</i>, ou <i>droit
+de registrata</i>.
+</p>
+<p>
+Au commencement c&#39;étoit le chancelier qui recevoit 
+lui-même l&#39;émolument du sceau ; ensuite il commettoit 
+un receveur pour cet objet : depuis ce fut l&#39;<i>audiencier</i> qui fut chargé de faire cette recette pour le
+chancelier ; il la faisoit faire par le clerc de l&#39;audience,
+&amp; en rendoit compte à la chambre des comptes
+<pb n="7:853" facs="V7/ENC_7-853.jpeg" />
+<milestone unit="column" n="1" />
+sous le nom du chancelier, comme si c&#39;étoit le chancelier 
+qui fût comptable ; ce qui blessoit la dignité de
+sa charge ; c&#39;est pour quoi Louis XIII. créa trois trésoriers 
+du sceau, qui ont été depuis réduits à un seul ;
+&amp; par une déclaration du mois d&#39;Août 1636, il fut
+ordonné que le compte des charges ordinaires seroit
+rendu par les <i>grands-audienciers</i> sous leur nom, sans
+néanmoins qu&#39;au moyen de ce compte les <i>grands-audienciers</i> soient reputés comptables, &amp; que le compte 
+des charges extraordinaires sera rendu par les
+tresoriers du sceau.
+</p>
+<p>
+Du nombre des charges ordinaires que le <i>grand-audiencier</i> doit acquitter, sont les gages &amp; pensions
+que le chancelier a sur le sceau, comme il est dit dans
+les provisions du chancelier de Morvilliers, du 23
+Septembre 1461, qu&#39;il prendra ses gages &amp; pensions
+par la main de l&#39;<i>audiencier</i>.
+</p>
+<p>
+Les <i>audienciers</i> des petites chancelleries étoient
+autrefois obligés de remettre au <i>grand audiencier</i> les
+droits qui appartiennent au roi ; mais depuis que ces
+droits sont affermés, c&#39;est le fermier qui remet au
+trésorier du sceau la somme portée par son bail. Le
+<i>grand-audiencier</i> compte de tous ces différens objets
+avec les émolumens du grand sceau. Par des lettres
+patentes du 2 Mars 1570, vérifiées en la chambre
+des comptes de Paris le 20, les <i>grands-audienciers</i>
+ont été déclarés exemts &amp; reservés de l&#39;ordonnance
+du mois de Juin 1532, portant que tous comptables
+tant ordinaires qu&#39;extraordinaires, seront tenus de
+présenter leur compte à la chambre, dans le tems
+porté par ladite ordonnance.
+</p>
+<p>
+Le <i>grand audiencier</i> est aussi chargé du compte de
+la cire que l&#39;on employe au sceau. L&#39;édit de 1561 ordonne 
+qu&#39;aussi-tôt que le sceau sera levé, l&#39;<i>audiencier</i>
+&amp; le contrôleur ou leur commis, arrêteront avec le
+cirier combien il aura été fourni de cire ; &amp; ils doivent 
+en faire registre signé d&#39;eux, aussi-tôt que l&#39;audience 
+sera faite.
+</p>
+<p>
+La distribution des bourses se faisoit autrefois chaque 
+mois par le <i>grand-audiencier</i>: les lettres du mois
+d&#39;Août 1358, données par Charles, régent du royaume,
+qui fut depuis le roi Charles V. pour l&#39;etablissement 
+des Célestins à Paris, supposent que le <i>grand-audiencier</i> faisoit dès-lors chaque mois cette distribution,
+&amp; lui ordonnent de donner tous les mois une
+semblable bourse aux Célestins, laquelle a été depuis 
+convertie en une somme de 76 liv.
+</p>
+<p>
+Ils prenoient en outre autrefois de grands profits
+sur l&#39;émolument du sceau ; c&#39;est pourquoi l&#39;ordonnance 
+de Charles VI. du mois de Mai 1413, ordonna
+que l&#39;<i>audiencier</i> &amp; le contrôleur ne prendroient dorénavant 
+que six sous par jour, comme les autres
+notaires du roi, avec leurs mêmes droits accoûtumés
+d&#39;ancienneté; défenses leur furent faites de prendre
+aucuns dons ou autres profits du roi, sur peine de les
+recouvrer sur eux ou leurs héritiers.
+</p>
+<p>
+Présentement la confection des bourses se fait tous
+les trois mois par le <i>grand-audiencier</i> qui est de quartier,
+en présence du contrôleur, &amp; de l&#39;avis des anciens 
+officiers de la compagnie des secrétaires du
+roi, des députés des officiers du marc d&#39;or, &amp; du
+garde des rolles.
+</p>
+<p>
+Le <i>grand-audiencier</i> préleve d&#39;abord pour lui une
+somme de 8000 liv. appellée <i>bourse de préference:</i>
+après ce prélevement &amp; autres qui se font sur la
+masse, il compose les bourses dont il arrête le rôle ;
+il en présente une au roi, &amp; en reçoit cinq pour lui ;
+ce qui lui tient lieu d&#39;anciens gages &amp; taxations.
+</p>
+<p>
+Les <i>grands-audienciers</i>, comme étant du nombre
+&amp; collége des secrétaires du roi, ont de tout tems
+joüi des priviléges accordés à ces charges ; ce qui
+leur a été confirmé par différens édits, notamment
+par celui du mois de Janvier 1551, qui les crée secrétaires 
+du roi, sans qu&#39;ils soient obligés d&#39;avoir ni
+<milestone unit="column" n="2" />
+tenir aucun office dudit nombre &amp; collége ; il est dit
+qu&#39;ils joüiront de tous les priviléges, franchises,
+exemptions, concessions, &amp; octrois accordés aux
+secrétaires du roi, leurs veuves <i>&amp;</i> enfans.
+</p>
+<p>
+Les lettres patentes du 18 Février 1583 leur donnent 
+droit de franc-salé.
+</p>
+<p>
+Les archives des <i>grands-audienciers</i> &amp; contrôleurs
+généraux de la chancellerie sont dans une salle de la
+maison claustrale de sainte-Croix de la Bretonnerie ;
+ce qui a été autorisé par un brevet du roi du 5 Janvier 1610.
+</p>
+<p>
+Les clercs de l&#39;audience qui avoient été érigés en
+titre d&#39;office par édit du mois de Mars 1631, ont été
+supprimés &amp; leurs charges réunies à celles des <i>grands-audienciers</i>, qui les font exercer par commssion.
+</p>
+<p>
+Au nombre des petits officiers de la grande chancellerie,
+sont le fourrier, les deux ciriers, &amp; les deux
+portes-coffre, qui payent l&#39;annuel de leurs offices
+aux quatre <i>grands-audienciers</i> &amp; aux quatre contrôleurs 
+généraux ; &amp; à défaut de payement en cas de
+mort, ces offices tombent dans leur casuel &amp; à leur
+profit. <i>Voyez</i> Miraulmont, en ses <i>mémoires sur la chancellerie 
+de France ;</i> Joly, en son <i>traité des offices ;</i> Tessereau, <i>hist. de la chancellerie</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

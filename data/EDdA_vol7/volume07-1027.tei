@@ -1,0 +1,187 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28481" id="50:189" vol="7">
+<index type="head" value="FRUGALITÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Morale." />
+<index type="normclass" value="Morale" />
+<index type="englishclass" value="Ethics" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="NA" />
+<head>FRUGALITÉ</head>
+<p>
+FRUGALITÉ, (<i>Morale.</i>) simplicité de moeurs
+&amp; de vie. Le docteur Cumberland la définit une sorte
+de justice, qui dans la société consiste à conserver,
+&amp; qui a pour dispositions contraires, d&#39;un côté la
+prodigalité envers des particuliers, &amp; de l&#39;autre une
+sordide avarice.
+</p>
+<p>
+On entend ordinairement par la <i>frugalité</i>, la tempérance 
+dans le boire &amp; le manger ; mais cette vertu
+va beaucoup plus loin que la sobriété; elle ne regarde 
+pas seulement la table, elle porte sur les moeurs,
+dont elle est le plus ferme appui. Les Lacédémoniens
+en faisoient profession expresse ; les Curius, les Fabricius, &amp; les Camilles, ne mériterent pas moins
+de loüanges à cet égard, que par leurs grandes &amp;
+belles victoires. Phocion s&#39;acquit le titre d&#39;homme
+de bien par la <i>frugalité</i> de sa vie ; conduite qui lui
+procura les moyens de soulager l&#39;indigence de ses
+compatriotes, &amp; de doter les filles vertueuses que
+leur pauvreté empêchoit de s&#39;établir.
+</p>
+<p>
+Je sai que dans nos pays de faste &amp; de vanité, la
+<i>frugalité</i> a bien de la peine à maintenir un rang estimable : quand on n&#39;est touché que de l&#39;éclat de la
+magnificence, on est peu disposé à loüer la vie frugale 
+des grands hommes, qui passoient de la charrue 
+au commandement des armées ; &amp; peut-être
+commençons-nous à les dédaigner dans notre imagination.
+La raison néanmoins ne voudroit pas que
+nous en jugeassions de la sorte ; &amp; puisqu&#39;il ne seroit 
+pas à-propos d&#39;attribuer à la libéralité les excès
+des prodigues, il ne faut pas non plus attribuer à la
+<i>frugalité</i> la honte &amp; les bassesses de l&#39;avarice.
+</p>
+<p>
+C&#39;est vouloir dégrader étrangement les vertus,
+que de dire avec un Laberius, <i>frugalitas miseria est
+rumoris boni</i>, ou de répéter avec S. Evremont : la
+<i>frugalité</i> tant vantée des Romains n&#39;étoit pas une
+abstinence volontaire des choses superflues, mais
+un usage nécessaire &amp; grossier de ce qu&#39;ils avoient.
+Rendons plus de justice au tems des beaux jours de
+la république romaine, à ce Fabricius par exemple,
+ce Curius &amp; ce Camille dont j&#39;ai parlé. Les uns &amp;
+les autres sachant se borner à l&#39;héritage de leurs ancêtres,
+ne furent point tentés de changer l&#39;usage
+grossier de ce qu&#39;ils possédoient, pour embrasser le
+superflu. Le premier refusa sans peine les offres magnifiques 
+qu&#39;on lui fit de la part de Pyrrhus ; le second 
+méprisa tout l&#39;argent qui lui fut présenté de la
+part des Samnites ; le troisieme consacra dans le temple 
+de Jupiter, tout l&#39;or qu&#39;il avoit pris à la défaite
+des Gaulois. Nourris tous les trois selon les regles
+de l&#39;austere <i>frugalité</i>, ils surent les ressources de leur
+patrie dans les guerres périlleuses qu&#39;elle eut à soûtenir.
+Le luxe &amp; la somptuosité sont dans un état,
+ce que sont dans un vaisseau les peintures &amp; les statues 
+dont il est décoré; ces vains ornemens rassûrent 
+aussi peu l&#39;état engagé dans une guerre cruelle,
+qu&#39;ils rassûrent les passagers d&#39;un vaisseau, quand il
+est menacé de la tempête. <i>Voyez</i> <sc><ref target="head:Luxe" type="search">Luxe</ref> <i>&amp;</i> <ref target="head:Fortune" type="search">Fortune</ref></sc>.
+</p>
+<p>
+Pour sentir le prix de la <i>frugalité</i>, il faut en joüir ;
+ce ne seront point ceux qui sont corrompus par les
+délices, dit l&#39;auteur de l&#39;esprit des lois, qui aimeront
+la vie frugale ; &amp; si cela avoit été commun, Alcibiade n&#39;auroit pas fait l&#39;admiration de l&#39;univers. Ce
+ne seront pas non plus ceux qui envient ou qui admirent 
+le luxe des autres, qui vanteront la <i>frugalité:</i>
+des gens qui n&#39;ont devant les yeux que des hommes
+riches ou des hommes aussi misérables qu&#39;ils le sont,
+détestent leur misere, sans aimer &amp; sans connoître
+ce qui fait le terme de la misere.
+</p>
+<p>
+L&#39;amour de la <i>frugalité</i> est excité par la <i>frugalité ;</i>
+&amp; c&#39;est alors qu&#39;on en sent les précieux avantages:
+<pb n="7:356" facs="V7/ENC_7-356.jpeg" />
+<milestone unit="column" n="1" />
+cet amour de la <i>frugalité</i> bornant le desir d&#39;avoir, à
+l&#39;attention que demande le nécessaire pour sa famille,
+reserve le superflu pour le bien de sa patrie.
+Aussi les sages démocraties en recommandant, en
+établissant pour loi fondamentale, la <i>frugalité</i> domestique,
+ont ouvert la porte aux dépenses publiques 
+à Athenes &amp; à Rome : pour lors la magnificence 
+naissoit du sein de la <i>frugalité</i> même ; &amp; comme 
+la religion, ajoûte M. de Montesquieu, demande
+qu&#39;on ait les mains pures pour faire des offrandes
+aux dieux, les lois vouloient des moeurs frugales,
+pour que l&#39;on pût donner à sa patrie. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

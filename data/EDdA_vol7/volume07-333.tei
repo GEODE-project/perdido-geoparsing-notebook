@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27787" id="49:50:1" vol="7">
+<index type="head" value="Former, Dresser" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Liebault" />
+<index type="shortauth" value="Liebault" />
+<index type="kafnum" value="79" />
+<index type="kafauth" value="Liebault, Nicolas (1723-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="v.act." />
+<head>Former, Dresser</head>
+<p>
+<sc>Former, Dresser</sc>, (<i>Art milit.</i>) v. act. on dit
+<i>former des soldats, dresser des troupes</i>. Le premier de
+ces deux mots exprime les soins que l&#39;on prend pour
+accoûtumer le soldat à la discipline, le plier à l&#39;obéissance,
+&amp; lui inspirer l&#39;esprit de son état. L&#39;autre indique 
+aussi l&#39;éducation militaire qu&#39;on donne à une
+troupe, mais ne tombe que sur la partie qui a rapport 
+au maniment des armes, aux manoeuvres, aux
+evolutions, &amp; autres détails du service. Enfin le terme 
+<i>former</i> est restreint à un certain nombre d&#39;hommes,
+qui ne composent pas encore un tout, &amp; désigne 
+un acte purement moral. <i>Dresser</i> s&#39;étend à une
+troupe complette, telle qu&#39;une compagnie, un bataillon,
+un régiment, &amp; porte uniquement sur le
+physique des instructions qu&#39;on leur donne.
+</p>
+<p>
+<i>Former</i>, en Tactique, se prend dans une acception
+différente, qui le rapproche des mots <i>ordonner, disposer.
+Former</i> dans ce cas signifie l&#39;action de <i>ranger</i>
+des soldats dans un certain ordre, &amp; annonce que
+cet ordre est leur état habituel, c&#39;est-à-dire celui dans
+lequel il est convenu qu&#39;on mettra toûjours une troupe,
+à moins que des circonstances particulieres n&#39;obligent 
+ceux qui la commandent, à l&#39;ordonner suivant 
+une autre méthode.
+</p>
+<p>
+Ce mot <i>ordonner</i>, bien plus générique que le premier,
+tient à tous les ordres de bataille possibles, &amp;
+peut également s&#39;entendre du bataillon quarré, de
+la colonne, du coin, <i>&amp;c. Voyez</i> <sc><ref target="head:Ordre de Bataille" type="search">Ordre de Bataille</ref></sc>.
+</p>
+<p>
+<i>Disposer</i> exprime l&#39;opération générale par laquelle
+on distribue les différens corps d&#39;une armée dans les
+postes qu&#39;ils doivent occuper, suivant un plan de
+bataille qui aura été déterminé; ou celle par laquelle
+on leur fait prendre le rang qu&#39;ils doivent tenir dans
+une marche ou dans un campement.
+</p>
+<p>
+<i>Exemple</i>. Les troupes prendront les armes à quatre 
+heures. Tous les régimens se <i>formeront</i> à la tête
+de leur camp. Ils se <i>porteront</i> en ordre de bataille
+(c&#39;est aujourd&#39;hui en France être <i>formés</i> sur trois de
+hauteur, &amp; cette ordonnance doit être appellée
+<i>l&#39;état habituel</i>); ils se porteront, dis-je, six cents pas
+en-avant des faisceaux, où chaque bataillon sera <i>ordonné</i> en colonne. Les lieutenans-généraux &amp; maréchaux 
+-de-camp <i>disposeront</i> alors leurs divisions,
+suivant l&#39;ordre de marche ou de bataille, dont la
+veille on leur aura remis une copie. <i>Article de M.
+<sc>Liebaut</sc>, chargé du dépôt de la guerre</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

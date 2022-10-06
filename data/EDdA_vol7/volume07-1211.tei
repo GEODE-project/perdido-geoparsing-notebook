@@ -1,0 +1,458 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28665" id="51:34:1" vol="7">
+<index type="head" value="Futur" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en termes de Grammaire" />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="NA" />
+<head>Futur</head>
+<p>
+<sc>Futur</sc>, <i>en termes de Grammaire</i>, est pris substantivement : c&#39;est une forme particuliere ou une espece 
+d&#39;inflexion qui désigne l&#39;idée accessoire d&#39;un rapport 
+au tems à venir, ajoûtée à l&#39;idée principale du
+verbe.
+</p>
+<p>
+On trouve dans toutes les langues différentes sortes 
+de <i>futur</i>, parce que ce rapport au tems à venir y
+a été envisagé sous différens points de vûe ; &amp; ces
+<i>futurs</i> sont simples ou composés, selon qu&#39;il a plû à
+l&#39;usage de désigner les uns par de simples inflexions,
+&amp; les autres par le secours des verbes auxiliaires.
+</p>
+<p>
+Il semble que dans les diverses manieres de considérer 
+le tems par rapport à l&#39;art de la parole, on se soit
+particulierement attaché à l&#39;envisager comme absolu,
+comme relatif, &amp; comme conditionnel. On trouve
+dans toutes les langues des inflexions équivalentes
+à celles de la nôtre, pour exprimer le présent absolu,
+comme <i>j&#39;aime ;</i> le présent relatif, comme <i>j&#39;aimois ;</i> le présent conditionnel, comme <i>j&#39;aimerois</i>. Il
+en est de même pour les trois prétérits ; l&#39;absolu, <i>j&#39;ai aimé ;</i> le relatif, <i>j&#39;avois aimé</i> ; &amp; le conditionnel,
+<i>j&#39;aurois aimé</i>. Mais on n&#39;y trouve plus la même unanimité 
+pour le <i>futur ;</i> il n&#39;y a que quelques langues
+qui ayent un <i>futur</i> absolu, un relatif, &amp; un conditionnel : la plûpart ont saisi par préférence d&#39;autres
+faces de cette circonstance du tems.
+</p>
+<p>
+Les Latins ont en général deux <i>futurs</i>, un absolu
+&amp; un relatif.
+</p>
+<p>
+Le <i>futur</i> absolu marque l&#39;avenir sans aucune autre 
+modification ; comme <i>laudabo</i>, je louerai ; <i>accipiam</i>, je recevrai.
+</p>
+<p>
+Le <i>futur</i> relatif marque l&#39;avenir avec un rapport
+à quelque autre circonstance du tems ; il est composé 
+du <i>futur</i> du participe actif ou passif, selon la
+voix que l&#39;on a besoin d&#39;employer, &amp; d&#39;une inflexion 
+du verbe auxiliaire <i>sum ;</i> &amp; le choix de cette
+inflexion dépend des différentes circonstances de
+tems avec lesquelles on combine l&#39;idée fondamentale 
+d&#39;avenir. En voici le tableau pour les deux
+voix.
+<table>
+      Voix active.            Voix passive.
+ <i>Laudaturus sum.           Laudandus sum</i>.
+ <i>Laudaturus eram.          Laudandus eram</i>.
+ <i>Laudaturus essem.         Laudandus essem</i>.
+ <i>Laudaturus fui.           Laudandus fui</i>.
+<pb n="7:403" facs="V7/ENC_7-403.jpeg" />
+<milestone unit="column" n="1" />
+ <i>Laudaturus fueram.        Laudandus fueram</i>.
+ <i>Laudaturus fuissem.       Laudandus fuissem</i>.
+ <i>Laudaturus ero.           Laudandus ero</i>.
+ <i>Laudaturus fuero.         Laudandus fuero</i>.
+</table>
+</p>
+<p>
+Comme la langue latine fait un des principaux
+objets des études ordinaires, elle exige de notre part
+quelque attention plus particuliere. Nous remarquerons 
+donc que les huit <i>futurs</i> relatifs que l&#39;on présente
+ici, ne se trouvent pas dans les tables ordinaires des
+conjugaisons, non plus que les tems composés du subjonctif 
+qui ont un rapport à l&#39;avenir, comme <i>laudaturus sim, laudaturus essem, laudaturus fuerim, laudaturus 
+fuissem</i>. Il en est de même des tems correspondans 
+de la voix passive ; mais c&#39;est un véritable
+abus. Ces tables doivent être des listes exactes de
+toutes les formes analogiques, soit simples, soit
+composées, que l&#39;usage a établies pour exprimer
+uniformément les accessoires communs à tous les
+verbes. Il est assez difficile de déterminer ce qui a pu
+donner lieu à nos méthodistes de retrancher du tableau 
+de leurs conjugaisons, des expressions d&#39;un usage 
+si nécessaire, si ordinaire, &amp; si uniforme. Si c&#39;est la
+composition de ces tems, il n&#39;ont pas assez étendu
+leurs conséquences ; il falloit encore en bannir les
+<i>futurs</i> qu&#39;ils ont admis à l&#39;infinitif, &amp; tous les tems
+composés qui marquent un rapport au passé dans
+la voix passive.
+</p>
+<p>
+Ce n&#39;est pas la seule faute qu&#39;on ait faite dans ces
+tables ; on y place comme <i>futur</i> au subjonctif, un
+tems qui appartient assûrément à l&#39;indicatif, &amp; qui
+paroît être plûtôt de la classe des prétérits, que de
+celle des <i>futurs:</i> c&#39;est <i>laudavero</i>, j&#39;aurai loüé, pour
+la voix active ; &amp; <i>laudatus ero</i>, j&#39;aurai été loüé,
+pour la voix passive.
+</p>
+<p>
+1°. Ce tems n&#39;appartient pas au subjonctif, &amp; il
+est aisé de le prouver aux méthodistes par leurs propres 
+regles. Selon eux, la conjonction dubitative <i>an</i>
+étant placée entre deux verbes, le second doit être
+mis au subjonctif : qu&#39;ils partent de-là, &amp; qu&#39;ils nous
+disent comment ils rendront cette phrase, <i>je ne sai si
+je loüerai ;</i> en conséquence de la loi, <i>je loüerai</i> doit
+être au subjonctif en latin, &amp; le seul <i>futur</i> du subjonctif 
+autorisé par les tables ordinaires, est <i>laudavero:</i>
+cependant nos Grammatistes n&#39;auront garde de dire
+<i>nescio an laudavero ;</i> ils rendront cet exemple par <i>nescio an laudaturus sim</i>. Chose singuliere! Cette locution 
+autorisée par l&#39;usage des meilleurs auteurs latins,
+devoit faire conclure naturellement que <i>laudaturus sim</i>, ainsi que les autres expressions que nous
+avons indiquées plus haut, étoient du mode subjonctif ; 
+&amp; l&#39;on a mieux aimé imaginer des exceptions
+chimériques &amp; embarrassantes, que de suivre une
+conséquence si palpable. Au contraire on n&#39;a jamais
+pu employer <i>laudavero</i> dans les cas où l&#39;usage demande 
+expressément le mode subjonctif, &amp; néanmoins 
+on y a placé ce tems avec une persévérance
+qui prouve bien la force du préjugé.
+</p>
+<p>
+2°. Ce tems est de l&#39;indicatif ; puisque, comme
+tous les autres tems de ce mode, il indique la modification 
+d&#39;une maniere positive, déterminée, &amp; indépendante : de même que l&#39;on dit <i>caenabam</i> ou <i>caenaveram cùm intrasti</i>, on dit <i>coenabo</i> ou <i>coenavero cùm
+intrabis : caenabam</i> marque l&#39;action de souper comme
+présente, &amp; <i>coenaveram</i> l&#39;énonce comme passée relativement 
+à l&#39;action d&#39;entrer qui est passée : la même
+analogie se trouve dans les deux autres tems ; <i>coenabo</i> marque l&#39;action de souper comme présente, &amp;
+<i>caenavero</i> l&#39;énonce comme passée à l&#39;egard de l&#39;action
+d&#39;entrer qui est <i>future. Coenavero</i> a donc les mêmes
+caracteres d&#39;énonciation que <i>caenabo, caenabam</i>, &amp;
+<i>coenaveram</i>, &amp; par conséquent il appartient au même
+mode. Les usages de toutes les langues déposent unaniment 
+cette vérité. Consultons la nôtre. Nous disons<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+invariablement, <i>je ne sai si je dormois, si j&#39;ai
+dormi, si j&#39;avois dormi, si je dormirai ;</i> &amp; tous ces
+tems du verbe <i>dormir</i> sont à l&#39;indicatif : <i>j&#39;aurai dormi</i>
+est donc au même mode, car nous disons de même,
+<i>je ne sai si j&#39;aurai dormi suffisamment lorsque</i>, &amp;c. mais
+<i>j&#39;aurai dormi</i> est, de l&#39;aveu de tous les méthodistes,
+la traduction de <i>dormivero ; dormivero</i> est donc aussi à
+l&#39;indicatif. Eh à quel autre mode appartiendroit-il,
+puisqu&#39;il est prouvé d&#39;ailleurs qu&#39;il n&#39;est pas du subjonctif?
+</p>
+<p>
+3°. Ce tems est de la classe des prétérits, plûtôt
+que de celle des <i>futurs</i>. Quelle est en effet l&#39;intention
+de celui qui dit <i>j&#39;aurai soupé quand vous entrerez, caenavero 
+cum intrabis?</i> c&#39;est de fixer le rapport du tems
+de son souper au tems de l&#39;entrée de celui à qui il
+parle, c&#39;est de présenter son action de souper comme 
+passée à l&#39;égard de l&#39;action d&#39;entrer qui est <i>future ;</i>
+&amp; par conséquent l&#39;inflexion qui l&#39;indique est de la
+classe des prétérits. C&#39;est par une raison analogue
+que <i>caenabam</i>, je soupois, est de la classe des présens ; 
+&amp; aujourd&#39;hui tous nos meilleurs grammairiens 
+l&#39;appellent <i>présent relatif ;</i> parce qu&#39;il exprime
+principalement la coexistence des deux actions comparées.
+S&#39;il renferme un rapport au tems passé, ce
+rapport n&#39;est qu&#39;une idée secondaire, &amp; seulement
+relative à la circonstance du tems à laquelle on fixe
+l&#39;autre évenement qui sert de terme à la comparaison.
+C&#39;est la même chose dans <i>caenavero ;</i> ce n&#39;est pas
+l&#39;action de souper comme avenir que l&#39;on a principalement 
+en vûe, mais l&#39;antériorité du souper à l&#39;égard 
+de l&#39;entrée : cette anteriorité est donc en quelque 
+sorte l&#39;idée principale ; &amp; le rapport à l&#39;avenir,
+une idée accessoire qui lui est subordonnée. L&#39;analyse des phrases suivantes achevera d&#39;établir cette
+vérité.
+</p>
+<p>
+<i>Coenabam, cùm intrasti ;</i> c&#39;est-à-dire <i>cùm intrasii,
+potui dicere <sc>coeno</sc></i>, présent absolu.
+</p>
+<p>
+<i>Coenaveram, cùm intrasti ;</i> c&#39;est-à-dire <i>cùm intrasti,
+potui dicere <sc>caenavi</sc></i>, prétérit absolu.
+</p>
+<p>
+<i>Coenabo, cùm intrabis ;</i> c&#39;est-à-dire <i>cùm intrabis,
+potero dicere <sc>coeno</sc></i>, présent absolu.
+</p>
+<p>
+<i>Coenavero, cùm intrabis ;</i> c&#39;est-à-dire <i>cùm intrabis,
+potero dicere <sc>coenavi</sc></i>, prétérit absolu.
+</p>
+<p>
+Il paroit inutile de développer la conséquence de
+cette analyse ; elle est frappante : mais il est remarquable 
+que ce tems que nous plaçons ici parmi les
+prétérits, en conserve la caractéristique en latin ;
+<i>laudavi, laudavero ; dixi, dixero ;</i> qu&#39;il en suit l&#39;analogie 
+en françois. Il est composé d&#39;un auxiliaire comme 
+les autres prétérits ; on dit <i>j&#39;aurai soupé</i>, comme
+l&#39;on dit <i>j&#39;ai soupé, j&#39;avois soupé, j&#39;aurois soupé:</i> &amp;
+qu&#39;enfin son correspondant au subjonctif est dans
+notre langue le prétérit absolu de ce mode ; on dit
+également &amp; dans le même sens, <i>je ne sai si j&#39;aurai
+soupé quand vous entrerez</i>, &amp; <i>je ne crois pas que j&#39;aye
+soupé quand vous entrerez</i>.
+</p>
+<p>
+L&#39;erreur que nous combattons ici n&#39;est pas nouvelle ; 
+elle prend sa source dans les ouvrages des
+anciens grammairiens. Scaliger après avoir observé
+que les Grecs divisoient le <i>futur</i>, &amp; qu&#39;ils avoient
+un <i>futur</i> prochain, dit, <i>nos non divisimus ;</i> &amp; ajoûte
+ensuite, <i>nisi putemus in modo subjunctivo extare vestigia 
+&amp; vim hujus significatûs, ut <sc><ref target="head:fecero" type="search">fecero</ref></sc>. Lib. V. cap.
+cxiij. de causis ling. lat</i>. Priscien long-tems auparavant 
+s&#39;étoit encore expliqué plus positivement, <i>lib.
+VIII. de cognai. temp</i>. Après avoir fait l&#39;énumération 
+des tems qui ont quelque affinité avec le prétérit,
+il ajoûte, <i>sed tamen in subjunctivo futurum quoque 
+praeteriti perfecti servat consonantes, ut <sc><ref target="head:dixi" type="search">dixi</ref>,
+<ref target="head:dixero" type="search">dixero</ref></sc></i>. Nous avons fait usage plus haut de cette
+remarque même, pour rappeller ce tems à la classe
+des prétérits ; &amp; il est assez surprenant que Priscien
+avec du jugement l&#39;ait faite sans conséquence.
+</p>
+<p>
+Nos premiers méthodistes qui vivoient dans un
+<pb n="7:404" facs="V7/ENC_7-404.jpeg" />
+<milestone unit="column" n="1" />
+tems où l&#39;on ne voyoit que par les yeux d&#39;autrui, &amp;
+où l&#39;autorité des anciens tenoit lieu de raisons, frappés 
+de ces passages, n&#39;ont pas même soupçonné que
+Scaliger &amp; Priscien se fussent trompés.
+</p>
+<p>
+La plûpart de nos grammairiens françois qui n&#39;ont
+eu que le mérite d&#39;appliquer comme ils ont pû la
+grammaire latine à notre langue, ont copié presque
+tous ces défauts. Robert Etienne à la vérité a rapporté 
+à l&#39;indicatif le prétendu <i>futur</i> du subjonctif ;
+mais il n&#39;a pas osé en dépouiller entierement celui-ci,
+il l&#39;y répete en mêmes termes. Il l&#39;a appellé <i>futur-parfait</i>, parce qu&#39;il y démêloit les deux idées de passé 
+&amp; d&#39;avenir ; mais s&#39;il avoit fait attention à la maniere 
+dont ces idées y sont présentées, il l&#39;auroit
+nommé au contraire <i>prétérit-futur. Voyez</i> <sc><ref target="head:Prétérit" type="search">Prétérit</ref></sc>.
+</p>
+<p>
+C&#39;est un vice contre lequel on ne sauroit être trop
+en garde, que d&#39;appliquer la grammaire d&#39;une langue 
+à toute autre indistinctement ; chaque langue a
+la sienne, analogue à son génie particulier. Il est vrai
+toutefois qu&#39;un grammairien philosophe démêlera ce
+qui appartient à chaque langue, en suivant toûjours
+une même route ; il n&#39;est question que de bien saisir
+les points de vûes généraux ; par exemple, à l&#39;égard
+du <i>futur</i>, il ne faut que déterminer toutes les combinaisons 
+possibles de cette idée avec les autres circonstances 
+du tems, &amp; apprendre de l&#39;usage de chaque 
+langue ce qu&#39;il a autorisé ou non, pour exprimer 
+ces combinaisons. C&#39;est par-là que l&#39;on fixera
+le nombre des <i>futurs</i> en grec, en hébreu, en allemand,
+<i>&amp;c.</i> &amp; c&#39;est par-là que nous allons le fixer
+dans notre langue.
+</p>
+<p>
+Nous avons en françois un <i>futur absolu</i>, que nous
+rendons par une simple inflexion, comme <i>je partirai</i>.
+Nous avons de plus deux <i>futurs relatifs</i>, qui marquent 
+l&#39;avenir avec un rapport spécial au présent ;
+&amp; voilà en quoi conviennent ces deux <i>futurs:</i> ce qui
+les différencie, c&#39;est que l&#39;un emporte une idée d&#39;indétermination,
+&amp; n&#39;exprime qu&#39;un avenir vague,
+&amp; que l&#39;autre présente une idée de proximité, &amp; détermine 
+un avenir prochain, ce qui correspond au
+<i>paulo-post-futur</i> des Grecs ; nous appellons le premier
+<i>futur défini</i>, &amp; le second <i>futur prochain</i>. L&#39;un &amp; l&#39;autre 
+est composé du présent de l&#39;infinitif du verbe principal,
+&amp; d&#39;une inflexion du verbe <i>devoir</i> pour le <i>futur</i> indéfini, ou du verbe <i>aller</i> pour le <i>futur</i> prochain ;
+le choix de cette inflexion dépend de la maniere dont
+on envisage le présent même auquel on rapporte le
+<i>futur. Je dois partir, je devois partir</i>, font des <i>futurs</i>
+relatifs indéfinis ; <i>je vais partir, j&#39;allois partir</i>, sont
+des <i>futurs</i> relatifs prochains.
+</p>
+<p>
+Dans l&#39;un &amp; dans l&#39;autre de ces <i>futurs</i>, les verbes
+<i>devoir</i> &amp; <i>aller</i> ne conservent pas leur signification primitive 
+&amp; originelle ; ce ne sont plus que des auxiliaires 
+réduits à marquer simplement l&#39;avenir, l&#39;un d&#39;une
+maniere vague &amp; indéterminée, &amp; l&#39;autre avec l&#39;idée
+accessoire de proximité.
+</p>
+<p>
+Ces auxiliaires nous rendent le même service au
+subjonctif, mais notre langue n&#39;a aucune inflexion
+destinée primitivement à marquer dans ce mode l&#39;autre 
+espece de <i>futur ;</i> elle se sert pour cela des inflexions 
+du présent &amp; du passé, selon les diverses combinaisons 
+du subjonctif avec les tems du verbe auquel 
+il est subordonné; ainsi dans ce mode, la même
+inflexion fait, suivant le besoin, deux fonctions différentes,
+&amp; les circonstances en décident le sens.
+<table>
+      <i>Sens primitif</i>.              <i>Sens futur</i>.
+  Je ne crois pas <i>qu&#39;il</i> le    <i>Qu&#39;il</i> le <i>fasse</i> jamais.
+<i>fasse</i> présentement.
+  Je ne croyois pas <i>qu&#39;il</i>     <i>Qu&#39;il</i> le <i>fît</i> jamais.
+le fit alors.
+  Je ne crois pas <i>qu&#39;il</i>       <i>Qu&#39;il</i> l&#39;<i>ait fait</i> de l&#39;<i>ait fait</i> hier.             main.
+  Je ne croyois pas <i>qu&#39;il</i>     <i>Qu&#39;il</i> l&#39;<i>eût fait</i> quand
+l&#39;<i>eût fait</i> hier.             on l&#39;en auroit prié.
+</table>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Quoiqu&#39;il semble que certaines langues n&#39;ayent
+pas d&#39;expressions propres à déterminer quelques
+points de vûe pour lesquels d&#39;autres en ont de fixées
+par leur analogie usuelle, aucune cependant n&#39;est
+effectivement en défaut ; chacune trouve des ressources 
+en elle-même. On le voit dans notre langue
+par les <i>futurs</i> du subjonctif ; &amp; les latins qui n&#39;ont
+point de forme particuliere pour exprimer le <i>futur</i>
+prochain, y suppléent par d&#39;autres moyens : <i>jamjam
+faciam ut jusseris</i>, dit Plaute, (<i>je vais faire ce que vous
+ordonnerez</i>): on trouve dans Térence, <i>factum puta</i>
+(cela va se faire, <i>ou</i> regardez-le comme fait).
+</p>
+<p>
+Il ne faut pas croire non plus que l&#39;usage d&#39;aucune
+langue restreigne exclusivement ces <i>futurs</i> à leur destination 
+propre ; le rapport de ressemblance &amp; d&#39;affinité 
+qui est entre ces tems, fait qu&#39;on employe souvent 
+l&#39;un pour l&#39;autre, comme il est arrivé au <i>futur</i>
+premier &amp; au <i>futur</i> second des Grecs. Il en est de
+même du <i>futur</i> absolu &amp; du prétérit <i>futur</i> des Latins ;
+il disent également, <i>pergratum mihi facies</i>, &amp; <i>pergratum mihi feceris</i>. Mais on ne doit pas conclure pour
+cela que ces tems ayent une même valeur ; la différence 
+d&#39;inflexions suppose une différence originelle
+de signification, qui ne peut être changée ni détruite
+par aucuns usages particuliers, &amp; que les bons auteurs 
+ne perdent pas de vûe, lors même qu&#39;ils paroissent 
+en user le plus arbitrairement ; ils choisissent
+l&#39;une ou l&#39;autre par un motif de goût, pour plus d&#39;énergie,
+pour faire image, <i>&amp;c.</i> Ainsi il y a une différence 
+réelle &amp; inaltérable entre le <i>futur</i> absolu &amp;
+l&#39;impératif, quoiqu&#39;on employe souvent le premier
+pour le second, <i>curabis</i> pour <i>cura, valebis</i> pour <i>vale:</i>
+l&#39;un &amp; l&#39;autre effectivement exprime l&#39;avenir, mais
+de diverses manieres.
+</p>
+<p>
+La licence de l&#39;usage sur les <i>futurs</i> va bien plus
+loin encore, puisqu&#39;il donne quelquefois au présent
+&amp; au prétérit le sens <i>futur ;</i> comme dans ces phrases:
+<i>Si l&#39;ennemi quitte les hauteurs, nous le battons</i>, ou
+<i>nous avons gagné la bataille:</i> il est évident que les mots
+<i>quitte</i> &amp; <i>battons</i> sont des présents employés comme
+<i>futurs</i>, &amp; que <i>nous avons gagné</i> est un prétérit avec la
+même acception. L&#39;usage n&#39;a pas introduit de <i>futur</i>
+conditionnel : il le faudroit dans ces phrases ; c&#39;est
+donc une nécessité d&#39;employer d&#39;autres tems, qui par
+occasion en deviennent plus énergiques : le present
+semble rapprocher l&#39;avenir pour faire envisager l&#39;action 
+de <i>battre</i> comme présente ; &amp; le prétérit donne
+encore un plus grand degré de certitude en faisant
+envisager la victoire comme déjà remportée. On
+trouve même en latin le présent absolu du subjonctif 
+employé pour le <i>futur</i> absolu de l&#39;indicatif : <i>multos reperias</i> &amp; <i>reperies ;</i> mais c&#39;est à la faveur de l&#39;ellipse : <i>multos reperias</i>, c&#39;est-à-dire <i>fieri poterit</i>, ou <i>fiet
+ut multos reperias</i>. Tout a sa raison dans les langues,
+jusqu&#39;aux écarts. (<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

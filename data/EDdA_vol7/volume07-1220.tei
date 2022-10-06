@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28674" id="51:41" vol="7">
+<index type="head" value="GABAON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. sacrée." />
+<index type="normclass" value="Géographie sacrée" />
+<index type="englishclass" value="Sacred geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GABAON</head>
+<p>
+GABAON, (<i>Géog. sacrée.</i>) ville du pays de Chanaam en Syrie, située à trois lieues de Jérusalem sur
+une colline. Son nom même l&#39;indique, car <i>gaba</i> signifie 
+en hébreu <i>colline</i>. Ainsi on ne doit pas être surpris 
+de voir dans un pays de montagnes comme la
+Judée, un si grand nombre de lieux qui commencent
+par <i>Gaba</i>.
+</p>
+<p>
+<i>Gabaon</i> qu&#39;on ne connoît plus, est célebre dans
+l&#39;Histoire sainte par la ruse des Gabaonites, &amp; par
+la journée dans laquelle le Soleil s&#39;arrêta, lorsque
+Josué remporta la victoire contre les rois chananéens.
+Ici les curieux peuvent consulter sur l&#39;artifice
+des Gabaonites, les <i>commentaires</i> de Grotius &amp; de le
+Clerc, de même que Barbeyrac dans sa belle édition
+de Puffendorf. Ils peuvent lire aussi une <i>savante dissertation</i> de M. s&#39;Gravesande, dans laquelle il expose
+les difficultés géographiques &amp; astronomiques, qui
+concernent le miracle de Josué. Cette dissertation
+est insérée dans les <i>discours</i> de M. Saurin <i>sur la Bible ;</i> &amp; elle est trop belle pour n&#39;y pas renvoyer nos
+lecteurs. <i>Voyez aussi</i> <sc><ref target="head:Copernic" type="search">Copernic</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

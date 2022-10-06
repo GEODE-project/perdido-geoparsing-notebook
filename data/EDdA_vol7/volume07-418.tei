@@ -1,0 +1,413 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27872" id="49:87" vol="7">
+<index type="head" value="FOSSILE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéralogie." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history. Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="sub.m" />
+<head>FOSSILE</head>
+<p>
+FOSSILE, sub. m. (<i>Hist. nat. Minéralogie.</i>) On
+appelle <i>fossiles</i> en général toutes les substances qui
+se tirent du sein de la terre. Souvent on se sert indistinctement 
+du nom de <i>fossiles</i> &amp; de celui de <i>minéraux</i>, pour designer les mêmes substances. C&#39;est
+ainsi que l&#39;usage veut que l&#39;on dise le <i>regne minéral</i>,
+&amp; non pas le <i>regne fossile</i>. Cette derniere façon de
+<pb n="7:210" facs="V7/ENC_7-210.jpeg" />
+<milestone unit="column" n="1" />
+parler seroit pourtant plus exacte, attendu que la
+signification du mot <i>fossile</i> est plus étendue, &amp; comprend 
+des substances dont les minéraux ne font qu&#39;une 
+classe. <i>Voyez l&#39;article</i> <sc><ref target="head:Minéraux" type="search">Minéraux</ref></sc>.
+</p>
+<p>
+On distingue deux especes de <i>fossiles</i>, 1°. ceux
+qui ont été formés dans la terre, &amp; qui lui sont propres ; 
+on les appelle <i>fossiles natifs</i>. Tels sont les terres,
+les pierres, les pierres précieuses, les crystaux,
+les métaux, <i>&amp;c.</i> 2°. ceux qui ne sont point propres
+à la terre, que l&#39;on appelle <i>fossiles étrangers à la terre</i>.
+Ce sont des corps appartenans, soit au regne minéral,
+soit au regne végétal : tels que les coquilles, les
+ossemens de poissons &amp; de quadrupedes, les bois,
+les plantes, <i>&amp;c.</i> que l&#39;on trouve ensevelis dans les
+entrailles de la terre où ils ont eté portés accidentellement.
+</p>
+<p>
+On se sert encore souvent du mot <i>fossile</i> comme
+d&#39;un adjectif, en le joignant au nom de quelque
+matiere qui, sans devoir son origine à la terre, se
+trouve pourtant dans son sein ; &amp; alors l&#39;épithete de
+<i>fossile</i> sert à la distinguer de celle qui est naturelle,
+&amp; qui se trouve ailleurs que dans la terre. C&#39;est
+ainsi que l&#39;on dit de l&#39;ivoire <i>fossile</i>, du bois <i>fossile</i>,
+des coquilles <i>fossiles</i>, &amp;c.
+</p>
+<p>
+De tous les phénomenes que présente l&#39;Histoire
+naturelle, il n&#39;en est point qui ait plus attiré l&#39;attention 
+des Naturalistes, que la prodigieuse quantité de
+corps étrangers à la terre qui se trouvent ensevelis
+dans son sein &amp; répandus à sa surface ; ils ont donc
+fait des hypotheses &amp; hasardé des conjectures, pour
+expliquer comment ces substances appartenantes
+originairement à d&#39;autres regnes ont été, pour ainsi
+dire, dépaysées &amp; transportées dans le regne minéral.
+Ce qui les a sur-tout frappés, c&#39;est l&#39;énorme
+quantité de coquilles &amp; de corps marins, dont on rencontre 
+des couches &amp; des amas immenses dans toutes
+les parties connues de notre globe, souvent à une distance 
+très-grande de la mer, depuis le sommet des
+plus hautes montagnes jusque dans les lieux les plus
+profonds de la terre. En effet, sans sortir de l&#39;Europe, la France, l&#39;Angleterre, l&#39;Allemagne, l&#39;Italie,
+<i>&amp;c.</i> nous en fournissent des exemples frappans. Les
+environs de Paris même nous présentent des carrieres 
+inépuisables de pierres propres à bâtir, qui paroissent 
+uniquement composées de coquilles. En genéral 
+il y a tout lieu de croire que toutes les terres 
+&amp; pierres calcaires, c&#39;est-à-dire qui sont propres 
+à se changer en chaux par l&#39;action du feu, telles 
+que les marbres, les pierres à chaux, la craie,
+<i>&amp;c.</i> doivent leur origine à des coquilles qui ont été
+peu à-peu détruites &amp; décomposées dans le sein de
+la terre, &amp; à qui un <i>gluten</i> a donné de la liaison, &amp;
+fait prendre la dureté &amp; la consistance plus ou moins
+grande que nous y remarquons. <i>Voyez l&#39;article</i> <sc><ref target="head:Calcaire" type="search">Calcaire</ref></sc>.
+</p>
+<p>
+Ces couches immenses de coquilles <i>fossiles</i> sont
+toûjours paralleles à l&#39;horison ; quelquefois il y en
+a plusieurs couches séparées les unes des autres par
+des lits intermédiaires de terre ou de sable. Il ne paroît 
+point qu&#39;elles ayent été répandues ni jettées au
+hasard sur les différentes parties de notre continent ;
+mais il y en a qui se trouvent toûjours ensemble &amp;
+forment des amas immenses. Il semble que les animaux 
+qui les habitoient ayent vêcu en famille &amp;
+formé une espece de société. Une chose très-digne
+de remarque, c&#39;est que suivant les observations des
+meilleurs naturalistes, les coquilles &amp; corps marins
+qui se trouvent dans nos pays ne sont point des
+mers de nos climats ; mais leurs analogues vivans
+ne se rencontrent que dans les mers des Indes &amp; des
+pays chauds. Quelques individus qui sont de tous
+les pays, &amp; que l&#39;on trouve avec ces coquilles, ne
+prouvent rien contre cette observation générale. Il
+y en a plusieurs dont les analogues vivans nous sont
+<milestone unit="column" n="2" />
+absolument inconnus : telles sont les cornes d&#39;Ammon, les bélemnites, les anomies, <i>&amp;c.</i> Il en est de
+même de beaucoup de plantes, de bois, d&#39;ossemens,
+<i>&amp;c.</i> que l&#39;on trouve ensoüis dans le sein de la
+terre, &amp; qui ne paroissent pas plus appartenir à nes
+climats que les coquilles <i>fossiles</i>.
+</p>
+<p>
+L&#39;on avoit observé déjà dans l&#39;antiquité la plus
+reculée, que la terre renfermoit un très-grand nombre 
+de corps marins ; cela donna lieu de penser qu&#39;il
+falloit qu&#39;elle eût autrefois servi de lit à la mer. Il
+paroît que c&#39;étoit le sentiment de Xénophane fondateur 
+de la secte éléatique ; Hérodote observa les
+coquilles qui se trouvoient dans les montagnes de
+l&#39;Egypte, &amp; soupçonna que la mer s&#39;en étoit retirée.
+Tel fut aussi, suivant le rapport de Strabon, le sentiment 
+d&#39;Eratosthene qui vivoit du tems de Ptolemée
+Philopator &amp; de Ptolemée Epiphane. On croyoit la
+même chose du tems d&#39;Ovide, qui dans un passage
+connu de ses metamorphoses, <i>liv. XV.</i> dit:
+<lg>
+<i>Vidi ego, quod fuerat quondam solidissima tellus,
+Eise fretum. Vidi factas ex aequore terras,
+Et procul à pelago conchoe jacuêre marinae</i>. &amp;c.
+</lg>
+</p>
+<p>
+Ce sentiment fut aussi celui d&#39;Avicenne &amp; des savans 
+arabes ; mais quoiqu&#39;il eût été si universellement 
+répandu parmi les anciens, il fut oublie par
+la suite ; &amp; les observations d&#39;Histoire naturelle furent 
+entierement négligées parmi nous dans les siecles 
+d&#39;ignorance qui succéderent. Quand on recommença 
+à observer, les savans à qui la philosophie
+péripatéticienne &amp; les subtilités de l&#39;ecole avoient
+fait adopter une façon de raisonner fort bisarre, pretendirent 
+que les coquilles, &amp; autres <i>fossiles</i> étrangers à la terre, avoient été formes par une force
+plastique (<i>vis plastica</i>) ou par une semence universellement 
+repandue (<i>seminium &amp; vis seminalis</i>). D&#39;où
+l&#39;on voit qu&#39;ils ne regardoient les corp marins <i>fossiles</i> que comme des jeux de la nature, sans faire attention 
+à la parfaite analogie qui se trouvoit entre
+ces mêmes corps tires de l&#39;interieur de la terre, &amp;
+d&#39;autres corps de la mer, ou appartenans au regne
+animal &amp; au regne végétal ; analogie qui eût seule
+suffi pour les detromper. On sentit cependant qu&#39;il
+y avoit des corps <i>fossiles</i> auxquels on ne pouvoit
+point attribuer cette formation, parce qu&#39;on y remarquoit 
+clairement une structure organique : de-là
+vint, par exemple, l&#39;opinion de quelques auteurs
+qui ont regarde les ossemens <i>fossiles</i> que l&#39;on trouve
+dans plusieurs endroits de la terre, comme ayant
+appartenu aux géans dont parle la Sainte-Ecriture ;
+cependant un peu de connoissance dans l&#39;Anatomie
+auroit suffi pour les convaincre que ces ossemens,
+quelquefois d&#39;une grandeur demesurée, avoient appartenu 
+à des poissons ou à des quadrupedes, &amp; non
+à des hommes. Ces prétendues forces plastiques &amp;
+ces explications, quelque absurdes &amp; inintelligibles
+qu&#39;elles fussent, ont trouvé &amp; trouvent encore aujourd&#39;hui des partisans, parmi lesquels on peut
+compter Lister, Langius, &amp; beaucoup d&#39;autres naturalistes,
+éclaires d&#39;ailleurs.
+</p>
+<p>
+Cependant dès le xvj. siecle plusieurs savans, à
+la tête desquels on peut mettre Fracastor, en considérant 
+les substances <i>fossiles</i> étrangeres à la terre,
+trouverent qu&#39;elles avoient une ressemblance si parfaite 
+avec d&#39;autres corps de la nature, qu&#39;ils ne douterent 
+plus que ce ne fut la mer qui les eût apportes
+sur le continent ; &amp; comme on ne voyoit point de
+cause plus vraissemblable de ce phénomene que le
+deluge universel, on lui attribua tous les corps marins 
+qui se trouvent sur notre globe, que ses eaux
+avoient entierement inondé. Burnet, en suivant le
+systeme de Descartes, prétendit expliquer comment
+cette grande révolution s&#39;etoit faite, &amp; d&#39;où etoit
+venue l&#39;immense quantité d&#39;eau qui produisit cette
+<pb n="7:211" facs="V7/ENC_7-211.jpeg" />
+<milestone unit="column" n="1" />
+catastrophe. L&#39;hypothèse de Burnet, en rendant raison 
+de la maniere dont le deluge avoit pu se faire,
+n&#39;expliquoit point comment il avoit pu apporter
+les corps marins que l&#39;on trouve si abondamment
+repandus sur la terre. Woodward crut remédier &amp;
+suppléer à ce qui manquoit à la theorie de Burnet
+par une idée assez ingénieuse, mais qui par malheur
+ne s&#39;accorde point avec les observations que l&#39;on a
+eu occasion de faire. Il prétendit que toutes les
+parties non organisées du globe terrestre avoient
+été parfaitement détrempées &amp; mises en dissolution
+par les eaux du déluge universel, &amp; que toutes les
+substances organisées qui s&#39;y trouvoient, après
+avoir eté quelque tems suspendues dans ces eaux,
+s&#39;étoient affaissées peu à-peu, &amp; enfin s&#39;etoient précipitées 
+chacune en raison de leur pesanteur spécifique.
+Ce sentiment fut adopte par un grand nombre 
+de naturalistes, &amp; entr&#39;autres par le célebre
+Scheuchzer. Cependant il est difficile de concevoir
+que le tems de la duree du deluge ait suffi pour détremper 
+une masse, telle que le globe de la terre,
+au point que Woodward le pretend. D&#39;ailleurs l&#39;expérience 
+prouve que les corps marins que l&#39;on trouve 
+dans l&#39;intérieur de la terre, n&#39;y ont point ete jettés 
+au hasard, puisqu&#39;il y a des individus qui se
+trouvent constamment les uns avec les autres. Outre cela, ces corps ne se trouvent point disposes
+comme étant tombes en raison de leur pesanteur
+spécifique, puisque souvent on rencontre dans les
+couches superieures d&#39;un endroit de la terre des
+corps marins d&#39;une pesanteur beaucoup plus gran le
+que ceux qui sont au-dessous. Emin, des corps fort
+pesans se trouvent quelquefois mélés avec d&#39;autres
+qui sons beaucoup plus legers.
+</p>
+<p>
+Plusieurs naturalistes, sans adopter les sentimens
+de Burnet sur la cause du deluge, ni l&#39;hypothese de
+Woodward, n&#39;ont point laisse que de regarder le
+déluge de Noé comme la cause qui avoit porte les
+corps étrangers sur la terre ; ils ont cru que par
+un changement dans la position de l&#39;axe de la terre,
+la mer pouvoit avoir ete jettée avec violence sur le
+continent qu&#39;elle avoit entierement inonde. &amp; que
+de cette maniere elle y ayoit apporte les productions
+&amp; les animaux qui lui sont propres.
+</p>
+<p>
+On ne peut douter de la réalité du déluge, de
+quelque voie que Dieu se soit servi pour operer
+cette gran le révolution, mais ii paroit que, sans s&#39;écarter 
+du respect du au témoignage des saintes Ecritures, il est permis à un naturaliste d&#39;examiner si le
+déluge a ete reellement cause des phénomenes dont
+nous parlons, sur-tout attendu que la Genese garde
+un silence profond sur cet article. D&#39;ailleurs rien
+n&#39;empéche de conjecturer que la terre n&#39;ait, indépendamment 
+du déluge, encore souffert d&#39;autres revolutions.
+Cela pose, il y a lieu de croire que ce
+n&#39;est point au deluge dont parle Moyse, qui n&#39;a été
+que passager, que sont dus les corps marins que l&#39;on
+trouve dans le sein de la terre. En effet l&#39;enorme
+quantite de coquilles &amp; de corps marins dont la
+terre est remplie, les montagnes entieres qui en sont
+presque uniquement composées, les couches immenses 
+&amp; toujours paralleles de ces coquilles, les
+carrieres prodigieuses de pierres coquillieres, semblent 
+annoncer un sejour des eaux de la mer très long 
+&amp; de plusieurs siecles, &amp; non pas une inondation 
+passagere &amp; de quelques mois, telle que fut
+celle du deluge, suivant la Genese. D&#39;ailleurs si les
+coquilles <i>fossiles</i> eussent été apportées par une inondation 
+subite &amp; violente, comme celle du deluge,
+ou par des courans d&#39;eaux, comme quelques auteurs 
+l&#39;ont prétendu, tous ces corps auroient eté
+jettés confusément sur la surface de la terre ; ce qui
+est contraire aux observations, comme nous l&#39;avons
+dejà remarque. Enfin s&#39;ils avoient été apportés de
+<milestone unit="column" n="2" />
+cette maniere, on devroit plutôt les trouver dans
+le fond des vallees que dans les montagnes ; cependant 
+on trouve presque toûjours le contraire. On
+voit par tout ce qui vient d&#39;être dit, que le sentiment 
+le plus probable est celui des Anciens qui ont
+cru que la mer avoit autrefois occupé le continent
+que nous habitons. Tout autre systeme est sujet à
+des difficultés invincibles, &amp; dont il est impossible
+de se tirer.
+</p>
+<p>
+Il seroit trop long d&#39;entrer dans le détail des <i>fossiles</i> étrangers à la terre : les principaux sont, comme
+on l&#39;a dejà remarqué, les coquilles de toute espece,
+qui sont quelquefois si bien conservées, que l&#39;on y
+remarque un émail aussi brillant &amp; la même vivacité 
+de couleurs, que dans celles qu&#39;on vient de tirer 
+de la mer ; d&#39;autres fois elles sont plus ou moins
+détruites &amp; décomposées : on en trouve qui sont
+comme rongees des vers &amp; percées d&#39;une infinité de
+trous ; d&#39;autres enfin sont si parfaitement détruites,
+qu&#39;il est impossible d&#39;y remarquer aucune trace de
+structure organique. Les ouvrages d&#39;une infinité de
+naturalistes sont remplis de descriptions de ces corps
+marins, &amp; plusieurs ont fait l&#39;enumération de ceux
+qui se rencontroient dans les differens pays qu&#39;ils
+habitoient. M. Rouelle, de l&#39;académie royale des
+Sciences, fait esperer un ouvrage sur la matiere
+dont nous parlons : c&#39;est le fruit de ses recherches
+&amp; des observations qu&#39;il a éu occasion de faire dans
+un grand nombre de voyages qu&#39;il a entrepris dans
+le dessein de vérifier ses soupçons. Cet habile naturaliste 
+ayant remarqué que certains corps marins
+se trouvent toûjours constamment ensemble dans
+de certains endroits, pense qu&#39;il est plus naturel
+&amp; plus commode de diviser les coquilles <i>fossiles</i> par
+familles ou par classes qu&#39;il nomme <i>amas ;</i> il compte
+donc décrire les individus qui se trouvent toùjours
+ensemble dans un même amas, &amp; en donner les figures,
+&amp; prouver que certains coquillages, quoique 
+de différentes especes, vivent toûjours constamment 
+ensemble dans certains endroits de la mer,
+&amp; ferment une espece de société semblable à celle
+que l&#39;on remarque dans quelques animaux terrestres,
+&amp; dans un grand nombre de plantes qui croissent 
+dans le voisinage les unes des autres. Cette
+méthode ne peut qu&#39;être infiniment avantageuse,
+en ce qu&#39;elle épargnera beaucoup de recherches inutiles,
+&amp; facilitera la description des <i>fossiles</i> d&#39;un district ; 
+puisque, sans entrer dans le détail minutieux
+de toutes les coquilles qu&#39;on trouvera dans un tel
+district, &amp; s&#39;exposer par-là à redire ce qui a déjà
+cent fois été dit par d&#39;autres, il suffira de connoître
+deux ou trois des individus qui s&#39;y rencontrent,
+pour savoir quelles sont les autres coquilles qui s&#39;y
+doivent encore trouver. Si par hasard il en etoit
+échappé quelques-unes à l&#39;auteur, on pourroit aisément 
+donner par supplement celles qu&#39;il n&#39;auroit
+point décrites, ou celles qui dans de certains pays
+feroient des exceptions à la regle générale. Ces
+avantages joints à un grand nombre d&#39;autres observations 
+intéressantes, doivent faire desirer à tous
+les curieux d&#39;être bien-tôt mis en possession de l&#39;ouvrage 
+de M. Roüelle.
+</p>
+<p>
+Outre les corps marins, tels que les coquilles,
+madrépores, <i>&amp;c.</i> il se trouve encore beaucoup d&#39;autres 
+<i>fossiles</i> étrangers dans les entrailles de la terre:
+tels sont les dents de poissons ou glossopetres, les
+ossemens d&#39;animaux, soit pétrifiés, soit dans leur
+état naturel, c&#39;est-à-dire sans avoir souffert de décomposition,
+des bois, des plantes, <i>&amp;c. Voyez</i> <sc><ref target="head:Figurées" type="search">Figurées</ref></sc> (<sc><ref target="head:pierres" type="search">pierres</ref></sc>), <sc><ref target="head:Pétrifications" type="search">Pétrifications</ref>, <ref target="head:Deluge" type="search">Deluge</ref></sc>,
+<i>&amp;c.</i> (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

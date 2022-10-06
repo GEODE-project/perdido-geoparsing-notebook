@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30255" id="54:107:1" vol="7">
+<index type="head" value="Grec vulgaire ou moderne" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="NA" />
+<head>Grec vulgaire</head>
+<p>
+<sc>Grec vulgaire</sc> <i>ou</i> <sc>moderne</sc>, est la langue
+qu&#39;on parle aujourd&#39;hui en Grece.
+</p>
+<p>
+On a écrit peu de livres en <i>grec</i> vulgaire depuis
+la prise de Constantinople par les Turcs ; ceux que
+l&#39;on voit ne sont guere que des catéchismes, &amp; quelques 
+livres semblables, qui ont été composés ou traduits 
+en <i>grec</i> vulgare par les Missionnaires latins.
+</p>
+<p>
+Les <i>Grecs</i> naturels parlent leur langue sans la cultiver : la misere où les réduit la domination des
+Turcs, les rend ignorans par nécessité, &amp; la politique 
+ne permet pas dans les états du grand-seigneur de
+cultiver les Sciences.
+</p>
+<p>
+Soit par principe de religion ou de barbarie, les
+Turcs ont détruit de propos-délibéré les monumens
+de l&#39;ancienne <i>Grece, &amp;</i> méprisé l&#39;étude du <i>grec</i>, qui
+pouvoit les polir, &amp; rendre leur empire florissant.
+Bien différens en cela des Romains, ces anciens conquérans 
+de la <i>Grece</i>, qui s&#39;appliquerent à en apprendre 
+la langue, après qu&#39;ils en eurent fait la conquête,
+pour puiser la politesse &amp; le bon goût dans les
+Arts &amp; dans les Sciences des <i>Grecs</i>.
+</p>
+<p>
+On ne sauroit marquer précisément la différence
+qu&#39;il y a entre le <i>grec</i> vulgaire &amp; le <i>grec</i> littéral : elle
+consiste dans des terminaisons des noms, des pronoms,
+des verbes, &amp; d&#39;autres parties d&#39;oraisons qui
+mettent entre ces deux langues une différence à-peu-près semblable à celle que l&#39;on remarque entre quelques 
+dialectes de la langue italienne ou espagnole.
+Nous prenons des exemples de ces langues, parce
+qu&#39;elles sont plus connues que les autres ; mais on
+pourroit dire la même chose des dialectes des langues 
+hébraïque, tudesque, esclavonne, <i>&amp;c.</i>
+</p>
+<p>
+Il y a aussi dans le <i>grec</i> vulgaire plusieurs mots
+nouveaux, qu&#39;on ne trouve point dans le <i>grec</i> littéral,
+des particules qui paroissent explétives, &amp; que
+l&#39;usage seul a introduites pour caractériser certains
+tems des verbes, ou certaines expressions qui auroient 
+sans ces particules le même sens, si l&#39;usage
+avoit voulu s&#39;en passer ; divers noms de dignités &amp;
+d&#39;emplois inconnus aux anciens <i>Grecs</i>, &amp; quantité
+de mots pris des langues des nations voisines. <i>Dictionnaire de Trévoux &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29928" id="53:317:10" vol="7">
+<index type="head" value="Gouge" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Plombier." />
+<index type="normclass" value="Plombier" />
+<index type="englishclass" value="Plumber" />
+<index type="generatedclass" value="Plombier" />
+<index type="pos" value="NA" />
+<head>Gouge</head>
+<p>
+<sc>Gouge</sc>, (<i>Plombier.</i>) est un outil de fer taillant
+par le bout, dont plusieurs ouvriers, &amp; entre autres
+les Tourneurs, Tablettiers, &amp; Plombiers se servent
+soit à la main, ou en la frappant avec le marteau.
+La <i>gouge</i> est une espece de ciseau creusé en forme
+de demi-canal, dont la portion de cercle est plus ou
+moins grande, selon qu&#39;on veut caver ou arrondir
+plus ou moins l&#39;endroit de l&#39;ouvrage où on s&#39;en sert.
+Ce ciseau est toûjours emmanché dans un morceau
+de bois : les Charpentiers se servent aussi d&#39;une <i>gouge</i>, mais qui est bien différente de celle-ci ; car elle
+est toute de fer, &amp; a deux piés &amp; demi de longueur.
+<i>Voyez la <ref target="XPL:5368" type="platelink">fig. 9</ref>. <ref target="XPL:5369" type="platelink">Planche III</ref>. du Plombier</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

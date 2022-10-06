@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28183" id="50:40:31" vol="7">
+<index type="head" value="Franc et quitte" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Franc et quitte</head>
+<p>
+<sc>Franc et quitte</sc>, est une clause qui signifie
+que les biens dont il s&#39;agit ne sont grevés d&#39;aucunes
+hypotheques ni autres charges. On peut faire la déclaration 
+de <i>franc &amp; quitte</i>, par rapport à un héritage 
+que l&#39;on vend ; ordinairement on le déclare
+<i>franc &amp; quitte</i> des arrérages, de cens, &amp; autres charges 
+réelles du passé, jusqu&#39;au jour de la vente.
+</p>
+<p>
+On peut aussi déclarer l&#39;héritage que l&#39;on vend
+<i>franc &amp; quitte</i> de toutes charges &amp; hypotheques.
+</p>
+<p>
+Quelquefois un homme qui s&#39;oblige déclare tous
+ses biens <i>francs &amp; quittes</i>, c&#39;est-à-dire qu&#39;il ne doit
+rien ; ou bien il les déclare <i>francs &amp; quittes</i> à l&#39;exception 
+d&#39;une certaine somme qu&#39;il spécifie.
+</p>
+<p>
+Lorsque la déclaration de <i>franc &amp; quitte</i> se trouve
+fausse, il faut distinguer si c&#39;est par erreur qu&#39;elle a
+été faite, ou si c&#39;est de mauvaise foi.
+</p>
+<p>
+L&#39;erreur peut arriver lorsque celui qui a fait la déclaration 
+de <i>franc &amp; quitte</i> ignoroit les hypotheques
+qui avoient été constituées sur les biens par ses auteurs,
+&amp; en ce cas il est seulement tenu civilement
+de faire décharger les biens des hypotheques, ou de
+souffrir la résiliation du contrat avec dommages &amp;
+intérêts.
+</p>
+<p>
+Mais si la déclaration de <i>franc &amp; quitte</i> a été faite
+de mauvaise foi, c&#39;est un stellionat : &amp; celui qui a
+fait cette déclaration est tenu de souffrir la rélolution
+du contrat avec dommages &amp; intérêts ; &amp; l&#39;on peut
+le faire condamner par corps, quand même il auroit
+des biens suffisans pour répondre de ses engagemens.
+<i>Voyez</i> <sc><ref target="head:Stellionat" type="search">Stellionat</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

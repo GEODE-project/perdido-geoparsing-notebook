@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28819" id="51:117" vol="7">
+<index type="head" value="GALATÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythologie." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="NA" />
+<head>GALATÉE</head>
+<p>
+GALATÉE, (<i>Mythologie.</i>) nymphe de la mer,
+fille de Nérée &amp; de Doris, selon les Poëtes, qui la
+nommerent <i>Galathée</i>, soit à cause de sa blancheur,
+soit suivant Eustathe, parce qu&#39;elle étoit la mer même 
+dont l&#39;écume fait blanchir les flots. Quoi qu&#39;il en
+soit, cette charmante nymphe fut en même tems aimée 
+par le berger Acis, pour lequel elle eut le retour 
+le plus tendre, &amp; par l&#39;affreux Polyphème qu&#39;elle 
+détesta souverainement. Si vous me demandiez,
+dit-elle dans Ovide, si je n&#39;avois pas autant de haine
+pour le cyclope que d&#39;amour pour Acis, je vous
+répondrois que la chose étoit bien égale. Acis fut la
+victime des sentimens de <i>Galatée:</i> un jour le cyclope 
+le surprit avec son amante, &amp; lança sur lui un
+rocher d&#39;une grosseur immense dont il l&#39;écrasa ; la
+nymphe pénétrée de douleur, changea le sang du
+fils de Faune en un fleuve qui prit son nom ; ensuite
+elle se jetta de desespoir dans la mer, &amp; rejoignit pour
+toûjours ses soeurs les Néréides. Il paroît que cette sable 
+n&#39;a d&#39;autre fondement que l&#39;imagination des Poëtes, ou quelque avanture dans laquelle un rival puissant 
+&amp; furieux aura fait périr l&#39;amant &amp; la maîtresse.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

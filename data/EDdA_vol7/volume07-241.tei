@@ -1,0 +1,315 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27695" id="49:4" vol="7">
+<index type="head" value="FORCEPS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>FORCEPS</head>
+<p>
+<i>FORCEPS</i>, <i>en Chirurgie</i>, mot latin qui signifie
+littéralement <i>une paire de tenailles:</i> il convient génériquement 
+à toutes les especes de pincettes, ciseaux,
+cisoires, tenettes, &amp; autres instrumens avec lesquels 
+on saisit &amp; l&#39;on tire les corps étrangers. <i>Voyez</i>
+<sc><ref target="head:Corps étranger" type="search">Corps étranger</ref>, <ref target="head:Exérese" type="search">Exérese</ref></sc>
+</p>
+<p>
+On a conservé particulierement le nom de <i>forceps</i>
+à une espece de tenette destinée à faire l&#39;extraction
+d&#39;un enfant dont la tête est enclavée au passage. Cet
+instrument a été appellé long-tems <i>le tire-tête de Palfin</i>, du nom de cet auteur, chirurgien &amp; lecteur d&#39;anatomie 
+à Gand. Nous avons peu d&#39;instrumens qui
+ayent souffert plus de changemens dans leur construction.
+On peut lire avec fruit l&#39;histoire très-détaillée des différens <i>forceps</i>, dans un traité de M. Levret, de l&#39;académie royale de Chirurgie, intitulé
+<i>observations sur les causes &amp; les accidens de plusieurs
+accouchemens laborieux</i>, Paris 1747, &amp; dans la suite
+de ces observations données au public en 1751.
+</p>
+<p>
+Cet instrument est composé de deux branches,
+auxquelles on considere un corps &amp; deux extrémités ; 
+l&#39;une antérieure, pour saisir la tête de l&#39;enfant ;
+&amp; l&#39;autre postérieure, qu&#39;on peut appeller <i>le manche</i>. La jonction des deux branches à l&#39;endroit du
+corps se fait par entablement. A l&#39;une des branches,
+il y a un bouton conique qui entre dans une ouverture 
+pratiquée dans le corps de l&#39;autre branche, &amp;
+on les assujettit par le moyen d&#39;une coulisse à mortaise,
+laquelle engage le collet qui est à l&#39;extrémité
+du bouton. M. Smellié, célebre praticien de Londres, se sert d&#39;un <i>forceps</i> dont les deux pieces se joignent 
+par encochure ; on les fixe par un lac ou lien
+qu&#39;on noue sur les manches. M. Levret avoue que
+cette jonction par deux coches profondes qui se reçoivent 
+mutuellement, est plus commode dans l&#39;usage 
+que la jonction par l&#39;entablement à mi-fer : mais
+il ne la croit pas si stable, non-seulement par le défaut 
+d&#39;opposition exacte des parties supérieures de
+l&#39;instrument, mais encore par le vacillement des
+branches, que le lien ne peut empêcher.
+</p>
+<p>
+L&#39;extrémité anterieure de chaque branche est une
+cuillere fenêtrée ; la tête s&#39;engage naturellement dans
+ces vuides, &amp; donne par-là une bonne prise à l&#39;instrument.
+Dans les <i>forceps</i> anglois le plein de la partie
+intérieure étoit demi-rond sur sa largeur. M. Levret
+y a fait pratiquer une petite cannelure bordée d&#39;une
+petite levre le long du bord interne le plus éloigné
+du vuide des branches, afin que l&#39;instrument pût
+s&#39;appliquer encore plus intimement sur les parties
+<pb n="7:126" facs="V7/ENC_7-126.jpeg" />
+<milestone unit="column" n="1" />
+latérales de la tête de l&#39;enfant, &amp; que la prise fût
+plus solide.
+</p>
+<p>
+Les manches ou parties postérieures de l&#39;instrument 
+n&#39;ont pas besoin de description : la <i><ref target="XPL:4751" type="platelink">figure 1</ref>.
+<ref target="XPL:4752" type="platelink">Planche XV</ref>. de Chirurgie</i>, représente cet instrument
+à la moitié du volume naturel.
+</p>
+<p>
+Le <i>forceps</i> est un instrument indispensable dans la
+pratique des accouchemens. Il est fort avantageux
+pour tirer un enfant dont la tête est enclavée au
+passage, ou lorsque l&#39;accouchement traîne en longueur,
+&amp; qu&#39;il devient impossible par l&#39;épuisement
+des forces de la mere. Son usage n&#39;est point dangereux ; 
+on tire par son moyen des enfans vivans sans
+aucune impression funeste.
+</p>
+<p>
+On ne doit pas toûjours se proposer d&#39;amener la
+tête en-dehors par l&#39;usage du <i>forceps:</i> il peut servir
+avec succès à la repousser en-dedans lorsqu&#39;elle n&#39;est
+pas trop avancée ; ce qui se fait en donnant à l&#39;instrument 
+qui embrasse la tête des petits mouvemens
+en-haut, en-bas, &amp; latéralement ; &amp; lorsqu&#39;on est
+parvenu à faire rentrer la tête, on peut porter la
+main dans la matrice pour aller saisir les pieds de
+l&#39;enfant, &amp; terminer l&#39;accouchement suivant la méthode 
+ordinaire en pareil cas.
+</p>
+<p>
+Les anciens accoucheurs, faute de cet instrument,
+attendoient tout des forces de la nature dans les accouchemens,
+jusqu&#39;à ce que le foetus étant mort ils
+se servoient du crochet. <i>Voyez</i> <sc><ref target="head:Crochet" type="search">Crochet</ref></sc>. Souvent
+même à raison du péril où la mere se trouvoit, ils
+étoient forcés d&#39;avoir recours à ce dernier instrument,
+&amp; de sacrifier l&#39;enfant vivant ; procédé
+généralement condamné par les modernes, qui
+préviennent tous les desordres qui peuvent suivre
+de l&#39;enclavement de la tête de l&#39;enfant, en se servant 
+du <i>forceps</i>. Le signe le plus positif qui doit déterminer 
+l&#39;accoucheur à employer promptement le
+<i>forceps</i>, c&#39;est la formation d&#39;une tumeur sur la tête
+enclavée de l&#39;enfant, qui n&#39;avance plus quoique le
+travail ne soit point interrompu, mais seulement ralenti.
+La circonstance la plus ordinaire, &amp; dans laquelle 
+on se sert le plus utilement du <i>forceps</i> sur une
+femme bien conformée, c&#39;est lorsque la base du crane 
+est encore placée au-dessus du détroit supérieur
+des os du bassin, pendant que le casque osseux est
+dans le vagin, &amp; que l&#39;orifice de la matrice est presqu&#39;entierement effacé par sa grande dilatation : il
+est bon d&#39;observer qu&#39;à quelque degré que la tête
+soit enclavée, elle permet toujours l&#39;introduction
+des branches du <i>forceps</i>, parce qu&#39;elle se prête suffisamment 
+à leur passage, sans qu&#39;il soit besoin d&#39;user
+d&#39;aucune violence capable de nuire à la mere ni à
+l&#39;enfant. Aussi se sert on fort utilement de cet instrument 
+dans les cas où la difficulté de l&#39;accouchement
+vient du volume trop considérable de la tête de l&#39;enfant 
+sans hydrocéphale ; car au moyen du <i>forceps</i> on
+facilite peu-à-peu son alongement, &amp; l&#39;on procure
+enfin sa sortie.
+</p>
+<p>
+Pour faire usage du <i>forceps</i>, il faut d&#39;abord placer
+convenablement la malade sur le bord de son lit,
+les cuisses élevées &amp; écartées, les piés rapprochés
+des fesses, &amp; maintenus en cette situation par des
+aides. On tâche ensuite de reconnoître dans l&#39;intervalle 
+de deux douleurs, s&#39;il y en a encore, avec
+l&#39;extrémité des doigts, dans quel point de sa circonférence 
+la tête de l&#39;enfant paroît le moins serrée ;
+c&#39;est ordinairement la partie latérale du bassin ; &amp;
+par ce même endroit on introduit la branche du <i>forceps</i> qui porte l&#39;axe, si c&#39;est du côté gauche, en l&#39;appuyant 
+plus sur la tête de l&#39;enfant que contre le bassin 
+de la mere, afin de conduire cette branche entre 
+ces parties sans les blesser. Il faut pour cet effet
+tenir obliquement la branche qu&#39;on veut introduire,
+&amp; la diriger de bas en haut jusqu&#39;à ce que son extrémité 
+supérieure se trouve placée dans l&#39;échancrure
+<milestone unit="column" n="2" />
+de l&#39;os des îles de ce côté: alors il faut faire décrire
+à cette branche un demi-cercle, en la faisant passer
+en côté opposé par le dessus ou par le dessous, suivant 
+qu&#39;il y aura moins de résistance. Un aide doit
+soûtenir cette branche. L&#39;opérateur introduit la seconde 
+par le même endroit que la premiere ; &amp; lorsqu&#39;elle est à une égale profondeur, on les croise
+pour les joindre solidement par le moyen de l&#39;axe
+&amp; de la piece à coulisse destinés à cet usage.
+</p>
+<p>
+Lorsque la tête est bien saisie, il faut en faire l&#39;extraction : premierement il faut tirer vers le bas pour
+faire descendre la tête dans le vagin ; &amp; lorsqu&#39;elle
+y est descendue presqu&#39;entierement, on doit tirer
+horisontalement ; &amp; sur la fin il faut relever les
+mains. Ces trois mouvemens sont indiqués par la
+direction du chemin que la tête doit parcourir depuis 
+le détroit du bassin jusqu&#39;au dehors de la vulve.
+Mais outre ces mouvemens principaux il faut encore,
+pour faciliter l&#39;opération, en faire de petits en
+tous sens pendant tout le tems de l&#39;extraction.
+</p>
+<p>
+Mais lorsque la face de l&#39;enfant est tournée en-dessus,
+il est rare, pour ne pas dire impossible, suivant 
+M. Levret, que le <i>forceps</i> droit puisse saisir la
+tête, parce que ses branches sont dirigées vers la
+saillie de l&#39;os sacrum ; ensorte que lorsqu&#39;on croit
+tenir avec cet instrument la tête dans l&#39;un de ses diametres,
+on ne tient qu&#39;une portion de sa circonférence 
+près du cou ; de maniere qu&#39;il est alors absolument 
+impossible d&#39;en faire l&#39;extraction, parce que
+l&#39;instrument, faute d&#39;une prise convenable, s&#39;échappe 
+entre la tête de l&#39;enfant &amp; le rectum de la mere.
+Ce defaut de succès a suggéré à M. Levret une correction 
+du <i>forceps</i>: il a donné à ses branches une
+courbure, au moyen de laquelle on peut saisir la tête
+de l&#39;enfant au-dessus des os pubis. <i>Voyez Plan. XV.
+<ref target="XPL:4753" type="platelink">fig. 2</ref></i>. Et comme ce nouveau <i>forceps</i> peut servir dans
+tous les cas, M. Levret a proscrit le droit de sa pratique.
+Un homme intelligent sentira assez la précaution
+que la courbure exige pour l&#39;introduction de l&#39;instrument,
+&amp; dans les mouvemens pour l&#39;extraction
+de la tête. Le <i>forceps</i> courbe peut aussi être d&#39;un
+grand secours pour extraire la tête d&#39;un enfant restée
+dans la matrice &amp; séparée du corps.
+</p>
+<p>
+En général on ne doit se servir du <i>forceps</i> que
+dans les cas où il est impossible que la tête sorte du
+couronnement sans son secours : ainsi il ne doit
+avoir lieu que quand la tête y est si serrée qu&#39;elle
+peut être dite enclavée. On pourroit quelquefois
+prévenir ces enclavemens par des manoeuvres particulieres 
+dirigées avec intelligence, différemment
+suivant les cas : par exemple, quand le visage de
+l&#39;enfant se présente avec le menton ou le front contre 
+l&#39;os pubis, on essaye de faire remonter l&#39;enfant
+assez haut pour que la tête se présente directement
+au passage. Si l&#39;on ne peut y réussir, il semble d abord 
+qu&#39;il n&#39;y auroit point d&#39;autre moyen que de
+recourir au <i>forceps</i> ; cependant on parvient à faire
+descendre aisément le front dans le vagin, en faisant
+mettre la femme sur les genoux &amp; les coudes, &amp; en
+appliquant dans cette posture une main sur le pubis.
+</p>
+<p>
+Il y a des cas où il suffiroit pour déclaver la tête
+d&#39;un enfant, d&#39;introduire entre elles &amp; les parties de la
+mere qui s&#39;opposent à la sortie de l&#39;enfant, un instrument 
+fait en levier. Tel est le fameux instrument de
+Roonhuisen, qui a été si long-tems un secret en Hollande, où l&#39;on assûre que ce célebre praticien terminoit 
+presque tous les accouchemens laborieux par ce
+moyen si simple. <i>Voyez <ref target="XPL:4754" type="platelink">Pl. XV</ref>. <ref target="XPL:4755" type="platelink">fig. 3</ref></i>. Il paroît qu&#39;on
+peut dégager avantageusement par ce levier la tête
+retenue par l&#39;os pubis, ou la tête qui dans une disposition 
+oblique de la matrice arc bouteroit contre une
+des tubérosités de l&#39;os ischion. <i>Voyez</i> sur l&#39;usage des
+<i>forceps</i>, les ouvrages de M. Levret &amp; ceux de M.
+Smellié, accoucheurs à Paris &amp; à Londres ; la matiere<gap type="hyphenpb" />
+<pb n="7:127" facs="V7/ENC_7-127.jpeg" />
+<milestone unit="column" n="1" />
+y est traitée d&#39;une maniere très-instructive, toutes 
+les difficultés y sont éclaircies ; l&#39;expérience &amp;
+la théorie s&#39;y prêtent un appui mutuel. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27890" id="49:101:1" vol="7">
+<index type="head" value="Foudre, pierres de" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. &amp; Physiq." />
+<index type="normclass" value="Histoire naturelle | Physique" />
+<index type="englishclass" value="Natural history | Physics" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Foudre</head>
+<p>
+<sc>* Foudre</sc>, <i>pierres de</i> (<i>Hist. nat. &amp; Physiq.</i>) pierre
+dont le vulgaire pense que la chûte, ou même la
+formation du tonnerre est toûjours accompagnée.
+Leur existence est fort douteuse. M. Lemery croit
+pourtant qu&#39;il n&#39;est pas absolument impossible que
+les ouragans, en montant rapidement jusqu&#39;aux nues,
+n&#39;enlevent avec eux des matieres pierreuses &amp; minerales,
+qui s&#39;amollissant &amp; s&#39;unissant par la chaleur,
+forment ce qu&#39;on appelle <i>pierre de foudre</i>. St cette
+idée de M. Lemery n&#39;est pas une vision, il ne s&#39;en
+manque guere.
+</p>
+<p>
+Ce qu&#39;on a pris pour une <i>pierre de foudre</i>, est une
+matiere minérale, fondue &amp; formée par l&#39;action du
+tonnerre, ou peut-être même quelque substance,
+telle que la terre en renferme beaucoup dans les endroits 
+ou elle a été fouillée par des volcans qui se
+sont éteints.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Le tonnerre étant venu à tomber dans ces endroits,
+&amp; le peuple y ayant ensuite rencontré ces
+substances qui portent extérieurement des empreintes 
+évidentes de l&#39;action du feu, il les aura prises
+pour ce qu&#39;il a appellé des <i>pierres de foudre</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27633" id="48:75" vol="7">
+<index type="head" value="FONTANELLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Anatomie." />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="s.f." />
+<head>FONTANELLE</head>
+<p>
+FONTANELLE (<sc>la</sc>), s. f. (<i>Anatomie.</i>) dans nos
+auteurs, <i>fontanella, fons pulsatilis</i>. La grande ouverture 
+en forme de lozange située entre le coronal &amp;
+les pariétaux, au centre de la croix qui est formée
+par l&#39;engrenure sagittale, la ligne de division de l&#39;os
+frontal, &amp; l&#39;engrenure coronale, est ce qu&#39;on nomme
+<i>sontanelle</i> dans le foetus. Comme cette place n&#39;est
+presque pas membraneuse dans les enfans nouveaux-nés,
+l&#39;on y sent alors avec la main le battement des
+arteres de la dure-mere &amp; du cerveau. Cet endroit
+reste aussi durant quelque tems cartilagineux après
+la naissance : quelquefois même les enfans attaqués
+du rachitis, ont cette partie très-tendre dans un âge
+assez avancé, parce que leurs os conservent longtems 
+leur mollesse. Enfin, par un évenement fort ra
+re, on a vû des sujets en qui cette partie n&#39;a pas été
+ossifiée pendant toute leur vie. Cependant d&#39;ordinaire 
+les os du crane deviennent si compactes avec l&#39;âge,
+qu&#39;ils sont même quelquefois plus épais à la <i>fontanelle</i> que par-tout ailleurs. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

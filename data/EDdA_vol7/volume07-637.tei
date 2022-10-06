@@ -1,0 +1,671 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28091" id="50:24:1" vol="7">
+<index type="head" value="Fracture" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manege &amp; Maréchallerie." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Fracture</head>
+<p>
+<sc>Fracture</sc>, (<i>Manege &amp; Maréchallerie.</i>) solution
+de continuité des os &amp; même des cartilages, faite
+par un corps extérieur contondant, très-différente
+de la plaie faite à l&#39;os par un instrument tranchant ou
+piquant, ainsi que de la luxation, qui n&#39;est véritablement 
+qu&#39;une solution de contiguité.
+</p>
+<p>
+Les os peuvent être fracturés dans tous les sens
+possibles.
+<pb n="7:270" facs="V7/ENC_7-270.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Il est des <i>fractures</i> transversales ; il en est d&#39;obliques ; 
+il en est de longitudinales : dans d&#39;autres enfin
+l&#39;os est entierement écrasé.
+</p>
+<p>
+Nous appellons <i>fracture transversale</i>, celle par laquelle 
+l&#39;os a été divisé dans une direction perpendiculaire 
+à sa longueur ; &amp; <i>fracture oblique</i>, celle dans
+laquelle la division s&#39;écarte plus ou moins de cette
+direction.
+</p>
+<p>
+Ces <i>fractures</i> sont sans déplacement, lorsque chaque 
+portion divisée demeure dans une juste opposition ; 
+avec déplacement imparfait, lorsqu&#39;elles ne se
+répondent pas exactement ; avec déplacement total,
+quand elles glissent l&#39;une à côté de l&#39;autre. Elles
+peuvent être encore transversales &amp; obliques en même 
+tems ; obliques dans une portion de leur étendue ; transversales dans l&#39;autre, <i>&amp;c</i>.
+</p>
+<p>
+Dans les <i>fractures longitudinales</i>, les os sont simplement 
+fendus selon leur longueur ; elles ne sont
+proprement que des fissures, les parties divisées de
+ces mêmes os n&#39;étant &amp; ne pouvant être séparés en
+entier.
+</p>
+<p>
+Enfin nous comprenons dans les <i>fractures</i> où l&#39;os a
+été écrasé, toutes celles où il a été brisé &amp; réduit en
+plusieurs éclats, &amp; en un nombre plus ou moins considérable 
+de fragmens.
+</p>
+<p>
+La chirurgie vétérinaire doit encore se conformer
+à la chirurgie du corps humain, en adoptant la distinction 
+que celle-ci fait des <i>fractures</i> en <i>fracture</i> simple,
+composée, compliquée, complete &amp; incomplete.
+</p>
+<p>
+Un seul os cassé en un seul endroit sans accidens
+extraordinaires &amp; sans un dommage évident pour
+les parties dont il est environné, constitue la <i>fracture</i> simple.
+</p>
+<p>
+Plusieurs os cassés dans une même partie, ou le
+même os rompu en différens endroits, forment ce
+que nous entendons par <i>fracture</i> composée.
+</p>
+<p>
+Nous nommons <i>fracture compliquée</i>, celle à laquelle
+s&#39;unissent des symptomes, qui exigent de la part du
+maréchal une méthode particuliere dans le traitement : telles sont les <i>fractures</i> avec plaie, luxation,
+hémorrhagie, contusion violente, <i>&amp;c</i>.
+</p>
+<p>
+Nous disons que la <i>fracture</i> est complete, lorsque
+la solution de continuité est entiere ; &amp; incomplete,
+quand elle ne l&#39;est pas. Ce dernier cas qui n&#39;a lieu
+dans l&#39;homme &amp; dans l&#39;animal qu&#39;eu égard aux os
+plats, pourroit ensuite d&#39;un coup de feu arriver aux
+autres os.
+</p>
+<p>
+Les coups, les chûtes, les grands efforts, sont les
+causes ordinaires des <i>fractures</i> ; la destruction de la direction 
+du mouvement musculaire ; la cessation de l&#39;action 
+des muscles attachés à l&#39;os fracturé; le racourcissement 
+du membre, conséquemment à la contraction
+spontanée de ces puissances ; sa défiguration relative
+à leur dérangement ; sa difformité provenant de la
+surabondance ou de la marche impétueuse des sues
+régénérans ; la dilacération des tuniques qui revêtent 
+extérieurement &amp; intérieurement les os ; la rupture 
+des vaisseaux qui rampent dans leurs cavités &amp;
+dans leurs cellules ; l&#39;irritation, le déchirement des
+membranes, des tendons &amp; des nerfs ; la compression,
+l&#39;anéantissement, l&#39;inflammation des tuyaux
+voisins de la solution de continuité; la contusion des
+parties molles qui se rencontre entre la cause vulnérante 
+&amp; l&#39;os, en sont en général les suites les plus
+considérables &amp; les plus graves.
+</p>
+<p>
+Nous avons ici pour symptomes univoques, les
+vuides, les inégalités résultant des pieces d&#39;os déplacées ; 
+la crépitation ou le bruit occasionné par
+le frotement de ces mêmes pieces, lorsque la portion
+supérieure du membre étant fixement maintenue,
+on en remue legerement la portion inférieure, &amp;
+l&#39;état du membre qui plie dans l&#39;endroit cassé, cette
+même portion inférieure étant plus ou moins mobile
+&amp; pendante ; la douleur, la difficulté du mouvement ;<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+l&#39;impossibilité de tout appui sur la partie lésée,
+<i>&amp;c.</i> sont des signes vraiment équivoques, puisqu&#39;ils peuvent se rapporter à d&#39;autres accidens qu&#39;à
+celui dont il s&#39;agit.
+</p>
+<p>
+Quant aux preuves certaines de la réalité de fissures,
+elles sont très-difficiles à acquérir ; elles le bornent 
+aux tumeurs qui les accompagnent, &amp; quelquefois 
+à l&#39;inflammation, à la suppuration, à la carie ;
+&amp; toutes ces circonstances ne présagent encore rien
+de constant &amp; d&#39;assuré.
+</p>
+<p>
+Plusieurs auteurs, parmi lesquels on peut compter
+Ruini, dont l&#39;ouvrage fut publié des l&#39;année 1599,
+ont proposé des moyens de remédier aux <i>fractures</i>.
+M. de Soleysel lui-même proteste avoir vu un mulet
+&amp; un cheval parfaitement guéris ; le premier d&#39;une
+<i>fracture</i> à la cuisse, le second d&#39;une <i>fracture</i> compliquée 
+au bras. Si néanmoins nous nous abandonnions
+aux impressions de la multitude, nous déciderions
+affirmativement que toute solution de continuite de
+cette espece est incurable dans l&#39;animal. En effet,
+on a imaginé que ses os étoient dépourvûs de moelle ;
+&amp; de ce fait qu&#39;il étoit aisé de verifier, mais qu&#39;on
+a dédaigné d&#39;approfondir, on a conclu que dès qu&#39;ils
+étoient fracturés, toute reunion étoit impossible.
+Quand on pourroit imputer ou reprocher avec raison 
+à la nature d&#39;avoir, relativement au cheval, négligé 
+toutes les précautions qu&#39;elle a prises, eu egard
+à tous les autres animaux, pour corriger par le moyen
+de la matiere huileuse &amp; subtile dont les vésicules
+osseuses sont remplies, &amp; par celui de la masse moelleuse 
+contenue dans les grandes cavités des os, la
+rigidité de ces parties, il s&#39;ensuivroit seulement qu&#39;elles 
+seroient plus seches &amp; plus cassantes ; &amp; l&#39;on ne
+pourroit tirer d&#39;autre conséquence de leur fragilité,
+que le danger toûjours prochain des <i>fractures</i>. Ce
+n&#39;est ni à cette huile déliée, ni à cette masse médullaire,
+que les os doivent leur nutrition &amp; leur accroissement.
+Parmi les vaisseaux innombrables qui
+traversent le périoste, s&#39;il en est qui pénetrent dans
+leurs cellules &amp; dans leur portion caverneuse, il en
+est d&#39;autres qui s&#39;insinuent dans leur substance, &amp;
+qui y portent des fluides &amp; un suc lymphatique, qui
+coulant &amp; circulant dans les tuyaux de leurs fibres,
+réparent toute dissipation. Cette lymphe ou ce suc
+nourricier qui parcourt ces fibres, ne peut que s&#39;épancher 
+à leurs ouvertures ; il s&#39;épaissit dès qu&#39;il y est
+déposé: ainsi dans la circonstance d&#39;une <i>fracture</i> il se
+congele à l&#39;embouchure de chaque conduit osseux,
+comme à l&#39;orifice des canaux ouverts, dans la circonstance 
+d&#39;une plaie dans les parties molles. La
+réunion &amp; la régénération s&#39;operent ici presque de
+la même maniere. <i>Voyez</i> <sc><ref target="head:Feu" type="search">Feu</ref>, <ref target="head:Cautere" type="search">Cautere</ref></sc>. Chaque
+molécule lymphatique fournit un passage à celles qui
+la suivent, elles s&#39;arrangent de telle sorte, qu&#39;en effectuant 
+le prolongement des fibres à l&#39;endroit fracturé,
+elles en remplissent tous les vuides, &amp; soudent 
+enfin très-solidement toutes les pieces rompues
+&amp; divisées, pourvû néanmoins qu&#39;elles ayent été
+réduites, rapprochées, &amp; régulierement maintenues
+dans cet état. La supposition de l&#39;absence totale de
+la moelle dans les os du cheval, ne devroit donc
+point conduire à l&#39;opinion &amp; au système de l&#39;incurabilité 
+des <i>fractures</i>, à moins que par une suite de
+cette premiere absurdité, on eût encore pensé que
+les os de cet animal non moins durs &amp; non moins
+arides que ceux des squelettes, ne reçoivent aucune
+nourriture, &amp; ne sont impregnés d&#39;aucuns sucs.
+</p>
+<p>
+Il faut avoüer cependant que toutes les <i>fractures</i>
+ne sont pas également curables ; la quantité des muscles 
+dont, par exemple, l&#39;humerus ou le bras proprement 
+dit, &amp; le femur ou la cuisse proprement dite,
+sont couverts ; la difficulté d&#39;y faire une réduction
+exacte ; la force des faisceaux musculeux qui tendroient 
+toûjours, sur-tout si la <i>fracture</i> étoit oblique,
+<pb n="7:271" facs="V7/ENC_7-271.jpeg" />
+<milestone unit="column" n="1" />
+à déplacer les pieces réduites ; l&#39;impossibilité de les
+assujettir solidement par un bandage, vu la figure des
+membres en ces endroits : tout me détermine a croire 
+que dans le cas où il y auroit une <i>fracture</i>, même
+simple à l&#39;un ou à l&#39;autre de ces os, nos efforts seroient 
+impuissans, &amp; nos tentatives inutiles. Je ne
+vois dans les os du corps de l&#39;animal, que les côtes ;
+dans ses extrémités antérieures, que les os du paturon,
+du canon, &amp; le cubitus, c&#39;est-à-dire l&#39;os de l&#39;avant-bras proprement dit ; &amp; dans ses extrémités posterieures,
+que ces deux premiers os &amp; le tibia, vulgairement 
+&amp; mal-à-propos nomme par M. de Soleysel l&#39;<i>os de la cuisse</i>, dont la <i>fracture</i> n&#39;offre rien qui
+doive d&#39;abord nous faire desesperer des succès, encore 
+ne peut-on veritablement s&#39;en flater, relativement 
+au tibia, qu&#39;autant qu&#39;il n&#39;aura point été fracturé 
+dans le lieu de sa tubérosité, ou dans sa partie
+superieure. Je dita plus, les prognostics de ces <i>fractures</i> ne sont pas tous avantageux ; un fragment d&#39;os
+considérable emporte par une balle, nous met dans
+la nécessité d&#39;abandonner a jamais l&#39;animal. Il en est
+de même lorsque les muscles, les nerfs, les vaisseaux
+se trouvant entre les fragmens très-écartés de l&#39;os,
+s&#39;opposent au replacement, &amp; lorsqu&#39;un même os
+est casse en plusieurs endroits, car alors il demeure
+seme d&#39;inégalites sans nombre, &amp; la cure est toûjours 
+très-lente &amp; très incertaine. Elle est infiniment
+plus difficile quand il s&#39;agit d&#39;une <i>fracture</i> compliquée,
+d&#39;une <i>fracture</i> avec déplacement total, d&#39;une
+<i>fracture</i> oblique, d&#39;une <i>fracture</i> ancienne, d&#39;une <i>fracture</i> dans un vieux cheval, <i>&amp;c.</i> que lorsqu&#39;il est question 
+d&#39;une <i>fracture</i> simple, sans déplacement, transversale,
+recente, &amp; faite à l&#39;os d&#39;un jeune cheval,
+ou d&#39;un poulain ; &amp; elle est aussi beaucoup plus
+prompte dans ces derniers cas, selon neanmoins le
+volume des os fracturés ; le calus etant solidement
+forme au bout de vingt ou vingt-cinq jours dans la
+<i>fracture</i> des côtes ; le canon n&#39;etant repris qu&#39;après
+quarante jours écoulés ; le cubitus, qu&#39;après cinquante,
+&amp; quelquefois soixante, <i>&amp;c</i>.
+</p>
+<p>
+Quelque importans que soient ces détails, quand
+je les étendrois au-delà des bornes que nous devons
+nous prescrire dans cet ouvrage, ils seroient d&#39;une
+très-foible ressource pour le maréchal, s&#39;il ignore
+d&#39;une part &amp; par rapport aux os, leur nombre, leur
+figure, leur grosseur, la nature de leur substance, les
+inégalités, les éminences de leurs surfaces ; &amp; de
+l&#39;autre, &amp; par rapport aux muscles, leur position,
+leur fonction, leur direction, <i>&amp;c.</i> ainsi que la situation 
+des nerfs &amp; des vaisseaux considerables qui peuvent 
+se rencontrer dans le membre fracturé? La nécessité 
+d&#39;être parfaitement instruit de tous ces points
+divers, est absolue pour qui veut juger sainement des
+suites du mal, &amp; se décider avec certitude sur les veritables 
+moyens d&#39;y remédier.
+</p>
+<p>
+Ces moyens consistent à remettre l&#39;os dans sa position 
+naturelle, &amp; à le maintenir fermement dans cet
+état. La réduction s&#39;en fait par l&#39;extension, la contre-extension &amp; la conformation ; &amp; cette réduction
+est fermement maintenue par le secours de l&#39;appareil
+&amp; par la situation dans laquelle on place l&#39;animal.
+</p>
+<p>
+Nous appellons <i>extension</i>, l&#39;action par laquelle
+nous tirons à nous la partie malade ; <i>contre-extension</i>, l&#39;effort par lequel cette même partie est tirée
+du côté du tronc, ou fixée de ce même côté d&#39;une
+maniere stable ; &amp; nous nommons <i>conformation</i>, l&#39;opération 
+qui tend à ajuster avec les mains les extrémités 
+rompues de l&#39;os, selon la forme &amp; l&#39;arrangement 
+qu&#39;elles doivent avoir.
+</p>
+<p>
+L&#39;extension &amp; la contre-extension sont indispensabies 
+pour ramener la partie dans son etendue, &amp;
+les extrémités fracturées au point d&#39;être mises dans
+une juste opposition, &amp; rapprochées l&#39;une de l&#39;autre.
+On doit donc observer, 1°. qu&#39;elles sont inutiles<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+dans les <i>fractures</i> sans déplacement ; 2°. que dans
+les circonstances où l&#39;on est obligé d&#39;y recourir, les
+forces qui tirent doivent être a raison de celle des
+muscles &amp; de la séparation, ou de l&#39;éloignement des
+pieces ; 3°. que ces mêmes forces doivent être appliquées 
+précisément à chacun des bouts de l&#39;os rompu ; 
+4°. qu&#39;il importe qu&#39;elles soient egales ; 5°. que
+l&#39;extension ne doit être faite que peu à peu, insensiblement 
+&amp; par degrés, <i>&amp;c.</i> Quant à la conformation,
+on conçoit sans peine qu&#39;elle doit être le travail 
+de la main, des que l&#39;on connoit le but que l&#39;opérateur 
+se propose ; &amp; il seroit inutile sans doute
+d&#39;insister ici sur l&#39;attention avec laquelle il faut qu&#39;il
+évite de presser les chaire contre les pointes des os,
+&amp; de donner ainsi lieu à des divisions &amp; à des divulsions 
+toûjours dangereuses. Je remarquerai encore
+qu&#39;il ne s&#39;agit pas dans toutes les <i>fractures</i> de tenter
+d&#39;abord la reduction ; une tumeur, une inflammation 
+violente, nous prescrivent la loi de ne point
+passer sur le champ à l&#39;extension &amp; à la contre-extension, &amp; de calmer l&#39;accident avant d&#39;y procéder,
+par des saignées, des lavemens &amp; des fomentations
+legerement résolutives. Une hémorrhagie nous indique 
+l&#39;obligation de nous occuper dans le moment du
+soin de reprimer l&#39;effusion abondante du sang ; des
+esquilles qui s&#39;opposent constamment à tout replacement 
+&amp; qui ne peuvent que nuire à la cure, exigent
+que nous commencions premierement à les enlever ;
+une luxation jointe à la <i>fracture</i>, demande que nous
+n&#39;ayons dans l&#39;instant égard qu&#39;à la nécessité évidente de la réduire, <i>&amp;c</i>.
+</p>
+<p>
+Nous comprenons sous le terme d&#39;<i>appareil</i>, les
+bandes, les compresses, &amp; les attelles.
+</p>
+<p>
+Les bandes que nous employerons seront des rubans 
+de fil plus ou moins larges, &amp; qui auront plus
+ou moins de longueur, selon la figure du membre
+fracturé. Les circonvolutions de ce ruban autour de
+la partie, forment ce que nous appellons <i>bandage</i>.
+Nous avons l&#39;avantage de ne mettre en usage que
+celui que l&#39;on nomme <i>continu</i>, c&#39;est-à-dire celui qui
+est fait avec de longues bandes roulées, &amp; qui est le
+plus souvent capable de contenir l&#39;os réduit : car
+dans les <i>fractures</i> compliquées, nous pouvons nous
+dispenser de recourir au bandage à dix-huit chefs,
+puisque nous pouvons dérouler nos bandes &amp; les replacer 
+sur le membre sans rien changer à sa situation,
+&amp; sans lui causer le moindre dérangement. On
+doit se souvenir au surplus qu&#39;un bandage trop serré 
+peut gêner la circulation, &amp; produire un gonflement,
+une inflammation ; &amp; qu&#39;un bandage trop lâche 
+favoriseroit la desunion des fragmens replacés:
+ainsi le maréchal doit être scrupuleusement en garde
+contre l&#39;un ou l&#39;autre de ces inconvéniens.
+</p>
+<p>
+Les compresses sont des morceaux de linge pliés
+en deux ou en plusieurs doubles ; on en couvre les
+parties fracturées ; on les tient plus epaisses dans les
+endroits vuides ou creux qu&#39;elles doivent remplir.
+</p>
+<p>
+Les attelles ne sont autre chose que des especes de
+petites planches, faites d&#39;un bois mince &amp; pliant,
+mais cependant d&#39;une certaine force &amp; d&#39;une certaine 
+consistance, avec lesquelles on éclisse le membre 
+cassé; elles doivent être par conséquent adaptées 
+&amp; assorties à sa force &amp; à sa grosseur.
+</p>
+<p>
+A l&#39;égard de la maniere dont on doit situer l&#39;animal 
+ensuite de l&#39;application de l&#39;appareil, il paroît
+selon le rapport &amp; le témoignage de M. de Soleysel,
+qu&#39;il est très-possible de l&#39;abandonner sans crainte
+que par un appui indiscret sur le membre fracturé,
+il porte la moindre atteinte à la réduction faite. Le
+cheval &amp; le mulet dont cet auteur parle, &amp; qui
+avoient été jettés dans des prairies, offrent un exemple 
+de l&#39;attention que lui suggere l&#39;instinct ; &amp; j&#39;en
+trouverois encore une preuve dans une jument, qu&#39;une 
+personne très-digne de foi m&#39;a assûré avoir vû
+<pb n="7:272" facs="V7/ENC_7-272.jpeg" />
+<milestone unit="column" n="1" />
+traiter avec succés d&#39;une <i>fracture</i> sans autres soins,
+après que les bandages furent assûrés, que celui de
+la tenir simplement &amp; à l&#39;ordinaire dans une écurie.
+Je ne sai cependant si je ne préférerois pas la suspension 
+de l&#39;animal dans le travail jusqu&#39;à l&#39;entiere formation 
+du calus, pour prévenir plus sûrement les
+accidens qui peuvent arriver en le livrant à lui-même, &amp; pour être plus à portée de visiter mon appareil,
+de l&#39;ôter, de le replacer dans une foule de circonstances 
+qui nous y invitent &amp; qui nous y obligent.
+</p>
+<p>
+Terminons toutes ces discussions qui n&#39;éclairent
+encore le maréchal que sur la cure générale des <i>fractures</i>, par l&#39;exposition de la méthode particuliere
+qu&#39;il doit suivre dans le cas d&#39;une <i>fracture</i> à l&#39;un des
+membres, &amp; dans celui d&#39;une <i>fracture</i> à l&#39;une des
+côtes.
+</p>
+<p>
+Supposons en premier lieu une plaie oblique &amp;
+contuse de la longueur de quatre travers de doigt,
+à la partie moyenne supérieure du canon de l&#39;une
+des extrémités postérieures, avec une <i>fracture</i> en bec
+de flûte à ce même os.
+</p>
+<p>
+L&#39;opérateur disposera d&#39;abord son appareil ; il préparera 
+un plumaceau de charpie, une compresse en
+double d&#39;environ un demi-pié de largeur, sur 8 ou
+9 pouces de longueur ; deux bandes de quatre aunes 
+de longueur, &amp; larges d&#39;environ trois travers
+de doigt ; &amp; des attelles, qu&#39;il enveloppera chacune
+dans un linge égal, &amp; dont la largeur &amp; la longueur
+seront proportionnées au volume &amp; à l&#39;étendue de
+l&#39;os fracturé.
+</p>
+<p>
+Il procédera ensuite aux extensions. M. de Garsault dans son <i>nouveau parfait Maréchal</i>, propose
+à cet effet de renverser le cheval, &amp; d&#39;employer les
+forces opposées de plusieurs hommes. Je doute que
+ces forces soient toûjours suffisantes ; j&#39;imagine de
+plus qu&#39;il est assez difficile que les tractions soient
+en raison égale ; qu&#39;elles soient opérées dans une
+direction juste &amp; précise ; qu&#39;elles soient exactement
+insensibles &amp; par degrés ; &amp; d&#39;ailleurs il me semble
+que l&#39;animal dans l&#39;action de se relever étant nécessairement 
+astraint à faire usage de ses quatre membres,
+se blesseroit inévitablement en tentant de l&#39;effectuer,
+&amp; ne pourroit que détruire par cet effort tout ce que
+le maréchal auroit fait pour replacer les pieces divisées,
+&amp; pour les maintenir unies. Je conseillerai donc
+de le suspendre dans un travail ordinaire, mais susceptibles 
+des additions suivantes.
+</p>
+<p>
+Soient deux rouleaux ou cylindres de trois pouces 
+de diametre au moins, dont la longueur traverse
+toute la largeur du travail, l&#39;un au tiers supérieur,
+&amp; l&#39;autre au tiers inférieur, de la hauteur des montans,
+&amp; qui s&#39;engagent par les deux extrémités par
+deux collets portés sur la face extérieure de ces mêmes 
+montans. Soit l&#39;une des extrémités de chaque
+rouleau assemblée quarrément, avec un rochet tel
+que ceux qui constituent communément les cris des
+berlines. Soit un fort cliquet attaché par clou rond
+au montant, &amp; sur la face latérale pour le bec de ce
+même cliquet, s&#39;engager dans les dents du rochet.
+</p>
+<p>
+Soient encore deux poulies, dont les chapes terminées 
+en crochet puissent être accrochées, l&#39;une à
+la traverse supérieure du travail, l&#39;autre à une traverse 
+à fleur de terre. Soient ces mêmes traverses
+garnies de divers anneaux solidement attachés, &amp;
+entre lesquels l&#39;opérateur pourra choisir ceux qui
+répondront le plus exactement à la direction de la
+partie qu&#39;il est question de réduire. Alors le maréchal
+placera trois entravons rembourrés ; le premier précisément 
+au-dessus du jarret ; le second directement
+au-dessous, c&#39;est-à-dire à l&#39;extrémité supérieure de
+l&#39;os cassé; &amp; le troisieme à l&#39;extrémité insérieure de
+ce même os, c&#39;est-à-dire au-dessus du boulet. Ces
+trois entravons seront serrés, de maniere qu&#39;ils ne
+<milestone unit="column" n="2" />
+pourront glisser du côté où les tractions seront faites.
+De l&#39;anneau de fer situé à la partie postérieure de
+l&#39;entravon qui enveloppe le tibia, partiront deux
+cordages assez forts, qui seront attachés à une traverse 
+immobile à l&#39;effet de fixer le membre. Des anneaux 
+situés latéralement dans le second entravon,
+partiront encore des cordes, qui passeront dans la
+poulie superieure, chargée de former le retour en
+contre-bas de ces mêmes cordes, qui s&#39;enrouleront
+sur le rouleau supérieur, tandis que celle de la traverse 
+inférieure recevra les cordages qui viendront
+des deux anneaux du dernier entravon, &amp; favorisera 
+leur retour en contre-haut, &amp; leur enroulement
+sur le cylindre inferieur. Ces cylindres mus ensuite
+sur leur axe par une manivelle appropriée à cet usage,
+il est visible que l&#39;extension &amp; la contre-extension pourront avoir lieu selon toutes les conditions
+requises, &amp; dans le même tems. Le maréchal examinera 
+le chemin que feront les pieces fracturées : des
+qu&#39;elles seront parvenues au niveau l&#39;une de l&#39;autre,
+il fera la coaptation ; &amp; dans la crainte qu&#39;une extension 
+trop longue n&#39;ait de fâcheuses suites, il ordonnera 
+à ses aides de se relâcher legerement, &amp; d&#39;introduire 
+le bec de chaque cliquet dans les dents du
+rochet qui lui répond. L&#39;un d&#39;eux tiendra l&#39;endroit
+fracturé, pendant qu&#39;il pansera la plaie ; il y mettra
+le plumaceau qu&#39;il a préparé, après l&#39;avoir imbibe
+d&#39;eau-de-vie ; il trempera la compresse dans du vin
+chaud, il en couvrira circulairement le lieu de la
+<i>fracture:</i> ensuite il prendra le globe de la bande, qui
+sera imbue du même vin ; sa main droite en étant saisie,
+il en déroulera environ un demi-pié. Il commencera 
+le bandage par trois circulaires médiocrement
+serrés sur ce même lien : de-là il descendra jusqu&#39;à
+l&#39;extrémité de l&#39;os par des doloires ; il remontera jusqu&#39;à l&#39;endroit par lequel il a débuté; il y pratiquera
+encore le même nombre de circulaires, &amp; gagnera
+enfin la partie supérieure du canon, où la bande se
+trouvera entierement employee. Cette partie ayant
+plus de volume que l&#39;inférieure, le maréchal fera à
+celle-ci quelques circonvolutions de plus, &amp; n&#39;oubliera 
+point les renversés, par le moyen desquels on évite les godets, &amp; l&#39;on fait un bandage plus propre &amp;
+plus exact.
+</p>
+<p>
+Ce n&#39;est pas tout ; il se munira d&#39;une seconde bande 
+qu&#39;il trempera dans du vin chaud, ainsi qu&#39;il y
+a trempé la premiere ; il l&#39;arrêtera par deux circulaires 
+à la portion supérieure, où le trajet de cette premiere 
+bande s&#39;est terminé. Après quoi il posera deux
+ou trois attelles qu&#39;un aide assujettira, tandis qu&#39;il
+les fixera par un premier tour de bande ; il les couvrira 
+en descendant par des doloires jusqu&#39;au boulet,
+&amp; remontera en couvrant ces premiers tours jusqu&#39;au-dessous du jarret.
+</p>
+<p>
+Cette opération finie, il laissera le cheval suspendu ; 
+il le saignera deux heures après, &amp; il le tiendra
+à une diete humectante &amp; rafraichissante. Dans les
+commencemens on arrosera l&#39;endroit fracturé avec
+du vin chaud ; &amp; si l&#39;on apperçoit un gonflement inférieur 
+à l&#39;appareil, &amp; que ce gonflement ne soit pas
+tel qu&#39;il puisse faire présumer que le bandage est trop
+serré, on se contentera d&#39;y appliquer des compresses 
+trempées dans un vin aromatique. Il ne seroit pas
+hors de propos de réitérer la saignée le second jour,
+&amp; de lever l&#39;appareil le huitieme, à l&#39;effet de s&#39;assurer 
+de l&#39;état de la plaie, qu&#39;on sera peut-être oblige
+de panser d&#39;abord tous les trois jours, &amp; ensuite à
+des distances plus éloignées. Lorsqu&#39;elle sera dans
+la voie de se cicatriser, &amp; les pieces d&#39;os de se réunir,
+on pourra interrompre tout pansement pendant
+un espace de tems assez long, pour que la nature
+puisse nous seconder ; &amp; il y a tout lieu d&#39;esperer
+qu&#39;au bout de quarante jours, &amp; au moyen de ce
+traitement méthodique, accompagné d&#39;un regime
+<pb n="7:273" facs="V7/ENC_7-273.jpeg" />
+<milestone unit="column" n="1" />
+constant, l&#39;animal sera totalement rétabli de cette
+<i>fracture</i> compliquée &amp; composée ; car les petits peronnés 
+sont trop intimement unis au canon dont on
+peut les regarder comme les épines, pour n&#39;avoir
+pas été rompus eux-mêmes. Il peut arriver encore
+que le mouvement du jarret du membre affecté soit
+intercepté en quelque façon, &amp; que l&#39;articulation en
+soit même si fort gênée que nous soyons dans le cas
+de redouter une ankilose ; mais un exercice modéré
+&amp; des applications de quelques linges trempés dans
+la moelle de boeuf fondue dans du vin, ou dans des
+graisses de cheval &amp; d&#39;autres animaux, suffiront pour
+rendre à cette partie sa liberté, son action &amp; son jeu.
+</p>
+<p>
+Imaginons à-présent une <i>fracture</i> avec déplacement 
+à l&#39;une des côtes, &amp; non une de ces <i>fractures</i>
+qui pourroient s&#39;aglutiner sans notre secours, &amp; que
+nous ne pouvons découvrir que par hasard dans l&#39;animal,
+les fragmens n&#39;étant point sortis de leur situation 
+naturelle, &amp; l&#39;égalité de la partie n&#39;étant point
+altérée ; supposons que cette <i>fracture</i> est en dedans,
+c&#39;est-à-dire que le bout cassé se porte du côté de la
+poitrine, ou qu&#39;elle soit en-dehors, c&#39;est-à-dire qu&#39;il
+incline du côté des muscles extérieurs : dans le premier 
+cas, nous la reconnoîtrons à l&#39;enfoncement, à
+la toux, à la fievre, à une inflammation, à une difficulté 
+de respirer plus ou moins grande, selon que les
+parties aigues de l&#39;os fracturé piqueront plus ou moins
+violemment la plevre : nous en serons assûrés dans
+le second, par l&#39;élévation de la piece rompue, par
+une difficulté de respirer beaucoup moindre que celle
+dont nous nous serons apperçûs dans l&#39;autre, par la
+crépitation, <i>&amp;c</i>.
+</p>
+<p>
+Ici la rédaction n&#39;est point aussi compliquée &amp;
+aussi embarrassante. Pour l&#39;opérer relativement à la
+<i>fracture</i> en-dedans, un aide serrera les naseaux du cheval,
+tandis que l&#39;on pressera fortement avec les mains
+l&#39;extrémité supérieure &amp; inférieure de la côte, jusqu&#39;à ce que les pieces enfoncées soient revenues
+dans leur situation. Si cependant les fragmens perçant 
+la plevre, donnent lieu aux symptomes funestes 
+dont j ai parlé, on ne doit pas balancer à faire
+une incision à la peau, à l&#39;effet de tirer ces fragmens
+avec les doigts, avec des pinces, avec une aiguille,
+telle que celle dont nous nous servons pour la ligature 
+de l&#39;artere intercostale, ou avec d&#39;autres instrumens 
+quelconques. Nous appliquerons ensuite des
+compresses ; l&#39;une qui sera imbûe d&#39;un vin aromatique 
+sur toute l&#39;étendue de la côte ; les deux autres
+qui auront beaucoup plus d&#39;épaisseur, seront mises
+sur celles-ci à chacune des extrémités sur lesquelles
+j&#39;ai ordonné de comprimer, &amp; l&#39;on maintiendra le
+tout par un bon &amp; solide surfaix. Relativement à la
+<i>fracture</i> en-dehors, le replacement est plus aisé. Il s&#39;agit 
+de pousser les bouts déjettés jusqu&#39;au niveau des
+autres côtes ; après quoi on place une premiere compresse,
+ainsi que je l&#39;ai dit ; on garnit l&#39;endroit fracturé 
+d&#39;un morceau de carton, que l&#39;on assujettit de
+même par un surfaix, qui fait, comme dans le premier 
+cas, l&#39;office d&#39;un bandage circulaire. Le nombre 
+des saignées doit au reste être proportionné au
+besoin &amp; aux circonstances : les lavemens, la diete,
+tout ce qui peut calmer les mouvemens du sang, doivent 
+être employés, <i>&amp;c.</i> (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27684" id="48:98:14" vol="7">
+<index type="head" value="Force, grande force, petite-force" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Force</head>
+<p>
+<sc>Force</sc>, <i>grande force, petite-force</i>, (<i>Jurisprud.</i>) La
+coûtume de Bar commence ainsi:
+<blockquote> 
+« Premierement,
+la coûtume est telle, que tous fiefs tenus du duc
+de Bar, en son bailliage dudit Bar, sont fiefs de
+danger, rendables à lui, à <i>grande &amp; petite-force</i>» ...
+</blockquote>
+</p>
+<p>
+M. le Paige, commentateur de cette coûtume,
+dit sur <i>grande &amp; petite-force:</i>
+<blockquote> 
+« La coûtume de S. Mihiel, <i>tit. ij. art. 5.</i> nous découvre le sens de ces
+mots, lorsqu&#39;elle dit que tous châteaux, maisons,
+forteresses, &amp; autres fiefs, sont rendables au seigneur,
+à <i>grande &amp; petite-force</i>, pour la sûreté de sa
+personne, défense de ses pays, &amp; pour la manutention,
+exécution, &amp; main-forte de sa justice ; en
+telle sorte que le vassal commettroit son fief, s&#39;il
+étoit refusant ou dilayant de ce faire. La <i>grande
+force</i>, continue M. le Paige, se fait avec artillerie
+&amp; canon, même avec gens de guerre : &amp; la <i>petite-force</i>, par les voies ordinaires de la justice, par saisie 
+&amp; commise ».
+</blockquote>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

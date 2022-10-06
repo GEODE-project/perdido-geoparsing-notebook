@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30549" id="55:135" vol="7">
+<index type="head" value="GUACA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GUACA</head>
+<p>
+GUACA, (<i>Géog.</i>) petite province de l&#39;Amérique
+méridionale, aux confins du Popayan &amp; de Quito.
+C&#39;est-là où l&#39;on commence à voir le fameux chemin
+des Incas, pratiqué avec tout le travail &amp; l&#39;industrie 
+possible, au-travers de plusieurs montagnes fort
+hautes, &amp; de lieux aussi deserts que raboteux ; ce
+chemin est, comme autrefois, garni par intervalles
+de tambos ou d&#39;hôtelleries qui servent encore aujourd&#39;hui dans le Pérou ; il y a toûjours dans chacune 
+quelques indiens avec un commandeur qu&#39;on
+nomme <i>alcade ;</i> sa charge est aussi-tôt qu&#39;un voyageur 
+arrive, de lui donner un américain pour lui
+fournir de l&#39;eau, du bois, &amp; autres choses semblables 
+dont il peut avoir besoin ; il lui donne en outre
+deux autres serviteurs, l&#39;un pour lui apprêter à manger,
+&amp; le second pour avoir soin de sa monture ; ce
+qui est exécuté gratuitement, fidelement, &amp; promtement ; 
+enfin il donne à ce voyageur des guides
+quand il part, &amp; les habitans appellent cette hospitalité,
+<i>un service personnel ;</i> il est grand, noble, &amp;
+digne de l&#39;humanité. <i>Deus est mortali juvare mortalem</i>. (<i>D. J.</i>)
+<pb n="7:975" facs="V7/ENC_7-975.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

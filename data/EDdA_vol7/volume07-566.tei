@@ -1,0 +1,209 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28020" id="49:146" vol="7">
+<index type="head" value="FOURNALISTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Potier de terre" />
+<index type="normclass" value="Poterie de terre" />
+<index type="englishclass" value="Earthen ware" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.m." />
+<head>FOURNALISTE</head>
+<p>
+FOURNALISTE, s. m. <i>en terme de Potier de terre</i>,
+est l&#39;ouvrier qui fait toutes les grosses pieces comprises 
+sous le nom général de <i>fourneaux. Voy</i>. <sc><ref target="head:Fourneaux" type="search">Fourneaux</ref></sc> <i>à l&#39;article</i> <sc><ref target="head:Poterie" type="search">Poterie</ref></sc>, C&#39;est encore un ouvrier
+<milestone unit="column" n="2" />
+qui fait tous les vaisseaux de Chimie en terre en
+usage dans les laboratoires, les atteliers des Artistes,
+&amp; les cuisines.
+</p>
+<p>
+Les <i>fournalistes</i> ne sont point du corps des Potiers
+de-terre. Il n&#39;appartient qu&#39;aux <i>fournalistes</i> de faire
+les fourneaux de ciment, qui servent aux hôtels des
+monnoies, aux affinages &amp; fontes de métaux, aux
+distillations ; enfin à tous les ouvrages d&#39;Orfévrerie,
+de Fonderie, &amp; d&#39;opérations de Chimie.
+</p>
+<p>
+C&#39;est pareillement à eux seuls qu&#39;il appartient de
+faire &amp; vendre toutes sortes de creusets, de quelque
+forme &amp; grandeur, &amp; de quelque usage que ce soit.
+Outre les ouvrages de terre ordinaire pour lesquels
+ils dépendent de la communauté des Potiers, ils ne
+dépendent que de la cour des monnoies. C&#39;est pardevant 
+le procureur général de cette cour qu&#39;ils font
+leur chef-d&#39;oeuvre, sont reçus maîtres, &amp; prêtent
+serment.
+</p>
+<p>
+Cette petite communauté n&#39;a point de jurés ; la
+cour des monnoies leur en tient lieu.
+</p>
+<p>
+L&#39;apprentissage est de cinq ans ; &amp; le service chez
+les maitres après l&#39;apprentissage, de deux autres années.
+</p>
+<p>
+Le fils de maître ne doit que la simple expérience,
+&amp; l&#39;apprentif étranger le chef-d&#39;oeuvre. L&#39;un &amp; l&#39;autre 
+leur est donné à la cour des monnoies, où l&#39;aspirant 
+est reçu à la maîtrise ; son brevet d&#39;apprentissage 
+&amp; ses lettres de maîtrise enregistrés, aussi bien 
+que la réception du serment qu&#39;il y fait.
+</p>
+<p>
+Les veuves joüissent des priviléges de la maîtrise
+de leurs maris ; elles ne peuvent cependant obliger
+de nouveau apprentif, mais seulement achever celui 
+qui est commencé. Elles peuvent travailler par
+elles-mêmes ou faire travailler des compagnons.
+</p>
+<p>
+Les maîtres ne peuvent vendre des fourneaux &amp;
+des creusets propres aux fontes des métaux ou aux
+distillations, qu&#39;à gens connus, ou avec permission
+obtenue par écrit des officiers de la cour des monnoies.
+Ils ont liberté entiere pour la vente des autres 
+ouvrages de terre ordinaire.
+</p>
+<p>
+La matiere dont on fait les fourneaux &amp; les creusets,
+est partie de ciment &amp; partie de terre glaise,
+bien courroyés ensemble. Le ciment ne doit être que
+de grès de pot-à-beurre pulvérisé &amp; bien battu, le
+ciment de tuileau n&#39;y étant pas propre.
+</p>
+<p>
+Les outils sont en petit nombre &amp; simples. Un
+maillet ou masse de bois à long manche, dont la
+tête est armée de clous. Il sert à battre le ciment ;
+un petit rabot aussi de bois, ou plus simplement une
+palette faite d&#39;une douve, à le courroyer &amp; le mêler 
+avec la terre glaise.
+</p>
+<p>
+Les fourneaux se font à la main avec la seule palette 
+que l&#39;on poudre de sablon, afin qu&#39;elle ne s&#39;attache 
+point à la terre. Les creusets ont des moules
+de bois plus ou moins grands, suivant l&#39;ouvrage, &amp;
+de la figure de l&#39;ouvrage même. Ces moules se tiennent 
+par une queue ou manche aussi de bois ; &amp;
+après les avoir saupoudrés d&#39;un peu de sable, on les
+couvre à discrétion d&#39;autant de terre bien courroyée
+qu&#39;on le croit nécessaire, qu&#39;on arrondit ensuite tout autour,
+&amp; qu&#39;on applatit par-dessous avec la palette.
+</p>
+<p>
+Il y a de grandes &amp; de petites palettes, de quarrées,
+de longues, &amp; en triangle. Ces dernieres sont
+un peu tranchantes, &amp; servent comme de couteau
+pour enlever ce qu&#39;il y a de trop de matiere, &amp; reduire 
+l&#39;ouvrage à sa juste épaisseur. On les appelle
+<i>palettes</i>, parce qu&#39;en effet les plus grandes ressemblent 
+à celles dont les enfans se servent dans quelques-uns de leurs jeux.
+</p>
+<p>
+Des bâtons longs, ronds &amp; pointus, de diverses
+longueurs &amp; de différens diametres, servent à ouvrir 
+les trous, qu&#39;<i>en terme de l&#39;art</i> on appelle des <i>registres</i>, qu&#39;on laisse aux fourneaux pour, en les bouchant<gap type="hyphenpb" />
+<pb n="7:233" facs="V7/ENC_7-233.jpeg" />
+<milestone unit="column" n="1" />
+ou en les laissant ouverts, y entretenir le degré 
+de feu convenable. Ces bâtons, à cause de leur
+figure, se nomment des <i>fuseaux</i>.
+</p>
+<p>
+Outre les fourneaux &amp; les creusets, les <i>Fournalistes</i> ne sont guere que des réchaux &amp; des especes
+de fourneaux quarrés, mais plus longs que larges,
+dont les blanchisseuses se servent pour chausser leurs
+sers-à-repasser. Ces sortes d&#39;ouvrages sont aussi de
+gres de pot-à-beurre, de même que les fourneaux
+d&#39;une nouvelle invention propres à faire du café.
+<i>Dictionnaire &amp; réglemens du Commerce</i>.
+</p>
+<p>
+Cet état demanderoit beaucoup plus de connoissance 
+d&#39;Histoire naturelle, de Physique &amp; de Chimie, que ces ouvriers n&#39;en ont communément.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

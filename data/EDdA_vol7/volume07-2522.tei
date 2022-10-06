@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29976" id="53:345:3" vol="7">
+<index type="head" value="Goût du Chant" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Rousseau" />
+<index type="shortauth" value="Rousseau" />
+<index type="kafnum" value="118" />
+<index type="kafauth" value="Rousseau, Jean-Jacques (1712-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Musique" />
+<index type="normclass" value="Musique" />
+<index type="englishclass" value="Music" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Goût du Chant</head>
+<p>
+<sc>Goût du Chant</sc>, <i>en Musique</i> ; c&#39;est ainsi qu&#39;on
+appelle en France, l&#39;art de chanter ou de joüer
+les notes avec les agrémens qui leur conviennent.
+Quoique le chant françois soit fort dénué d&#39;ornemens,
+il y a cependant à Paris plusieurs maîtres uniquement 
+pour cette partie, &amp; un assez grand nombre
+de termes qui lui sont propres. Comme rien n&#39;est si
+difficile à rendre que le sens de ces divers mots, que
+d&#39;ailleurs rien n&#39;est si passager, rien si sujet à la mode
+que le <i>goût du chant</i>, je n&#39;ai pas crû devoir embrasser 
+cette partie dans cet ouvrage. (<i>S</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28602" id="51:12" vol="7">
+<index type="head" value="FURSTENWALD" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>FURSTENWALD</head>
+<p>
+FURSTENWALD, (<i>Géog.</i>) petite ville d&#39;Allemagne, dans la moyenne marche de Brandebourg,
+sur la Sprée, à 8 lieues O. de Francfort, sur l&#39;Oder.
+<i>Long. 32</i><sup>d</sup> <i>5&#39;. lat. 52</i><sup>d</sup>. <i>23&#39;</i>.
+</p>
+<p>
+Elle a produit deux savans illustres : Hoffman
+(Maurice) célebre medecin y naquit en 1621, &amp;
+mourut en 1698; Mentzel (Chrétien) né à <i>Furstenwald</i> en 1622, mort en 1701, est fort connu des Botanistes. Il a laissé manuscrit 4 vol. <i>in-fol.</i> des choses 
+naturelles du Brésil, &amp; 10 vol. <i>in-fol.</i> aussi manuscrit,
+tirés du lexicon chinois, intitulés <i>Caguey ;</i>
+il est à souhaiter que de tels ouvrages paroissent un
+jour. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

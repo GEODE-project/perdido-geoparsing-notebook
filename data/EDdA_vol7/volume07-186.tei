@@ -1,0 +1,104 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27640" id="48:78:3" vol="7">
+<index type="head" value="Fonte, ou Fondre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme d&#39;Orfevre" />
+<index type="normclass" value="Orfévrerie" />
+<index type="englishclass" value="Silversmithing" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fonte</head>
+<p>
+<sc>Fonte</sc>, <i>ou</i> <sc>Fondre</sc>, <i>en terme d&#39;Orfevre</i>, se dit de
+l&#39;action de liquéfier le métal en poudre, en piece, ou
+autrement, en l&#39;exposant dans un creuset à différens
+feux : car la <i>fonte</i> demande divers degrés de feu. On
+doit le modérer d&#39;abord, pour ne pas exposer les
+creusets qui sont de terre, à être cassés par la violence 
+du premier feu : il faut le pousser avec vigueur
+sur la fin de l&#39;opération, selon les différentes matieres 
+du mélange. Lorsque la matiere est en poudre, il
+faut un feu violent pour l&#39;assembler ; &amp; de même, lorsqu&#39;elle a besoin d&#39;être affinée, en y ajoûtant les intermedes 
+nécessaires, comme le salpetre &amp; le borax.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

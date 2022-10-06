@@ -1,0 +1,226 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27645" id="48:82" vol="7">
+<index type="head" value="FONTICULE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chirurgie." />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>FONTICULE</head>
+<p>
+FONTICULE, s. m. (<i>Chirurgie.</i>) petit ulcere artificiel 
+pratiqué par le Chirurgien en différens endroits 
+du corps, soit pour prévenir une maladie
+qu&#39;on prévoit avec certitude, soit pour rétablir la
+santé. Le mot de <i>cautere</i> dont on se sert communément 
+dans le même sens, est bien moins propre que
+celui de <i>fonticule</i>, parce qu&#39;il est équivoque, &amp; qu&#39;il
+signifie généralement ou <i>un fer rouge</i>, ou <i>un remede
+corrodant &amp; caustique</i>.
+</p>
+<p>
+Les Chirurgiens en pratiquant un <i>fonticule</i>, se proposent 
+d&#39;imiter la nature qui produit quelquefois
+d&#39;elle-même des ulceres de cette espece, par lesquels
+elle chasse comme par des égouts les matieres surabondantes 
+ou viciées, qui ne manqueroient pas sans
+ce secours de causer des maladies fâcheuses.
+</p>
+<p>
+Les parties du corps où l&#39;on ouvre le plus communément 
+&amp; le plus commodément ces ulceres artificiels,
+sont 1°. la partie supérieure de la tête ; 2°.
+le cou ; 3°. les bras sur lesquels on choisit la partie
+la plus basse, ou l&#39;extrémité du muscle deltoïde &amp;
+du biceps ; 4°. les parties inférieures du corps, particulierement 
+le genou, le côté intérieur de la cuisse,
+à l&#39;endroit où il y a une cavité qu&#39;on apperçoit au
+doigt ; 5°. enfin le dessous du genou, c&#39;est-à-dire le
+côté intérieur de la jambe où l&#39;on remarque une espece 
+de cavité.
+</p>
+<p>
+La plus courte méthode de former un <i>fonticule</i>,
+un ulcere artificiel, est celle où après avoir marqué
+l&#39;endroit qu&#39;on veut cautériser, on tient la peau élevée avec les doigts, &amp; on fait avec le bistouri une
+incision dans laquelle on puisse aisément introduire
+un pois. Lorsque le pois est placé, on le couvre d&#39;un
+emplâtre ; ensuite on leve cet appareil soir &amp; matin,
+on nettoye l&#39;ulcere, on introduit un nouveau pois,
+&amp; l&#39;on applique de-rechef l&#39;emplâtre &amp; le bandage.
+En peu de jours le petit ulcere se trouve formé, &amp;
+jette une humeur purulente.
+</p>
+<p>
+Une autre maniere de former un <i>fonticule</i>, est
+d&#39;ouvrir la peau avec un fer rouge : cette seconde
+méthode est effrayante, mais elle produit surement
+quand elle est nécessaire, une révulsion considerable.
+Une troisieme maniere de cautériser, c&#39;est de se servir 
+d&#39;une substance rongeante &amp; caustique. <i>Voyez</i>
+<sc><ref target="head:Cautere" type="search">Cautere</ref> <i>&amp;</i> <ref target="head:Caustique" type="search">Caustique</ref></sc>.
+</p>
+<p>
+De quelque maniere que le petit ulcere ait été
+pratiqué, il en faut faire le pansement tous les jours,
+&amp; quelquefois deux fois par jour. En même tems
+à chaque pansement on nettoyera toûjours soigneusement 
+la plaie avec un linge propre. On substituera
+un nouveau pois à celui qu&#39;on aura ôté; on appliquera 
+un emplâtre à-peu-près de la largeur de la
+paume de la main, ou au lieu d&#39;emplâtre un morceau 
+d&#39;étoffe de soie couvert de cire, ou même une
+feuille de lierre qu&#39;on fixera par un bandage. M.
+Heister trouve que les bandages de linge sont moins
+commodes que ceux de cuir, ou qu&#39;une plaque de
+cuivre, à laquelle sont ajustés des cordons ou des
+agraffes, de maniere qu&#39;un malade peut se les appliquer 
+sans aucune incommodité. <i>Voyez-en la machine
+dans cet auteur</i>.
+</p>
+<p>
+On tiendra le <i>fonticule</i> ouvert, jusqu&#39;à ce que la
+maladie pour laquelle on l&#39;avoit pratiqué soit radicalement 
+guérie. Les adultes attaqués de maux invétérés,
+feront sagement de garder ces petits ulceres 
+jusqu&#39;à la mort, s&#39;ils veulent éviter de s&#39;exposer
+aux accidens qu&#39;ils avoient éloignés par ce moyen.
+</p>
+<p>
+Les avantages principaux que l&#39;on attend des <i>fonticules</i>, c&#39;est la guérison ou l&#39;affoiblissement de plusieurs 
+maladies de la tête, des yeux, des oreilles,
+des mammelles, &amp; d&#39;autres parties, comme aussi
+des douleurs de la sciatique. Comme dans tous ces
+<milestone unit="column" n="2" />
+cas, on a quelquefois inutilement recours à ce remede,
+alors il faut promptement refermer l&#39;ulcere ;
+&amp; pour cet effet il ne s&#39;agit que d&#39;ôter le pois.
+</p>
+<p>
+S&#39;il se forme à la partie qui a été ulcérée des excroissances 
+fongueuses, on les emportera avec un
+peu de poudre d&#39;alun brûlé. Si les <i>fonticules</i> cessent
+de suppurer dans les vieillards, &amp; que les bords de
+l&#39;ulcere deviennent secs, livides, ou noirs ; cet état
+est très-dangereux ; il menace d&#39;une maladie violente,
+&amp; même d&#39;une mort prochaine. Il est donc à propos de recourir promptement aux remedes capables 
+de prévenir l&#39;un ou l&#39;autre de ces accidens.
+</p>
+<p>
+Comme cette matiere est d&#39;une grande importance,
+différens auteurs en ont traité expressément.
+<i>Voyez</i> entr&#39;autres.
+</p>
+<p>
+Galvani (Dominici) <i>trattato delle</i> fontanelle. In
+Padoua, 1620. 4°. <i>c. f. aeneis</i>.
+</p>
+<p>
+Wolter (Gualther Ambros.) <i>Pyrotechnicum opusculum 
+de cauteriorum, seu</i> fonticulorum <i>usu</i>. Vratiflaviae, 1672. in-8°.
+</p>
+<p>
+Glandorpius (Matth. Lud.) <i>Gazophylacium</i> fonticulorum 
+&amp; <i>setonum reseratum</i>. Bremae, 1632. 4°.
+editio prima.
+</p>
+<p>
+Hoffmanni (Frederici) <i>de vesicantium &amp;</i> fonticulorum 
+<i>circonspecto in medicina usu</i>. vol. VI. de l&#39;édit.
+de Geneve, 1740.
+</p>
+<p>
+Pour ce qui regarde en particulier la maniere de
+pratiquer un cautere ou un ulcere artificiel à la suture 
+coronale, <i>voyez la dissert</i>. d&#39;Hoffman que nous
+venons de citer ; &amp; sur les avantages de cette opération,
+consultez Marc Donatus, <i>liv. II. hist. estiral.
+cap. jv.</i> M. A. Severinus, <i>Pyroth. Chirurg. liv. II.
+part. I. cap. vj.</i> Riviere, <i>cent. ij. obs. 93</i>. Aquapendente, <i>operationes chirurgicae, cap. j.</i> Claudinus,
+<i>respons. de cauterio in sutura coronali</i>. Heister, <i>Chirurgie</i>, &amp;c. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

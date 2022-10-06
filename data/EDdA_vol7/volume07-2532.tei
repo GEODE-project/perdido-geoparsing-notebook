@@ -1,0 +1,379 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29986" id="53:348:2" vol="7">
+<index type="head" value="Goutte-sereine" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Goutte-sereine</head>
+<p>
+<sc>Goutte-sereine</sc>, <i>gutta serena</i>, <foreign lang="greek">ἀμαύρωσις</foreign>, (<i>Medecine.</i>) c&#39;est le nom d&#39;une des plus funestes maladies
+dont les yeux puissent être affectés, dans laquelle
+l&#39;organe immédiat de la vision est rendu en partie
+ou même totalement paralytique ; ensorte que les
+rayons de lumiere qui entrent dans l&#39;oeil, frappent
+la rétine &amp; y peignent l&#39;image des objets, d&#39;où ils
+sont réfléchis sans qu&#39;il en résulte une sensation entiere,
+ou sans que l&#39;impression en soit aucunement
+transmise à l&#39;ame par le moyen du nerf optique ; ce
+qui constitue une diminution considérable de la vûe,
+ou même une véritable cécité, quoiqu&#39;il n&#39;y ait cependant 
+aucun vice apparent dans les yeux, dont la
+fonction principale est ainsi lesée ou reste absolument
+sans exercice.
+</p>
+<p>
+En effet, si l&#39;on examine l&#39;oeil malade avec attention,
+on n&#39;y trouve rien d&#39;extraordinaire dans toutes 
+les parties qui peuvent tomber sous les sens : les
+<pb n="7:780" facs="V7/ENC_7-780.jpeg" />
+<milestone unit="column" n="1" />
+tuniques, les humeurs, ne paroissent viciées en aucune 
+maniere ; on observe seulement que la pupille,
+ou pour mieux dire, le bord circulaire de l&#39;uvée,
+semble d&#39;abord immobile ; mais il ne l&#39;est cependant
+pas absolument lorsqu&#39;il n&#39;y a qu&#39;un oeil d&#39;affecté.
+Dans ce cas, la pupille paroît se dilater &amp; se resserrer 
+quand les deux yeux sont ouverts, &amp; que l&#39;on regarde 
+de l&#39;oeil sain des objets différemment éloignés,
+ou qu&#39;on passe entre l&#39;oeil sain &amp; le grand jour quelque 
+corps opaque ; parce que les nerfs moteurs qui se
+portent à l&#39;uvée de l&#39;oeil malade, étant dans leur état
+naturel, la communication continue à être libre entre 
+le cerveau &amp; les fibres motrices de cette membrane : ainsi elle suit les mouvemens de celle de l&#39;oeil
+sain ; mais lorsque cet oeil est fermé, ou que la <i>goutte-sereine</i> est dans les deux yeux, la pupille reste immobile 
+dans l&#39;oeil ouvert, parce que la rétine y étant insensible 
+à la lumiere, rien n&#39;excite le mouvement des
+fibres motrices de l&#39;uvée, dont les nerfs sont comme
+sympathiques avec les nerfs optiques ; ce qui n&#39;a pas
+lieu à l&#39;égard des autres organes appartenans à l&#39;oeil,
+qui conservent indépendant l&#39;exercice de leur fonction,
+&amp; restent dans l&#39;état naturel.
+</p>
+<p>
+Cette maladie se declare de différentes manieres ;
+quelquefois elle ôte tout à coup la vûe, comme il
+arrive à la suite des chûtes que l&#39;on fait de haut,
+dans lesquelles on se heurte fortement la tête, ou
+des coups violens que l&#39;on se donne, que l&#39;on reçoit
+à cette partie, ou de toute autre cause externe de
+cette nature. D&#39;autres fois, la vûe se perd peu à peu
+&amp; par degrés ; ce qui arrive dans les vielliards attaqués 
+d&#39;hémi-plégie ou de paralysie complette, &amp;
+dans les personnes qui prennent la <i>goutte-sereine</i> à la
+suite de différentes maladies de langueur.
+</p>
+<p>
+Les symptomes qui précedent ou qui accompagnent 
+la formation de la <i>goutte-sereine</i> sont aussi tort
+différens selon les differentes causes qui y donnent
+lieu : ainsi les malades se plaignent d&#39;abord, les uns
+de bourdonnement, de tintement dans les oreilles,
+d&#39;autres d&#39;étourdissement, de vertige, de pesanteur
+de cerveau, d&#39;assoupissement extraordinaire, d&#39;autres 
+de douleur de tête habituelle ; d&#39;autres enfin
+n&#39;ont aucune de ces incommodités, &amp; ne s&#39;apperçoivent 
+du mal naissant que par l&#39;obscurcissement
+de leur vûe.
+</p>
+<p>
+Il y a des personnes qui sont sujettes à une sorte de
+<i>goutte-sereine</i> périodique qui leur ôte subitement la
+vûe pendant quelques instans ou quelques heures &amp;
+même pendant plusieurs jours, &amp; qui cesse ensuite
+souvent aussi promptement, mais elle revient par intervalle : cela arrive sur-tout aux hypochondriaques,
+aux hystériques, &amp; aux femmes en couche.
+</p>
+<p>
+On observe qu&#39;il y a aussi de la différence à l&#39;égard
+de l&#39;intensité du mal dans la <i>goutte-sereine</i>, attendu
+qu&#39;elle ne prive pas totalement de la vûe : dans certains 
+cas, elle laisse en core la faculté de distinguer la
+lumiere des ténebres ; ce qui fait appeller <i>imparfaite</i>
+cette sorte de <i>goutte sereine</i> ; au lieu qu&#39;on donne le
+nom de <i>parfaite</i> à celle qui rend la cécité complette,
+dans laquelle on n&#39;apperçoit aucune trace de lumiere.
+</p>
+<p>
+Presque tous les Medecins ont attribué la cause
+prochaine de cette maladie à l&#39;obstruction du nerf
+optique ; ce qui a même le plus contribué à lui faire
+donner le nom de <i>goutte sereine</i>, dans l&#39;idée que c&#39;est
+comme une <i>goutte</i> d&#39;humeur viciée, de lymphe épaissie qui bouche la cavité de ce nerf : mais comme il
+n&#39;y a point de preuve bien démontrée de l&#39;existence
+d&#39;une cavité dans les filets médullaires, dont l&#39;assemblage 
+forme les nerfs, &amp; que le fluide nerveux
+est encore problématique ; on peut dire en général,
+que tout ce qui peut produire la paralysie, dans quelque 
+partie du corps que ce soit, peut aussi être la
+cause de la <i>goutte-sereine</i>, lorsque cette cause a son
+<milestone unit="column" n="2" />
+siége dans le nerf optique : c&#39;est ce que prouvent les
+recherches anatomiques faites dans les yeux de ceux
+qui sont morts avec la <i>goutte sereine</i>. On a toûjours
+trouvé le vice dans le nerf optique, qui, dans quelques 
+sujets, étoit desséché, exténué, &amp; de la moitié
+plus mince qu&#39;il ne doit être naturellement : telle est
+l&#39;observation de Bonet, <i>sepulcret. anat. lib. I. sect.
+xvij. observat. 3 &amp; 3</i>. Le même auteur a aussi trouvé,
+(<i>loco citato, observat. 1.</i>) une tumeur qui comprimoit
+ce nerf à son origine ; &amp; (<i>ibid. observat. 4.</i>) l&#39;artere
+carotide extrèmement pleine de sang, qui a son entrée 
+dans l&#39;orbite, produisoit le meme effet sur ce
+nerf. Wepfer (<i>de apopl. hist. jv.</i>) rapporte avoir vû,
+dans le cas dont il s&#39;agit, du sang &amp; de la sérosité
+extravasés &amp; pesans, sur le principe du nerf optique.
+Pawius (<i>observat. anatom. ij.</i>) dit avoir vû une
+vessie pleine d&#39;une humeur aqueuse, qui pressoit les
+nerfs optiques dans leur conjonction. Platérus fait
+aussi mention d&#39;une tumeur dure &amp; ronde portant sur
+ces mêmes nerfs.
+</p>
+<p>
+Ainsi la cause qui les affecte de paralysie, peut
+avoir son siége ou vers leur origine &amp; leur trajet dans
+l&#39;intérieur du crane, ou à leur entrée dans l&#39;orbite ;
+elle peut aussi se trouver dans l&#39;intérieur de ces nerfs,
+c&#39;est-à-dire dans les vaisseaux sanguins qui pénetrent
+dans leur substance, ainsi que le démontrent les anatomistes 
+modernes, &amp; entre autres Wepser déjà cité,
+<i>de cicut. aquat</i>. Ces vaisseaux qui sont des branches
+de la carotide interne, dont quelques rameaux entourent 
+aussi les nerfs optiques à leur entrée dans l&#39;orbite,
+venant à recevoir trop de sang, par quelque
+cause que ce soit, produisent l&#39;effet ou de porter, de
+presser de dedans en-dehors sur les fascicules des
+nerfs qui composent les optiques, &amp; de les comprimer 
+contre la circonférence osseuse du trou de
+l&#39;orbite, par lequel ils penetrent dans l&#39;oeil, ou de
+s&#39;appuyer dans leur dilatation contre cette même
+partie ambiante, susceptible de résistance pour réagir 
+en quelque sorte sur les nerfs resserres &amp; comme
+étranglés dans ce passage.
+</p>
+<p>
+C&#39;est principalement à la compression de ces différens 
+vaisseaux engorgés, qu&#39;on doit attribuer la cause
+de la <i>goutte-sereine</i> périodique, qui cesse ordinairement
+des que cet engorgement cesse par quelque moyen que
+ce puisse être. Il est aussi très-vraissemblable que l&#39;on
+doit chercher la cause de la <i>goutte-sereine</i> imparfaite,
+dans une sorte d&#39;infiltration séreuse des membranes
+de l&#39;oeil, &amp; sur-tout de la sclérotique, dans la partie
+où elles entourent l&#39;insertion du nerf optique dans
+le globe de l&#39;oeil ; ensorte que par leur épaississement
+contre nature elles compriment ce nerf, &amp; rendent
+paralytique une partie des filets nerveux qui le composent,
+en laissant subsister dans quelques uns qui restent 
+libres, la faculté de transmettre les impressions
+de la lumiere, qui ne peuvent alors qu&#39;être considérablement 
+affoiblies à proportion qu&#39;elles rendent un
+moindre nombre de traits de l&#39;image peinte sur la
+rétine : de sorte même qu&#39;il arrive quelquefois dans
+certaines <i>gouttes-sereines</i> imparfaites, que l&#39;on voit
+distinctement la moitié supérieure ou inférieure ou
+latérale des objets, sans voir rien de l&#39;autre moitié,
+parce que l&#39;une des deux est absolument paralytique,
+tandis que l&#39;autre reste libre. Le chanoine dont
+parle Saint-Yves, dans son <i>traité des maladies des yeux</i>,
+qui étoit affecté d&#39;une <i>goutte-sereine</i> imparfaite, dans
+laquelle il voyoit la représentation de son oeil malade 
+de ce même oeil sur le papier qu&#39;il regardoit,
+c&#39;est à-dire la représentation de l&#39;uvée, de la partie
+colorée de cet oeil, observation confirmée par une
+semblable du fameux medecin oculiste, M. Petit,
+communiquée à l&#39;académie des Sciences ; ne pouvoit 
+éprouver cet effet, qu&#39;autant que les rayons de
+lumiere qui se portoient sur les points paralytiques
+du fond de son oeil, étant réfléchis sur la surface postérieure<gap type="hyphenpb" />
+<pb n="7:781" facs="V7/ENC_7-781.jpeg" />
+<milestone unit="column" n="1" />
+de l&#39;uvée, en étoient aussi renvoyés sur
+d&#39;autres points de la rétine qui étoient susceptibles
+d&#39;en recevoir des impressions.
+</p>
+<p>
+Toutes les causes occasionnelles de la paralysie en
+général, auxquelles se joignent des causes particulieres 
+qui en déterminent l&#39;effet sur l&#39;organe immédiat 
+de la vision, peuvent donner lieu à la <i>goutte-sereine. Voyez</i> <sc><ref target="head:Paralysie" type="search">Paralysie</ref></sc>. Ainsi dans les sujets pléthoriques,
+tout ce qui peut faire refluer le sang &amp; les
+autres humeurs vers la partie supérieure, comme les
+convulsions, les resserremens spasmodiques, les efforts 
+du vomissement, de l&#39;accouchement, &amp; autres
+semblables ; la suppression des hémorrhoides, du flux
+menstruel, peut donner lieu à des dépôts sur le principe 
+des nerfs optiques, ainsi que les métastases de
+matieres morbisiques, qui se font dans les fievres
+malignes putrides ; la repercussion des éruptions cutanées,
+<i>&amp;c.</i> les coups, les commotions qui peuvent
+causer quelque tiraillement, quelque compression
+dans les fibres des nerfs optiques ; la trop grande application 
+à la lecture &amp; à tout autre exercice de la
+vision, soit avec trop soit avec trop peu de lumiere ;
+ce qui fatigue, affoiblit la rétine dans le premier cas,
+en y excitant une sensibilité trop durable, ou l&#39;uvée
+dans le second cas, en dilatant trop la prunelle pour
+l&#39;admission du peu de rayons qui se présentent ; les
+gran les évacuations de bonnes humeurs, sur-tout de
+la semence, qui en général affoiblissent beaucoup &amp;
+rendent cet effet plus particulierement sensible dans
+les organes où l&#39;atonie est de plus grande conséquence,
+comme dans ceux de la voix, de la vision (<i>voyez</i>
+<sc><ref target="head:Eunuque" type="search">Eunuque</ref></sc>); en un mot, tous les vices des différentes 
+humeurs par excès, par défaut, par les qualités,
+peuvent également contribuer à établir les différentes 
+causes occasionnelles de la <i>goutte-sereine</i>.
+</p>
+<p>
+Cette maladie est regardée comme incurable lorsque 
+la cécité est complette, qu&#39;elle est invétérée, que
+les sujets qui en sont affectés sont d&#39;un âge avancé,
+d&#39;une constitution foible, délicate, languissante, à
+la suite de violentes maladies, sur-tout de quelque
+attaque d&#39;apoplexie, &amp; lorsqu&#39;elle est jointe à la paralysie 
+de quelque partie du corps. La <i>goutte-sereine</i>
+qui est imparfaite dans des sujets jeunes &amp; robustes,
+&amp; même celle qui est parfaite, mais périodique, sont
+très-souvent susceptibles de guérison, sur-tout lorsqu&#39;elles surviennent d&#39;un engorgement sanguin dans
+les parties affectées.
+</p>
+<p>
+La curation de la <i>goutte-sereine</i> doit être dirigée selon 
+les indications que présente la nature bien étudiée &amp; bien établie des causes qui l&#39;ont produite:
+ainsi comme ces causes sont très-difficiles à découvrir,
+à distinguer les unes des autres, il est aussi
+très-difficile de bien entreprendre le traitement de
+cette maladie, &amp; encore plus rare de le suivre avec
+succès ; il n&#39;y a que la <i>goutte-sereine</i> périodique dans
+les sujets robustes, causée par un engorgement de
+vaisseaux sanguins qui compriment le nerf optique
+ou qui couvrent ses ramifications dans la rétine, qui
+étant bien connue, peut être aisément guérie par la
+saignée révulsive, par les sang-sues appliquées à la
+tempe, par le rétablissement du flux supprimé des
+regles, des hémorrhoides, <i>&amp;c.</i> au lieu que dans les
+personnes d&#39;une mauvaise constitution, dont la masse
+des humeurs est pituiteuse, caco-chimique, toute
+<i>goutte-sereine</i> causee par un dépôt d&#39;humeurs séreuses
+ou de toute autre nature, qui pesent sur le nerf optique 
+&amp; le privent de sa sensibilité naturelle, est très difficile 
+à détruire ; on ne peut l&#39;attaquer que par les
+purgatifs, les cauteres, les sétons, les vesicatoires,
+les errhins, &amp; en un mot par tous les secours propres
+à évacuer &amp; à détourner les humeurs peccantes du
+siége de la maladie : on peut aussi user des remedes
+fondans, savonneux, mercuriels, <i>&amp;c.</i> mais le plus
+souvent ces remedes sont inutiles &amp; ne font que fatiguer<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les malades ; ce qui est absolument toûjours
+vrai par rapport aux remedes appliqués sur les yeux
+mêmes ; parce qu&#39;il ne peut en résulter aucun effet
+dans le siége du mal, qui est trop éloigné des parties
+sur lesquelles peuvent se faire les applications ; attendu 
+qu&#39;il est dans le fond de l&#39;orbite, &amp; peut-être
+même au-delà, dans l&#39;intérieur du crane. On ne
+peut excepter que le cas où le nerf optique est comprimé 
+par l&#39;épaississement humoral de la sclérotique ;
+ce qui étant bien connu, peut donner lieu aux remedes 
+topiques, qui peuvent alors être employés pour
+fortifier les membranes de l&#39;oeil, leur donner du ressort 
+de proche en proche, afin qu&#39;elles se dégorgent
+des humeurs surabondantes, &amp; qu&#39;elles ne s&#39;en laissent 
+pas abreuver de nouveau ; mais ce cas n&#39;a jamais 
+lieu dans la <i>goutte-sereine</i> parfaite : il n&#39;y a que
+l&#39;ignorance ou la charlatanerie qui puisse engager
+à tenter la guérison de cette maladie par des collyres 
+ou toutes autres applications sur les yeux. Au surplus,
+pour un plus grand détail sur cette maladie, <i>V.</i>
+les <i>traites des maladies des yeux</i> de Maître-Jan, de
+Saint-Yves ; ce qu&#39;en disent Sennert, Riviere, &amp; les
+theses pathologiques &amp; thérapeutiques d&#39;Hoffman,
+<i>system. med. ration. tom. IV. part. IX. cap. jv.</i> (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

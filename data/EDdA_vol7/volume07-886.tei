@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28340" id="50:111" vol="7">
+<index type="head" value="FRESANGE, ou FRESSENGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f." />
+<head>FRESANGE, ou FRESSENGE</head>
+<p>
+FRESANGE, <i>ou</i> FRESSENGE, s. f. (<i>Jurispr.</i>)
+est un droit de porc, dû en certains lieux aux officiers 
+des eaux &amp; forêts par le fermier des glandées
+&amp; paisson.
+</p>
+<p>
+Ce mot vient de <i>friscinga</i>, qui signifie <i>porc</i>.
+</p>
+<p>
+Il en est parlé dans un cartulaire de Saint-Denis,
+de l&#39;an 1144, dans des lettres de Louis le Jeune de
+l&#39;an 1147. Il donne aux lépreux de S. Lazare <i>decem
+friscingas</i>, de trois sous chacune, qui devoient être
+fournies par le fermier des boucheries de Paris. Il en
+est aussi parlé dans l&#39;histoire de Gand, <i>liv. V. pag.
+263</i>.
+</p>
+<p>
+Ce droit se changeoit souvent en argent ou autre
+espece. M. de Lauriere en rapporte plusieurs exemples 
+en son <i>glossaire</i>, au mot <i>fresange</i>.
+</p>
+<p>
+Cet auteur pense que ce droit peut être la même
+chose que celui qui est appellé ailleurs <i>porcellagium</i>
+ou <i>porcelatio</i> ; mais que <i>friscinga</i> est quelque chose
+de moindre que <i>porcus</i>. Il y a apparence que pour
+chaque porc, on ne devoit pour <i>fresange</i> qu&#39;un morceau 
+d&#39;un certain poids, ou l&#39;équivalent. M. de Lauriere rapporte une charte de l&#39;an 1553, suivant laquelle 
+celui qui avoit trois porcs ou truies ne devoit
+que deux sous tournois pour le droit de <i>fresange</i> ; &amp;
+<milestone unit="column" n="2" />
+celui qui avoit voulu frauder le droit, devoit au seigneur 
+soixante sous d&#39;amende. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

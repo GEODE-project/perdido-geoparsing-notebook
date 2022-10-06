@@ -1,0 +1,177 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30377" id="55:27:2" vol="7">
+<index type="head" value="Grenier à Sel" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Commerce." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Gabelle" />
+<index type="pos" value="NA" />
+<head>Grenier à Sel</head>
+<p>
+<sc>Grenier à Sel</sc>, (<i>Commerce.</i>) c&#39;est un magasin
+ou dépôt où l&#39;on conserve les sels de la ferme des
+gabelles. <i>Voyez</i> <sc><ref target="head:Gabelle" type="search">Gabelle</ref></sc>.
+</p>
+<p>
+<i>Grenier à sel</i> se dit encore de la jurisdiction où se
+jugent en premiere instance les contraventions sur le
+fait du sel ; les officiers aux <i>greniers à sel</i> en connoissent 
+définitivement au-dessous d&#39;un quart de minot ;
+au-dessus elles peuvent être portés par appel à la
+cour des aides.
+</p>
+<p>
+Cette jurisdiction est composée de présidens, de
+lieutenans, de grenetiers, de contrôleurs, d&#39;avocats
+&amp; procureurs du roi, de greffiers, d&#39;huissiers, &amp; de
+sergens. Toutes ces charges sont doubles dans le <i>grenier à sel</i> de Paris, &amp; les officiers servent alternativement 
+d&#39;année en année, à l&#39;exception des avocats
+du roi &amp; du premier huissier, qui sont toûjours de service ; 
+pour les greffiers, ils ne servent que de trois
+années l&#39;une. Il y a encore à Paris, outre ces officiers,
+un garde-contrôleur des mesures, un vérificateur
+des rôles, un capitaine, un lieutenant, &amp; treize gardes.
+Les <i>greniers à sel</i> départis dans les provinces
+ont les mêmes officiers, mais seulement un de chaque 
+rang.
+</p>
+<p>
+Les directions pour les <i>greniers à sel</i> du royaume
+sont au nombre de dix-sept, savoir:
+<table>
+                    <sc>Paris</sc>.
+Soissons,              Laval,
+Abbeville,             Le Mans,
+Saint-Quentin,        Berry,
+Châlons,               Moulins,
+Troyes,                Roüen,
+Orleans,               Caën,
+Tours,                 Alençon ;
+Anjou,                 Dijon.
+</table>
+</p>
+<p>
+Ces dix-sept directions contiennent deux cents
+quarante-quatre <i>greniers à sel</i>, &amp; trente-six dépôts &amp;
+contrôles.
+</p>
+<p>
+La direction de Paris a vingt-sept <i>greniers à sel</i>.
+<table>
+Celle de Soissons, douze. Laval, neuf.
+Abbeville, aussi douze.   Le Mans, treize.
+Saint-Quentin, fix.       Berri, onze, &amp; six dépôts
+Châlons, neuf.              &amp; contrôles.
+Troyes, onze.             Moulins, douze, &amp; dix-Orleans, vingt-un.          neuf dépôts &amp; contrôl.
+Tours, seize, &amp; sept dé-Roüen, vingt-deux.
+ pôts &amp; contrôles.      Caën, seulement deux.
+Anjou, onze, &amp; quatre    Alençon, quatorze.
+ dépôts &amp; contrôles.    Dijon, trente-six.
+</table>
+</p>
+<p>
+Tous ces <i>greniers</i> sont régis en chef par les fermiers
+généraux, qui ont sous eux les directeurs, les receveurs,
+&amp; les contrôleurs des dix-sept directions
+générales, &amp; sous ceux ci sont d&#39;autres directeurs,
+contrôleurs, &amp; receveurs particuliers, qui sont chargés 
+du détail de chaque dépôt &amp; <i>grenier à sel</i>.
+</p>
+<p>
+Les autres commis &amp; officiers subalternes, sont
+les capitaines, leurs lieutenans, &amp; les archers des
+gabelles, départis en grand nombre dans tous les <i>greniers à sel</i>, &amp; particulierement sur les passages des
+provinces où l&#39;on craint le reversement &amp; commerce 
+du faux sel ; les jurés mesureurs de sel, &amp; les porteurs 
+de sel, les uns &amp; les autres pourvûs en titre
+d&#39;office ; les manouvriers, les magasiniers, comme
+remueurs, briseurs, &amp; enfin les voituriers par eau
+<milestone unit="column" n="2" />
+ou par terre, qui sont tous entretenus aux dépens
+de la ferme. <i>Dictionn. de Commerce.</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

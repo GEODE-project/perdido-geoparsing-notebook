@@ -1,0 +1,180 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28936" id="51:204:1" vol="7">
+<index type="head" value="Ganglion" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chir." />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Ganglion</head>
+<p>
+<sc>Ganglion</sc>, (<i>Chir.</i>) tumeur circonscrite, mobile,
+sans douleur, &amp; sans changement de couleur à la
+peau, qui vient dans les parties membraneuses sur
+les articulations des os du carpe &amp; du tarse. Ces tumeurs 
+sont du genre des enkistées. Elles se forment
+communément sans qu&#39;il ait précédé aucun accident.
+Si elles ne se dissipent pas d&#39;elles-mêmes, ce qui arrive 
+quelquefois, on qu&#39;on ne les détruise point par
+les secours convenables, lorsqu&#39;elles sont encore récentes,
+elles parviennent souvent à une grandeur
+considérable. Elles deviennent alors incommodes,
+en gênant le mouvement de la partie, &amp; le rendant
+penible &amp; douloureux.
+</p>
+<p>
+La cause de ces tumeurs est une lymphe retenue
+dans une cellule du tissu folliculeux qui est entre les
+tendons &amp; les os du poignet. Les contusions, les distensions 
+violentes, les coups, les chûtes en sont ordinairement 
+les causes occasionnelles. La mobilité
+de la tumeur montre bien qu&#39;originairement elle ne
+tient ni aux os, ni aux tendons.
+</p>
+<p>
+Les remedes résolutifs, discussifs, &amp; fondans ne
+sont pas de grande utilité dans la cure de cette maladie,
+quoique les auteurs rapportent en avoir éprouvé de bons effets dans les <i>ganglions</i> récemment formés.
+La compression a communément plus de succès.
+On recommande aux personnes qui en ont, de
+les frotter fortement avec le pouce plusieurs fois par
+jour. Ces attritions répétées usent le kiste ; &amp; il est
+ordinaire de sentir enfin la tumeur se dissiper absolument 
+sous l&#39;action du doigt qui la frottoit.
+</p>
+<p>
+C&#39;est pour favoriser l&#39;ouverture du kiste &amp; l&#39;évacuation 
+de l&#39;humeur lymphatique, qu&#39;on fait porter
+une plaque de plomb bien serrée sur la tumeur. On
+la fait frotter de vis-argent du côté qui touche à la
+peau ; ce qui ne paroit pas donner à cette plaque
+plus de vertu. On a des exemples de guérisons subites 
+des <i>ganglions</i> par une forte compression qui rompoit<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ou faisoit crever le kiste. Muys vouloit qu&#39;on
+la fit avec le pouce ; <i>Job à Mecustren</i> recommandoit
+que la main fut posée sur une table, &amp; qu&#39;on frappât 
+plusieurs fois le <i>ganglion</i> à coups de poing ; d&#39;autres 
+se sont servi avec succès d&#39;un marteau de bois
+pour cette percussion : Solinger, fameux chirurgien
+hollandois, propose l&#39;extirpation des <i>ganglions ;</i> d&#39;autres 
+auteurs rejettent cette opération ; elle n&#39;est pas
+sans inconvénient, par rapport aux parties circonvoisines.
+Mais comme il est constant par toutes les
+cures qu&#39;on a faites en comprimant, qu&#39;il suffit que la
+membrane soit ouverte en un point quelconque de sa
+circonférence, pour laisser échapper l&#39;humeur qu&#39;elle
+renferme ; on ne courroit aucun risque de piquer le
+kiste avec une lancette, comme on ouvre une veine 
+en saignant. M. Warner, de la société royale &amp;
+chirurgien de l&#39;hôpital de Guy à Londres, vient de
+nous donner dans un <i>recueil d&#39;observations de Chirurgie</i>, le détail de deux cures de <i>ganglions</i> très-considérables, qu&#39;il a jugé à-propos d&#39;extirper ; ils étoient
+devenus adhérens aux tendons des doigts ; il a été
+obligé de couper dans son opération le ligament
+transversal du carpe : les malades qui ne pouvoient
+plus fermer la main, ni mouvoir les doigts, ont recouvré 
+parfaitement l&#39;usage de ces parties, après la
+guérison qui fut accomplie en 40 jours. L&#39;auteur convient 
+que ces opérations peuvent être suivies d&#39;inflammation 
+&amp; d&#39;abcès ; il ajoûte qu&#39;il ne connoit
+point de cas où ils se soient mal terminés.
+</p>
+<p>
+Parlerons-nous des moyens superstitieux auxquels
+quelques personnes ont la foiblesse d&#39;avoir confiance
+pour la cure des <i>ganglions?</i> L&#39;application de la main
+d&#39;un homme à l&#39;agonie, jusqu&#39;à ce qu&#39;il soit mort, &amp;
+tant qu&#39;il conserve encore de la chaleur. Frotter la
+tumeur avec la chemise d&#39;un homme qui vient de
+mourir, &amp; qui est encore moite par la sueur de son
+corps. J&#39;ai connu qu&#39;on ne persuadoit pas de la sottise 
+de ces moyens les gens qui s&#39;étoient propose d&#39;y
+avoir recours ; je me suis plusieurs fois prêté dans les
+hôpitaux à ces tentatives ridicules, après avoir perdu 
+mes raisons pour en détourner. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

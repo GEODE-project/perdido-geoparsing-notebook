@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29328" id="52:132" vol="7">
+<index type="head" value="GENESTROLLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GENESTROLLE</head>
+<p>
+GENESTROLLE, s. f. (<i>Botan.</i>) <i>genista tinctoria</i>,
+C. Bauh. <i>Pin. 395</i>. Tournef. <i>instit. 643</i>. Boerh.
+<i>ind. A. 2. 25. genistella tinctoria</i>. Ger. Emac. 1136.
+Raü <i>hist. 2. 1725. synops 3. 474</i>. &amp;c.
+</p>
+<p>
+Le port de cette plante herbeuse est le même que
+celui du genêt dont elle est la plus petite espece, &amp;
+vient beaucoup moins haut ; ses verges sont plus
+minces &amp; plus courtes ; ses feuilles, ses fleurs &amp; ses
+gousses sont aussi plus petites.
+</p>
+<p>
+La <i>genestrolle</i> croît naturellement &amp; sans culture,
+ce qui lui a donné le nom <i>de genêt, de pâturage</i> ou
+<i>d&#39;herbe de pâturage ;</i> elle sert quelquefois aux Teinturiers pour teindre en jaune les choses de peu de conséquence,
+&amp; c&#39;est pour cela qu&#39;on l&#39;appelle en françois 
+comme en latin, <i>le genêt des Teinturiers</i>. Cette
+herbe ne se peut garder que quand elle a été cueillie
+en maturité; mais si l&#39;on veut s&#39;en servir aussi-tôt
+<pb n="7:577" facs="V7/ENC_7-577.jpeg" />
+<milestone unit="column" n="1" />
+après l&#39;avoir cueillie, il n&#39;importe pas qu&#39;elle soit si
+mûre. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

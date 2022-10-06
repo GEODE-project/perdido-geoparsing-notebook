@@ -1,0 +1,379 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29695" id="53:161:3" vol="7">
+<index type="head" value="Usages du Globe terrestre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="NA" />
+<head>Usages du Globe terrestre</head>
+<p>
+<sc>Usages du Globe terrestre</sc>. <i>Trouver la longitude 
+&amp; la latitude de quelque lieu tracé sur le globe</i>.
+Portez le lieu sous le méridien de cuivre où sont
+marqués les degrés, le point correspondant du méridien 
+est sa latitude ; &amp; le degré de l&#39;équateur qui
+<milestone unit="column" n="2" />
+se trouve en même tems sous le méridien, est sa longitude.
+</p>
+<p>
+<i>La longitude &amp; latitude étant données, trouver le
+lieu sur le globe</i>. Cherchez sur l&#39;équateur le degré
+donné de longitude, &amp; portez-le sous le méridien ;
+pour lors comptez de puis l&#39;équateur sur le méridien
+le degré de latitude donné vers le pole septentrional,
+si la latitude est septentrionale, ou vers le pole
+méridional, si la latitude est méridionale ; le point
+où vous vous arrêterez marque le lieu que vous
+cherchez.
+</p>
+<p>
+<i>Trouver les antéciens, les periéciens, &amp; les antipodes
+d&#39;un lieu donné</i>. 1°. Portez ce lieu sous le méridien,
+&amp; comptez ses degrés sur le méridien depuis l&#39;équateur 
+vers l&#39;autre pole ; le point où vous vous arrêterez 
+est le lieu des antéciens. <i>Voyez</i> <sc><ref target="head:Antéciens" type="search">Antéciens</ref></sc>.
+</p>
+<p>
+2°. Remarquez le degré du méridien répondant
+au lieu donné &amp; à ses antéciens, &amp; tournez le <i>globe</i>
+jusqu&#39;à ce que le degré opposé de l&#39;équateur se
+trouve sous le méridien ; ou, ce qui revient au même,
+jusqu&#39;à ce que l&#39;aiguille qui marquoit auparavant 
+12 heures, les marque de l&#39;autre côté: pour
+lors le lieu qui répond au premier degré est celui
+des periéciens, &amp; le lieu qui répond à l&#39;autre degré
+est celui des antipodes. <i>Voyez</i> <sc><ref target="head:Periéciens" type="search">Periéciens</ref> <i>&amp;</i> <ref target="head:Antipodes" type="search">Antipodes</ref></sc>.
+</p>
+<p>
+<i>Trouver à quel lieu de la terre le soleil est vertical
+dans un tems donné</i>. 1°. Le lieu du soleil étant trouvé
+dans l&#39;écliptique, portez-le sous le méridien, &amp; l&#39;aiguille 
+sur 12 heures ; remarquez en même tems le
+point du méridien qui y répond.
+</p>
+<p>
+2°. Si l&#39;heure donnée est avant midi, il la faut
+déduire de 12; alors tournez le <i>globe</i> vers l&#39;occident
+jusqu&#39;à ce que l&#39;aiguille marque les heures restantes,
+pour lors le lieu qu&#39;on cherche se trouvera sous le
+point du méridien que l&#39;on a déjà marqué.
+</p>
+<p>
+3°. Si c&#39;est une heure de l&#39;après-midi, tournez le
+<i>globe</i> de la même maniere vers l&#39;occident jusqu&#39;à ce
+que l&#39;aiguille marque l&#39;heure donnée ; pour lors vous
+trouverez aussi le lieu que vous cherchez sous le
+point du méridien marqué auparavant.
+</p>
+<p>
+Si vous marquez en même tems tous les lieux qui
+se trouvent sous la même moitié du méridien, où est
+le lieu trouvé, vous connoîtrez tous les lieux où il
+est alors midi ; &amp; la moitié opposée du méridien
+vous fera connoître tous les lieux où il est alors
+minuit.
+</p>
+<p>
+<i>Un lieu étant donné dans la zone torride, trouver les
+deux jours de l&#39;année où le soleil y est vertical</i>. 1°. Portez le lieu donné sous le méridien, &amp; marquez le
+degré du méridien qui y répond.
+</p>
+<p>
+2°. Tournez le <i>globe</i>, &amp; marquez les deux points
+de l&#39;écliptique, lesquels passent par ce degré.
+</p>
+<p>
+3°. Cherchez quel jour le soleil se trouve dans ces
+points de l&#39;écliptique ; c&#39;est dans ces jours-là que le
+soleil est vertical aux lieux donnés.
+</p>
+<p>
+<i>Trouver dans la zone torride les lieux auxquels le
+soleil est vertical un jour donné</i>. Portez le lieu du soleil 
+dans l&#39;écliptique sous le méridien ; tournez ensuite 
+le <i>globe</i>, &amp; marquez tous les lieux qui passent
+par ce point du méridien : ce sont-là les lieux que
+vous cherchiez.
+</p>
+<p>
+On trouve de la même maniere quels sont les
+peuples asciens, c&#39;est-à-dire qui n&#39;ont point d&#39;ombre
+un jour donné. <i>Voyez</i> <sc><ref target="head:Asciens" type="search">Asciens</ref></sc>.
+</p>
+<p>
+<i>Trouver le tems où le soleil se leve pour ne se plus
+coucher, ou se couche pour ne se plus lever</i>. Soit supposée 
+l&#39;élévation du pole de 80 degrés. Il faut pour cet
+effet considérer que dans l&#39;exemple donné, il s&#39;en
+faut dix degrés que le pole ne soit tout-à-fait élevé,
+ce qui fait que ces dix degrés sont au-dessous de l&#39;horison.
+Mais ces mêmes degrés étant dans la déclinaison 
+septentrionale du soleil, cela fait qu&#39;il faut tourner 
+le <i>globe</i> jusqu&#39;à ce que quelqu&#39;un des degrés de
+<pb n="7:714" facs="V7/ENC_7-714.jpeg" />
+<milestone unit="column" n="1" />
+l&#39;écliptique de la partie du printems passe sous le dixieme 
+degré de declinaison pris au méridien, lequel
+sera en cet exemple le 25<sup>e</sup> degré du Bélier auquel répond 
+le douzieme jour d&#39;Avril, qui sera le tems du
+lever du soleil en ces climats.
+</p>
+<p>
+Pour savoir le tems de son coucher, il faut remarquer 
+quel degré de l&#39;ecliptique de la partie de l&#39;été
+passera au méridien sous le même dixieme degré de
+déclinaison ; &amp; on trouvera le cinquieme degré de
+la Vierge, auquel le soleil se trouve le 26 Août, qui
+sera le tems du coucher du soleil à 80 degrés de
+hauteur du pole. Autrement : on peut voir quels sont
+les deux degrés de l&#39;écliptique, qui, en la revolution
+du <i>globe</i>, ne se couchent point, le <i>globe</i> étant disposé 
+à la latitude de 80 degrés ; &amp; on trouvera qu&#39;en
+cet exemple, c&#39;est le 25<sup>e</sup> degré du Bélier &amp; le cinquieme 
+de la Vierge, auxquels répondent le 12 Avril
+&amp; le 26 d&#39;Août.
+</p>
+<p>
+<i>Trouver la longueur du plus long jour aux zones
+froides</i>. Par exemple, si on veut savoir la duree du
+plus long jour à 80 degrés de latitude, on trouvera
+que le soleil s&#39;y leve le 12 d&#39;Avril, pour ne se coucher 
+que le 26 d&#39;Août ; &amp; comptant les jours depuis
+le 12 Avril jusqu&#39;au 26 d&#39;Août, on en trouve 143,
+qui est la durée du tems que le soleil demeure sur
+l&#39;horison en cet endroit de la zone froide. Si on réduit 
+ces jours en mois, en les divisant par 30, il
+viendra quatre mois &amp; 29 jours pour la longueur de
+ce jour, auquel la duree de la plus longue nuit est
+à-peu-près egale.
+</p>
+<p>
+<i>Trouver la latitude des lieux où un certain jour donné 
+est d&#39;une certaine longueur donnée</i>. 1°. Portez sur le
+méridien le lieu de l&#39;écliptique ou le soleil se trouve
+le jour donne, &amp; mettez aiguille sur 12 heures.
+</p>
+<p>
+2°. Tournez le <i>globe</i> jusqu&#39;a ce que l&#39;aiguille marque 
+l&#39;heure du lever ou du coucher.
+</p>
+<p>
+3°. Elevez &amp; abaissez le pole jusqu&#39;à ce que le
+lieu du soleil paroisse dans le côté oriental ou occidental 
+de l&#39;horison ; pour lors le pole aura sa juste
+élevation, &amp; par consequent il vous donnera la latitude 
+que vous cherchez.
+</p>
+<p>
+<i>Trouver dans la zone glaciale la latitude des lieux
+où le soleil ne se couche point pendant un certain nombre
+de jours donnés</i>. 1°. Comptez depuis le tropique le
+plus voisin vers le point équinoxial, autant de degrés 
+sur l&#39;ecliptique qu&#39;il y a d&#39;unités dans la moitié
+du nombre des jours donnés, parce que le soleil
+par son mouvement annuel parcourt à-peu-près un
+degré par jour.
+</p>
+<p>
+2°. Portez le point de l&#39;écliptique ainsi trouvé sous
+le méridien ; sa distance du pole sera égale à l&#39;elévation 
+du pole ou à la latitude cherchée.
+</p>
+<p>
+<i>Une heure du jour ou de la nuit étant donnée, trouver 
+tous les lieux où le soleil se leve &amp; se couche, où il
+est midi ou minuit, &amp; où il fait jour ou nuit.</i> 1°. Cherchez à quel lieu le soleil est vertical au tems donné
+de la maniere qu&#39;il est dit ci-dessus.
+</p>
+<p>
+2°. Portez ce lieu au zénith de l&#39;horison de bois,
+c&#39;est à-dire élévez le pole à la hauteur que le demande 
+le lieu en question ; pour lors les lieux qui
+se trouveront du côté oriental de l&#39;horison, seront
+ceux où le soleil se couche, &amp; les lieux qui se trouveront 
+du côte occidental seront ceux ou le soleil
+le leve : les lieux qui se trouveront sous le demi-cercle 
+superieur du méridien seront ceux où il sera
+midi, &amp; ses lieux qui se trouveront sous le demi-cercle 
+intérieur, seront ceux où il sera minuit : enfin
+dans les lieux qui se trouveront dans l&#39;hémisphere
+supérieur, il fera jour, &amp; il sera nuit dans ceux de
+l&#39;hemisphere inferieur.
+</p>
+<p>
+<i>Trouver a quels endroits de la terre une planete, par
+exemple la lune, est verticale un jour donne</i>. 1°. Marquez le lieu de la planete sur le <i>globe</i>, comme il est
+dit ci-dessus.
+<milestone unit="column" n="2" />
+</p>
+<p>
+2°. Portez ce lieu sous le méridien, &amp; marquez-y
+le degré où elle répond.
+</p>
+<p>
+3°. Tournez le <i>globe ;</i> les lieux qui passeront sous
+ce point sont ceux que vous cherchez.
+</p>
+<p>
+<i>La déclinaison d&#39;une étoile ou de quelque autre phénomene 
+étant donnée, trouver à quelle partie de la terre
+l&#39;étoile est verticale</i>. Comptez sur le méridien depuis
+l&#39;équateur vers le pole un nombre de degrés égal à
+la déclinaison donnée : savoir, vers le nord, si la déclinaison 
+est septentrionale ; &amp; vers le midi, si elle
+est méridionale. Ensuite tournant le <i>globe</i>, les lieux
+qui passeront par l&#39;extrémité de cet arc sous le méridien,
+sont les lieux que l&#39;on cherche.
+</p>
+<p>
+<i>Determiner le lieu ou une étoile, ou autre corps céleste 
+sera vertical une certaine heure donnée</i>. 1°. Elevez
+le pole suivant la latitude du lieu sur le midi ou minuit 
+duquel on a compté les heures.
+</p>
+<p>
+2°. Portez sous le méridien le lieu où le soleil est
+ce jour-là, &amp; mettez l&#39;aiguille sur 12 heures.
+</p>
+<p>
+3°. Determinez le lieu de l&#39;étoile sur la surface du
+<i>globe</i>, &amp; portez-le sur le méridien, l&#39;aiguille marquera 
+la différence de tems entre l&#39;arrivée du soleil
+&amp; de l&#39;etoile au méridien du lieu ; marquez le point
+du méridien qui repond au lieu de l&#39;étoile.
+</p>
+<p>
+4°. Cherchez en quels lieux de la terre il est midi
+dans ce tems-là, &amp; mettez l&#39;aiguille sur 12 heures.
+</p>
+<p>
+5°. Tournez le <i>globe</i> vers l&#39;occident jusqu&#39;à ce que
+l&#39;aiguille ait passe sur l&#39;intervalle de tems qu&#39;il y a
+entre le point culminant du soleil &amp; de l&#39;etoile, &amp;
+pour lors vous trouverez le lieu cherché sous le point
+que vous avez marqué sur le méridien.
+</p>
+<p>
+Par le même moyen vous pouvez trouver dans
+quel lieu une étoile ou autre phénomene, se leve
+ou se couche au tems donné.
+</p>
+<p>
+<i>Placer le globe de maniere, que sous une latitude donnée,
+le soleil éclaire les mêmes régions dépeintes sur le
+globe qu&#39;il éclaire actuellement sur la terre</i>. Rectifiez le
+<i>globe</i>, c&#39;est-à-dire élevez le pole suivant la latitude
+du lieu ; portez ce lieu sous le méridien, &amp; mettez
+le <i>globe</i> au nord &amp; au sud par le moyen de la boussole ; 
+pour lors, comme le <i>globe</i> sera dans la même
+situation que la terre, par rapport au soleil, celui-ci
+éclairera la même partie sur le <i>globe</i> qu&#39;il éclaire actuellement 
+sur la terre ; d&#39;où il s&#39;ensuit que dans cette
+situation la lune éclairera aussi la même partie sur
+le <i>globe</i> qu&#39;elle éclaire actuellement sur la terre.
+</p>
+<p>
+De la même maniere on peut trouver les lieux
+où le soleil &amp; la lune se levent &amp; se couchent au
+tems donné.
+</p>
+<p>
+<i>Trouver par le moyen du globe de combien de lieues
+deux endroits quelconques sont éloignés l&#39;un de l&#39;autre</i>.
+Prenez avec le compas la distance des lieux donnés,
+&amp; portez-la sur l&#39;equateur ; les degrés que cette distance 
+donnera étant réduits en milles, lieues, <i>&amp;c.</i>
+donneront la distance cherchée. <i>Voyez Harris, Chambers, Wolf</i>, &amp; <i>l&#39;usage des globes de</i> Bion. (<i>O</i>)
+</p>
+<p>
+On peut faire la même chose un peu plus commodément,
+en étendant sur les deux lieux le bord
+du quart de cercle où sont marqués les degrés, &amp;
+en comptant les degrés qui y sont compris.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

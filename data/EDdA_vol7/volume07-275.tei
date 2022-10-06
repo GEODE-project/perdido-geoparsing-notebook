@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27729" id="49:22" vol="7">
+<index type="head" value="FORFAITURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f." />
+<head>FORFAITURE</head>
+<p>
+FORFAITURE, s. f. (<i>Jurisprud.</i>) <i>forisfactum</i> ou
+<i>forisfactura</i>, est la transgression de quelque loi pénale.
+</p>
+<p>
+La félonie du vassal envers son seigneur, est quelquefois 
+qualifiée de <i>forfaiture</i>.
+</p>
+<p>
+Mais on entend plus communément par <i>forfaiture</i>,
+une prévarication commise par un officier public dans
+l&#39;exercice de sa charge, &amp; pour laquelle il mérite d&#39;être 
+destitué: on ne peut cependant obtenir aucun brevet 
+ou provisions sur la <i>forfaiture</i> de l&#39;officier, qu&#39;elle
+n&#39;ait été jugée.
+</p>
+<p>
+<i>Forfaiture</i>, en matiere d&#39;eaux &amp; forêts, est un délit 
+commis dans les bois, comme larcin ou dégât,
+<i>&amp;c.</i> ces sortes de <i>forfaitures</i> sont punies de peines plus
+ou moins graves, suivant la nature du délit &amp; les circonstances.
+<i>Voyez le titre dernier de l&#39;ordonnance de
+1669</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

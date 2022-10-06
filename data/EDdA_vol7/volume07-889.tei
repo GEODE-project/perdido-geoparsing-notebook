@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28343" id="50:113:1" vol="7">
+<index type="head" value="Fret" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="NA" />
+<head>Fret</head>
+<p>
+<sc>Fret</sc> signifie encore un certain droit de cinquante 
+sols par tonneau de mer, qui se paye aux bureaux
+des fermes du roi par les capitaines &amp; maîtres des
+vaisseaux étrangers à l&#39;entrée ou à la sortie des ports
+&amp; havres du royaume.
+</p>
+<p>
+Les vaisseaux hollandois furent déchargés de ce
+droit par le traité d&#39;Utrecht en 1713: il devoit aussi
+cesser en faveur des vaisseaux anglois, à condition
+que le droit de 5 sols sterling seroit supprimé en Angleterre en faveur des François ; mais cette condition 
+n&#39;ayant pas été remplie, les choses sont restées
+sur l&#39;ancien pié. Les vaisseaux des villes hanséatiques
+joüissent en France du même privilége que les Hollandois, par le traité conclu en 1716 entre la France
+&amp; les villes de Hambourg, Lubeck, &amp; Bremen.
+<i>Dictionn. de Comm. &amp; de Trév</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

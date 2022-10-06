@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28095" id="50:27" vol="7">
+<index type="head" value="FRAGMENT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. Littérat." />
+<index type="normclass" value="Grammaire | Littérature" />
+<index type="englishclass" value="Grammar. Literature" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>FRAGMENT</head>
+<p>
+* FRAGMENT, s. m. (<i>Gramm. Littérat.</i>) il se dit
+en général d&#39;une portion d&#39;une chose rompue.
+</p>
+<p>
+En Littérature, un <i>fragment</i>, c&#39;est une partie d&#39;un
+ouvrage qu&#39;on n&#39;a point en entier, soit que l&#39;auteur
+ne l&#39;ait pas achevé, soit que le tems n&#39;en ait laissé
+parvenir jusqu&#39;à nous qu&#39;une partie. En Architecture, en Sculpture, il se dit de quelques morceaux
+détachés d&#39;un tout, tels qu&#39;un chapiteau, une corniche,<gap type="hyphenpb" />
+<pb n="7:274" facs="V7/ENC_7-274.jpeg" />
+<milestone unit="column" n="1" />
+une portion de statue, ou de bas-relief, qu&#39;on 
+a trouvé parmi des ruines.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

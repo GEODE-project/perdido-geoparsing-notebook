@@ -1,0 +1,274 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28638" id="51:22:2" vol="7">
+<index type="head" value="Fusil" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Artillerie" />
+<index type="pos" value="NA" />
+<head>Fusil</head>
+<p>
+<sc>Fusil</sc>. <i>Sa portée possible</i>. Pour reconnoître la
+plus grande portée possible d&#39;une balle ou boulet,
+il faut déterminer ses différentes portées, suivant
+l&#39;élévation que l&#39;on peut donner à la ligne de tire ;
+<pb n="7:397" facs="V7/ENC_7-397.jpeg" />
+<milestone unit="column" n="1" />
+il faut connoître les lois de la projection des corps ;
+la plus longue est par l&#39;angle de 45 degrés, &amp; l&#39;angle 
+de 15 degrés donne une projection de moitié
+moins d&#39;étendue. <i>Voyez</i> <sc><ref target="head:Projection" type="search">Projection</ref></sc>.
+</p>
+<p>
+Il doit y avoir une compensation en progression,
+depuis la plus grande portée jusqu&#39;à la plus courte,
+relativement à la longueur du calibre qui dirige la
+balle ou boulet dans l&#39;une ou l&#39;autre projection. Les
+expériences bien faites ne l&#39;ont été qu&#39;avec des
+bombes ou des jets d&#39;eau, ou l&#39;équivalent ; &amp; le calibre 
+plus ou moins long dans ces deux cas, n&#39;a pas
+dû faire une différence sensible, ni des frottemens à
+beaucoup près aussi grands que ceux qui se rencontrent 
+par l&#39;effet du calibre du <i>fusil</i>.
+</p>
+<p>
+Il faut observer que les différens calibres des armes 
+ne sont pas ensemble en même raison de leur
+diametre à leur longueur : en général dans l&#39;usage des
+armes à feu, plus le diametre est petit, plus le cylindre 
+ou calibre est long en proportion ; plus le calibre 
+ou cylindre est petit, plus les défauts en sont
+considérables proportionnellement ; plus le calibre
+a de longueur, plus il tend à donner une direction
+droite ; plus le calibre est petit, plus il y a de différence 
+entre le diametre du boulet &amp; le sien ; plus il
+y a de différence entre le boulet &amp; son calibre, plus
+les ondulations du boulet dans ce calibre peuvent
+l&#39;éloigner du but vers lequel il est dirigé.
+</p>
+<p>
+Seroit-il vrai que tout globe d&#39;une densité capable 
+de résister à la force qui le chasse, dirigé par un
+calibre ou cylindre en proportion semblable relativement 
+à son volume, poussé par une poudre d&#39;une
+force proportionnelle à sa masse, lancé dans la même
+projection, parcourroit des distances égales, &amp;
+peut-être même dans des tems égaux, &amp; décrira la
+même courbe? Les preuves pour ou contre ne peuvent 
+être aisément éclaircies ; il est difficile de déterminer 
+exactement une force proportionnelle à la
+masse du boulet dans l&#39;usage de la poudre, non-seulement parce que sa force augmente à-proportion de
+la promptitude de sa dilatation, &amp; que cette promptitude 
+dépend de sa qualité, de son degré de siccité,
+de sa disposition dans le calibre, du plus ou
+moins de pression de ses parties, &amp; de la résistance
+de la balle, mais encore par la difficulté dont il est
+de connoître la quantité de poudre qui s&#39;enflamme
+assez tôt pour donner au boulet toute l&#39;impulsion
+qu&#39;il acquiert, avant de quitter tel calibre qu&#39;il parcourt.
+</p>
+<p>
+La théorie peut faire reconnoître que pour que la
+charge d&#39;un <i>fusil</i> fît tout l&#39;effet que sa dilatation peut
+produire, il faudroit que la longueur du canon d&#39;un
+<i>fusil</i> fût de 90 piés ; mais l&#39;expérience a prouvé que
+la balle chassée par la même charge dans un <i>fusil</i> de
+quatre piés de canon, peut aller à deux mille cent
+soixante toises : il s&#39;ensuivroit donc, qu&#39;avec cette
+longueur supposée de 90 piés, la balle seroit portée
+à 48600 toises ; ce qu&#39;il n&#39;est pas possible d&#39;expérimenter,
+car on ne fera pas un canon de <i>fusil</i> de 90
+piés.
+</p>
+<p>
+Si d&#39;un côté la théorie prouve que la meilleure longueur 
+d&#39;un <i>fusil</i>, pour chasser le plus loin possible la
+balle, est de 90 piés ; que de l&#39;autre, l&#39;expérience
+prouve que par une longueur de quatre piés de canon,
+on chasse la balle à 2160 toises : il doit donc
+s&#39;ensuivre, que chaque pouce de longueur de plus
+ou de moins au canon, doit donner 45 toises de plus
+ou de moins de portée, &amp; que le pistolet, qui est
+de 14 pouces de canon, auroit 630 toises de portée:
+mais des expériences faites avec des canons, des
+coulevrines, &amp; autres armes à feu, ont prouvé que
+ces trois armes portent leurs globes à-peu-près à même 
+distance entre 2000 &amp; 2500 toises : donc on doit
+conclure qu&#39;il n&#39;y a pas une proportion en progression 
+connue, entre la force qui chasse les balles ou
+<milestone unit="column" n="2" />
+boulets, &amp; la longueur des calibres qui les dirigent.
+Il faut observer que la proportion entre la longueur
+du canon de 24, &amp; son boulet, est à-peu-près la même 
+que celle entre un petit pistolet de poche fort
+court, &amp; sa balle, c&#39;est-à-dire entre dix &amp; douze
+fois le diametre respectif de leur calibre. Quand on
+a fait des expériences pour constater quelle étoit la
+longueur de calibre la plus avantageuse à un canon,
+on a été occupé principalement de voir la différence
+que ses différentes dimensions pourroient occasionner
+dans l&#39;effet du boulet, lorsqu&#39;il frappe le but : pour cela,
+on a tiré d&#39;abord avec le calibre qu&#39;on avoit fait
+le plus long possible ; ensuite on l&#39;a racourci à plusieurs 
+reprises, en sciant à chaque fois l&#39;extrèmité. Le
+résultat pour la force a été établi, mais celui pour
+la portée ne l&#39;a point été: vraissemblablement,
+pour la portée du but en blanc, il auroit dû être, à
+bien peu de chose près, le même : mais pour la plus
+longue portée possible, le résultat auroit dû être différent 
+à chaque fois, &amp; relatif à celui de la force du
+choc, &amp; par les mêmes raisons, une certaine longueur 
+donnant le tems à plus d&#39;effet de la poudre,
+qu&#39;une moindre ; &amp; l&#39;étendue de la portée de but en
+blanc, n&#39;est pas comparable à la plus longue portée
+possible. D&#39;ailleurs, les lignes de tire &amp; de mire
+étoient toûjours les mêmes dans les canons d&#39;épreuve ; 
+au lieu que dans les canons de différentes longueurs,
+elles forment des angles plus ouverts, àproportion que les calibres sont plus courts.
+</p>
+<p>
+Pour déterminer quelle est la courbe que décrit
+la balle d&#39;un <i>fusil</i> de munition, de la dimension fixée
+par les ordonnances, &amp; dont les troupes sont ou seroient 
+armées ; il faudroit fixer un de ces <i>fusils</i> dans
+la position horisontale qu&#39;on choisira ; placer ensuite
+sur la ligne de mire donnée plusieurs especes de
+grands tamis placés verticalement entre 300 toises à
+distance les uns des autres, &amp; faire feu : la balle tirée
+perceroit les toiles, crins, taffetas, ou papiers dont ces
+tamis seroient faits ; &amp; ces points-là reconnus détermineroient 
+la courbe qu&#39;auroit décrit cette balle. Si
+l&#39;on ne vouloit que trouver seulement le point le
+plus haut de cette courbe, on pourroit faire tirer dessous 
+une voûte dont le faîte seroit de niveau, en plaçant 
+la ligne de mire parallelement au-dessous de
+cette voûte, à un pié, un pié &amp; demi, ou deux piés ;
+&amp; remarquant ensuite l&#39;endroit où la balle ne feroit
+qu&#39;effleurer le dessous de ladite voûte.
+</p>
+<p>
+Les épreuves exactes de la plus longue portée
+possible, ne peuvent se faire sans risque que sur des
+canaux glacés de deux à trois mille toises de longueur
+environ, &amp; assez larges pour espérer que la direction
+de la balle ne sera pas trop détournée par les diverses 
+résistances qu&#39;elle peut éprouver dans les cinq
+à six mille toises d&#39;atmosphere qu&#39;elle parcourroit.
+Des hommes placés à distance l&#39;un de l&#39;autre, sous
+des especes de guérites, le long des bords du canal,
+remarqueroient où la balle tomberoit.
+</p>
+<p>
+Toutes ces épreuves pourroient se faire avec les
+différens calibres, &amp; dans diverses dimensions de culasses.
+Il est à croire que les expériences, en fixant
+les idées sur les différentes portées des armes à feu,
+fourniroient les moyens d&#39;en faire un usage à-peu-près semblable à celui que l&#39;on fait des fleches. La
+pratique en seroit vraissemblablement beaucoup plus
+difficile à perfectionner ; parce qu&#39;une balle n&#39;étant
+point visible comme le peut être une fleche, &amp; sa
+portée étant beaucoup plus étendue, celui qui auroit 
+tiré ne pourroit pas reconnoître aisément quel
+effet auroit fait sa balle : mais la théorie pourroit faire 
+tirer parti de cette connoissance, pour faire porter 
+des balles à des éloignemens où l&#39;on n&#39;auroit pas
+lieu d&#39;en craindre sans cela.
+</p>
+<p>
+Les militaires instruits du résultat de ces expériences 
+sur la partie du but en blanc &amp; la plus longue
+<pb n="7:398" facs="V7/ENC_7-398.jpeg" />
+<milestone unit="column" n="1" />
+portée possible, pourroient, suivant l&#39;éloignement
+où ils se trouveroient de l&#39;ennemi, ordonner à leurs
+soldats de tirer plus ou moins haut, suivant l&#39;éloignement 
+de leur ennemi. En visant, par exemple, à la
+hauteur de la pique ou fer des drapeaux, lorsqu&#39;il seroit 
+encore à 300 toises ; &amp; s&#39;il étoit à 200, à la hauteur 
+de la pique ou fer des espontons ; à 150, au haut
+de la tête, aux chapeaux de cet ennemi ; à 100, à la
+ceinture ; à 60 toises, aux genoux, ou bien peu au-dessous ; 
+mais jamais plus bas.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

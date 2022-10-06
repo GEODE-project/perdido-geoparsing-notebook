@@ -1,0 +1,164 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29269" id="52:91" vol="7">
+<index type="head" value="GELIVURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Agricult" />
+<index type="normclass" value="Agriculture" />
+<index type="englishclass" value="Agriculture" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="s.f." />
+<head>GELIVURE</head>
+<p>
+GELIVURE, s. f. (<i>Agricult</i>) défaut, maladie,
+dommage qui arrive aux arbres par de fortes gelées.
+</p>
+<p>
+La physique des végétaux, &amp; sur-tout des principaux 
+végétaux, qui sont les arbres, se porte même
+à la connoissance des accidens qui arrivent extraordinairement ; 
+tels sont ceux que produisent les fortes
+gelées d&#39;hyver. Eiles font quelquefois fendre les arbres,
+suivant la direction de leurs fibres, &amp; même
+avec bruit ; c&#39;est ce que les Forestiers appellent <i>gelivures</i>, terme expressif qu&#39;on ne trouve point dans
+nos meilleurs dictionnaires, &amp; dont il faut pourtant
+enrichir notre langue.
+</p>
+<p>
+Nos forêts ont été attaquées de maladies considérables 
+par le froid de 1709; &amp; quoique cette énorme
+gelée paroisse être très-ancienne, elle a produit dans
+les arbres du royaume des défauts ineffaçables.
+</p>
+<p>
+Telles sont les <i>gelivures</i>, c&#39;est-à-dire les fentes,
+les gerçures considérables des arbres dans toute la
+direction de leurs fibres. Ces arbres ainsi fendus ou
+gercés, sont marqués d&#39;une arête ou éminence formée 
+par la cicatrice qui a recouvert les gerçures qui
+restent dans l&#39;extérieur de ces arbres sans se réunir,
+parce qu&#39;il ne se fait jamais de réunion dans les fibres
+ligneuses, sitôt qu&#39;elles ont été séparées. On conçoit
+fort bien que la seve, qui augmente de volume,
+comme toutes les liqueurs aqueuses, lorsqu&#39;elle
+vient à geler, produit nécessairement des <i>gelivures ;</i>
+mais ne pourroit-il pas y en avoir qui fussent quelquefois 
+occasionnées par d&#39;autres causes, comme
+par une trop grande abondance de seve, ou autres
+vices de l&#39;arbre?
+</p>
+<p>
+Quoi qu&#39;il en soit, on a trouvé de ces défectuosités 
+d&#39;arbres dans tous les terroirs, &amp; à toutes les
+expositions ; &amp; même on a trouvé quantité d&#39;arbres
+qui non-seulement étoient <i>gelivés</i>, mais qui avoient
+même une portion de bois mort renfermée dans de
+bon bois ; ce que les gens des forêts appellent <i>gelivure entre-lardée</i>. Alors les arbres ainsi malades étant
+sciés horisontalement, découvrent une portion de
+l&#39;aubier mort &amp; de l&#39;écorce, entierement recouvert
+par le bois vif. Quand ce défaut n&#39;occupe pas toute
+la longueur du tronc, il y a telles pieces carriées qui
+paroissent très-saines, &amp; dont on n&#39;a reconnu la <i>gelivure</i> que par hasard ; savoir, quand on a refendu
+ces pieces équarries, pour en faire des planches &amp;
+des membrures. <i>Voyez le mémoire de MM</i>. Duhamel
+<i>&amp;</i> de Buffon sur cette matiere, <i>ann. 1737, de l&#39;acad.
+des Sciences</i>.
+</p>
+<p>
+On peut tirer une utilité de ces faits ; c&#39;est qu&#39;il
+faut rebuter pour les ouvrages de conséquence, tous
+<pb n="7:544" facs="V7/ENC_7-544.jpeg" />
+<milestone unit="column" n="1" />
+les bois attaqués de <i>gelivures</i>. Il n&#39;y a ni terroir, ni
+exposition, ni art, qui puisse détourner le tort que
+les fortes gelées font aux arbres des forêts ; mais ce
+qui doit nous tranquilliser, c&#39;est que l&#39;évenement est
+très-rare. La gelée de 1709 a été accompagnée des
+circonstances d&#39;un faux dégel, &amp; de sur gelées plus
+fortes que la premiere, qui sont des hasards si singuliers,
+que l&#39;histoire ne parle guere que de trois à quatre 
+hyvers semblables. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

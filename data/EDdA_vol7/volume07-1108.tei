@@ -1,0 +1,267 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28562" id="50:233:11" vol="7">
+<index type="head" value="Funérailles des Chrétiens" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod. ecclésiast." />
+<index type="normclass" value="Histoire moderne ecclésiastique" />
+<index type="englishclass" value="Modern ecclesiastical history" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="NA" />
+<head>Funérailles</head>
+<p>
+<sc>Funérailles</sc> <i>des Chrétiens</i>, (<i>Hist. mod. ecclésiast.
+</i>)
+<blockquote> 
+« Les Chrétiens de la primitive Eglise, dit
+M. l&#39;abbé Fleury, pour mieux témoigner la foi de
+la résurrection, avoient grand soin des sépultures,
+&amp; y faisoient grande dépense, à proportion de leur
+maniere de vivre : ils ne brûloient point les corps,
+comme les Grecs &amp; les Romains ; ils n&#39;approuvoient 
+pas non plus la curiosité superstitieuse des
+Egyptiens, qui les gardoient embaumés &amp; exposés
+à la vûe sur des lits dans leurs maisons ; mais ils
+les enterroient selon la coûtume des Juifs. Après
+les avoir lavés, ils les embaumoient, &amp; y employoient 
+plus de parfums, dit Tertullien, que les
+Payens à leurs sacrifices ; ils les enveloppoient de
+linges très-fins ou d&#39;étoffes de soie ; quelquefois ils
+les revêtoient d&#39;habits précieux ; ils les exposoient
+pendant trois jours, ayant grand soin de les garder
+cependant &amp; de veiller auprès en prieres : ensuite
+ils les portoient au tombeau, accompagnant le
+corps avec quantité de cierges &amp; de flambeaux,
+chantant des pseaumes &amp; des hymnes pour loüer
+Dieu, &amp; marquer l&#39;espérance de la résurrection.
+On prioit aussi pour eux ; on offroit le sacrifice ; &amp;
+l&#39;on donnoit aux pauvres le festin nommé <i>agapes</i>,
+&amp; d&#39;autres aumônes. On en renouvelloit la mémoire 
+au bout de l&#39;an ; &amp; on continuoit d&#39;année en
+année, outre la commémoraison qu&#39;on en faisoit
+tous les jours au saint sacrifice.
+</blockquote></p>
+<p>
+L&#39;Eglise avoit ses officiers destinés pour les enterremens,
+que l&#39;on appelloit en latin <i>fossores, laborantes,
+copiatae</i>, c&#39;est-à-dire <i>fossoyeurs</i> ou <i>travailleurs</i>, &amp; qui se trouvent quelquefois comptés entre
+le clergé. On enterroit souvent avec les corps différentes 
+choses pour honorer les défunts, ou pour en
+conserver la mémoire ; comme les marques de leur
+dignité, les instrumens de leur martyre, des phioles
+ou des éponges pleines de leur sang, les actes de leur
+martyre, leur épitaphe, ou du-moins leur nom, des
+médailles, des feuilles de laurier ou de quelqu&#39;autre
+arbre toûjours verd, des croix, l&#39;évangile. On observoit 
+de poser le corps sur le dos, le visage tourné
+vers l&#39;orient. Les Payens, pour garder les cendres
+des morts, bâtissoient des sépulcres magnifiques le
+long des grands chemins, &amp; par-tout ailleurs dans
+<milestone unit="column" n="2" />
+la campagne. Les chrétiens au contraire cachoient
+les corps, les enterrant simplement ou les rangeant
+dans des caves, comme étoient auprès de Rome
+les tombes ou catacombes. <i>Voyez</i> <sc><ref target="head:Catacombes" type="search">Catacombes</ref></sc>.
+</p>
+<p>
+Les anciens cimetieres ou lieux où l&#39;on déposoit
+leurs corps, sont quelquefois appellés <i>conciles des
+martyrs</i>, parce que leurs corps y étoient assemblés ;
+ou <i>arenes</i>, à cause du terrein sablonneux. En Afrique, on nommoit aussi les cimetieres des <i>aires</i>.
+</p>
+<p>
+On a toûjours eu grande dévotion à se faire enterrer 
+auprès des martyrs ; &amp; c&#39;est ce qui a enfin attiré 
+tant de sépultures dans les églises, quoique l&#39;on
+ait gardé long-tems la coûtume de n&#39;enterrer que
+hors des villes. La vénération des reliques &amp; la
+créance distincte de la résurrection, ont effacé parmi 
+les Chrétiens l&#39;horreur que les anciens, même
+les lsraélites, avoient des corps morts &amp; des sepultures ».
+<i>Moeurs des chrétiens, art. 31</i>.
+</p>
+<p>
+Cette coûtume d&#39;enterrer les morts, &amp; de les porter 
+au lieu de leur sépulture en chantant des pseaumes,
+a toûjours été observée parmi les Chrétiens ;
+les cérémonies seulement ont varié suivant les tems
+&amp; les usages. M. Lancelot, dans un mémoire sur
+une ancienne tapisserie, qui représente les faits &amp;
+gestes de Guillaume le Conquérant, observe que
+dans un morceau de cette tapisserie sont figurees
+les cérémonies des <i>funérailles</i> d&#39;Edoüard le confesseur,
+qui ont beaucoup d&#39;affinité avec celles qui se
+pratiquent encore aujourd&#39;hui en pareil cas:
+<blockquote> 
+« On y
+voit Edoüard mort &amp; étendu sur une espece de drap
+mortuaire parsemé de larmes, dans lequel deux
+hommes, l&#39;un placé à la tête l&#39;autre aux piés, arrangent 
+le corps. A côté est un autre homme debout,
+tenant deux doigts de la main droite élevés ;
+cette attitude &amp; son habillement, qui paroît ressembler 
+à une chasuble, désignent un prêtre qui lui donne 
+les dernieres bénédictions. . . . . On y voit
+aussi une église. . . . . &amp; un homme par lequel
+on a voulu désigner les sonneurs de cloches. . . . .
+La bierre est portée par huit hommes ; elle est d&#39;une
+figure presque quarrée, traversée de plusieurs bandes,
+&amp; chargée de petites croix &amp; autres ornemens : de ces huit hommes quatre sont en-devant,
+&amp; les quatre autres derriere ; ils la portent sur leurs
+épaules par le moyen de longs bâtons excédans la
+bierre, 2 à chaque bâton : c&#39;étoit alors la maniere
+de porter les morts.....cet usage s&#39;est même conservé 
+jusqu&#39;à nos jours ; &amp; les hanovars ou porteurs
+de sel, qui avoient le privilége de porter les corps
+ou les effigies de nos rois, porterent encore le corps
+ou l&#39;effigie d&#39;Henri IV. de la même maniere sur leurs
+épaules en 1610. Dans cette même tapisserie, aux
+deux côtés de la bierre, paroissent deux autres hommes,
+qui ont une sonnette en chaque main. L&#39;usage
+d&#39;avoir des porteurs de sonnettes dans les pompes
+funebres, &amp; qui subsiste encore en la personne des
+jurés-crieurs, lorsqu&#39;ils vont faire leurs semonces,
+est très-ancien. Suidas, &amp; un ancien scholiaste de
+Théocrite, en parlent ; on les appelloit alors <i>codonophori ;</i> ils ont été depuis connus sous le nom de
+<i>pulsatores</i> &amp; <i>exequiates</i>, &amp; leurs sonnettes, <i>campanae manuales pro mortuis</i>, ou <i>campana bajulae</i>.......
+à la suite du cercueil, on voit un grouppe de personnes 
+qui semblent toutes fondre en pleurs &amp; en gémissemens ».
+</blockquote>
+<i>Mémoires de l&#39;académie, tome VIII</i>.
+</p>
+<p>
+La description des <i>funérailles</i> de ce roi, conformes 
+à la simplicité de ces tems-là, montrent que les
+usages &amp; les cérémonies en étoient toutes semblables 
+à celles qui se pratiquent aujourd&#39;hui dans
+les <i>funérailles</i> des particuliers : car on sait que parmi
+les catholiques, dès qu&#39;un homme est mort, les jurés-crieurs,
+pour les personnes qui ont le moyen de les
+employer, préparent les tentures, drap mortuaire,
+croix, chandeliers, luminaire, &amp; autres choses nécessaires<gap type="hyphenpb" />
+<pb n="7:375" facs="V7/ENC_7-375.jpeg" />
+<milestone unit="column" n="1" />
+à la cérémonie ; convient les parens &amp; les
+amis, ou par billets ou de vive voix ; qu&#39;on expose
+ensuite le défunt, ou dans une chambre ardente, ou
+à sa porte dans un cercueil ; que le clergé vient enlever 
+le corps, &amp; le conduit à l&#39;église, suivi de ses parens,
+amis, <i>&amp;c.</i> &amp; qu&#39;après plusieurs aspersions, &amp;
+le chant des prieres &amp; pseaumes convenables à cet
+acte de religion, on l&#39;inhume ou dans l&#39;église même
+ou dans le cimetiere.
+</p>
+<p>
+Les <i>funérailles</i> des grands, des princes, &amp; des rois,
+sont accompagnés de plus de pompe : après qu&#39;on les
+a embaumés &amp; déposés dans un cercueil de plomb,
+on les expose pendant plusieurs jours sur un lit de parade,
+dans une salle tendue de noir &amp; illuminée, où
+des prêtres &amp; des religieux récitent des prieres jour
+&amp; nuit ; les cours souveraines, les communautés religieuses,
+&amp; autres corps, viennent leur jetter de
+l&#39;eau benite ; &amp; au jour marqué, on les transporte au
+lieu de leur sépulture, dans un char drapé de noir,
+avec leurs armoiries, &amp; attelé de chevaux caparaçonnés 
+de noir, grand nombre de pauvres &amp; de domestiques 
+portans des flambeaux : ces cérémonies
+sont accompagnées de discours pour remettre le
+corps &amp; le recevoir, suivies à quelque tems de-là de
+services solennels &amp; d&#39;oraisons funebres. On y porte 
+ordinairement les marques de la dignité du défunt ;
+comme la couronne ducale, <i>&amp;c.</i> ce sont des officiers
+ou gentilshommes qui sont chargés de ces fonctions ;
+&amp; aux <i>funérailles</i> des rois, elles sont remplies par les
+grands officiers de la couronne.
+</p>
+<p>
+Parmi les Protestans, on a retranché la plûpart des
+cérémonies de l&#39;Eglise romaine ; les aspersions ; croix,
+luminaire, <i>&amp;c.</i> Pour l&#39;inhumation d&#39;un particulier,
+le ministre le conduit au lieu de sa sépulture ; &amp; lorsqu&#39;on l&#39;a mis en terre, il adresse ces paroles au cadavre : <i>dors en paix, jusqu&#39;à ce que le seigneur te réveille</i>. Celles des rois &amp; des princes se font avec le
+cérémonial attaché à leurs dignités, &amp; d&#39;usage différent 
+selon les divers pays. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

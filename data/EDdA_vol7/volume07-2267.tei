@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29721" id="53:177" vol="7">
+<index type="head" value="GLOSSOPETRES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéral." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history | Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GLOSSOPETRES</head>
+<p>
+GLOSSOPETRES, <i>glossopetrae</i>, s. f. (<i>Hist. nat.
+Minéral.</i>) dents de pistons pétrifiées, &amp; très-improprement nommées <i>langues de serpens</i>, parce qu&#39;on
+a cru qu&#39;elles étoient en effet des langues de grands
+serpens qui avoient été pétrifiées ; on ne doute pas
+à présent qu&#39;elles ne soient de vraies dents de poissons : l&#39;émail n&#39;a point changé de nature, mais la
+partie osseuse est pétrifiée. M. Vallerius distingue
+trois sortes de <i>glossopetres ;</i> les unes sont triangulaires,
+&amp; les autres fourchues par la base. Ces deux
+sortes de <i>glossopetres</i> sont pointues, de couleur grise,
+à l&#39;exception de la base qui est brune ; ce sont
+des dents de chien de mer : les <i>glossopetres</i> de la troisieme 
+sorte sont des dents de brochet. <i>Minéralogie
+tom. II. pag. 60</i>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

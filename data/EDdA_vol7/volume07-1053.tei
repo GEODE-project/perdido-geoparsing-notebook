@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28507" id="50:206" vol="7">
+<index type="head" value="FULDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>FULDE</head>
+<p>
+FULDE, <i>Fulda</i>, (<i>Géog.</i>) ville &amp; abbaye célebre
+d&#39;Allemagne érigée en évêché depuis peu d&#39;années,
+au cercle du haut Rhin, sur une riviere de même
+nom. L&#39;évèque abbé de <i>Fulde</i> est le dernier des princes 
+évéques d&#39;Allemagne, mais le premier des princes 
+abbés de l&#39;Empire ; il porte le titre <i>d&#39;archi-chancelier de l&#39;impératrice:</i> comme abbé, il relevoit immédiatement 
+du S. Siége. L&#39;abbaye de <i>Fulde</i> est très-riche ;<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+elle fut fondée par S. Boniface, apôtre de l&#39;Allemagne &amp; archevêque de Mayence ; elle est de l&#39;ordre 
+de S. Benoît. Il faut faire preuve de noblesse pour
+être admis dans cette maison d&#39;humilité; &amp; les moines,
+devenus chanoines aujourd&#39;hui, élisent un d&#39;entre 
+eux pour remplir la place d&#39;évêque-abbé, lorsqu&#39;elle est vacante. <i>Long. 27. 28. latit. 50. 40</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

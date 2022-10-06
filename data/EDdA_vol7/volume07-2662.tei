@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30116" id="54:52:2" vol="7">
+<index type="head" value="Grand" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="en Anatomie" />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="adject" />
+<head>Grand</head>
+<p>
+<sc>Grand</sc>, adject. <i>en Anatomie</i>, se dit de quelques
+muscles, ainsi appellés par comparaison avec d&#39;autres 
+qui sont petits.
+<table>
+ Le <i>grand</i> zigomatique.    <i>Voyez</i>    <sc><ref target="head:Zigomatique" type="search">Zigomatique</ref></sc>.
+ Le <i>grand</i> oblique.        <i>Voyez</i>    <sc><ref target="head:Oblique" type="search">Oblique</ref></sc>.
+ Le <i>grand</i> droit.          <i>Voyez</i>    <sc><ref target="head:Droit" type="search">Droit</ref></sc>.
+ Le <i>grand</i> complexus.      <i>Voyez</i>    <sc><ref target="head:Complexus" type="search">Complexus</ref></sc>.
+ Le <i>grand</i> dorsal.         <i>Voyez</i>    <sc><ref target="head:Dorsal" type="search">Dorsal</ref></sc>.
+ Le <i>grand</i> fessier.        <i>Voyez</i>    <sc><ref target="head:Fessier" type="search">Fessier</ref></sc>.
+ Le <i>grand</i> pectoral.       <i>Voyez</i>    <sc><ref target="head:Pectoral" type="search">Pectoral</ref></sc>.
+ Le <i>grand</i> dentelé.        <i>Voyez</i>    <sc><ref target="head:Dentelé" type="search">Dentelé</ref></sc>.
+ <i>Grand</i> rond.              <i>Voyez</i>    <sc><ref target="head:Rond" type="search">Rond</ref></sc>.
+</table>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

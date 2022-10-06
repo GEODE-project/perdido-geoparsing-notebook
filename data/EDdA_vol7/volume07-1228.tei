@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28682" id="51:48" vol="7">
+<index type="head" value="GABELAGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Saline." />
+<index type="normclass" value="Saline" />
+<index type="englishclass" value="Salt-making" />
+<index type="generatedclass" value="Gabelle" />
+<index type="pos" value="s.m." />
+<head>GABELAGE</head>
+<p>
+GABELAGE, s. m. (<i>Saline.</i>) tems que demeure
+le sel dans un grenier. Les ordonnances défendent
+d&#39;entamer les masses des greniers, qu&#39;elles n&#39;avent
+tout leur <i>gabelage</i>, c&#39;est-à-dire que le sel n&#39;y ait été
+apporté depuis deux ou trois ans au-moins.
+</p>
+<p>
+Ce sont aussi les marques que les commis des greniers 
+mettent parmi le sel, pour découvrir dans leurs
+visites si le sel qu&#39;ils trouvent chez les particuliers
+est du sel de gabelle ou du sel de faux saunage : ils se
+servent ordinairement de paille ou autres herbes hachées 
+qu&#39;ils changent souvent. <i>Dictionn, du Comme.
+&amp; de Trév</i>.
+</p>
+<p>
+De <i>gabelle</i>, on a fait le mot précédent &amp; ceux de
+<i>gabelé</i>, de <i>gabeleur, &amp;c.</i> (<i>G</i>)
+<pb n="7:413" facs="V7/ENC_7-413.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

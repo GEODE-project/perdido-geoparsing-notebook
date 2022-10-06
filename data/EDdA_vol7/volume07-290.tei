@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27744" id="49:34" vol="7">
+<index type="head" value="FORJUGER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="v.n." />
+<head>FORJUGER</head>
+<p>
+FORJUGER, v. n. (<i>Jurispr.</i>) signifie quelquefois
+<i>déguerpir un héritage</i>, quelquefois <i>adjuger</i>. Dans les
+preuves de l&#39;histoire de Guines, <i>page 191.</i> des terres 
+<i>forjugées</i> sont des terres confisquées. Une ancienne 
+chronique dit, que fut <i>forjugée</i> au roi d&#39;Angleterre<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+toute la Gascogne, &amp; toute la terre qu&#39;il
+avoit au royaume de France. Dans le <i>ch. clxxxxv.</i>
+des assises de Jérusalem, les <i>forjugés</i> sont des condamnés.
+</p>
+<p>
+<i>Forjuger l&#39;absent</i>, dans le style du pays de Normandie, est quand le juge forclôt le défendeur défaillant 
+&amp; contumax, &amp; le condamne en l&#39;amende:
+&amp; dans l&#39;ancienne coûtume de Boulenois, <i>art. 120</i>
+&amp; <i>121. forjuger</i>, c&#39;est lorsque le seigneur féodal retire 
+l&#39;héritage mouvant de lui, faute par son vassal
+d&#39;acquitter les droits &amp; devoirs. Cette même coûtume 
+&amp; le style de Normandie que l&#39;on vient de citer,
+usent aussi indifféremment du terme <i>forjurer.
+Voyez</i> l&#39;auteur de la vieille chronique de Flandres,
+<i>ch. xxxviij.</i> &amp; <i>lxviij.</i> les constitutions de Sicile,
+<i>vulgo Neapolitanae, lib. I. tit. liij.</i> &amp; <i>lib. II. tit. iij. &amp;
+seq</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

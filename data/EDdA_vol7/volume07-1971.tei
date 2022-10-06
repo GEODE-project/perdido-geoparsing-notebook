@@ -1,0 +1,2200 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29425" id="52:176:1" vol="7">
+<index type="head" value="Géographie physique" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Desmarest" />
+<index type="shortauth" value="Desmarest" />
+<index type="kafnum" value="38" />
+<index type="kafauth" value="Desmarest, or Desmarets, Nicolas (1725-1815)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Géographie physique</head>
+<p>
+<sc>Géographie physique</sc>, est la description raisonnée 
+des grands phénomenes de la terre, &amp; la
+considération des résultats généraux déduits des observations 
+locales &amp; particulieres, combinées &amp;
+réunies méthodiquement sous différentes classes, &amp;
+dans un plan capable de faire voir l&#39;économie naturelle 
+du globe, en tant qu&#39;on l&#39;envisage seulement
+comme une masse qui n&#39;est ni habitée ni féconde.
+</p>
+<p>
+A mesure que la <i>Géographie</i> &amp; la Physique se sont
+perfectionnées, on a rapproché les principes lumineux 
+de celle-ci, des détails secs &amp; décharnés de
+celle-là. En conséquence de cette heureuse association,
+notre propre séjour, notre habitation qui ne
+nous avoit présenté d&#39;autre image que celle d&#39;un
+amas de débris &amp; d&#39;un monde en ruine, qu&#39;irrégularités 
+à sa surface, que desordres apparens dans son
+intérieur, s&#39;offrit à nos yeux éclairés avec des dehors 
+où l&#39;ordre &amp; l&#39;uniformité se firent remarquer,
+où les rapports généraux se découvrirent sous nos
+pas. On ne s&#39;occupa plas seulement de cette nomenclature 
+ennuyeuse de mots bizarres, qui attestent les
+limites que l&#39;ambition des conquérans a mises dans
+les établissemens que les différentes sociétés ont
+formés sur la surface de la terre ; on ne distingua
+les pays, les contrées que par les phénomenes qu&#39;ils
+offrirent à nos observations. Phénomenes singuliers
+ou uniformes, tout ce qui porta les empreintes du
+travail de la nature, fut recueilli avec soin, fut discuté 
+avec exactitude. On examina la forme, la disposition,
+les rapports des différens objets : on essaya
+même d&#39;apprécier l&#39;étendue des effets, de fixer leurs
+<pb n="7:614" facs="V7/ENC_7-614.jpeg" />
+<milestone unit="column" n="1" />
+limites, en suppléant à l&#39;observation par l&#39;expérience.
+Enfin on fut curieux de parvenir jusqu&#39;aux principes
+généraux, constans &amp; réguliers. A mesure que les
+idées se développerent, le géographe dessinateur
+prit pour base de ses descriptions topographiques,
+l&#39;histoire de la surface du globe, &amp; distribua par pays
+&amp; par contrées, ce que le naturaliste décrivit &amp;
+rangea par classes &amp; par ordre de collection.
+</p>
+<p>
+Tel est le précis des progrès de la <i>Géographie physique ;</i> elle les doit à la réunion combinée des secours
+que plusieurs connoissances ont concouru à lui fournir.
+On ne peut effectivement trop rassembler de ressources,
+lorsqu&#39;on embrasse dans ses discussions des
+objets aussi vastes &amp; aussi étendus ; lorsqu&#39;on se propose 
+d&#39;examiner la constitution extérieure &amp; intérieure 
+de la terre, de saisir les résultats généraux
+des observations que l&#39;on a faites &amp; recueillies sur
+les éminences, les profondeurs, les inégalités du
+bassin de la mer ; sur les mouvemens &amp; les balancemens 
+de cette masse d&#39;eau immense qui couvre la
+plus grande partie du globe ; sur les substances terrestres 
+qui composent les premieres couches des continens 
+qu&#39;on a pû sonder ; sur leur disposition par lits ;
+sur la direction des montagnes, <i>&amp;c.</i> enfin sur l&#39;organisation 
+du globe : lorsqu&#39;on aspire à l&#39;intelligence
+des principales opérations de la nature, qu&#39;on discute 
+leur influence sur les phénomenes particuliers
+&amp; subalternes, &amp; que par un enchaînement de faits
+&amp; de raisonnemens suivis, on se forme un plan d&#39;explication,
+où l&#39;on se borne sagement à établir des
+analogies &amp; des principes.
+</p>
+<p>
+D&#39;après ces considérations qui nous donnent une
+idée de l&#39;objet de la <i>Géographie physique</i>, nous croyons
+devoir dans cet article nous attacher à deux points
+importans : 1°. à développer les principes de cette
+science, capables de guider les observateurs qui s&#39;occupent 
+à en étendre de plus en plus les limites, &amp; ceux
+qui voudront apprécier leurs découvertes : 2°. à présenter 
+succinctement les résultats généraux &amp; avérés 
+qui forment le corps de cette science, afin d&#39;en
+constater l&#39;état actuel.
+</p>
+<p>
+I. On peut réduire à trois classes générales les
+principes de la <i>Géographie physique ;</i> la premiere comprend 
+ceux qui concernent l&#39;observation des faits ; la
+seconde ceux qui ont pour objet leur combinaison ;
+la troisieme enfin ceux qui ont rapport à la généralisation 
+des résultats &amp; à l&#39;établissement de ces principes 
+feconds, qui deviennent entre les mains d&#39;un observateur 
+des instrumens qu&#39;il applique avec avantage 
+à la découverte de nouveaux faits.
+</p>
+<p>
+<i>Principes qui concernent l&#39;observation des faits</i>. Il
+n&#39;est pas aussi important de montrer la nécessité de
+l&#39;observation pour augmenter nos véritables connoissances 
+en <i>Géographie physique</i>, que d&#39;en développer
+l&#39;usage &amp; la bonne méthode. On est assez convaincu
+maintenant des inconvéniens qu&#39;entraîne après elle
+cette présomption oisive qui nous porte à vouloir
+deviner la nature sans la consulter ; bien loin que la
+sagacité &amp; la méditation puissent suppléer aux réponses 
+solides &amp; lumineuses que nous rend la nature
+lorsque nous l&#39;interrogeons, elles les supposent au
+contraire comme un objet préalable vers lequel se
+porte leur principal effort : ne nous dissimulons jamais 
+ces principes. Héraclite se plaignoit de ce que
+les philosophes de son tems cherchoient leurs connoissances 
+dans de petits mondes que bâtissoit leur
+imagination, &amp; non dans le grand. Si nous nous exposions 
+à mériter le même reproche : si nous perdions
+de vûe ces conseils si sages, nous méconnoîtrions
+autant nos propres intérêts que ceux de la vérité.
+Qu&#39;est-il resté de ces belles rêveries des anciens? Il n&#39;y
+a que le vrai &amp; le solide qui brave la destruction des
+tems &amp; les ténebres de l&#39;oubli. Des abstractions générales 
+sur la nature peuvent-elles entrer en comparaison<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+d&#39;utilité avec un seul phénomene bien vû &amp;
+bien discuté? Nous voulons donc des faits &amp; des observateurs 
+en état de les saisir &amp; de les recueillir avec
+succès.
+</p>
+<p>
+On comprend aisément que la premiere qualité
+d&#39;un observateur est d&#39;avoir acquis par l&#39;étude &amp;
+dans un développement suffisant, les notions préliminaires 
+capables de l&#39;éclairer sur le prix de ce qu&#39;il
+rencontre ; de sorte qu&#39;il ne lui échappe aucune circonstance 
+essentielle dans l&#39;examen des faits, &amp; qu&#39;il
+réunisse en quelque façon toutes les vûes possibles
+dans leur discussion ; qu&#39;il ne les apperçoive pas rapidement,
+imparfaitement, sans choix, sans discernement,
+&amp; avec cette stupide ignorance qui admet
+tout &amp; ne distingue rien. On puise dans l&#39;observation 
+habituelle de la nature l&#39;heureux secret d&#39;admirer 
+sans être ébloui ; mais la lecture réfléchie &amp; attentive 
+forme de solides préventions qui dissipent
+aisément le prestige du premier coup-d&#39;oeil.
+</p>
+<p>
+Il faut avoüer que plusieurs obstacles nous privent 
+de ces avantages. Les personnes en état de mettre 
+à profit leurs connoissances voyagent peu, ou
+pour des objets étrangers aux progrès de la <i>Géographie physique:</i> ceux qui se trouvent sur les lieux, à
+portée, par exemple, d&#39;une fontaine singuliere périodique 
+ou minérale, d&#39;un amas de coquillages &amp; de
+pétrifications, négligent ces objets ou par ignorance 
+ou par distraction, ou enfin parce qu&#39;ils ont perdu 
+à leurs yeux ce piquant de singularité &amp; d&#39;importance.
+Les étrangers &amp; les voyageurs, même habiles,
+les rencontrent par hasard, ou les visitent à dessein ; 
+mais ils ne peuvent d&#39;une vûe rapide acquérir
+une connoissance détaillée &amp; approfondie. Des observations 
+superficielles faites à la hâte, ne présentent 
+les objets que d&#39;une maniere bien imparfaite ;
+on ne les a pas vûs avec ce sang froid, cette tranquillité 
+de discussion, avec ces détails de correspondance 
+si nécessaires aux combinaisons lumineuses. On
+supplée par des oui-dire, par des rapports exagérés,
+à ce que la nature nous montreroit avec précision,
+si nous la consultions à loisir. Il résulte de cette précipitation,
+que les observateurs les plus éclairés,
+frappés naturellement des premiers coups du merveilleux,
+sont souvent dupes de leur surprise ; ils
+n&#39;ont pû se placer d&#39;abord au point de vûe favorable ;
+ils défigurent la vérité parce qu&#39;ils l&#39;ont mal vûe ; &amp;
+rendant trop fidelement de fausses impressions, ils
+mêlent à leurs récits des circonstances qui les ont
+plus séduits qu&#39;éclairés. Si l&#39;on est sujet à l&#39;erreur,
+même quand on est maître de la nature, &amp; qu&#39;on la
+force à se déceler par des expériences, à combien
+plus de méprises &amp; d&#39;inattentions ne sera-t-on pas exposé,
+lorsqu&#39;on sera obligé de parcourir la vaste étendue des continens &amp; des mers, pour la chercher elle-même 
+où elle se trouve, &amp; où elle ne nous laisse appercevoir 
+qu&#39;une très-petite partie d&#39;elle-même, &amp;
+souvent sous des aspects capables de faire illusion?
+</p>
+<p>
+Un observateur qui s&#39;est consacré à cette étude
+par goût ou parce qu&#39;il est &amp; s&#39;est mis à portée de
+voir, doit commencer par voir beaucoup, envisager 
+sous différentes faces, se familiariser avec les objets 
+pour les reconnoître aisément par la suite &amp; les
+comparer avec avantage ; tenir un compte exact de
+tout ce qui le frappe &amp; de tout ce qui mérite de le
+frapper ; recueillir ses observations avec ordre sans
+trop se hâter de tirer des conséquences prématurées
+des faits qu&#39;il découvre, ou de raisonner sur les phénomenes 
+qu&#39;il apperçoit. Cette précipitation qui séduit 
+notre amour propre est la source de toutes les
+fausses combinaisons, de toutes les inductions imparfaites,
+de toutes les idées vagues dont l&#39;on surcharge
+des objets que l&#39;on n&#39;a encore envisagés qu&#39;imparfaitement ; 
+en sorte que les parties les moins éclaircies
+<pb n="7:615" facs="V7/ENC_7-615.jpeg" />
+<milestone unit="column" n="1" />
+sont par cette raison celles qui ont plus prêté à cette
+demangeaison de discourir.
+</p>
+<p>
+Outre cette expérience des mauvais succès qu&#39;ont
+eu les réflexions précipitées, nous avons d&#39;autres
+motifs de nous en abstenir. Comme l&#39;inspection attentive 
+&amp; réfléchie de notre globe nous promet une
+multitude infinie de lumieres &amp; de connoissances absolument 
+neuves, un observateur qui commence à
+donner un ensemble systématique à la petite portion
+de faits qu&#39;il a recueillis, semble regarder comme
+inutiles toutes les découvertes qu&#39;on a lieu de se promettre 
+de ceux qui partageront son travail, ou se flater 
+d&#39;avoir assez de pénétration pour se passer des
+éclaircissemens qu&#39;ils pourroient lui offrir.
+</p>
+<p>
+Nous croyons aussi que l&#39;observateur doit être en
+garde contre toute prévention, toutes vûes fixes &amp;
+dépendantes d&#39;un système déjà concerté: car dans
+ce cas, on interprete les faits suivant ce plan ; on
+glisse sur les circonstances qui sont peu compatibles
+avec les principes favoris, &amp; l&#39;on étend au contraire
+celles qui paroissent y convenir.
+</p>
+<p>
+Nous ne prétendons pas cependant qu&#39;on observe
+sans dessein &amp; sans vûes : il n&#39;est pas possible que le
+spectacle de la nature ne fasse naître une infinité de
+réflexions très-solides à un observateur qui a de la
+sagacité, &amp; qui s&#39;est instruit avec exactitude des découvertes 
+de ceux qui l&#39;ont précédé, même de leurs
+idées les plus bizarres : nous convenons que l&#39;on peut
+avoir un objet déterminé dans ses recherches, mais
+avec une sincere disposition de l&#39;abandonner dès que
+la nature se déclarera contre le parti que l&#39;on avoit
+embrassé provisionnellement. Ainsi on ne se bornera
+pas à un phénomene isolé, mais on en recherchera
+toutes les circonstances ; on les détaillera avec ce
+zele de discussion qu&#39;inspire le desir de trouver la
+correspondance que ce phénomene peut avoir avec
+d&#39;autres. Quoique nous condamnions cette indiscrete 
+précipitation de bâtir en observant, nous ne voulons 
+pas qu&#39;on oublie que les matériaux qu&#39;on rassemble 
+doivent naturellement entrer dans un édifice.
+</p>
+<p>
+Telles sont les vûes par lesquelles on peut se guider 
+dans l&#39;examen réfléchi des faits? mais que doit-on 
+voir dans les dehors de notre globe? à quoi doit-on 
+s&#39;attacher d&#39;abord? Je répons qu&#39;il faut s&#39;attacher
+aux configurations extérieures, aux formes apparentes : ainsi l&#39;on saisira d&#39;abord la forme des continens,
+des mers, des montagnes, des couches, des fossiles ;
+&amp; à-mesure qu&#39;on parcourra un plus grand nombre
+de ces objets, ces formes venant à s&#39;offrir plus ou
+moins frequemment à nos regards, elles produiront
+dans notre esprit des impressions durables, des caracteres 
+reconnoissables qui ne nous échapperont plus,
+&amp; qui nous donneront les premieres idées de la régularité 
+de toutes ces choses. Nous tiendrons un
+compte exact des circonstances &amp; des lieux où elles
+s&#39;annonceront ; &amp; enfin nous serons, par une suite
+de la même attention, en état de remarquer les variétés 
+&amp; toutes leurs dépendances.
+</p>
+<p>
+L&#39;examen de ces variétés réitéré &amp; porté sur une
+multitude d&#39;objets qu&#39;on trouve sous ses pas lorsqu&#39;on
+fait voir, nous fera distinguer aisément le caractere
+propre d&#39;une configuration d&#39;avec les circonstances
+accessoires. On discute avec bien plus d&#39;avantage
+l&#39;étendue des effets &amp; même la combinaison des causes,
+lorsque l&#39;on peut décider ce qu&#39;elles admettent
+constamment, ce qu&#39;elles négligent quelquefois, &amp; ce
+qu&#39;elles excluent toûjours.
+</p>
+<p>
+Les irrégularités sont des sources de lumiere, parce 
+qu&#39;elles nous dévoilent des effets qu&#39;une uniformité 
+trop constante nous cachoit ou nous rendoit imperceptibles.
+La nature se décele souvent par un écart
+qui montre son secret au grand jour : mais on ne tire
+avantage de ces irrégularités, qu&#39;autant qu&#39;on est au
+<milestone unit="column" n="2" />
+sait de ce qui, dans telle ou telle circonstance est la
+marche uniforme de la nature, &amp; qu&#39;on peut démêler 
+si ces écarts affectent ou l&#39;essentiel ou l&#39;accessoire.
+</p>
+<p>
+Pour avoir des idées nettes sur les objets qu&#39;on observe,
+on s&#39;attache aussi à renfermer dans des limites
+plus ou moins précises, les mêmes effets soit réguliers
+soit irréguliers. On apprétie par des mesures exactes
+jusqu&#39;où s&#39;étend tel contour, telle avance angulaire
+dans une montagne, telle profondeur dans les vallons : soit que ceux-ci soient formés par des couches
+qui s&#39;y courbent &amp; s&#39;y continuent en bon ordre, soit
+qu&#39;ils ne soient que la suite d&#39;un éboulement subit ; 
+on prend les dimensions des fentes perpendiculaires,
+l&#39;épaisseur des couches, <i>&amp;c.</i>
+</p>
+<p>
+Dans l&#39;appréciation des limites assignées aux effets,
+il est très-utile de passer de la considération d&#39;une 
+extrémité à la considération de l&#39;autre extrémité
+opposée ; comme de la hauteur des montagnes aux
+plus profonds abysmes, ou des continens ou des
+mers ; de la plus belle conservation d&#39;un fossile au
+dernier degré de sa calcination.
+</p>
+<p>
+Un observateur intelligent ne se bornera pas tellement 
+dans ses savantes discussions, aux formes extérieures 
+&amp; à la structure d&#39;un objet, qu&#39;il ne prenne
+aussi une connoissance exacte des matieres elles-mêmes qui par leurs divers assemblages ont concouru à
+le produire ; il liera même exactement une idée avec
+l&#39;autre. Telle matiere, dira-t-il, affecte telle forme ; il
+conclura l&#39;une de l&#39;autre, &amp; réciproquement. Il se formera 
+des distinctions générales des substances terrestres ; 
+il les partagera en matieres vitrescibles &amp; calcaires ; 
+il les reconnoîtra à l&#39;eau-forte ou par des réductions 
+chimiques. Il aura lieu de remarquer que
+les grès sont par blocs &amp; par masses dans leurs carrieres ; 
+que les pierres calcaires sont par lits &amp; par
+couches ; que les schites affectent la forme trapézoïdale ; 
+que certaines crystallisations sont assujetties à
+la figure pyramidale ou parallelepipede ; que dans
+d&#39;autres les lames crystallisées s&#39;assemblent &amp; s&#39;adaptent 
+sur une base vers laquelle elles ont une direction,
+comme vers un centre commun, <i>&amp;c.</i> Toutes
+ces dépendances jettent dans des détails qui en multipliant 
+les attentions de l&#39;observateur, lui présentent 
+les objets sous un nouveau jour, &amp; donnent du
+poids à ses découvertes.
+</p>
+<p>
+Il portera la plus scrupuleuse attention sur les circonstances 
+uniformes &amp; régulieres qui accompagnent
+certains effets ; elles ne peuvent lui échapper, lorsqu&#39;il sera prévenu quelle influence leur examen peut
+avoir par rapport à l&#39;appréciation des phénomenes ;
+cette considération entre même plus directement que
+toute autre dans l&#39;objet de la <i>Géographie physique</i>.
+Ainsi, suivant ces vûes, il contemplera les ouvrages 
+de la nature, tantôt dans l&#39;ensemble de leur structure,
+tantôt dans le rapport des pieces. Un coup-d&#39;oeil général &amp; rapide n&#39;apprend rien que de vague ;
+un mince détail épuise souvent sans présenter rien de
+suivi ; il faut donc soûtenir une observation par l&#39;autre ; 
+&amp; c&#39;est en les faisant succéder alternativement,
+que les vûes s&#39;affermissent, même en s&#39;étendant.
+<blockquote> 
+« Cette étude suppose, dit M. de Buffon, les grandes
+vûes d&#39;un génie ardent qui embrasse tout d&#39;un
+coup-d&#39;oeil, &amp; les petites attentions d&#39;un instinct laborieux 
+qui ne s&#39;attache qu&#39;à un seul point ».
+</blockquote>
+<i>Hist.
+nat. I. vol</i>. La place qu&#39;occupe un tel corps ou un
+tel assemblage de corps dans l&#39;économie générale ;
+sera déterminée relativement à la nature de ces
+corps. On subordonnera, en un mot, les détails
+qui concernent les substances &amp; leurs formes à ceux
+qui tiennent à la disposition relative ; on remarquera
+exactement que certaines couches de pierres calcaires 
+ou autres, sont d&#39;une égale épaisseur dans toute
+leur longueur ; mais que celles de gravier amassées
+dans des vallons n&#39;annoncent pas la même régularité
+<pb n="7:616" facs="V7/ENC_7-616.jpeg" />
+<milestone unit="column" n="1" />
+que dans les premieres, les coquilles, &amp; les autres
+corps marins pétrifiés sont à plat ; que dans les secondes,
+elles sont disposées assez irregulierement ; que
+les fentes perpendiculaires sont plus larges dans les
+substances molles que dans les matieres les plus compactes,
+<i>&amp;c.</i> Quelle que soit la multiplicité des agens
+que fasse mouvoir la nature, &amp; la variété des formes
+qu&#39;elle donne à ses effets, cependant tout tend à un
+ensemble : un corps étranger qui se trouve placé au
+milieu de substances de nature différente ; un amas de
+talc au milieu des matieres calcaires ; des blocs de
+grès au milieu des marnes ; des sables au milieu des
+glaises ; toutes ces observations sont très-essentielles
+pour connoître la distribution générale.
+</p>
+<p>
+Comme un seul homme ne peut pas tout voir par soi-même,
+&amp; que c&#39;est la condition de nos connoissances
+de devoir leurs progrès aux découvertes &amp; aux recherches 
+combinées de plusieurs observateurs ; il est
+nécessaire de s&#39;en rapporter au témoignage des autres:
+mais parmi ces descriptions étrangeres, il y a beaucoup 
+de choix ; &amp; dans ce discernement il faut employer 
+une critique sérieuse &amp; une discussion severe.
+L&#39;expérience &amp; la raison nous autorisent à nous défier
+généralement de tous les faits de cette nature dont les
+anciens seuls sont les garans ; nous ne nous y attacherons,
+nous n&#39;y ferons attention que pour les vérifier 
+ou qu&#39;autant qu&#39;on l&#39;aura fait &amp; qu&#39;ils seront dégagés 
+de ce merveilleux que ces écrivains leur prêtent
+ordinairement ; ou enfin lorsque leurs détails rentrent
+dans des circonstances avérées &amp; indubitables d&#39;ailleurs.
+Mais nous croyons qu&#39;on doit proscrire nommément 
+tous ces fameux mensonges qui par une négligence 
+blâmable ou par une imbécille crédulité,
+ont été transmis de siecles en siecles, &amp; qui tiennent
+la place de la vérité. On peut juger par l&#39;emploi fréquent 
+que s&#39;en permettent les compilateurs, du tort
+qu&#39;ils font aux Sciences. Cependant pour les proscrire 
+sans retour, il faut être en état de leur substituer 
+le vrai, qui souvent n&#39;est qu&#39;altéré par les idées
+les plus bizarres. On est entierement détrompé d&#39;une
+illusion, lorsqu&#39;on connoît les prétextes qui l&#39;ont fait
+naître.
+</p>
+<p>
+Quant à ce qui concerne les auteurs qui ont écrit
+avant le renouvellement des Sciences, ils ne doivent
+être consultés qu&#39;avec réserve ; privés des connoissances 
+capables de les éclairer &amp; de les guider dans
+la discussion des faits, ils ne les ont observés qu&#39;imparfaitement 
+ou sous un point de vûe qui se rapporte 
+toûjours à leurs préjugés. Kircher décrit, dessine,
+présente les coupes des réservoirs soûterreins
+qui servent, selon lui, à la distribution des eaux de
+la mer par les sources ; il nous débite de la meilleure
+foi du monde des détails merveilleux sur les gouffres
+absorbans de la mer Caspienne, sur le feu central,
+sur les cavernes soûterreines, comme s&#39;il eût eu des
+observations suivies par rapport à tous ces objets,
+qui ne sont autorisés parmi nous que d&#39;après les
+écrits hasardés d&#39;écrivains aussi judicieux.
+</p>
+<p>
+En général, les observateurs ou ignorans, ou prévenus,
+ou peu attentifs, qui voyent les objets rapidement,
+sans dessein, &amp; sans discussion, ne méritent
+que très-peu de croyance : je veux trouver dans l&#39;auteur 
+même, dans les détails qu&#39;il me présente, cette
+bonne foi, cette simplicité, cette abondance de vûes
+qui m&#39;inspirent de la confiance pour son génie d&#39;observation,
+&amp; pour l&#39;exactitude de ses récits.
+</p>
+<p>
+Souvent l&#39;observation nous abandonne dans certains 
+sujets compliqués ; elle n&#39;est pas assez précise ;
+elle ne montre qu&#39;une partie des effets, ou les montre 
+trop en grand pour qu&#39;on puisse atteindre à quelque 
+assertion qui mette de l&#39;ordre dans nos idées.
+Alors l&#39;expérience est indispensable ; il faut se résoudre 
+à suivre les opérations de la nature avec
+une constance &amp; une opiniâtreté que rien ne décourage,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+sur-tout lorsqu&#39;on est assûré qu&#39;on est sur la
+voie. Sans cette ressource, on ne peut être fondé à
+raisonner sur les faits avec connoissance de cause.
+Tous les détails de l&#39;observation ne pourront se réunir 
+avec cette précision si desirable dans les Scien
+ces, &amp; ne porteront que sur des consequences vagues,
+sur des suppositions gratuites, qui présentent
+plûtôt nos décisions que celles de la nature. Telle est,
+par exemple, comme nous l&#39;avons remarqué à l&#39;<i>article</i> <sc><ref target="head:Fontaine" type="search">Fontaine</ref></sc>, l&#39;observation de la quantite de pluie
+qui tombe sur les différentes parties de la terre, &amp;
+sa comparaison avec la masse des eaux qui circulent
+dans la même étendue : de-là dépend le dénouement
+de tout ce qui concerne l&#39;origine des fontaines, la
+distribution des vapeurs sur la surface des continens
+&amp; les eaux courantes. On aura rassemble tous les
+faits, recueilli toutes les observations les plus curieuses,
+on ne pourra, sans les résultats précis des experiences,
+rien prononcer de décisif sur ces objets importans.
+</p>
+<p>
+<i>Principes qui ont pour objet la combinaison des faits</i>.
+Comme les faits seuls &amp; isolés n&#39;annoncent rien que
+de vague, il faut les interpréter en les rapprochant
+&amp; les combinant ensemble.
+</p>
+<p>
+On sent plus que jamais aujourd&#39;hui, qu&#39;il est presque 
+aussi important de mettre de l&#39;ordre dans les découvertes,
+que d&#39;en faire ; les traits épars qui représentent 
+la nature, nous échapperoient sans cette ressource.
+Presque tous les phénomenes, sur-tout ceux
+que nous avons en vûe, n&#39;ont d&#39;utilité que dans la
+relation qu&#39;ils peuvent avoir avec d&#39;autres ; comme
+les lettres de l&#39;alphabet qui sont inutiles en elles-mêmes, forment par leur réunion les mots &amp; les langues.
+La nature d&#39;ailleurs ne se montre pas toute entiere
+dans un seul fait ou même dans plusieurs. Un phénomene 
+solitaire ne peut être mis en réserve, que
+dans l&#39;espoir qu&#39;il se réunira quelque jour à d&#39;autres
+de même espece : &amp; comme dans le plan de la nature 
+un tel fait est impossible, un observateur intelligent 
+en trouvera peu de cette nature : un fait isolé,
+en un mot, n&#39;est pas un fait physique ; &amp; la vraie
+Philosophie consiste à découvrir les rapports cachés
+aux vûes courtes &amp; aux esprits inattentifs : un exemple 
+frappant fera sentir la justesse de ces principes. Le
+P. Feuillée avoit observé
+<blockquote> 
+« que les coupes des rochers 
+près de Coquimbo, dans le Pérou, étoient
+perpendiculaires au niveau ; que les unes allant de
+l&#39;est à l&#39;oüest &amp; les autres du nord au sud, se coupoient 
+à angles droits ; que les premieres coupes
+étoient paralleles à l&#39;équateur, &amp; les autres au
+méridien ».
+</blockquote>
+Si ce savant religieux eût été conduit
+par les vûes que nous indiquons ici, bien loin de remarquer,
+comme il le fait, que la nature avoit ainsi
+configuré les montagnes pour rendre cette partie du
+monde déjà si riche par ses mines, plus parfaite que
+les autres ; il auroit conçû le dessein de se procurer
+des observations correspondantes dans les autres continens,
+&amp; ne se seroit pas borné à la considération infructueuse 
+des causes finales. <i>Voy.</i> <sc><ref target="head:Causes finales" type="search">Causes finales</ref></sc>.
+Cette idée bien combinée depuis valut à M. Bourguet la découverte des angles correspondans, <i>&amp;c.</i>
+</p>
+<p>
+Ainsi il est facile de sentir la nécessité de combiner
+les faits ; cette opération délicate s&#39;exécute sur deux
+plans différens. Il y a une combinaison d&#39;ordre &amp; de
+collection ; il y a une combinaison d&#39;analogie.
+</p>
+<p>
+A-mesure que l&#39;on amasse des faits &amp; des observations,
+on en seroit plûtôt accablé qu&#39;éclairé, si l&#39;on
+n&#39;avoit soin de les réduire à certaines classes déterminées 
+plûtôt par le sujet que par leur enchaînement
+naturel : car les recherches n&#39;étant pas assez multipliées,
+on n&#39;a que des chaînons épars &amp; qui n&#39;annoncent 
+pas encore la correspondance mutuelle qui
+pourra quelque jour en former une suite non interrompue.
+Cependant comme on a toûjours besoin d&#39;une
+<pb n="7:617" facs="V7/ENC_7-617.jpeg" />
+<milestone unit="column" n="1" />
+certaine apparence d&#39;ordre, on arrange même dans
+des partitions inexactes : la verité se fera jour plûtôt
+à-travers de cette petite méprise, qu&#39;à-travers de la
+confusion ; le tems &amp; les recherches rectifieront l&#39;une,
+au lieu qu&#39;ils augmenteroient l&#39;autre.
+</p>
+<p>
+Il faut même avoüer que ces partitions générales,
+quoiqu&#39;imparfaites, seroient plus convenables à notre 
+travail present, qui est de recueillir pour l&#39;usage
+de la postérite, &amp; plus assorties à nos connoissances
+bornées &amp; imparfaites sur certains sujets compliqués
+qui n&#39;ont encore reçû que la premiere ébauche, que
+ces vûes tronquées auxquelles l&#39;imagination donne
+la forme &amp; l&#39;apparence d&#39;une théorie. Ces tables seroient 
+comme les archives des decouvertes, &amp; le
+dépôt de nos connoissances acquises, ouvert à tous
+ceux qui se sentiroient du zele &amp; des talens pour
+l&#39;enrichir de nouveau. Les observateurs y parcourroient 
+d&#39;un seul coup d&#39;oeil &amp; sous une précision lumineuse,
+ce que nous délayons quelquefois dans
+une confusion d&#39;idées étrangeres &amp; bizarres, au milieu 
+desquelles la plus grande sagacité les démêle
+avec peine.
+</p>
+<p>
+Cette premiere opération offriroit de très-grandes
+facilités à la seconde : en contemplant les faits simplifiés,
+classifsiés avec un certain ordre, on est plus
+en état de saisir leurs correspondances mutuelles &amp;
+ce qui peut les unir dans la nature ; cette distribution 
+n&#39;auroit pas lieu seulement pour les observations 
+que nous aurions recueillies des autres, mais
+aussi pour celles que nous aurions faites par nous-mêmes.
+</p>
+<p>
+Ainsi nous tirerions de très-grands avantagesde cette
+<i>classification</i> des phenomenes, pour saisir leurs rapports : mais il faut convenir que lorsque nous nous
+serons familiarisés avec les objets eux-mêmes, &amp; que
+nous aurons acquis l&#39;habitude de les voir avec intelligence,
+ils formeront dans notre esprit de ces
+impressions durables, &amp; s&#39;annonceront à nons avec
+ces caracteres de correspondance qui sont le fondement 
+de l&#39;analogie. Nous nous éleverons insensiblement 
+à des vûes plus générales par lesquelles nous
+embrasserons à-la-fois plusieurs objets : nous saisirons
+l&#39;ordre naturel des faits ; nous lierons les phenomenes ; 
+&amp; nous parcourrons d&#39;un seul coup-d&#39;oeil une
+suite d&#39;observations analogues, dont l&#39;enchaînement
+se perpétuera sans effort.
+</p>
+<p>
+Mais une premiere condition pour parvenir à ce
+point de vûe, est d&#39;avoir scrupuleusement observé
+chaque objet comparé; autrement on ne peut bien
+saisir les justes limites des rapports qui peuvent les
+réunir. Si nous avons été exacts à démêler ce qui pouvoit 
+rapprocher un fait d&#39;un autre, &amp; à découvrir ce
+qui dans les phénomenes annonçoit une tendance
+marquée à la correspondance d&#39;organisation, dèslors 
+les analogies se présenteront à notre esprit d&#39;elles-mêmes.
+</p>
+<p>
+On se laisse souvent séduire dans le cours de ses
+observations, ou bien par négligence, ou bien par
+une prévention de système ; en conséquence on a la
+présomption de voir au-delà de ce que la nature nous
+montre, ou bien l&#39;on craint d&#39;appercevoir tout ce
+qu&#39;elle peut nous découvrir. D&#39;après cette illusion, on
+imagine de la ressemblance entre les objets les plus
+dissemblables, de la régularité &amp; de l&#39;ordre au milieu 
+de la confusion.
+</p>
+<p>
+Dans toutes ces opérations, le grand art n&#39;est pas
+de suppléer aux faits, mais d&#39;en combiner les détails
+connus ; d&#39;imaginer des circonstances, mais de savoir 
+les découvrir. En effet, à-mesure qu&#39;on étudie
+de plus en plus la nature, son méchanisme, son art,
+ses ressources, la multiplicité de ses moyens dans
+l&#39;exécution, ses desordres mêmes apparens, tout
+nous étonne, tout nous surprend ; tout enfin nous
+inspire cette défiance &amp; cette circonspection qui moderent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ce penchant indiscret de nous livrer à nos premieres 
+vues, ou de suivre nos premieres impressions.
+</p>
+<p>
+Afin de ne rien brusquer, il sera donc très prudent
+de ne nous attacher qu&#39;aux rapports les plus immédiats,
+&amp; de nous servir de ceux qui ont été apperçûs 
+&amp; vérifiés exactement, pour nous élever à d&#39;autres.
+Pour cela nous rangeons par ordre nos observations,
+&amp; nous en faisons de nouvelles lorsque
+les rapports intermédiaires nous manquent. Nous
+avons l&#39;attention de ne pas lier des faits sans avoir
+parcouru tous ceux qui occupent l&#39;intervalle, par
+une induction dont la nature elle-même aura conduit
+la chaîne. Bien-loin de surcharger de circonstances
+merveilleuses ou étrangeres les objets compliqués,
+nous les décomposerons par une espece d analyse,
+afin de nous borner à la comparaison des parties ; &amp;
+à-mesure que nous avancerons dans ce travail, nous
+recomposerons de nouveau toutes les parties &amp; leurs
+rapports, pour jouir de l&#39;effet du tout ensemble.
+</p>
+<p>
+Ainsi nous nous attacherons d&#39;abord aux analogies 
+des formes extérieures, ensuite à celles des masses 
+ou des configurations intérieures ; enfin nous discuterons 
+celles des circonstances. J&#39;ai suivi les contours 
+de deux montagnes qui courent parallelement ;
+j&#39;ai remarqué la correspondance de leurs angles saillans 
+&amp; rentrans ; je penetre dans leur masse, &amp; je découvre 
+avec surprise que les couches qui par leur addi 
+ion forment la solidité de ces avance angulaires,
+sont assujetties à la même régularité que les couches
+extérieures. Je conclus la même analogie de regularité 
+par rapport aux directions extérieures &amp; mutuelles 
+des chaines, &amp; par rapport a l&#39;organisation
+correspondante des masses. Je vais plus loin : je dis
+que la forme extérieure des montagnes prise absolument,
+a un rapport marqué de dépendance avec la
+disposition des lits qui entrent dans leur structure intérieure.
+Je pousserai même mes analogies sur la nature 
+des substances, leurs hauteurs correspondantes,
+&amp; j&#39;observerai, comme une circonstance très remarquable,
+que les angles sont plus fréquens &amp; plus aigus 
+dans les vallons profonds &amp; resserrés, <i>&amp;c.</i>
+</p>
+<p>
+Un point important sur lequel j&#39;insisterai, sera
+de ne point perdre de vûe, ni de dissimuler les différences 
+les plus remarquables, ou les exceptions les
+plus legeres qui s&#39;offriront à mes regards dans le
+cours des rapports que j&#39;aurai lieu de saisir &amp; d&#39;indiquer.
+Les rapports que j&#39;établirai en conséquence de
+cette attention, seront moins vagues ; &amp; d&#39;après ce
+plan je serai même en état d&#39;établir de nouveaux rapports 
+&amp; des combinaisons lumineuses entre ces variétés,
+lorsqu&#39;elles s&#39;annonceront avec les caracteres
+décisifs d&#39;une ressemblance marquée. Par ce moyen
+je ne me permettrai aucune espece de supposition ;
+&amp; bien-loin d&#39;être tenté d&#39;étendre des rapports au-delà 
+de ce que les faits me présentent, dans le cas où
+une exception me paroitroit figurer mal, l&#39;espoir
+que j&#39;aurai de l&#39;employer un jour avec succès, me
+déterminera à ne la pas dissimuler ou négliger, comme 
+j&#39;aurois été tenté de le faire, si je l&#39;eusse regardée
+comme inutile. Cette exception me donnant lieu
+d&#39;en former une nouvelle classe de variétés assujetties 
+à des effets réguliers, mon observation n&#39;aurat-elle pas été plus avantageuse pour le progres de la
+<i>Géographie physique</i>, que si j&#39;eusse, à l&#39;aide d&#39;une illusion 
+assez facie, supposé des régularités uniformes?
+</p>
+<p>
+Ce n&#39;est qu&#39;avec ces précautions qu&#39;on pourra recueillir 
+une suite bien liée de faits analogues, &amp;
+qu&#39;on en formera un ensemble dans lequel l&#39;esprit
+contemplera sans peine un ordre méthodique d&#39;idées
+claires &amp; de rapports féconds.
+</p>
+<p>
+<i>Principes de la généralisation des rapports</i>. C&#39;est
+alors que les principaux faits bien déterminés, décrits 
+avec exactitude, combinés avec sagacité, sont
+pour nous une source de lumiere qui guide les observateurs <gap type="hyphenpb" />
+<pb n="7:618" facs="V7/ENC_7-618.jpeg" />
+<milestone unit="column" n="1" />
+dans l&#39;examen des autres faits, &amp; qui
+leur en prépare une suite bien liée. A force d&#39;appercevoir 
+des effets particuliers, de les étudier &amp; de les
+comparer, nous tirons de leurs rapports mis dans un
+nouveau jour, des idées fécondes qui étendent nos
+vûes ; nous nous élevons insensiblement à des objets
+plus vastes ; &amp; c&#39;est dans ces circonstances délicates
+que l&#39;on a besoin de méthode pour conduire son esprit.
+Quand il faut suivre &amp; démêler d&#39;un coup-d&#39;oeil ferme &amp; assûré les démarches de la nature en
+grand, &amp; mesurer en quelque façon la capacité de ses
+vûes avec la vaste étendue de l&#39;univers, ne doit-on
+pas avoir échaffaudé long-tems pour s&#39;élever à un
+point de vûe favorable d&#39;où l&#39;on puisse découvrir
+cette immensité? aussi avons-nous insisté sur les opérations 
+préliminaires à cette grande opération.
+</p>
+<p>
+La généralisation consiste donc dans l&#39;établissement 
+de certains phénomenes étendus, qui se tirent
+du caractere commun &amp; distinctif de tous les rapports 
+apperçûs entre les faits de la même espece.
+</p>
+<p>
+On envisage sur-tout les rapports les plus féconds,
+les plus lumineux, les mieux décidés, ceux, en un
+mot, dont la nature nous présente le plus souvent les
+termes de comparaison : tels sont les objets de la généralisation.
+Par rapport à ses procédés, elle les dirige 
+sur la marche de la nature elle-même, qui est
+toûjours tracée par une progression non interrompue
+de faits &amp; d&#39;observations, rédigés dans un ordre dépendant 
+des combinaisons déjà apperçûes &amp; déterminées.
+Ainsi les faits se trouvent (par les précautions 
+indiquées dans les deux articles précédens)
+disposés dans certaines classes générales, avec ce caractere 
+qui les unit, qui leur sert de lien commun ;
+caractere qu&#39;on a saisi en détail, &amp; qu&#39;on contemple
+pour-lors d&#39;une seule vûe ; caractere enfin qui rend
+palpable l&#39;ensemble des faits, de maniere que le
+plan de leur explication s&#39;annonce par ces dispositions 
+naturelles. Dans ce point de vûe l&#39;observateur
+joüit de toutes ses recherches ; il apperçoit avec satisfaction 
+ce concert admirable, cette union, ce plan
+naturel, cet enchaînement méthodique qui semble
+multiplier un phénomene, par sa correspondance
+avec ceux qui se trouvent dans des circonstances
+semblables.
+</p>
+<p>
+De cette généralisation on tire avec avantage des
+principes constans, qu&#39;on peut regarder comme le
+suc extrait d&#39;un riche fonds d&#39;observations qui leur
+tiennent lieu de preuves &amp; de raisonnemens. On
+part de ces principes, comme d&#39;un point lumineux,
+pour éclaircir de nouveau certains sujets par l&#39;ana
+logie ; &amp; en conséquence de la régularité des opérations 
+de la nature, on en voit naître de nouveaux
+faits qui se rangent eux-mêmes en ordre de système.
+Ces principes sont pour nous les lois de la nature,
+sous l&#39;empire desquelles nous soûmettons tous
+les phénomenes subalternes ; étant comme le mot
+de l&#39;énigme, ils offrent dans une précision lumineuse
+plus de jeu &amp; de facilité à l&#39;esprit observateur, pour
+étendre ses connoissances. Enfin ils ont cet avantage
+très-important, de nous détromper sur une infinité 
+de faits défigurés ou absolument faux ; ces faits
+disparoîtront ou se rectifieront à leur lumiere, comme 
+il est facile de suppléer une faute d&#39;impression,
+lorsqu&#39;on a le sens de la chose.
+</p>
+<p>
+Mais pour établir ces principes généraux, qui ne
+sont proprement que des effets généraux apperçûs
+régulierement dans la discussion des faits combinés,
+il est nécessaire que la généralisation ait été severe
+&amp; exacte ; qu&#39;elle ait eu pour fondement une suite
+nombreuse &amp; variée de faits liés étroitement, &amp; continuée 
+sans interruption. Sans cette précaution, aulieu 
+de principes formés sur des faits &amp; des réalités,
+vous aurez des abstractions générales d&#39;où vous ne
+pourrez tirer aucun fait qui se retrouve dans la nature.<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+De quel usage peuvent être des principes qui
+ne sont pas le germe des découvertes? &amp; comment
+veut-on qu&#39;une idée étrangere à la nature, en présente 
+le dénouement? Ce n&#39;est seulement que de ce
+que vous tirez du fonds de la nature, &amp; de ce qu&#39;elle
+vous a laissé voir, que vous pouvez vous servir
+comme d&#39;un instrument sûr pour dévoiler ce qu&#39;elle
+vous cache.
+</p>
+<p>
+Si l&#39;induction par laquelle vous avez généralisé,
+n&#39;a pas été éclairée par un grand nombre d&#39;observations,
+le résultat général aura trop d&#39;étendue : il ne
+comprendra pas tous les faits qu&#39;on voudra lui soûmettre ; 
+&amp; cet inconvénient a pour principe cette
+précipitation blâmable qui, au lieu de craindre des
+exceptions où les faits manquent, &amp; où leur lumiere
+nous abandonne, se laisse entraîner sur les simples
+soupçons gratuits d&#39;une régularité constante.
+</p>
+<p>
+On voit aisément que cette méprise n&#39;a lieu que
+parce que dans la discussion des faits on n&#39;a pas distingué 
+l&#39;essentiel de l&#39;accessoire, &amp; que dans l&#39;énumération 
+&amp; la combinaison des phénomenes on a
+formé l&#39;enchaînement sans y comprendre les exceptions ; 
+il falloit en tenir un compte aussi exact, que
+des convenances qui ont servi aux analogies.
+</p>
+<p>
+D&#39;un autre côte je remarque que les observations
+vagues &amp; indéterminées ne peuvent servir à l&#39;établissement 
+d&#39;aucun principe. Toutes nos recherches
+doivent avoir pour but de vérifier, d&#39;apprécier tous
+les faits, &amp; de donner sur-tout une forme de précision 
+aux résultats : sans cette attention, point de connoissance 
+certaine, point de généralisation, point
+de résultats généraux.
+</p>
+<p>
+Les principes ont souvent trop d&#39;étendue, parce
+qu&#39;ils ont été rédigés sur des vûes ambitieuses, dictées 
+par une hypothèse favorite ; car alors dans tout
+le cours de ses observations on a éludé par dissimulation 
+ou par des distinctions subtiles, les exceptions
+fréquentes : on les a négligées comme inutiles, &amp;
+l&#39;on a toûjours poursuivi, au milieu de ces obstacles,
+la généralisation des résultats. Si dans la suite
+on trouve des faits contraires, on les ajuste comme
+s&#39;ils étoient obligés de se prêter à une regle trop générale.
+</p>
+<p>
+D&#39;autres résultats se présentent souvent avec une
+infinité de modifications &amp; de restrictions, qui font
+craindre qu&#39;ils ne soient encore subordonnés à d&#39;autres.
+Cette timidité avec laquelle on est obligé de
+mettre au jour ses principes, vient d&#39;un défaut d&#39;observations ; 
+il n&#39;y a d&#39;autre parti à prendre pour leur
+assûrer cette solidité, cette étendue, cette précision
+qu&#39;ils méritent peut-être d&#39;acquérir, que de consulter 
+la nature : sans cela, les principes dont la généralisation 
+n&#39;est pas pleine &amp; entiere, dont l&#39;application 
+n&#39;est pas fixe &amp; déterminée, seront continuellement 
+une source de méprises &amp; d&#39;illusions.
+</p>
+<p>
+Ce n&#39;est qu&#39;en s&#39;appuyant sur des faits discutés
+avec soin, liés avec sagacité, généralisés avec discernement,
+que l&#39;on peut se flater de transmettre à
+la postérité des vérités solides, des résultats généraux 
+&amp; incontestables, enfin des principes féconds
+&amp; lumineux.
+</p>
+<p>
+II. Lorsqu&#39;on jette un premier coup-d&#39;oeil sur notre 
+globe, la division la plus générale qui se présente,
+est celle par laquelle on le conçoit partagé en
+grands continens &amp; en mers. Comme dans la partie
+couverte d&#39;eau on rencontre plusieurs pointes de
+terre qui s&#39;élevent au-dessus des flots, &amp; qu&#39;on appelle 
+<i>îles</i>, de même on remarque, en parcourant les
+continens, des espaces couverts d&#39;eau ; si elle y séjourne,
+ce sont des <i>lacs ;</i> si elle y circule, ce sont des
+<i>fleuves</i> ou des <i>rivieres</i>.
+</p>
+<p>
+Les deux portions générales de terres fermes &amp; de
+mers s&#39;étendent réciproquement l&#39;une dans l&#39;autre,
+&amp; en différens sens. Dans les diverses configurations
+<pb n="7:619" facs="V7/ENC_7-619.jpeg" />
+<milestone unit="column" n="1" />
+relatives des limites qui circonscrivent ces deux parties 
+de notre globe, on observe que la mer environne
+de tous côtés quatre grands continens, &amp; qu&#39;elle pénetre 
+en plusieurs endroits dans l&#39;intérieur des terres : ce sont des mers <i>Méditerranées</i>, des <i>golfes</i>, des
+<i>baies</i>, des <i>anses</i>. D&#39;un autre côté, les continens forment 
+des avances considérables dans le bassin de la
+mer ; ce sont des <i>caps</i>, des <i>promontoires</i>, des <i>peninsules</i>. Le canal resserré par lequel la mer coule entre
+deux terres pour former des golfes, se nomme <i>détroit</i>. Il y a trois sortes de détroits, en tant que l&#39;on
+considere les terres qui forment les bords du canal ;
+ou ces deux lames de terre appartiennent au même
+continent, ou elles font partie d&#39;un continent &amp; d&#39;une
+île, ou enfin elles sont les rivages oposés de deux îles.
+Les <i>détroits</i>, sous un autre rapport, peuvent être
+considérés comme formant une communication d&#39;un
+bassin à un autre, &amp; l&#39;on en peut aussi distinguer de
+trois sortes ; ceux qui forment une communication
+d&#39;une mer à une mer, comme celui de Magellan ;
+d&#39;une mer à une baie, comme celui de Babelmandel,
+qui réunit le golfe arabique à la mer des Indes ; ou
+enfin d&#39;une baie à une baie, comme celui des Dardanelles. Il y a des golfes qui s&#39;étendent en longueur,
+d&#39;autres s&#39;arrondissent à leurs extrémités, &amp; présentent 
+une vaste ouverture sans d&#39;autres détroits que
+ceux qui sont formés entre une île &amp; un continent,
+ou bien entre une île &amp; une île : tels sont ceux du
+Mexique, de Bengale. Enfin quelques-uns se ramifient 
+en plusieurs branches, comme la mer Baltique.
+</p>
+<p>
+Une lame de terre resserrée entre deux mers, se
+nomme <i>isthme</i>. Les isthmes réunissent de grandes
+portions de continens à d&#39;autres, &amp; des presqu&#39;îles
+aux continens.
+</p>
+<p>
+Je reprends ces idées, &amp; j&#39;oppose les continens
+aux mers, les îles aux lacs, les golfes aux presqu&#39;îles,
+&amp; les détroits aux isthmes. Ce sont des configurations
+correspondantes &amp; opposées, qu&#39;il est bon de saisir
+sous ce point de vûe d&#39;opposition.
+</p>
+<p>
+Dans la discussion des <i>affections générales</i> du globe,
+que nous venons de disséquer en indiquant la nomenclature 
+de ses différentes configurations, il est
+nécessaire de suivre quelque plan.
+</p>
+<p>
+1°. Nous présenterons d&#39;abord les <i>résultats généraux</i>
+des observations qui ont un rapport direct avec l&#39;organisation 
+constante &amp; réguliere du globe, &amp; nous
+envisagerons cet objet sous deux points de vûe différens ; 
+l&#39;organisation extérieure, &amp; l&#39;organisation intérieure.
+</p>
+<p>
+2°. Nous nous occuperons des phénomenes généraux 
+qui paroissent indiquer une altération dans
+cette organisation constante.
+</p>
+<p>
+3°. Enfin les affections relatives de la terre, dépendantes 
+de l&#39;atmosphere &amp; des différens aspects
+du globe par rapport au Soleil &amp; à la Lune, feront
+la matiere de la troisieme section.
+</p>
+<p>
+<i>Affections générales de l&#39;organisation extérieure du
+globe</i>. La terre ferme comprend quatre grands continens : 1° l&#39;ancien : 2° le nouveau : 3° les terres
+australes connues ou soupçonnées : 4° les terres arctiques,
+dont la séparation d&#39;avec l&#39;Amérique n&#39;est
+pas encore bien déterminée ; la configuration des
+terres australes est encore moins connue. Nous nous
+bornerons donc à raisonner sur l&#39;ancien &amp; le nouveau 
+continent.
+</p>
+<p>
+En considérant avec attention l&#39;ancien continent
+&amp; le nouveau, on observe que l&#39;ancien est plus étendu vers le nord que vers le sud de l&#39;équateur, &amp;
+qu&#39;au contraire le nouveau l&#39;est plus au sud qu&#39;au
+nord de l&#39;équateur. On voit aussi que le centre de
+l&#39;ancien continent se trouve à 16 ou 18 degrés de
+latitude nord, &amp; celui du nouveau à 16 ou 18 degrés
+de latitude sud. Ce centre est déterminé par l&#39;intersection 
+des lignes menées sur les plus grandes longueurs 
+&amp; largeurs des continens.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Ils ont encore cela de remarquable, qu&#39;ils paroissent 
+comme partagés en deux parties qui seroient
+toutes quatre environnées d&#39;eau, &amp; formeroient des
+continens à part, sans deux petits isthmes ou étranglemens de terre ; celui de Suez &amp; celui de Panama. Le premier est produit en partie par la mer Rouge, qui semble l&#39;appendice &amp; le prolongement d&#39;une
+grande anse avancée dans les terres de l&#39;est à l&#39;oüest,
+&amp; en partie par la Méditerranée. L&#39;autre est de même
+produit par le golfe du Mexique, qui présente une
+large ouverture de l&#39;est à l&#39;oüest.
+</p>
+<p>
+Bacon observe que ce n&#39;est pas sans quelque raison
+que les deux continens s&#39;élargissent beaucoup vers
+le nord, se retrécissent vers le milieu, &amp; alongent
+une pointe assez aiguë vers le midi. On peut même
+ajoûter que les pointes de toutes les grandes presqu&#39;îles formées par les avances des continens, regardent 
+le midi ; que quelques-unes même sont coupées
+par des détroits dont le canal est dirigé de l&#39;est à
+l&#39;oüest.
+</p>
+<p>
+Si nous voyageons maintenant sur la partie seche
+du globe, nous y remarquerons d&#39;abord différentes
+inégalités à sa surface, de longues chaînes de montagnes,
+des collines, des vallons, des plaines. Nous
+appercevrons que les diverses portions des continens
+affectent des pentes assez régulieres depuis leur centre,
+ou depuis les sommets élevés des chaînes qui les
+traversent, jusque sur les côtes de la mer, ou le terrein 
+s&#39;abaisse sous l&#39;eau pour former la profondeur
+de son bassin : réciproquement, en remontant des
+rivages de la mer vers le centre des continens, nous
+trouvons que le terrein s&#39;éleve jusqu&#39;à certains
+points qui dominent de tous côtés sur les terres qui
+les environnent.
+</p>
+<p>
+Osons sonder la profondeur des mers, nous trouverons 
+qu&#39;elle augmente à-mesure que nous nous
+éloignons davantage des côtes, &amp; qu&#39;elle diminue
+au contraire à-mesure que nous nous en approchons
+davantage ; ensorte que le fond de la mer gagne par
+une élevation insensible les terres qui s&#39;élevent au-dessus 
+des flots. Dans le même examen nous découvrons 
+que la vaste étendue du bassin de la mer nous
+offre des inégalités correspondantes à celles des continens ; 
+il a ses vallées &amp; ses montagnes : les roches
+à fleur d&#39;eau, les îles, ne sont que les sommets les
+plus élevés des chaînes montueuses qui sillonnent
+par diverses ramifications la partie du globe que
+la mer recouvre.
+</p>
+<p>
+Je remarque que les eaux de la mer, en se répandant 
+dans de grandes vallées où le terrein est assujetti 
+à des pentes plus rapides, ont formé les <i>golfes</i>,
+les mers Méditerranées ; &amp; que réciproquement les
+terres éprouvant une irrégularité dans leur abaissement 
+vers les côtes de la mer, &amp; se prêtant moins à
+la courbure des terreins qui se plongent sous les flots,
+s&#39;avancent au milieu des eaux, &amp; forment des <i>caps</i>,
+des <i>promontoires</i>, des <i>presqu&#39;îles</i>.
+</p>
+<p>
+Entrons maintenant dans un plus grand détail, &amp;
+examinons de plus près chaque objet dont les différentes 
+particularités nous échappoient dans le lointain 
+où ils ont été présentés.
+</p>
+<p>
+Nous reconnoissons d&#39;abord que toutes les montagnes 
+forment différentes chaînes principales qui se
+lient, s&#39;unissent, &amp; embrassent tant par leurs troncs
+principaux que par leurs ramifications collatérales
+la surface des continens. Les montagnes, qui sont
+proprement les tiges principales, présentent des
+masses très-considérables &amp; par leur hauteur &amp; par
+leur volume ; elles occupent &amp; traversent ordinairement 
+le centre des continens : celles de moindre
+hauteur naissent de ces chaînes principales ; elles diminuent 
+insensiblement à-mesure qu&#39;elles s&#39;éloignent
+de leur tige, &amp; vont mourir ou sur les côtes de la
+mer, ou dans les plaines : d&#39;autres se soûtiennent encore<gap type="hyphenpb" />
+<pb n="7:620" facs="V7/ENC_7-620.jpeg" />
+<milestone unit="column" n="1" />
+le long des rivages de la mer, ou à une certaine
+distance de ces rivages.
+</p>
+<p>
+Dans une masse de montagnes prise en une partie
+déterminée d&#39;un continent, il est toûjours un point
+d&#39;elevation extrème d&#39;où les sommets des autres
+éprouvent une dégradation sensible, &amp; dans la direction 
+du prolongement de la chaîne de part &amp; d&#39;autre 
+jusqu&#39;à une certaine distance, &amp; suivant les parties 
+collatérales.
+</p>
+<p>
+Les plus hautes montagnes sont entre les tropiques 
+&amp; dans le milieu des zones tempérées, &amp; les plus
+basses avoisinent les poles. On a entre ou proche les
+tropiques les Cordelieres au Pérou, les pics des Canaries, les montagnes de la Lune, le grand &amp; le petit
+Atlas, le mont Taurus, le mont Imaüs, les montagnes 
+du Japon. Les Cordelieres ont presque le double
+de la hauteur des Alpes. L&#39;ancien continent est traversé 
+depuis l&#39;Espagne jusqu&#39;à la Chine par des chaînes 
+paralleles à l&#39;équateur ; mais elles jettent des
+branches qui se dirigeant au midi, traversent &amp; forment 
+différentes presqu&#39;iles, comme l&#39;Italie, Malaie,
+<i>&amp;c.</i> Les Alpes se ramifient dans le nord de l&#39;Europe,
+&amp; le mont Caucase dans celui de l&#39;Asie. Le grand &amp;
+le petit Atlas sont de même paralleles à l&#39;équateur ;
+mais il est à présumer qu&#39;ils se lient aux autres chaînes 
+qui vont se diriger aussi vers le midi, pour former 
+la pointe du cap de Bonne-Espérance. Dans l&#39;Amérique, le gisement des montagnes est du nord au
+sud.
+</p>
+<p>
+Les pentes des montagnes, soit dans la direction
+de leurs chaînes, soit par rapport à leurs adossemens
+collatéraux, sont beaucoup plus rapides du côté du
+midi que du côté du nord, &amp; beaucoup plus grandes
+vers l&#39;ouest que vers l&#39;est ; les précipices sont plus fréquens 
+vers le midi &amp; l&#39;oüest ; &amp; les plaines ont une
+pente insensible, ainsi que les sommets, vers l&#39;est &amp;
+le nord.
+</p>
+<p>
+Si l&#39;on examine en particulier la configuration de
+ces différentes montagnes, que nous venons de prendre 
+en grand, on observera des phénomenes très-curieux.
+</p>
+<p>
+Les côtés de ces chaînes présentent des adossemens
+considérables de terre, ou des avances angulaires
+dont les pointes font angle droit avec l&#39;alongement
+de la chaîne montueuse : ainsi la chaîne ayant sa direction 
+du nord au sud, les angles s&#39;étendront d&#39;un
+côté vers l&#39;orient, &amp; de l&#39;autre vers l&#39;occident.
+</p>
+<p>
+Lorsque deux chaînes gisent &amp; courent parallelement 
+l&#39;une à l&#39;autre, elles forment dans l&#39;entre-deux
+des gorges alongées &amp; des vallons figurés, comme
+les bords d&#39;un canal creusé par les eaux courantes ;
+ensorte que l&#39;angle saillant de l&#39;une se trouve opposé 
+à l&#39;angle rentrant de l&#39;autre.
+</p>
+<p>
+Les avances angulaires ou adossemens sont plus
+fréquens dans les gorges ou vallons profonds &amp;
+étroits, &amp; leurs pointes angulaires plus aiguës : mais
+lorsque la pente est plus douce, l&#39;adossement s&#39;appuyant 
+alors sur une base plus large, les angles sont
+plus obtus ; ils sont aussi plus éloignés les uns des autres : c&#39;est ce qui a lieu dans les vallées qui aboutissent 
+à de larges plaines.
+</p>
+<p>
+En général on distingue plusieurs parties dans une
+masse montueuse ; les parties les plus élevées sont
+des especes de pics ou de cones dégarnis ordinairement 
+de terre ; au pié on trouve des plaines ou des
+vallons plus ou moins étendus, &amp; qui sont proprement 
+les sommets applatis d&#39;autres montagnes, lesquelles 
+présentent sur leurs croupes différens enfoncemens,
+&amp; sont adossées par des collines dont les
+avances angulaires vont enfin se perdre dans les
+plaines étendues. Ainsi nous voyons qu&#39;il y a deux
+sortes de plaines ; des plaines en pays bas, &amp; des
+plaines en montagnes.
+</p>
+<p>
+Si une chaîne de montagnes après avoir couru
+<milestone unit="column" n="2" />
+dans un continent se dirige en se soûtenant encore à
+une moyenne hauteur vers une certaine mer, elle s&#39;y
+continue sous les flots, &amp; va rejoindre &amp; former par
+ses pointes les plus élevées, les îles qui sont ordinairement 
+dans la suite de la premiere direction. Les
+parties de la continuation de ces chaînes marines,
+forment des bas-fonds, des écueils, &amp; des rochers à
+fleur-d&#39;eau : ensorte que ces terres proéminentes
+nous tracent sensiblement la route que suivent les
+chaînes montueuses sous les flots : il y a quelque apparence 
+qu&#39;il y a peu d&#39;interruption.
+</p>
+<p>
+En conséquence, les détroits ne sont que l&#39;abaissement 
+naturel ou bien la rupture forcée des montagnes,
+qui forment les promontoires : aussi leur prolongement 
+se retrouve-t-il dans les îles séparées par
+les détroits ; &amp; leurs appendices sont constamment
+assujettis à l&#39;alignement des chaînes qui traversent
+les continens. Par une suite de la même disposition,
+les détroits sont les endroits où la mer a le moins de
+profondeur ; on y trouve une éminence continuée
+d&#39;un bord à l&#39;autre ; &amp; les deux bassins que ce détroit
+réunit, augmentent en profondeur par une progression 
+constante ; ce qu&#39;on peut voir dans le Pas de Calais.
+</p>
+<p>
+Cette correspondance des montagnes se remarque
+bien sensiblement dans les îles d&#39;une certaine étendue &amp; voisines des contines ; elles sont séparées en
+deux parties par une éminence très-marquée, qui les
+traverse dans la direction des autres îles ou des continens,
+&amp; qui en diminuant de hauteur depuis le centre 
+jusqu&#39;à leurs extrémités de part &amp; d&#39;autre, s&#39;abaisse
+insensiblement sous les eaux : il en est de même de
+tous les promontoires &amp; des presqu&#39;îles ; les chaînes
+de montagnes les traversent dans leur plus grande
+longueur &amp; par le milieu ; telles sont l&#39;Italie, la presqu&#39;ile de Malaie, <i>&amp;c.</i>
+</p>
+<p>
+Ce qui sépare deux mers &amp; forme les isthmes, est
+assujetti à la même régularité. Les isthmes ne sont
+proprement que le prolongement des chaînes de montagnes 
+soûtenues à une certaine hauteur, avec leurs
+avances angulaires ou adossemens collatéraux, mais
+moins considérables que les masses étendues où les
+continens s&#39;élargissent &amp; écartent les flots en s&#39;arrondissant 
+davantage : l&#39;isthme de Panama est ainsi formé 
+par l&#39;abaissement &amp; le retrécissement de la chaîne 
+des Cordelieres, qui va se continuer du Pérou
+dans le Mexique.
+</p>
+<p>
+C&#39;est par une suite de la dépendance des configurations 
+du bassin de la mer avec le prolongement &amp;
+le gisement des montagnes, que sa profondeur à la
+côte est proportionnée à la hauteur de cette même
+côte ; &amp; que si la plage est basse &amp; le terrein plat, la
+profondeur est petite ; il est aisé d&#39;en sentir les raisons.
+Un promontoire élevé s&#39;abaisse sous les flots
+par une pente brusquée.
+</p>
+<p>
+On distingue trois especes de côtes ; 1°. les côtes
+élevées qui sont de roche ou de pierres dures coupées 
+ordinairement à-plomb à une hauteur considérable ; 
+2°. les basses côtes, dont les unes sont unies
+&amp; d&#39;une pente insensible, les autres ont une médiocre 
+élévation, &amp; sont bordées de rochers à fleur-d&#39;eau ; 3°. les dunes formées par des sables que la
+mer accumule.
+</p>
+<p>
+C&#39;est encore une suite de la structure extérieure du
+globe hérissé de montagnes, qu&#39;il se trouve entre les
+tropiques beaucoup plus d&#39;îles que par-tout ailleurs:
+nous avons de même remarqué sur les continens les
+plus hautes montagnes dans cette partie du globe ;
+ensorte que les plus grandes inégalités se trouvent en
+effet dans le voisinage de l&#39;équateur.
+</p>
+<p>
+Ces grands amas d&#39;îles qui présentent une multitude 
+de pointes peu eloignées les unes des autres,
+sont voisins des continens, &amp; sur-tout dans de grandes 
+anses formées par la mer. Les îles solitaires sont
+au milieu de l&#39;Océan.
+<pb n="7:621" facs="V7/ENC_7-621.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Si nous examinons ce que l&#39;Océan nous offre encore,
+nous y découvrirons différens mouvemens réguliers 
+&amp; constans qui agitent la masse de ses eaux.
+</p>
+<p>
+Le principal est celui du flux &amp; reflux, qui dans
+vingt-quatre heures éleve deux fois les eaux vers les
+côtes, &amp; les abaisse par un balancement alternatif ;
+il a un rapport constant avec le cours de la lune ; l&#39;intumescence 
+des eaux est plus marquée entre les tropiques 
+que dans les zones tempérées, &amp; plus sensible 
+dans les golfes ouverts de l&#39;est à l&#39;oüest, étroits
+&amp; longs, que dans les plages larges &amp; basses ; elle se
+modifie enfin suivant le gisement des terres &amp; la hauteur 
+des côtes.
+</p>
+<p>
+Il résulte de ce premier mouvement une tendance
+continuelle &amp; générale de toute la masse des eaux
+de l&#39;Océan de l&#39;est à l&#39;oüest ; ce mouvement se fait
+sentir non seulement entre les tropiques, mais encore 
+dans toute l&#39;étendue des zones tempérées &amp; froides
+où l&#39;on a navigué.
+</p>
+<p>
+On remarque certains mouvemens particuliers &amp;
+accidentels dans certains parages, &amp; qui semblent
+se soustraire au mouvement général du flux &amp; reflux ; 
+ce sont les courans : les uns sont constans &amp;
+étendus tant en longueur qu&#39;en largeur, &amp; se dirigent 
+en ligne droite ; souvent ils éprouvent plusieurs
+sinuosités &amp; plusieurs directions ; d&#39;autres sont rapides,
+d&#39;autres lents. Ils produisent des especes de
+tournoyemens d&#39;eau ou de gouffres, tels que le Maelstroom, près de la Norwége : cet effet est la suite de
+l&#39;affluence de deux courans qui se rencontrent obliquement.
+Lorsque plusieurs courans affluent, il en résulte 
+ces grands calmes, ces tornados où l&#39;eau ne paroît 
+assujettie à aucun mouvement.
+</p>
+<p>
+Une derniere observation que nous présente l&#39;Océan, est celle de sa salure ; toute l&#39;eau de la mer est
+salée &amp; mêlée d&#39;une huile bitumineuse ; elle contient
+environ la quarantieme partie de son poids en sel,
+avec quelques différences pour les golfes, qui reçoivent 
+beaucoup d&#39;eau douce que les fleuves y versent 
+des continens.
+</p>
+<p>
+Cette observation nous conduit naturellement à
+examiner ce qui concerne les eaux qui séjournent &amp;
+celles qui circulent sur la surface des continens, pour
+en saisir les phénomenes les plus généraux.
+</p>
+<p>
+Je remarque d&#39;abord que les principales sources
+des fleuves, &amp; l&#39;origine des canaux qui versent l&#39;eau
+des continens dans la mer, se trouvent placées ou
+dans le corps des chaînes principales qui traversent
+les continens, ou près de leurs ramifications collatérales.
+J&#39;apperçois dans différentes parties des
+continens des contrées élevées qui sont comme
+des points de partage pour la distribution des eaux
+qui se précipitent en suivant différentes directions
+dans la mer ou dans des lacs : j&#39;en vois deux principaux 
+en Europe, la Suisse &amp; la Moscovie ; en
+Asie, le pays des Tartares Chinois ; &amp; en Amérique,
+la province de Quito : outre ces principaux, il en
+est d&#39;autres assujettis toûjours aux montagnes collatérales.
+Enfin certaines rivieres prennent leurs sources 
+au pié &amp; dans les cul-de-sacs des montagnes qui
+s&#39;étendent le long des côtes de la mer.
+</p>
+<p>
+Les sources ou fontaines peuvent se distinguer par
+les phénomenes que présente leur écoulement, &amp;
+par les propriétés des eaux qu&#39;elles versent : par rapport 
+à leur écoulement, on en distingue de trois sortes ; 
+1°. de <i>continuelles</i>, qui n&#39;éprouvent aucune interruption 
+ni diminution rapide ; 2°. de <i>périodiques
+intercalaires</i>, qui sont assujetties à des diminutions régulieres 
+sans interruption ; 3°. de <i>périodiques intermittentes</i>, qui ont des interruptions plus ou moins longues.
+<i>Voyez</i> <sc><ref target="head:Fontaine" type="search">Fontaine</ref></sc>.
+</p>
+<p>
+Par rapport à la nature de leurs eaux, il y en a de
+minérales, chargées des particules métalliques, de
+bitumineuses, de lapidifiques chargées de particules
+<milestone unit="column" n="2" />
+terreuses, de claires &amp; de troubles, de froides &amp; de
+chaudes : d&#39;autres ont une odeur &amp; une saveur particuliere.
+<i>Voyez</i> <sc><ref target="head:Hydrologie" type="search">Hydrologie</ref></sc>.
+</p>
+<p>
+Lorsque plusieurs sources ne trouvent pas une
+pente favorable pour former un canal, leurs eaux
+s&#39;amassent dans un bassin sans issue, &amp; il en résulte un
+lac ; cette eau franchit quelquefois les bords du bassin,
+&amp; se répand au-dehors ; ou bien une riviere dans
+son cours ne trouvant pas de pente jusqu&#39;à la mer,
+l&#39;eau qu&#39;elle fournit recouvre un espace plus ou
+moins étendu suivant son abondance, &amp; forme un
+lac. D&#39;après ces considérations, nous distinguons
+quatre sortes de lacs ; 1°. ceux qui ne reçoivent sensiblement 
+leurs eaux d&#39;aucun canal, &amp; qui ne les
+versent point au-dehors ; 2°. ceux qui ne reçoivent
+point de canal, &amp; qui fournissent des eaux à des
+rivieres, à des fleuves ; 3°. ceux qui reçoivent des
+fleuves sans interrompre leur cours ; 4°. ceux qui reçoivent 
+les eaux des rivieres &amp; les rassemblent sans
+les verser au-dehors : tels sont la mer Caspienne, la
+mer Morte, le lac Morago en Perse, Titacaca en Amérique, &amp; plusieurs lacs de l&#39;Afrique qui reçoivent les
+rivieres d&#39;une assez grande étendue de pays ; ces
+terreins forment une exception à la pente assez générale 
+des continens vers la mer.
+</p>
+<p>
+Les lacs qui se trouvent dans le cours des fleuves,
+qui en sont voisins, ou qui versent leurs eaux au-dehors, ne sont point salés : ceux au contraire qui reçoivent 
+les fleuves sans qu&#39;il en sorte d&#39;autres, sont
+salés ; les fleuves qui se jettent dans ces lacs, y ont
+amené successivement tous les sels qu&#39;ils ont détachés 
+des terres. Ceux qui ne reçoivent aucun fleuve
+&amp; qui ne versent point leurs eaux au-dehors, sont
+ordinairement sales s&#39;ils sont voisins de la mer ; ils
+sont d&#39;eau douce, s&#39;ils en sont éloignés.
+</p>
+<p>
+La plûpart des lacs semblent aussi dispersés en
+plus grand nombre près de ces especes de points de
+partage que nous avons observés sur les continens:
+en Suisse, j&#39;en trouve jusqu&#39;à trente-huit ; il en est de
+même dans le point de partage de Russie, &amp; dans celui 
+de la Tartarie Chinoise en Asie, <i>&amp;c.</i>
+</p>
+<p>
+Mais j&#39;observe généralement que les lacs des montagnes 
+sont tous surmontés par des terres beaucoup
+plus élevées, ou sont au pié des pics &amp; sur la cime
+des montagnes inférieures.
+</p>
+<p>
+Les rivieres se portant toûjours des lieux élevés
+vers les lieux bas, &amp; des croupes de montagnes ou
+principales ou collatérales vers les côtes de la mer
+ou dans des lacs ; c&#39;est une conséquence naturelle que
+la direction des sommets &amp; des chaînes alongées soit
+marquée par cette suite de points où tous les canaux
+des eaux courantes prennent leurs sources, &amp; par
+cet espace qu&#39;ils laissent vuide entre eux en se distribuant 
+vers différentes mers.
+</p>
+<p>
+Ainsi les crêtes des chaînes principales, des ramifications 
+collatérales, des collines mêmes de moyenne
+grandeur, servent à former ces partages des eaux
+que nous avions découverts &amp; indiqués en général:
+c&#39;est ainsi que les Cordelieres distribuent les eaux
+vers la mer du Sud &amp; dans les vastes plaines orientales 
+de l&#39;Amérique méridionale. Les Alpes de même
+distribuent leurs eaux vers diverses mers par quatre
+canaux différens, le Rhin, le Rhone, le Pô, &amp; le
+Danube.
+</p>
+<p>
+On voit sensiblement, d&#39;après ces observations
+générales, que les rivieres &amp; les fleuves sont des canaux 
+qui épuisent l&#39;eau répandue sur les continens.
+J&#39;observe qu&#39;au lieu de se ramifier en plusieurs branches,
+ils réunissent au contraire leurs eaux, &amp; les
+vont porter en masse dans la mer ou dans les lacs. Je
+ne vois qu&#39;une exception à cette disposition générale,
+c&#39;est la communication de l&#39;Orénoque avec une
+riviere qui se jette dans le fleuve des Amazones : les
+hommes ont senti l&#39;avantage de cette espece d&#39;anastomose,<gap type="hyphenpb" />
+<pb n="7:622" facs="V7/ENC_7-622.jpeg" />
+<milestone unit="column" n="1" />
+en liant les lits des rivieres par des canaux.
+Que nous diront sur cela les sectateurs des causes
+finales?
+</p>
+<p>
+La direction des fleuves dans tout leur cours est
+assujettie aux configurations des montagnes &amp; des
+vallons où ils coulent ; de sorte qu&#39;une des montagnes 
+qui borde un vallon ayant une pente moins rapide 
+que l&#39;autre qui lui est opposée, la riviere prend
+son cours plus près de celle qui a une croupe plus
+roide &amp; plus escarpée, &amp; ne garde point le milieu du
+vallon : elle n&#39;occupe le milieu que lorsque la pente
+est égale. Les fleuves ne suivent les montagnes principales 
+d&#39;où ils tirent leur origine, que tant qu&#39;ils
+sont resserrés entre deux chaînes ; mais dès qu&#39;ils se
+répandent dans les plaines collatérales, ils coulent
+perpendiculairement à la direction des chaînes, en
+suivant les vallons des montagnes de la seconde &amp;
+troisieme grandeur, où ils trouvent différentes rivieres 
+qui les enrichissent de leurs eaux. En conséquence 
+de la plus grande pente que les fleuves trouvent en
+s&#39;échappant des plaines montueuses qu&#39;ils rencontrent 
+ordinairement dans l&#39;intérieur des terres, la
+direction de leur canal est ordinairement droite sur
+une certaine longueur, &amp; leurs sinuosités ne se multiplient 
+que lorsque l&#39;on approche de leur embouchure 
+dans la mer. On remarque que les grands fleuves 
+coulent perpendiculairement à la côte où ils se
+jettent dans la mer, &amp; qu&#39;ils reçoivent de part &amp; d&#39;autre 
+des rivieres qui s&#39;y rendent, en indiquant une
+pente marquée des deux côtes. Dans l&#39;arrondissement
+de certains golfes, vous observez un semblable arrondissement 
+pour les rivieres qui s&#39;y jettent en s&#39;y portant 
+comme vers un centre commun, leurs canaux
+s&#39;épanoüissent dans tout le contour ; ils indiquent le
+vallon qui a formé le golfe. Cette disposition est sensible 
+dans les rivieres qui se jettent à l&#39;extrémité du
+golfe de Bothnie.
+</p>
+<p>
+Un phénomene régulier &amp; constant, est cet accroissement 
+périodique qu&#39;éprouvent un grand nombre 
+de fleuves, &amp; sur-tout ceux qui ont leurs sources
+entre les tropiques ; ils couvrent les plaines voisines
+de leurs eaux à une très-grande distance : les autres
+n&#39;éprouvent que de ces crûes irrégulieres &amp; brusquées 
+qui sont la suite de la fonte des neiges ou des
+pluies abondantes : les uns sont rapides, d&#39;autres roulent 
+plus tranquillement leurs eaux ; &amp; cela paroît,
+toutes choses égales d&#39;ailleurs, dépendant de la distance 
+de leur source à leur embouchure : ensorte que
+de deux fleuves qui partent du même point de partage,
+&amp; qui vont à la mer par différentes routes, celui-là est le plus rapide, dont le cours est le moins
+étendu. Quelques autres se perdent dans les sables,
+ou disparoissent dans des soûterreins : enfin je remarque 
+aux embouchures des grands fleuves, quelques
+îles &amp; quelques amas de sable qui divisent leur canal
+en plusieurs bras.
+</p>
+<p>
+<i>Affections générales de la structure intérieure &amp; réguliere 
+du globe</i>. Ce qui me frappe d&#39;abord en creusant
+dans la terre, c&#39;est que la masse est composée de lits
+&amp; de couches, dont l&#39;épaisseur, la direction, <i>&amp;c.</i>
+sont assujetties à des dispositions régulieres &amp; constantes.
+Quelque part que l&#39;on fouille, on rencontre
+de ces couches ou des bancs de différentes épaisseurs,
+depuis une ligne jusqu&#39;à cent piés ; &amp; plus on creuse
+dans l&#39;intérieur du globe, plus les couches sont épaisses. Ces bancs, ces lits recouvrent aussi une très grande 
+étendue de terrein en tout sens ; excepté la
+couche de terre végétale, toutes ces couches sont posées 
+parallelement les unes sur les autres ; &amp; chaque
+banc a une même épaisseur dans toute son étendue.
+</p>
+<p>
+Les lits de substances terrestres qui sont paralleles
+à l&#39;horison dans les plaines, s&#39;élevent &amp; se courbent
+avec les croupes des montagnes qu&#39;elles forment &amp;
+qu&#39;elles franchissent pour aller s&#39;abaisser ensuite dans
+<milestone unit="column" n="2" />
+le vallon qui se trouve au-delà. Si la pente de la
+montagne est douce, l&#39;inclinaison des couches est
+très-grande : si la croupe de la montagne est escarpée,
+ou bien les couches sont coupées à-plomb &amp;
+interrompues par des éboulemens, ou bien elles s&#39;abaissent 
+presque sans s&#39;incliner, &amp; gagnent la plaine.
+</p>
+<p>
+Lorsqu&#39;au sommet d&#39;une montagne les couches
+sont de niveau, toutes les autres qui composent sa
+masse sont aussi de niveau ; mais les lits du sommet
+panchent-ils, les autres couches de la montagne suivent 
+la même inclinaison.
+</p>
+<p>
+Dans certains vallons étroits formés par des montagnes 
+escarpées, les couches que l&#39;on y apperçoit
+coupées à-plomb &amp; tranchées, se correspondent par
+rapport à la hauteur, à l&#39;épaisseur, à la disposition,
+à la matiere qui les composent ; comme si la montagne 
+eût été séparée par le milieu.
+</p>
+<p>
+Dans les masses des montagnes figurées, les lits
+intérieurs des angles saillans ou rentrans éprouvent
+la même disposition que les contours extérieurs:
+ainsi les phénomenes de la surface paroissent liés
+avec ceux de la configuration intérieure, &amp; nous la
+découvrent.
+</p>
+<p>
+La même régularité a lieu par rapport à deux collines 
+qui se suivent parallelement ; les mêmes couches
+s&#39;y continuent de l&#39;une à l&#39;autre en bon ordre, en se
+courbant sous le vallon. Il est bon d&#39;observer que le
+niveau n&#39;a lieu pour la hauteur des couches correspondantes,
+que dans le cas où les deux collines ont
+une même hauteur ; ce qui est assez ordinaire.
+</p>
+<p>
+Il faut cependant remarquer que cette organisation 
+ne se présente pas par-tout ainsi. Les montagnes
+les plus élevées, soit dans les continens soit dans les
+îles, ne sont proprement que des pics ou cones composés 
+de roc vif, de grès, ou de matieres vitrifiables ; 
+celles dont les sommets sont plats contiennent
+des marbres, des pierres à chaux. Les collines dont
+la masse est de grès, présentent par-tout des pointes
+irrégulieres qui indiquent des couches peu suivies
+&amp; un amas de décombres : celles qui sont composées 
+de substances calcaires, de marbres, de pierres
+à chaux, de marnes, <i>&amp;c.</i> ont une forme plus arrondie 
+&amp; plus réguliere.
+</p>
+<p>
+D&#39;après les différentes observations dont nous venons 
+d&#39;indiquer les résultats, on peut distinguer huit
+situations &amp; formes différentes dans les couches terrestres ; 
+1°. de paralleles à l&#39;horison ; 2°. de perpendiculaires ; 
+3°. de diversement inclinées ; 4°. de courbées 
+en arc concave ; 5°. de courbées en arc convexe ; 
+6°. d&#39;ondoyantes ; 7°. d&#39;arrondies ; 8°. d&#39;angulaires.
+</p>
+<p>
+Ces différentes formes paroissent dépendantes des
+bases sur les quelles les lits ou assises sont posés. En
+suivant l&#39;arrangement des couches, on n&#39;a point trouvé 
+que les substances qui les forment soient disposées 
+suivant leur pesanteur spécifique. Les couches
+de matiere plus pesante se trouvent sur des couches
+de matieres plus legeres ; des rochers massifs portent
+sur des sables ou sur des glaises.
+</p>
+<p>
+Sous la mer, dans les détroits, &amp; dans les îles, on
+retrouve les substances terrestres disposées par couches,
+ainsi que dans les continens. Dans certains détroits 
+on a découvert que le fond de la mer est de la
+même nature de terre que les couches qui servent de
+base aux côtes élevées qui forment leur canal. On apperçoit 
+des deux côtés du détroit les mêmes couches
+&amp; les mêmes substances comme dans les deux croupes 
+escarpées de deux montagnes qui forment un vallon : dans d&#39;autres détroits, les couches des deux
+bords du canal s&#39;abaissent insensiblement sous les
+flots, pour aller rejoindre leurs correspondantes.
+</p>
+<p>
+On divise ordinairement les matieres qui composent 
+les premieres couches du globe en deux classes
+générales : la premiere comprend les substances vitrifiables ;<gap type="hyphenpb" />
+<pb n="7:623" facs="V7/ENC_7-623.jpeg" />
+<milestone unit="column" n="1" />
+la seconde renferme les substances calcaires.
+Soit seules, soir par leur mélange, ces matieres
+composent les terres, les pierres, les metaux, les minéraux 
+de toute espece ; il n&#39;est pas de notre objet de
+les détailler. Nous ne nous attachons à ces diverses
+substances, qu&#39;autant que nous nous occupons de
+leurs dispositions relatives par rapport à la structure
+intérieure du globe.
+</p>
+<p>
+Les argilles, les sables, les schitz, les charbons de
+terre, les rocs vifs, les grès étendus, les marnes,
+les pierres à chaux sont posés par lits &amp; par bancs:
+mais les tufs, les grès en petites masses, les cailloux,
+les crystaux, les métaux, les minéraux, les pyrites,
+les soufres, les stalactites, les incrustations, se trouvent 
+par amas, par filons, par veines irrégulierement
+disposées, mais cependant assujetties à quelques formes,
+sur-tout les crystallisations &amp; les sels.
+</p>
+<p>
+Mais ce qui a singulierement attiré l&#39;attention des
+observateurs parmi les substances qui composent les
+couches terrestres, est cette multitude considérable
+de fossiles en nature ou en pétrifications. On trouve
+des coquilles de différentes especes, des squelettes de
+poissons de mer qui sont parfaitement semblables aux
+coquilles, aux poissons actuellement vivans dans la
+mer. Ces fossiles par leur poli, leurs couleurs, leur
+émail naturel, présentent des dépouilles reconnoissasables 
+des animaux. Les coquilles sont entieres ; tout
+y est semblable, soit au dedans soit au-dehors, dans
+leur cavité, dans leur convexité, dans leur substance ; 
+les details de la configuration, les plus petites articulations 
+y sont dessinées : on trouve les coquillages 
+de la même espece par grouppes, de petits &amp; de
+jeunes attachés aux gros ; &amp; tous sont dans leur tas
+&amp; dans les lits posés sur le plat &amp; horisontalement.
+Certaines coquilles paroissent avoir éprouvé une espece 
+de calcination plus ou moins grande, &amp; une décomposition 
+qui en altere la forme en grande partie ;
+elles sont imparfaites, mutilées, par fragmens.
+</p>
+<p>
+Les bancs qu&#39;on a trouves en différens endroits,
+ont une étendue très-considérable ; il y en a une masse
+de plus de cent trente millions de toises cubiques en
+Touraine ; dans la plûpart des carrieres de pierre,
+cette substance lie les autres &amp; y domine. Quant aux
+pétrifications qui ne présentent que les empreintes
+ou en relief ou en creux, d&#39;animaux &amp; de végétaux,
+elles sont d&#39;une substance pierreuse, métallique, &amp;
+diversement colorée ; les unes présentent une forme
+parfaite, d&#39;autres sont mutilées, courbées, applaties,
+alongées.
+</p>
+<p>
+On trouve enfin une multitude étonnante de fossiles 
+ou conservés ou altérés ou pétrifiés, dans les couches 
+des montagnes comme sous les plaines ; au milieu 
+des continens, comme dans les îles ; dans les premiers 
+lits, comme dans les plus profonds ; depuis le
+sommet des Alpes, jusqu&#39;à cent piés sous terre dans
+le terrein d&#39;Amsterdam ; dans toute la chaîne qui traverse 
+l&#39;ancien continent depuis le Portugal jusqu&#39;à la
+Chine ; dans les matieres les plus legeres, comme
+dans les substances les plus dures &amp; les plus compactes.
+Ces fossiles y sont incorporés, pétrifiés, &amp; remplis 
+constamment de la substance même qui les environne.
+On trouve enfin des coquilles legeres &amp; pesantes 
+dans les mêmes matieres ; dans un seul endroit,
+les especes les plus disparates ; dans les endroits
+les plus éloignés, les especes les plus ressemblantes,
+&amp; dont les analogues, soit végétaux soit animaux,
+sont ou dans des mers éloignées ou dans des parages 
+voisins, ou ne sont pas encore connus.
+</p>
+<p>
+Il faut remarquer qu&#39;il y a plus de coquilles &amp; de
+pétrifications dans les matieres calcaires, dans les
+marnes, dans les pierres à chaux, <i>&amp;c.</i> que dans les
+matieres vitrifiables : on en trouve de dispersées
+dans les sables. On n&#39;a point encore vû de coquilles
+dans les grès &amp; le roc vif en petites masses : enfin
+<milestone unit="column" n="2" />
+on n&#39;a pû découvrir de coquilles au Pérou dans les
+montagnes des Cordelieres.
+</p>
+<p>
+La disposition de toutes ces couches dont nous venons 
+d&#39;examiner les formes &amp; la substance, sert à
+recueillir &amp; à distribuer régulierement les eaux de
+pluie, à les contenir en differens endroits, à les verser 
+par les sources, qui ne sont proprement que l&#39;interruption 
+&amp; l&#39;extrémité d&#39;un aqueduc naturel formé
+par deux lits de matieres propres à voiturer l&#39;eau:
+car les eaux tombant sur ces couches, se filtrent par
+les issues &amp; par les fréquentes interruptions qu&#39;elles
+éprouvent sur-tout dans leurs courbures, elles se
+chargent souvent des molécules de substances ou terrestres 
+ou métalliques qu&#39;elles peuvent dissoudre, &amp;
+acquierent par cette opération les différentes qualités 
+que nous avons remarquées ci-devant. Les couches 
+de glaise &amp; d&#39;arene qui regnent dans une grande 
+étendue du globe, contiennent les eaux ; la pente
+des couches leur procure un écoulement ; &amp; suivant
+la profondeur de ces couches, les eaux séjournent
+ou près de la surface de la terre ou à de grandes profondeurs.
+Un lac ne sera précisément que la réunion 
+des eaux qui coulent entre les couches qui
+viennent se terminer à son bassin, &amp; le former par
+leur courbure.
+</p>
+<p>
+<i>Phénomenes qui indiquent un travail postérieur au
+premier, &amp; qui tendent a changer la face du globe</i>. Les
+couches du globe même les plus solides, sont interrompues 
+par des fentes de différente largeur, depuis
+un demi-pouce jusqu&#39;à plusieurs toises ; elles sont perpendiculaires 
+à l&#39;horison dans les matieres calcaires,
+obliques &amp; irrégulierement posées dans les carrieres 
+de grès &amp; de roc vif : on les trouve assez éloignées les unes des autres, &amp; plus étroites dans les
+substances molles &amp; dans les lits plus profonds : plus
+fréquentes &amp; plus larges dans les matieres compactes,
+comme dans les marbres ou les autres pierres dures 
+&amp; dans les premieres couches ; souvent elles descendent 
+jusqu&#39;à la base depuis le sommet des masses ;
+d&#39;autres fois elles pénetrent jusqu&#39;aux lits insérieurs.
+Les unes vont en diminuant de largeur ; d&#39;autres ont
+une même largeur dans toute leur étendue.
+</p>
+<p>
+C&#39;est dans ces fentes que se trouvent les métaux,
+les minéraux, les crystaux, les soufres, les sucs épaissis ;
+elles sont intérieurement garnies dans les grès &amp; les
+matieres vitrifiables, de crystaux, de cailloux, &amp; de
+minéraux de toute espece : dans les carrieres de
+marbre ou de pierres à chaux, elles sont remplies de
+spath, de gypse, de gravier, &amp; d&#39;un sable terreux.
+Dans les argilles, dans les craies, dans les marnes,
+on trouve ces fentes ou vuides ou remplies de matiere 
+déposée par les eaux de pluie.
+</p>
+<p>
+On peut ajoûter à ces fentes d&#39;autres dégradations 
+considérables qu&#39;offrent les rochers &amp; les longues 
+chaînes de montagnes : telles sont ces coupures
+enormes, ces larges ouvertures produites par des
+éboulemens ou par des affaissemens qui remplissent
+les plaines de débris énormes de montagnes dont
+les bases manquent ; &amp; ces débris offrent des grès
+irrégulierement semés à la surface des terres éboulées, ou bien de longues couches de terre bouleversées 
+sans ordre. C&#39;est de cette sorte que se présentent
+aux yeux des observateurs les portes qu&#39;on trouve
+dans les chaînes de montagnes &amp; dans les ouvertures 
+de certains détroits ; comme les Thermopyles, les
+portes du Caucase, des Cordelieres, le détroit de
+Gibraltar entre les monts Calpé &amp; Abyla, la porte
+de l&#39;Hellespont, les détroits de Calais, de Palerme,
+<i>&amp;c.</i>
+</p>
+<p>
+Lorsque ces affaissemens n&#39;ont agi que sur les couches 
+intérieures, ou que les eaux seules ayant miné
+profondément les terres, ont entrainé de l&#39;intérieur
+des montagnes les sables &amp; les autres matieres de peu
+de consistence, &amp; n&#39;ont laissé que les voûtes formées
+<pb n="7:624" facs="V7/ENC_7-624.jpeg" />
+<milestone unit="column" n="1" />
+par les rochers &amp; les bancs de pierre, il résulte de
+toutes ces dégradations des cavernes : c&#39;est dans ces
+conduits soûterreins que certains fleuves disparoissent,
+comme le Niger, l&#39;Euphrate, le Rhone. C&#39;est
+dans ces cavernes formées dans le sein des montagnes,
+que sont les réservoirs des sources abondantes ;
+&amp; lorsque les voûtes de ces cavernes s&#39;affaissent &amp; les
+comblent, les eaux qu&#39;elles contiennent se répandent
+au-dehors &amp; produisent des inondations subites &amp;
+imprévues.
+</p>
+<p>
+Les eaux de pluie produisent aussi à la surface extérieure 
+de grands changemens. Les montagnes diminuent 
+de hauteur, &amp; les plaines se remplissent par
+leur travail journalier ; les cimes des montagnes se
+dégarnissent de terre, &amp; il ne reste que les pics. Les
+terres entraînées par les torrens &amp; par les fleuves
+dans les plaines, y ont formé des couches extraordinaires 
+de gravier &amp; de sable ; on en trouve de larges
+amas le long des rivieres &amp; dans les vallées qu&#39;elles
+traversent. Ces couches ont cela de particulier, qu&#39;elles 
+éprouvent des interruptions ; qu&#39;elles n&#39;annoncent 
+aucun parallélisme ni la même épaisseur ; &amp;
+par l&#39;examen des amas de gravier, on reconnoît qu&#39;ils
+ont été lavés, arrondis, &amp; déposés irrégulierement
+par les tournans d&#39;eau, <i>&amp;c.</i> Parmi ces sables &amp; ces
+graviers, on trouve sans ordre, sans disposition réguliere,
+des coquilles fluviatiles, des coquilles marines 
+brisées &amp; isolées, des débris de cailloux, des
+pierres dures, des craies arrondies, des os d&#39;animaux
+terrestres, des instrumens de fer, des morceaux de
+bois, des feuilles, des impressions de mousse ; &amp; les
+différentes parties de cet assemblage se lient quelquefois 
+avec un ciment naturel produit par la décomposition 
+de certains graviers.
+</p>
+<p>
+Aux environs des étangs, des lacs, &amp; des mers,
+le long des rivieres, ou près des torrens, on trouve
+des endroits bas, marécageux, dont le fond est un
+mélange de végétaux imbibés de bitume : des arbres
+entiers y sont renversés tous suivant une même direction.
+Certaines couches limoneuses durcies se sont
+moulées sur les roseaux des marais qu&#39;elles ont recouverts : souvent ces couches de végétaux ou en nature 
+ou en empreinte dans la pierre ou dans la terre
+durcies, sont recouvertes par des amas de matiere
+qui forment une épaisseur de cinquante, soixante,
+cent piés ; ces additions &amp; ces terres accumulées
+sont considérables, sur-tout au pié des hautes plaines 
+ou des montagnes, &amp; paroissent être des adossemens 
+qui s&#39;appuient &amp; tendent vers les montagnes
+plus élevées.
+</p>
+<p>
+Les rivages de la mer annoncent de même des
+dégradations produites par les eaux. A l&#39;embouchure 
+des fleuves nous trouvons des îles, des amas de
+sables, ou des dépôts de terres dont les eaux des rivieres 
+se chargent, &amp; qu&#39;elles déposent lorsque leur
+cours est ralenti. Quelques observateurs ont prétendu 
+que certains fleuves charrient le tiers de terre,
+ce qui est exagéré; mais il suffit de faire envisager
+cette cause avec toutes les réductions qu&#39;on jugera
+convenables, pour conclure l&#39;étendue de ses effets.
+Certaines côtes sont minées par les flots de la mer ;
+elle en recouvre d&#39;autres de sable : elle abandonne
+certains rivages, se jette &amp; fait des invasions sur
+d&#39;autres ou petit-à-petit, ou par des inondations
+violentes &amp; locales.
+</p>
+<p>
+Un autre principe étendu de destruction est le feu.
+Certaines montagnes brûlent continuellement ; elles
+éprouvent par reprises des accès violens, des éruptions dans lesquelles elles lancent au loin des tourbillons 
+de flammes, de fumée, de cendres, de pierres 
+calcinées ; &amp; dans la fureur de leur embrasement,
+les soufres, les minéraux en fusion se font jour autravers 
+des flancs de la montagne entr&#39;ouverts par
+l&#39;expansion des vapeurs qui redoublent la fureur du
+<milestone unit="column" n="2" />
+feu. Je trouve tous les volcans dans des montagnes
+élevées ; leur foyer est peu profond, &amp; leur bouche
+est au sommet &amp; dans le plan de l&#39;horison. Certains
+volcans sont éteints, &amp; on les reconnoît alors aux
+précipices énormes que des montagnes offrent à leurs
+sommets, qui sont comme des cones tronqués ; &amp;
+aux laves ou matieres calcinées qui sont dispersées
+sur les croupes.
+</p>
+<p>
+Le fond de la mer n&#39;est pas exempt de ces tourmentes 
+violentes ; il y a aussi de ces volcans dans
+les montagnes dont le sommet est sous les flots. Ils
+s&#39;annoncent près des îles dont ils sont la continuation 
+&amp; les appendices. Ces volcans sou-marins élevent quelquefois des masses de terre énormes qui paroissent 
+au-dessus des flots, &amp; vont figurer parmi les
+îles ; ou bien ces matieres enflammées ne trouvant
+pas dans leurs explosions des masses contre lesquelles
+elles puissent agir, élevent les flots, &amp; forment des
+jets immenses, des Typhons ou trombes affreuses. La
+mer est alors dans une grande ébullition, couverte
+de pierres calcinées &amp; legeres qui y flottent sur un
+espace très-étendu, &amp; l&#39;air est rempli d&#39;exhalaisons
+sulphureuses.
+</p>
+<p>
+Tous ces effets sont ordinairement accompagnés
+de <i>tremblemens</i> de terre, phénomene qui porte au loin
+la desolation ou les alarmes. On peut en distinguer
+de deux sortes, des tremblemens locaux &amp; des tremblemens 
+étendus : les tremblemens locaux circonscrivent 
+leurs commotions, s&#39;étendent en tous sens
+autour d&#39;un volcan ou de leur foyer. Les autres suivent 
+certaines bandes de terrein, &amp; sur-tout celles
+qui sont parsemées de montagnes ou composées de
+matieres solides ; ils s&#39;étendent beaucoup plus en
+longueur qu&#39;en largeur : ces convulsions désastreuses 
+s&#39;annoncent par différens mouvemens. Les uns
+s&#39;exécutent par un <i>soulevement</i> de haut en bas ; les
+autres par une <i>inclination</i> telle que l&#39;éprouveroit un
+plan incliné, soulevé par la partie la plus haute &amp;
+fixé par le bas ; enfin d&#39;autres, par un balancement
+qui porte les objets agités vers les différens points
+de l&#39;horison, &amp; par des reprises marquées. De ces différentes 
+agitations résultent les commotions meurtrieres,
+irrégulieres, brusquées, suivies de grands
+desastres, &amp; ces secousses tranquilles qui balancent
+les objets sans les détruire. On peut mettre parmi
+les effets des tremblemens de terre, les affaissemens
+&amp; les éboulemens de certaines montagnes, les fentes,
+les précipices &amp; les abysmes.
+</p>
+<p>
+Les secousses se propageant par les montagnes &amp;
+les chaînes qui se ramifient dans le fond de la mer,
+se rendent sensibles aux navigateurs, &amp; produisent
+par voie de retentissement des commotions violentes 
+aux vaisseaux sur la surface de la mer unie &amp;
+paisible : souvent la mer se déborde dans les terres,
+après que les côtes ont éprouvé des convulsions violentes.
+Enfin les côtes de la mer semblent plus exposées 
+aux tremblemens de terre que les centres des
+continens.
+</p>
+<p>
+<i>Phénomenes dépendans de l&#39;atmosphere &amp; de l&#39;aspect
+du soleil</i>. Cette division nous offre beaucoup de faits
+&amp; peu de résultats généraux ; on peut réduire à trois
+points ce qui nous reste à y discuter. Le premier
+comprend la considération de la diverse température
+qui regne dans les différentes parties du globe : le
+second les agitations de l&#39;atmosphere &amp; leurs effets ;
+le troisieme la circulation &amp; les modifications des
+vapeurs &amp; des exhalaisons qui flottent dans l&#39;atmosphere.
+</p>
+<p>
+La température qu&#39;éprouvent les différentes portions 
+de la terre peut se représenter avec assez de régularité 
+par les zones comprises entre les degrés de
+latitude ; cependant il faut y comprendre la considération 
+du sol, du séjour plus ou moins long du soleil 
+sur l&#39;horison, &amp; des vents. Toutes ces circonstances<gap type="hyphenpb" />
+<pb n="7:625" facs="V7/ENC_7-625.jpeg" />
+<milestone unit="column" n="1" />
+modifient beaucoup l&#39;effet de la direction plus
+ou moins inclinée des rayons du soleil dans les différens 
+pays.
+</p>
+<p>
+L&#39;intervalle qui se trouve entre les limites du plus
+grand chaud &amp; du plus grand froid dans chaque contrée,
+croit à-mesure qu&#39;on s&#39;éloigne de l&#39;équateur,
+avec quelques exceptions toûjours dépendantes du
+sol, &amp; sur-tout du voisinage de la mer. Un pays habité,
+cultivé, desséché est moins froid : un pays
+maritime est moins froid à même latitude, &amp; peut-être
+aussi moins chaud.
+</p>
+<p>
+A-mesure qu&#39;on s&#39;éleve au-dessus des plaines dans
+les hautes montagnes, la chaleur diminue &amp; le froid
+même se fait sentir. Sur les montagnes des Cordelieres la neige, qui 
+recouvre le sommet de quelques unes,
+ne fond pas à la hauteur de 2440 toises au-dessus 
+du niveau de la mer, &amp; la chaleur respecte
+cette limite dans toute l&#39;étendue de la Cordeliere.
+Dans les zones tempérées, les pays montagneux ont
+aussi des sommets couverts de neige, &amp; même
+des amas monstrueux de glace que la chaleur des
+étés ne fond point entierement ; seulement la ligne
+qui sert de limite à la neige qui ne fond point est
+moins élevée dans ces zones que sous la torride.
+</p>
+<p>
+Mais le froid ne se répand jamais dans les plaines
+des zones torrides, comme il fait ressentir ses effets
+dans l&#39;étendue des zones tempérées &amp; glaciales. Les
+fleuves gelent à la surface des continens, ainsi que
+les lacs dans une partie des tempérées &amp; dans toute
+l&#39;étendue des zones glaciales ; mais la salure en préserve 
+les plaines mers à ces latitudes. Ce n&#39;est que
+vers les côtes, dans les parages tranquilles, dans les
+golfes ou détroits des zones glaciales, que la mer
+gele ; &amp; les glaces ne s&#39;étendent pas à une vingtaine
+de lieues des côtes. La mer gele sur-tout dans les
+endroits vers lesquels les fleuves versent une grande 
+quantité d&#39;eau douce, ou charrient de gros glaçons 
+qui s&#39;accumulant à leur embouchûre, contribuent 
+à la formation de ces énormes montagnes de
+glaces qui voyagent ensuite dans les mers plus méridionales ; 
+en sorte que les glaces qu&#39;on trouve dans
+les plaines mers indiquent de grands fleuves qui ont
+leurs embouchûres près de ces parages. Par rapport
+à la température des soûterreins &amp; de la mer à différentes 
+profondeurs, nous ne pouvons offrir aucuns
+résultats bien déterminés.
+</p>
+<p>
+Les principales agitations de l&#39;air que nous considérons 
+sont les vents ; en général les courans d&#39;air
+sont fort irréguliers &amp; très-variables : cependant le
+vent d&#39;est souffle continuellement dans la même direction,
+en conséquence de la raréfaction que le soleil 
+produit successivement dans les différentes parties 
+de l&#39;atmosphere. Comme le courant d&#39;air qui est
+la suite de cette dilatation doit suivre le soleil, il
+fournit un vent constant &amp; général d&#39;orient en occident,
+qui contribue par son action au mouvement
+général de la mer d&#39;orient en occident, &amp; qui regne
+à 25 ou 30 degrés de chaque côté de l&#39;équateur.
+</p>
+<p>
+Les vents polaires soufflent aussi assez constamment 
+dans les zones glaciales ; dans les zones tempérées 
+il n&#39;y a aucune uniformité reconnue. Le mouvement 
+de l&#39;air est un composé des vents qui regnent
+dans les zones collatérales, c&#39;est-à-dire des vents
+d&#39;est &amp; de nord. A combien de modifications ces
+courans ne doivent-ils pas être assujettis, suivant
+que les vents d&#39;est ou de nord dominent? Le vent
+d&#39;oüest paroît être même un reflux du vent d&#39;est modifié 
+par quelques côtes.
+</p>
+<p>
+Sur la mer ou sur les côtes les vents sont plus réguliers 
+que sur terre ; ils soufflent aussi avec plus de
+force &amp; plus de continuité. Sur les continens, les
+montagnes, les forêts, les différentes bases de terreins 
+changent, &amp; alterent la direction des vents.
+Les vents réfléchis par les montagnes se font sentir
+<milestone unit="column" n="2" />
+dans toutes les provinces voisines ; ils sont très-irréguliers, parce que leur direction dépend de celle
+du premier courant qui les produit, ainsi que des
+contours, de la situation &amp; de l&#39;ouverture même des
+montagnes. Enfin les vents de terre soufflent par reprises 
+&amp; par boutades.
+</p>
+<p>
+Au printems &amp; en automne les vents sont plus
+violens qu&#39;en hyver &amp; en été, tant sur mer que sur
+terre ; ils sont aussi plus violens à-mesure qu&#39;on s&#39;éleve 
+au-dessus des plaines &amp; jusqu&#39;au-dessus de la
+région des nuages.
+</p>
+<p>
+Il y a des vents périodiques qui sont assujettis à
+certaines saisons, à certains jours, à certaines heures,
+à certains lieux ; il y en a de reglés produits par
+la fonte des neiges, par le flux &amp; reflux. Quelquefois les vents viennent de la terre pendant la nuit,
+&amp; de la mer pendant le jour. Nous n&#39;avons point
+encore assez d&#39;observations pour connoître s&#39;il y a
+quelque rapport entre les vicissitudes de l&#39;air dans
+chaque pays. Nous savons seulement par les observations 
+du barometre, qu&#39;il y a plus de variations
+dans les zones tempérées, que dans les zones torrides 
+&amp; glaciales ; qu&#39;il y en a moins dans la région
+élevée de l&#39;atmosphere, que dans celle où nous vivons.
+</p>
+<p>
+En vertu de la chaleur du soleil l&#39;air ayant acquis
+une certaine température, dissout l&#39;eau &amp; s&#39;en charge ; 
+c&#39;est ce qui produit cette abondante évaporation des eaux de dessus les mers &amp; les continens.
+Ces vapeurs une fois condensées forment les nuages
+que les vents sont circuler dans une certaine région
+de l&#39;air dépendante de leur densité &amp; de la sienne ;
+ils les transportent dans tous les climats : les nuages
+ainsi voiturés ou s&#39;élevent en se dilatant, ou s&#39;abaissent 
+en se condensant suivant la température de
+la base de l&#39;atmosphere qui les soûtient ; lorsqu&#39;ils
+rencontrent dans leur course l&#39;air plus froid des montagnes,
+ou bien ils y tombent en flocons de neige,
+en brouillards, en rosées, suivant leur état de
+densité &amp; d&#39;élevation ; ou bien ils s&#39;y fixent &amp; s&#39;y
+resolvent en pluies. Le vent d&#39;est les disperse surtout 
+entre les tropiques ; ce qui cause &amp; les pluies
+abondantes de la zone torride, &amp; les inondations
+périodiques des fleuves qui ont leurs sources dans
+ces contrées.
+</p>
+<p>
+Quelquefois les nuages condensés au sommet des
+montagnes s&#39;en trouvent éloignés par des vents réflechis,
+ou autres qui les dispersent dans les plaines
+voisines.
+</p>
+<p>
+Les montagnes contribuent tellement à cette distribution 
+des eaux, qu&#39;une seule chaîne de montagnes 
+décide de l&#39;été &amp; de l&#39;hyver entre deux parties
+d&#39;une presqu&#39;île qu&#39;elle traverse. On conçoit aussi
+que le sol du terrein contribuant à l&#39;état de l&#39;atmosphere,
+il y aura des pays où il ne tombera aucune
+pluie, parce que les nuages s&#39;éleveront au-dessus de
+ces contrées en se dilatant.
+</p>
+<p>
+Enfin nous concevons maintenant pourquoi nous
+avons trouvé certains points de partage pour la distribution 
+des eaux qui circulent sur la surface des
+continens : ces points de partage sont des endroits
+élevés &amp; hérissés de montagnes &amp; de pics qui raccrochent,
+condensent, fixent &amp; resolvent les nuages 
+en pluies, <i>&amp;c.</i>
+</p>
+<p>
+Lorsque des vents contraires soufflent contre une
+certaine masse de nuages condensés &amp; prêts à se résoudre 
+en pluie, ils produisent des especes de cylindres 
+d&#39;eau continués depuis les nuages d&#39;où ils tombent 
+jusque sur la mer ou la terre : ces vents donnent
+à l&#39;eau la forme cylindrique en la resserrant &amp; la comprimant 
+par des actions contraires. On nomme ces
+cylindres d&#39;eau <i>trombes</i>, qu&#39;il ne faut pas confondre
+avec le <i>typhon</i> ou la trombe de mer. On peut rapporter 
+à ces effets ceux que des vents violens &amp; contraires
+<pb n="7:626" facs="V7/ENC_7-626.jpeg" />
+<milestone unit="column" n="1" />
+produisent lorsqu&#39;ils élevent des tourbillons de sable 
+&amp; de terre, &amp; qu&#39;ils enveloppent dans ces tourbillons 
+les maisons, les arbres, les animaux.
+</p>
+<p>
+Telle est l&#39;idée générale des objets dont s&#39;occupe
+la <i>Géographie physique</i>, &amp; qui seront développés
+dans les différens articles. Il est aisé de voir par cet
+exposé, qu&#39;un système de <i>Géographie physique</i> n&#39;est
+autre chose qu&#39;un plan méthodique où l&#39;on présente
+les faits avérés &amp; constans, &amp; où on les rapproche
+pour tirer de leur combinaison des résultats généraux : opérations auxquelles préside cette sagesse,
+cette bonne foi qui laisse entrevoir les intervalles
+où la continuation de l&#39;enchaînement est interrompue,
+qui ne se contente pas tellement des observations 
+déjà faites, qu&#39;elle ne montre le besoin de
+nouveaux faits &amp; les moyens de les acquérir. Dans
+les théories de la terre on suit d&#39;autres vûes ; tous
+les faits, toutes les observations sont rappellées à
+de certains agens principaux, pour remonter &amp; s&#39;élever 
+de l&#39;état présent &amp; bien discuté à l&#39;état qui a
+précédé; en un mot des effets aux causes. L&#39;objet
+des théories de la terre est grand, élevé &amp; pique
+davantage la curiosité; mais elles ne doivent être
+que les conséquences générales d&#39;un plan de <i>Géographie physique</i> bien complet. <i>Cet article est de M.
+<sc>Desmarest</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

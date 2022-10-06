@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27785" id="49:49:2" vol="7">
+<index type="head" value="Formel" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Formel</head>
+<p>
+<sc>Formel</sc>, (<i>Jurisprud.</i>) ce terme a dans cette matiere 
+plusieurs significations différentes.
+</p>
+<p>
+Ajournement <i>formel</i> dans quelques coûtumes, est
+différent de l&#39;ajournement simple, comme dans celle
+de la Marche, <i>art. 16</i>. Il est aussi parlé d&#39;ajournement 
+<i>formel</i> dans la coûtume de Poitou, <i>art. 327.
+&amp; 366</i>. &amp; Angoumois <i>56. &amp; 77</i>.
+</p>
+<p>
+On appelle <i>contradiction formelle</i>, celle qui est expresse 
+sur le cas ou fait dont il s&#39;agit ; coût. de Berry,
+<i>tit. xj. art. 2</i>.
+</p>
+<p>
+<i>Garant formel</i>, est celui qui est tenu de prendre
+le fait &amp; cause du garanti. <i>Voyez</i> <sc><ref target="head:Garant" type="search">Garant</ref></sc>.
+</p>
+<p>
+<i>Partage formel</i>, se dit dans la coûtume d&#39;Auvergne pour exprimer un partage réel &amp; effectif. <i>Chap.
+xxvij. art. 7. &amp; 8</i>.
+</p>
+<p>
+<i>Partie formelle</i>, est la même chose que <i>partie formée</i> ou <i>partie civile ;</i> Nivernois, <i>tit. j. art. 20. &amp;
+suiv</i>. Solle, <i>tit. xxxv. art. 1</i>. Ordonnances du duc de
+Bouillon, <i>art. 276</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

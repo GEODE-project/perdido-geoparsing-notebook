@@ -1,0 +1,317 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29616" id="53:111:1" vol="7">
+<index type="head" value="Givre, ou Frimat" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Ratte" />
+<index type="shortauth" value="Ratte" />
+<index type="kafnum" value="114" />
+<index type="kafauth" value="Ratte, Etienne-Hyacinthe de (1722-1805)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physique." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.m." />
+<head>Givre</head>
+<p>
+<sc>Givre</sc>, <i>ou</i> <sc>Frimat</sc>, s. m. (<i>Physique.</i>) sorte de
+gelée blanche, qui en hyver, lorsque l&#39;air est froid
+&amp; humide tout ensemble, s&#39;attache à différens
+corps, aux arbres, aux herbes, aux cheveux, <i>&amp;c.</i>
+Le <i>givre</i> ou <i>frimat</i> ne differe pas essentiellement de la
+gelée blanche proprement dite : ces deux congelations 
+se ressemblent parfaitement, se forment de la
+même maniere, &amp; dépendent du même principe.
+Ce qui, dans l&#39;usage, sert à les distinguer, c&#39;est que
+le nom de <i>gelée blanche</i> n&#39;est guere donné qu&#39;à la rosée 
+du matin congelée ; au lieu que ce qu&#39;on appelle
+<i>givre</i> doit son origine non à la rosée du matin, mais à
+toutes les autres vapeurs aqueuses, quelles qu&#39;elles
+soient, qui réunies sur la surface de certains corps en
+molécules sensibles, distinctes &amp; fort déliées, y rencontrent 
+un froid suffisant pour les glacer.
+</p>
+<p>
+La formation du <i>givre</i> supposant toûjours, comme
+nous venons de le dire, la réunion du froid &amp; de l&#39;humidité,
+on déterminera sans peine les circonstances
+particulieres dans lesquelles cette espece de congelation 
+doit se manifester. Qu&#39;un grand brouillard soit
+répandu dans l&#39;air &amp; sur la surface de la terre, il
+mouillera considérablement la plûpart des corps solides 
+exposés à son action : si l&#39;on suppose en même
+tems dans ces corps un refroidissement jusqu&#39;au terme 
+de la congelation &amp; au-delà, il n&#39;en faudra pas
+davantage pour glacer les particules d&#39;eau répandues
+sur la surface de ces mêmes corps, &amp; qui y sont adhérentes.
+Ces premiers glaçons attireront d&#39;autres
+molécules aqueuses qui perdront de même leur liquidité,
+&amp; ainsi de suite ; tous ces petits corps gelés
+constituent le <i>givre</i>. Ce qu&#39;on a dit ailleurs de la gelée
+blanche proprement dite, qu&#39;elle est composée de
+particules d&#39;eau glacées séparément, unies en un
+corps rare &amp; leger, formant des filets oblongs diversement 
+inclinés ; tout cela trouve ici son application.
+<i>Voyez</i> <sc><ref target="head:Gelée blanche" type="search">Gelée blanche</ref></sc>.
+</p>
+<p>
+Le <i>givre</i> s&#39;attache aux arbres en très-grande quantité; 
+il y forme souvent des glaçons pendans qui fatiguent 
+beaucoup les branches par leur poids ; c&#39;est
+que les arbres attirent avec beaucoup de force l&#39;humidité 
+de l&#39;air &amp; des brouillards.
+</p>
+<p>
+Les poils des animaux sont de même très-sujets à
+s&#39;humecter considérablement à l&#39;air libre : ainsi il
+n&#39;est pas surprenant qu&#39;en certains pays le <i>givre</i> s&#39;attache 
+fréquemment aux cheveux &amp; au menton des
+paysans &amp; des voyageurs, aux chapeaux, aux fourrures,
+aux crins des chevaux, <i>&amp;c.</i> Il faut remarquer
+au sujet du <i>givre</i> qu&#39;on apperçoit sur les hommes &amp;
+sur les animaux, que les particules d&#39;eau auxquelles
+il doit son origine, ne viennent pas toutes de l&#39;atmosphere : les vapeurs aqueuses qu&#39;exhalent les animaux 
+par la respiration, se glacent de la même maniere 
+dans de semblables circonstances ; &amp; ce qui le
+prouve évidemment, c&#39;est que le <i>givre</i> s&#39;amasse autour 
+de la bouche &amp; des narines en plus grande
+quantité. Dans les villes, quand on voit sur les personnes 
+qui viennent de la campagne l&#39;espece d&#39;eau
+glacée dont il est ici question, on dit communément
+qu&#39;il a tombé du <i>givre ;</i> expression très-peu exacte,
+si l&#39;on entend par-là que les particules d&#39;eau qui composent 
+le <i>givre</i>, se sont gelées dans l&#39;air : on dit de la
+même maniere, <i>il a tombé de la gelée blanche</i>. Il ne faut
+pas toûjours chercher dans le discours ordinaire la
+précision des Mathématiciens.
+<pb n="7:676" facs="V7/ENC_7-676.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On doit rapporter au <i>givre</i> cette espece de neige
+qui s&#39;attache aux murailles après de longues &amp; fortes 
+gelées : la raison de cet effet est que les corps solides 
+s&#39;échauffent moins promptement que l&#39;air, &amp; que
+ces murailles conservent encore quelque tems après
+le dégel une grande partie de la froideur qui leur a
+été auparavant imprimée. Si cette froideur va au
+terme de la glace ou au-delà, les particules d&#39;eau
+dont l&#39;air est chargé venant s&#39;attacher aux murailles
+&amp; s&#39;y accumulant, y forment une croûte de glace
+rare, spongieuse, &amp; dont les parties sont presque
+disjointes.
+</p>
+<p>
+Ce seroit une erreur de croire que cette espece
+de neige vînt de l&#39;humidité qui sort-du mur : comment 
+en sortiroit-elle, puisqu&#39;il est plus froid ou
+aussi froid que la glace, &amp; que tout ce qu&#39;il a d&#39;humidité 
+au-dedans, n&#39;y peut-être que congelé?
+</p>
+<p>
+Les réseaux de glace qu&#39;on observe quelquefois
+aux vitres des fenêtres, sont encore une espece particuliere 
+de <i>givre</i>. Pendant la gelée, l&#39;air de la chambre 
+est chaud ou tempéré; la vitre est froide par l&#39;impression 
+de la gelée extérieure, &amp; la vapeur qui s&#39;y attache 
+du côté de la chambre s&#39;y congele subitement.
+Pendant le dégel, si l&#39;air de la chambre est encore
+très-froid, &amp; que l&#39;adoucissement vienne de l&#39;air extérieur,
+ce sera l&#39;humidité du dehors qui s&#39;attachera
+aux carreaux &amp; qui s&#39;y gelera. M. de Mairan, <i>diss.
+sur la glace, part. II. sect. 4. ch. vj. &amp; vij.</i>
+</p>
+<p>
+Dans toutes ces congelations on voit regner constamment 
+le même principe : des corps solides refroidis 
+à un certain degré, glacent les particules d&#39;eau qui
+s&#39;attachent à leur surface ; &amp; ces particules d&#39;eau,
+c&#39;est l&#39;air qui les fournit.
+</p>
+<p>
+Tout corps plus froid que l&#39;air qui l&#39;environne, lui
+communique en partie son excès de froideur : cet air
+ainsi refroidi en devient moins propre à soûtenir les
+vapeurs qui y sont suspendues ; il en laissera donc
+précipiter une partie ; &amp; si le corps d&#39;où nait le refroidissement,
+a la propriété d&#39;attirer l&#39;eau, il se couvrira 
+de molécules aqueuses qui se convertiront en
+glaçons à un degré de froid suffisant pour produire
+cet effet.
+</p>
+<p>
+Ceci s&#39;applique naturellement &amp; aux murs des
+maisons &amp; aux carreaux des vitres, qui dans les cas
+dont il est ici question, sont toûjours plus froids qu&#39;un 
+air immédiatement contigu. Si l&#39;on demande pourquoi 
+l&#39;air en se refroidissant abandonne une partie
+des vapeurs aqueuses qu&#39;il tenoit auparavant suspendues,
+nous ferons d&#39;abord remarquer que cette question 
+n&#39;est point particuliere au sujet que nous traitons,
+puisqu&#39;elle se présente nécessairement dans
+l&#39;explication de tout météore aqueux. Nous dirons
+ensuite, sans entrer dans un grand détail, que les
+particules d&#39;eau invisibles dans l&#39;atmosphere y sont
+dans l&#39;état d&#39;une véritable dissolution ; qu&#39;ainsi l&#39;élévation 
+&amp; la suspension des vapeurs dépendent presque 
+entierement de la vertu dissolvante de l&#39;air. Or
+cette activité dissolvante est d&#39;autant moindre, que
+l&#39;air a moins de chaleur ; ou, ce qui est la même
+chose, qu&#39;il est plus froid, selon la loi commune à
+tous les menstrues : il n&#39;est donc pas étonnant que
+l&#39;air refroidi laisse échapper une partie des vapeurs
+qu&#39;il soûtenoit auparavant ; c&#39;est ici une vraie précipitation 
+chimique. On dit communément que le
+froid en condensant l&#39;air condense aussi les vapeurs
+dont l&#39;air est chargé; mais on le dit sans le prouver,
+&amp; cette explication est moins naturelle que celle que
+nous venons de donner d&#39;après quelques physiciens
+modernes. Les observations de M. le Roi, de la société 
+royale des Sciences de Montpellier, ont répandu 
+un très-grand jour sur toute cette matiere. <i>Voyez
+l&#39;article</i> <sc><ref target="head:Évaporation" type="search">Évaporation</ref></sc>, composé par cet académicien.
+<i>Voyez aussi</i> <sc><ref target="head:Humidité" type="search">Humidité</ref> <i>&amp;</i> <ref target="head:Expansibilité" type="search">Expansibilité</ref></sc>.
+</p>
+<p>
+Les congelations qui s&#39;attachent aux vitres des fenêtres, <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+sont quelquefois très-remarquables par la singularité 
+des figures qu&#39;elles affectent. De petits brins
+de glace s&#39;arrangent de maniere qu&#39;il en résulte diverses 
+figures curvilignes semblables à la broderie : rien
+ne paroît si contraire à la direction rectiligne &amp; convergente,
+que les particules de glace suivent constamment 
+quand elles sont en pleine liberté. Aussi M.
+de Mairan avoue-t-il que ce phénomene l&#39;embarrassa
+long-tems : à la fin ayant fait réflexion qu&#39;il ne l&#39;avoit 
+vû que sur des vitres récemment nettoyées, il
+crut pouvoir conjecturer que les contours dont il
+s&#39;agit avoient été formés par la main même du vitrier,
+qui pour sécher les vitres qu&#39;il venoit de laver,
+y avoit passé une brosse avec du sable fin. Selon cette
+idée, les particules de glace se seroient logées dans
+les petits sillons que les grains de sable auroient gravés 
+par leur frottement. M. de Mairan pense aussi
+que l&#39;ouvrier qui fabrique le verre en remuant avec
+une baguette de fer la matiere vitreuse actuellement
+en fusion, fait naître par ce mouvement diverses figures 
+curvilignes qui subsistent après le refroidissement.
+On pourroit donc appercevoir le phénomene
+en question, indépendamment des circonstances que
+nous avons rapportées. Ceci demanderoit un examen 
+plus approfondi. M. de Mairan, <i>dissertation sur
+la glace</i>.
+</p>
+<p>
+L&#39;industrie des Physiciens s&#39;applique souvent avec
+succès à imiter la nature : on peut en toute saison
+faire naître du <i>givre</i> artificiel semblable à celui qui
+se forme naturellement. On mêle, pour cet effet, de
+la glace pilée ou de la neige avec du sel dans un
+vaisseau de verre mince bien essuyé en-dehors, &amp;
+que l&#39;on tient environ un quart-d&#39;heure dans un lieu
+frais : ce mélange produit un refroidissement considérable ; 
+&amp; on voit bien-tôt tous les dehors du vaisseau 
+se couvrir peu-à-peu d&#39;une espece de frimat ou
+de neige qui ne differe point du <i>givre</i> ou de la gelée
+blanche ordinaire. <i>Voyez dans les leçons de Physique de
+M.</i> Nollet, <i>tome III. p. 362.</i> tout le détail de cette
+expérience, dont nous avons par avance donné
+l&#39;explication.
+</p>
+<p>
+En finissant cet article, je serai observer qu&#39;à
+Montpellier où j&#39;écris, &amp; dans la plus grande partie
+du bas Languedoc, il est très-rare de voir du <i>givre ;</i>
+c&#39;est que le froid &amp; la gelée y sont rarement accompagnés 
+d&#39;humidité &amp; de brouillards : le pays est naturellement 
+sec, &amp; l&#39;air n&#39;y est humide jusqu&#39;à un
+certain degré, que quand les vents de sud &amp; de sud-est 
+chassent vers nous les vapeurs qui s&#39;élevent en
+abondance de la Méditerranée : or les vents de sud
+donnent en hyver le tems doux. Je n&#39;ai vû à Montpellier qu&#39;une seule fois des réseaux de glace sur les
+vitres des fenêtres ; c&#39;étoit pendant les fortes gelées
+de 1755: le thermometre de M. de Réaumur étoit à
+six ou sept degrés au-dessous de la congelation de
+l&#39;eau. <i>Article de M. <sc>de Ratte</sc>, secrétaire perpétuel
+de la société royale des Sciences de Montpellier</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

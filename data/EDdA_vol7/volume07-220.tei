@@ -1,0 +1,423 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27674" id="48:98:4" vol="7">
+<index type="head" value="Force vive, ou Force des Corps en mouvement" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Force vive</head>
+<p>
+<sc>Force vive</sc>, <i>ou</i> <sc>Force des Corps en mouvement</sc> ; c&#39;est un terme qui a été imaginé par M.
+Leibnitz, pour distinguer la <i>force</i> d&#39;un corps actuellement 
+en mouvement, d&#39;avec la <i>force</i> d&#39;un corps qui
+n&#39;a que la tendance au mouvement, sans se mouvoir
+en effet : ce qui a besoin d&#39;être expliqué plus au long.
+</p>
+<p>
+Supposons, dit M. Leibnitz, un corps pesant appuyé 
+sur un plan horisontal. Ce corps fait un effort
+pour descendre ; &amp; cet effort est continuellement arrêté 
+par la résistance du plan ; de sorte qu&#39;il se réduit
+à une simple tendance au mouvement. M. Leibnitz
+appelle cette <i>force</i> &amp; les autres de la même nature,
+<i>force mortes</i>.
+</p>
+<p>
+Imaginons au contraire, ajoûte le même philosophe,
+un corps pesant qui est jetté de bas en haut,
+&amp; qui en montant ralentit toûjours son mouvement
+à cause de l&#39;action de la pesanteur, jusqu&#39;à ce qu&#39;enfin 
+sa <i>force</i> soit totalement perdue, ce qui arrive
+lorsqu&#39;il est parvenu à la plus grande hauteur à laquelle 
+il peut monter ; il est visible que la <i>force</i> de
+ce corps se détruit par degrés &amp; se consume en s&#39;exerçant.
+M. Leibnitz appelle <i>force vive</i> cette derniere
+<i>force</i>, pour la distinguer de la premiere, qui naît &amp;
+meurt au même instant ; &amp; en général, il appelle
+<i>force vive</i> la <i>force</i> d&#39;un corps qui se meut d&#39;un mouvement 
+continuellement retardé &amp; rallenti par des
+obstacles, jusqu&#39;à ce qu&#39;enfin ce mouvement soit
+anéanti, après avoir été successivement diminué par
+des degrés insensibles. M. Leibnitz convient que la
+<i>force</i> morte est comme le produit de la masse par la
+vîtesse <i>virtuelle</i>, c&#39;est-à-dire avec laquelle le corps
+tend à se mouvoir, suivant l&#39;opinion commune.
+Ainsi pour que deux corps qui se choquent ou qui se
+tirent directement, se fassent équilibre, il faut que le
+produit de la masse par la vîtesse <i>virtuelle</i> soit le même
+de part &amp; d&#39;autre. Or en ce cas, la <i>force</i> de chacun de
+ces deux corps est une <i>force</i> morte, puisqu&#39;elle est artêtée <gap type="hyphenpb" />
+<pb n="7:113" facs="V7/ENC_7-113.jpeg" />
+<milestone unit="column" n="1" />
+tout-à-la-fois &amp; comme en son entier par une
+<i>force</i> contraire. Donc dans ce cas, le produit de la
+masse par la vîtesse doit représenter la <i>force</i>. Mais M.
+Leibnitz soûtient que la <i>force vive</i> doit se mesurer autrement,
+&amp; qu&#39;elle est comme le produit de la masse
+par le quarré de la vîtesse ; c&#39;est-à-dire qu&#39;un corps
+qui a une certaine <i>force</i> lorsqu&#39;il se meut avec une vîtesse 
+donnée, aura une <i>force</i> quadruple, s&#39;il se meut
+avec une vîtesse double ; une <i>force</i> neuf fois aussi
+grande, s&#39;il se meut avec une vîtesse triple, <i>&amp;c.</i> &amp;
+qu&#39;en général, si la vitesse est successivement 1,2,3,
+4, <i>&amp;c.</i> la <i>force</i> sera comme 1, 4, 9, 16, <i>&amp;c.</i> c&#39;est-à-dire comme les quarrés des nombre 1, 2, 3, 4: au
+lieu que si ce corps n&#39;étoit pas réellement en mouvement,
+mais tendoit à se mouvoir avec les vitesses 
+1, 2, 3, 4, <i>&amp;c.</i> sa <i>force</i> n&#39;étant alors qu&#39;une <i>force</i>
+morte, seroit comme 1, 2, 3, 4, <i>&amp;c.</i>
+</p>
+<p>
+Dans le système des adversaires des <i>force vives</i>, la <i>force</i> des corps en mouvement est toûjours
+proportionnelle à ce qu&#39;on appelle autrement <i>quantité de mouvement</i>, c&#39;est-à-dire au produit de la masse
+des corps par la vitesse ; au lieu que dans le système
+opposé, elle est le produit de la quantité de mouvement 
+par la vîtesse.
+</p>
+<p>
+Pour réduire cette question à son énoncé le
+plus simple, il s&#39;agit de savoir si la <i>force</i> d&#39;un corps
+qui a une certaine vitesse, devient double ou quadruple 
+quand sa vîtesse devient double. Tous les Méchaniciens avoient crû jusqu&#39;à M. Leibnitz qu&#39;elle étoit
+simplement double : ce grand philosophe soûtint le
+premier qu&#39;elle étoit quadruple ; &amp; il le prouvoit par
+le raisonnement suivant. La <i>force</i> d&#39;un corps ne se
+peut mesurer que par ses effets &amp; par les obstacles
+qu&#39;elle lui fait vaincre. Or si un corps pesant étant
+jetté de bas en haut avec une certaine vîtesse monte
+à la hauteur de quinze piés, il doit, de l&#39;aveu de
+tout le monde, monter à la hauteur de 60 piés, étant
+jetté de bas en haut avec une vîtesse double, <i>voyez</i>
+<sc><ref target="head:Accélération" type="search">Accélération</ref></sc>. Il fait donc dans ce dernier cas
+quatre fois plus d&#39;effet, &amp; surmonte quatre fois plus
+d&#39;obstacles : sa <i>force</i> est donc quadruple de la premiere.
+M. Jean Bernoulli, dans son <i>discours sur les lois de
+la communication du mouvement</i>, imprimé en 1726, &amp;
+joint au recueil général de ses oeuvres, a ajoûté à
+cette preuve de M. Leibnitz une grande quantité
+d&#39;autres preuves. Il a démontré qu&#39;un corps qui ferme 
+ou bande un ressort avec une certaine vîtesse,
+peut avec une vîtesse double, fermer quatre ressorts
+semblables au premier ; neuf avec une vîtesse triple,
+<i>&amp;c.</i> M. Bernoulli fortifie ce nouvel argument en faveur 
+des <i>forces vives</i>, par d&#39;autres observations très curieuses 
+&amp; très-importantes, dont nous aurons lieu
+de parler plus bas, à l&#39;<i>article</i> 
+<sc><ref target="head:Conservation des Forces vives" type="search">Conservation des Forces vives</ref></sc>. Cet ouvrage a été l&#39;époque d&#39;une
+espece de schisme entre les savans sur la mesure des
+<i>forces</i>.
+</p>
+<p>
+La principale réponse qu&#39;on a faite aux objections
+des partisans des <i>forces vives, voyez les mém. de l&#39;académie 
+de 1728</i>, consiste à réduire le mouvement retardé 
+en uniforme, &amp; à soûtenir qu&#39;en ce cas la <i>force</i>
+n&#39;est que comme la vitesse : on avoue qu&#39;un corps qui
+parcourt quinze piés de bas en haut, parcourra soixante 
+piés avec une vîtesse double : mais on dit qu&#39;il
+parcourra ces soixante piés dans un tems double
+du premier. Si son mouvement étoit uniforme, il parcourroit 
+dans ce même tems double cent vingt piés,
+<i>voyez</i> <sc><ref target="head:Accélération" type="search">Accélération</ref></sc>. Or dans le cas où il parcourroit 
+quinze piés d&#39;un mouvement retardé, il parcourroit 
+trente piés dans le même tems, &amp; soixante
+piés dans un tems double avec un mouvement uniforme : les effets sont donc ici comme 120 &amp; 60, c&#39;est-à-dire comme 2 &amp; 1; &amp; par conséquent la <i>force</i> dans le
+premier cas n&#39;est que double de l&#39;autre, &amp; non pas
+quadruple. Ainsi, conclut-on, un corps pesant parcourt<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+quatre fois autant d&#39;espace avec une vîtesse
+double, mais il le parcourt en un tems double ; &amp; cela
+équivaut à un effet double &amp; non pas quadruple. Il
+faut donc, dit-on, diviser l&#39;espace par le tems pour
+avoir l&#39;effet auquel la <i>force</i> est proportionnelle, &amp; non
+pas faire la <i>force</i> proportionnelle à l&#39;espace. Les défenseurs 
+des <i>forces vives</i> répondent à cela, que la nature 
+d&#39;une <i>force</i> plus grande est de durer plus longtems ; 
+&amp; qu&#39;ainsi il n&#39;est pas surprenant qu&#39;un corps
+pesant qui parcourt quatre fois autant d&#39;espace, le
+parcoure en un tems double : que l&#39;effet réel de la
+<i>force</i> est de faire parcourir quatre fois autant d&#39;espace:
+que le plus ou moins de tems n&#39;y fait rien ; parce que
+ce plus ou moins de tems vient du plus ou moins de
+grandeur de la <i>force ;</i> &amp; qu&#39;il n&#39;est point vrai de dire,
+comme il paroît résulter de la réponse de leurs adversaires,
+que la <i>force</i> soit d&#39;autant plus petite, toutes
+choses d&#39;ailleurs égales, que le tems est plus grand ;
+puisqu&#39;au contraire il est infiniment plus naturel de
+croire qu&#39;elle doit être d&#39;autant plus grande qu&#39;elle
+est plus long-tems à se consumer.
+</p>
+<p>
+Au reste, il est bon de remarquer que pour supposer 
+la <i>force</i> proportionnelle au quarré de la vîtesse, il
+n&#39;est pas nécessaire, selon les partisans des <i>forces vives</i>, que cette <i>force</i> se consume réellement &amp; actuellement 
+en s&#39;exerçant ; il suffit d&#39;imaginer qu&#39;elle
+puisse être consumée &amp; anéantie peu-à-peu par degrés 
+infiniment petits. Dans un corps mû uniformément,
+la <i>force</i> n&#39;en est pas moins proportionnelle au
+quarré de la vîtesse, selon ces Philosophes, quoique
+cette <i>force</i> demeure toûjours la même ; parce que
+si cette <i>force</i> s&#39;exerçoit contre des obstacles qui la consumassent 
+par degrés, son effet seroit alors comme le
+quarré de la vîtesse.
+</p>
+<p>
+Nous renvoyons nos lecteurs à ce qu&#39;on a écrit
+pour &amp; contre les <i>forces vives</i> dans les <i>mémoires de
+l&#39;acad. 1728</i>, dans ceux de Petersbourg, <i>tome I.</i> &amp;
+dans d&#39;autres ouvrages. Mais au lieu de rappeller ici
+tout ce qui a été dit sur cette question, il ne sera peut-être
+pas inutile d&#39;exposer succinctement les principes 
+qui peuvent servir à la résoudre.
+</p>
+<p>
+Quand on parle de la <i>force</i> des corps en mouvement,
+ou l&#39;on n&#39;attache point d&#39;idée nette au mot que
+l&#39;on prononce, ou l&#39;on ne peut entendre par-là en
+général que la propriété qu&#39;ont les corps qui se meuvent,
+de vaincre les obstacles qu&#39;ils rencontrent,
+ou de leur résister. Ce n&#39;est donc ni par l&#39;espace qu&#39;un
+corps parcourt uniformément, ni par le tems qu&#39;il employe 
+à le parcourir, ni enfin par la considération
+simple, unique, &amp; abstraite de sa masse &amp; de sa vîtesse,
+qu&#39;on doit estimer immédiatement la <i>force ;</i>
+c&#39;est uniquement par les obstacles qu&#39;un corps rencontre,
+&amp; par la résistance que lui font ces obstacles.
+Plus l&#39;obstacle qu&#39;un corps peut vaincre, ou auquel
+il peut résister, est considérable, plus on peut dire que
+sa <i>force</i> est grande ; pourvû que sans vouloir représenter 
+par ce mot un prétendu être qui réside dans le
+corps, on ne s&#39;en serve que comme d&#39;une maniere
+abrégée d&#39;exprimer un fait ; à-peu-près comme on
+dit, qu&#39;un corps a deux fois autant de vîtesse qu&#39;un
+autre, au lieu de dire qu&#39;il parcourt on tems égal deux
+fois autant d&#39;espace, sans prétendre pour cela que ce
+mot de <i>vîtesse</i> représente un être inhérent au corps.
+</p>
+<p>
+Ceci bien entendu, il est clair qu&#39;on peut opposer
+au mouvement d&#39;un corps trois sortes d&#39;obstacles ; ou
+des obstacles invincibles qui anéantissent tout-à-fait
+son mouvement, quel qu&#39;il puisse être ; ou des obstacles 
+qui n&#39;ayent précisément que la résistance nécessaire 
+pour anéantir le mouvement du corps, &amp; qui
+l&#39;anéantissent dans un instant, c&#39;est le cas de l&#39;équilibre ; 
+ou enfin des obstacles qui anéantissent le mouvement 
+peu-à-peu ; c&#39;est le cas du mouvement retardé.
+Comme les obstacles insurmontables anéantissent
+également toutes sortes de mouvemens, ils ne peuvent<gap type="hyphenpb" />
+<pb n="7:114" facs="V7/ENC_7-114.jpeg" />
+<milestone unit="column" n="1" />
+servir à faire connoître la <i>force:</i> ce n&#39;est donc
+que dans l&#39;équilibre, ou dans le mouvement retardé,
+qu&#39;on doit en chercher la mesure. Or tout le monde 
+convient qu&#39;il y a équilibre entre deux corps quand
+les produits de leurs masses par leurs vîtesses virtuelles,
+c&#39;est-à-dire par les vîtesses avec lesquelles ils tendent 
+à se mouvoir, sont égaux de part &amp; d&#39;autre.
+Donc dans l&#39;équilibre, le produit de la masse par la
+vîtesse, ou, ce qui est la même chose, la quantité de
+mouvement peut représenter la <i>force</i>. Tout le monde
+convient aussi que dans le mouvement retardé, le
+nombre des obstacles vaincus est comme le quarré
+de la vîtesse : en sorte qu&#39;un corps qui a fermé un ressort,
+par exemple, avec une certaine vîtesse, pourra
+avec une vîtesse double fermer, ou tout-à-la-fois ou
+successivement, non pas deux, mais quatre ressorts
+semblables au premier, neuf avec une vîtesse triple,
+&amp; ainsi du reste. D&#39;où les partisans des <i>forces vives</i>
+concluent que la <i>force</i> des corps qui se meuvent actuellement,
+est en général comme le produit de la
+masse par le quarré de la vîtesse. Au fond, quel inconvénient 
+pourroit-il y avoir à ce que la mesure des <i>forces</i> fût différente dans l&#39;équilibre &amp; dans le mouvement 
+retardé, puisque si on veut ne raisonner que d&#39;après 
+des idées claires, on doit n&#39;entendre par le mot
+de <i>force</i>, que l&#39;effet produit en surmontant l&#39;obstacle,
+ou en lui résistant? Il faut avoüer cependant, que
+l&#39;opinion de ceux qui regardent la <i>force</i> comme le produit 
+de la masse par la vîtesse, peut avoir lieu non seulement 
+dans le cas de l&#39;équilibre, mais aussi dans
+celui du mouvement retardé, si dans ce dernier cas on
+mesure la <i>force</i>, non par la quantité absolue des obstacles,
+mais par la somme des résistances de ces
+mêmes obstacles. Car cette somme de résistances est
+proportionnelle à la quantité de mouvement, puisque,
+de l&#39;aveu général, la quantité de mouvement
+que le corps perd à chaque instant, est proportionnelle 
+au produit de la résistance par la durée infiniment 
+petite de l&#39;instant ; &amp; que la somme de ces produits 
+est évidemment la résistance totale. Toute la difficulté 
+se réduit donc à savoir si on doit mesurer la <i>force</i> par la quantité absolue des obstacles, ou par la somme 
+de leurs résistances. Il me paroîtroit plus naturel de
+mesurer la <i>force</i> de cette derniere maniere : car un obstacle 
+n&#39;est tel qu&#39;en tant qu&#39;il résiste ; &amp; c&#39;est, à proprement 
+parler, la somme des résistances qui est
+l&#39;obstacle vaincu. D&#39;ailleurs en estimant ainsi la <i>force</i>,
+on a l&#39;avantage d&#39;avoir pour l&#39;équilibre &amp; pour le
+mouvement retardé une mesure commune : néanmoins,
+comme nous n&#39;avons d&#39;idée précise &amp; distincte 
+du mot de <i>force</i>, qu&#39;en restraignant ce terme à exprimer 
+un effet, je crois qu&#39;on doit laisser chacun le
+maître de se décider comme il voudra là-dessus ; &amp;
+toute la question ne peut plus consister que dans une
+discussion métaphysique très-futile, ou dans une dispute 
+de mots plus indigne encore d&#39;occuper des Philosophes.
+</p>
+<p>
+Ce que nous venons de dire sur la fameuse question 
+des <i>forces vives</i>, est tiré de la préface de notre
+<i>traité de Dynamique</i>, imprimé en 1743, dans le tems
+que cette question étoit encore fort agitée parmi les
+Savans. Il semble que les Géometres conviennent aujourd&#39;hui assez unanimement de ce que nous soûtenions 
+alors, que c&#39;est une dispute de mots : &amp; comment 
+n&#39;en seroit-ce pas une, puisque les deux partis
+sont d&#39;ailleurs entierement d&#39;accord sur les principes
+fondamentaux de l&#39;équilibre &amp; du mouvement? En
+effet, qu&#39;on propose un problème de Dynamique à
+résoudre à deux géometres habiles, dont l&#39;un soit adversaire 
+&amp; l&#39;autre partisan des <i>forces vives</i>, leurs solutions,
+si elles sont bonnes, s&#39;accorderont parfaitement 
+entre elles : la mesure des <i>forces</i> est donc une
+question aussi inutile à la Méchanique, que les questions 
+sur la nature de l&#39;étendue &amp; du mouvement:
+<milestone unit="column" n="2" />
+sur quoi on peut voir ce que nous avons dit <i>au mot</i>
+<sc><ref target="head:Elémens des Sciences" type="search">Elémens des Sciences</ref></sc>, <i>tome V. pag. 493. col. 1.
+&amp;</i> 2. Dans le mouvement d&#39;un corps nous ne voyons
+clairement que deux choses ; l&#39;espace parcouru, &amp;
+le tems qu&#39;il employe à le parcourir. C&#39;est de cette 
+seule idée qu&#39;il faut déduire tous les principes de
+la Méchanique, &amp; qu&#39;on peut en effet les déduire.
+<i>Voyez</i> <sc><ref target="head:Dynamique" type="search">Dynamique</ref></sc>.
+</p>
+<p>
+Une considération qu&#39;il ne faut pas négliger, &amp; qui
+prouve bien qu&#39;il ne s&#39;agit ici que d&#39;une question de
+nom toute pure ; c&#39;est que soit qu&#39;un corps ait une
+simple tendance au mouvement arrêtée par quelque
+obstacle, soit qu&#39;il se meuve d&#39;un mouvement uniforme 
+avec la vîtesse que cette tendance suppose,
+soit enfin que commençant à se mouvoir avec cette
+vîtesse, son mouvement soit anéanti peu-à-peu par
+quelque obstacle ; dans tous ces cas, l&#39;effet produit
+par le corps est différent : mais le corps en lui même
+ne reçoit rien de nouveau ; seulement son action est
+différemment appliquée. Ainsi quand on dit que la
+<i>force</i> d&#39;un corps est dans certains cas comme la vîtesse,
+dans d&#39;autres comme le quarré de la vîtesse ; on
+veut dire seulement que l&#39;effet dans certains cas est
+comme la vîtesse, dans d&#39;autres comme le quarré de
+cette vîtesse : encore doit on remarquer que le mot
+<i>effet</i> est ici lui-même un terme assez vague, &amp; qui a
+besoin d&#39;être défini avec d&#39;autant plus d&#39;exactitude,
+qu&#39;il a des sens différens dans chacun des trois cas
+dont nous venons de parler. Dans le premier, il signifie 
+l&#39;effort que le corps fait contre l&#39;obstacle ; dans
+le second, l&#39;espace parcouru dans un tems donné &amp;
+constant ; dans le troisieme, l&#39;espace parcouru jusqu&#39;à l&#39;extinction totale du mouvement, sans avoir
+d&#39;ailleurs aucun égard au tems que la <i>force</i> a mis à se
+consumer.
+</p>
+<p>
+On peut remarquer par tout ce que nous venons
+de dire, qu&#39;un même corps, selon que sa tendance au
+mouvement est différemment appliquée, produit différens 
+effets ; les uns proportionnels à sa vîtesse, les
+autres au quarré de sa vîtesse. Ainsi ce prétendu axiome,
+que <i>les effets sont proportionnels à leurs causes</i>, est
+au moins très-mal énoncé, puisque voilà une même
+cause qui produit différens effets. Il faudroit mettre
+cette restriction à la proposition dont il s&#39;agit, que <i>les
+effets sont proportionnels à leurs causes, agissantes de la
+même maniere</i>. Mais nous avons déjà fait voir <i>aux
+mots</i> <sc><ref target="head:Accélératrice" type="search">Accélératrice</ref> <i>&amp;</i> <ref target="head:Cause" type="search">Cause</ref></sc>, que ce prétendu
+axiome est un principe très-vague, très-mal exprimé,
+absolument inutile à la Méchanique, &amp; capable
+de conduire à bien des paralogismes, quand on n&#39;en
+fait pas usage avec précaution.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

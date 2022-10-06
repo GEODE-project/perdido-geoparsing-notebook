@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29619" id="53:113" vol="7">
+<index type="head" value="GIUSCHON, ou GIUS-CHAN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="s.m." />
+<head>GIUSCHON, ou GIUS-CHAN</head>
+<p>
+GIUSCHON, <i>ou</i> GIUS-CHAN, s. m. (<i>Hist. mod.</i>)
+nom qui en langue turque signifie <i>lecteur de l&#39;alcoran ;</i>
+il y en a trente dans les mosquées royales, qui lisent
+chacun par jour une des trente sections de l&#39;alcoran:
+en sorte que chaque mois on fait une lecture entiere
+de ce livre de la loi. <i>Gius</i> veut dire <i>portion</i> ou <i>section ;</i>
+&amp; <i>chon</i> ou <i>chan, lecteur ;</i> c&#39;est-à-dire <i>lecteur d&#39;une section</i>. Le but de cette lecture, selon eux, est de procurer 
+le repos des ames des Musulmans qui font quelque<gap type="hyphenpb" />
+<pb n="7:677" facs="V7/ENC_7-677.jpeg" />
+<milestone unit="column" n="1" />
+legs à cette intention : c&#39;est pourquoi les <i>gius-thous</i> lisent proche des sépulcres dans les mosquées,
+&amp; autres lieux de dévotion. Ricaut, <i>de l&#39;empire ottoman.
+</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

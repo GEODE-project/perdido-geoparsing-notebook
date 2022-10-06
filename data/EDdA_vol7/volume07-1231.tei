@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28685" id="51:50:1" vol="7">
+<index type="head" value="Gabian, (huile de)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Histoire des drogues" />
+<index type="normclass" value="Histoire des drogues" />
+<index type="englishclass" value="History of drugs" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Gabian</head>
+<p>
+<sc>Gabian</sc>, (<sc>huile de</sc>) <i>Histoire des drogues</i>, espece
+de petrole ; <i>voyez</i> <sc><ref target="head:Petrole" type="search">Petrole</ref></sc>. C&#39;est une huile noire,
+bitumineuse &amp; inflammable, de Languedoc ; la roche 
+dont elle découle se trouve au village de Gabian, près de Beziers. On vend ordinairement cette
+huile pour le petrole noir d&#39;Italie ; mais il s&#39;en faut
+bien qu&#39;elle approche de ses qualités. Elle n&#39;est ni si
+limpide, ni de la même couleur, ni d&#39;une odeur aussi
+supportable ; elle est au contraire d&#39;une odeur forte
+&amp; puante ; sa consistance tient le milieu entre l&#39;huile
+&amp; le petrole noir d&#39;Italie ; son goût est acre &amp; amer:
+cependant il s&#39;en consomme beaucoup en France,
+où sa vente fait un des objets du revenu de l&#39;évêque
+de Beziers à qui la roche appartient, &amp; qui peut en
+tirer parti toute l&#39;année. On contrefait l&#39;huile de
+<i>gabian</i> avec de l&#39;huile de térébenthine, du goudron,
+&amp; de la poix noire. <i>Voyez</i> <sc><ref target="head:Petrole" type="search">Petrole</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

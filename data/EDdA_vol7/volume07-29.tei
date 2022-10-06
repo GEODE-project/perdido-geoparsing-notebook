@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27482" id="48:15:2" vol="7">
+<index type="head" value="Foible" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="dans le Commerce" />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="NA" />
+<head>Foible</head>
+<p>
+<sc>Foible</sc>, dans le <i>Commerce</i>, se prend en différens
+sens, qui tous font entendre qu&#39;une marchandise,
+une denrée, ou toute autre chose qui entre dans le
+négoce, a quelque défaut ou n&#39;a pas la qualité requise.
+</p>
+<p>
+Ainsi l&#39;on dit du vin <i>foible</i>, un cheval <i>foible</i>, de la
+monnoie <i>foible</i>, un drap <i>foible</i>.
+</p>
+<p>
+Dans la balance romaine on nomme le <i>foible</i> le
+côté le plus éloigné du centre de la balance qui sert à
+peser les marchandises les moins pesantes ; il y a un
+des membres de cette balance que l&#39;on appelle la <i>garde-foible. Voyez</i> <sc><ref target="head:Balance" type="search">Balance</ref></sc>. On dit qu&#39;un poids est trop
+<i>foible</i>, lorsqu&#39;il n&#39;est pas juste &amp; qu&#39;il pese moins qu&#39;il
+ne doit.
+</p>
+<p>
+Lorsqu&#39;on dit qu&#39;une marchandise a été vendue
+le fort portant le <i>foible</i>, cela signifie qu&#39;elle a été vendue 
+toute sur un même pié, sans que l&#39;on ait fait distinction 
+de celle qui est supérieure d&#39;avec celle qui
+est inférieure en bonté ou en qualité. <i>Dictionn. de
+Commerce, de Trévoux, &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28336" id="50:109:31" vol="7">
+<index type="head" value="Freres Bohémiens, ou Freres de Bohème" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>Freres Bohémiens</head>
+<p>
+<sc>Freres Bohémiens</sc>, <i>ou</i> <sc>Freres de Bohème</sc>,
+nom qu&#39;ont pris dans le xv. siecle certains hussites,
+la plûpart gens de metier, qui en 1467 se séparerent 
+publiquement des calixtins.
+</p>
+<p>
+Ils mirent d&#39;abord à leur tête un nommé <i>Kelinski</i>,
+maître cordonnier, qui leur donna un corps de doctrine,
+qu&#39;on appella <i>les formes de Kelenski</i>. Ensuite
+ils se choisirent un pasteur nommé <i>Matthias Convalde</i>, simple laïc &amp; ignorant ; ils rejettoient la messe,
+la transubstantiation, la priere pour les morts,
+&amp; rebaptisoient tous ceux qui venoient à eux des
+autres églises. Ils reconnoissoient cependant sept sacremens,
+comme il paroît par leur confession de foi
+présentée en 1504 au roi Ladislas. Mais dans la suite
+<pb n="7:302" facs="V7/ENC_7-302.jpeg" />
+<milestone unit="column" n="1" />
+Luther qui vouloit les attirer à son parti, leur persuada 
+de réduire les sacremens à deux, le baptême
+&amp; la cêne. A consulter leurs autres écrits, il paroît
+qu&#39;ils admettoient la présence réelle de Jesus-Christ
+dans l&#39;eucharistie, quoiqu&#39;ils ne voulussent pas qu&#39;on
+l&#39;y adorât. Ils avoient aussi conservé beaucoup de
+pratiques de l&#39;église romaine, comme les fêtes, les
+jeûnes, le célibat des prêtres, <i>&amp;c.</i> ce qui n&#39;empêcha
+pas les Luthériens &amp; les Zuingliens de Pologne de
+les admettre à leur communion, lorsque les <i>freres
+Bohémiens</i> eurent été chassés d&#39;Allemagne par Charles V. contre lequel ils avoient favorisé les intérêts
+de l&#39;électeur de Saxe. Bossuet, <i>hist. des variat</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

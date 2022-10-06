@@ -1,0 +1,290 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28891" id="51:167" vol="7">
+<index type="head" value="GALLICISME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GALLICISME</head>
+<p>
+GALLICISME, s. m. (<i>Gramm.</i>) c&#39;est un idiotisme
+françois, c&#39;est-à-dire une façon de parler éloignée
+des lois générales du langage, &amp; exclusivement propre 
+à la langue françoise. <i>Voyez</i> <sc><ref target="head:Idiotisme" type="search">Idiotisme</ref></sc>.
+</p>
+<p>
+<blockquote> 
+« Lorsque dans un livre écrit en latin, dit le dictionnaire 
+de Trévoux sur ce mot, on trouve beaucoup 
+de phrases &amp; d&#39;expressions qui ne sont point
+du-tout latines, &amp; qui semblent tirées du langage
+françois, on juge que cet ouvrage a été fait par un
+françois ; on dit que cet ouvrage est plein de <i>gallicismes</i>».
+</blockquote>
+Cette maniere de parler semble indiquer
+que le mot <i>gallicisme</i> est le nom propre d&#39;un vice de
+langage, qui dans un autre idiome vient de l&#39;imitation
+gauche ou déplacée de quelque tour propre à la langue 
+françoise ; qu&#39;un <i>gallicisme</i> en un mot est une espece 
+de barbarisme. On ne sauroit croire combien
+cette opinion est commune, &amp; combien on la soupçonne 
+peu d&#39;être fausse : elle a même surpris la sagacité 
+de cet illustre écrivain, que la mort vient d&#39;enlever 
+à l&#39;Encyclopédie ; ce grammairien créateur à
+qui nous avons eu la témérité de succéder, sans jamais 
+oser nous flater de pouvoir le remplacer ; ce
+philosophe exact &amp; profond qui a porté la lumiere
+sur tous les objets qu&#39;il a traités, &amp; dont les vûes
+répandues abondamment dans les parties qu&#39;il a achevées,
+feront le principal mérite de celles que nous
+avons à remplir ; en un mot M. du Marsais lui-même<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+paroît n&#39;avoir pas été assez en garde contre l&#39;impression 
+de ce préjugé. Voici comme il s&#39;explique à
+l&#39;<i>article</i> <sc><ref target="head:Anglicisme" type="search">Anglicisme</ref></sc>.
+<blockquote> 
+« Si l&#39;on disoit en françois
+<i>foüetter dans de bonnes moeurs</i> (whip into good manners), au lieu de dire <i>fouetter afin de rendre meilleur</i>,
+ce seroit un anglicisme ».
+</blockquote>
+Ne semble-t-il pas que
+M. du Marsais veuille dire que le tour anglois n&#39;est
+anglicisme que quand il est transporté dans une autre 
+langue? C&#39;est une erreur manifeste, &amp; que ceux
+mêmes qui paroissent l&#39;insinuer ou la répandre ont
+sentie : la définition que les auteurs du dictionnaire
+de Trévoux ont donnée du mot <i>gallicisme</i>, &amp; celle
+que M. du Marsais a donnée du mot <i>anglicisme</i>, en
+fournissent la preuve.
+</p>
+<p>
+L&#39;essence du <i>gallicisme</i> consiste en effet à être un
+écart de langage exclusivement propre à la langue
+françoise. Le <i>gallicisme</i> en françois est à sa place, &amp;
+il y est ordinairement pour éviter un vice ; dans une
+autre langue, c&#39;est ou une locution empruntée qui
+prouve l&#39;affinité de cette langue avec la nôtre, ou
+une expression figurée que l&#39;imitation suggere à la
+passion ou au besoin, ou une expression vicieuse qui
+naît de l&#39;ignorance : mais par-tout &amp; dans tous les
+cas, le <i>gallicisme</i> est <i>gallicisme</i> dans le sens que nous
+lui avons assigné.
+</p>
+<p>
+<i>Chacun a son opinion</i>, c&#39;est un <i>gallicisme</i> où l&#39;usage
+autorise la transgression de la syntaxe de concordance,
+pour ne pas choquer l&#39;oreille par un <i>hiatus</i> desagréable.
+Le principe d&#39;identité exigeoit que l&#39;on dit
+<i>sa opinion ;</i> l&#39;oreille a voulu qu&#39;on fît entendre <i>sonn-opinion</i>, &amp; l&#39;oreille l&#39;a emporté <i>suavitatis causâ</i>.
+</p>
+<p>
+<i>Eiles sont toute déconcertées ;</i> c&#39;est un <i>gallicisme</i>, où
+l&#39;usage qui met le mot <i>toute</i> en concordance de genre
+avec le sujet <i>elles</i>, n&#39;a aucun égard à la concordance
+de nombre, pour éviter un contre-sens qui en seroit 
+la suite : <i>toute</i> est ici une sorte d&#39;adverbe qui
+modifie la signification de l&#39;adjectif <i>déconcertées</i>, comme 
+si l&#39;on disoit, <i>elles sont</i> totalement <i>déconcertées ;</i>
+au contraire <i>toutes</i> au pluriel seroit un adjectif collectif,
+qui détermineroit le sujet <i>elles</i>, comme si l&#39;on
+disoit, <i>il n&#39;y en a pas une seule qui ne soit déconcertée:</i> c&#39;est donc à la netteté de l&#39;expression que la
+loi de concordance est ici sacrifiée.
+</p>
+<p>
+<i>Vous avez beau dire</i>, c&#39;est un <i>gallicisme</i>, où l&#39;usage
+permet à l&#39;ellipse d&#39;altérer l&#39;intégrité physique de la
+phrase (<i>voyez</i> <sc><ref target="head:Ellipse" type="search">Ellipse</ref></sc>), pour y mettre le mérite
+de la brieveté. Un françois qui sait sa langue entend
+cette phrase aussi clairement &amp; avec plus de plaisir,
+que si on employoit l&#39;expression pleine, mais diffuse,
+lâche &amp; pesante, <i>vous avez</i> un <i>beau</i> sujet de <i>dire ;</i>
+c&#39;est ici une raison de briéveté.
+</p>
+<p>
+<i>Il est incroyable le nombre de vaisseaux qui partirent
+pour cette expédition ;</i> c&#39;est un <i>gallicisme</i>, où l&#39;usage
+consent que l&#39;on soustraye les parties de la phrase à
+l&#39;ordre qu&#39;il a lui-même fixé, pour donner à l&#39;ensemble 
+un sens accessoire que la construction ordinaire 
+ne pourroit y mettre. On auroit pu dire, <i>le
+nombre de vaisseaux qui partirent pour cette expédition
+est incroyable ;</i> mais il faut convenir qu&#39;au moyen de
+cet arrangement, aucune partie de la phrase n&#39;est
+plus saillante que les autres : au lieu que dans la premiere,
+le mot <i>incroyable</i> qui se présente à la tête,
+contre l&#39;usage ordinaire, paroît ne s&#39;y trouver que
+pour fixer davantage l&#39;attention de l&#39;esprit sur <i>le nombre 
+des vaisseaux</i>, &amp; pour en exagérer en quelque
+sorte la multitude ; raison d&#39;énergie.
+</p>
+<p>
+<i>Nous venons d&#39;arriver, nous allons partir ;</i> ce sont
+des <i>gallicismes</i>, où l&#39;usage est forcé de dépouiller de
+leur sens naturel les mots <i>nous venons, nous allons</i>,
+&amp; de les revêtir d&#39;un sens étranger, pour suppléer a
+des inflexions qu&#39;il n&#39;a pas autorisées dans les verbes
+<i>arriver</i> &amp; <i>partir</i>, non plus que dans aucun autre:
+<i>nous venons d&#39;arriver</i>, c&#39;est-à-dire <i>nous sommes arrivés 
+dans le moment ;</i> expression détournée d&#39;un pretérit<gap type="hyphenpb" />
+<pb n="7:451" facs="V7/ENC_7-451.jpeg" />
+<milestone unit="column" n="1" />
+récent, auquel l&#39;usage n&#39;en a point accordée
+d&#39;analogique : <i>nous allons partir</i>, c&#39;est-à-dire <i>nous
+partirons dans le moment ;</i> expression équivalente à
+un futur prochain, que l&#39;usage n&#39;a point établi. Ces
+sortes de locutions ont pour fondement la raison irrésistible 
+du besoin.
+</p>
+<p>
+Nous ne prétendons pas donner ici une liste exacte 
+de tous les <i>gallicismes ;</i> nous ne le devons pas,
+&amp; l&#39;exécution de ce projet ne seroit pas sans de grandes 
+difficultés.
+</p>
+<p>
+Il est évident en premier lieu qu&#39;un recueil de
+cette espece doit faire la matiere d&#39;un ouvrage exprès,
+dont l&#39;exécution supposeroit une patience à
+l&#39;épreuve des difficultés &amp; des longueurs, une connoissance 
+exacte &amp; réfléchie de notre langue &amp; de
+ses origines, &amp; une philosophie profonde &amp; lumineuse ; 
+mais dont le succès, en enrichissant notre
+grammaire d&#39;une branche qu&#39;on n&#39;a pas assez cultivée 
+jusqu&#39;à présent, assûreroit à l&#39;auteur la reconnoissance 
+de toute la nation, &amp; une réputation aussi
+durable que la langue même. Si cette matiere pouvoit 
+entrer dans un dictionnaire, elle ne pourroit
+convenir qu&#39;à celui de l&#39;académie, &amp; nullement à
+l&#39;Encyclopédie. On ne doit y trouver, en fait de
+Grammaire, que les principes généraux &amp; raisonnés 
+des langues, ou tout au plus les principes, qui,
+quoique propres à une langue, sont pourtant du district 
+de la Grammaire générale ; parce qu&#39;ils tiennent
+plus à la nature de la parole, qu&#39;au génie particulier
+de cette langue ; qu&#39;ils constituent ce génie plûtôt
+qu&#39;ils n&#39;en sont une suite ; qu&#39;ils prouvent la fécondité 
+de l&#39;art ; qu&#39;ils peuvent passer dans les langues
+possibles, &amp; qu&#39;ils étendent les vûes du grammairien.
+Mais tout détail qui concerne le pur matériel
+de quel que langue que ce soit, doit être exclu de ce
+Dictionnaire, dont le plan ne nous laisse que la liberté 
+de choisir des exemples dans telle langue que
+nous jugerons convenable. Nos scrupules à cet égard
+vont jusqu&#39;à nous persuader qu&#39;on auroit dû omettre
+l&#39;article <i>anglicisme</i>, qui ne devoit pas plus paroître
+ici que l&#39;article <i>arabisme</i> qu&#39;on n&#39;y a point mis, &amp;
+mille autres qui n&#39;y seront point. L&#39;article <i>idiotisme</i>
+qui les comprend tous, est le seul article encyclopédique 
+sur cet objet ; &amp; nous ne donnons celui-ci que
+pour céder aux instances qui nous en ont été faites.
+Les articles <i>A</i> (mot) <i>ad, anti, ce, di</i> ou <i>dis, elle,
+en</i> &amp; <i>dans, es, futur</i> (adj.) sont encore bien plus
+déplacés ; on ne devoit les trouver que dans une
+grammaire françoise ou dans un simple vocabulaire.
+</p>
+<p>
+Nous ajoûtons en second lieu, que le projet de
+détailler tous les <i>gallicismes</i> ne seroit pas sans de
+grandes difficultés. Le nombre en est prodigieux,
+&amp; plusieurs habiles gens ont remarqué que, si l&#39;on
+en excepte les ouvrages purement didactiques, plus
+un auteur a de goût, plus on trouve dans son style
+de ces irrégularités heureuses &amp; souvent pittoresques,
+qui ne paroissent violer les lois générales du
+langage que pour en atteindre plus sûrement le but.
+D&#39;ailleurs, à-moins de bien connoître les langues
+anciennes &amp; modernes où la nôtre a puisé, il arriveroit 
+souvent de prendre pour <i>gallicismes</i>, des expressions 
+qui seroient peut-être des <i>hellénismes, latinismes,
+celticismes, teutonismes</i>, ou <i>idiotismes</i> de
+quelque autre genre ; &amp; la précision philosophique
+que l&#39;on doit sur-tout envisager dans cet ouvrage,
+ne permet pas qu&#39;on s&#39;y expose à de pareilles méprises.
+(<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

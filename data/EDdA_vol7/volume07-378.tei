@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27832" id="49:73" vol="7">
+<index type="head" value="FORTRAITURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége, Maréch." />
+<index type="normclass" value="Maréchallerie | Manège" />
+<index type="englishclass" value="Farrier&#39;s art | Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="s.m." />
+<head>FORTRAITURE</head>
+<p>
+FORTRAITURE, s. m. (<i>Manége, Maréch.</i>) fatigue 
+outrée &amp; excessive, accompagnée d&#39;un grand
+échauffement. Cette maladie est très-fréquente dans
+les chevaux de riviere, sujets à des travaux violens,
+&amp; communément réduits à l&#39;avoine pour toute nourriture.
+</p>
+<p>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Elle s&#39;annonce par la contraction spasmodique des
+muscles de l&#39;abdomen, &amp; principalement du muscle
+grand oblique, dans le point où ses fibres charnues
+deviennent aponévrotiques. Le flanc de l&#39;animal
+rentre, pour ainsi dire, dans lui-même ; il est creux ;
+il est tendu ; son poil est hérissé &amp; lavé; &amp; sa fiente
+est dure, seche, noire, &amp; en quelque façon brûlée.
+</p>
+<p>
+La cure en est opérée par des lavemens émolliens
+&amp; par un régime doux &amp; modéré. Le son humecté,
+l&#39;eau blanche dans laquelle on mêle une décoction de
+guimauve, de mauve, de pariétaire &amp; de mercuriale,
+sont d&#39;une efficacité singuliere. Il est quelquefois 
+très-bon de pratiquer une legere saignée après
+avoir accordé quelques jours de repos à l&#39;animal ;
+&amp; lorsque l&#39;on s&#39;apperçoit qu&#39;il acquiert dos forces,
+on doit encore continuer l&#39;administration des lavemens,
+&amp; l&#39;on pourroit même oindre ses flancs avec
+parties égales de miel rosat &amp; d&#39;althaea, pour diminuer 
+l&#39;éréthisme, si les remedes prescrits ne suffisoient
+pas à cet effet, ce qui est infiniment rare. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

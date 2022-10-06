@@ -1,0 +1,193 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29317" id="52:127:2" vol="7">
+<index type="head" value="Génération" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="en Théologie" />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="NA" />
+<head>Génération</head>
+<p>
+<sc>Génération</sc>, <i>en Théologie</i>, se dit de la procession 
+ou de la maniere dont le Fils de Dieu procede
+du Pere éternel ; on l&#39;appelle <i>génération</i>, au lieu que
+la procession du S. Esprit retient le nom de <i>procession.
+Voyez</i> <sc><ref target="head:Trinité" type="search">Trinité</ref></sc>.
+</p>
+<p>
+On dit en ce sens, que le Pere produit son Verbe &amp;
+son Fils de toute éternité, par voie de <i>génération</i> ; expression 
+fondée sur plusieurs textes précis de l&#39;Ecriture, &amp; qui attache au mot <i>génération</i> une idée particuliere ; 
+elle signifie une <i>progression réelle</i> quant a l&#39;entendement 
+divin, qui produit un terme semblable à lui même 
+en nature ; parce qu&#39;en vertu de cette progression,
+le verbe devient semblable à celui dont il tire
+son origine ; ou, comme S. Paul l&#39;exprime, il est la
+figure ou l&#39;image de sa substance, c&#39;est à-dire de son
+être &amp; de sa nature.
+</p>
+<p>
+Les anciens peres grecs appelloient cette <i>génération</i> <foreign lang="greek">προβολὴν</foreign>, en latin <i>prolationem</i>, terme qui pris à
+la lettre signifie <i>l&#39;émanation d&#39;une chose de la substance
+d&#39;une autre chose</i>. Cette expression fut d&#39;abord rejettée 
+par l&#39;abus qu&#39;en faisoient les Valentiniens pour
+expliquer la prétendue <i>génération</i> de leurs cons.
+<i>Voyez</i> <sc><ref target="head:Éons" type="search">Éons</ref></sc>. Aussi voit-on qu Origene, S. Athanase, S. Cyrille, ne veulent pas qu&#39;on se serve de ce
+mot pour expliquer la <i>génération</i> éternelle du Verbe:
+mais depuis on fit réflexion que ce terme pris en
+lui-même &amp; en écartant les idées d&#39;imperfection
+qu&#39;emporte avec soi le mot <i>génération</i> applique aux
+hommes, n&#39;avoit rien de mauvais ; &amp; l&#39;on ne balança
+plus à s&#39;en servir, comme il paroit par Tertullien,
+dans son ouvrage contre Praxée, <i>chap. viij.</i> par S.
+Irénée, <i>liv. II. chap. xlviij.</i> &amp; par S. Gregoire de
+Nazianze, <i>orat. 35</i>.
+<pb n="7:559" facs="V7/ENC_7-559.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les scholastiques définissent la <i>génération, l&#39;origine
+d&#39;un être vivant d&#39;un autre être vivant par un principe
+conjoint en ressemblance de nature</i> ; définition dont tous
+les termes sont inintelligibles : voici celle qu&#39;en donne 
+M. Wuitasse, un des auteurs les plus estimés sur
+cette matiere.
+</p>
+<p>
+On l&#39;appelle, dit-il, <i>origine</i>, c&#39;est-à-dire <i>émanation, procession</i> ; nom commun à toute production.
+</p>
+<p>
+2°. <i>D&#39;un être vivant</i>, parce qu&#39;il n&#39;y a que ce qui
+est vivant qui soit proprement engendré.
+</p>
+<p>
+3°. <i>D&#39;un autre être vivant</i> ; parce qu&#39;il n&#39;y a point
+de <i>génération</i> proprement dite, si ce qui engendre
+n&#39;est vivant : ainsi, ajoûte cet auteur, on dit qu&#39;Adam fut formé du limon, mais non pas engendré du
+limon.
+</p>
+<p>
+4°. <i>Par un principe conjoint</i> ; ce qui signifie deux
+choses. 1°. Que cet être vivant d&#39;où procede un autre 
+être vivant, doit être le principe actif de la production 
+de celui-ci : par cette raison, Eve ne peut
+point être appellée proprement la <i>fille d&#39;Adam</i>, parce
+qu&#39;Adam ne concourut pas activement, mais seulement 
+passivement, à la formation d&#39;Eve : 2°. que cet
+être vivant qui produit un autre être vivant, doit lui
+être conjoint ou uni par quelque chose qui lui soit
+propre ; comme les peres, quand ils engendrent leurs
+enfans, leur communiquent quelque partie de leur
+substance.
+</p>
+<p>
+5°. <i>En ressemblance de nature ;</i> termes qui emportent 
+encore deux idées ; 1°. que la <i>génération</i> exige
+une communion de nature au-moins spécifique ; 2°.
+que l&#39;action qu&#39;on nomme <i>génération</i> doit par elle-même 
+tendre à cette ressemblance de nature ; car le
+propre de la <i>génération</i> est de produire quelque chose
+de semblable à celui qui engendre.
+</p>
+<p>
+De-là ils concluent que la procession du Verbe
+doit seule être appellée <i>génération</i>, &amp; non <i>procession</i>  ;
+&amp; que la différence qui se trouve entre cette <i>génération</i> &amp; la procession du S. Esprit vient de ce que le
+Verbe procede du Pere par l&#39;entendement, qui est
+une faculté affirmative, c&#39;est-à-dire qui produit un
+terme semblable à elle-même en nature ; au lieu que
+le S. Esprit procede du Pere &amp; du Fils par la volonté,
+qui n&#39;est pas une faculté assimilative ; ce que S. Augustin a exprimé ainsi, <i>lib. IX. de trinit. c. xij. mens
+notitiam suam gignit cum se novit ; &amp; amorem suum non
+gignit cum se amat</i>. Cependant il faut convenir que
+les anciens peres n&#39;ont pas poussé si loin que les théologiens 
+leurs recherches sur ces matieres mystérieuses ; 
+&amp; S. Augustin lui-même avoue qu&#39;il ignore comment 
+on doit distinguer la <i>génération</i> du fils de la
+procession du S. Esprit, &amp; que sa pénétration succombe 
+sous cette difficulté: <i>distinguere inter illam generationem 
+&amp; hanc processionem nescio, non valeo, non
+sufficio. lib. II. contrà Maxim. c. xjv. n°. 1</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

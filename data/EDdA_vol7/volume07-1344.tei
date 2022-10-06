@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28798" id="51:98:4" vol="7">
+<index type="head" value="Gaine ou Gaigne" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Potier d&#39;étain" />
+<index type="normclass" value="Potier d&#39;étain" />
+<index type="englishclass" value="Pewterer" />
+<index type="generatedclass" value="Potier d&#39;étain" />
+<index type="pos" value="NA" />
+<head>Gaine</head>
+<p>
+<sc>* Gaine</sc> <i>ou</i> <sc>Gaigne</sc>, <i>terme de Potier d&#39;étain</i>, c&#39;est
+un trou quarré qui traverse les empreintes ou calibres 
+qui servent à tourner ; on pratique à ces outils
+de bois un trou rond avec une tarriere ou un gros
+vilbrequin, qui les traverse d&#39;un bout à l&#39;autre ; on
+y place le mandrin de l&#39;arbre du tour ; &amp; après avoir
+fait plusieurs autres petits trous autour du gros, qui
+y communiquent, &amp; placé le mandrin, on jette de
+l&#39;étain fondu sous la forme d&#39;un trou quarré, juste
+au mandrin ; on a soin de marquer un côté du mandrin 
+sur la <i>gaîne</i> avant de le retirer, afin de remettre
+l&#39;empreinte dans la même situation où étoit le mandrin 
+lorsque la <i>gaîne</i> a été faite, &amp; que toutes les fois
+qu&#39;on aura besoin de remonter l&#39;empreinte sur le
+tour, elle se trouve toûjours ronde. Lorsque la <i>gaîne</i>
+est jettée, on met l&#39;empreinte ou calibre sur le tour,
+&amp; avec des crochets on lui donne telle forme qu&#39;il
+lui faut. <i>Voyez</i> <sc><ref target="head:Tourner l&#39;Etain" type="search">Tourner l&#39;Etain</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,160 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28800" id="51:99:1" vol="7">
+<index type="head" value="Gaînier" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Arts méchan." />
+<index type="normclass" value="Art méchanique" />
+<index type="englishclass" value="Mechanical arts" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="s.m." />
+<head>Gaînier</head>
+<p>
+<sc>Gaînier</sc>, s. m. (<i>Arts méchan.</i>) artisan qui fait des
+gaînes : les autres ouvrages que font les maîtres <i>Gaîniers</i>, sont des boîtes, des écritoires, des tubes de lunettes 
+d&#39;approche, des coffres, &amp; cassettes, des fourreaux 
+d&#39;épée &amp; de pistolets, &amp; autres semblables ouvrages 
+couverts de chagrin, de maroquin, de veau,
+&amp; de mouton : ils travaillent aussi à faire des flacons,
+des bouteilles, &amp; autres pareils ouvrages de cuir
+bouilli.
+</p>
+<p>
+Les <i>Gaîniers</i> de la ville de Paris sont qualifiés par
+leurs statuts <i>maîtres Gaîniers, Fourreliers, &amp; ouvriers
+en cuir bouilli</i>.
+</p>
+<p>
+Ils sont érigés en corps de jurande, dès l&#39;an 1323 ;
+mais ce n&#39;est proprement que par les reglemens du
+21 Septembre 1560, donnés sous le regne de François II. que leur communauté a reçu sa derniere perfection.
+</p>
+<p>
+Suivant leurs statuts, aucun ne peut être reçû maître 
+<i>Gaînier</i>, s&#39;il n&#39;a été apprenti pendant six ans chez
+<milestone unit="column" n="2" />
+un maître de Paris, &amp; fait chef-d&#39;oeuvre tel qu&#39;il lui
+a été prescrit par les jurés de la communauté.
+</p>
+<p>
+Ceux qui ont appris le métier de <i>Gainier</i> dans
+quelque ville de France, ne peuvent être reçûs maitres 
+à Paris, s&#39;ils n&#39;ont auparavant servi les maitres
+de cette ville l&#39;espace de quatre années, &amp; sait chef d&#39;oeuvre, de même que les autres apprentis.
+</p>
+<p>
+Les fils de maîtres sont exempts du chef-d&#39;oeuvre,
+&amp; peuvent être admis à la maîtrise après une legere
+expérience, pourvû qu&#39;ils ayent appris leur metier
+pendant six ans chez leur pere ou autre maitre de la
+communauté.
+</p>
+<p>
+Il est défendu à tout maître <i>gaînier</i>, sous peine de
+confiscation &amp; d&#39;amende, d&#39;employer aucuns vieux
+cuirs dans leurs ouvrages.
+</p>
+<p>
+Chaque maître ne peut tenir qu&#39;une seule boutique
+ouverte.
+</p>
+<p>
+Tous ceux qui se font recevoir à la maîtrise, doivent 
+faire choix d&#39;une marque pour marquer leurs ouvrages ; 
+l&#39;empreinte de laquelle doit être mise sur la
+table de plomb gardée dans la chambre du procureur
+du roi du châtelet.
+</p>
+<p>
+Les veuves des maîtres <i>Gaîniers</i> peuvent pendant
+leur viduité, tenir boutique ouverte, &amp; joüir des
+priviléges, suivant les ordonnances, à la reserve de
+faire des apprentis.
+</p>
+<p>
+Enfin les marchandises foraines concernant l&#39;état
+de <i>Gaînier</i>, qui viennent à Paris pour y être vendues,
+doivent être vûes &amp; visitées, lors de leur arrivée,
+par les jurés <i>Gainiers</i>, &amp; ensuite lotties entre les
+maîtres. <i>Dictionn. &amp; réglem. du Comm</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28834" id="51:129" vol="7">
+<index type="head" value="GALÉASSE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GALÉASSE</head>
+<p>
+GALÉASSE, s. f. (<i>Marine.</i>) c&#39;est un bâtiment qui
+égale les plus grands vaisseaux en longueur &amp; en
+largeur ; mais il n&#39;est pas, à beaucoup près, aussi haut
+de bord, allant à voile &amp; à rame, &amp; ressemblant asséz 
+à la galere, dont il differe cependant considérablement ; 
+car la <i>galéasse</i> a trois mâts, qui sont un artimon,
+un mestre, &amp; un trinquet, qui sont fixes,
+c&#39;est-à-dire ne peuvent se desarborer ; au lieu que la
+galere n&#39;en a que deux &amp; point d&#39;artimon, &amp; qu&#39;elle
+peut les mettre bas quand il est nécesiaire.
+</p>
+<p>
+La <i>galéasse</i> a trente-deux bancs &amp; 6 à 7 forçats,
+à chacun ; l&#39;équipage est de 1000 à 1200 hommes ;
+elle a trois batteries à l&#39;avant ; la plus basse est de
+deux pieces de 36 livres de balle ; la seconde, de
+deux pieces de 24; &amp; la troisieme, de deux pieces
+de 18 livres.
+</p>
+<p>
+Il y a deux batteries à poupe, chacune de trois
+pieces par bande, &amp; du calibre de 18 liv. de balle.
+</p>
+<p>
+Ce bâtiment n&#39;est guerre d&#39;usage ; les Vénitiens en
+avoient autrefois ; &amp; elles ne pouvoient être commandées 
+que par un noble, qui s&#39;obligeoit par serment 
+&amp; répondoit sur sa tête, de ne pas refuser le
+combat contre vingt-cinq galeres ennemies. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

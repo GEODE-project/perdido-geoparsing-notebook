@@ -1,0 +1,297 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28877" id="51:156" vol="7">
+<index type="head" value="GALIOTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GALIOTE</head>
+<p>
+GALIOTE, s. f. (<i>Marine.</i>) petit bâtiment de charge,
+ou qui sert à porter des ordres. Il y a aussi des
+<i>galiotes</i> à bombes qui sont principalement en usage
+en France, qui n&#39;ont que deux coursives, &amp; dont les
+mortiers sont établis sur un fardage de cables qui s&#39;étend 
+jusqu&#39;au fond de cale.
+</p>
+<p>
+La <i>galiote</i> va à voile &amp; à rame ; elle n&#39;a qu&#39;un mât,
+&amp; pour l&#39;ordinaire 16 ou 20 bancs à chaque bande
+avec un seul homme à chaque rame ; elle est montée 
+de deux ou trois pierriers ; les matelots y sont soldats,
+&amp; prennent le fusil en quittant la rame : on ne
+se sert guere de cette sorte de bâtiment que dans la
+mer Méditerranée.
+</p>
+<p>
+Les Hollandois donnent le nom de <i>galiote</i> à des
+bâtimens de moyenne grandeur, mâtés en heu : leur
+longueur ordinaire est de 85 à 90 piés, quoiqu&#39;on en
+construise de moindres &amp; de beaucoup plus grands:
+ils s&#39;en servent pour faire de grandes traversées, &amp;
+même jusqu&#39;aux Indes.
+</p>
+<p>
+Pour donner une idée de cette sorte de bâtiment,
+voici le devis d&#39;une <i>galiote</i> ordinaire, tiré des Hollandois.
+</p>
+<p>
+<i>Devis d&#39;une galiote de 85 pies de long de l&#39;étrave à
+l&#39;étambord, 21 piés de bau, &amp; 11 piés de creux</i>. L&#39;étrave avoit un pié d&#39;épaisseur &amp; 10 piés de quête : l&#39;étambord 
+avoit la même épaisseur &amp; un pié de quête.
+La quille avoit 14 pouces quarré. Le franc bordage
+jusqu&#39;à la premiere préceinte étoit de 3 planches de
+Prusse ou de Pologne. Le plafond avoit 15 piés &amp; un
+quart de large, &amp; s&#39;élevoit de 2 pouc. vers les côtés.
+</p>
+<p>
+Les varangues avoient 8 pouces &amp; demi d&#39;épais,
+&amp; les genoux leur étoient proportionnés, mais ils n&#39;avoient 
+que demi-pié d&#39;épaisseur par le haut contre le
+franc bordage. La carlinge avoit 2 piés de large &amp; 9
+pouces d&#39;épais ; les alonges avoient un demi-pié d&#39;épaisseur 
+par le bas, &amp; 4 pouces &amp; demi par le haut.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La vraige d&#39;empâture avoit 4 pouces d&#39;épais, &amp;
+13 ou 14 pouces de large, &amp; le reste du ferrage du
+fond depuis le fond jusqu&#39;à la ferre banquiere, étoit
+de planches de 2 pouces d&#39;épaisseur. La serre banquiere 
+avoit 4 pouces d&#39;épais ; les baux 1 pié d&#39;épais
+&amp; onze, douze, ou treize pouces de large ; ils étoient
+posés à 3 piés &amp; demi l&#39;un de l&#39;autre. Chaque bau
+avoit 2 courbatons posés de haut en-bas. Il y avoit
+les baux proche du mât, 2 par-devant &amp; 2 par-derriere ; &amp; chacun avoit le courbaton : 2 posés de haut
+en-bas, &amp; 2 en-travers ; les serre-gouttieres avoient
+4 pouces d&#39;épais.
+</p>
+<p>
+Il y avoit des barrotins de planches de chêne de 2
+pouces, en travers sous le tillac. L&#39;écoutille avoit 7
+piés de long &amp; 6 pouces de large. Les deux plus basses 
+préceintes avoient 5 pouces d&#39;épais, &amp; la fourrure 
+entre-deux avoit un pié de large ; la plus haute
+préceinte avoit 9 pouces de large &amp; 3 pouces d&#39;épais,
+&amp; la fourrure qui étoit dessous un pié de large ; &amp;
+celle qui étoit au-dessus 9 pouces ; la lisse de vibord
+avoit 6 pouces de large &amp; 3 pouces d&#39;épais, &amp; terminoit 
+les côtés du vaisseau par le haut, ainsi que
+c&#39;est l&#39;ordinaire dans les <i>galiotes</i>.
+</p>
+<p>
+Le mât tomboit un peu plus vers l&#39;arriere, qu&#39;il ne
+fait dans les flûtes, pour empêcher que les voiles
+qui sont à de tels bâtimens, &amp; qui donnent aux mâts
+beaucoup de poids en-avant, ne le fit trop pancher
+de ce côté-là: ce qui pourroit faire tomber le vaisseau
+sur leng.
+</p>
+<p>
+La chambre de proue s&#39;étendoit à 11 piés de l&#39;étrave ; 
+&amp; la chambre de poupe à 11 piés &amp; demi de
+l&#39;étambord, descendant de 3 piés &amp; demi au-dessous
+du tillac, &amp; s&#39;élevant de 2 piés &amp; demi au-dessus.
+Le bâtiment avoit 5 piés de relevement à l&#39;avant,
+&amp; 8 piés &amp; demi à l&#39;arriere.
+</p>
+<p>
+Le petit mât d&#39;artimon que le bâtiment portoit,
+étoit posé justement devant la place du timonnier, ou
+2 piés &amp; demi devant la chambre de poupe. Le grand
+mât étoit placé à un tiers de la longueur du vaisseau
+à prendre de l&#39;avant.
+</p>
+<p>
+Le gouvernail avoit par le bas la même largeur
+que l&#39;étambord, mais par le haut il étoit plus étroit ;
+la barre passoit au-dessus de la petite voûte qui couvroit 
+la chambre de l&#39;arriere, en sorte qu&#39;on la pouvoit 
+tourner &amp; faire jouer hors le bord, &amp; ce qui a
+fait aussi donner à ces sortes de bâtimens le nom de
+<i>tourne hors le bord</i>.
+</p>
+<p>
+Quelquefois on leur donne à l&#39;arriere la figure
+d&#39;une flûte, &amp; alors on les appelle <i>bots ;</i> c&#39;est au haut
+de leur avant qu&#39;ils ont leur plus grande largeur ; les
+dernieres planches du haut de l&#39;arriere avancent un
+peu hors le vaisseau, de même que dans les sémales,
+afin que le gouvernail se puisse arrêter plus facilement,
+&amp; qu&#39;il ne s&#39;éleve pas en-haut ; auquel effet
+on y met aussi une planche de travers, qui sert encore 
+de banc pour s&#39;asseoir.
+</p>
+<p>
+On bâtit une autre sorte de petits vaisseaux en
+Hollande, qui ont la forme de <i>galiotes</i> par le bas, &amp;
+celle de pinasses par le haut, avec un demi-pont ;
+l&#39;on s&#39;en sert pour des voyages de long cours. Ils
+ont un véristant &amp; une grande écoutille qui s&#39;emboîte ; 
+mais ils n&#39;ont point de dunette ; la gardiennerie 
+qui est suspendue &amp; fort bas d&#39;étage, sert de fonte 
+aux poudres &amp; au biscuit ; &amp; l&#39;on y ménage encore 
+assez d&#39;autres commodités pour les provisions, par
+rapport à sa grandeur. La chambre de proue sert de
+cuisine, &amp; il y a des cabannes &amp; des aisemens de même 
+qu&#39;à l&#39;arriere dans la chambre du capitaine, où
+il y a aussi une petite cheminée.
+</p>
+<p>
+Les <i>galiotes</i> destinees pour servir d&#39;yachts d&#39;avis,
+&amp; non pour porter des cargaisons, comme sont celles 
+ci-dessus mentionnées, sont un peu différentes
+des autres dans la forme. Ce sont des bâtimens ras à
+l&#39;eau, &amp; foibles de bois par le haut ; le plafond s&#39;éleve<gap type="hyphenpb" />
+<pb n="7:448" facs="V7/ENC_7-448.jpeg" />
+<milestone unit="column" n="1" />
+moins vers les côtés, &amp; elles sont plus aiguës
+que les autres <i>galiotes</i> &amp; ont moins de largeur, mais
+leurs mâts sont plus épais, &amp; portent plus de voiles.
+</p>
+<p>
+Celles dont on se sert pour la pêche sont aussi d&#39;une
+forme différente des autres ; elles sont plus petites,
+&amp; le fond de cale est séparé en divers retranchemens
+pour y mettre le poisson.
+</p>
+<p>
+Pour construire une <i>galiotte</i> telle qu&#39;elle est décrite 
+dans le devis ci-dessus, il faut douze bonnes planches 
+pour le fond, 50 varangues, 12 guerlands &amp;
+barres d&#39;arcasses, 16 baux pour le pont, 2 vaigres
+d&#39;empâture, 100 alonges, 32 courbatons, 3 planches 
+pour le franc-bord, 2 préceintes, une autre préceinte 
+avec la fermure de sabord &amp; la lisse de vibord,
+100 alonges de revers.
+</p>
+<p>
+Le mât d&#39;une <i>galiote</i> de 85 à 88 piés, c&#39;est-à-dire
+le grand mât, doit avoir 58 à 60 piés de long, &amp; le
+tout doit être de 18 à 20 piés &amp; 20 palmes de diametre.
+Le mât de hune ou perroquet doit avoir 14
+piés de hauteur au-dessus du ton du grand mât, &amp;
+10 palmes de diametre ; la vergue qui est à corne
+doit avoir 44 à 46 piés de long, &amp; 10 à 11 palmes
+de diametre. Le beaupré doit avoir 46 à 48 piés de
+long &amp; 12 palmes de diametre. Le mât d&#39;artimon
+doit avoir 36 à 40 piés de haut au-dessus du pont,
+&amp; 53 à 55 piés à fond de cale, &amp; 9 pouces de diametre.
+La vergue de misene &amp; de la fogue de misene
+doit avoir 40 à 42 piés.
+</p>
+<p>
+Le grand étai doit avoir 12 brasses de long &amp; 9
+pouces &amp; demi d&#39;épaisseur. L&#39;étai du mât de hune
+14 brasses de long à 6 pouces d&#39;épaisseur. Chaque
+couple de haubans 18 brasses de long, &amp; six pouces
+d&#39;épaisseur. Le prudour &amp; la caliorne, 45 brasses de
+long &amp; 5 pouces d&#39;épaisseur. Les prudours du bras,
+8 brasses &amp; demi de long &amp; 3 pouces un quart d&#39;épaisseur.
+Les garauts du bras 26 brasses de long. La
+drisse de misene 37 brasses de long. La drisse de la
+fogue de beaupré 37 brasses. Les deux galaubans 21
+brasses de long &amp; 6 pouces d&#39;épaisseur. La corde qui
+descend comme étai du haut du mât à l&#39;étrave, 15
+brasses de long &amp; 3 pouces d&#39;épaisseur. La grande
+écoute 20 brasses de long &amp; 3 pouces &amp; demi d&#39;épaisseur.
+L&#39;écoute d&#39;artimon 10 brasses de long. Les galaubans 
+de perroquet d&#39;artimon 15 brasses de long.
+Les gros cables chacun 100 brasses de long &amp; 9 pouces 
+&amp; demi d&#39;épaisseur. Une haussiere 120 brasses de
+long &amp; 3 pouces d&#39;épaisseur. Le palan &amp; son teaugue 
+11 brasses de long, &amp; le garau 24 brasses.
+</p>
+<p>
+Les <i>galiotes</i> &amp; les bours sont ordinairement montés 
+de 5 ou 6 hommes, &amp; quelquefois plus, quelquefois 
+moins, selon leur grandeur. C&#39;est le maître ou
+patron qui y commande, &amp; qui prend soin de tout
+ce qui regarde la charge du bâtiment. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

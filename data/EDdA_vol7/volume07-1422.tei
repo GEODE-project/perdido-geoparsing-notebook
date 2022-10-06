@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28876" id="51:155" vol="7">
+<index type="head" value="GALIONS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m.pl." />
+<head>GALIONS</head>
+<p>
+GALIONS, s. m. pl. (<i>Marine.</i>) on donne ce nom
+à de grands vaisseaux dont les Espagnols se servent
+pour le voyage des Indes occidentales. Ils ont 3 ou 4
+ponts, &amp; sont fort élevés. Autrefois on appelloit
+aussi en France <i>galions</i>, de grands vaisseaux de guerre,
+mais cela n&#39;est plus d&#39;usage.
+</p>
+<p>
+<i>Les galions:</i> on entend par cette expression un
+<i>nombre de vaisseaux</i> queles Espagnols envoyent à Carthagene &amp; à Portobello pour rassembler toutes les
+richesses du Pérou &amp; de la Terre-ferme, d&#39;où ils reviennent 
+en Espagne par la route de la Havane. Les
+<i>galions</i> sont ordinairement huit ou dix vaisseaux de
+guerre, qui servent de convoi à douze ou quinze
+vaisseaux marchands. Ils vont en droiture à Carthagene, ou se tient la premiere foire, de-là à Portobelo, autre foire la plus celebre &amp; la plus riche de l&#39;univers,
+reviennent de nouveau à Carthagene, où il
+y a une troisieme foire. Ils vont ensuite à la Havane, dans l&#39;île de Cuba, d&#39;où ils reviennent en Espagne. De <i>galions</i>, on a fait les mots de <i>galionistes</i>
+&amp; <i>flotistes</i>. Les <i>galionistes</i> sont les marchands qui font
+le commerce des Indes espagnoles par les <i>galions ;</i>
+&amp; les <i>flotistes</i>, ceux qui le font par la flotte. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

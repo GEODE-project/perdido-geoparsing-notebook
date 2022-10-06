@@ -1,0 +1,194 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29026" id="51:235:33" vol="7">
+<index type="head" value="Garde seigneuriale" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde seigneuriale</head>
+<p>
+<sc>Garde seigneuriale</sc>, en Normandie, est la
+<i>garde</i> noble des enfans mineurs, qui appartient aux
+seigneurs particuliers de fiefs, à cause des fiefs qui
+relevent immédiatement d&#39;eux. L&#39;origine de ce droit
+est la même que celle de la <i>garde</i> royale &amp; de la <i>garde</i>
+noble en général.
+</p>
+<p>
+Cette <i>garde</i> ne s&#39;étend point sur les autres fiefs &amp;
+biens des mineurs ; quand même ces biens seroient
+aussi situés en Normandie.
+</p>
+<p>
+Le seigneur qui a la <i>garde</i> fait les fruits siens, sans
+être obligé d&#39;en rendre compte, ni de payer aucun
+reliquat.
+</p>
+<p>
+Le devoir du seigneur est de veiller sur la personne
+&amp; sur les intérêts du mineur ; de ne rien faire à son
+préjudice ; enfin d&#39;en user comme un bon pere de famille : autrement, si le seigneur abusoit de la <i>garde</i>,
+on pourroit l&#39;en faire décheoir.
+</p>
+<p>
+Il est libre au seigneur, quoiqu&#39;il ait accepté la <i>garde</i>, d&#39;y renoncer dans la suite, s&#39;il reconnoît qu&#39;elle
+lui soit plus onéreuse que profitable.
+</p>
+<p>
+Le seigneur n&#39;est obligé à la nourriture, &amp; n&#39;entretient 
+des mineurs sur les biens compris en la <i>garde</i>,
+qu&#39;au cas qu&#39;ils n&#39;ayent point d&#39;ailleurs de revenu
+suffisant.
+<pb n="7:491" facs="V7/ENC_7-491.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On donne un tuteur au mineur pour les biens qui
+n&#39;entrent pas dans la <i>garde</i>.
+</p>
+<p>
+Mais si le tuteur &amp; les parens du mineur abandonnent 
+au seigneur la joüissance de tous les biens des
+mineurs, alors il est obligé d&#39;entretenir le mineur selon 
+son état &amp; eu égard à la valeur des biens, de
+contribuer au mariage des filles, de conserver le fief
+en son intégrité, &amp; d&#39;acquitter les arrerages des rentes 
+foncieres hypothécaires &amp; charges réelles.
+</p>
+<p>
+S&#39;il y a plusieurs seigneurs ayant la <i>garde</i> noble à
+cause de divers fiefs appartenans au mineur, chacun 
+contribue aux charges de la <i>garde</i> pour sa quote-part ; 
+&amp; si les seigneurs y manquoient, les tuteurs
+ou parens pourroient les y contraindre par justice.
+</p>
+<p>
+Le seigneur qui a la <i>garde</i> doit entretenir les biens
+comme un bon pere de famille.
+</p>
+<p>
+Si pendant que le mineur est en la <i>garde</i> de son seigneur,
+ceux qui tiennent quelque fief noble de ce mineur 
+tombent aussi en <i>garde</i>, elle appartient au mineur,
+&amp; non à son seigneur ; à la différence de la
+<i>garde</i> royale, qui s&#39;étend sur les arriere fiefs.
+</p>
+<p>
+La <i>garde seigneuriale</i> finit à l&#39;âge de vingt ans accomplis,
+tant pour les mâles que pour les filles ; &amp;
+pour la faire cesser, il suffit de faire signifier au seigneur 
+le passé-âge, c&#39;est-à-dire que le mineur est devenu 
+majeur.
+</p>
+<p>
+Elle peut finir plûtôt à l&#39;égard des filles par leur
+mariage, pourvû qu&#39;il soit fait du consentement du
+seigneur gardien &amp; des parens &amp; amis.
+</p>
+<p>
+Si la fille qui est sortie de <i>garde</i> épouse un mineur,
+elle retombe en <i>garde</i>.
+</p>
+<p>
+La femme mariée ne retombe point en <i>garde</i> encore
+que son mari meure avant qu&#39;elle ait l&#39;âge de 20 ans.
+</p>
+<p>
+Celui qui sort de <i>garde</i> ne doit point de relief à son
+seigneur.
+</p>
+<p>
+La fille aînée mariée, qui n&#39;a pas encore vingt ans
+accomplis, ne tire point ses soeurs puînées hors de
+<i>garde</i> jusqu&#39;à ce qu&#39;elles soient mariées ou parvenues
+à l&#39;âge de vingt ans ; sauf à la fille aînée à demander 
+partage au tuteur de ses soeurs. <i>Voyez les commentateurs 
+de la coûtume de Normandie, sur les art.
+214. &amp; suiv.</i> jusque &amp; compris l&#39;<i>art. 234; &amp; ci-devant</i> <sc><ref target="head:Garde royale" type="search">Garde royale</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

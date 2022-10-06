@@ -1,0 +1,399 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28851" id="51:142" vol="7">
+<index type="head" value="GALERIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Archit. &amp; Hist." />
+<index type="normclass" value="Architecture | Histoire" />
+<index type="englishclass" value="Architecture | History" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="s.f." />
+<head>GALERIE</head>
+<p>
+GALERIE, s. f. (<i>Archit. &amp; Hist.</i>) c&#39;est en Architecture un lieu beaucoup plus long que large, vouté
+ou plafonné, &amp; fermé de croisées. Ducange dérive
+ce mot de <i>galeria</i>, qui signifie un <i>appartement propre 
+&amp; bien orné</i>. Du-moins, c&#39;est de nos jours l&#39;endroit 
+d&#39;un palais, que l&#39;en s&#39;attache le plus à rendre
+magnifique, &amp; que l&#39;on embellit davantage, surtout
+des richesses des beaux Arts ; comme de-tableaux,
+de statues, de figures de bronze, de marbre, d&#39;antiques,
+<i>&amp;c.</i>
+</p>
+<p>
+Il y a dans l&#39;Europe des <i>galeries</i> fameuses par les
+seules peintures qui y sont adhérentes, &amp; alors on
+designe ces ouvrages pittoresques, par la <i>galerie</i>
+même qui en est décorée. Ainsi l&#39;on dit, la <i>galerie</i>
+du palais Farnese, la <i>galerie</i> du Luxembourg, la <i>galerie</i> de Versailles, la <i>galerie</i> de Saint-Cloud. Tout le
+monde les connoît, nous n&#39;en parlerons donc pas
+ici ; mais avec le secours de M. l&#39;abbé Fraguier,
+(<i>mém. de l&#39;acad. des inscript. tome IX.</i>) nous pouvons 
+entretenir le lecteur de la <i>galerie</i> de Verrès, qui
+valoit bien celles dont on réimprime si souvent les
+descriptions. Le rival d&#39;Hortensius signala sa jeunesse
+à en tracer le tableau, lorsqu&#39;il accusa &amp; convainquit 
+le possesseur de cette <i>galerie</i>, de n&#39;être qu&#39;un
+voleur public. Le goût curieux de ce voleur public
+embrassoit les plus rares productions de l&#39;art &amp; de la
+nature ; il n&#39;y avoit rien de trop beau pour lui ; sa
+maison étoit superbe, ses cours &amp; ses jardins n&#39;offroient 
+que marbre &amp; statues : mais ce qu&#39;il avoit
+rassemble de plus précieux par ses rapines, remplissoit 
+sa <i>galerie</i>. Jouissons du spectacle qu&#39;en donne
+Ciceron ; il entre dans un des objets les plus importans 
+&amp; les plus curieux de ce Dictionnaire, la connoissance 
+des ouvrages de l&#39;antiquité.
+</p>
+<p>
+La statue de Jupiter étoit une des plus apparentes 
+qu&#39;on vit dans la <i>galerie</i> de Verrès ; elle représentoit<gap type="hyphenpb" />
+<pb n="7:442" facs="V7/ENC_7-442.jpeg" />
+<milestone unit="column" n="1" />
+Jupiter surnommé <foreign lang="greek">ΟΥΡΙΟΣ</foreign>, le dispensateur des
+vents favorables. On ne connoissoit dans tout le
+monde que trois statues de Jupiter avec ce titre ;
+l&#39;une étoit au Capitole, où Quintus Flaminius l&#39;avoit 
+consacrée des dépouilles de la Macédoine ; l&#39;autre 
+dans un ancien temple bâti à l&#39;endroit le plus
+étroit du Bosphore de Thrace ; la troisieme avoit été
+apportée de Syracuse dans la <i>galerie</i> de Verrès.
+</p>
+<p>
+La Diane de Ségeste n&#39;étoit pas moins remarquable ; 
+c&#39;étoit une grande &amp; belle statue de bronze. La
+déesse étoit voilée à la maniere des divinités du premier 
+ordre, <i>pedes vestis defluxit ad imos ;</i> mais dans
+cette grande taille, &amp; avec une draperie si majestueuse,
+on retrouvoit l&#39;air &amp; la legereté de la jeunesse.
+Elle portoit le carquois attaché sur l&#39;épaule ;
+de la main droite elle tenoit son arc, &amp; de la main
+gauche elle avoit un flambeau allumé. L&#39;antiquité
+chargeoit de symboles les figures de ses dieux, pour
+en exprimer tous les différens attributs ; en quoi elle
+n&#39;a peut-être pas eu toûjours assez d&#39;égard au tout-ensemble.
+Cette statue de toute antiquité, avoit appartenu 
+à Ségeste, ville de Sicile fondée par Enée ;
+elle en étoit en même tems un des plus beaux ornemens,
+&amp; la plus célebre dévotion ; les Carthaginois
+l&#39;avoient enlevée. Quelques siecles s&#39;étant écoulés,
+le jeune Scipion vainqueur de Carthage la rendit
+aux Ségestains : on la remit sur sa base avec une
+inscription en grands caracteres, qui marquoit &amp; le
+bienfait &amp; la piété de Scipion ; Verrès peu scrupuleux 
+se l&#39;appropria.
+</p>
+<p>
+Deux statues de Cerès qu&#39;on voyoit ensuite,
+étoient en ce genre l&#39;élite de celles de tous les temples 
+de la Sicile, où Verrès avoit commandé pendant 
+trois ans ; l&#39;une venoit de Catane, l&#39;autre
+d&#39;Enna, deux villes qui gravoient sur leurs monnoies 
+la tête de Cerès. Celle de Catane avoit de
+tous tems été révérée dans l&#39;obscurité d&#39;un lieu saint,
+où les hommes n&#39;entroient point ; les femmes &amp; les
+filles étoient chargées d&#39;y célebrer les mysteres de
+la déesse : la Ceres d&#39;Enna étoit encore plus remarquable.
+</p>
+<p>
+Mercure chez Verrès n&#39;étoit que trop à sa place ;
+c&#39;étoit celui-là même à qui les Tyndaritains offroient 
+tous les ans des sacrifices reglés : la statue
+étoit d&#39;un très-grand prix ; Scipion vainqueur de
+l&#39;Afrique l&#39;avoit rendue au culte de ses peuples ;
+Verres sans victoires, la leur enleva.
+</p>
+<p>
+L&#39;Apollon étoit revenu de même à ceux d&#39;Agrigente ; il étoit dans leur temple d&#39;Esculape. Myron,
+ce fameux statuaire si connu, y avoit épuisé tout son
+art ; &amp; pour rendre son nom éternel, il l&#39;avoit écrit
+sur l&#39;une des cuisses en petits caracteres d&#39;argent. On
+sent combien le nom de Myron, mis contre la défense 
+dans quelque pli de cette statue, en rehaussoit
+le prix dans la fantaisie des curieux.
+</p>
+<p>
+L&#39;Hercule de Verrès étoit de la main du même artiste ; 
+son Cupidon étoit de la main de Praxitele ; &amp;
+Pline le met au rang des chefs-d&#39;oeuvre de ce grand
+maitre.
+</p>
+<p>
+Auprès de ces divinités, on voyoit les Canéphores, qui avoient tant de part dans la pompe des fêtes 
+athéniennes. On appelloit <i>Canéphores</i> à Athenes,
+comme on l&#39;a dit sous ce mot, de jeunes filles, qui
+parées superbement, marchoient dans les processions 
+solemnelles, portant sur leurs têtes &amp; soûtenant 
+avec leurs mains des corbeilles remplies de
+choses destinées au culte des dieux ; telles on voyoit
+celles-ci : c&#39;étoient des figures de bronze, dont la
+beauté répondoit à l&#39;habileté &amp; à la réputation de
+Polyclete.
+</p>
+<p>
+Je glisse sur l&#39;Aristée, le Péon, &amp; le Ténès, autres
+statues très précieuses qui se trouvoient dans cette
+riche <i>galerie ;</i> parce qu&#39;au milieu des dieux de toute
+espece qui la décoroient, on admiroit encore davantage<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+la Sapho de bronze de Silanion : rien de plus
+fini que cette statue ; c&#39;étoit non un poëte, mais la
+Poésie ; non une femme passionnée, mais la passion
+en personne : Verrès l&#39;avoit tirée du prytanée de
+Syracuse.
+</p>
+<p>
+Quantité d&#39;autres statues que l&#39;orateur de Rome
+n&#39;a pas décrites, ornoient la <i>galerie</i> de Verrès ; Scio,
+Samos, Perge, la Sicile, le monde entier, pour ainsi
+dire, avoient servi tous ses goûts. Cicéron pretend
+que la curiosité de Verrès avoit plus coûté de dieux
+à Syracuse, que la victoire de Marcellus n&#39;y avoit
+coûté d&#39;hommes.
+</p>
+<p>
+Un morceau unique que j&#39;oubliois de citer, &amp; que
+Verrès ne montroit qu&#39;à ses amis, c&#39;étoit la statue du
+joüeur de lyre d&#39;Aspende, dont la maniere de toucher
+cet instrument avoit fondé un proverbe parmi les
+Grecs.
+</p>
+<p>
+Entre les raretés de goût d&#39;un autre genre, que
+Verrès avoit en grand nombre dans sa <i>galerie</i>, on
+pourroit mettre plusieurs petites victoires, telles que
+nous les voyons dans les médailles sur la main des
+divinités : il y en avoit de toutes sortes d&#39;endroits ;
+celles-ci avoient été tirées des statues de Ceres ;
+celles-là d&#39;un ancien temple de Junon bâti sur le promontoire 
+de Malte.
+</p>
+<p>
+Un grand vase d&#39;argent en forme de cruche, <i>hydria</i>, ornoit une magnifique table de bois de citre:
+ce grand vase étoit de la façon de Boëthus, carthaginois,
+dont Pline nous a transmis la gloire, avec la
+liste de ses principaux ouvrages. A côté de ce vase,
+on en voyoit un autre encore plus admirable ; c&#39;étoit 
+une seule pierre précieuse creusée avec une
+adresse &amp; un travail prodigieux : cette piece venoit
+d&#39;Orient ; elle étoit tombée entre les mains de Verrès, avec le riche candélabre dont nous parlerons
+dans la suite.
+</p>
+<p>
+Il n&#39;y avoit point alors en Sicile, disent les historiens,
+de maison un peu accommodée des biens de la
+fortune, qui n&#39;eût son argenterie pour servir au culte
+des dieux domestiques ; elle consistoit en patenes de
+toutes grandeurs, soit pour les offrandes soit pour
+les libations, &amp; en cassolettes à faire fumer l&#39;encens.
+Tout cela prouvoit que les Arts dans la Sicile avoient
+été portés à un haut degré de perfection. Verres aidé
+de deux grecs qui s&#39;étoient donnés à lui, l&#39;un peintre,
+l&#39;autre statuaire, avoit choisi parmi tant de richesses,
+ce qui convenoit le mieux pour l&#39;ornement
+de sa <i>galerie</i>. Ici c&#39;étoit des coupes de formes ovales,
+<i>scaphia</i>, chargées de figures en relief, &amp; de pieces de
+rapport ; là c&#39;étoit des vases de Corinthe poses sur
+des tables de marbre, soûtenues sur trois piés, à la
+maniere du sacré trépié de Delphes, &amp; qu&#39;on appelloit 
+pour cela <i>mensae delphicae</i>.
+</p>
+<p>
+Nous ne parlerons pas de plusieurs autres raretés
+de cette <i>galerie</i>, qui ne laissoient pas que de l&#39;embellir ; 
+comme de cuirasses, de casques, de grandes urnes 
+d&#39;airain de Corinthe ciselé; des dents d&#39;elephans
+d&#39;une grandeur incroyable, sur lesquelles on lisoit
+en caracteres puniques, que le roi Massinissa les avoit
+renvoyées à Malte au temple de Junon, d&#39;où le général 
+de la flotte les avoit enlevées : on y trouvoit
+jusqu&#39;à l&#39;équipage du cheval qui avoit appartenu
+au roi Hiéron. A côté de cet équipage, deux petits
+chevaux d&#39;argent placés sur deux pié-d&#39;estaux, offroient 
+un nouveau spectacle aux yeux des connoisseurs.
+</p>
+<p>
+Quoique les vases d&#39;or que Verrès avoit semés dans
+sa <i>galerie</i> en très-grand nombre, fussent modernes, il
+avoit sçû les rendre &amp; plus beaux &amp; aussi respectables 
+que l&#39;antique ; il avoit établi à Syracuse, dans
+l&#39;ancien palais des rois, un grand attelier d&#39;orfevrerie,
+où pendant huit mois, tous les ouvriers qui ont
+rapport à cet art, soit pour dessiner les vases, soit
+pour y ajoûter des ornemens, travailloient continuellement<gap type="hyphenpb" />
+<pb n="7:443" facs="V7/ENC_7-443.jpeg" />
+<milestone unit="column" n="1" />
+pour Verrès, &amp; ne travailloient qu&#39;en or.
+</p>
+<p>
+Toutes les tapisseries de cette <i>galerie</i> étoient rehaussées 
+de ce métal dont la mode venoit d&#39;Attalus,
+roi de Pergame ; le reste des meubles y répondoit : la
+pourpre de Tyr y éclatoit de tous côtés. Verres pendant 
+le tems de son gouvernement, avoit établi dans
+les meilleures villes de Sicile, &amp; à Malte, des manufactures 
+ou l&#39;on ne travailloit qu&#39;à ses meubles : toutes 
+les laines étoient teintes en pourpre. Il fournissoit 
+la matiere, dit Cicéron ; la façon ne lui coûtoit
+rien.
+</p>
+<p>
+Outre quantité de tableaux très-précieux qu&#39;il
+avoit tirés du temple de Minerve à Syracuse, pour
+sa <i>galerie</i>, il y avoit placé vingt-sept portraits des
+anciens rois de Sicile, rangés par ordre, &amp; qu&#39;il avoit
+aussi tirés du même temple.
+</p>
+<p>
+La porte de la <i>galerie</i> étoit richement historiée ;
+Verres dépouil a pour son usage celle du temple de
+Minerve à Syracuse, la plus belle porte qui fut à aucun 
+temple : plusieurs auteurs grecs en ont parlé
+dans leurs écrits ; &amp; tous conviennent que c&#39;étoit
+une merveille de l&#39;art. Elle étoit décorée d&#39;une maniere 
+également convenable &amp; au temple de la déesse 
+des Beaux-Arts, &amp; à une <i>galerie</i> qui renfermoit
+ce que les Beaux Arts avoient produit. Verres avoit
+enlevé des portes du même temple, de gros clous
+dont les têtes étoient d&#39;or, <i>bullas aureas</i>, &amp; en avoit
+orné la porte de sa <i>galerie</i>.
+</p>
+<p>
+A côte de la porte, on trouvoit deux très-grandes
+statues, que Verrèsavoit enlevées du temple de Junon
+à Samos ; elles pouvoient être d&#39;un Theodore de Samos, habile peintre &amp; statuaire, dont paile Pline,
+&amp; dont Platon fait mention en quelque endroit.
+</p>
+<p>
+Enfin la <i>galerie</i> étoit éclairée par plusieurs lustres
+de bronze, mais sur-tout par un candelabre merveilleux,
+que deux princes d&#39;Orient avoient destiné au
+temple de Jupiter Capitolin. Comme ce temple avoit
+été brûlé par le feu du ciel, &amp; que Q. Catulus le faisoit 
+réédifier plus superbe qu&#39;auparavant, les deux
+princes voulurent attendre qu&#39;il fût achevé de bâtir,
+pour y consacrer leur offrande ; un des deux, qui
+étoit charge du candelabre, passa par la Sicile pour
+regagner la Comagene. Verres commandoit en Sicile : il vit le candelabre ; il l&#39;admira, il l&#39;emprunta, il
+le garda : c&#39;étoit un present digne &amp; des princes qui
+le vouloient offrir au temple de Jupiter, &amp; de ce
+temple même, le lieu de toute la terre le plus auguste,
+si l&#39;on en excepte le temple du vrai Dieu.
+</p>
+<p>
+Telles étoient les richesses de la <i>galerie</i> de Verrès.
+Cependant quelque curieuse, quelque magnifique
+qu&#39;elle fût, ce n&#39;étoit ni la seule, ni vraissemblablement 
+la plus belle qu&#39;il y eût à Rome. Personne n&#39;ignore 
+que dès que les conquêtes des Romains eurent
+exposé à leurs yeux ce que l&#39;Asie, la Macédoine,
+l&#39;Achaïe, la Béotie, la Sicile, &amp; Corinthe, avoient
+de beaux ouvrages de l&#39;art ; ce spectacle leur inspira
+l&#39;amour passionné de ce genre de magnificence : ce
+fut à qui en orneroit le plus ses maisons à la ville &amp;
+à la campagne. Le moyen le moins criminel qu&#39;ils
+mirent en oeuvre, fut d&#39;acheter à vil prix des choses
+qui n&#39;avoient point de prix : le gouvernement des
+pays conquis leur en offroit l&#39;occasion ; l&#39;avidité des
+uns enlevoit tout, sans qu&#39;il fût question de payement ; 
+les autres plus mesurés dans leurs démarches,
+sous des prétextes plausibles, empruntoient des villes 
+ou des particuliers ce que ces particuliers &amp; ces
+villes possédoient de plus exquis ; &amp; si quelqu&#39;un
+avoit le soin de le leur restituer, la plûpart se l&#39;approprioient.
+</p>
+<p>
+Mais enfin quoique les Romains ayent orné leurs
+palais de tous les précieux ouvrages de la Grece, ils
+n&#39;eurent en partage ni le goût ni la noble émulation
+qui avoit animé les Grecs ; ils ne s&#39;appliquerent point
+comme eux à l&#39;etude des mêmes Arts dont ils admiroient<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les productions ; &amp; nous le prouverons invinciblement 
+quand il s&#39;agira de parler des Grecs, de
+leurs talens, &amp; de leur génie. <i>Voyez ci-après l&#39;article</i>
+<sc><ref target="head:Grecs" type="search">Grecs</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,196 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27889" id="49:101" vol="7">
+<index type="head" value="FOUDRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. &amp; Physiq." />
+<index type="normclass" value="Grammaire | Physique" />
+<index type="englishclass" value="Grammar | Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>FOUDRE</head>
+<p>
+FOUDRE, (<i>Gramm. &amp; Physiq.</i>) matiere enflammée 
+qui sort d&#39;un nuage avec bruit &amp; violence. Ce
+mot est masculin &amp; féminin : on dit <i>frappe de la foudre,
+&amp; le foudre vengeur</i>. Cependant on ne l&#39;employe
+guere qu&#39;au feminin dans les livres de physique : on
+dit <i>la matiere de la foudre. Foudre</i> au pluriel n&#39;est guere
+que masculin : on dit <i>les foudres vengeurs</i>, plûtot que
+<i>les foudres vengeresses</i>.
+</p>
+<p>
+<i>Foudre</i> differe de <i>tonnerre</i> 1°. en ce que le premier
+ne se dit guere que de la matiere enflammée qui s&#39;échappe 
+des nues ; au lieu que le second se dit aussi
+de cette même matiere, en tant qu&#39;elle roule avec
+bruit au-dedans des nuages : ainsi on dit <i>j&#39;ai entendu
+plusieurs coups de tonnerre</i>, plûtôt que <i>j&#39;ai entendu
+plusieurs coups de soudre</i>. 2°. <i>Foudre</i> s&#39;employe souvent 
+au figuré, &amp; <i>tonnerre</i> toûjours au propre : on
+dit <i>un foudre de guerre, un foudre d&#39;éloquence, les
+foudres de l&#39;église</i>, &amp;c.
+</p>
+<p>
+La matiere de la <i>foudre</i> &amp; celle du tonnerre sont
+donc la même chose : ainsi nous renvoyons <i>au mot</i>
+<sc><ref target="head:Tonnerre" type="search">Tonnerre</ref></sc> ce que nous avons à dire sur ce sujet.
+Nous nous contenterons de faire ici quelques observations.
+</p>
+<p>
+La matiere de la <i>foudre</i> paroît être la même que
+celle de l&#39;électricité; sur quoi <i>voyez les artie</i>. 
+<sc><ref target="head:Coup-foudroyant" type="search">Coup-foudroyant</ref>, <ref target="head:Electricité" type="search">Electricité</ref>, <ref target="head:Feu electri-" type="search">Feu electri-</ref></sc>
+<pb n="7:214" facs="V7/ENC_7-214.jpeg" />
+<milestone unit="column" n="1" />
+<sc><ref target="head:que" type="search">que</ref></sc>, &amp; sur-tout les <i>mots</i> <sc><ref target="head:Tonnerre" type="search">Tonnerre</ref> <i>&amp;</i> <ref target="head:Météore" type="search">Météore</ref></sc>.
+</p>
+<p>
+La <i>foudre</i> est beaucoup plus fréquente dans les endroits 
+où le terrein exhale plus de soufre ; au lieu
+qu&#39;elle est rare dans les pays humides, froids, &amp;
+couverts d&#39;eau. Le terrein n&#39;est pas sulphureux en
+Egypte, ni en Ethiopie : aussi la <i>foudre</i> est-elle rare
+dans ces pays. Les anciens disoient comme par une
+espece de proverbe : les Ethiopiens ne craignent
+point la <i>foudre</i>, ni les habitans de la Gaule les
+tremblemens de terre. <i>Voyez</i> Plutarque, <i>traité de la
+superstition, chap. iij</i>. Mais l&#39;Italie est un pays très rempli 
+de soufre ; ce qui fait qu&#39;il est très-sujet au
+tonnerre : c&#39;est aussi pour cela qu&#39;il tonne toute l&#39;année 
+à la Jamaïque.
+</p>
+<p>
+L&#39;utilité de la <i>foudre</i> est 1°. de rafraichir l&#39;athmosphere ; 
+en effet, on observe presque toùjours qu&#39;il
+fait plus froid après qu&#39;il a tonné: 2°. de purger l&#39;air
+d&#39;une infinite d&#39;exhalaisons nuisibles, &amp; peut-être
+même de les rendre utiles en les atténuant. On prétend 
+que la pluie qui tombe lorsqu&#39;il tonne, est plus
+propre qu&#39;une autre à féconder les terres.
+</p>
+<p>
+Selon les observations de M. Musschenbroek, il
+tonne à Utrecht quinze fois par an année moyenne ;
+il a remarqué aussi que la direction &amp; la nature du
+vent ne fait en géneral rien à la <i>foudre</i>, mais qu&#39;il
+tonne plus communément par un vent de sud. La <i>foudre</i> est plus fréquente l&#39;éte que l&#39;hyver, parce que
+les exhalaisons qui s&#39;élevent de la terre par la chaleur,
+sont en plus grand nombre. Selon le même
+physicien, la matiere des globes de feu est la même
+que celle de la <i>foudre. Voyez</i> <sc><ref target="head:Globe de Feu" type="search">Globe de Feu</ref></sc>. Il fait
+quelquefois des éclairs &amp; du tonnerre en tems serein ; 
+ce que M. Musschenbroek attribue aux exhalaisons 
+qui s&#39;enflamment avant d&#39;être montees assez
+haut pour produire des nuages. Une grande pluie
+diminue la <i>foudre</i>, ou même la fait cesser, parce que
+cette pluie emporte avec elle une grande partie de
+la matiere qui contribue à former la <i>foudre</i>. Quelquefois la nuée est si épaisse, qu&#39;elle empéche de voir
+l&#39;eclair, quoiqu&#39;on entende la <i>foudre</i>.
+</p>
+<p>
+Pour juger de la distance de la <i>foudre, voyez</i>
+<sc><ref target="head:Éclair" type="search">Éclair</ref></sc>.
+</p>
+<p>
+Plusieurs liqueurs fermentent par l&#39;action de la <i>foudre ;</i> d&#39;autres cessent de fermenter, comme le vin &amp;
+la bierre ; d&#39;autres se gâtent, comme le lait. Ces phénomenes 
+si simples sont très-difficiles à expliquer, &amp;
+nous ne l&#39;entreprendrons point.
+</p>
+<p>
+On peut detourner la <i>foudre</i> en tirant des coups de
+canon ; le son des cloches est un moyen bien moins
+sûr ; il produit quelquefois plus de mal que de bien,
+il fait crever la nue au-dessus de l&#39;endroit oû l&#39;on
+sonne, au lieu de la detourner. <i>Voyez l&#39;hist. de l&#39;acad.
+de 1718</i>.
+</p>
+<p>
+Les Priscillianistes croyoient que la <i>foudre</i> étoit un
+effet du démon ; mais leur opinion a eté condamnée
+dans un concile, qui, comme l&#39;observe M. Musschenbroek, s&#39;est conduit très-sagement en cela. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

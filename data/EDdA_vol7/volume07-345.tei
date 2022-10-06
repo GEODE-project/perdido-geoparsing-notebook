@@ -1,0 +1,484 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27799" id="49:57:5" vol="7">
+<index type="head" value="Formule" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel &amp; Jaucourt" />
+<index type="shortauth" value="Venel &amp; Jaucourt" />
+<index type="kafnum" value="132 &amp; 60" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharm." />
+<index type="normclass" value="Pharmacie" />
+<index type="englishclass" value="Pharmaceuticals" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Formule</head>
+<p>
+<sc>Formule</sc>, (<i>Pharm.</i>) <i>prescription, ordonnance,
+recette</i>, &amp; quelquefois même <i>recipe</i>, est une exposition 
+par écrit de la matiere &amp; de la forme d&#39;un médicament 
+quelconque, de la maniere de le préparer,
+de la quantité ou dose à laquelle on doit le
+faire prendre au malade, &amp; de toutes les différentes 
+circonstances qui peuvent varier son administration.
+</p>
+<p>
+L&#39;art de dresser des <i>formules</i> ou de <i>formules</i>, est
+plus essentiel au medecin qu&#39;on ne le pense communément,
+&amp; il suppose plusieurs connoissances
+très-utiles, ou dont il est au-moins honteux de manquer : rien n&#39;est si ordinaire cependant que de voir
+des medecins de la plus haute reputation, commettre 
+les fautes les plus grossieres en ce genre ; fautes
+qui à la vérité sont ignorées du public, mais qui exposent 
+l&#39;art à la dérision des garçons apothicaires,
+&amp; très-souvent les malades à ne point éprouver le
+bien que le medecin avoit en vûe, &amp; même à essuyer
+de nouveaux maux.
+</p>
+<p>
+Pour l&#39;honneur de l&#39;art donc, &amp; même pour le
+falut des malades, le medecin praticien doit être en
+état de <i>formuler</i> selon toutes les regles, auxquelles
+il n&#39;est dispensé de se conformer scrupuleusement,
+<milestone unit="column" n="2" />
+que quand il est en état de bien discerner ce qui est
+d&#39;appareil &amp; d&#39;élégance, d&#39;avec ce qui est de nécessité 
+absolue.
+</p>
+<p>
+M. Jerôme David Gaubius professeur de Leyde,
+a donné sur l&#39;art de dresser des <i>formules</i>, un ouvrage
+qui peut être regardé comme achevé. Les gens de
+l&#39;art doivent l&#39;étudier tout entier. Le lecteur non-medecin 
+sera très-suffisamment instruit sur cette matiere,
+par la connoissance abregée que nous allons
+lui en donner ici.
+</p>
+<p>
+On doit avoir deux vûes générales dans la prescription 
+des remedes ; de soulager le malade, &amp; de
+lui épargner le desagrément du remede autant qu&#39;il
+est possible. Le premier objet est en partie entre les
+mains de la nature ; le second est entierement en
+nos mains.
+</p>
+<p>
+On doit pour remplir la premiere vûe, pourvoir à la
+guérison du malade par le remede le plus simple qu&#39;il
+est possible. Les <i>formules</i> très-chargees de divers matériaux,
+sont le plus souvent des productions de la
+charlatanerie ou de la routine : le dessein d&#39;ajoûter
+à la drogue qui fait la base du remede, un adjuvant 
+&amp; un dirigent, selon l&#39;idée des anciens, ce
+dessein, dis-je, est absolument chimérique. Nous
+avons dit ailleurs ce qu&#39;il falloit penser de l&#39;emploi
+des correctifs, qui étoit encore un des ingrédiens
+essentiels des compositions pharmaceutiques anciennes.
+Celui des materiaux que Gaubius appelle <i>constituans</i>, est le même que notre excipient. <i>Voyez</i> <sc><ref target="head:Excipient" type="search">Excipient</ref></sc>. Mais si par les considérations que nous
+avons exposées <i>au mot</i> <sc><ref target="head:Composition" type="search">Composition</ref></sc>, on se determine 
+à prescrire des remedes magistraux composés,
+il faut que les divers ingrédiens de ces remedes
+n&#39;agissent pas les uns sur les autres, qu&#39;il ne se de
+composent pas, ou qu&#39;ils ne se combinent pas diversement 
+contre l&#39;intention du medecin, &amp; même
+qu&#39;ils ne se déparent point réciproquement, ou n&#39;acquierent 
+point un goût desagréable par leur mélange.
+C&#39;est ainsi qu&#39;il ne faut point mêler les sels ammoniacaux 
+avec les alkalis fixes, ou les terres absorbantes ; 
+les acides avec les alkalis, en comptant un
+la vertu médicinale de chacune de ces substances
+cai ces corps sont absolument dénaturés par la combinaison,
+ou par la précipitation. <i>Voyez</i> <sc><ref target="head:Menstrue" type="search">Menstrue</ref> <i>&amp;</i> <ref target="head:Précipitation" type="search">Précipitation</ref></sc>. Les altérations de ce genre produisent 
+aussi des changemens considérables dans les
+odeurs &amp; dans les saveurs. Le vinaigre mêle au foie
+de soufre, produit une odeur detestable, dont chacun 
+des réactifs étoit exempt ; les huiles par expression,
+mêlées ou plutôt confondues avec des corps
+doux, comme le miel ou la manne, ont une saveur
+très-desagréable <i>&amp;c.</i>
+</p>
+<p>
+Une attention moins essentielle, mais qu&#39;il ne faut
+pas négliger dans les <i>formules</i> composées, c&#39;est de
+prescrire ensemble les drogues de la même espece,
+les racines avec les racines, les feuilles avec les feuilles,
+<i>&amp;c.</i> &amp; de les arranger dans le même ordre que
+l&#39;apothicaire doit les employer.
+</p>
+<p>
+Il faut connoitre nécessairement les rapports des
+différentes substances qu&#39;on veut employer, entre
+elles &amp; avec l&#39;excipient qu&#39;on veut leur donner,
+aussi-bien que la consistance de chacun de ces ingrédiens,
+afin qu&#39;on ne s&#39;avise pas de vouloir dissoudre 
+un sel avec de l&#39;huile, ou un baume avec de
+l&#39;eau, &amp; de vouloir faire une poudre avec six grains
+d&#39;un sel lixiviel &amp; huit gouttes d&#39;une huile essentielle,
+comme je me souviens de l&#39;avoir vû ordonner 
+une fois.
+</p>
+<p>
+Il faut encore savoir les différens noms que porte
+quelquefois dans les boutiques une même drogue
+simple, ou une même préparation, afin de ne pas
+risquer d&#39;ordonner plusieurs fois dans la même <i>formule</i>, la même drogue sous des noms différens ; ne
+<pb n="7:187" facs="V7/ENC_7-187.jpeg" />
+<milestone unit="column" n="1" />
+pas prescrire, par exemple, dans un julep <i>syruporum de diacodio, de meconio &amp; de papavere albo ana
+dragmam unam</i>, &amp;c. On commettroit une faute du
+même genre, si l&#39;on ordonnoit en même tems diverses 
+préparations parfaitement semblables en vertu,
+de la même substance ; par exemple la décoction,
+l&#39;extrait ou le sirop simple de chicorée, <i>&amp;c.</i> Ou si
+ayant prescrit une composition officinale, on demande 
+d&#39;ailleurs la plûpart des ingrédiens de cette
+composition.
+</p>
+<p>
+Il faut être instruit encore des tems de l&#39;année où
+l&#39;on peut avoir commodément certaines substances,
+comme les plantes fraîches, les fruits récens, <i>&amp;c.</i>
+</p>
+<p>
+Les différens ingrédiens des <i>formules</i> se déterminent 
+par poids &amp; par mesure. <i>Voyez</i> <sc><ref target="head:Poids" type="search">Poids</ref> <i>&amp;</i> <ref target="head:Mesure" type="search">Mesure</ref></sc>.
+</p>
+<p>
+Le <i>modus</i> pharmaceutique, ou la maniere de préparér 
+la <i>formule</i> ou de la réduire sous la forme prescrite,
+termine ordinairement la <i>formule</i> &amp; en constitue 
+proprement la souscription, qui comprend aussi
+le tems &amp; la maniere de faire prendre le remede
+au malade.
+</p>
+<p>
+Cette derniere partie de la souscription qui est appellée 
+<i>signature</i>, doit dans la grande exactitude être
+séparée du corps de la <i>formule</i>, &amp; être écrite en
+langue vulgaire (le corps de la <i>formule</i> s&#39;écrit ordinairement 
+en latin), avec ordre de l&#39;appliquer ou
+de la transcrire sur le vaisseau, la boîte, ou le paquet,
+dans lequel l&#39;apothicaire livrera le médicament.
+Il n&#39;est personne qui n&#39;apperçoive l&#39;utilité de
+cette pratique, qui peut seule empêcher les gardes
+malades, les domestiques, &amp; en général les assistans
+de confondre les différens remedes qu&#39;on fait prendre 
+quelquefois aux malades dans le même jour, ou
+de les donner hors de propos.
+</p>
+<p>
+Les regles que nous venons d&#39;exposer sont absolument 
+générales, &amp; conviennent aux médicamens
+préparés sous les diverses formes qui sont en usage.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Médicament" type="search">Médicament</ref></sc>.
+</p>
+<p>
+On use dans les <i>formules</i> ordinaires de divers caracteres 
+&amp; de diverses abréviations, pour désigner
+les poids, les mesures, certains ingrédiens très-ordinaires, les noms génériques des drogues, &amp; certains
+mots d&#39;usage &amp; de style qui reviennent dans presque
+toutes les <i>formules</i>. On trouvera les caracteres des
+poids &amp; mesures, <i>aux articles généraux</i> <sc><ref target="head:Poids" type="search">Poids</ref> <i>&amp;</i> <ref target="head:Mesure" type="search">Mesure</ref></sc>, <i>&amp; aux articles particuliers</i> 
+<sc><ref target="head:Once" type="search">Once</ref>, <ref target="head:Grain" type="search">Grain</ref>, <ref target="head:Faisceau" type="search">Faisceau</ref>, <ref target="head:Goutte" type="search">Goutte</ref></sc>, <i>&amp;c.</i> Voici la liste
+des abréviations les plus usitées.
+</p>
+<p>
+Aq. C. <i>aqua communis</i>. Q. S. <i>quantum sufficit</i>.
+S. A. <i>secundum artem</i>. <gap />a <gap />a. <i>ana</i>, de chacun. M. <i>misce</i>. F. <i>fiat</i>. M. F. <i>pulvis. Misce fiat pulvis</i>. S. <i>signatur</i>.
+D. <i>detur</i>. Rad. <i>radices</i>. Fol. <i>folia</i>. Fl. <i>flores</i>. &amp;c. Les
+abréviations du genre de ces trois dernieres s&#39;entendent 
+assez sans explication.
+</p>
+<p>
+Au reste on trouvera des exemples de <i>formules</i>
+régulieres, &amp; revêtues de tout leur appareil, l&#39;inscription,
+le commencement, l&#39;ordre, la souscription,
+la signature, aux <i>articles</i> 
+<sc><ref target="head:Opiate" type="search">Opiate</ref>, <ref target="head:Potion" type="search">Potion</ref>, <ref target="head:Poudre" type="search">Poudre</ref>, <ref target="head:Tisane" type="search">Tisane</ref></sc>, <i>&amp;c.</i> (<i>b</i>)
+</p>
+<p>
+On ne peut s&#39;empêcher d&#39;ajoûter ici d&#39;autres considérations 
+importantes sur les qualités qui résultent
+du mélange des drogues dans les <i>formules</i> composées,
+soit magistrales, soit officinales, &amp; l&#39;on empruntera
+ces considérations du même ouvrage de M. Gaubius.
+</p>
+<p>
+Les qualités qui résultent du mélange des drogues,
+&amp; qui sont souvent très-différentes de celles
+de chacune prise séparément, méritent une attention 
+particuliere ; parce que le changement qui arrive 
+après le mélange est si notable, qu&#39;il attaque
+même la vertu médicinale des remedes &amp; leur nature : ce qui prouve assez combien on a tort de préférer 
+les composés aux simples, quand il n&#39;y a pas
+de nécessité absolue qui l&#39;exige.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les qualités auxquelles on doit avoir égard dans
+les <i>formules</i> composées, sont sur-tout la consistance,
+la couleur, l&#39;odeur, la saveur, &amp; la vertu médicinale.
+</p>
+<p>
+Les vices de la consistance sont l&#39;inégalité du mélange,
+quand elle est trop seche ou trop épaisse,
+trop fluide ou trop molle. Pour éviter cet inconvénient,
+il faut connoître la consistance propre à chaque 
+<i>formule</i>, &amp; la consistance de chaque ingrédient
+prise séparément.
+</p>
+<p>
+Rien n&#39;est si changeant que la couleur, sur-tout si
+on mêle des matieres différentes. On voit bien des
+gens sur qui cet objet fait grande impression, &amp; qui
+aiment mieux les compositions d&#39;une couleur diaphane,
+blanche, dorée, rouge, bleue, que celles
+qui en ont une jaune, verte, noire, opaque. On ne
+peut pas néanmoins déterminer physiquement en
+général, quelle sera la couleur résultante des différentes 
+couleurs mélangées. La Chimie par le mélange 
+des matieres sans couleur, en produit une blanche,
+jaune, rouge, bleue, brune, noire, <i>&amp;c.</i> elle
+tire même toutes sortes de couleurs de toutes sortes
+de matieres ; elle est presque ici la seule science qui
+donne les exemples &amp; les regles dont le medecin a
+un besoin essentiel.
+</p>
+<p>
+Les odeurs ne changent pas moins que les couleurs 
+dans le mélange des remedes différens ; mais
+leur efficacité est bien plus grande &amp; plus réelle.
+Ainsi remarquez 1°. qu&#39;il y a peu de regles pour
+rendre les odeurs agréables ; que ces regles sont
+très-bornées &amp; très-incertaines ; que les odeurs qui
+plaisent à quelques personnes, déplaisent à beaucoup 
+d&#39;autres. 2°. Que l&#39;agréable &amp; l&#39;utile ne vont
+point ici de pair ; les hypocondriaques &amp; hystériques 
+se trouvent quelquefois ne pouvoir pas supporter 
+ce qui sent très-bon ; souvent les odeurs fortes,
+foetides ou suaves, font de grandes impressions
+en bien &amp; en mal. 3°. Qu&#39;en général on aime davantage 
+ce qui n&#39;a point d&#39;odeur, ou ce qui ne sent ni
+bon ni mauvais. 4°. Que souvent toute la vertu des
+remedes dépend de leurs odeurs, ou du principe qui
+les produit.
+</p>
+<p>
+De plus, on ne peut pas prévoir toûjours l&#39;odeur
+du mixte par celle des ingrédiens. Voici cependant
+ce que nous apprend la Chimie, &amp; qui prouve combien 
+il est utile de la savoir quand on commencera
+à <i>formuler</i>.
+</p>
+<p>
+1°. Il y a des matieres sans odeur, que le mélange 
+rend très-odoriférantes. Quand on mêle, par
+exemple, le sel alkali fixe ou la chaux vive qui sont
+l&#39;un &amp; l&#39;autre sans odeur, avec le sel ammoniac ;
+quelle odeur forte ne sent-on pas tout-à-coup? La
+même chose arrivera, si on verse l&#39;acide vitriolique
+sur le nitre, le sel marin, le sel ammoniac, le tartre
+régénéré, &amp; autres semblables. 2°. Il y a des ingrédiens 
+très-odoriférans, qui après le mélange n&#39;ont
+plus d&#39;odeur : l&#39;esprit de sel ammoniac, joint à l&#39;acide 
+du nitre ou du sel marin, en est un exemple. 3°.
+Il résulte quelquefois une odeur extrèmement fétide,
+du mélange d&#39;odeurs, ou suaves, ou médiocrement 
+fétides : pareillement des matieres très-fétides 
+mêlées ensemble, donnent des odeurs très agréables.
+Quand on verse du vinaigre sur une dissolution 
+de soufre par les alkalis fixes, on sent l&#39;odeur
+d&#39;oeuf pourri. Des sucs très-puans que M. Lemery
+avoit mis dans un petit sac, rendirent une odeur de
+musc. <i>Hist. de l&#39;acad. roy. ann. 1706. pag. 7</i>.
+</p>
+<p>
+Les saveurs demandent les mêmes précautions &amp;
+les mêmes connoissances chimiques, que les odeurs.
+Les saveurs naturelles, douces, acides, ameres, un
+peu salées, <i>&amp;c.</i> sont les meilleures. Les plus desagréables 
+sont celles qui sont putrides, rances, urineuses.
+La Chimie apprend qu&#39;il y en a d&#39;autres bien
+différentes, &amp; souvent très-extraordinaires, qui
+<pb n="7:188" facs="V7/ENC_7-188.jpeg" />
+<milestone unit="column" n="1" />
+naissent du mélange de différentes matieres. Les acides 
+&amp; les alkalis mêlés ensemble, se détruisent. Rien
+n&#39;est plus desagréable que le goût salé que contractent 
+les acides par le mélange des yeux d&#39;écrevisses
+qui sont naturellement fades, &amp; de tous les autres
+absorbans marins. Les terres grasses, insipides, jointes 
+à un acide, deviennent alumineuses ; le plomb
+uni aux acides, acquiert une douceur de sucre ; le
+fer de doux devient stiptique. On sait quel goût affreux 
+ce même mélange donne aux autres métaux.
+</p>
+<p>
+Quelquefois même il arrive des choses qu&#39;on n&#39;attendoit 
+pas naturellement dans le mélange. En voici
+quelques exemples. Les acides &amp; les alkalis mêlés
+ensemble, perdent leurs forces particulieres, &amp; deviennent 
+un sel neutre. Les terres bolaires, médicinales,
+jointes aux acides, acquierent une force astringente 
+plus considérable, &amp; même alumineuse.
+Un acide joint à la scamonée, la rend aussi peu active 
+que le sable ; au lieu qu&#39;un alkali fixe en aide
+l&#39;action. Le sel de tartre adoucit la force du jalap &amp;
+de la coloquinte. Le sucre affoiblit les mucilagineux
+&amp; les astringens.
+</p>
+<p>
+Le mercure mêlé au soufre &amp; changé en aethiops
+ou en cinnabre, cesse d&#39;être salivant. Si vous le
+broyez bien exactement avec le double de sucre
+ou d&#39;yeux d&#39;écrevisse, vous produirez un aethiops
+blanc qui n&#39;aura que peu d&#39;action. Remarquez néanmoins 
+que le turbith minéral, mêlé avec les pilules
+<i>de duobus</i> &amp; le camphre, d&#39;évacuant qu&#39;il étoit devient 
+altérant. Le mercure doux joint au soufre d&#39;antimoine,
+a de la peine à exciter le ptyalisme, le vomissement,
+à pousser par les selles &amp; les urines. Le
+sublimé corrosif devient doux, quand on y mêle une
+quantité de mercure crud. Plusieurs chaux de mercure 
+où l&#39;acide se fait sentir par son âcreté, s&#39;adoucissent 
+en les broyant avec des alkalis ou des absorbans 
+terreux. L&#39;aethiops ou le cinnabre mêlé avec
+les alkalis fixes, ne se change-t-il pas?
+</p>
+<p>
+Les alkalis dissous par les acides, &amp; les acides par
+les alkalis, font ordinairement une effervescence &amp;
+perdent beaucoup de leurs forces. Le vitriol de Mars
+mêlé avec les alkalis, se change en une espece de
+tartre vitriolé &amp; d&#39;ochre. Il en est de même dans
+les autres métaux &amp; demi-métaux, excepté le cuivre.
+Les alkalis précipitent l&#39;alun en une chaux morte ; 
+ce qui fait connoître la nature des magisteres alumineux.
+Le soufre dissous par un sel alkali, est chassé
+de cet alkali par un acide, <i>&amp;c.</i>
+</p>
+<p>
+Si donc dans une <i>formule</i> l&#39;on joint sans précaution
+les acides, surtout les fossiles, aux métaux ou aux minéraux 
+de quelque espece qu&#39;ils soient, il en peut résulter 
+des changemens étonnans, souvent même de
+violens poisons. Le mercure sublimé, le précipité
+rouge, la pierre infernale, le beurre d&#39;antimoine &amp;
+plusieurs autres, en sont des preuves.
+</p>
+<p>
+Enfin les vertus médicinales d&#39;un corps dissous ou
+extrait par tel &amp; tel menstrue, sont fort différentes.
+La plûpart des purgatifs végétaux extrait par un menstrue 
+aqueux, réussissent fort bien. Ceux qui l&#39;ont
+été par un menstrue spiritueux, donnent des tranchées,
+&amp; purgent moins. Le verre d&#39;antimoine, ou
+le safran des métaux, communique au vin une vertu
+émétique ; ce qu&#39;il ne fait point à l&#39;eau, au vinaigre
+distillé, à l&#39;esprit-de-vin, ou à son alcohol. Le cuivre
+dissous par un acide est très-émétique ; par un alkali
+volatil, il pousse efficacement par les urines ; par le
+sel ammoniac, il devient cathartique, <i>&amp;c.</i> Boerhaave, <i>elem. chim. vol. II. pag. 475. &amp; seq.</i>
+</p>
+<p>
+Il seroit aisé de citer beaucoup d&#39;autres exemples,
+&amp; je voudrois pouvoir les rapporter tous : mais comme 
+il n&#39;y a point de bornes dans les compositions &amp;
+les mélanges, il s&#39;en faut de beaucoup que nous connoissions 
+au juste les altérations qui en résultent ; on
+n&#39;y parviendra que quand on aura découvert les
+<milestone unit="column" n="2" />
+principes naturels des simples, les rapports réciproques 
+qu&#39;ils ont chacun entr&#39;eux, &amp; la véritable maniere 
+dont ils agissent.
+</p>
+<p>
+Cependant un homme instruit de la Chimie, s&#39;il
+veut mêler plusieurs drogues dans ses <i>formules</i>, sera
+toûjours sur ses gardes ; parce qu&#39;il fait mieux que
+personne que de certains mélanges il résulte des changemens 
+prodigieux, &amp; qu&#39;il y en a sans doute une infinité 
+qu&#39;on ne connoît pas : car on n&#39;a point encore
+ni fait les mélanges possibles de tous les corps, ni
+bien examiné les produits de ceux qui ont été mêlés.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,168 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29981" id="53:347:1" vol="7">
+<index type="head" value="Goutte &amp; Gouttes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharmacie." />
+<index type="normclass" value="Pharmacie" />
+<index type="englishclass" value="Pharmaceuticals" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Goutte &amp; Gouttes</head>
+<p>
+<sc>Goutte <i>&amp;</i> Gouttes</sc>, (<i>Pharmacie.</i>) La <i>goutte</i> est
+la plus petite mesure des liquides.
+</p>
+<p>
+Le poids d&#39;une <i>goutte</i> est évalué par approximation 
+à un grain. On conçoit que ce poids doit varier
+selon la pesanteur specisique ou la tenacité de chaque 
+liquide.
+</p>
+<p>
+On prescrit par <i>gouttes</i> les liqueurs qu&#39;on employe
+à très petite dose pour l&#39;usage intérieur ; telles que
+les baumes, les huiles essentielles, les élixirs, les
+mixtures, les esprits alkalis volatils, certaines teintures.
+</p>
+<p>
+Quelques liqueurs composées de cette classe, ont
+tiré de cet usage d&#39;etre ordonnées par <i>gouttes</i> le nom
+de <i>gouttes</i>. C&#39;est sous ce nom que les mixtures magistrales 
+qui agissent à très-petite dose, sont ordonnées 
+communement, quoique l&#39;on paisse déterminer
+par gros, &amp; même par cuillerées, la quantité de ce
+remede excédent trente ou quarante <i>gouttes</i>.
+</p>
+<p>
+C&#39;est cette forme de remede qui est appellée dans
+Gaubius (<i>method. concinnandi formulas medicament.</i>)
+<i>mixtura contracta</i> ; &amp; dans Juncker, (<i>consp. therap.
+gen.</i>) <i>mixtura concentrata</i>.
+</p>
+<p>
+On trouve dans les pharmacopées plusieurs compositions 
+seus le nom de <i>gouttes</i>. Celle de Paris en
+<milestone unit="column" n="2" />
+renferme deux : savoir, les <i>gouttes</i> d&#39;Angleterre anodynes,
+&amp; les <i>gouttes</i> d&#39;Angleterre céphaliques.
+</p>
+<p>
+<i>Gouttes d&#39;Angleterre anodynes</i>. Prenez d&#39;écorce de
+sassafras, de racine de cabaret, de chacun une once ;
+de bois d&#39;aloës demi-once ; d&#39;opium choisi deux gros ;
+de sels volatils de crane humain &amp; de sang humain,
+de chacun demi-gros ; d&#39;esprit-de-vin rectifié une livre : digérez à une chaleur douce pendant vingt
+jours, décantez &amp; gardez pour l&#39;usage dans un vaisseau 
+fermé.
+</p>
+<p>
+L&#39;opium est dans cette préparation environ une
+quarante-huitieme partie du tout ; par conséquent il
+faut en donner deux scrupules ou environ cinquante
+<i>gouttes</i>, pour avoir un remede narcotique répondant 
+à un grain d&#39;opium.
+</p>
+<p>
+<i>Gouttes d&#39;Angleterre céphaliques</i>. Prenez de l&#39;esprit
+volatil de soie crue avec son sel, quatre onces ;
+d&#39;huile essentielle de lavande un gros ; d&#39;esprit-devin rectifié demi-once : faites digérer pendant vingt
+quatre heures, &amp; distillez doucement au bain marie
+jusqu&#39;à ce qu&#39;il s&#39;éleve de l&#39;huile ; gardez pour l&#39;usage.
+<i>Voyez à l&#39;art. suivant un procedé un peu différent</i>.
+</p>
+<p>
+Ce n&#39;est ici proprement qu&#39;un esprit volatil aromatique 
+huileux ; il ne differe de celui qu&#39;on trouve
+sous ce nom générique dans la pharmacopée de Paris, qu&#39;en ce que sa composition est beaucoup plus
+simple que celle de celui-ci, &amp; qu&#39;on y employe un
+alkali volatil plus gras, celui de soie, au lieu de celui 
+de sel ammoniac ; mais ces différences ne sont
+point essentielles quant aux vertus medecinales.
+<i>V.</i> 
+<sc><ref target="head:Esprit volatil aromatique huileux" type="search">Esprit volatil aromatique huileux</ref></sc>
+. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

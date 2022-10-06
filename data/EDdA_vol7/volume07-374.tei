@@ -1,0 +1,177 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27828" id="49:70:1" vol="7">
+<index type="head" value="Fortifier en-dehors" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Fortificat." />
+<index type="normclass" value="Fortifications" />
+<index type="englishclass" value="Fortifications" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="NA" />
+<head>Fortifier en-dehors</head>
+<p>
+<sc>Fortifier en-dehors</sc>, (<i>Fortificat.</i>) c&#39;est dans
+la <i>Fortification</i> faire servir le côté du polygone qu&#39;on
+se propose de <i>fortifier</i>, de côté intérieur : on dit alors
+qu&#39;<i>on fortifie en dehors</i>, parce que les bastions sont
+véritablement hors du polygone ; on dit au contraire
+qu&#39;<i>on fortifie en-dedans</i>, lorsque le côté du polygone
+sert de côté extérieur, les bastions étant alors en-dedans le polygone.
+</p>
+<p>
+On peut également <i>fortifier</i> les places en-dehors &amp;
+en-dedans. Cette derniere méthode paroît mériter
+quelque préférence sur la premiere, parce qu&#39;en la
+suivant on fixe les pointes des bastions où l&#39;on veut,
+&amp; qu&#39;elle est plus propre à proportionner toutes les
+parties de la fortification aux côtés &amp; aux angles des
+polygones qu&#39;on <i>fortifie</i>.
+</p>
+<p>
+Lorsqu&#39;on <i>fortifie</i> en-dehors, on a l&#39;avantage de fixer 
+les lieux où doivent être les courtines ; ce qui
+peut servir lorsque la place a une vieille enceinte déterminée 
+par un rempart, ou par des maisons qu&#39;on
+veut conserver. Mais on peut indifféremment dans la
+fortification réguliere, se servir de l&#39;une ou de l&#39;autre
+de ces méthodes, suivant que le terrein &amp; la situation
+de la place peuvent le demander. Car lorsque tous
+les côtés intérieurs se trouveront déterminés sur un
+plan bien exact, on peut en leur menant des paralleles,<gap type="hyphenpb" />
+<pb n="7:204" facs="V7/ENC_7-204.jpeg" />
+<milestone unit="column" n="1" />
+à la distance qui doit être entre le côté extérieur 
+&amp; l&#39;intérieur, construire la fortification en-dedans sur ces paralleles ; &amp; après avoir calculé &amp;
+trouvé la grandeur de toutes ses parties &amp; de ses angles,
+il est aisé ensuite de construire la fortification
+sur le côté intérieur. <i>Voyez</i> chacune de ces constructions 
+à la suite du <i>mot</i> <sc><ref target="head:Fortification" type="search">Fortification</ref></sc>, dans les
+systèmes du chevalier de Ville, de Pagan, de Vauban, de Mallet, <i>&amp;c</i>.
+</p>
+<p>
+Si la place qu&#39;on veut <i>fortifier</i> est irréguliere, &amp; que
+les côtés intérieurs soient donnés de grandeur &amp; de
+position, ou si elle a une vieille enceinte sur laquelle
+on doit prendre les courtines, il est fort difficile alors
+de parvenir par la fortification du polygone extérieur,
+à avoir pour côtés intérieurs les côtés de l&#39;enceinte : car dans les polygones irréguliers, la distance 
+du côté intérieur à l&#39;extérieur n&#39;est pas la même 
+pour tous les côtés, comme dans les réguliers ;
+l&#39;inégalité des angles du polygone rend cette distance 
+plus ou moins grande, suivant les variations de
+ces angles : c&#39;est pourquoi si l&#39;on mene des paralleles 
+aux côtés intérieurs &amp; à la distance qui leur convient 
+à chacun, la grandeur de ces paralleles ne répondra 
+point à celle des côtés intérieurs correspondans ; 
+ses paralleles qui seront les moins éloignés des
+côtés intérieurs, s&#39;étendront sur celles qui le seront
+davantage, &amp; elles en diminueront la grandeur.
+Mais comme les plus proches des côtés intérieurs se
+trouveront opposés aux plus petits de ces côtés, les
+côtés extérieurs qu&#39;elles produiront se proportionneront 
+en quelque maniere les uns &amp; les autres, parce 
+que les plus grands seront diminués par la rencontre 
+des petits. C&#39;est par cette espece de compensation 
+de côtés, que quelques auteurs croyent qu&#39;il est
+plus avantageux de <i>fortifier</i> par le polygone extérieur,
+que&#39;par l&#39;intérieur. Mais ces auteurs n&#39;ont pas
+fait attention que par cette méthode les courtines du
+polygone extérieur ne tombent pas toûjours sur les
+côtés de l&#39;intérieur ; ce qui est un grand inconvénient,
+lorsque la ville a une enceinte sur laquelle on
+vent prendre les courtines.
+</p>
+<p>
+Dans la pratique des fortifications, on peut lorsque 
+les places n&#39;ont point d&#39;enceinte déterminée, se
+servir du polygone extérieur pour la trace de la ligne 
+magistrale ; mais on doit préférer la méthode de
+tracer cette ligne par le polygone intérieur, s&#39;il faut
+prendre nécessairement les courtines sur les côtés de
+l&#39;enceinte. <i>Voyez</i>, dans la troisieme édition des <i>élémens de fortification</i>, l&#39;examen du traité de la fortification 
+par le polygone extérieur &amp; par l&#39;intérieur.
+(<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

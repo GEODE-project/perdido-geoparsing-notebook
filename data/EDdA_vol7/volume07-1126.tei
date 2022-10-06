@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28580" id="50:247" vol="7">
+<index type="head" value="FUNICULAIRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Méchan." />
+<index type="normclass" value="Méchanique" />
+<index type="englishclass" value="Mechanics" />
+<index type="generatedclass" value="Méchanique" />
+<index type="pos" value="adject" />
+<head>FUNICULAIRE</head>
+<p>
+FUNICULAIRE, adj. (<i>Méchan.</i>) on appelle <i>machine funiculaire</i>, un assemblage de cordes, par le
+moyen desquelles deux ou plusieurs puissances soûtiennent 
+un ou plusieurs poids. Cette machine est au
+nombre des forces mouvantes, &amp; elle est regardée
+comme la plus simple. <i>Voyez</i> <sc><ref target="head:Force mouvante" type="search">Force mouvante</ref></sc>.
+</p>
+<p>
+Pour trouver les lois de l&#39;équilibre dans cette machine,
+il faut 1°. prendre toutes les puissances qui
+concourent en un même point, &amp; les réduire toutes
+<milestone unit="column" n="2" />
+à une seule par le principe de la composition des forces.
+<i>Voyez</i> <sc><ref target="head:Composition" type="search">Composition</ref></sc>. Cette puissance dont tirer 
+dans la direction de la corde, ce qui est évidemment
+nécessaire pour l&#39;équilibre ; <i>premiere condition</i>.
+2°. En suivant cette même méthode, on réduira toutes 
+les puissances qui agissent sur différens points de
+la corde, à un systeme de puissances qui agissent toutes 
+sur un même point (on doit regarder les poids
+s&#39;il y en a plusieurs, comme autant de puissances) ;
+réduisant ensuite par le principe de la composition
+des forces ces dernieres puissances qui agissent sur
+un même point, on arrivera enfin à deux puissances
+uniques qui doivent être égales &amp; directement
+contraires, pour qu&#39;il y ait équilibre ; <i>seconde
+condition</i>. Voyez <i>le projet de Méchanique, &amp; la méchanique</i>
+de Varignon ; <i>voyez</i> aussi l&#39;<i>article</i> <sc><ref target="head:Chainette" type="search">Chainette</ref></sc>
+où nous avons indiqué une autre méthode pour trouver 
+les lois de l&#39;équilibre dans la machine <i>funiculaire</i>.
+(<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

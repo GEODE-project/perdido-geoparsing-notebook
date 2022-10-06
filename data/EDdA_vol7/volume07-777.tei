@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28231" id="50:61" vol="7">
+<index type="head" value="FRANGIPANIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat." />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>FRANGIPANIER</head>
+<p>
+FRANGIPANIER, <i>plumeria</i>, (<i>Hist. nat.</i>) genre
+de plante à fleurs monopétales, faites en forme d&#39;entonnoir 
+&amp; découpées. Il sort du calice un pistil, qui
+en&#39;re comme un clou dans la partie inférieure de la
+fleur, &amp; qui devient dans la suite un fruit ou une silique,
+qui est double pour l&#39;ordinaire, qui s&#39;ouvre
+d&#39;un bout à l&#39;autre, &amp; qui renferme des semences
+oblongues, garnies de feuilles, placées comme des
+écailles, &amp; attachées à un placenta. Tournefort,
+<i>inst. rei herb. Voyez</i> <sc><ref target="head:Plante" type="search">Plante</ref></sc>. (<i>I</i>)
+</p>
+<p>
+Le <i>frangipanier</i> est un arbre de l&#39;Amérique, il s&#39;éleve 
+d&#39;environ 10 à 12 piés hors de terre ; il pousse
+de longues branches d&#39;un bon pouce de diametre
+bien nourries, à peu-près d&#39;égale grosseur d&#39;une extrémité 
+à l&#39;autre, &amp; dénuées de feuilles dans toute
+leur longueur ; ce qui, ce me semble, n&#39;a aucun rapport 
+au laurier-rose. Les feuilles ainsi que les fleurs,
+viennent par gros bouquets aux extrémités des branches,
+ensorte que le reste de l&#39;arbre paroît extrèmement 
+nud.
+</p>
+<p>
+Les feuilles sont trois fois plus grandes que celles
+du laurier-rose ; elles se terminent en pointe fort aiguë,
+ayant la figure d&#39;une lame de poignard. Quant
+aux fleurs, leur forme est à-peu-près semblable à
+celles du jasmin, mais beaucoup plus grandes, ayant
+environ deux pouces &amp; demi de diametre lorsqu&#39;elles 
+sont épanouies.
+</p>
+<p>
+Il y en a de trois couleurs ; savoir celles du <i>frangipanier blanc</i> sont blanches, &amp; n&#39;ont qu&#39;une legere
+teinte de rouge sur un des bords : celles du <i>frangipanier musqué</i> sont rouges, les bords se terminant par
+une couleur plus chargée : enfin celles du <i>frangipanier</i> ordinaire sont d&#39;une belle couleur jaune, se confondant 
+par gradation dans un oranger très vif, qui
+passant par différentes nuances, se termine par un
+beau rouge de carmin.
+</p>
+<p>
+L&#39;odeur de ces fleurs est fort agréable ; mais je
+ne trouve en Europe aucun parfum à qui je puisse
+la comparer pour en donner une juste idée.
+</p>
+<p>
+Si l&#39;on arrache les feuilles, les fleurs, ou qu&#39;on
+rompe les branches du <i>frangipanier</i>, il sort de dessous 
+son écorce ou espece de peau, un lait abondant,
+épais &amp; d&#39;une grande blancheur : quelques habitans
+l&#39;employent pour guérir les vieux ulceres. <i>Article de
+<sc>M. le Romain</sc>
+</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29420" id="52:172" vol="7">
+<index type="head" value="GÉODE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéral." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history. Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GÉODE</head>
+<p>
+GÉODE, s. m. (<i>Hist. nat. Minéral.</i>) on donne ce
+nom à une pierre, ou brune, ou jaune, ou de couleur 
+de fer, qui est ordinairement arrondie, mais
+irrégulierement, creuse par-dedans, assez pesante,
+&amp; contenant de la terre ou du sable, que l&#39;on entend 
+remuer lorsqu&#39;on la secoue. Wallerius regarde
+avec raison le <i>géode</i> comme une espece d&#39;aetite, ou
+de pierre d&#39;aigle, avec qui il a beaucoup de rapport ;
+il est comme elle formé de plusieurs couches ou croûtes 
+de terre ferrugineuse, qui se sont arrangées les
+unes sur les autres, &amp; se sont durcies. Ces croûtes
+ou enveloppes sont quelquefois sillonnées ; d&#39;autres
+sont luisantes &amp; lisses ; d&#39;autres sont gersées &amp; remplies 
+de petites crevasses. La <i>géode</i> ne differe de la
+pierre d&#39;aigle, que parce que le noyau que cette
+derniere contient est de pierre ; au lieu que le <i>géode</i>
+contient de la terre. Cette terre est ordinairement
+de l&#39;ochre mêlée de sable ; &amp; M. Hill prétend qu&#39;elle<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+n&#39;est jamais de la même nature que la couche
+de terre dans laquelle les <i>géodes</i> se trouvent : d&#39;où il
+conclut que ces pierres ont dû être formées dans
+d&#39;autres endroits que ceux où on les rencontre actuellement.
+Cela peut être vrai pour les <i>géodes</i> d&#39;Angleterre ; mais il s&#39;en trouve en Normandie dans de
+l&#39;ochre, où tout prouve qu&#39;ils ont été formés.
+</p>
+<p>
+Le même auteur compte cinq especes de <i>géodes</i>
+dans son <i>histoire naturelle des fossiles:</i> mais les différentes 
+figures qu&#39;on y remarque sont purement accidentelles ; 
+&amp; les <i>géodes</i>, ainsi que les aetites, doivent 
+ètre regardées comme de vraies mines de fer.
+On en trouve en une infinité d&#39;endroits, de France,
+d&#39;Allemagne, de Bohème, <i>&amp;c.</i> (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

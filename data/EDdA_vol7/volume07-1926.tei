@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29380" id="52:160:3" vol="7">
+<index type="head" value="Genre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Hist. nat. " />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Genre</head>
+<p>
+<sc>Genre</sc>, <i>en Hist. nat.</i> Lorsque l&#39;on fait des distributions 
+méthodiques des productions de la nature,
+on désigne par le mot <i>genre</i> les ressemblances qui se
+trouvent entre des objets de différentes especes ; par
+exemple, le cheval, l&#39;âne &amp; le zébre qui sont des
+animaux de trois différentes especes, se rapportent
+à un même <i>genre</i>, parce qu&#39;ils se ressemblent plus les
+uns aux autres qu&#39;aux animaux d&#39;aucune autre espece ; 
+ce <i>genre</i> est appellé le <i>genre de solipedes</i>, parce
+que les animaux qu&#39;il comprend n&#39;ont qu&#39;un seul
+doigt à chaque pié: ceux au contraire qui ont le pié
+divisé en deux parties, comme le taureau, le bélier,
+le bouc, <i>&amp;c.</i> sont d&#39;un autre <i>genre</i>, appellé le <i>genre
+des animaux à pié fourchu</i>, parce qu&#39;ils ont plus de
+rapport les uns avec les autres qu&#39;avec les animaux
+solipedes, ou avec les fissipedes qui ont plus de deux
+doigts à chaque pié, &amp; que l&#39;on rassemble sous un
+troisieme <i>genre:</i> de la même façon que l&#39;on établit
+des <i>genres</i> en réunissant des especes, on fait des classes 
+en réunissant des <i>genres</i>. Les animaux solipedes,
+les animaux à pié fourchu &amp; les fissipedes sont tous
+compris dans la classe des quadrupedes, parce qu&#39;ils
+ont plus de ressemblances les uns avec les autres
+qu&#39;avec les oiseaux ou les poissons qui forment deux
+autres classes. <i>Voyez</i> 
+<sc><ref target="head:Classe" type="search">Classe</ref>, <ref target="head:Espece" type="search">Espece</ref>, <ref target="head:Méthode" type="search">Méthode</ref></sc>
+. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,255 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28828" id="51:126" vol="7">
+<index type="head" value="GALE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GALE</head>
+<p>
+GALE, s. f. (<i>Medecine.</i>) maladie qui corrompt la
+peau par l&#39;écoulement de certaines humeurs acres &amp;
+salines, qui s&#39;amassent en forme de pustules, &amp; occasionnent 
+des demangeaisons.
+</p>
+<p>
+Il y a deux especes de <i>gale</i>, la seche &amp; l&#39;humide:
+la premiere est appellée <i>gale canine, scabies canina</i>,
+parce que les chiens y sont sujets ; ou seche, <i>sicca, à</i>
+cause qu&#39;elle suppure peu ; prurigineuse, <i>prunginosa, à pruritu</i>, demangeaison ; car elle en cause une
+qui est très-importune ; <i>gratelle</i>, parce qu&#39;on se gratte 
+sans cesse : on lui donne encore les noms d&#39;<i>impetigo,</i>
+<pb n="7:431" facs="V7/ENC_7-431.jpeg" />
+<milestone unit="column" n="1" />
+<i>lichen, mentagara:</i> la seconde est nommée <i>grosse gale</i> ou <i>gale humide, scabies crassa &amp; humida</i>, parce
+qu&#39;elle est plus grosse que la premiere, &amp; qu&#39;elle
+forme des pustules circonscrites qui suppurent comme 
+autant de petits phlegmons qui dégenerent en abcès.
+On attribue ordinairement la premiere à une humeur 
+atrabilaire, &amp; la derniere à une pituite saline ;
+elles sont toutes deux contagieuses. <i>Voyez l&#39;art. suiv</i>.
+</p>
+<p>
+Le docteur Bononio prétend avoir beaucoup
+mieux expliqué la cause de cette maladie, qu&#39;aucun
+de ceux qui l&#39;ont précédé: voici son hypothese.
+</p>
+<p>
+Il examina plusieurs globules de matiere, qu&#39;il fit
+fortir avec une épingle des pustules d&#39;une personne
+qui étoit attaquée de cette maladie, avec un microscope,
+&amp; les trouva remplis de petits animaux vivans 
+semblables à une tortue, fort agiles, ayant six
+piés, la tête pointue, &amp; deux petites cornes au bout
+du museau. Fondé sur cette découverte, il ne craint
+pas d&#39;attribuer la cause de cette maladie contagieuse 
+aux morsures continuelles que ces animaux font
+à la peau, &amp; qui donnant passage à une partie de la
+sérosité, occasionne de petites vessies, dans lesquelles 
+ces insectes continuant à travailler, ils obligent
+le malade à se gratter, &amp; à augmenter par-là le mal,
+en déchirant non-seulement les petites pustules, mais
+encore la peau &amp; quelques petits vaisseaux sanguins ;
+ce qui occasionne la <i>gale</i>, les croûtes, &amp; les autres
+symptomes desagréables dont cette maladie est accompagnée.
+</p>
+<p>
+On voit par-là d&#39;où vient que la <i>gale</i> se communique 
+si aisément ; car ces animaux peuvent passer d&#39;un
+corps dans un autre avec beaucoup de facilité, par
+le simple attouchement. Comme leur mouvement est
+extrèmement rapide, &amp; qu&#39;ils se glissent aussi-bien
+sur la surface du corps que sous l&#39;épiderme ; ils sont
+très-propres à s&#39;attacher à tout ce qui les touche ; &amp;
+il suffit qu&#39;il y en ait un petit nombre de logés, pour
+se multiplier en peu de tems.
+</p>
+<p>
+On voit donc par-là d&#39;où vient que les lixiviels,
+les bains, &amp; les onguens faits avec les sels, le soufre,
+le mercure, <i>&amp;c.</i> ont la vertu de guerir cette maladie ; 
+car ils ne peuvent que tuer la vermine qui
+s&#39;est logée dans les cavités de la peau ; ce qu&#39;on ne
+sauroit faire en se grattant, à cause de leur extrème
+petitesse, qui les dérobe aux ongles. Que s&#39;il arrive
+quelquefois dans la pratique que cette maladie revienne 
+lorsqu&#39;on la croit tout-à-fait guérie par les
+onctions, on n&#39;en doit pas être surpris : car quoique
+les onguens puissent avoir tué tous ces animaux, il
+n&#39;est pas cependant probable qu&#39;ils ayent détruit
+tous les oeufs qu&#39;ils ont laisses dans la peau, comme
+dans un nid ou ils éclosent de nouveau pour renouveller 
+la maladie. <i>Chambers</i>.
+</p>
+<p>
+On peut, sans manquer à la Medecine, ne pas se
+déclarer partisan de cette opinion, &amp; regarder la
+<i>gale</i> comme une indisposition de la peau, par l&#39;alteration 
+de l&#39;humeur séreuse des glandes de cette partie,
+dont le vice se communique bien-tôt à toute la
+masse du sang. L&#39;humeur cutanée peut être viciée par
+contagion, en couchant avec un galeux, ou dans le
+même lit où il a couché: on a même des exemples
+de personnes qui ont gagné la <i>gale</i> parce que leur
+linge avoit été lavé avec celui d&#39;un galeux.
+</p>
+<p>
+La stagnation de l&#39;humeur cutanée peut acquérir
+par son sejour la nature d&#39;un levain acre &amp; en quelque 
+sorte corrosif, qui cause non-seulement la <i>gale</i>,
+mais souvent des éruptions ulcéreuses. De-là vient
+que sans communiquer avec des galeux, ceux qui ont
+été détenus long-tems en prison, ceux qui ont mené
+une vie sédentaire, les personnes mal-propres, celles
+enfin qui ont été exposées aux ordures, <i>&amp;c.</i> sont sujets 
+à contracter cette maladie.
+</p>
+<p>
+Les principales indications se réduisent à corriger
+le vice de l&#39;humeur des glandes de la peau, &amp; à rectifier<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+cet organe. Les applications locales peuvent
+l&#39;effectuer ; &amp; lorsque la maladie est récente ou nouvellement 
+contractée, elle est souvent guérie avec
+sûreté par les seuls topiques : mais si le vice a pénétré,
+&amp; qu&#39;il ait été transmis dans le sang par les
+voies de la circulation, il y a du danger à guérir la
+<i>gale</i> sans les préparations convenables : il faut d&#39;abord 
+travailler à la dépuration du sang par la saignée,
+les purgatifs, &amp; les altérans convenables, tels
+que le petit-lait avec le suc de fumeterre, la creme
+de tartre mêlée avec la fleur de soufre, les bouillons
+de vipere, <i>&amp;c.</i> Dans les <i>gales</i> opiniâtres, on est quelquefois 
+obligé, après l&#39;usage des bains, de faire usage 
+des remedes mercuriels.
+</p>
+<p>
+La <i>gale</i> scorbutique demande l&#39;administration des
+remedes propres à détruire le vice du sang dont elle
+est un symptome.
+</p>
+<p>
+Il y a beaucoup de bons auteurs qui ont traité de
+la <i>gale ;</i> on ne peut faire trop d&#39;attention aux observations 
+qu&#39;ils rapportent ; &amp; quoique cette maladie
+soit souvent confiée sans danger aux soins de personnes 
+peu éclairées, les suites fâcheuses d&#39;un traitement 
+mauvais ou négligé devroient avoir appris par
+de tristes expériences, à se mettre en garde contre les
+gens qui conseillent &amp; administrent des remedes sans
+connoissance de cause.
+</p>
+<p>
+Les remedes qui dessechent les pustules de <i>gale</i>,
+sans prendre de précautions par l&#39;usage des medicamens 
+intérieurs, peuvent n&#39;avoir aucun inconvénient,
+lorsque le caractere de la maladie est doux,
+qu&#39;elle est récente &amp; gagnée par contagion : il n&#39;en est
+pas de même, lorsque la <i>gale</i> est occasionnée ou entretenue 
+par quelque disposition cacochymique du
+sang &amp; des humeurs : dans ce cas, la répercussion
+de l&#39;humeur nuisible peut causer plusieurs indispositions 
+mortelles, parce qu&#39;elle se porte sur le poumon,
+sur le cerveau, &amp; autres parties nobles. Plusieurs
+personnes ont eu le genre nerveux attaqué par l&#39;usage 
+de la ceinture mercurielle.
+</p>
+<p>
+Les pauvres gens se traitent &amp; se guérissent de la
+<i>gale</i> en se faisant saigner &amp; purger ; ils prennent ensuite 
+de la fleur de soufre dans un oeuf ou dans du petit 
+lait ; &amp; ils en mêlent dans du beurre ou de la graisse,
+pour se frotter les pustules galeuses : on sait qu&#39;elles 
+se manifestent principalement entre les doigts,
+où est le siége propre &amp; patognomonique de la maladie,
+aux jarrets, sur les hanches, &amp; autres parties
+du corps, où l&#39;humeur acre retenue, produit des tubercules 
+qui excitent une demangeaison qui porte
+à se gratter jusqu&#39;à la douleur. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

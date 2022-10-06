@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30076" id="54:35" vol="7">
+<index type="head" value="GRAIN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="NA" />
+<head>GRAIN</head>
+<p>
+* GRAIN, (<i>Gramm.</i>) il s&#39;est dit d&#39;abord des petits
+corps ou fruits que les arbres &amp; les plantes produisent ; 
+qui leur servent de semences, ou qui les contiennent.
+Ainsi on dit un <i>grain de raisin</i>, un <i>grain de
+blé, d&#39;orge, d&#39;avoine, de seigle</i>. On a étendu cette
+dénomination à d&#39;autres petits corps, à des fragmens,
+à des configurations ; &amp; on a dit un <i>grain d&#39;or</i>
+pour une <i>petite portion d&#39;or:</i> la molécule differe du
+<i>grain</i>, en ce qu&#39;elle est plus petite ; il faut plusieurs
+molécules réunies pour faire un <i>grain</i>. On a dit le
+<i>grain</i> de l&#39;acier, pour ces inégalités qui offrent à la
+fracture d&#39;un morceau d&#39;acier l&#39;image d&#39;une crystallisation 
+réguliere, sur-tout si le refroidissement n&#39;a
+pas été subit ; car le refroidissement précipité gâte
+cette apparence, de même que l&#39;évaporation hâtée
+altere la régularité des crystaux : un <i>grain</i> de chapelet,
+pour un petit corps rond de verre, d&#39;ivoire, de
+bois, ou d&#39;autre matiere, percé de part en part d&#39;un
+trou qui sert à l&#39;enfiler avec un certain nombre d&#39;autres,
+à l&#39;aide desquels celui qui s&#39;en sert sait le compte 
+exact des <i>pater</i> &amp; des <i>ave</i> qu&#39;il récite : les <i>grains</i>,
+pour la collection générale des fromentacés qui
+servent à la nourriture de l&#39;homme &amp; des animaux ;
+les gros <i>grains</i> sont ceux qui servent à la nourriture
+de l&#39;homme ; les menus, ceux qui servent à la nourriture 
+des animaux : un <i>grain</i> de métal, pour un petit 
+globule rond de métal qu&#39;on obtient dans la réduction 
+d&#39;une petite portion de mine ou de chaux
+métallique, &amp; qu&#39;on trouve à la pointe d&#39;une des
+matieres qui ont servi de flux ou de fondant : un
+<i>grain</i> de vérole, pour une pustule considérée séparément ; 
+il se dit &amp; de la pustule &amp; de la tache
+qu&#39;elle laisse communément. <i>Grain</i> a encore d&#39;autres 
+acceptions ; c&#39;est un poids, une monnoie, <i>&amp;c.
+Voyez les articles suivans</i>, mais sur-tout l&#39;<i>article</i>
+<sc><ref target="head:Grains" type="search">Grains</ref></sc> (<i>Economie politiq.</i>), où ce terme est considéré 
+selon son objet le plus important.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

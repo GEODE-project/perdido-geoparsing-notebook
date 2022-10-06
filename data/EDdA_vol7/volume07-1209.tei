@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28663" id="51:33:1" vol="7">
+<index type="head" value="Futile" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Antiq." />
+<index type="normclass" value="Antiquité" />
+<index type="englishclass" value="Antiquity" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="NA" />
+<head>Futile</head>
+<p>
+<sc>* Futile</sc>, (<i>Antiq.</i>) vase à large orifice &amp; à fond
+très-étroit, dont on faisoit usage dans le culte de
+Vesta. Comme c&#39;étoit une faute que de placer à
+terre l&#39;eau qui y étoit destinée, on termina en pointe
+les vases qui devoient la contenir : d&#39;où l&#39;on voit l&#39;origine 
+de l&#39;adjectif <i>futilis. Homme futile</i>, c&#39;est-à-dire
+homme qui ne peut rien retenir, qui a la bouche large 
+&amp; peu de fond, &amp; qu&#39;il ne faut point quitter, si
+<milestone unit="column" n="2" />
+l&#39;on ne veut pas qu&#39;il répande ce qu&#39;on lui a confié.
+Le <i>futile</i> fut aussi une coupe que portoient à leurs
+mains les vierges qui entouroient le flamen dans ses
+fonctions sacerdotales, les femmes qui étoient au
+service des vestales, &amp; les jeunes enfans qui assistoient 
+le flamen à l&#39;autel, &amp; qu&#39;on appelloit <i>camilles</i>.
+Les Romains alloient chercher à la fontaine de Juturne, l&#39;eau dont ils remplissoient les <i>futiles</i>. Cette
+eau guérissoit les malades qui en bûvoient, ainsi que
+l&#39;assûre Varron (auteur grave).
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

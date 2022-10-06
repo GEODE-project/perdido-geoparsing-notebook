@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29151" id="52:4:5" vol="7">
+<index type="head" value="Garniture de Diamans, de Rubis, d&#39;Émeraudes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Lapidaire" />
+<index type="normclass" value="Lapidaire" />
+<index type="englishclass" value="Lapidary" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Garniture de Diamans, de Rubis, d&#39;Émeraudes</head>
+<p>
+<sc>Garniture de Diamans, de Rubis, d&#39;Émeraudes</sc>, 
+<i>&amp;c.</i> (<i>Lapidaire</i>) c&#39;est chez les Jouailliers
+certains assortimens de quelques-unes de ces pierreries 
+en particulier, ou de toutes ensemble, dont les
+hommes garnissent leurs just-au-corps, &amp; les femmes 
+leurs robes &amp; leurs têtes. Les <i>garnitures</i> de pierreries 
+pour les habits des hommes ne consistent ordinairement 
+qu&#39;en boutons de just-au-corps, en
+boucles de chapeaux, de manchons &amp; de souliers,
+&amp; en poignées de cannes &amp; d&#39;épées ; celles des habits 
+des femmes dépendent de la mode &amp; du goût
+qui regne.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

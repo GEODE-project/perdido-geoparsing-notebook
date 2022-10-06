@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30710" id="55:256" vol="7">
+<index type="head" value="GUIMPLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Comm." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="s.m." />
+<head>GUIMPLE</head>
+<p>
+GUIMPLE, s. m. (<i>Comm.</i>) droit qui se leve sur le
+sel dans quelques endroits de la Bretagne, particulierement 
+dans toute la prevôté de Nantes.
+</p>
+<p>
+Il est dit dans la pancarte de cette prevôté, que le
+<pb n="7:1009" facs="V7/ENC_7-1009.jpeg" />
+<milestone unit="column" n="1" />
+roi &amp; duc prend par chacun an sur le sel, passant le
+trépas S. Nazaire, le droit appellé <i>le devoir de guimple</i>, c&#39;est-à-dire <i>le devoir de salage</i>, sur trois vaisseaux 
+portant chacun plus de six muids de sel, mesure 
+nantoise, au choix &amp; élection du receveur, une
+fois en l&#39;an. <i>Voyez les dictionn. de Commerce &amp; de Trévoux</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

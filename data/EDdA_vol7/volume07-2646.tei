@@ -1,0 +1,515 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30100" id="54:42" vol="7">
+<index type="head" value="GRAISSE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econom. anim. Medecine." />
+<index type="normclass" value="Economie animale. Médecine" />
+<index type="englishclass" value="Animinal economy.  Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GRAISSE</head>
+<p>
+GRAISSE, s. f. (<i>Econom. anim. Medecine.</i>) on entend 
+vulgairement par ce terme la substance onctueuse,
+de consistence fluide ou molle, qui se trouve
+non-seulement dans les cavités du tissu cellulaire,
+sous presque toute l&#39;étendue des tégumens de la surface 
+du corps de l&#39;homme &amp; de la plûpart des animaux,
+mais encore dans les cellules des membranes
+qui enveloppent les muscles, qui pénetrent dans
+l&#39;interstice des fibres musculaires, dans les paquets
+de cellules membraneuses dont sont couverts plusieurs 
+visceres, tels que les reins, le coeur, les intestins,
+&amp; principalement dans le tissu cellulaire des
+membranes qui forment le mésentere, l&#39;épiploon,
+&amp; ses dépendances. <i>Voyez</i> <sc><ref target="head:Cellulaire" type="search">Cellulaire</ref></sc> (<i>tissu</i>),
+<sc><ref target="head:Membrane" type="search">Membrane</ref>, <ref target="head:Épiploon" type="search">Épiploon</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Les Medecins distinguent deux sortes de <i>graisse ;</i>
+l&#39;une est celle dont la substance séparée de la masse
+des humeurs, sous forme d&#39;huile tenue, perd peu de
+sa fluidité dans les cavités où elle se ramasse ; elle y
+conserve toûjours une sorte de mouvement progressif 
+qui la fait passer d&#39;une cellule dans une autre, &amp;
+<milestone unit="column" n="2" />
+ne se fige presque point étant exposée à l&#39;air froid ;
+ce suc graisseux est appellé par les Grecs <foreign lang="greek">στέαρ</foreign>, &amp; par
+les Latins <i>pinguitudo</i> ou <i>pinguedo ;</i> au lieu que ceux-là 
+donnent le nom de <foreign lang="greek">ἀζούγγια</foreign> ou <foreign lang="greek">ἀζούγγιον</foreign>, &amp; ceux ci
+celui d&#39;<i>adeps, sebum</i>, ou <i>sevum</i>, à cette espece de
+<i>graisse</i> qui a une consistence presque solide, qui n&#39;est
+pas susceptible de se liquéfier aisément, soit par la
+chaleur ou le mouvement de l&#39;animal, soit par l&#39;effet 
+du feu ; elle ne se renouvelle que très-lentement
+dans les cellules où elle est ramassée, &amp; elle se fige
+à l&#39;air froid, au point de prendre une sorte de dureté.
+C&#39;est cette derniere sorte de <i>graisse</i>, qui étant tirée 
+du corps des boeufs, des moutons, des chevres,
+<i>&amp;c.</i> est distinguée par le nom de <i>suif. Voy.</i> <sc><ref target="head:Suif" type="search">Suif</ref></sc>. On
+se sert cependant du mot <i>adeps</i> pour désigner toute
+sorte de <i>graisse</i>, &amp; on nomme <i>membrane adipeuse</i> indistinctement 
+toute membrane dont les cellules contiennent 
+ou sont destinées à contenir de la <i>graisse</i>, sous
+quelque forme qu&#39;elle soit.
+</p>
+<p>
+On observe que la moëlle, qui ne differe guere de
+la <i>graisse</i> par sa nature, est aussi de différente espece
+par rapport à sa consistence : celle qui est dans les
+cellules osseuses des extrémités des os longs ou dans
+celles des os plats, est toûjours sous forme fluide,
+coulante comme de l&#39;huile ; au lieu que dans les grandes 
+cavités des os longs, elle a plus de consistence ;
+elle y est sous une forme presque solide, comme la
+<i>graisse</i> de la seconde espece. <i>Voyez</i> <sc><ref target="head:Moelle" type="search">Moelle</ref></sc>.
+</p>
+<p>
+Dans quelque partie du corps animal que l&#39;on
+trouve de la <i>graisse</i>, elle se présente toûjours renfermée 
+dans des cellules membraneuses de figure ovale
+&amp; un peu applaties, selon la remarque de Malpighi ; les cavités de ces cellules ont toutes de la communication 
+entre elles : les cellules elles-mêmes sont
+disposées de maniere qu&#39;elles forment des couches,
+des enveloppes dans certaines parties ; dans d&#39;autres,
+elles sont entassées &amp; forment comme des pelotons.
+Dans ces différentes dispositions, elles sont également renfermées dans des membranes extérieures
+qui les soûtiennent, &amp; terminent l&#39;étendue de leurs
+aggrégés. Tout ce composé forme les membranes
+adipeuses, qui sont d&#39;une épaisseur &amp; d&#39;un volume
+plus ou moins grands selon le nombre &amp; la capacité
+des cellules, &amp; selon qu&#39;elles sont plus ou moins
+remplies de la substance onctueuse qui forme la <i>graisse ;</i> elles sont flasques &amp; comme affaissées dans les
+sujets maigres.
+</p>
+<p>
+Si on expose à l&#39;action du feu une portion de membrane 
+adipeuse bien pleine de <i>graisse</i>, lorsqu&#39;elle est
+fondue &amp; au point de bouillir, les cloisons membraneuses 
+qui forment les cellules se rompent &amp; laissent
+s&#39;écouler un fluide qui paroit huileux, &amp; qui lorsqu&#39;il
+est encore chaud, est onctueux au tact ; il ne peut
+point être mêlé avec l&#39;eau, &amp; y surnage ; il est susceptible 
+de s&#39;enflammer &amp; de nourrir la flamme ; en
+se refroidissant il perd sa fluidité &amp; prend de la consistence 
+à-peu-près comme le beurre, &amp; peut devenir 
+même beaucoup plus ferme selon les animaux
+d&#39;où il est tiré.
+</p>
+<p>
+De tout cela on ne peut que conclure que la <i>graisse</i>
+est évidemment de la nature des huiles grasses ; à
+quoi M. Cartheuser, dans sa matiere médicale, <i>de
+unguinoso oleis &amp; pinguibus</i>, ajoûte qu&#39;outre la substance 
+huileuse il s&#39;y trouve encore une substance
+terreuse acide, qui donne à la <i>graisse</i> froide la consistance 
+qu&#39;elle est susceptible de prendre : ensorte que
+la solidité plus ou moins grande dépend du plus ou
+du moins de cette derniere substance qui s&#39;y trouve
+mêlée. Il donne pour fondement de cette assertion,
+d&#39;après l&#39;expérience rapportée dans les <i>mém. de l&#39;académie 
+des Sciences de Paris, 1719</i>, ce qui arrive lorsqu&#39;on mêle un sel ou un esprit acide avec de l&#39;huile
+d&#39;olives ou d&#39;amandes douces, &amp; qu&#39;on les met un
+peu en digestion ; savoir que ces huiles étant ensuite
+<pb n="7:839" facs="V7/ENC_7-839.jpeg" />
+<milestone unit="column" n="1" />
+refroidies, se coagulent, surnagent la surface du mélange,
+&amp; prennent la consistence &amp; la forme de la
+<i>graisse</i> &amp; même la solidité du suif. Il observe après
+cela que les animaux qui vivent de viandes s&#39;engraissent 
+plus difficilement &amp; plus rarement que les
+animaux qui ne vivent que d&#39;herbes ou de grains,
+&amp; sur-tout les ruminans qui sont les seuls qui fournissent 
+du suif proprement dit ; ce qu&#39;il pense devoir
+être attribué à cette différence d&#39;alimens, parce que
+ceux qui sont tirés du regne végétal sont imprégnés
+de cet acide coagulant qui ne se trouve point dans
+les chairs dans toutes les autres productions du regne
+animal, excepté le lait. De-là vient que l&#39;huile nourriciere 
+qui en est extraite par la digestion, n&#39;étant
+point susceptible de se figer lorsqu&#39;elle est déposée
+dans les cellules adipeuses, ne peut point y former de
+la <i>graisse</i> ferme, solide ; elle est reportée dans la masse 
+des humeurs, en retenant sa fluidité huileuse, &amp;
+elle y fournit matiere à la confection du sang, de la
+lymphe gélatineuse, &amp; se détruit ensuite par l&#39;action
+de la vie, sous une forme qui la dispose à être évacuée avec les différentes humeurs excrémenticielles
+dont elle est la partie rancide. D&#39;où il résulte, selon
+l&#39;auteur cité, que les animaux qui mangent peu de
+végétaux ne peuvent avoir que peu de <i>graisse</i> de
+consistance solide : mais il faut un acide mêle avec
+l&#39;huile des alimens, pour former cette <i>graisse</i>. Pourquoi cet acide ne s&#39;y trouve-t-il pas dans l&#39;analyse?
+Il n&#39;y a pas encore de preuves qu&#39;il en existe en
+nature dans aucune des humeurs animales. <i>Voyez</i>
+<sc><ref target="head:Fermentation" type="search">Fermentation</ref></sc>, (<i>Economie anim.</i>)
+</p>
+<p>
+Les parties huileuses qui sont destinées à fournir
+la matiere de la <i>graisse</i>, sont pour cet effet séparées
+de la masse du sang, comme la matiere de toutes les
+autres secrétions : les injections anatomiques ne laissent 
+aucun doute à cet égard ; étant faites dans les arteres 
+qui se distribuent aux membranes adipeuses, les
+liqueurs injectées passent facilement &amp; constamment
+de ces arteres dans les cellules dont sont composées
+les membranes, les remplissent &amp; les parcourent
+dans toute leur étendue par le moyen des communications 
+qui sont entre elles : la même chose arrive
+aussi de l&#39;injection faite dans les veines correspondantes.
+C&#39;est donc dans la partie où l&#39;artere se change 
+en veine, que se fait la séparation des molécules
+huileuses, &amp; qu&#39;elles entrent dans des conduits particuliers 
+destinés à les porter dans les cellules adipeuses.
+Ces conduits &amp; leurs orifices sont très-larges
+à proportion du diametre des vaisseaux sanguins d&#39;où
+ils partent ; ils sont aussi très-courts. Ainsi entre les
+différentes parties du sang, qui est un fluide bien
+hétérogene, celles qui sont le plus legeres, ou
+qui ont le moins de densité, de gravité spécifique,
+qui ont le mouvement le plus lent, &amp; qui ont le
+moins de disposition à conserver la direction de
+celui qu&#39;elles ont d&#39;abord reçû, doivent, selon les
+lois de l&#39;Hydraulique, se porter, ou pour mieux dire,
+être jettées vers les parois des vaisseaux, &amp; pénétrer 
+dans les ouvertures collatérales, lorsqu&#39;il s&#39;en
+trouve qui sont propres à les recevoir, tandis que
+les parties les plus denses, les plus mobiles, suivent
+l&#39;axe du vaisseau, &amp; s&#39;écartent le moins de la direction 
+du mouvement qu&#39;elles ont reçû. Ainsi les molécules 
+huileuses doivent enfiler les conduits adipeux,
+les canaux secretoires des sucs graisseux, tandis 
+que les globules du sang continuent leur route dans
+le milieu des arteres, pour passer dans les veines.
+<i>Voyez</i> <sc><ref target="head:Secrétion" type="search">Secrétion</ref></sc>.
+</p>
+<p>
+Ces sucs étant continuellement portés dans
+les cellules adipeuses, s&#39;y accumulent, les remplissent 
+jusqu&#39;à ce que ces cellules résistent à une trop
+grande dilatation, &amp; se vuident dans les voisines à
+proportion que les premieres reçoivent de nouvelle
+matiere pour être distribuée aux suivantes, &amp; ainsi
+<milestone unit="column" n="2" />
+des unes aux autres, jusqu&#39;à celles qui communiquent 
+à des veines sanguines correspondantes, qui
+reçoivent la surabondance des sucs graisseux dont
+se déchargent les cellules, après qu&#39;ils les ont toutes
+parcourues dans l&#39;intervalle des arteres qui rampent
+dans l&#39;intérieur des membranes, &amp; les veines qui en
+partent. Le suintement huileux qui se fait continuellement 
+à-travers les membranes de ces cellules contribue 
+à relâcher les tuniques de ces arteres, à en
+affoiblir le ressort, rend par-là le mouvement du sang
+plus lent, tout étant égal, que dans d&#39;autres arteres 
+aussi éloignées du centre du mouvement ; ensorte 
+que cette lenteur favorise beaucoup la séparation
+des molécules huileuses ; ce qui forme dans les animaux 
+gras une disposition à s&#39;engraisser toûjours davantage,
+sur-tout lorsqu&#39;à cette disposition particuliere 
+se joint le défaut d&#39;exercice ; par où l&#39;impulsion
+du sang dans les vaisseaux capillaires, est encore considérablement 
+diminuée, &amp; chaque partie du sang
+suit alors de plus en plus la tendance à la cohésion,
+que lui donne sa gravité spécifique, à proportion
+que la force du torrent s&#39;affoiblit ; tendance qui est
+une des principales causes qui concourent dans la secrétion 
+de la <i>graisse</i>, comme dans celle de toutes les
+autres humeurs.
+</p>
+<p>
+Et comme les sucs huileux en se séparant du sang,
+ne sont pas absolument dégagés des parties sereuses,
+puisqu&#39;elles servent de véhicule à toutes les humeurs
+en général dans leur cours, ils ne pourroient pas
+prendre la consistance de <i>graisse</i>, s&#39;ils ne se dépouilloient 
+pas de ces parties qui leur deviennent inutiles
+&amp; leur empêchent de former un tout homogene. La
+nature pourvoit à cette dépuration vraissemblablement,
+en faisant dans les cellules adipeuses mêmes
+une nouvelle secrétion des parties aqueuses par des
+vaisseaux collatéraux qui partent de ces cellules &amp;
+reçoivent ces parties pour les porter dans les vaisseaux 
+lymphatiques ; ensorte que les sucs graisseux
+parviennent à s&#39;épaissir de plus en plus à proportion
+qu&#39;ils se dépurent davantage, &amp; qu&#39;ils perdent plus
+de leur mouvement progressif dans les différentes cavités 
+des cellules qu&#39;ils parcourent ; &amp; à mesure que
+les molécules huileuses se réunissent entre elles en
+vertu de leur analogie naturelle, sans aucun corps
+étranger intermédiaire, &amp; acquierent plus de consistence : d&#39;où s&#39;ensuit enfin la formation complette de la
+substance onctueuse contenue dans ces cellules, qui
+devient une vraie <i>graisse ;</i> ce qui peut être comparé
+à ce qui se fait dans certains arbres, dont les sucs
+abondans principalement en parties aqueuses dans
+le tronc, se filtrent dans les branches &amp; dans l&#39;écorce,
+de maniere que ces parties s&#39;en separent entierement 
+&amp; qu&#39;il en résulte des substances huileuses,
+inflammables, comme les baumes, les résines. La
+<i>graisse</i> tirée du corps des animaux n&#39;est jamais dépouillée 
+à ce point-là de son humidité: mais pour
+peu qu&#39;elle soit exposée à l&#39;action du feu pour en faire
+évaporer les parties aqueuses qui lui restent, elle
+devient aisement susceptible de prendre flamme.
+</p>
+<p>
+Plusieurs physiologistes regardent la <i>graisse</i> ou les
+sucs huileux, filtrés, &amp; déposés dans les cellules des
+différentes membranes adipeuses, comme une matiere 
+qui étant reportée de ces cellules par des veines 
+dans la masse des humeurs, est principalement
+destinée à contribuer à la formation des globules rouges 
+du sang, &amp; par conséquent à la nutrition. <i>Voyez</i>
+<sc><ref target="head:Sanguification" type="search">Sanguification</ref>, <ref target="head:Nutrition" type="search">Nutrition</ref></sc>. Tel est l&#39;usage général 
+qu&#39;ils attribuent à cette substance ; il n&#39;est pas
+douteux qu&#39;il ne se fasse une circulation des parties
+fluides de la <i>graisse</i>, qu&#39;elles ne rentrent dans les
+vaisseaux sanguins, après avoir parcouru les cellules 
+adipeuses qui sont entre les arteres &amp; les veines
+correspondantes. Cela est bien prouvé par ce qui arrive 
+à la suite des exercices violens, des grandes
+<pb n="7:840" facs="V7/ENC_7-840.jpeg" />
+<milestone unit="column" n="1" />
+maladies, qui peuvent consumer la <i>graisse</i> la plus
+abondante en très-peu de tems : elle est forcée par
+les grands mouvemens musculaires, à parcourir ses
+cellules avec promptitude, &amp; à se remêler dans le
+sang ; &amp; même Ruysch, (<i>de gland. fabr. ad Boerrh.</i>)
+rapporte avoir ouvert le corps d&#39;un cheval très-gras,
+dont les cellules de l&#39;épiploon furent trouvées rompues 
+par l&#39;effet d&#39;une course forcée, au point qu&#39;il
+s&#39;étoit répandu plusieurs livres de <i>graisse</i> liquéfiée
+sous forme d&#39;huile dans la capacité du bas-ventre ; 
+ce qui avoit causé subitement la mort de l&#39;animal.
+Le même auteur, (<i>loco citato</i>) assûre aussi qu&#39;il
+a eu occasion d&#39;observer des malades dont la fievre
+avoit diminué en peu de jours le poids du corps de
+plus de trente livres.
+</p>
+<p>
+La trop grande chaleur animale &amp; l&#39;agitation extraordinaire 
+des humeurs, rendent la <i>graisse</i> plus fluide,
+la font rentrer plus promptement de ses cellules 
+dans la masse des humeurs, &amp; empêchent la réparation 
+des sucs adipeux en les détournant de leurs
+couloirs secrétoires, en ne leur permettant pas d&#39;y
+entrer à cause de la rapidité avec laquelle ils se presentent 
+à leurs orifices, d&#39;où ils sont comme entrainés 
+par le torrent.
+</p>
+<p>
+Malpighi prétend que le principal effet pour lequel
+la <i>graisse</i> est reportée dans la masse du sang, est d&#39;en
+adoucir l&#39;acrimonie que les circulations répétées lui
+font contracter, d&#39;en envelopper les sels exaltés par
+la chaleur, le mouvement, &amp; l&#39;alkalescence qui s&#39;en
+suit. Mais l&#39;observation paroit contraire à ce sentiment,
+puisqu&#39;on voit ordinairement que la fievre est
+plus ardente, &amp; les humeurs plus disposées à rancir,
+à devenir acres dans les sujets gras, que dans
+les maigres, &amp; que les animaux qui ont le plus de
+<i>graisse</i>, &amp; dans lesquels elle est plus ferme, moins disposee 
+à circuler, à être reportée dans le sang, sont
+d&#39;un caractere plus doux &amp; plus benin. Il est certain
+que la <i>graisse</i> ne peut pas être broyée par l&#39;action des
+muscles ou des vaisseaux, échauffée par le mouvement 
+des humeurs au point d&#39;être liquéfiée &amp; remêlée 
+dans la masse des humeurs, sans se corrompre
+&amp; devenir extremement nuisible à l&#39;économie animale.
+Mais n&#39;est-il pas plus vraissemblable que les
+parties huileuses que fournit, que rend au sang la
+<i>graisse</i> par sa circulation naturelle, sans échauffement, sont destinées principalement à la formation
+de la bile &amp; des autres humeurs, dans la composition 
+desquelles il entre de ces parties? L&#39;amas de
+<i>graisse</i> qui se fait dans l&#39;épiploon, dont le sang
+veineux fourni à la veine-porte est abondamment
+chargé des parties huileuses qui s&#39;y sont mêlées, ne
+semble-t-il pas prouver ce qui vient d&#39;être avancé?
+<i>Voyez</i> <sc><ref target="head:Foie" type="search">Foie</ref></sc> (<i>Physiol.</i>), <sc><ref target="head:Epiploon" type="search">Epiploon</ref></sc>.
+</p>
+<p>
+Quoi qu&#39;il en soit, les usages de la <i>graisse</i> sur lesquels 
+il n&#39;y a pas de contestation, sont tous relatifs
+à des effets particuliers, topiques : ainsi celle qui est
+renfermée dans la membrane adipeuse sous la peau,
+contribue à defendre le corps des injures de l&#39;air, &amp;
+sur-tout du froid, en mettant à couvert un grand
+nombre de vaisseaux sanguins &amp; de nerfs distribués
+sous les tégumens de toute l&#39;habitude du corps. Elle
+sert aussi à tenir la peau tendue, égale dans sa surface 
+pour l&#39;arrondissement des formes dans les differentes 
+parties ou il manqueroit sans ce moyen.
+C&#39;est ainsi que la <i>graisse</i> contribue beaucoup à la
+beaute du corps, en empêchant que la peau ne se
+ride, en remplissant les vuides dans les intervalles
+des muscles, où il y auroit sans elle des enfoncemens
+défectueux a la vûe, particulierement à l&#39;égard du
+visage, sous la peau des joües, des tempes, où il se
+trouve dans l&#39;embonpoint des pelotons de <i>graisse</i> qui
+soulevent les tégumens &amp; les mettent de niveau avec
+les parties saillantes, dont les endroits qui seroient
+creux, se trouvent environnés. La même chose a
+<milestone unit="column" n="2" />
+lieu par rapport aux yeux, dont le globe est aussi
+enveloppé dans la <i>graisse</i>, excepté dans sa partie
+anterieure, pour qu&#39;il soit d&#39;un volume proportionné 
+à la cavité de l&#39;orbite, &amp; comme pour mettre à
+couvert les muscles de ces organes des frottemens
+contre les parois osseuses qui les contiennent (attendu que toutes les membranes adipeuses sont insensibles 
+par elles-mêmes), &amp; pour faciliter le jeu
+des instrumens qui servent à les mouvoir. La <i>graisse</i>
+sert encore par la transudation huileuse qui s&#39;en fait,
+à entretenir une certaine flexibilité, une mollesse
+convenable dans la peau, pour favoriser le jeu des
+vaisseaux &amp; des nerfs de cette partie, &amp; pour faciliter 
+la transpiration cutanée, en conservant aux
+pores leur perméabilité. Elle est aussi d&#39;une grande
+utilité aux muscles en général, en leur procurant la
+souplesse nécessaire à leur action, &amp; en empêchant
+le frottement des fibres musculaires entr&#39;elles &amp; leur
+desséchement, qui contribue plus que la foiblesse à
+empêcher de se mouvoir les personnes qui sont dans
+le marasme.
+</p>
+<p>
+La <i>graisse</i> facilite la sortie des excrémens &amp; du
+fétus, en remplissant les intervalles qui se trouvent
+entre le rectum, le vagin, &amp; les os du bassin : elle
+tient lieu de coussinet dans d&#39;autres parties, &amp; empêche 
+qu&#39;elles ne soient exposées à des pressions incommodes,
+douloureuses, &amp; même à des contusions,
+comme aux fesses, au pubis, à la plante des
+piés. Elle n&#39;est jamais abondante dans les parties où
+il n&#39;y a que des muscles de peu de conséquence, comme 
+au front, autour du crane ; parce que la nature
+semble n&#39;en avoir placé que dans les parties exposées 
+à l&#39;action, à l&#39;agitation, au frottement ; comme
+pour y servir de préservatif contre les mauvais effets
+de ces différens mouvemens. Elle ne paroît manquer
+que dans les parties où elle seroit nuisible, où elle
+generoit les fonctions, sans être d&#39;ailleurs d&#39;aucune
+utilité; comme dans le tissu cellulaire des membranes 
+du cerveau. Il en est de même des parties où les
+mouvemens sont peu considérables, peu fréquens,
+par exemple, dans le tissu cellulaire, qui est sous la
+peau des paupieres, sous celle du prépuce, où elle
+seroit d&#39;un poids, d&#39;un volume incommode ; dans
+la continuation de la membrane adipeuse, qui tapisse
+intérieurement la peau du scrotum. Dans ces différentes 
+parties, les cellules analogues à celle de la
+membrane adipeuse, sont très petites, d&#39;un tissu plus
+délié, &amp; d&#39;une structure qui ne permet pas aux arteres 
+d&#39;y déposer les parties huileuses, dont leur sang
+est chargé; d&#39;autant plus qu&#39;il y a peu de ces vaisseaux 
+qui pénetrent dans les interstices de ces cellules : il n&#39;y entre presque que des vaisseaux lymphatiques,
+qui rendent ces parties des tégumens plus
+susceptibles de bouffissure, de leucophlegmatie ;
+lorsque la sérosité du sang est portée en trop grande
+abondance dans ces portions du tissu cellulaire, ce
+à quoi sont aussi sujettes celles de toutes les autres
+parties du corps ; lorsque les cellules sont vuides de
+sucs adipeux, &amp; qu&#39;il n&#39;y est porté au lieu de ces
+sues, que la partie aqueuse du sang, qui peut former
+des infiltrations de proche en proche, dans toute l&#39;étendue 
+de ce tissu, qui peut aussi dans certains cas,
+à défaut de <i>graisse</i>, se remplir d&#39;air, &amp; même avec
+de la <i>graisse</i>, être pénétre, distendu ultérieurement
+par le fluide aérien ; ce qui forme des emphysemes
+de différente espece. <i>Voyez</i> <sc><ref target="head:Emphysème" type="search">Emphysème</ref></sc>. Le même
+homme peut augmenter de volume du double par
+cette derniere cause, &amp; il se peut faire une augmentation 
+de poids aussi considérable par l&#39;hydropisie
+de tout le tissu cellulaire (<i>voyez</i> <sc><ref target="head:Hydropisie" type="search">Hydropisie</ref></sc>),
+comme par la trop grande réplétion de sucs adipeux
+qui forme une sorte d&#39;exces d&#39;embonpoint, qui est
+l&#39;<i>obésité</i>, sans que les solides qui constituent essentiellement 
+la masse du corps animal, acquierent rien de
+<pb n="7:841" facs="V7/ENC_7-841.jpeg" />
+<milestone unit="column" n="1" />
+plus dans cet état. <i>Voyez</i> <sc><ref target="head:Nutrition" type="search">Nutrition</ref></sc>. Et pour ce
+qui regarde les mauvais effets du trop de <i>graisse</i>, les
+moyens d&#39;y remédier, <i>voyez</i> <sc><ref target="head:Corpulence" type="search">Corpulence</ref>, <ref target="head:Obésité" type="search">Obésité</ref></sc>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

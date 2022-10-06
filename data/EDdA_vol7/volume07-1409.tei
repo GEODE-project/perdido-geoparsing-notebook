@@ -1,0 +1,197 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28863" id="51:143" vol="7">
+<index type="head" value="GALÉRIEN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Jurisprud. Marine." />
+<index type="normclass" value="Jurisprudence | Marine" />
+<index type="englishclass" value="Jurisprudence. Maritime" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>GALÉRIEN</head>
+<p>
+GALÉRIEN, s. m. (<i>Jurisprud. Marine.</i>) criminel
+condamné à servir de forçat sur les galeres du roi
+pendant un nombre d&#39;années limité, ou à perpétuité: au premier cas, la condamnation à la peine des
+galeres avec flétrissure, emporte infamie, sans confiscation 
+de corps ni de biens : au second, elle emporte 
+mort civile, confiscation de biens dans les
+provinces où la confiscation a lieu, &amp; privation de
+tous effets civils.
+</p>
+<p>
+Les fraudeurs &amp; contrebandiers condamnés aux
+galeres faute de payement &amp; par conversion d&#39;amende,
+ne sont plus flétris &amp; marqués (<i>déclaration du Roi
+de 1744</i>); ils sont admis à payer l&#39;amende après le
+jugement de conversion, même après qu&#39;ils ont
+commencé à subir la peine contr&#39;eux prononcée,
+&amp; doivent être aussi-tôt remis en liberté; le jugement 
+de conversion de peine demeurant en ce cas
+sans effet, &amp; comme non avenu. <i>Déclaration du Roi
+de 1756</i>.
+</p>
+<p>
+La peine des galeres a été sagement établie ; elle
+conserve au service de l&#39;état, sans danger pour la société,
+des sujets que leurs crimes auroient expatriés ou
+conduits au supplice : elle est d&#39;ailleurs plus conforme
+aux lois de l&#39;humanité.
+</p>
+<p>
+Les <i>galériens</i> ne furent d&#39;abord appliqués qu&#39;au
+service de la mer, suivant l&#39;esprit de la loi : mais la
+méchanceté des hommes en général, l&#39;ignorance de
+plusieurs juges, l&#39;avidité des suppôts des fermes,
+peut-être le vice de quelques lois pénales, porterent
+bien-tôt le nombre de ces malheureux au-delà de ce
+qu&#39;exigeoit le service des galeres, ils sont encore employés 
+aux divers travaux des ports : c&#39;est principalement 
+dans ceux de Brest &amp; de Marseille qu&#39;on les
+rassemble de toutes les provinces du royaume, où les
+officiers &amp; gardes de la chaine vont les prendre dans
+les mois d&#39;Avril &amp; de Mai de chaque année. Rendus
+dans les ports, ils sont partagés par chiourmes avec
+les esclaves, &amp; renfermés enchaînés dans des bagnes
+ou salles de force ; &amp; à défaut, loges à-bord des
+vaisseaux hors de service, sous la police des intendans
+ou ordonnateurs, &amp; la discipline des comites, argousins,
+&amp; autres bas officiers préposés pour la faire observer.
+</p>
+<p>
+Les forçats, <i>galériens</i>, ou esclaves, sont nourris
+dans les bagnes &amp; salles de force, à la même ration
+que sur les galeres dans le port.
+</p>
+<p>
+Ils sont employés de deux semaines l&#39;une, &amp; à
+tour de rôle, aux travaux de fatigue des arsenaux,
+suivant les ouvrages auxquels ils peuvent être destinés.
+On en accorde pour les manufactures utiles à la
+Marine, dans les différens ports ; &amp; aux fabriquans
+&amp; artisans, pour travailler chez eux, aux soûmissions
+usitées pour leur sûreté.
+</p>
+<p>
+On permet aux forçats d&#39;établir des barraques en-dehors 
+des bagnes ; d&#39;y travailler de leur metier ; &amp;
+d&#39;y vendre les ouvrages qu&#39;ils ont faits, les jours
+qu&#39;ils n&#39;ont pas été destinés à la fatigue de l&#39;arsenal.
+</p>
+<p>
+Les forçats ouvriers dans les barraques, &amp; ceux
+travaillant en ville, ne peuvent être exempts de la
+fatigue de l&#39;arsenal à leur tour, qu&#39;en payant un autre 
+forçat pour remplir leur service ; &amp; ce payement
+est fixé au moins à cinq sols.
+</p>
+<p>
+En cas d&#39;armement, les chiourmes font le service
+des galeres pendant la campagne ; au défaut d&#39;armement,
+il doit être établi chaque année des galeres
+d&#39;exercice, pour former &amp; entretenir les forçats,
+tant au séjour sur la galere, qu&#39;à la fatigue de la rame 
+&amp; aux autres manoeuvres.
+</p>
+<p>
+Les chiourmes sont dispensées, pendant leur tems
+d&#39;exercice, de la fatigue de l&#39;arsenal, &amp; peuvent
+s&#39;occuper, hors des heures d&#39;exercice, à divers ouvrages 
+à leur profit : moyennant quoi, il ne leur est
+<milestone unit="column" n="2" />
+donné que la ration ordinaire dans le port. <i>Voyez
+l&#39;ordonnance du Roi du 27 Septembre 1748</i>, portant
+réunion du corps des galeres à celui de la Marine.
+</p>
+<p>
+Quoique les <i>galériens</i> &amp; les esclaves confondus
+dans le partage des chiourmes, ne composent qu&#39;un
+même corps de forçats, associés aux mêmes travaux
+&amp; au même service, il faut pourtant distinguer leur
+état. Les premiers sont des criminels condamnés par
+nos lois ; les autres sont des hommes pris en guerre
+sur les infideles : suivant le droit de la guerre, ceux-ci 
+ne devroient être regardés que comme prisonniers ; 
+mais nous les réduisons dans une sorte d&#39;esclavage 
+par droit de représailles. <i>Article de M. <sc>Durival</sc> le jeune</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,356 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27676" id="48:98:6" vol="7">
+<index type="head" value="Forces accélératrices" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Forces accélératrices</head>
+<p>
+<sc>Forces accélératrices</sc>. Les <i>forces mortes</i> prises 
+dans le dernier sens, deviennent des <i>forces accélératrices</i> ou <i>retardatrices</i>, lorsqu&#39;elles sont en pleine
+liberté de s&#39;exercer ; car alors leur action continuée,
+ou accélere le mouvement, ou le retarde, si elle agit
+en sens contraire. <i>V.</i> <sc><ref target="head:Accélératrice" type="search">Accélératrice</ref></sc>. Mais cette
+maniere de considérer les <i>forces accélératrices</i> paroît
+sujette à de grandes difficultés. En effet, pourra-t-on
+dire, si le mouvement produit par une <i>forces accélératrice</i> quelconque, comme la pesanteur, commence 
+par zéro de vîtesse, pourquoi un corps pesant soûtenu 
+par un fil fait-il éprouver quelque résistance à
+celui qui le soûtient? Il devroit être absolument dans
+le même cas qu&#39;un corps placé sur un plan horisontal,
+&amp; attaché à un fil aussi horisontal à l&#39;extrémité 
+duquel on placeroit une puissance. Cette puissance 
+n&#39;auroit aucun effort à faire pour retenir le
+corps, parce que ce corps est en repos, ou ce qui revient<gap type="hyphenpb" />
+<pb n="7:117" facs="V7/ENC_7-117.jpeg" />
+<milestone unit="column" n="1" />
+au même, parce que la vîtesse avec laquelle il
+tend à se mouvoir est zéro. Or si la premiere vîtesse
+avec laquelle un corps pesant tend à se mouvoir est
+aussi égale à zéro comme on le suppose, pourquoi l&#39;effort 
+qu&#39;il faut faire pour le retenir n&#39;est-il pas absolument 
+nul? Ce corps en descendant prendra sans doute
+une vîtesse finie au bout d&#39;un tems quelconque, mais
+l&#39;effort qu&#39;on fait pour le soûtenir n&#39;agit pas contre
+la vîtesse qu&#39;il prendra, il agit contre celle avec laquelle 
+il tend actuellement à se mouvoir, c&#39;est-à-dire
+contre une vîtesse nulle. En un mot, un corps pesant
+soûtenu par un fil tend à se mouvoir horisontalement
+&amp; verticalement avec zéro de vîtesse ; d&#39;où vient donc
+faut-il un effort pour l&#39;empêcher de se mouvoir verticalement,
+&amp; n&#39;en faut-il point pour l&#39;empêcher de
+se mouvoir horisontalement? On ne peut répondre à
+cette objection que de deux manieres, dont ni l&#39;une
+ni l&#39;autre n&#39;est capable de satisfaire pleinement.
+</p>
+<p>
+On peut dire en premier lieu que l&#39;on a tort de
+supposer que la vîtesse initiale d&#39;un corps qui descend
+soit zéro absolu ; que cette vîtesse est finie quoique
+très-petite, &amp; aussi petite qu&#39;on voudra le supposer ;
+qu&#39;il paroît difficile de concevoir comment une vîtesse
+qui a commencé par zéro absolu deviendroit ensuite
+réelle ; comment une puissance dont le premier effet
+est zéro de mouvement, pourroit produire un mouvement 
+réel par la succession du tems ; que la pesanteur 
+est une <i>force</i> du même genre que la <i>force</i> centrifuge,
+ainsi qu&#39;on le verra dans la suite de cet article ;
+&amp; que cette derniere <i>force</i> telle qu&#39;elle a lieu dans
+la nature, n&#39;est point une <i>force</i> infiniment petite,
+mais une <i>force</i> finie très-petite, les corps qui se meuvent 
+suivant une courbe, ne décrivant point réellement 
+des courbes rigoureuses, mais des courbes polygones,
+composées d&#39;une quantité <i>finie</i>, mais très grande,
+de petites lignes droites contigues entr&#39;elles
+à angles très-obtus. Voilà la premiere réponse.
+</p>
+<p>
+Sur quoi je remarque, 1°. que s&#39;il est difficile &amp;
+peut-être impossible de comprendre comment une
+<i>force</i> qui a commencé par produire dans un corps
+zéro de vîtesse, peut par des corps successifs &amp; réitérés 
+à l&#39;infini, produire dans ce corps une vîtesse
+finie, on ne comprend pas mieux comment un solide 
+est formé par le mouvement d&#39;une surface sans
+profondeur, comment une suite de points indivisibles 
+peut former l&#39;étendue, comment une succession
+d&#39;instans indivisibles forme le tems, comment même
+des points &amp; des instans indivisibles se succedent,
+comment un atome en repos dans un point quelconque 
+de l&#39;espace peut être transporté dans un point
+différent ; comment enfin l&#39;ordonnée d&#39;une courbe
+qui est zéro au sommet, devient réelle par le seul
+transport de cette ordonnée le long de l&#39;abscisse:
+toutes ces difficultés &amp; d&#39;autres semblables, tiennent 
+à l&#39;essence toûjours inconnue &amp; toûjours incompréhensible 
+du mouvement, de l&#39;étendue &amp; du
+tems. Ainsi, comme elles ne nous empêchent point
+de reconnoître la réalité de l&#39;étendue, du tems &amp; du
+mouvement, la difficulté proposée contre le passage
+de la vîtesse nulle à la vîtesse finie, ne doit pas non
+plus être regardée comme décisive. 2°. Sans doute
+la <i>force</i> centrifuge, soit dans les courbes rigoureuses,
+soit dans les courbes considérées comme des
+polygones <i>infinis</i>, est comparable, quant à ses effets,
+à la pesanteur : mais pourquoi vent-on-qu&#39;aucune portion de courbe décrite par un corps dans
+la nature, ne soit rigoureuse, &amp; que toutes soient
+des polygones d&#39;un nombre de côtés fini, mais très grand?
+Ces côtés en nombre fini, &amp; très-petits, seroient 
+des lignes droites parfaites. Or pourquoi trouve-t-on moins de difficulté à supposer dans la nature
+des lignes droites parfaites très-petites, que des lignes
+courbes parfaites aussi très-petites? Je ne vois point
+la raison de cette préférence, la rectitude absolue
+<milestone unit="column" n="2" />
+étant aussi difficile à concevoir dans une portion d&#39;étendue 
+si petite qu&#39;on voudra, que la courbure absolue.
+3°. Et c&#39;est ici la difficulté principale à la 1<sup>re</sup> réponse,
+si la nature de la <i>force</i> accélératrice est de produire 
+au 1<sup>er</sup> instant une vîtesse très-petite, cette <i>force</i>
+agissant à chaque instant pendant un tems fini, produiroit 
+donc au bout de ce tems une vîtesse infinie ;
+ce qui est contre l&#39;expérience. On dira peut-être que
+la nature de la pesanteur n&#39;est point d&#39;agir à chaque
+instant, mais de donner de petits coups finis qui se
+succedent comme par secousses dans des intervalles
+de tems finis, quoique très-petits : mais on sent bien
+que cette supposition est purement arbitraire ; &amp;
+pourquoi la pesanteur agiroit-elle ainsi par secousses
+&amp; non pas par un effort continu &amp; non-interrompu?
+On ne pourroit tout-au-plus admettre cette hypothèse 
+que dans le cas où l&#39;on regarderoit la pesanteur
+comme l&#39;effet de l&#39;impulsion d&#39;un fluide ; &amp; l&#39;on sait
+combien il est douteux que la pesanteur vienne d&#39;une 
+pareille impulsion, puisque jusqu&#39;ici les phénomenes 
+de la pesanteur n&#39;ont pû s&#39;en déduire, ou
+même y paroissent contraires. <i>Voyez</i> 
+<sc><ref target="head:Pesanteur" type="search">Pesanteur</ref>, <ref target="head:Gravité" type="search">Gravité</ref> <i>&amp;</i> <ref target="head:Gravitation" type="search">Gravitation</ref></sc>. On voit par toutes
+ces réflexions, que la premiere réponse à la difficulté 
+que nous avons proposée sur la nature des
+<i>forces</i> accélératrices, est elle-même sujette à des
+difficultés considérables.
+</p>
+<p>
+On pourroit dire en second lieu pour répondre
+à cette difficulté, qu&#39;à la vérité un corps pesant, ou
+tout autre corps mû par une <i>force</i> accélératrice
+quelconque, doit commencer son mouvement par
+zéro de vîtesse : mais que ce corps n&#39;en est pas
+moins en disposition de se mouvoir verticalement
+si rien ne l&#39;en empêche ; au lieu qu&#39;il n&#39;a aucune
+disposition à se mouvoir horisontalement ; qu&#39;il y a
+par conséquent dans ce corps un <i>nisus</i>, une tendance 
+au mouvement vertical, qu&#39;il n&#39;a point pour
+le mouvement horisontal ; que c&#39;est ce <i>nisus</i>, cette
+tendance qu&#39;on a à soûtenir dans le premier cas, &amp;
+qu&#39;on n&#39;a point à soûtenir dans le second ; qu&#39;elle ne
+peut être contre-balancée que par un <i>nisus</i>, une tendance 
+pareille ; que l&#39;effort que l&#39;on fait pour soûtenir 
+un poids, est de même nature que la pesanteur ;
+que cet effort produiroit, à la vérité, au premier instant 
+une vîtesse infiniment petite, mais qu&#39;il est très différent 
+d&#39;un effort nul, parce qu&#39;un effort nul ne
+produiroit aucun mouvement, &amp; que l&#39;effort dont
+il s&#39;agit en produiroit un fini, au bout d&#39;un tems fini.
+Cette seconde réponse n&#39;est guere plus satisfaisante 
+que l&#39;autre ; car qu&#39;est-ce qu&#39;un <i>nisus</i> au mouvement,
+qui ne produit pas une vîtesse finie dans le
+premier instant? Quelle idée se former d&#39;un pareil
+effort? D&#39;ailleurs pourquoi l&#39;effort qu&#39;il faut faire
+pour soûtenir un grand poids, est-il beaucoup plus
+considérable que celui qu&#39;il faut faire pour arrêter
+une boule de billard qui se meut avec une vîtesse finie?
+Il semble au contraire que ce dernier devroit
+être beaucoup plus grand, si en effet la <i>force</i> de la
+pesanteur étoit nulle par rapport à celle de la percussion.
+</p>
+<p>
+Il résulte de tout ce que nous venons de dire, que
+la difficulté proposée mérite l&#39;attention des Physiciens &amp; des Géometres. Nous les invitons à chercher 
+des moyens de la résoudre plus heureusement
+que nous ne venons de faire, supposé qu&#39;il soit possible 
+d&#39;en trouver.
+</p>
+<p>
+<i>Lois des forces accélératrices, &amp; maniere de les comparer</i>. Quoi qu&#39;il en soit de ces réflexions sur la nature 
+des <i>forces accélératrices</i>, il est au-moins certain dans
+le sens qu&#39;on l&#39;a expliqué <i>au mot</i> <sc><ref target="head:Accélératrice" type="search">Accélératrice</ref></sc>,
+que si on appelle <foreign lang="greek">φ</foreign> la <i>force</i> accélératrice d&#39;un corps,
+<i>dt</i> l&#39;élément du tems, <i>du</i> celui de la vîtesse, on aura
+<foreign lang="greek">φ</foreign> <i>dt = du ;</i> si la <i>force</i> est retardatrice, au lieu
+d&#39;être accélératrice, on aura <foreign lang="greek">φ</foreign> <i>dt =-du</i>, parce
+<pb n="7:118" facs="V7/ENC_7-118.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;alors <i>t</i> croissant, <i>u</i> diminue ; sur quoi <i>voyez mon
+traité de Dynamique, articles 19 &amp; 20</i>. Or nommant
+<i>e</i> l&#39;espace parcouru, on a <i>u=(d e)/(d t)</i> (<i>voyez</i> <sc><ref target="head:Vitesse" type="search">Vitesse</ref></sc>) ;
+donc l&#39;équation <foreign lang="greek">φ</foreign> <i>d t=± d u</i>, donne aussi celle-c<sup>i</sup>
+<foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>=<i>± d d e ;</i> c&#39;est-à-dire que les petits espaces
+que fait parcourir à chaque instant une <i>force</i> accélératrice 
+ou retardatrice, sont entr&#39;eux comme les
+quarrés des tems.
+</p>
+<p>
+Cette équation <foreign lang="greek">φ</foreign> <i>d t</i><sup>2</sup>=<i>± d d e</i>, ou, ce qui revient 
+au même, l&#39;équation <foreign lang="greek">φ</foreign> <i>d t=± d u</i> n&#39;est point
+un principe de méchanique, comme bien des auteurs
+le croyent, mais une simple définition ; la <i>force</i> accélératrice 
+ne se fait connoître à nous que par son
+effet : cet effet n&#39;est autre chose que la vitesse qu&#39;elle
+produit dans un certain tems ; &amp; quand on dit, par
+exemple, que la <i>force</i> accélératrice d&#39;un corps est réciproquement 
+proportionnelle au quarré de la distance,
+on veut dire seulement que <i>d u/d t</i> est réciproquement 
+proportionnel à ce quarré; ainsi <foreign lang="greek">φ</foreign> n&#39;est que
+l&#39;expression abregée de <i>(d u)/(d t)</i>, &amp; le second membre de
+l&#39;équation qui exprime la valeur de <i>(d u)/(d t). Voyez l&#39;article</i> <sc><ref target="head:Accélératrice" type="search">Accélératrice</ref></sc> <i>&amp; mon traité de Dynamique</i> déjà 
+cités.
+</p>
+<p>
+L&#39;équation <i>(d d e)/(d t</i><sup>2</sup>)=<foreign lang="greek">φ</foreign> fait voir que pendant un instant 
+l&#39;effet de toute <i>force</i> accéleratrice quelconque
+est comme le quarre du tems ; car la quantité variable 
+<foreign lang="greek">φ</foreign> pouvant être censée constante pendant un
+instant, <i>(d d e)/(d t</i><sup>2</sup>) est donc constant pendant cet instant,
+&amp; par conséquent <i>d d e</i> est comme <i>d t</i><sup>2</sup>. Ainsi pendant 
+un instant quelconque les petits espaces qu&#39;une
+<i>force</i> accélératrice quelconque fait parcourir, sont
+entr&#39;eux comme les quarrés des tems ou plûtôt des
+instans correspondans ; toute cause accélératrice agit
+donc dans un instant de la même maniere &amp; suivant
+les mêmes lois que la pesanteur agit dans un tems
+fini ; car les espaces que la pesanteur fait parcourir
+sont comme les quarrés des tems. <i>Voyez</i> <sc><ref target="head:Accélération" type="search">Accélération</ref> <i>&amp;</i> <ref target="head:Descente" type="search">Descente</ref></sc>. Donc si on nomme <i>a</i> l&#39;espace 
+que la pesanteur <i>p</i> feroit parcourir pendant un
+tems quelconque <foreign lang="greek">θ</foreign>, on aura <gap type="formula" />, &amp; par
+conséquent <gap type="formula" /> ; formule générale pour
+comparer avec la pesanteur <i>p</i> une force accélératrice 
+quelconque <foreign lang="greek">φ</foreign>.
+</p>
+<p>
+Mais il y a sur cette formule une remarque importante 
+à faire ; elle ne doit avoir lieu que quand
+on regarde comme courbe rigoureuse la courbe
+qui auroit les tems <i>t</i> pour abscisses &amp; les espaces <i>e</i>
+pour ordonnées ; ou, ce qui revient au même, qui
+représenteroit par l&#39;équation entre ses coordonnées
+l&#39;equation entre <i>e</i> &amp; <i>t. Voyez</i> <sc><ref target="head:Equation" type="search">Equation</ref></sc>. Car
+si on regarde cette courbe comme polygone, alors
+<i>d d e</i> prise à la maniere ordinaire du calcul différentiel 
+aura une valeur double de celle qu&#39;elle a dans
+la courbe rigoureuse, &amp; par conséquent il faudra
+supposer <gap type="other" />, afin de conserver à <foreign lang="greek">φ</foreign> la même
+valeur. <i>Voyez sur cela les mots</i> 
+<sc><ref target="head:courbe" type="search">Courbe polygone</ref> <i>&amp;</i> <ref target="head:différentiel" type="search">Différentiel</ref></sc>, <i>page 988. col.</i> 1. C&#39;étoit faute
+d&#39;avoir fait cette attention, que le célebre M. Newton s&#39;étoit trompé sur la mesure des <i>forces</i> centrales
+dans la premiere édition de ses <i>Principes ;</i> M. Bernoulli l&#39;a prouvé dans les <i>mémoires de l&#39;académie des
+Sciences de 1711 ;</i> on faisoit alors en Angleterre une
+nouvelle édition des <i>principes</i> de M. Newton ; &amp; ce
+grand homme se corrigea sans répondre. Pour mieux
+faire sentir par un exemple simple combien cette
+distinction entre les deux équations est nécessaire,
+je suppose <foreign lang="greek">φ</foreign> constante &amp; égale à <i>p ;</i> on aura donc
+<gap type="formula" /> par la premiere équation ; &amp; en intégrant 
+<gap type="mormula" />. Donc si <i>t</i> est=<foreign lang="greek">θ</foreign>, on auroit <i>e=a/2</i>  ;
+<milestone unit="column" n="2" />
+ce qui est contre l&#39;hypothèse, puisqu&#39;on a supposé
+que <i>a</i> est l&#39;espace decrit dans le tems <foreign lang="greek">θ</foreign>, &amp; que par
+conséquent si <i>t</i>=<foreign lang="greek">θ</foreign>, on aura <i>e=a ;</i> au contraire en
+faisant <gap type="mormula" />, on trouvera, comme on le
+doit, <i>e=a</i>. Cette remarque est très-essentielle pour
+éviter bien des paralogismes.
+</p>
+<p>
+L&#39;équation <foreign lang="greek">φ</foreign> <i>d t=d u</i>, donne <foreign lang="greek">φ</foreign> <i>d e=u d u</i>, à
+cause de <i>d t=(d e)/u ;</i> donc <i>u u</i>=2 <i>s</i> <foreign lang="greek">φ</foreign> <i>d e ;</i> autre équation entre les vitesses &amp; les espaces pour les <i>forces</i>
+accélératrices. Donc si, par exemple, <foreign lang="greek">φ</foreign> est constant,
+on aura <i>u u</i>=2 <foreign lang="greek">φ</foreign> <i>e ;</i> c&#39;est l&#39;équation entre les
+espaces &amp; les vîtesses, dans le mouvement des
+corps que la pesanteur anime.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

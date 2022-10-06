@@ -1,0 +1,225 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28411" id="50:159:2" vol="7">
+<index type="head" value="Froid" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie." />
+<index type="normclass" value="Chimie" />
+<index type="englishclass" value="Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Froid</head>
+<p>
+<sc>Froid</sc>, (<i>Chimie.</i>) Les Chimistes prennent ce mot
+dans deux acceptions différentes.
+</p>
+<p>
+Premierement, pour la présence, l&#39;action positive 
+&amp; réelle d&#39;une chaleur foible, de celle que notre
+atmosphere emprunte des rayons refléchis du soleil,
+ou, ce qui est la même chose, pour la chaleur naturelle 
+de l&#39;ombre, dans toutes les saisons de l&#39;année.
+C&#39;est ainsi qu&#39;ils disent d&#39;une dissolution faite à l&#39;ombre,
+&amp; sans le secours d&#39;un feu artificiel, qu&#39;elle est
+faite à <i>froid</i> ; d&#39;une certaine application de l&#39;eau, chaude 
+comme l&#39;atmosphere qui l&#39;environne, que c&#39;est
+une macération ou infusion à <i>froid ;</i> d&#39;une lessive saline 
+placée pour crystalliser loin de tout feu artificiel
+&amp; à l&#39;abri des rayons directs du soleil, qu&#39;elle est
+mise ou gardée au <i>froid</i>, ou bien dans un lieu <i>froid</i>
+ou frais.
+</p>
+<p>
+Les variétés des saisons &amp; les diverses températures 
+des lieux plus ou moins bas &amp; profonds, ou ombragés 
+par l&#39;interposition de corps plus ou moins denses,
+fournissent les differens degrés de ce <i>froid</i> chimique 
+sous lequel on opere ordinairement. La perfection 
+qu&#39;acquierent certains vins en vieillissant dans
+les bonnes caves, est dûe à une espece de digestion
+lente ou de fermentation insensible, que le <i>froid</i>,
+c&#39;est-à-dire la chaleur foible du lieu, entretient dans
+ces liqueurs. Il est quelques cas rares dans lesquels
+on augmente ce <i>froid</i> par art, par l&#39;application de la
+glace, comme dans la préparation de l&#39;éther nitreux.
+<i>Voyez</i> <sc><ref target="head:Ether nitreux" type="search">Ether nitreux</ref></sc>.
+</p>
+<p>
+Il est clair que le <i>froid</i> dont nous venons de parler,
+n&#39;est proprement qu&#39;un degré de feu. <i>Voyez</i> <sc><ref target="head:Feu" type="search">Feu</ref></sc>.
+</p>
+<p>
+Secondement, les Chimistes prennent le mot <i>froid</i>
+dans son acception la plus vulgaire, pour le contraire 
+ou l&#39;absence de la chaleur. Le <i>froid</i> ainsi conçû
+comme agent ou comme obstacle physique, est employé 
+principalement à suspendre des mouvemens
+chimiques, ces altérations communément appellées
+<i>spontanées</i>, que subissent les corps composés sous la
+température moyenne de notre atmosphere, c&#39;est-à-dire à conserver ces substances. <i>Voyez</i> <sc><ref target="head:Conservation" type="search">Conservation</ref></sc>, (<i>Pharmac.</i>) Ce <i>froid</i> est encore employé à
+modérer l&#39;expansion de certains produits volatils
+des distillations, &amp; à empêcher par là la dissipation
+de ces produits ; ce qui s&#39;appelle <i>rafraîchir. Voy.</i> <sc><ref target="head:Rafraichir" type="search">Rafraichir</ref></sc> (<i>Chimie</i>), <i>&amp;</i> <sc><ref target="head:Distillation" type="search">Distillation</ref></sc>.
+</p>
+<p>
+L&#39;emploi de ce <i>froid</i> chimique est toûjours absolu ;
+&amp; par conséquent les Chimistes cherchent toûjours
+à s&#39;en procurer le degre le plus fort qu&#39;il est possible.
+</p>
+<p>
+Mais le degré usuel, commun, vulgaire, est celui
+qu&#39;on obtient dans le raffraîchissement, par l&#39;application 
+des linges mouillés, de l&#39;eau froide en masse,
+ou tout au plus de la glace ; &amp; pour la conservation,
+celui que fournissent les bonnes caves.
+</p>
+<p>
+Il est clair par ce que nous venons d&#39;exposer, que
+nous n&#39;opérons &amp; que nous n&#39;observons que sous un
+degré de <i>froid</i> peu considérable ou peu durable. Cependant l&#39;emploi philosophique d&#39;un <i>froid</i> plus fort
+&amp; plus constant, nous procureroit diverses connoissances 
+aussi utiles que curieuses : d&#39;abord, il feroit
+connoitre le premier ou le plus insensible degré de
+corruption, &amp; par conséquent, l&#39;action naissante du
+feu, l&#39;énergie de son moindre degré chimique ;
+il nous fourniroit l&#39;occasion d&#39;observer l&#39;altération
+lente &amp; réguliere de certaines matieres, des substances 
+animales, par exemple, que le <i>froid</i> des meilleures 
+caves ne sauroit préserver d&#39;une corruption
+prompte &amp; tumultueuse. Il y auroit même des cas,
+<pb n="7:320" facs="V7/ENC_7-320.jpeg" />
+<milestone unit="column" n="1" />
+où l&#39;action d&#39;un feu si leger pouvant être réputée
+nulle, on auroit la contre-preuve de nos dogmes sur
+le feu, par la considération des phénomenes à la production 
+desquels cet agent ne contribueroit pas.
+</p>
+<p>
+Une bonne glaciere qu&#39;on pourroit disposer de diverses 
+façons commodes, dans laquelle on pourroit
+pratiquer des especes d&#39;étuves froides, des tiroirs à
+la façon de ceux des fours à poulets ; une bonne
+glaciere, dis-je, fourniroit le réservoir le plus sûr &amp;
+le plus commode de ce <i>froid</i>. Nous ne saurions dans
+nos climats nous procurer un <i>froid</i> durable plus fort ;
+car les gelées ne s&#39;y soûtiennent pas long-tems sans
+interruption, &amp; les <i>froids</i> artificiels excités par des
+dissolutions salines, ne sont que momentanés, ou du moins 
+fort courts. L&#39;application continuelle de la
+glace à l&#39;air ouvert, n&#39;est pratiquable que pour un
+tems fort court : or la durée &amp; la continuité du <i>froid</i>
+sont absolument essentielles ; car comme la lenteur
+du changement chimique est proportionnelle au peu
+d&#39;intensité de la cause qui le produit, du feu, il faut
+que cette lenteur soit compensée par la durée de l&#39;action : il faudra souvent plusieurs années pour pouvoir 
+observer des altérations sensibles.
+</p>
+<p>
+Le chimiste qui voudra donc connoître les effets
+de la suite entiere des degrés du feu chimique sur
+différentes substances, placera son laboratoire entre
+un fourneau de verrerie &amp; une glaciere, ou se pourvoira 
+de l&#39;un &amp; de l&#39;autre.
+</p>
+<p>
+Le même degré de <i>froid</i> employé à conserver &amp;
+à fournir en tout tems des gibiers &amp; des fruits inconnus 
+dans certaines saisons, pourroit procurer
+une source de luxe qui figureroit très-bien à côté
+des serres chaudes de nos modernes Apicius. Le premier 
+moyen iroit au même but que le dernier, par
+une voie vraissemblablement plus commode &amp; plus
+sûre, mais qui seroit moins dispendieuse, &amp; par conséquent 
+moins magnifique ; ce qui est un inconvénient 
+réel.
+</p>
+<p>
+La concentration à la gelée du vin &amp; du vinaigre
+n&#39;a aucun rapport avec l&#39;usage du <i>froid</i> chimique,
+qui a fait le sujet de cet article. <i>Voyez</i> 
+<sc><ref target="head:Concentration" type="search">Concentration</ref>, <ref target="head:Vin," type="search">Vin,</ref> <i>&amp;</i> <ref target="head:Vinaigre" type="search">Vinaigre</ref></sc>
+. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

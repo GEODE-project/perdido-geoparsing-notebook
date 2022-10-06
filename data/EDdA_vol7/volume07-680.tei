@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28134" id="50:33:2" vol="7">
+<index type="head" value="Fraise" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Arquebousier." />
+<index type="normclass" value="Arquebuserie" />
+<index type="englishclass" value="Gunmaking" />
+<index type="generatedclass" value="Arquebuserie" />
+<index type="pos" value="NA" />
+<head>Fraise</head>
+<p>
+<sc>* Fraise</sc>, (<i>Arquebousier.</i>) voyez <i>à l&#39;article</i> <sc>Fraise</sc>
+(<i>Horloger</i>) la définition générale de ce mot.
+</p>
+<p>
+L&#39;arquebusier a quatre especes de <i>fraise:</i> la <i>fraise</i>
+à bassinet, la <i>fraise</i> plate, la <i>fraise</i> pointue, la <i>fraise</i>
+à roder.
+</p>
+<p>
+<i>La fraise à bassinet</i> est un morceau d&#39;acier gros
+&amp; rond comme un gland, &amp; mâché comme une lime ; 
+elle a une petite queue quarrée &amp; longue d&#39;un
+demi-pouce ; cette queue entre dans le trou de la
+broche qui porte la boîte, &amp; qui traverse le chevalet.
+Les Arquebusiers s&#39;en servent pour polir le creux
+d&#39;un bassinet, en posant le gland ou la <i>fraise</i>, &amp; le
+faisant tourner dedans par le moyen de l&#39;archet dont
+la corde entoure la boîte.
+<pb n="7:276" facs="V7/ENC_7-276.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>La fraise plate</i> a un bout rond, plat, &amp; plus gros
+que le reste ; ce bout est cannelé, &amp; sert aux Arquebusiers de la même maniere que la <i>fraise</i> pointue
+pour faire un trou plat où l&#39;on puisse placer la tête
+d&#39;une vis plate, &amp; empêcher qu&#39;elle n&#39;excede sur
+la piece.
+</p>
+<p>
+<i>La fraise pointue</i> est un petit foret quarré, long de
+deux à trois pouc. dont un des bouts représente une
+<i>fraise pointue</i> &amp; cannelée sur toute sa longueur ; les
+Arquebusiers s&#39;en servent pour aggrandir un trou
+dans une piece de fer, &amp; le faire plus large d&#39;un côté 
+que de l&#39;autre ; l&#39;on s&#39;en sert comme des forets en
+la posant dans la boîte &amp; la tournant de même.
+</p>
+<p>
+<i>La fraise à roder</i>, est une espece de clou de la longueur 
+du pouce, dont la queue est ronde, unie, &amp;
+un peu forte ; la tête un peu plus large, ronde, épaisse, &amp; un peu mâchée en-dedans comme une lime.
+Les Arquebusiers s&#39;en servent pour unir en-dessus
+l&#39;oeil où doit être placé une vis, pour que la tête
+porte bien à-plomb. Ils font passer la queue de cette
+<i>fraise</i> dans l&#39;oeil, de façon que le côté mâché de la
+tête porte dessus la face de cet oeil. Ensuite ils mettent 
+la queue de cette <i>fraise</i> dans l&#39;étau à main, &amp;
+tournent à droite &amp; à gauche pour faire mordre la
+<i>fraise</i> sur le fer qu&#39;ils veulent roder &amp; unir.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

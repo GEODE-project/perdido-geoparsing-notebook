@@ -1,0 +1,497 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28088" vol="7">
+<index type="head" value="Fraction" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Rallier des Ourmes" />
+<index type="shortauth" value="Rallier des Ourmes" />
+<index type="kafnum" value="113" />
+<index type="kafauth" value="Rallier Des Ourmes, Jean-Joseph (1701-1771)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Arithmétique &amp; Algebre." />
+<index type="normclass" value="Arithmétique | Algèbre" />
+<index type="englishclass" value="Arithmetic | Algebra" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Fraction</head>
+<p>
+I. <sc>Fraction</sc>, (<i>Arithmétique &amp; Algebre.</i>) Dans le
+sens le plus étendu, une <i>fraction</i> est une <i>division indiquée</i> ; dans un sens plus étroit, &amp; en tant qu&#39;on l&#39;oppose 
+à <i>l&#39;entier</i>, c&#39;est une <i>division</i> indiquée <i>qui ne peut
+se consommer</i>.
+</p>
+<p>
+II. L&#39;une &amp; l&#39;autre définition emportent nécessairement 
+deux termes, dont l&#39;un représente le dividende,
+l&#39;autre le diviseur. On les place l&#39;un sous
+l&#39;autre avec une petite ligne transversale entre deux.
+Le supérieur, qui représente le dividende, est dit
+<i>numérateur</i> ; &amp; l&#39;inférieur, qui représente le diviseur,
+est dit <i>dénominateur de la fraction</i>. Ainsi <sup>a</sup>/<sub>b</sub> est une <i>fraction</i> dont <i>a</i> est le numérateur &amp; <i>b</i> le dénominateur.
+</p>
+<p>
+III. Si le numérateur est multiple du dénominateur,
+la <i>fraction</i> supposée ne l&#39;est que par l&#39;expression,
+puisque la division venant à s&#39;effectuer, le quotient 
+est un entier.
+</p>
+<p>
+Si le numérateur, sans être multiple du dénominateur,
+est d&#39;ailleurs plus grand que lui, il le contiendra,
+au moins une fois, avec un reste : c&#39;est ce
+qu&#39;on appelle <i>fraction mixte</i>, parce que le quotient
+est un entier joint à une <i>fraction</i>.
+<pb n="7:264" facs="V7/ENC_7-264.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Enfin si le numérateur est plus petit que le dénominateur ; 
+c&#39;est une <i>fraction pure</i> sur laquelle la division 
+n&#39;a point de prise, &amp; qui est elle-même son
+quotient.
+</p>
+<p>
+12/3=4 est une <i>fraction</i> de la premiere espece ; 6/5
+=1+1/5 une de la seconde ; 2/3=2/3 une de la troisieme.
+</p>
+<p>
+IV. Toute <i>fraction</i>, comme celle-ci 2/3, peut s&#39;énoncer 
+de deux manieres, ou <i>2 divisé par 3</i> (c&#39;est-à-dire <i>le tiers de deux</i>) ou <i>deux tiers</i>. La premiere maniere 
+est relative aux définitions ci-dessus. Suivant
+la seconde, on conçoit l&#39;unité divisée en parties
+dont le dénominateur indique l&#39;<i>espece</i> &amp; le numérateur 
+le <i>nombre</i> qu&#39;il en faut prendre. Mais cette diversité 
+dans la maniere d&#39;énoncer n&#39;influe en rien
+sur le fond ; soit qu&#39;on divise 2 toises ou 12 piés par
+3, c&#39;est-à-dire qu&#39;on en prenne le tiers, soit qu&#39;on
+prenne les deux tiers d&#39;une toise ou de 6 piés, le résultat 
+est également 4 piés.
+</p>
+<p>
+V. Pour procéder avec quelque ordre dans une
+matiere d&#39;un détail assez épineux, nous traiterons
+d&#39;abord des <i>fractions</i> prises singulierement, puis nous
+comparerons diverses <i>fractions</i> ensemble, enfin nous
+en donnerons le calcul.
+</p>
+<p>
+VI. <i>Des fractions prises singulierement</i>. La valeur
+absolue d&#39;une <i>fraction</i> est d&#39;autant plus grande, que
+son numérateur est plus grand &amp; son dénominateur
+plus petit ; &amp; au contraire.
+</p>
+<p>
+Pour en sentir la raison, il suffit de se rappeller
+que le numérateur est le dividende, le dénominateur
+le diviseur, &amp; la valeur de la <i>fraction</i> le quotient.
+<i>Voyez</i> <sc><ref target="head:Division" type="search">Division</ref></sc>.
+</p>
+<p>
+VII. Pour doubler, tripler, <i>&amp;c.</i> la valeur d&#39;une
+<i>fraction</i>, c&#39;est donc la même chose de multiplier son
+numérateur, ou de diviser son dénominateur par 2,
+3, <i>&amp;c...</i> comme pour en prendre la moitié, le tiers,
+<i>&amp;c.</i> c&#39;est la même chose de diviser son numérateur
+ou de multiplier son dénominateur par 2, 3, <i>&amp;c</i>.
+</p>
+<p>
+VIII. Donc la valeur d&#39;une <i>fraction</i> n&#39;est point
+changée, soit qu&#39;on multiplie, soit qu&#39;on divise <i>ses
+deux termes</i> par la même grandeur <i>n ;</i> car l&#39;effet de
+l&#39;opération faite sur le numérateur sera détruit par
+l&#39;opération subséquente sur le dénominateur. C&#39;est
+en effet multiplier ou diviser la <i>fraction</i> par <i>n/n</i>=1 ;
+or 1 ne change point les grandeurs, soit qu&#39;il divise,
+soit qu&#39;il multiplie.
+</p>
+<p>
+IX. Cela même fournit le moyen de réduire un
+entier <i>a</i> en <i>fraction</i> d&#39;un dénominateur quelconque <i>n</i>,
+sans altérer sa valeur ; il n&#39;y a qu&#39;à le multiplier &amp;
+le diviser par <i>n</i>.
+</p>
+<p>
+Si l&#39;on fait <i>n</i>=1, on aura <i>a</i>x1/1=<i>a</i>1; &amp; c&#39;est la
+maniere la plus simple de réduire un entier en <i>fraction</i>, lorsqu&#39;on n&#39;a pas d&#39;ailleurs intérêt de lui donner 
+un dénominateur déterminé.
+</p>
+<p>
+X. On dit qu&#39;une <i>fraction</i> est <i>réduite à ses plus simples
+termes</i>, quand les deux termes qui l&#39;expriment sont
+premiers entr&#39;eux. <i>Voy</i>. 
+<sc><ref target="head:Premier" type="search">Premier</ref> <i>&amp;</i> <ref target="head:Nombre premier" type="search">Nombre premier</ref></sc>
+. S&#39;ils ne le sont pas, on les réduit à l&#39;être, en
+les divisant par leur plus grand diviseur commun.
+Ainsi 18/24 se réduit à 3/4, en divisant le numérateur &amp;
+le dénominateur par leur plus grand commun diviseur 
+6. <i>Voyez</i> <sc><ref target="head:Diviseur" type="search">Diviseur</ref></sc>.
+</p>
+<p>
+Il est clair (<i>n°:</i> VIII.) que par cette opération la
+valeur de la <i>fraction</i> n&#39;est point changée.
+</p>
+<p>
+XI. Pour trouver la valeur d&#39;une <i>fraction</i> relativement 
+à un entier d&#39;une espece déterminée, voici
+la méthode. On suppose la <i>fraction</i> pure ; parce que,
+si originairement elle étoit mixte, on a dú préalablement 
+en tirer l&#39;entier par la voie ordinaire.
+</p>
+<p>
+Le dénominateur de la <i>fraction</i> restant le diviseur
+constant, prenez successi vement pour dividende, 1°.
+le numérateur réduit en aliquotes <i>premieres</i> de l&#39;entier 
+(<i>voyez</i> <sc><ref target="head:Aliquote" type="search">Aliquote</ref></sc>); 2°. le reste, s&#39;il y en a, réduit 
+en aliquotes secondes de l&#39;entier ; 3°. le second
+<milestone unit="column" n="2" />
+reste réduit, <i>&amp;c.</i> jusqu&#39;à ce que la division soit exacte,
+ou que vous soyez parvenu à l&#39;aliquote derniere.
+Ces divers quotiens seront, dans l&#39;ordre qu&#39;ils ont
+été trouvés, des aliquotes premieres, secondes,
+troisiemes, <i>&amp;c.</i> de l&#39;entier. Si le dernier quotient
+laisse un reste, vous l&#39;écrirez en <i>fraction</i> à l&#39;ordinaire.
+Ainsi cette <i>fraction 3/5</i>, s&#39;il s&#39;agit d&#39;étendue, &amp; que
+l&#39;entier soit une <i>toise</i>, est 3 piés 7 pouces 2 2/3 lignes ;
+car 3x6/5=3, &amp; il reste 3: 3x12/5=7, &amp; il reste 1:
+1x12/5=2 2/5.
+</p>
+<p>
+La même <i>fraction 3/5</i>, s&#39;il s&#39;agit de monnoie, &amp; que
+l&#39;entier soit une <i>livre</i>, est 12 s.
+</p>
+<p>
+Cete même <i>fraction 3/5</i>, s&#39;il s&#39;agit de tems, &amp; que
+l&#39;entier soit une heure, est 36&#39;.
+</p>
+<p>
+XII. <i>De la comparaison des fractions</i>. Le but qu&#39;on
+se propose, en comparant ensemble diverses <i>fractions</i>, est de découvrir le rapport qu&#39;elles ont entr&#39;elles. Ce rapport est sensible, dès que les <i>fractions</i>
+ont le même dénominateur ; car, <i>a/c.b/c::a.b</i>, puisque 
+le produit des extrèmes est égal au produit des
+moyens (<i>V.</i> <sc><ref target="head:Proportion" type="search">Proportion</ref></sc>), c&#39;est à-dire qu&#39;alors les
+<i>fractions</i> sont entr&#39;elles comme leurs numérateurs.
+</p>
+<p>
+Il ne s&#39;agit donc que de donner aux <i>fractions</i> proposées 
+un dénominateur commun, lorsqu&#39;elles ne
+l&#39;ont pas. Or pour cela, quel que puisse être le nombre 
+des <i>fractions</i>, voici une regle simple &amp; unique.
+</p>
+<p>
+Multipliez les deux termes de chaque <i>fraction</i> par
+le produit continu des dénominateurs des autres <i>fractions</i> ; il est clair (<i>n°.</i> VIII.) que par cette opération 
+la valeur de chaque <i>fraction</i> primitive n&#39;est
+point changée ; &amp; il n&#39;est pas moins évident qu&#39;il en
+résulte pour toutes les <i>fractions</i> réduites le même dénominateur,
+puisqu&#39;il est pour chacune le produit
+des mêmes facteurs.
+</p>
+<p>
+Premieres <i>fractions ... </i><gap type="formula" />
+</p>
+<p>
+Secondes <i>fractions</i> ...<gap type="formula" />
+plus simplement <gap type="formula" />.
+</p>
+<p>
+(+) Si les dénominateurs des <i>fractions</i> ont un diviseur 
+commun, on peut simplifier l&#39;opération en
+cette sorte : Soit <gap type="formula" /> qu&#39;il faut réduire à même
+dénomination, les dénominateurs <i>g e &amp; g k</i> ayant
+pour diviseur commun <i>g</i>, je multiplie le haut &amp; le
+bas de la premiere par <i>k</i> seulement, &amp; le haut &amp; le
+bas de la seconde par <i>e</i> seulement, &amp; j&#39;ai <gap type="formula" />.
+</p>
+<p>
+(+) Ainsi, si j&#39;avois <gap type="formula" /> à réduire à même denomination,
+je prendrois d&#39;abord le plus grand commun 
+diviseur 8 de 16 &amp; de 24 (<i>voyez</i> <sc><ref target="head:Diviseur" type="search">Diviseur</ref></sc>) ;
+ensuite j&#39;écrirois <gap type="formula" />, &amp; <gap type="formula" /> ; ensuite
+je multiplierois le haut &amp; le bas de la premiere <i>fraction</i> par 3, &amp; le haut &amp; le bas de la seconde par 2,
+&amp; j&#39;aurois <gap type="formula" />, &amp; <gap type="formula" />  ;
+&amp; ainsi des autres.
+</p>
+<p>
+<i>Du calcul des fractions</i>. Ce qui a été dit (<i>n°.</i> IX.)
+nous met en droit de supposer que les quantités sur
+lesquelles il sera question d&#39;opérer, ne contiennent
+que des <i>fractions</i>.
+</p>
+<p>
+XIII. <i>Addition</i>. Les <i>fractions</i> proposées étant préalablement 
+reduites à la même dénomination, faites
+la somme des numérateurs, &amp; écrivez au-dessous le
+dénominateur commun.
+</p>
+<p>
+<gap type="formula" />
+</p>
+<p>
+XIV. <i>Soustraction</i>. Après avoir réduit <i>séparément</i>
+les deux quantités proposées en une seule <i>fraction</i>,
+donnez aux deux <i>fractions</i> résultantes un denominateur<gap type="hyphenpb" />
+<pb n="7:265" facs="V7/ENC_7-265.jpeg" />
+<milestone unit="column" n="1" />
+commun, &amp; écrivez-le sous la différence des
+numérateurs.
+</p>
+<p>
+<gap type="formula" />
+</p>
+<p>
+(+) On voit par cette opération que lorsqu&#39;il s&#39;agit 
+d&#39;additionner &amp; de soustraire des <i>fractions</i>, on
+peut les réduire à la même dénomination par la premiere 
+regle générale, sans s&#39;embarrasser si les dénominateurs 
+ont un commun diviseur, ou non ; il suffira 
+de réduire à la plus simple expression la <i>fraction</i>
+unique qui sera le résultat de la derniere opération.
+En effet qu&#39;on ait, par exemple, à ajoûter <gap type="formula" /> avec
+<gap type="formula" />, on peut écrire indifféremment <gap type="formula" />, après
+avoir réduit au même dénominateur par la seconde
+regle, ou en réduisant au même dénominateur par
+la premiere regle <gap type="formula" />, en réduisant 
+&amp; divisant le haut &amp; le bas par <i>g</i>.
+</p>
+<p>
+XV. <i>Multiplication &amp; division</i>. Nommant premiere
+<i>fraction</i> celle qui représente le multiplicande ou le
+dividende, &amp; seconde <i>fraction</i> celle qui représente
+le multiplicateur ou le diviseur, multipliez terme-à-terme la premiere <i>fraction</i> par la seconde, directe s&#39;il
+s&#39;agit de multiplication, &amp; renversée s&#39;il s&#39;agit de
+division.
+</p>
+<p>
+Le produit de <gap type="formula" />.
+</p>
+<p>
+Le quotient de <gap type="formula" />.
+</p>
+<p>
+Pour le démontrer, soit <gap type="formula" /> d&#39;où <gap type="formula" /> ; &amp;
+<gap type="formula" />... Il faut faire voir que <gap type="formula" />
+&amp; que <gap type="formula" />.
+</p>
+<p>
+Or, que dans le premier membre de ces deux dernieres 
+égalités, au lieu de <i>a</i> &amp; de <i>c</i>, on substitue
+leurs valeurs <i>b p</i> &amp; <i>d q</i>, on aura .........
+<gap type="formula" />
+</p>
+<p>
+XVI. Si, pour la division on a préféré&#39;e renversement 
+de la <i>fraction</i> qui représente le diviseur à la
+pratique usitée de multiplier en croix, qui au fond
+est la même chose ; c&#39;est que la regle presentée sous
+ce point de vûe rend plus sensiblement raison d&#39;une
+espece de paradoxe qui a coûtume de frapper les
+commençans. Il arrive souvent dans la multiplication 
+des <i>fractions</i> que le produit est plus petit que le
+multiplicande, &amp; au contraire dans leur division,
+que le quotient est plus grand que le dividende ; &amp;
+cela ne peut manquer d&#39;arriver toutes les fois que
+la <i>fraction</i> qui représente le multiplicateur ou le diviseur 
+est plus petite que l&#39;unite ; car alors son numérateur 
+est plus petit que son dénominateur. Quand
+donc la <i>fraction</i> reste directe dans la multiplication,
+c&#39;est le plus petit terme qui multiplie la premiere
+<i>fraction</i>, tandis que le plus grand la divise : cette premiere 
+<i>fraction</i> doit donc être plus diminuée qu&#39;augmentée,
+&amp; devenir plus petite. Quand au contraire
+la <i>fraction</i> se renverse dans la division, c&#39;est le plus
+grand terme qui multiplie la premiere <i>fraction</i>, tandis 
+que le plus petit la divise ; elle gagne donc plus
+qu&#39;elle ne perd, &amp; doit devenir plus grande.
+</p>
+<p>
+XVII. Soit <gap type="formula" /> à diviser par <gap type="formula" />, le quotient sera <gap type="formula" />.
+Ce qui fait voir que quand le dividende 
+&amp; le diviseur ont un dénominateur commun,
+on peut négliger celui-ci, &amp; prendre pour
+quotient des deux <i>fractions</i> celui même de leurs numérateurs.
+</p>
+<p>
+(+) On peut voir <i>au mot</i> <sc><ref target="head:Division" type="search">Division</ref></sc> des remarqeus<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+sur la division des <i>fractions</i> les unes par les autres,
+ou des entiers par des <i>fractions ;</i> on y a expliqué 
+très-clairement &amp; à <i>priori</i> pourquoi un nombre
+quelconque divisé par une <i>fraction</i>, donne un quotient 
+plus grand que lui. On a vû aussi <i>au mot</i> <sc><ref target="head:Exposant" type="search">Exposant</ref></sc>, comment la <i>fraction</i><gap type="formula" /> se change en <i>a<sup>-n</sup></i>.
+</p>
+<p>
+(+) On a prouvé <i>au mot</i> <sc><ref target="head:Diviseur" type="search">Diviseur</ref></sc> (<i>voyez ce
+mot, &amp; l&#39;addition qu&#39;on y a faite dans l&#39;errata du cinquieme 
+Volume</i>), que si deux nombres <i>a, b</i>, n&#39;ont
+aucun diviseur commun, &amp; que deux autres nombres 
+<i>c, d</i>, n&#39;ayent aucun diviseur commun entr&#39;eux,
+ni avec les deux premiers ; alors dans le produit <gap type="formula" />,
+<i>a c</i> &amp; <i>b d</i> n&#39;auront aucun diviseur commun. De-là
+il s&#39;ensuit que si <gap type="formula" /> est une <i>fraction</i> réduite à ses
+moindres termes ; <gap type="formula" /> &amp; en général <gap type="formula" /> sera
+aussi une <i>fraction</i> réduite à ses moindres termes.
+Donc une <i>fraction</i>, soit pure, soit mixte, élevée à
+une puissance quelconque, donne toûjours une <i>fraction</i> ; donc un nombre entier qui n&#39;a point pour racine 
+quarrée, cubique, <i>&amp;c.</i> un nombre entier, ne
+sauroit avoir une <i>fraction</i> (même mixte) pour racine ; 
+donc la racine d&#39;un tel nombre est incommensurable.
+<i>Voyez</i> <sc><ref target="head:Incommensurable" type="search">Incommensurable</ref></sc>.
+</p>
+<p>
+XVII. C&#39;est à la multiplication qu&#39;on doit rappeller 
+la réduction des <i>fractions de fraction</i>, &amp; non à
+la division, comme au 1<sup>er</sup> coup-d&#39;oeil on pourroit
+être tenté de le croire. Prendre en effet les <gap type="formula" /> de <gap type="formula" />,
+n&#39;est-ce pas, ce me semble, diviser <gap type="formula" /> par <gap type="formula" />? Non,
+c&#39;est au contraire le multiplier, &amp; l&#39;on va en convenir.
+Si l&#39;on n&#39;avoit à prendre que le tiers de <gap type="formula" />, il
+faudroit (<i>n°.</i> VII.) multiplier le dénominateur par
+3 pour avoir <gap type="formula" /> ; mais c&#39;est les <i>deux tiers</i> qu&#39;il s&#39;agit
+de prendre. Il faut donc doubler ce qu&#39;on a trouvé,
+c&#39;est-à-dire (<i>ibidem.</i>) multiplier le numérateur par 2.
+La seconde <i>fraction</i> <gap type="formula" /> reste donc <i>directe</i> dans l&#39;opération,
+ce qui (<i>n°</i>. XV.) détermine celle-ci à être une
+multiplication. Donc <gap type="formula" /> de <gap type="formula" />.
+</p>
+<p>
+Il suit qu&#39;ayant un nombre quelconque de <i>fractions de fraction</i>, pourvû que ce qui étoit numérateur 
+reste numérateur, &amp; que ce qui étoit dénominateur 
+reste dénominateur, on peut d&#39;ailleurs transposer 
+entr&#39;elles les <i>fractions</i>, &amp; échanger leurs termes 
+comme on voudra, sans que la valeur de la
+suite en soit altérée, puisque les deux termes de la
+<i>fraction</i> qui l&#39;exprimera seront toûjours formés respectivement 
+des mêmes facteurs.
+<gap type="formula" />
+</p>
+<p>
+XIX. <i>Elévation &amp; extraction</i>. Faites séparément
+sur les deux termes de la <i>fraction</i> celle des deux
+opérations qu&#39;exige la circonstance, &amp; elle se trouvera 
+faite sur la <i>fraction</i> elle-même.
+<gap type="formula" />
+</p>
+<p>
+(+) XX. <i>Fractions décimales</i>. On a traité cette
+matiere <i>au mot</i> <sc><ref target="head:Décimal" type="search">Décimal</ref></sc>, auquel nous renvoyons.
+Nous remarquerons seulement qu&#39;au lieu du point
+dont nous avons parlé dans cet article, &amp; qui sert
+à distinguer les parties décimales des entiers, quelques 
+auteurs se servent d&#39;une virgule ; ce qui revient 
+au même, &amp; ce qui est quelquefois plus commode,
+lorsqu&#39;il est à craindre que le point ne soit
+pris pour un signe de multiplication. D&#39;autres ont
+employé une autre maniere, mais moins commode:
+par exemple, pour désigner 3.0206, c&#39;est-à-dire
+quatre parties décimales, ou ce qui revient au même,<gap type="hyphenpb" />
+<pb n="7:266" facs="V7/ENC_7-266.jpeg" />
+<milestone unit="column" n="1" />
+un dénominateur égal à l&#39;unité suivi de quatre
+zéros, ils écrivent 30206&#39;&#39;&#39;&#39;; de même pour désigner 
+3.206, ils écrivent 3206&#39;&#39;&#39;, &amp; ainsi du reste.
+</p>
+<p>
+XXI. <i>Fractions sexagésimales</i>. On nomme ainsi un
+ordre de <i>fractions</i> dont les dénominateurs sont les
+puissances successives de 60. On en peut imaginer
+de tant d&#39;autres especes qu&#39;on voudra ; mais nous
+ne nous y arrêterons pas : outre que leur utilité est
+bornée à un objet particulier, leur calcul peut aisément 
+se déduire par analogie de tout ce qui a précédé.
+</p>
+<p>
+(+) Ces <i>fractions</i>, dont le calcul est peu d&#39;usage,
+ont été imaginées par quelques arithméticiens à
+cause de la division du cercle en 360 degrés, = 6
+x 60, du degré en 60 minutes, de la minute en 60
+secondes, <i>&amp;c.</i> Mais on eût beaucoup mieux fait
+d&#39;employer la division décimale pour les parties du
+cercle, &amp; en général pour toutes les divisions quelconques,
+comme on l&#39;a déjà dit <i>au mot</i> <sc><ref target="head:Decimal" type="search">Decimal</ref></sc>.
+</p>
+<p>
+XXII. Il est encore d&#39;autres <i>fractions</i> d&#39;un ordre
+transcendant, qu&#39;on nomme <i>continues</i> ; mais comme 
+elles peuvent toûjours se résoudre en suites,
+nous les renvoyerons à cet article, celui-ci n&#39;étant
+déjà que trop long. <i>Voyez</i> <sc><ref target="head:Suite" type="search">Suite</ref></sc>. <i>Cet article, à quelques 
+additions près marquées d&#39;une</i> (+), <i>est de M. <sc>Rallier des Ourmes</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

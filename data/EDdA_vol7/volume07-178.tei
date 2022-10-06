@@ -1,0 +1,199 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27632" id="48:74" vol="7">
+<index type="head" value="FONTAINIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Argenville" />
+<index type="shortauth" value="d&#39;Argenville" />
+<index type="kafnum" value="6" />
+<index type="kafauth" value="Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hydraul." />
+<index type="normclass" value="Hydraulique" />
+<index type="englishclass" value="Hydraulics" />
+<index type="generatedclass" value="Hydraulique" />
+<index type="pos" value="s.m." />
+<head>FONTAINIER</head>
+<p>
+FONTAINIER, s. m. (<i>Hydraul.</i>) est celui qui par
+des principes certains &amp; des expériences réitérées,
+fait la recherche des eaux ; les jauge pour en connoître 
+la quantité; les amasse dans des pierrées pour
+les conduire dans un regard de prise ou dans un réservoir ; 
+sait relever leur pente ; les conduit au lieu
+destiné; connoît la force &amp; la vîtesse des eaux jaillissantes ; 
+les calcule, pour en savoir la dépense ;
+sait donner une juste proportion aux tuyaux, pour
+former de beaux jets bien nourris, &amp; qui s&#39;élevent à
+la hauteur requise ; &amp; par une sage oeconomie, les
+distribue dans un jardin, de maniere qu&#39;ils jouent
+tous ensemble sans s&#39;altérer l&#39;un l&#39;autre. <i>Voyez</i> ci-devant <sc><ref target="head:Depense" type="search">Depense</ref></sc>, <i>&amp;c.</i> &amp; les autres articles relatifs à
+l&#39;Hydraulique.
+</p>
+<p>
+<i><sc>Outils de fontainier</sc></i>. 1°. Une poesle de
+fonte qui sert à faire fondre la soudure.
+</p>
+<p>
+2°. Un porte-soudure est un morceau quarré de
+coutil cousu en double ou triple, que l&#39;on graisse de
+suif pour porter la soudure.
+</p>
+<p>
+3°. Un compas, instrument de fer à deux branches 
+qui se joignent en haut par un charnon, s&#39;ouvrent 
+par en-bas, &amp; sont terminées en pointe, pour
+prendre telle mesure que l&#39;on veut.
+</p>
+<p>
+4°. Un marteau un peu long, dont une des branches 
+est coupante ; il sert à forger le plomb ; le bas du
+manche est rayé, pour être plus ferme dans la main.
+</p>
+<p>
+5°. Un maillet plat par le côté pour battre le plomb.
+</p>
+<p>
+6°. Un boursault est une batte toute ronde, qui
+est plus à la main pour les petits ouvrages de plomb.
+</p>
+<p>
+7°. Une serpette, outil de fer acéré &amp; tranchant
+d&#39;un côté, qui a une poignée de bois, pour couper
+quelque chose : il y en a de courbées par le bout, &amp;
+d&#39;autres qui se ferment.
+<milestone unit="column" n="2" />
+</p>
+<p>
+8°. Une gratoire sert à nettoyer les soudures &amp; à
+les raviver : elle se releve en pointe, &amp; coupe des
+deux côtés.
+</p>
+<p>
+9°. Une gouge, outil de fer fait en demi-canal, lequel 
+est taillant de tous côtés, pour travailler les
+petites pieces, &amp; y former des cavités.
+</p>
+<p>
+10°. Un couteau ; il est en tout semblable à l&#39;outil 
+des Maréchaux, ne coupant que d&#39;un côté avec
+un dos de l&#39;autre : on le mouille pour couper le
+plomb, en frappant dessus avec le marteau.
+</p>
+<p>
+11°. Un niveau est le même instrument dont se servent 
+les Mâçons pour tracer une ligne parallele à l&#39;horison,
+ou pour poser de niveau quelque ouvrage de
+plomberie. <i>Voyez</i> <sc><ref target="head:Niveau" type="search">Niveau</ref></sc>.
+</p>
+<p>
+12°. Des fers ronds à souder ; ce sont des morceaux 
+de fer formant une poire arrondie ; d&#39;autres
+triangulaires, que l&#39;on fait chauffer pour manier la
+soudure chaude, la faire fondre ensemble, &amp; la coler 
+aux tables de plomb par des noeuds &amp; des traînées,
+où le fer chaud passe en y faisant des arrêtes.
+</p>
+<p>
+13°. Des atelles ; ce sont deux petits morceaux
+de bois creusés, qui étant mis l&#39;un contre l&#39;autre,
+forment une poignée pour prendre le manche chaud
+des fers à souder.
+</p>
+<p>
+14°. Une rape, sorte de lime, pour user les parties 
+trop grasses du plomb.
+</p>
+<p>
+15°. Une cueilliere servant à puiser la soudure
+dans la poesle, &amp; à la porter jusques sur la partie que
+l&#39;on soude.
+</p>
+<p>
+Les figures du niveau, de la jauge, &amp; de la quille,
+dont les <i>Fontainiers</i> se servent journellement, sont
+dans les <ref target="XPL:4746" type="platelink">Planches de l&#39;Hydraulique</ref>.
+</p>
+<p>
+<i>Nota</i>, qu&#39;on ne comprend point dans les outils du
+<i>Fontainier</i> ceux du Plombier, qui se trouveront dans
+les Arts &amp; Metiers. (<i>K</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

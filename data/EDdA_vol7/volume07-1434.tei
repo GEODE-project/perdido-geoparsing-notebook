@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28888" id="51:164" vol="7">
+<index type="head" value="GALLIAMBIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Belles-Lettr." />
+<index type="normclass" value="Belles-Lettres" />
+<index type="englishclass" value="Literature" />
+<index type="generatedclass" value="Belles-Lettres" />
+<index type="pos" value="NA" />
+<head>GALLIAMBIQUE</head>
+<p>
+GALLIAMBIQUE, (<i>Belles-Lettr.</i>) terme de l&#39;ancienne 
+Poésie. On appelloit <i>poëme galliambique</i>, un
+poëme composé de vers <i>gallïambiques. Voyez</i> <sc><ref target="head:Galliambe" type="search">Galliambe</ref></sc>.
+</p>
+<p>
+Le vers <i>gallïambique</i> étoit composé de six piés ; 1°.
+un anapeste, ou un spondée ; 2°. un ïambe, ou un
+anapeste, ou un tribraque ; 3°. un ïambe, ensuite
+deux dactyles, &amp; enfin un anapeste.
+</p>
+<p>
+On peut encore mesurer autrement le vers <i>galliambique</i>, &amp; faire un arrangement de syllabe qui
+donnera des piés d&#39;une autre espece. Les anciens
+n&#39;avoient guere égard dans le vers <i>galliambique</i> qu&#39;au 
+nombre des tems ou des intervalles, parce qu&#39;on
+chantoit ces sortes de vers en dansant, &amp; que d&#39;ailleurs 
+on s&#39;y mettoit peu en peine de l&#39;espece des
+piés qu&#39;on faisoit entrer dans sa composition. Vossius
+croit qu&#39;ils imitoient fort le desordre &amp; l&#39;obscurité
+des dithyrambes. <i>Voyez</i> <sc><ref target="head:Dithyrambe" type="search">Dithyrambe</ref></sc>. <i>Dictionn.
+de Trévoux &amp; Chambers</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

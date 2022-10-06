@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29576" id="53:80" vol="7">
+<index type="head" value="GINGLIME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Tarin" />
+<index type="shortauth" value="Tarin" />
+<index type="kafnum" value="125" />
+<index type="kafauth" value="Tarin, Pierre (1721-1793?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Anatomie." />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="s.m." />
+<head>GINGLIME</head>
+<p>
+GINGLIME, s. m. (<i>Anatomie.</i>) est une espece
+de diarthrose ou d&#39;articulation des os. <i>Voyez</i> <sc><ref target="head:Diarthrose" type="search">Diarthrose</ref> <i>&amp;</i> <ref target="head:Articulation" type="search">Articulation</ref></sc>.
+</p>
+<p>
+Le <i>ginglime</i> est une espece d&#39;articulation dans laquelle 
+deux os se reçoivent mutuellement, de maniere 
+qu&#39;un même os reçoit &amp; est reçû. <i>Voyez</i> <sc><ref target="head:Os" type="search">Os</ref></sc>.
+</p>
+<p>
+Il y a trois sortes de <i>ginglimes</i> ; la premiere est
+lorsque le même os par la même extrémité est reçû
+par un seul os qu&#39;il reçoit réciproquement en forme
+de charniere : telle est l&#39;articulation de l&#39;os du bras
+&amp; de celui du coude.
+</p>
+<p>
+La seconde est lorsqu&#39;un os en reçoit un autre par
+une de ses extrémités, &amp; qu&#39;il est reçu dans un autre
+par son autre extrémité, comme le <i>radius</i> &amp; le <i>cubitus</i>.
+</p>
+<p>
+La troisieme espece de <i>ginglime</i> est celle où un os
+est reçû en forme de roue ou d&#39;essieu, comme la seconde 
+vertebre est reçue par la premiere. <i>Chambers</i>.
+(<i>L</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

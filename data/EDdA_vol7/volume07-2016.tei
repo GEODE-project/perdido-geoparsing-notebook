@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29470" id="52:210:1" vol="7">
+<index type="head" value="Germain-en-Laye, (Saint-)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>Germain-en-Laye</head>
+<p>
+<sc>Germain-en-Laye</sc>, (<i>Saint-</i>) <i>Géog.</i> petite ville
+de l&#39;île de France, avec une maison royale, embellie 
+par plusieurs de nos rois. C&#39;est un des plus beaux
+séjours de France par sa position, sa forêt &amp; ses jardins.
+Elle est à quatre lieues de Paris sur la Seine.
+<i>Long. 19. 40. lat. 48. 52</i>.
+</p>
+<p>
+Marguerite de France, fille de François premier,
+naquit à <i>Saint-Germain-en-Laye</i> le 5 Juin 1523, &amp;
+se fit une gloire immortelle par sa beauté, par son
+savoir &amp; par ses vertus. Ses sujets la nommoient <i>la
+mere des peuples</i>.
+</p>
+<p>
+Henri II. né dans le même château le 31 Mai
+1518, &amp; moit à Paris le 10 Juillet 1559, d&#39;un coup
+de lance que lui donna Montgommeri dans un tournois,
+persécuta les Calvinistes de son royaume, soûtint 
+ceux d&#39;Allemagne, fit alliance avec les Suisses,
+qui s&#39;y prêterent avec peine, &amp; fut soûmis dès le
+commencement de son regne aux volontés de la duchesse 
+de Valentinois, qui se rendit maîtresse de son
+coeur &amp; de son esprit, quoiqu&#39;elle fût âgée de quarante-sept ans.
+</p>
+<p>
+Charles IX. naquit aussi à <i>Saint-Germain-en-Laye</i>
+le 27 Juin 1550. Son regne fut rempli de meurtres
+&amp; d&#39;horreurs ; il s&#39;avoüa l&#39;auteur de la Saint-Barthélemy, &amp; sa devise étoit deux colonnes avec ces
+mots, <i>pietate &amp; justitiâ</i>.
+</p>
+<p>
+Louis XIV. vit le jour dans le même lieu le 5
+Septembre 1638, après vingt-trois ans de stérilité
+de la reine sa mere ; phénomene aussi singulier que
+la longueur de son regne. (<i>D. J.</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,208 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27916" id="49:108:4" vol="7">
+<index type="head" value="Fougere" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Arts." />
+<index type="normclass" value="Arts" />
+<index type="englishclass" value="Arts" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fougere</head>
+<p>
+<sc>Fougere</sc>, (<i>Arts.</i>) On tire un grand parti de la
+<i>fougere</i> dans les Arts. Il est même arrivé quelquefois
+dans la disette de vivres, qu&#39;on a fait du pain de la
+racine de <i>fougere</i>. M. Tournefort raconte qu&#39;il en a
+vû à Paris en 1693, que l&#39;on avoit apporté d&#39;Auvergne ; mais ce pain étoit fort mauvais, de couleur 
+rousse, presque semblable aux mottes d&#39;écorce 
+de chêne, qui sont d&#39;usage pour tanner le cuir,
+&amp; qu&#39;on appelle <i>mottes-à-brûler</i>.
+</p>
+<p>
+On employe la <i>fougere</i> dans le comté de Saxe
+pour chauffer les fours &amp; pour cuire la chaux, parce
+que la flamme en est fort violente &amp; très-propre à
+cet emploi.
+</p>
+<p>
+Le pauvre peuple en plusieurs parties du nord de
+l&#39;Angleterre, se sert de cendres de <i>fougere</i> au lieu
+de savon pour blanchir le linge. Ils coupent la plante
+verte, la réduisent en cendres, &amp; forment des balles
+avec de l&#39;eau, les font sécher au soleil, &amp; les conservent 
+ainsi pour leurs besoins. Avant que d&#39;en faire
+usage, ils les jettent dans un grand feu jusqu&#39;à ce
+qu&#39;elles rougissent ; &amp; étant calcinées de cette maniere,
+elles se réduisent facilement en poudre.
+</p>
+<p>
+Personne n&#39;ignore qu&#39;on employe les cendres de
+<i>fougere</i> à la place de nitre, que l&#39;on jette ces cendres
+<milestone unit="column" n="2" />
+sur les cailloux pour les fondre &amp; les réduire en
+verre de couleur verte ; c&#39;est-là ce qu&#39;on nomme
+<i>verres de fougere</i>, si communs en Europe. <i>V.</i> <sc><ref target="head:Verre" type="search">Verre</ref></sc>.
+</p>
+<p>
+Les cendres de la <i>fougere</i> femelle commune présentent 
+un autre phénomene bien singulier, quand
+on en tire le sel suivant la méthode ordinaire, à la
+quantité de quelques livres ; la plus grande partie de
+ce sel étant séchée, &amp; le reste qui est plus humide
+étant exposé à l&#39;air, pour en recevoir l&#39;humidité,
+il devient promptement fluide, ou une huile, comme 
+on l&#39;appelle improprement, par défaillance : ensuite 
+le reste du <i>lixivium</i> qui est très-pesant &amp; d&#39;un
+rouge plus ou moins foncé, étant mis à-part dans
+un vaisseau de verre qu&#39;on tient débouché pendant
+cinq ou six mois, laisse tomber au fond de la liqueur
+une assez grande quantité de sel précipité, jusqu&#39;à
+l&#39;épaisseur d&#39;environ deux pouces au fond du vaisseau.
+La partie inférieure de la liqueur est pleine de
+saletés, mais la partie du haut est blanche &amp; limpide.
+Sur la surface de cette partie se forment des
+crystallisations de sel d&#39;une figure réguliere, semblable 
+à plusieurs plantes de <i>fougere commune</i>, qui
+jetteroient un grand nombre de feuilles de chaque
+côté de la tige ; ces ramifications salines subsistent
+plusieurs semaines dans leur état, si l&#39;on ne remue
+point le vaisseau ; mais elles sont si tendres, que le
+moindre mouvement les détruit, &amp; alors elles ne se
+réforment jamais. <i>Voyez les Transact. philos. n°. 105</i>.
+</p>
+<p>
+Enfin les Chinois se servent dans leurs manufactures 
+de porcelaine d&#39;une espece de vernis qu&#39;ils font
+avec de la <i>fougere</i> &amp; de la chaux ; ils y parviennent
+si aisément, qu&#39;il ne seroit pas ridicule de l&#39;essayer
+dans nos manufactures de porcelaine. Voici le procédé 
+&amp; la maniere.
+</p>
+<p>
+Ils prennent une quantité de <i>fougere</i> bien séchée
+qu&#39;ils répandent par lits sur un terrein suffisant à la
+quantité de vernis dont ils ont besoin. Sur cette <i>fougere</i> ils font une autre couche de pierres de chaux
+fraîchement calcinées, sur laquelle ils jettent avec
+la main une petite quantité d&#39;eau suffisante pour
+l&#39;éteindre ou la délayer. Ils couvrent cette couche
+de chaux d&#39;une troisieme couche de <i>fougere</i>, &amp; multiplient 
+toûjours alternativement ces couches jusqu&#39;à la hauteur de huit ou dix piés ; alors ils mettent
+le feu à la <i>fougere</i> qui se brûle en peu de tems, &amp;
+qui laisse un mélange de chaux &amp; de cendres. Ce
+mélange est porté de la même maniere sur d&#39;autres
+couches de <i>fougere</i> qu&#39;on brûle de même. Cette opération 
+est répétée cinq ou six fois.
+</p>
+<p>
+Quand la derniere calcination est finie, ce mélange 
+de chaux &amp; de cendres est soigneusement rassemblé 
+&amp; jetté dans de grands vaisseaux pleins d&#39;eau ;
+&amp; sur chaque quintal de poids, ils y mettent une
+livre de kékio. Ils remuent le tout ensemble ; &amp;
+quand la partie la plus grossiere est tombée au fond,
+ils enlevent la plus fine qui surnage au-dessus en
+forme de creme, qu&#39;ils mettent dans un autre vaisseau 
+d&#39;eau, ils la laissent tomber au fond par le séjour ; 
+alors ils versent l&#39;eau du vaisseau, &amp; y laissent
+le résidu en forme d&#39;une huile épaisse.
+</p>
+<p>
+Ils mêlent cette liqueur avec de l&#39;huile de cailloux 
+préparée, en pulvérisant &amp; en blanchissant de
+la même maniere une sorte particuliere de pierre-à-caillou, &amp; ils en couvrent tous les vaisseaux qu&#39;ils
+ont intention de vernisser. Ces deux huiles, comme
+on les nomme, sont toûjours mêlées ensemble, &amp;
+ils les font soigneusement de la même épaisseur,
+parce qu&#39;autrement la vernissure ne seroit point
+égale. Les cendres de <i>fougere</i> ont une grande part
+dans l&#39;avantage que cette huile a au-dessus de nos
+vernis communs. On dit que la manufacture de Bristol est parvenue à attraper la beauté du vernis
+qu&#39;elle possede, par l&#39;imitation des deux huiles dont
+les Chinois vernissent leurs porcelaines. (<i>D. J.</i>)
+<pb n="7:220" facs="V7/ENC_7-220.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

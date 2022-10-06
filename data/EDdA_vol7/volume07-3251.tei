@@ -1,0 +1,260 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30705" id="55:252:1" vol="7">
+<index type="head" value="Guimauve" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharmacie &amp; Mat. med." />
+<index type="normclass" value="Pharmacie | Matière médicale" />
+<index type="englishclass" value="Pharmaceuticals | Materia medica" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="NA" />
+<head>Guimauve</head>
+<p>
+<sc>Guimauve</sc>, (<i>Pharmacie &amp; Mat. med.</i>) on n&#39;employe 
+ordinairement en Medecine que la racine de
+cette plante ; elle contient un mucilage abondant:
+on en retire par une legere ébullition dans l&#39;eau jusqu&#39;à trois gros &amp; quelques grains par once, selon
+Cartheuser. Mais il est difficile d&#39;estimer au juste la
+quantité de cette matiere, parce que son poids varie
+considérablement selon le plus ou le moins d&#39;eau auquel<gap type="hyphenpb" />
+<pb n="7:1008" facs="V7/ENC_7-1008.jpeg" />
+<milestone unit="column" n="1" />
+elle est unie. <i>Voyez l&#39;article</i> <sc><ref target="head:Mucilage" type="search">Mucilage</ref></sc>.
+</p>
+<p>
+Ce mucilage est la vraie partie médicamenteuse
+de la <i>guimauve</i>.
+</p>
+<p>
+Les usages médicinaux de la <i>guimauve</i> lui sont communs 
+avec les autres substances végétales mucilagineuses ; 
+&amp; les propriétés particulieres que plusieurs
+auteurs lui ont accordées contre la pleurésie, l&#39;asthme,
+les graviers, &amp; les petits calculs des reins &amp; de
+la vessie, ne sont rien moins que vérifiées. On l&#39;ordonne 
+pour l&#39;usage intérieur sous forme de tisanne,
+ordinairement avec d&#39;autres remedes analogues, tels
+que les fruits doux, le chiendent, la réglisse, l&#39;orge,
+<i>&amp;c.</i>
+</p>
+<p>
+On doit avoir soin de ne la faire entrer qu&#39;en petite 
+quantité dans ces tisannes, à la dose d&#39;une once
+tout-au-plus par pinte d&#39;eau, &amp; de ne l&#39;introduire
+dans la décoction que sur la fin de l&#39;ébullition, parce
+que trop de mucilage rendroit cette boisson gluante,
+épaisse, dégoûtante, &amp; nuisible à l&#39;estomac.
+</p>
+<p>
+On employe encore cette racine en cataplasme,
+dans la vûe de ramollir les tumeurs inflammatoires,
+de calmer les douleurs qu&#39;elles causent, &amp; de les mener 
+à suppuration ; on en fait des lotions &amp; des fomentations 
+dans la même vûe : quelques praticiens recommandent 
+ces remedes extérieurs dans quelques
+affections des parties internes, dans la pleurésie, par
+exemple, l&#39;inflammation du foie, des reins, &amp; de la
+vessie. <i>Voyez</i> quel succès on doit attendre de ces remedes 
+aux <i>articles</i> <sc><ref target="head:Inflammatoires" type="search">Inflammatoires, (Maladies)</ref> <i>&amp;</i> <ref target="head:Topique" type="search">Topique</ref></sc>.
+</p>
+<p>
+On employe aussi aux mêmes usages, mais beaucoup 
+plus rarement, tant pour l&#39;intérieur que pour
+l&#39;extérieur, les feuilles, les semences, &amp; les fleurs
+de <i>guimauve ;</i> ces parties sont moins mucilagineuses
+que les racines.
+</p>
+<p>
+On prépare avec la <i>guimauve</i> un sirop simple, &amp;
+des tablettes ; elle donne son nom au sirop de <i>guimauve</i> composé ou sirop <i>de ibisco</i>, au sirop de <i>guimauve</i> de Fernel, &amp; à la pâte de <i>guimauve</i>, &amp; à l&#39;onguent 
+appellé communément d&#39;<i>althaea</i>.
+</p>
+<p>
+<i>Sirop de guimauve simple</i>. Prenez des racines fraîches 
+de <i>guimauve</i> mondées &amp; coupées par tranches,
+six onces : faites-les cuire dans huit livres d&#39;eau commune : passez, ajoûtez six livres de sucre, clarifiez &amp;
+cuisez en consistence de sirop.
+</p>
+<p>
+Cette composition a les même usages intérieurs
+que la décoction de la racine. Elle n&#39;est pas de garde,
+c&#39;est pourquoi les bons apothicaires la renouvellent
+très-souvent, sur-tout en été.
+</p>
+<p>
+<i>Sirop de guimauve de Fernel</i>. Prenez de racines de
+<i>guimauve</i> deux onces ; de pois chiches une once ; de
+racines de chiendent, d&#39;asperges &amp; de réglisse, de
+chacune demi-once ; de raisins secs mondés, demi-once ; 
+de sommités de <i>guimauve</i>, de mauve, de pariétaire,
+de pimprenelle, de plantain, de capillaire
+commun, de chacun une once ; des quatre grandes
+semences froides majeures, &amp; des mineures, de chacune 
+trois gros : cuisez dans demi-livre d&#39;eau jusqu&#39;à
+la moitié: passez : ajoûtez à la colature quatre livres
+de sucre : clarifiez &amp; unissez en consistence de sirop.
+</p>
+<p>
+On ordonne ce sirop depuis demi-once jusqu&#39;à
+une &amp; deux onces dans les juleps béchiques &amp; diurétiques ; 
+on l&#39;ajoûte en plus grande dose aux tisannes 
+&amp; aux émulsions pour boisson ordinaire ; on le
+fait prendre aussi par petites cuillerées pour calmer
+la toux. C&#39;est un remede fort innocent, c&#39;est-à-dire
+peu dangereux &amp; peu utile.
+</p>
+<p>
+Le sirop <i>de ibisco</i> est proprement le même que celui 
+-ci ; les seuls de ses ingrédiens qui pourroient l&#39;en
+faire différer essentiellement, sont les racines de raifort 
+sauvage &amp; de raifort de jardin, qui contiennent,
+comme on sait, un alkali volatil libre ; mais la décoction 
+que ces racines essuient, remet la partie
+qu&#39;elles fournissent au sirop dans le rang de simple
+extrait.
+<milestone unit="column" n="2" />
+</p>
+<p>
+<i>Onguent d&#39;althaea</i>. Prenez d&#39;huile de mucilage,
+deux livres ; de cire jaune, demi-livre ; de poix résine 
+&amp; de térébenthine claire, de chacune quatre onces : faites fondre le tout à petit feu : retirez du feu,
+&amp; remuez avec une spatule de bois jusqu&#39;à ce que le
+mélange soit refroidi, &amp; vous aurez votre onguent.
+</p>
+<p>
+Il n&#39;y a pas un atome de mucilage de <i>guimauve</i>
+dans cet onguent (<i>voyez</i> <sc><ref target="head:Mucilage" type="search">Mucilage</ref></sc>); il est résolutif,
+maturatif, &amp; anodyn ; on l&#39;employe quelquefois avec
+succès dans les rhumatismes legers &amp; dans les douleurs 
+de côté ou fausses pleurésies. Quelques medecins 
+en font faire aussi des frictions legeres sur le côté 
+dans les vraies pleurésies (<i>voyez</i> 
+<sc><ref target="head:Pleurésie" type="search">Pleurésie</ref>, <ref target="head:Rhumatisme" type="search">Rhumatisme</ref>, <i>&amp;</i> <ref target="head:Topique" type="search">Topique</ref></sc> ).
+</p>
+<p>
+<i>Tablettes de guimauve de la pharm. de Paris</i>. Prenez de la pulpe de racine de <i>guimauve</i> passée par le
+tamis, douze onces ; sucre blanc, deux livres ; eau
+de fleurs d&#39;orange, deux onces : cuisez au bain-marie
+jusqu&#39;à la consistence d&#39;électuaire solide : faites des
+tablettes selon l&#39;art. <i>Voyez</i> <sc><ref target="head:Tablettes" type="search">Tablettes</ref></sc>.
+</p>
+<p>
+L&#39;usage de ces tablettes est très-fréquent dans le
+rhume. On les laisse fondre dans la bouche ; la salive
+qui s&#39;en charge peut calmer la toux gutturale &amp; stomacale.
+La toux pectorale, le vrai rhume, ne paroît
+point pouvoir être soulagé par ce remede.
+</p>
+<p>
+<i>Pâte de guimauve</i>. Prenez de la gomme arabique,
+la plus blanche, deux livres &amp; demie ; du sucre blanc,
+deux livres &amp; quatre onces ; d&#39;eau commune, huit
+livres : faites fondre le sucre &amp; la gomme : passez,
+faites cuire jusqu&#39;à consistence d&#39;extrait en remuant
+continuellement avec une spatule ; alors remuez &amp;
+battez fort &amp; sans relâche, en jettant dans votre masse
+peu-à-peu six blancs d&#39;oeufs battus, avec demi-once
+d&#39;eau de fleurs d&#39;orange : continuez à brasser jusqu&#39;à
+ce que votre masse devienne d&#39;un beau blanc : enfin
+cuisez encore sur un feu doux en remuant toûjours,
+jusqu&#39;à ce qu&#39;en frappant sur la masse avec la main,
+elle ne s&#39;y colle point. Tirez-la de la bassine encore
+chaude, jettez-la sur une feuille de papier couverte
+d&#39;une petite couche de farine, elle s&#39;y étendra d&#39;elle-même,
+&amp; prendra une épaisseur à-peu-près uniforme,
+d&#39;un demi-pouce ou environ. Cette préparation
+est connue sous le nom de <i>pâte de guimauve</i>, parce
+que dans les dispensaires, la décoction de <i>guimauve</i>
+est demandée au lieu de l&#39;eau.
+</p>
+<p>
+On fait de cette pâte le même usage que des tablettes 
+de <i>guimauve</i>.
+</p>
+<p>
+La racine de <i>guimauve</i> entre dans plusieurs compositions 
+officinales. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

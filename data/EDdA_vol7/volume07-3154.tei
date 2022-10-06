@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30608" id="55:190" vol="7">
+<index type="head" value="GUELFE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="s.m." />
+<head>GUELFE</head>
+<p>
+GUELFE, s. m. (<i>Hist. mod.</i>) nom de la faction opposée 
+à celle des Gibelins.
+</p>
+<p>
+Les étymologies différentes, aussi puériles qu&#39;incertaines 
+du nom de ces deux factions, recueillies
+dans les Bellandistes, le dictionnaire de Trevoux &amp;
+autres lexicographes, ne se retrouveront pas ici.
+</p>
+<p>
+Nous nous contenterons de rappeller à la mémoire,
+que les <i>Guelfes</i> tenoient pour le pape &amp; les Gibelins pour l&#39;empereur ; qu&#39;après des dissensions qui
+sembloient passageres, la querelle de la couronne
+impériale &amp; de la thiare s&#39;échauffa violemment, divisa 
+l&#39;Italie au commencement du treizieme siecle,
+la remplit de carnage, de meurtres, d&#39;assassinats,
+&amp; produisit d&#39;autres malheurs qui ont troublé
+le monde : mais il faut tâcher de les oublier &amp; porter
+ses yeux sur la renaissance des Beaux-Arts qui succéderent 
+à ces cruelles desolations. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

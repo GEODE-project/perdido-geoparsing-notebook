@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30090" id="54:36:2" vol="7">
+<index type="head" value="Graine d&#39;Avignon" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Bot." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="NA" />
+<head>Graine d&#39;Avignon</head>
+<p>
+<sc>Graine d&#39;Avignon</sc>, (<i>Bot.</i>) baie d&#39;une espece
+de <i>rhamnus</i> ou de nerprun, que les Botanistes nomment 
+<i>lycium gallicum</i>, ou <i>rhamnus catharticus minor</i>.
+Il croît dans les lieux rudes &amp; pierreux, entre les
+rochers, aux environs d&#39;Avignon &amp; dans le comtat
+Venaissin. On en trouve aussi en Dauphiné, en Languedoc &amp; en Provence. Cette espece de nerprun est
+un arbrisseau épineux, dont les racines sont jaunes
+&amp; ligneuses ; il pousse des rameaux longs de deux
+ou trois piés, couverts d&#39;une écorce grisâtre, garnis
+de petites feuilles épaisses, ressemblantes à celles du
+buis, nerveuses, faciles à se détacher. Ses fleurs sont
+petites, monopétales, jointes plusieurs ensemble ; il
+leur succede des baies grosses comme des grains de
+poivre à trois ou quatre angles, &amp; quelquefois faites 
+en petits coeurs, de couleur verd jaunâtre, d&#39;un
+goût stiptique &amp; fort amer.
+</p>
+<p>
+Voilà les baies qu&#39;on nomme <i>graine d&#39;Avignon,
+grainette, graine jaune</i>. On nous l&#39;envoye seche ;
+on la desire grosse, récente &amp; bien nourrie. Les
+Teinturiers, &amp; sur-tout les Corroyeurs, s&#39;en servent 
+pour teindre en jaune, en y joignant de l&#39;alun
+par parties égales. <i>Voyez</i> <sc><ref target="head:Jaune" type="search">Jaune</ref> <i>&amp;</i> <ref target="head:Corroyer" type="search">Corroyer</ref></sc>.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28921" id="51:190" vol="7">
+<index type="head" value="GAMELLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GAMELLE</head>
+<p>
+GAMELLE, s. f. (<i>Marine.</i>) est en général une
+jatte de bois. Celle des marins est fort creuse, &amp;
+sans bord ; on y met le potage, ou ce qui est destiné
+pour le repas de chaque plat des gens de l&#39;équipage.
+<i>Voyez</i> <sc><ref target="head:Plat de l&#39;Equipage" type="search">Plat de l&#39;Equipage</ref></sc>.
+</p>
+<p>
+Le nombre de gens qui doivent manger à un même 
+plat n&#39;est pas fixé; on met six, sept ou huit personnes 
+a chaque <i>gamelle</i>.
+</p>
+<p>
+Les matelots malades ou blessés sont soignés &amp;
+servis par ceux qui mangeoient avec eux à la même
+<i>gamelle</i>.
+</p>
+<p>
+<i>Manger à la gamelle</i>, c&#39;est être réduit à manger
+avec les matelots ; ce que l&#39;on ordonne quelquefois
+comme une punition de fautes legeres, à ceux qui
+mangeoient à la table du capitaine.
+</p>
+<p>
+Dans les <i>fontaines salantes</i>, l&#39;écuelle qui sert à
+puiser l&#39;eau salée dans les poëles, pour s&#39;assûrer si la
+mure ou muire est bonne, s&#39;appelle aussi une <i>gamelle</i>. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

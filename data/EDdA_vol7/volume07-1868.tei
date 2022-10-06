@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29322" id="52:127:7" vol="7">
+<index type="head" value="Génération, (maladies concernant la) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Génération</head>
+<p>
+<sc>Génération</sc>, (<i>maladies concernant la</i>) Les lesions 
+des fonctions qui servent à la <i>génération</i> dans
+l&#39;espece humaine, doivent être considérées par rapport 
+à chacun des sexes.
+</p>
+<p>
+Ainsi il peut y avoir dans les hommes excès ou
+défaut dans les dispositions &amp; dans les conditions qui
+sont nécessaires pour la <i>génération</i>. Telles sont la séparation 
+de la semence &amp; sa préparation dans les
+testicules, l&#39;érection du membre viril, l&#39;éjaculation
+de la liqueur spermatique. <i>Voyez</i> 
+<sc><ref target="head:Testicule" type="search">Testicule</ref>, <ref target="head:Semence" type="search">Semence</ref>, <ref target="head:Verge" type="search">Verge</ref>, <ref target="head:Priapisme" type="search">Priapisme</ref>, <ref target="head:Satyriasis" type="search">Satyriasis</ref>, <ref target="head:Impuissance" type="search">Impuissance</ref>, <ref target="head:Frigidité" type="search">Frigidité</ref></sc>
+</p>
+<p>
+A l&#39;égard des femmes, les vices physiques dont
+elles sont susceptibles relativement à la <i>génération</i>,
+regardent principalement les déréglemens du flux
+menstruel, les défauts de conformation de la matrice 
+&amp; du vagin, le tempérament trop ou trop peu
+sensible. <i>Voyez</i> 
+<sc><ref target="head:Menstrues" type="search">Menstrues</ref>, <ref target="head:Matrice" type="search">Matrice</ref>, <ref target="head:Vagin" type="search">Vagin</ref>, <ref target="head:Tempérament" type="search">Tempérament</ref>, <ref target="head:Salacité" type="search">Salacité</ref>, <ref target="head:Stérilité" type="search">Stérilité</ref>, <ref target="head:Fleurs-blanches" type="search">Fleurs-blanches</ref>, <ref target="head:Fureur utérine" type="search">Fureur utérine</ref>, <ref target="head:Faux-germe" type="search">Faux-germe</ref>, <ref target="head:Mole" type="search">Mole</ref></sc>
+, <i>&amp;c.</i> (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29583" id="53:87" vol="7">
+<index type="head" value="GIRAFFE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Hist. nat. Zoolog." />
+<index type="normclass" value="Histoire naturelle | Zoologie" />
+<index type="englishclass" value="Natural history. Zoology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GIRAFFE</head>
+<p>
+GIRAFFE, s. f. (<i>Hist. nat. Zoolog.</i>) <i>giraffa</i>, animal 
+quadrupede. Les Arabes le nomment <i>zurnapa</i>,
+les Latins l&#39;appelloient <i>camelo-pardalis</i>, parce que sa
+peau est parsemée de taches comme celles d&#39;un léopard,
+&amp; qu&#39;il a le cou long comme un chameau.
+Belon a vû une <i>giraffe</i> au Caire qui étoit très-belle
+&amp; fort douce ; sa tête ressembloit à celle d&#39;un cerf,
+quoique moins grosse ; elle avoit de petites cornes
+mousses, longues de six travers de doigt, &amp; couvertes 
+de poil, celles de la femelle sont plus courtes.
+Cette <i>giraffe</i> avoit les oreilles grandes comme
+celles d&#39;une vache, le cou long, droit &amp; mince, les
+crins déliés &amp; les jambes grêles ; celles de devant
+étoient fort longues, &amp; celles de derriere fort courtes 
+à proportion ; les piés ressembloient à ceux d&#39;un
+boeuf ; la queue descendoit jusqu&#39;aux jarrets, &amp;
+étoit garnie de crins trois fois plus gros que ceux
+d&#39;un cheval ; elle avoit le corps très-mince &amp; le poil
+blanc &amp; roux. Cet animal a les attitudes du chameau,
+il se couche sur le ventre, &amp; il a des callosités 
+à la poitrine &amp; aux cuisses ; lorsqu&#39;il paît l&#39;herbe,
+il est obligé d&#39;écarter les jambes de devant ; cependant 
+il a beaucoup de peine à baisser la tête jusqu&#39;à
+terre ; mais au contraire il a beaucoup de facilité
+pour atteindre aux branches des arbres, parce que
+les jambes de devant &amp; le cou sont fort longs. Sa
+hauteur étoit de seize piés depuis les piés jusqu&#39;au-dessus 
+de la tête, &amp; il avoit depuis la queue jusqu&#39;au
+sommet de la tête dix-huit piés de longueur ; celle
+du cou étoit de sept piés. <i>Obser. liv. Il. chap. xljx.
+Voyez</i> <sc><ref target="head:Quadrupede" type="search">Quadrupede</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

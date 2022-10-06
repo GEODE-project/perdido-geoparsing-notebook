@@ -1,0 +1,686 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28462" id="50:180" vol="7">
+<index type="head" value="FROTTEMENT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Necker" />
+<index type="shortauth" value="Necker" />
+<index type="kafnum" value="98" />
+<index type="kafauth" value="Necker de Germany, Louis (1730-1804)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Méch." />
+<index type="normclass" value="Méchanique" />
+<index type="englishclass" value="Mechanics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.m." />
+<head>FROTTEMENT</head>
+<p>
+FROTTEMENT, s. m. (<i>Méch.</i>) c&#39;est la résistance
+qu&#39;apporte au mouvement de deux corps l&#39;un sur
+l&#39;autre, l&#39;inégalité de leurs surfaces.
+<pb n="7:342" facs="V7/ENC_7-342.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Il n&#39;est aucun corps qui lorsqu&#39;il glisse sur un autre,
+n&#39;éprouve une pareille résistance ; parce qu&#39;il
+n&#39;en est aucun dont la surface ne soit inégale. Il est
+aisé de s&#39;en convaincre, en examinant au microscope 
+ceux mêmes que nous regardons comme les
+mieux polis ; on y apperçoit bien-tôt bien de petites 
+éminences &amp; cavités qui avoient échappé à la
+vûe simple.
+</p>
+<p>
+Lors donc que l&#39;on applique l&#39;une contre l&#39;autre
+deux surfaces de cette nature, les petites éminences de l&#39;une doivent nécessairement entrer dans les
+petites cavités de l&#39;autre ; &amp; pour en mouvoir une,
+il faut dégager ces éminences des cavités dans lesquelles 
+elles sont enfoncées : pour cet effet il est nécessaire 
+ou de les briser, ou de les plier comme des
+ressorts ; ou si leur extrème dureté empêche l&#39;un &amp;
+l&#39;autre de ces effets, il faut un peu soûlever le corps
+entier. Toutes ces choses exigent une certaine force,
+&amp; il en doit résulter un obstacle au mouvement:
+c&#39;est ce que l&#39;on nomme <i>frottement</i>.
+</p>
+<p>
+On peut en distinguer deux especes. S&#39;il s&#39;agit de
+faire parcourir à un corps la surface d&#39;un autre corps,
+cela peut s&#39;exécuter de deux manieres différentes,
+qu&#39;il est important de ne pas confondre : 1°. en appliquant 
+successivement les mêmes parties de l&#39;un à
+différentes parties de l&#39;autre, comme quand on fait
+glisser un livre sur une table ; &amp; on peut nommer ce
+<i>frottement</i>, celui de la premiere espece : 2°. en faisant 
+toucher successivement différentes parties d&#39;une
+surface à différentes parties d&#39;une autre surface, comme 
+lorsqu&#39;on fait rouler une boule sur un billard ; &amp;
+je le nomme <i>frottement</i> de la seconde espece. Le premier 
+est celui dont j&#39;ai parlé d&#39;abord. Dans le second
+cas, les parties engagées se quittent à-peu-près comme 
+les dents de deux roues de montre se desengrenent.
+<i>Voyez <ref target="XPL:5178" type="platelink">figure 38</ref>. de la Méchanique</i>, où <i>CD</i> est
+le corps roulant, <i>AB</i> la surface du corps sur lequel
+il roule, &amp; <i>H, F</i>, les inégalités des deux surfaces au
+point d&#39;attouchement. S&#39;il arrive qu&#39;elles ayent quelquefois 
+peine à se quitter, c&#39;est qu&#39;il y a disproportion 
+entre les parties saillantes &amp; les vuides qui les
+reçoivent ; mais jamais cette seconde espece de <i>frottement</i> ne ralentit autant le mouvement que la premiere : c&#39;est de celle-ci que je vais m&#39;occuper plus particulierement.
+</p>
+<p>
+La quantité du <i>frottement</i> dépend d&#39;une infinité de
+circonstances, qui me paroissent pourtant toutes pouvoir 
+être rapportées à quelqu&#39;un de ces cinq chefs:
+1°. la nature des surfaces qui frottent ; 2°. leur grandeur ; 
+3°. la pression qui les applique l&#39;une à l&#39;autre,
+4°. leur vîtesse ; 5°. la longueur du levier auquel on
+peut regarder comme appliquée la résistance dont il
+s&#39;agit.
+</p>
+<p>
+I. La nature des surfaces est certainement la principale 
+considération, à laquelle il faut avoir égard
+pour juger de la quantité du <i>frottement</i> ; il est évident
+que plus les inégalités de ces surfaces seront ou nombreuses,
+ou éminentes, ou roides, ou difficiles à briser 
+ou à plier, plus aussi le <i>frottement</i> qui en résultera
+sera considérable. Il suit de-là, 1°. que l&#39;on doit trouver 
+moins de résistance à faire glisser un corps poli
+sur une surface polie, qu&#39;un corps rude &amp; grossier
+sur une surface inégale &amp; raboteuse. 2°. Que l&#39;huile
+ou la graisse dont on enduit ordinairement les surfaces 
+que l&#39;on veut faire glisser avec plus de facilité,
+doivent effectivement diminuer le <i>frottement ;</i> puisque 
+se logeant dans les petites cavités de ces surfaces,
+elles empêchent les petites éminences d&#39;y entrer 
+aussi profondément ; &amp; que la forme sphérique
+des petites molécules de l&#39;huile les rend propres,
+comme autant de rouleaux, à changer en partie le
+<i>frottement</i>, qui seroit sans cela uniquement de la premiere 
+espece, en un autre de la seconde.
+</p>
+<p>
+Ces raisonnemens, quelques plausibles qu&#39;ils paroissent,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ne décideroient pas néanmoins ces deux
+points, si l&#39;expérience ne les appuyoit. La structure
+des petites parties des corps, &amp; la nature de leurs
+surfaces nous est si peu connue, qu&#39;il est impossible
+de suivre ici d&#39;autre guide que l&#39;expérience ; encore
+n&#39;avons-nous pas l&#39;avantage d&#39;être conduits par elle
+dans cette matiere-ci aussi sûrement que dans la
+plûpart des autres. Nous ne trouvons dans les différens 
+auteurs qui nous ont fait part de leurs tentatives,
+que des résultats opposés, &amp; souvent des contradictions.
+Par exemple, M. Amontons nous dit
+qu&#39;il a éprouvé que des plans de cuivre, de fer, de
+plomb &amp; de bois, bien enduits de vieux-oing, placés 
+sur d&#39;autres plans de pareille matiere, &amp; chargés 
+également, ont à-peu-près le même <i>frottement</i>.
+M. Musschenbroek au contraire nous donne une table 
+de différentes expériences qu&#39;il a faites, pour
+connoître le <i>frottement</i> d&#39;un arc d&#39;acier dans des bassinets 
+de gayac, de cuivre rouge, de cuivre jaune,
+d&#39;acier, d&#39;étain, <i>&amp;c.</i> par lesquelles il paroit que le
+<i>frottement</i> de l&#39;essieu a été très-différent dans les différens 
+bassinets, quoique huilés. Il paroit par la machine 
+que M. Musschenbroek a employé pour ces
+expériences, &amp; par l&#39;exactitude qu&#39;il y a apportée,
+qu&#39;on peut mieux compter sur ses résultats, que sur
+ceux de M. Amontons ; d&#39;autant plus que le <i>frottement</i> dépendant de la nature des surfaces, il seroit
+bien singulier que l&#39;huile interposée rendit tout égal.
+</p>
+<p>
+L&#39;eau fait un effet bien différent de l&#39;huile ; un
+grand nombre de corps glissent moins aisément
+quand ils sont mouillés, qu&#39;étant secs ; &amp; il y a à cot
+égard de grandes différences entre les différens corps,
+le <i>frottement</i> de quelques-uns étant presque double,
+&amp; celui de quelques autres au contraire diminue. Je
+ne crois pas que dans un ouvrage tel que celui-ci
+qui n&#39;est point un traité complet du <i>frottement</i>, je
+doive entrer dans le détail des expériences faites sur
+les différentes sortes de matieres ; je remarquerai
+seulement que comme on a des tables de la densité
+spécifique des différens corps, il seroit aussi fort à
+souhaiter qu&#39;on en eût sur leur <i>frottement:</i> mais en
+même tems que nous le desirons, nous ne pouvons
+nous empêcher de sentir qu&#39;un tel ouvrage est presque 
+impossible ; du-moins il demanderoit une patience 
+infatigable, &amp; plus d&#39;un observateur. Il saudroit 
+avoir grand soin que hors la différence de la
+matiere, il n&#39;y en eût aucune dans les corps dont on
+voudroit comparer le <i>frottement ;</i> il faudroit employer
+la même huile, &amp; varier ensuite beaucoup les circonstances,
+en les conservant néanmoins les mêmes
+pour chaque sorte de matiere. Une grande difficulté
+qui s&#39;y trouveroit, seroit qu&#39;on observeroit bientôt
+que dans de certaines circonstances, les mêmes pour
+le bois &amp; le fer par exemple, le bois éprouve plus de
+résistance que le fer ; &amp; que dans d&#39;autres, aussi les
+mêmes pour ces deux corps, le fer en éprouve plus
+que le bois ; ce qui obligeroit d&#39;entrer dans de prodigieux 
+détails, pour pouvoir tirer de ces tables
+quelque secours.
+</p>
+<p>
+II. La grandeur des surfaces frottées avoit paru
+jusqu&#39;à M. Amontons, devoir entrer pour quelque
+chose dans l&#39;évaluation du <i>frottement ;</i> il sembloit
+naturel que deux corps se touchant en plus de points,
+il y eût aussi plus d&#39;éminences engagées réciproquement 
+dans les cavités des surfaces de l&#39;un &amp; de l&#39;autre,
+&amp; ainsi plus de difficulté à les faire glisser l&#39;un
+sur l&#39;autre. M. Amontons en examinant la chose de
+plus près, a remarqué que ce n&#39;étoit pas seulement
+au nombre des éminences engagées dans les petites
+cavités des corps, qu&#39;il falloit avoir attention, mais
+qu&#39;il falloit aussi considérer le plus ou moins de profondeur 
+où elles pénétroient. Or comme les éminences d&#39;un corps qui en touche un autre par une large
+surface, doivent entrer moins profondément dans
+<pb n="7:343" facs="V7/ENC_7-343.jpeg" />
+<milestone unit="column" n="1" />
+les cavités de ce dernier, que lorsque cette surface
+est étroite, puisqu&#39;alors le poids du corps est employé 
+à faire entrer un plus grand nombre d&#39;éminences,
+il en conclut qu&#39;il se faisoit ici une compensation,
+&amp; que la grandeur de la surface n&#39;entroit
+pour rien dans l&#39;évaluation du <i>frottement</i>. Ce raisonnement 
+auroit converti peu de physiciens, s&#39;il n&#39;eût
+été accompagné de l&#39;expérience : on auroit accordé
+à M. Amontons qu&#39;il prouvoit très-bien que, toutes
+choses d&#39;ailleurs égales, le <i>frottement</i> n&#39;augmentoit
+pas autant que la surface, mais on lui auroit contesté 
+l&#39;exactitude de cette compensation qu&#39;il supposoit,
+&amp; que ce raisonnement ne démontroit nullement.
+</p>
+<p>
+Il eut donc recours à l&#39;expérience, pour se confirmer 
+dans sa conjecture, ou pour l&#39;abandonner ; &amp; il
+rapporte (<i>mém. de l&#39;acad. 1703 &amp; 4.</i>) qu&#39;il a toûjours
+marqué que la quantité du <i>frottement</i> étoit absolument 
+independante de la grandeur des surfaces : M.
+Camus (<i>des forces mouvantes</i>), &amp; M. Desaguliers
+(<i>cours de Physiq. expérim.</i>) confirment la même chose.
+Malgré toutes ces autorités, la question n&#39;est point
+encore decidée. M. Musschenbroek (<i>essais de Phys.</i>)
+nous fait part de quelques expériences qu&#39;il a faites
+sur le point dont il s&#39;agit, &amp; qui sont entierement opposées 
+aux précédentes. Ayant mis en mouvement
+sur des planches de sapin deux petites planches aussi
+de sapin, longues chacune de treize pouces, &amp; larges 
+l&#39;une d&#39;un pouce, &amp; l&#39;autre de deux pouces onze 
+lignes, &amp; chargées toutes les deux d&#39;un même
+poids, y compris le poids de la planche ; la plus
+large a toûjours eu plus de <i>frottement</i>. M. l&#39;abbé Nollet (<i>Leçons de Physiq. expérim.</i>) nous apprend aussi
+qu&#39;il a toûjours trouvé le <i>frottement</i> augmenté avec
+la surface.
+</p>
+<p>
+A ces expériences faites avec le plus grand soin,
+si l&#39;on ajoûte que tous les artistes qui ont besoin pour
+la perfection de leur ouvrage, de diminuer le <i>frottement</i>, sont dans l&#39;usage constant de diminuer le contact,
+&amp; s&#39;en trouvent bien : il sera bien difficile de ne
+pas pancher à croire que la grandeur des surfaces ne
+soit de quelque influence pour le <i>frottement</i>. Remarquons néanmoins, que si l&#39;on diminuoit les surfaces
+jusqu&#39;à les rendre tranchantes, le <i>frottement</i>, bien loia
+d&#39;etre diminué, seroit dans plusieurs cas beaucoup
+augmenté. M. Musschenbroek est même dans l&#39;idée
+que pour une pression donnee, il y a une certaine
+grandeur de surface à laquelle repond un <i>minimum</i>
+de <i>frottement ;</i> de sorte que soit qu&#39;on l&#39;augmente ou
+qu&#39;on la diminue, la résistance est augmentée. Mais
+cela auroit besoin d&#39;être déterminé encore plus exactement 
+par l&#39;expérience.
+</p>
+<p>
+III. Tous les Physiciens conviennent que la pression 
+qui applique l&#39;une à l&#39;autre les surfaces qu&#39;on
+veut faire glisser, est une des principales considérations 
+qui doit entrer dans l&#39;évaluation du <i>frottement</i>.
+Non-seulement les expériences qu&#39;ils nous rapportent,
+mais aussi les observations les plus communes
+&amp; les plus journalieres, nous font voir que le <i>frottement</i> augmente avec cette force ; &amp; l&#39;on conçoit aisément 
+qu&#39;une plus grande pression fait entrer à une
+plus grande profondeur les éminences d&#39;une surface
+dans les petites cavités de l&#39;autre, &amp; augmente ainsi
+la difficulté qu&#39;il y a à les en dégager. Mais il se présente 
+ici une question sur laquelle il faut avoüer qu&#39;il
+reste encore de l&#39;incertitude ; c&#39;est de savoir si le
+<i>frottement</i> augmente proportionnellement à la force
+qui applique les surfaces l&#39;une à l&#39;autre ; de façon
+qu&#39;il y ait toûjours un rapport constant entre cette
+force &amp; la difficulté qui en résulte pour mouvoir le
+corps ; ou bien, si ce <i>frottement</i> augmente plus ou
+moins que proportionnellement à cette pression.
+</p>
+<p>
+Les expériences de M. Amontons l&#39;ont porté à regarder 
+le rapport du <i>frottement</i> à la pression comme
+<milestone unit="column" n="2" />
+constant : il a crû que le <i>frottement</i> étoit à-peu près le
+même pour les corps huilés ou graissés, &amp; à peu de
+chose près le tiers du poids. M. Desaguliers le répete ; 
+&amp; la plûpart des Physiciens partent de cette hypothèse,
+quand ils veulent faire le calcul de <i>frottement</i> de quelque machine. Cependant, après ce qui
+a été dit plus haut des expériences de M. Musschenbroek, pour montrer que le <i>frottement</i> des différens
+métaux huilés ou graissés, est très-différent, on ne
+sauroit regarder comme assez généralement vrai &amp;
+exact, que le <i>frottement</i> soit le tiers du poids. Mais il
+y a plus. Si l&#39;on examine avec soin les tables que MM.
+de Camus &amp; Musschenbroek nous ont données de
+leurs expériences sur cette matiere, ou ne trouve pas
+qu&#39;un même corps différemment chargé ait un <i>frottement</i> proportionnel à cette charge. Malheureusement
+ces expériences, d&#39;accord en ce point, different en ce
+que celles du premier font le <i>frottement</i> d&#39;une surface
+peu chargée, proportionnellement plus grand que
+celui de celles qui le sont plus : au lieu que suivant
+celles de M. Musschenbroek, il est souvent proportionnellement 
+plus petit. Par exemple, lorsque l&#39;essieu 
+du tribometre de M. Musschenbroek (<i>voyez</i>
+<sc><ref target="head:Tribometre" type="search">Tribometre</ref></sc>) se trouvoit dans le bassinet de cuivre
+rouge, il falloit quatre dragmes pour le mettre en
+mouvement, la charge étant de trois cents quatre-vingt-huit dragmes ; &amp; il en falloit huit, s&#39;il étoit
+chargé de six cents quarante-huit ; au lieu qu&#39;il n&#39;en
+auroit fallu que six &amp; deux tiers, à-peu-près, si le
+<i>frottement</i> eût augmenté proportionnellement à la
+pression.
+</p>
+<p>
+Une telle contradiction entre les expériences de ces
+deux Physiciens, est d&#39;autant plus singuliere, qu&#39;on
+n&#39;en sauroit soupçonner aucun de n&#39;y avoir pas apporté 
+toute l&#39;exactitude &amp; l&#39;attention possibles. Je ne
+vois qu&#39;une façon de les concilier : l&#39;essieu du tribometre 
+de M. Musschenbroek, &amp; les bassinets qui le
+reçoivent, sont parfaitement polis, &amp; s&#39;appliquent
+ainsi l&#39;un à l&#39;autre très-intimement, de façon à laisser 
+peu de vuide : cette application est d&#39;autant plus
+intime, que l&#39;essieu est plus chargé. Par-là l&#39;essieu &amp;
+le bassinet se trouvent dans le cas de deux plaques de
+verre bien polies, que la pression de l&#39;air extérieur
+&amp; l&#39;attraction de contact collent si bien l&#39;une à l&#39;autre,
+que non seulement il est presque impossible de
+les séparer directement, mais qu&#39;outre cela elles
+glissent avec plus de peine que si elles eussent été
+moins exactement polies.
+</p>
+<p>
+Il est vrai que l&#39;essieu &amp; le bassinet étant de forme
+cylindrique &amp; arrondis, ne doivent se toucher que
+par une bien petite surface ; &amp; que par conséquent,
+la pression de l&#39;air extérieur &amp; l&#39;attraction qui les
+appliquent l&#39;un à l&#39;autre, semblent devoir produire
+ici peu d&#39;effet : mais il est aisé de s&#39;appercevoir qu&#39;un
+contact d&#39;une ligne quarrée suffiroit seule pour occasionner 
+le phénomene que nous cherchons ici à expliquer.
+</p>
+<p>
+Quoique la pression qui applique les surfaces de
+deux corps, soit une des principales causes de la
+difficulté qu&#39;on éprouve à les faire glisser l&#39;une sur
+l&#39;autre, il ne faut pourtant pas croire que cette difficulté 
+cessât toûjours entierement, si cette pression
+devenoit nulle. L&#39;exemple de deux scies suspendues
+verticalement, de façon que les dents de l&#39;une se
+logent dans les intervalles que laissent celles de l&#39;autre,
+peut servir à nous convaincre du contraire. Il
+est sûr que si l&#39;on vouloit mouvoir une d&#39;elles verticalement,
+cet engagement réciproque de leurs dents
+y apporteroit quelque obstacle, &amp; formeroit une
+résistance de la nature de celle que nous avons nommée 
+<i>frottement:</i> il est vrai que cette résistance ou
+seroit absolument invincible, ou cesseroit bien-tôt,
+les dents s&#39;étant dégagées, &amp; n&#39;y ayant aucune force 
+qui les oblige à s&#39;embarrasser de nouveau les unes
+dans les autres.
+<pb n="7:344" facs="V7/ENC_7-344.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+IV. La vîtesse des surfaces qui frottent paroît devoir 
+influer sur la quantité du <i>frottement:</i> il semble
+qu&#39;un corps qui se meut plus vîte rencontre dans le
+même tems un plus grand nombre de petites éminences de la surface de celui sur lequel il se meut,
+les choque aussi plus rudement, ou les plie plus vîte ; 
+&amp; par toutes ces considérations, doit éprouver
+beaucoup plus de résistance à son mouvement.
+</p>
+<p>
+Aussi M. Musschenbroek nous dit s&#39;être assûré par
+des expériences dont il ne donne pas le détail, que
+le <i>frottement</i> étoit proportionnel à la vîtesse, excepté 
+lorsque cette vîtesse est très-considérable : car dans
+ce cas il a trouvé le <i>frottement</i> beaucoup plus augmenté.
+</p>
+<p>
+Cependant M Euler considérant que dans le mouvement 
+d&#39;un corps qui glisse sur un autre, les petites 
+éminences de sa surface se dégagent des petites
+cavités de l&#39;autre, &amp; y retombent alternativement,
+a crû qu&#39;il ne devoit éprouver de résistance que comme 
+par intervalle ; au lieu qu&#39;un corps en repos qu&#39;on 
+veut mouvoir, en éprouvoit une continuelle ; &amp;
+qu&#39;ainsi la vîtesse d&#39;un corps, bien loin d&#39;augmenter
+le <i>frottement</i>, devoit le diminuer. A cette considération 
+il en ajoûte une autre tirée de l&#39;expérience : il lui
+a paru que lorsqu&#39;on donnoit à un plan incliné une
+inclinaison très-peu différente de celle où le <i>frottement</i> étoit précisément égal à l&#39;action de la pesanteur,
+pour mouvoir le corps, ce corps parcouroit le plan
+incliné beaucoup plus vîte qu&#39;on n&#39;auroit dû s&#39;y attendre,
+vû le leger changement qui s&#39;étoit fait dans
+l&#39;inclinaison : d&#39;où il a conclu que le mouvement une
+fois commencé, le <i>frottement</i> étoit diminué: il a même 
+donné une méthode pour décider par le tems qu&#39;un 
+corps employe à parcourir un tel plan, si sa conjecture 
+est juste &amp; conforme à la réalité. <i>Voyez</i>, sur
+tout cela, <i>les mém. de Berlin, ann. 1748</i>.
+</p>
+<p>
+De telles contradictions entre des Physiciens de
+cet ordre, nous montrent combien nous sommes encore 
+éloignés de connoître la nature &amp; les vraies
+lois du <i>frottement ;</i> c&#39;est à l&#39;expérience seule à nous
+les apprendre : sur le point dont il s&#39;agit actuellement,
+nous n&#39;en avons aucune qui mérite une confiance entiere.
+M. Musschenbroek ne nous ayant point communiqué 
+son procédé, nous ne pouvons pas juger
+s&#39;il ne s&#39;est point glissé quelque erreur dans les résultats 
+qu&#39;il nous donne ; &amp; nous croyons qu&#39;il est plus
+sage d&#39;attendre de nouvelles expériences, pour décider 
+si &amp; comment la vîtesse doit entrer dans l&#39;évaluation 
+de cette résistance.
+</p>
+<p>
+V. Le <i>frottement</i> retarde &amp; détruit le mouvement
+d&#39;un corps, comme le feroit une puissance qu&#39;il tireroit 
+dans une direction opposée à celle de ce mouvement : d&#39;où il suit tout naturellement, que pour
+juger de la résistance qu&#39;il apporte à l&#39;action de la
+puissance, qui produit ou tend à produire ce mouvement,
+il ne suffit pas de connoitre sa quantité absolue,
+mais qu&#39;il faut aussi avoir égard au bras de levier 
+auquel il est appliqué, relativement à la longueur 
+de celui par lequel agit la puissance. Ainsi, par
+exemple, quand on employe pour élever un corps
+une poulie mobile autour de son axe, le <i>frottement</i>
+qu&#39;il y a à vaincre est celui de l&#39;axe de la poulie dans
+les petites cavités qui le reçoivent, la résistance qui
+en résulte se trouve donc appliquée à un bras de levier 
+d&#39;autant plus court que celui par lequel agit la
+puissance, que le diametre de cet axe est plus petit
+que celui de la poulie même : aussi le <i>frottement</i> est-il 
+incomparablement moindre que si cette poulie
+étoit immobile autour de son axe.
+</p>
+<p>
+On peut expliquer par-là l&#39;avantage des grandes
+poulies &amp; des grandes roues sur les petites, &amp; celui
+des voitures montées sur des roues par-dessus les simples 
+traineaux. Cette observation sert encore à faire
+comprendre pourquoi dans une descente rapide on
+<milestone unit="column" n="2" />
+se trouve très-bien d&#39;enrayer les roues : c&#39;est que par
+là la résistance qui provient du <i>frottement</i> se trouve
+appliquée à la circonférence de la roue, au lieu qu&#39;elle 
+l&#39;étoit à celle de l&#39;essieu : la roue enrayée augmente 
+donc le <i>frottement</i>, &amp; empêche la voiture de
+descendre avec trop de rapidité.
+</p>
+<p>
+Nous pourrons encore expliquer, au moyen des
+mêmes principes, pourquoi les balances courtes sont
+moins exactes que celles dont le fléau est long, &amp;
+pourquoi les romaines le sont ordinairement moins
+que les balances communes : car il est facile de voir
+que si la marchandise dont on veut connoître le poids
+se trouve excéder tant-soit-peu ce qu&#39;elle devroit
+être pour tenir en équilibre les poids auxquels on la
+compare, elle fera trébucher la balance d&#39;autant plus
+aisément qu&#39;elle se trouvera plus éloignée de l&#39;axe
+autour duquel se fait son mouvement ; puisque le
+bras de levier par lequel elle surmontera le <i>frottement</i>
+qu&#39;il y a autour de cet axe, sera d&#39;autant plus long.
+</p>
+<p>
+Il y a dans tous les Arts je ne sais combien de petites 
+attentions de pratique, pour diminuer le <i>frottement ;</i> par exemple, celle de faire porter les essieux
+sur des rouleaux (<i><ref target="XPL:5179" type="platelink">fig. 39</ref>. méchaniq.</i>): je ne crois pas
+nécessaire de m&#39;y arrêter.
+</p>
+<p>
+S&#39;il est hors de doute que la diminution du bras
+de levier auquel sont appliquées les parties qui frottent,
+est un moyen très-efficace de diminuer le <i>frottement</i>, il ne l&#39;est pas également que ces diminutions
+soient exactement proportionnelles l&#39;une à l&#39;autre.
+L&#39;expérience semble avoir montré aux Artistes, que
+lorsque le pivot autour duquel on fait tourner une
+roue, est extrèmement petit, le <i>frottement</i> n&#39;est pas
+diminue à proportion de la petitesse, &amp; qu&#39;on se
+tromperoit beaucoup, si du <i>frottement</i> d&#39;un pivot
+d&#39;un quart de ligne de diametre, on vouloit conclure
+celui d&#39;un pié, en l&#39;estimant 576 fois plus considérable:
+la raison en est sans doute, que les petites éminences des surfaces des corps ont alors une proportion
+sensible avec le diametre du pivot, &amp; sont ainsi plus
+d&#39;obstacle à-son mouvement ; à-peu-près comme une
+petite roue a de la peine à sortir d&#39;une orniere qu&#39;une
+grande roue franchit aisément.
+</p>
+<p>
+Voilà un précis des connoissances que nous avons
+de la nature &amp; des lois du <i>frottement ;</i> connoissances
+bien imparfaites, comme on peut aisément s&#39;en appercevoir,
+&amp; qui le seront vraissemblablement encore 
+long-tems. En effet, y ayant de si grandes variétés 
+dans le tissu des différens corps, &amp; celui d&#39;un
+même corps n&#39;étant pas lui-même homogene, &amp; de
+plus, sujet à des variations par le froid &amp; le chaud,
+le sec &amp; l&#39;humide, &amp; par mille autres circonstances ;
+il paroît bien difficile de parvenir à des lois générales 
+sur cette matiere.
+</p>
+<p>
+Ajoûtez à cela que la plûpart des Physiciens qui
+s&#39;en sont occupés, ont employé pour leurs expériences 
+des méthodes sujettes à équivoque, &amp; propres à
+faire naître de l&#39;incertitude dans leur résultat. Le tribometre 
+de M. Musschenbroek a, par exemple, cet
+inconvénient, qu&#39;une partie de la force destinée à
+faire tourner le disque, s&#39;employe à plier la corde ;
+ce qui n&#39;est pas à négliger. Le même inconvénient a
+lieu, lorsque la puissance qui doit mouvoir un corps
+sur un plan est appliquée à une corde qui passe sur
+une poulie ; &amp; il y a de plus dans ce dernier cas, un
+<i>frottement</i> auquel on n&#39;a aucun égard, qui est celui
+qui se fait autour de l&#39;axe de la poulie. Il me semble
+que de tous les moyens qui ont été employés pour
+connoître par l&#39;expérience les différentes lois du <i>frottement</i>, il n&#39;y en a point de plus simple &amp; en même
+tems de moins sujet à équivoque, que de se servir
+d&#39;un plan incliné, auquel on donne une inclinaison
+telle que le <i>frottement</i> du plan &amp; la pesanteur du corps
+soient précisément en équilibre. L&#39;inclinaison du plan
+fait connoître la force qui cût été nécessaire pour retenir<gap type="hyphenpb" />
+<pb n="7:345" facs="V7/ENC_7-345.jpeg" />
+<milestone unit="column" n="1" />
+le corps sur un plan parfaitement poli ; &amp; de
+cette façon, le <i>frottement</i> qui tient lieu de cette force
+sera connu sans équivoque. Cette méthode a été suivie 
+par quelques physiciens : mais il semble qu&#39;on auroit 
+pû en tirer un meilleur parti.
+</p>
+<p>
+Je ne m&#39;arrêterai pas actuellement à calculer le
+<i>frottement</i> des différentes machines ; il faudroit embrasser,
+pour cet effet, quelque hypothèse particuliere ; 
+&amp; le choix ne laisseroit pas que d&#39;en être embarrassant.
+D&#39;ailleurs on peut voir dans les <i>essais de
+Phys.</i> de Musschenbroek, un exemple de ce calcul.
+Je finirai cet article par quelques observations.
+</p>
+<p>
+1°. On est quelquefois surpris de ce qu&#39;il n&#39;est pas
+nécessaire que la force qui a introduit un coin dans
+une fente y soit continuellement appliquée, pour
+qu&#39;il y reste engagé, malgré l&#39;effort des parois de la
+fente pour se rapprocher. La vis nous offre quelque
+chose de semblable. Si l&#39;on comprime par son moyen
+quelque corps élastique, on ne voit pas que le ressort
+des parties comprimées fasse rétrograder la vis dans
+son écrou, lorsque la puissance cesse de lui être appliquée.
+</p>
+<p>
+Le <i>frottement</i> est l&#39;unique cause de ces deux phénomenes ; 
+car dans l&#39;un &amp; l&#39;autre cas, l&#39;essort que
+sont les parties séparées ou comprimées pour revenir
+à leur premiere situation, peut se décomposer en
+deux autres, dont l&#39;un s&#39;employe tout entier à appliquer 
+les faces du coin contre les côtes de la fente,
+ou le filet de la vis contre les parois intérieures de
+l&#39;écrou ; &amp; l&#39;autre tend à faire glisser le coin hors de
+la fente, &amp; la vis sur son écrou, comme sur des plans
+inclinés : &amp; tant que ce dernier essort n&#39;est pas au
+premier dans un plus grand rapport, que le <i>frottement</i>
+à la pression qui le cause, son action est nulle ; la vis
+ne peut rétrograder, &amp; le coin doit rester dans la
+fente. De-là vient que quand le pas de la vis est grand,
+c&#39;est à-dire quand son filet fait avec son axe un angle 
+assez aigu, la vis remonte dans l&#39;écrou par le
+ressort des parties comprimées, comme on peut le
+voir dans les imprimeries &amp; dans les monnoies. De
+même aussi il arrive quelquefois, que lorsqu&#39;on introduit 
+dans une fente un coin qui n&#39;est pas assez aigu,
+il en ressort avec promptitude, &amp; est chassé en-arriere 
+avec vîtesse ; par la même raison qu&#39;un noyau
+de cerise s&#39;échappe des doigts de celui qui le presse,
+&amp; s&#39;élance à une grande distance.
+</p>
+<p>
+2°. On lit dans tous les livres de Statique, que la
+direction la plus avantageuse, pour mouvoir un
+corps sur un plan horisontal ou incliné, est celle qui
+est parallele au plan ; &amp; l&#39;on a raison, tant que l&#39;on
+suppose ce plan parfaitement poli, &amp; que l&#39;on fait
+abstraction de tout <i>frottement</i>. Mais si l&#39;on veut y
+avoir égard, ce n&#39;est plus la même chose. En ce cas
+voici comme je détermine cette direction. Soit un
+corps <i>P</i> qu&#39;il faut mouvoir sur un plan horisontal
+<i>AB</i> (<i><ref target="XPL:5180" type="platelink">fig. 39</ref>. Méchan. n°. 2.</i>), au moyen d&#39;une force
+donnée <i>A</i>, &amp; soit <i>CP</i> la direction dans laquelle on
+fait agir cette puissance ; soit prise <i>CP</i>=1, &amp; soient
+menées <i>PD</i> parallele au plan &amp; <i>CD</i> perpendiculaire 
+à <i>PD</i>, soit <i>CD=x ;</i> donc <gap type="formula" />
+il est évident que l&#39;essort de la puissance <i>A</i> pour
+mouvoir le corps peut s&#39;exprimer par <i>A</i> <gap type="formula" />
+&amp; supposant le <i>frottement</i> à la pression dans le rapport 
+donné de <i>m à n</i>, la résistance qui en résulte sera
+<i>m/n P-m/n A x</i>, puisque l&#39;effort <i>DC</i> que fait la puissance 
+<i>A</i> s&#39;employe à diminuer la pression qu&#39;exerce
+le corps sur le plan ; donc le corps <i>P</i> est mis en mouvement 
+par une force <i>A</i> <gap type="formula" />  ;
+&amp; si la direction <i>PC</i> est la plus avantageuse, cette
+quantité doit être un <i>maximum ;</i> donc <gap type="formula" />
+<milestone unit="column" n="2" />
+<gap type="formula" />. Ainsi le sinus de l&#39;angle que
+doit faire la direction de la puissance avec le plan
+pour agir avec le plus d&#39;avantage, doit être non pes
+zéro, mais <gap type="formula" />. Si l&#39;on suppose avec M. Amontons <i>m/n=1/3</i>, on a <gap type="formula" />, &amp; l&#39;angle <i>CPD</i> d&#39;en
+viron 18<sup>d</sup> 1/2.
+</p>
+<p>
+3°. Si l&#39;on avoit une théorie exacte des lois du
+<i>frottement</i>, on n&#39;auroit pas besoin d&#39;en faire abstraction 
+dans plusieurs beaux problèmes de Méchanique, comme ceux de la brachystochrone, de la
+courbe isochrone paracentrique, des tautochrones,
+&amp; beaucoup d&#39;autres. J&#39;ai fait un essai du probleme
+des tautochrones, soit dans le vuide, soit dans un
+milieu qui résiste comme le quarré des vîtesses, &amp;
+dans un milieu qui résiste infiniment peu, suivant
+une fonction quelconque des vîtesses, en y considérant 
+aussi le <i>frottement ;</i> &amp; j&#39;ai eu le plaisir de retrouver 
+encore pour tautochrone une portion de cycloïde,
+qui devient la demi-cycloïde, lorsque le <i>frottement</i> est nul. Comme l&#39;académie devant qui j&#39;ai eu
+l&#39;honneur de lire la solution de ces problemes, l&#39;a jugée 
+digne d&#39;être imprimée dans le volume de ses correspondans,
+j&#39;y renvoie ceux qui se feront plaisir de
+voir le détail du calcul. <i>Cet article est de M. <sc>Necker</sc>
+le fils, citoyen de Genève, &amp; correspondant de l&#39;académie 
+royale des Sciences de Paris</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

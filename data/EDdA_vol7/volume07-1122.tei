@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28576" vol="7">
+<index type="head" value="Fungus" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Maréchall." />
+<index type="normclass" value="Maréchallerie" />
+<index type="englishclass" value="Farrier&#39;s art" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Fungus</head>
+<p>
+<i><sc>Fungus</sc></i>, (<i>Maréchall.</i>) se dit d&#39;une excroissance
+de chairs spongieuses &amp; superflues ; elle survient dans
+les ulceres &amp; dans les plaies. Nous nommons encore
+de ce nom certaines protubérances plus ou moins
+considérables qui se montrent quelquefois dans les
+plaies saines. Celles qui naissent des plaies qui, ensuite 
+de quelqu&#39;opération pratiquée, ou par d&#39;autres
+causes quelconques, affectent les piés, sont appellées
+fort improprement par les Maréchaux <i>cerises</i> ou
+<i>bouillons</i>.
+</p>
+<p>
+La nécessité de consumer toute chair superflue,
+lâche, molle &amp; saillante, qui s&#39;oppose à la guérison
+de l&#39;animal, &amp; à la cicatrice que l&#39;on s&#39;efforce de
+procurer, est généralement connue. Les moyens
+que nous employons à cet effet varient selon la nature,
+le genre, &amp; le volume des <i>fungus</i>. Les cathérétiques 
+plus ou moins forts, dissiperont ceux que
+des topiques dessicatifs &amp; détersifs n&#39;auroient pû
+détruire. Ces derniers médicamens seront préférables 
+dans le cas des <i>fungus</i>, qui naissent des plaies
+saines. <i>Voyez</i> <sc><ref target="head:Ulceres" type="search">Ulceres</ref> <i>&amp;</i> <ref target="head:Plaies" type="search">Plaies</ref></sc>.
+</p>
+<p>
+A l&#39;égard des <i>bouillons</i> ou <i>cerises</i>, qui le plus communément 
+n&#39;arrivent qu&#39;ensuite du peu d&#39;attention
+du Maréchal à comprimer dans ses pansemens la partie 
+malade, ou à faire porter son appareil également
+dans toute son étendue ; il faut se hâter de les réprimer 
+par la voie de la compression &amp; par des corrosifs 
+plus ou moins legers, tels que la poudre de sabine,
+l&#39;ochre, le vitriol blanc, la chaux vive, l&#39;alun
+brûlé, le précipité rouge, dont on saupoudrera le
+<i>fungus</i>, sur lequel on appliquera ensuite un plumaceau 
+garni d&#39;onguent aegyptiac. <i>Voyez</i> <sc><ref target="head:Sole" type="search">Sole</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

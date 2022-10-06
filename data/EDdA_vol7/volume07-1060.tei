@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28514" id="50:210:1" vol="7">
+<index type="head" value="Fuite" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Liebault" />
+<index type="shortauth" value="Liebault" />
+<index type="kafnum" value="79" />
+<index type="kafauth" value="Liebault, Nicolas (1723-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Fuite</head>
+<p>
+<sc>Fuite</sc>. (<i>Art milit.</i>) action prompte &amp; machinale
+par laquelle un être animé s&#39;éloigne de quelque objet
+dont la vûe lui fait éprouver un sentiment de crainte,
+d&#39;horreur, ou d&#39;antipathie.
+</p>
+<p>
+<i>Fuite</i>, à la guerre, est un mouvement rétrograde,
+précipité, fait malgré tous les chefs d&#39;une armée, &amp;
+par lequel le soldat cherche à se dérober aux périls
+d&#39;un combat ; ce mot exprime l&#39;acte des différens
+particuliers qui fuient, &amp; non l&#39;acte géneral de toute
+une armée. Quand la <i>fuite</i> se prolonge &amp; devient
+<pb n="7:364" facs="V7/ENC_7-364.jpeg" />
+<milestone unit="column" n="1" />
+universelle, elle prend le nom de <i>déroute:</i> une déroute 
+est donc l&#39;état d&#39;une armée dont tous les membres 
+ont abandonné le poste qu&#39;ils devoient occuper,
+&amp; dont les soldats dispersés ne peuvent plus se
+rallier.
+</p>
+<p>
+<i>Exemple</i>. Dans le moment où les soldats prennent
+la <i>fuite</i>, la fermeté de leurs officiers peut les arrêter,
+dissiper leur frayeur, &amp; les faire revenir au combat.
+Quand ils ont abandonné leurs camarades &amp;
+leurs drapeaux ; que tous sont occupés du seul intérêt 
+de leur conservation particuliere, on dit que <i>l&#39;armée est en déroute ;</i> &amp; rien alors ne la peut sauver, à-moins
+qu&#39;un obstacle insurmontable ne l&#39;arrête malgré 
+elle, &amp; ne la force à se rassembler avant qu&#39;elle
+ait été jointe par son ennemi. <i>Voyez l&#39;art</i>. <sc><ref target="head:Fuyards" type="search">Fuyards</ref></sc>.
+<i>Article de M. <sc>Liebault</sc>.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

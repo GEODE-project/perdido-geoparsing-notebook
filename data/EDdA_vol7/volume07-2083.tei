@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29537" id="53:47" vol="7">
+<index type="head" value="GIBECIERE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art méchan." />
+<index type="normclass" value="Art méchanique" />
+<index type="englishclass" value="Mechanical arts" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>GIBECIERE</head>
+<p>
+GIBECIERE, (<i>Art méchan.</i>) espece de grande
+bourse ou de petit bissac ordinairement de cuir, &amp;
+quelquefois de cuir couvert d&#39;étoffe ; mais cette derniere 
+sorte de <i>gibeciere</i> ne sert guere qu&#39;aux bateleurs
+&amp; joüeurs de gobelets, pour les tours d&#39;adresse dont
+ils amusent le public. M. Eccard dérive ce mot, avec
+affez de vraissemblance, de l&#39;allemand <i>schiben</i>, cacher,
+serrer ; &amp; de <i>becher</i>, gobelet.
+</p>
+<p>
+A l&#39;égard des <i>gibecieres</i> de cuir, terme qui peut venir 
+du mot <i>gibier</i>, les unes sont rondes, &amp; sont propres 
+aux chasseurs, qui les tiennent attachées avec
+des ceintures de cuir ; ils y mettent leur poudre,
+leur plomb, leurs pierres-à-fusil, leur bourre, leur
+tire-bourre, &amp; généralement tout ce dont ils ont besoin 
+pour la chasse. Les autres <i>gibecieres</i> sont quarrées,
+&amp; servent aux grenadiers, soit à cheval, soit
+à pié, pour y mettre leurs grenades, &amp; ces <i>gibecieres</i> leur pendent en bandouliere. Le reste de l&#39;infanterie 
+se sert aussi de <i>gibecieres</i> attachées au ceinturon,
+ce qui leur tient lieu de l&#39;ancienne bandouliere où
+pendoit leur fourniment.
+</p>
+<p>
+Les <i>gibecieres</i> dont on se sert dans le Levant, sont
+composées de tuyaux de canne assembles ordinairement 
+à double rang, assez semblables aux anciennes
+flûtes de Pan, ou, pour me servir d&#39;une comparaison
+plus intelligible, aux sifflets de ces chauderonniers
+ambulans qui vont chercher de l&#39;ouvrage de province 
+en province.
+</p>
+<p>
+Cette <i>gibeciere</i> des Orientaux est legere, courbe,
+&amp; s&#39;accommode aisément sur le côté. Ses tuyaux
+sont hauts de 4 à 5 pouces, &amp; couverts d&#39;une peau
+assez propre. Chaque tuyau contient sa charge, &amp;
+cette charge est un tuyau de papier rempli de la quantité 
+de poudre &amp; de plomb nécessaire pour tirer un
+coup. Quand on veut charger un fusil, on tire un de
+ces tuyaux de la <i>gibeciere ;</i> avec un coup de dent on
+ouvre le papier du côté où est la poudre ; on la vuide
+en même tems dans le canon du fusil, &amp; on laisse
+couler le plomb enfermé dans le reste du tuyau de
+papier : la charge est faite avec un coup de baguette
+que l&#39;on donne par-dessus ; &amp; le même papier qui
+renfermoit la poudre &amp; le plomb, sert de bourre. Je
+laisse aux experts à juger si cette invention vaut
+mieux que la nôtre. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

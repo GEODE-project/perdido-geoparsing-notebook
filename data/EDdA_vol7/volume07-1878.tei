@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29332" id="52:133:3" vol="7">
+<index type="head" value="Genêt" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. med." />
+<index type="normclass" value="Matière médicale" />
+<index type="englishclass" value="Materia medica" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Genêt</head>
+<p>
+<sc>Genêt</sc>, (<i>Mat. med.</i>) on employe en Pharmacie
+deux sortes de <i>genêt</i>, le commun &amp; celui d&#39;Espagne ;
+leur vertu passe pour être à peu-près la même. On
+se sert à Paris du premier qui est fort commun dans
+les environs ; mais dans nos provinces méridionales,
+on employe indifferemment celui-ci ou celui d&#39;Espagne qui y croit fort abondamment.
+</p>
+<p>
+L&#39;infusion ou plutôt la lessive des cendres de <i>genêt</i>, est un remede très-employé dans la leucoplegmatie 
+&amp; dans l&#39;hydropisie ; les medecins de Montpellier s&#39;en servent beaucoup dans ce cas. Ce remede 
+évacue en effet très-efficacement par les couloirs
+du ventre &amp; par les voies des urines ; mais on ne voit
+point pourquoi on le préféreroit à la lessive des cendres 
+de tout autre végétal qui fourniroit à-peu-près
+la même quantité d&#39;alkali fixe &amp; de sel neutre qu&#39;on
+retire de la plus grande partie des végétaux par la
+combustion. Les cendres de <i>genêt</i> paroissent avoir
+tiré lear célébrité particuliere de la proprieté qu&#39;a
+la plante inaltérée, &amp; sur-tout sa semence, d&#39;exciter
+puissamment les selles &amp; les urines, selon l&#39;observation 
+de Mathiole, de Lobel, de Rai &amp; plusieurs autres 
+medecins.
+</p>
+<p>
+La fleur de <i>genêt</i> est un vomitif doux selon Lobel ;
+quoi qu&#39;il en soit, nous employons fort peu les feuilles,
+les sommités, les graines &amp; les fleurs de <i>genêt</i>,
+parce que nous avons des hydragogues &amp; des émétiques plus sûrs.
+</p>
+<p>
+Sa cendre ou plutôt son sel lixiviel n&#39;a, comme
+nous l&#39;avons insinué déjà, que les propriétés communes 
+des sels lixiviels. <i>Voyez</i> <sc><ref target="head:Sel lixiviel" type="search">Sel lixiviel</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

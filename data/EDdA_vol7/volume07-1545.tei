@@ -1,0 +1,275 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28999" id="51:235:6" vol="7">
+<index type="head" value="Gardes du Camp" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Gardes du Camp</head>
+<p>
+<sc>Gardes du Camp</sc>, c&#39;est dans l&#39;infanterie une
+<i>garde</i> de quinze hommes ou environ par bataillon,
+qui se porte à-peu-près à soixante pas ou environ en-avant 
+du centre de chaque bataillon de la premiere
+ligne, &amp; à même distance en-arriere du centre des
+bataillons de la seconde.
+</p>
+<p>
+Dans la cavalerie, il y a une <i>garde</i> à pié par régiment,
+laquelle se tient à la tête du camp.
+</p>
+<p>
+<i>Des grands-gardes ou gardes ordinaires qui forment
+l&#39;enceinte du camp</i>. Ces <i>gardes</i> sont d&#39;infanterie &amp; de
+cavalerie.
+</p>
+<p>
+Les <i>gardes</i> d&#39;infanterie se placent toûjours dans
+quelque lieu défendu par une espece de fortification,
+soit naturelle ou artificielle.
+</p>
+<p>
+On regarde comme fortification naturelle une
+église, un cimetiere, un jardin fermé de tous côtés,
+un endroit entouré de haies fortes &amp; difficiles à percer,
+<i>&amp;c.</i> &amp; on regarde comme fortifications artificielles 
+celles dans lesquelles il est besoin de quelque
+précaution pour les former, comme un abbatis d&#39;arbres 
+dont on se fait une espece d&#39;enceinte, un fossé
+dont la terre sert de parapet, <i>&amp;c.</i>
+</p>
+<p>
+Tous les hommes qui composent ces <i>gardes</i> doivent 
+être absolument dans leur poste, &amp; n&#39;en sortir
+qu&#39;avec la permission du commandant. Les fusils doivent 
+être placés de maniere que tous les soldats puissent 
+les prendre ensemble &amp; commodément ; pour
+cet effet, on le place dans le lieu que chaque homme
+doit occuper en cas d&#39;attaque.
+</p>
+<p>
+Ces <i>gardes</i> ont des sentinelles devant elles ou sur
+le retranchement, ou de tous les côtés par où les ennemis 
+peuvent pénétrer ; elles avertissent aussi-tôt
+qu&#39;elles apperçoivent quelque chose dans la campagne : alors tout le monde prend les armes pour être
+en état de combattre en moins de tems qu&#39;il n&#39;en faut
+à l&#39;ennemi, depuis sa découverte par les sentinelles,
+pour arriver au poste occupé par la <i>garde</i>. Les <i>gardes</i>
+doivent faire ferme, &amp; tenir dans l&#39;endroit où elles
+sont placées, jusqu&#39;à ce qu&#39;elles soient secourues du
+camp. C&#39;est pour favoriser cette défense, qu&#39;on les
+place dans les villages &amp; autres lieux fourrés, où il est
+aisé, avec quelque connoissance de la fortification,
+de se mettre en état de soûtenir les attaques des partis 
+qui veulent les enlever.
+</p>
+<p>
+<i>Des gardes de cavalerie</i>. Comme les <i>gardes</i> de cavalerie 
+peuvent se mouvoir avec plus de vitesse que
+celles de l&#39;infanterie, elles sont ordinairement placées 
+dans les plaines, ou dans d&#39;autres endroits découverts ;<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+elles ont des vedettes placées encore en-avant,
+qui découvrent au loin tous les objets de la
+campagne. On appelle <i>vedettes</i> dans le service à cheval 
+ce que l&#39;on nomme <i>sentinelle</i> dans le service à pié.
+<i>Voyez</i> <sc><ref target="head:Vedette" type="search">Vedette</ref></sc>.
+</p>
+<p>
+Comme les vedettes sont placées d&#39;autant plus avantageusement 
+qu&#39;elles découvrent plus de terrein devant 
+elles, on les avance quelquefois à une assez grande 
+distance de la troupe ; &amp; on les place sur les lieux
+les plus avantageux pour cette découverte, comme
+les hauteurs à portée de la grande <i>garde</i>.
+</p>
+<p>
+Pour la sûreté des vedettes, &amp; pour que la <i>garde</i>
+soit informée promptement de ce qu&#39;elles peuvent
+découvrir, on place à une petite distance de ces vedettes,
+c&#39;est-à-dire entre elle &amp; la <i>garde</i>, un corps
+d&#39;environ huit cavaliers ; on le nomme <i>petit corps-de-garde ;</i> il est commandé par un cornette ou autre officier 
+alternativement. Ce corps doit être toûjours à
+cheval, &amp; très-attentif aux vedettes ; il doit par conséquent 
+être à-portée de les voir ; &amp; il doit aussi être
+vû de la grande <i>garde:</i> mais il n&#39;est pas nécessaire
+qu&#39;il découvre lui-même le terrein, comme les vedettes ; 
+il est seulement destiné à les soûtenir &amp; à veiller
+à ce qu&#39;elles fassent leur devoir : aussi arrive-t-il quelquefois 
+que les vedettes sont sur le sommet d&#39;une hauteur,
+&amp; que le petit corps-de-<i>garde</i> est derriere à une
+distance médiocre, &amp; caché par la hauteur, pendant
+que la grande <i>garde</i> est encore dans un lieu plus bas,
+d&#39;où elle découvre seulement le petit corps-de-<i>garde</i>.
+</p>
+<p>
+On éloigne aussi les vedettes les unes des autres,
+pour qu&#39;elles soient à-portée de découvrir un plus
+grand espace de terrein, sans qu&#39;il soit besoin de trop
+avancer les troupes de la <i>garde</i>, &amp; par-là de les exposer 
+à être enlevées. Lorsque les vedettes sont dans
+des endroits dangereux, il les faut doubler, c&#39;est-à-dire en mettre deux ensemble ou dans le même
+lieu.
+</p>
+<p>
+S&#39;il paroît des ennemis, ou quelque corps de troupes 
+que ce puisse être, les vedettes en avertissent ; &amp;
+suivant que le commandant de la troupe le juge à propos, ou suivant les ordres qu&#39;il a, il fait rester
+les vedettes à leur poste, &amp; il ordonne au corps-de-<i>garde</i> 
+d&#39;avancer pour les soûtenir ; lui-même marche
+avec sa troupe pour joindre ce corps, &amp; s&#39;opposer ensemble 
+aux ennemis ; ou bien le commandant fait replier 
+ses vedettes sur les corps-de-<i>garde ;</i> celui-ci sur
+sa troupe ; &amp; cette troupe sur quelqu&#39;autre poste, ou
+enfin sur le camp, s&#39;il le juge nécessaire.
+</p>
+<p>
+Les commandans de ces <i>gardes</i> doivent prendre
+les mêmes précautions par rapport à leurs troupes,
+que les généraux d&#39;armée par rapport à leur armée ;
+ce sont les mêmes principes appliqués à un grand objet 
+ou à un petit ; c&#39;est pourquoi ils doivent avoir pour
+premieres regles de disposer les vedettes de maniere
+qu&#39;après qu&#39;elles ont averti de ce qu&#39;elles ont découvert,
+elles ayent le tems de former leur troupe, &amp;
+de se mettre en état de combattre avant l&#39;arrivée de
+l&#39;ennemi.
+</p>
+<p>
+Le commandant d&#39;une <i>garde</i> ordinaire, ou en général 
+de troupes détachées, à la guerre, peut faire mettre 
+pié à terre à un rang de sa troupe, pour reposer
+les hommes &amp; faire manger les chevaux, suivant le
+tems qu&#39;il juge nécessaire à une troupe ennemie pour
+qu&#39;elle approche de lui, depuis le moment de sa découverte 
+par les vedettes : mais il faut toûjours que
+chaque cheval soit prêt à être bridé dans un instant,
+&amp; que le cavalier soit à-portée pour monter dessus au
+premier ordre.
+</p>
+<p>
+Il y a des circonstances où les commandans peuvent 
+faire mettre pié à terre aux deux rangs que forment 
+leur troupe ; mais ce n&#39;est qu&#39;après s&#39;être bien
+assûré que l&#39;ennemi sera découvert dans un assez
+grand éloignement, pour qu&#39;il soit plus de tems à
+parcourir l&#39;espace découvert par les vedettes, qu&#39;il
+<pb n="7:484" facs="V7/ENC_7-484.jpeg" />
+<milestone unit="column" n="1" />
+n&#39;en faut pour faire monter toute la troupe à cheval:
+c&#39;est pourquoi la maniere de faire la guerre à l&#39;ennemi 
+qu&#39;on combat, doit faire prendre à cet égard des
+mesures au commandant pour n&#39;être point surpris.
+Ainsi si l&#39;on a affaire à un ennemi qui manoeuvre avec
+une grande vîtesse comme les Turcs, les Tartares,
+<i>&amp;c.</i> il faut, pour n&#39;en être point surpris, prendre plus
+de précautions que contre les Allemands ou les Hollandois, quoique les troupes de ces deux nations
+soient supérieures à celles des Turcs.
+</p>
+<p>
+Il suit des observations qu&#39;on vient de voir, que
+moins une troupe ou ses vedettes découvrent de terrein,
+plus elle doit redoubler son attention, pour
+être en état d&#39;être formée le plus promptement qu&#39;il
+est possible ; &amp; qu&#39;au contraire, lorsqu&#39;elle découvre
+un espace de terrein assez grand pour avoir le tems
+de se former avant que l&#39;ennemi puisse le parcourir,
+le commandant peut profiter de cette position pour
+donner plus de repos aux hommes &amp; aux chevaux.
+</p>
+<p>
+Si les sentinelles de l&#39;infanterie sont placées ordinairement 
+dans les lieux moins favorables que les vedettes 
+de la cavalerie, pour découvrir beaucoup de terrein ; 
+il faut aussi moins de tems à des gens à pié pour
+prendre un fusil &amp; se mettre en défense, qu&#39;il n&#39;en
+faut à des cavaliers qui sont pié à terre, pour brider
+leurs chevaux, monter dessus, &amp; se former en ordre
+de bataille. <i>Essai sur la castramétation</i>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

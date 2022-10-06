@@ -1,0 +1,3218 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30077" id="54:35:1" vol="7">
+<index type="head" value="Grains" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Quesnay" />
+<index type="shortauth" value="Quesnay" />
+<index type="kafnum" value="112" />
+<index type="kafauth" value="Quesnay, François (1694-1774)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie polit." />
+<index type="normclass" value="Economie politique" />
+<index type="englishclass" value="Political economy" />
+<index type="generatedclass" value="Economie rustique" />
+<index type="pos" value="NA" />
+<head>Grains</head>
+<p>
+<sc>Grains</sc>, (<i>Economie polit.</i>) Les principaux objets
+du Commerce en France, sont les <i>grains</i>, les vins &amp;
+eaux-de-vie, le sel, les chanvres &amp; les lins, les laines,
+&amp; les autres produits que fournissent les bestiaux : les manufactures des toiles &amp; des étoffes communes 
+peuvent augmenter beaucoup la valeur des
+chanvres, des lins, &amp; des laines, &amp; procurer la subsistance 
+à beaucoup d&#39;hommes qui seroient occupés
+à des travaux si avantageux. Mais on apperçoit
+aujourd&#39;hui que la production &amp; le commerce
+de la plûpart de ces denrées sont presque anéantis
+en France. Depuis long-tems les manufactures de
+luxe ont séduit la nation ; nous n&#39;avons ni la soie ni
+les laines convenables pour fabriquer les belles étoffes &amp; les draps fins ; nous nous sommes livrés à une
+industrie qui nous étoit étrangere ; &amp; on y a employé
+une multitude d&#39;hommes, dans le tems que le royaume 
+se dépeuploit &amp; que les campagnes devenoient
+desertes. On a fait baisser le prix de nos blés, afin
+que la fabrication &amp; la main-d&#39;oeuvre fussent moins
+cheres que chez l&#39;étranger : les hommes &amp; les richesses 
+se sont accumulés dans les villes ; l&#39;Agriculture,
+la plus féconde &amp; la plus noble partie de notre commerce,
+la source des revenus du royaume, n&#39;a pas
+été envisagée comme le fond primitif de nos richesses ; 
+elle n&#39;a paru intéresser que le fermier &amp; le paysan : on a borné leurs travaux à la subsistance de la
+nation, qui par l&#39;achat des denrées paye les dépenses 
+de la culture ; &amp; on a crû que c&#39;étoit un commerce 
+ou un trafic établi sur l&#39;industrie, qui devoit
+apporter l&#39;or &amp; l&#39;argent dans le royaume. On a défendu 
+de planter des vignes ; on a recommandé la
+culture des mûriers ; on a arrêté le débit des productions 
+de l&#39;Agriculture &amp; diminué le revenu des terres,
+pour favoriser des manufactures préjudiciables à notre 
+propre commerce.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La France peut produire abondamment toutes les
+matieres de premier besoin ; elle ne peut acheter de
+l&#39;étranger que des marchandises de luxe : le trafic mutuel 
+entre les nations est nécessaire pour entretenir le
+Commerce. Mais nous nous sommes principalement
+attachés à la fabrication &amp; au commerce des denrées
+que nous pouvions tirer de l&#39;étranger ; &amp; par un commerce 
+de concurrence trop recherché, nous avons
+voulu nuire à nos voisins, &amp; les priver du profit qu&#39;ils 
+retireroient de nous par la vente de leurs marchandises.
+</p>
+<p>
+Par cette politique nous avons éteint entre eux &amp;
+nous un commerce réciproque qui étoit pleinement
+à notre avantage ; ils ont interdit chez eux l&#39;entrée
+de nos denrées, &amp; nous achetons d&#39;eux par contrebande 
+&amp; fort cher les matieres que nous employons
+dans nos manufactures. Pour gagner quelques millions 
+à fabriquer &amp; à vendre de belles étoffes, nous
+avons perdu des milliards sur le produit de nos terres ; 
+&amp; la nation parée de tissus d&#39;or &amp; d&#39;argent, a
+crû joüir d&#39;un commerce florissant.
+</p>
+<p>
+Ces manufactures nous ont plongés dans un luxe
+desordonné qui s&#39;est un peu étendu parmi les autres
+nations, &amp; qui a excité leur émulation : nous les
+avons peut-être surpassées par notre industrie ; mais
+cet avantage a été principalement soûtenu par notre
+propre consommation.
+</p>
+<p>
+La consommation qui se fait par les sujets est la
+source des revenus du souverain ; &amp; la vente du superflu 
+à l&#39;étranger augmente les richesses des sujets.
+La prospérité de l&#39;état dépend du concours de ces
+deux avantages : mais la consommation entretenue
+par le luxe est trop bornée ; elle ne peut se soûtenir
+que par l&#39;opulence ; les hommes peu favorisés de la
+fortune ne peuvent s&#39;y livrer qu&#39;à leur préjudice &amp;
+au desavantage de l&#39;état.
+</p>
+<p>
+Le ministere plus éclairé sait que la consommation 
+qui peut procurer de grands revenus au souverain,
+&amp; qui fait le bonheur de ses sujets, est cette
+consommation générale qui satisfait aux besoins de
+la vie. Il n&#39;y a que l&#39;indigence qui puisse nous réduire 
+à boire de l&#39;eau, à manger de mauvais pain, &amp; à
+nous couvrir de haillons ; tous les hommes tendent
+par leurs travaux à se procurer de bons alimens &amp;
+de bons vêtemens : on ne peut trop favoriser leurs
+efforts ; car ce sont les revenus du royaume, les gains
+&amp; les dépenses du peuple qui font la richesse du souverain.
+</p>
+<p>
+Le détail dans lequel nous allons entrer sur les revenus 
+que peuvent procurer d&#39;abondantes récoltes
+de <i>grains</i>, &amp; sur la liberté dans le commerce de cette
+denrée, prouvera suffisamment combien la production 
+des matieres de premier besoin, leur débit &amp;
+leur consommation intéressent tous les différens états
+du royaume, &amp; fera juger de ce que l&#39;on doit aujourd&#39;hui attendre des vûes du gouvernement sur le
+rétablissement de l&#39;Agriculture.
+</p>
+<p>
+Nous avons déjà examiné l&#39;état de l&#39;Agriculture en
+France, les deux sortes de culture qui y sont en usage,
+la grande culture ou celle qui se fait avec les
+chevaux, &amp; la petite culture ou celle qui se fait
+avec les boeufs, la différence des produits que donnent 
+ces deux sortes de culture, les causes de la dégradation 
+de notre agriculture, &amp; les moyens de la
+rétablir. <i>Voyez</i> <sc><ref target="head:Fermiers" type="search">Fermiers</ref></sc>, (<i>Economie politiq.</i>)
+</p>
+<p>
+Nous avons vû que l&#39;on cultive environ 36 millions 
+d&#39;arpens de terre, &amp; que nos récoltes nous
+donnent, année commune, à-peu-près 45 millions de
+septiers de blé; savoir 11 millions produits par la
+grande culture, &amp; 34 millions par la petite culture 
+(<i><ref type="note" target="n21" n="a" /></i>). Nous allons examiner le revenu que 45 millions<gap type="hyphenpb" />
+<pb n="7:813" facs="V7/ENC_7-813.jpeg" />
+<milestone unit="column" n="1" />
+de septiers de blé peuvent procurer au Roi, conformément 
+aux deux sortes de culture qui les produisent : nous examinerons aussi ce qu&#39;on en retire pour
+la dixme, pour le loyer des terres, &amp; pour le gain
+du cultivateur ; nous comparerons ensuite ces revenus 
+avec ceux que produiroit le rétablissement parfait 
+de notre agriculture, l&#39;exportation étant permise ; 
+car sans cette condition, nos récoltes qui ne
+sont destinées qu&#39;à la consommation du royaume,
+ne peuvent pas augmenter, parce que si elles étoient
+plus abondantes, elles feroient tomber le blé en non-valeur ; 
+les cultivateurs ne pourroient pas en soûtenir 
+la culture, les terres ne produiroient rien au Roi
+ni aux propriétaires. Il faudroit donc éviter l&#39;abondance 
+du blé dans un royaume où l&#39;on n&#39;en devroit
+recueillir que pour la subsistance de la nation. Mais
+dans ce cas, les disettes sont inévitables, parce que
+quand la récolte donne du blé pour trois ou quatre 
+mois de plus que la consommation de l&#39;année,
+il est à si bas prix que ce superflu ruine le laboureur,
+&amp; néanmoins il ne suffit pas pour la consommation
+de l&#39;année suivante, s&#39;il survient une mauvaise récolte : ainsi il n&#39;y a que la facilité du débit à bon
+prix, qui puisse maintenir l&#39;abondance &amp; le profit.
+</p>
+<p>
+<i>Etat de la grande culture des grains</i>. La grande culture 
+est actuellement bornée environ à six millions
+d&#39;arpens de terre, qui comprennent principalement
+les provinces de Normandie, de la Beauce, de l&#39;Isle-de-France, de la Picardie, de la Flandre françoise,
+<milestone unit="column" n="2" />
+du Hainault, &amp; peu d&#39;autres. Un arpent de bonne
+terre bien traité par la grande culture, peut produire 
+8 septiers &amp; davantage, mesure de Paris, qui est
+240 livres pesant ; mais toutes les terres traitées par
+cette culture, ne sont pas également fertiles ; car
+cette culture est plûtôt pratiquée par un reste d&#39;usage 
+conservé dans certaines provinces, qu&#39;à raison de
+la qualité des terres. D&#39;ailleurs une grande partie de
+ces terres est tenue par de pauvres fermiers hors d&#39;état 
+de les bien cultiver : c&#39;est pourquoi nous n&#39;avons
+évalué du fort au foible le produit de chaque arpent
+de terre qu&#39;à cinq septiers, semence prélevée. Nous
+fixons l&#39;arpent à 100 perches, &amp; la perche à 22 piés.
+(<i><ref type="note" target="n22" n="b" /></i>)
+</p>
+<p>
+Les six millions d&#39;arpens de terre traités par cette
+culture entretiennent tous les ans une sole de deux
+millions d&#39;arpens ensemencés en blé; une sole de
+deux millions d&#39;arpens ensemencés en avoine &amp; autres 
+<i>grains</i> de Mars ; &amp; une sole de deux millions
+d&#39;arpens qui sont en jacheres, &amp; que l&#39;on prépare
+à apporter du blé l&#39;année suivante.
+</p>
+<p>
+Pour déterminer avec plus d&#39;exactitude le prix
+commun du blé dans l&#39;état actuel de la grande culture 
+en France, lorsque l&#39;exportation est défendue,
+il faut faire attention aux variations des produits
+des récoltes &amp; des prix du blé, selon que les années
+sont plus ou moins favorables à nos moissons.
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les 87 liv. total des cinq années, frais déduits,
+divisées en cinq années, donnent par arpent 17 liv.
+8 s. de produit net.
+<table>
+  Ajoûtez à ces . . . . . . . . . . .  17 liv. 8 s.
+  Les frais montant à . . . . . . . .  60
+  Cela donnera par chaque arpent au
+total . . . . . . . . . . . . . . . . . 77 liv. 8 s.
+</table>
+</p>
+<p>
+Les cinq années donnent 25 septiers, ce qui fait
+cinq septiers année commune. Ainsi pour savoir le
+prix commun de chaque septier, il faut diviser le total 
+ci-dessus par 5, ce qui établira le prix commun
+de chaque septier de blé à 15 liv. 9 s.
+</p>
+<p>
+Chaque arpent produit encore la dixme, qui d&#39;abord 
+a été prélevée sur la totalité de la récolte, &amp;
+qui n&#39;est point entrée dans ce calcul. Elle est ordinairement<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+le treizieme en-dedans de toute la récolte
+ou le douzieme en-dehors. Ainsi, pour avoir le produit 
+en entier de chaque arpent, il faut ajoûter à
+77 liv. 8 s. le produit de la dixme, qui se prend sur
+le total de la récolte, semence comprise. La semence
+évaluée en argent est 10 liv. 6 s. qui avec 77 liv.
+8 s. font 87 liv. 14 s. dont 1/12 pris en-dehors pour la
+dixme, est 7 livres. Ainsi avec la dixme le produit
+total, semence déduite, est 84 liv. 16 s.
+<table>
+ Ces 84 liv. 16 s. se partagent ainsi:
+ Pour la dixme  . . . .   7 liv.       84 liv. 8 s.
+ Pour les frais . . . .  60            84 liv. 8 s.
+ Pour le produit net. .  17       8    84 liv. 8 s.
+</table>
+</p>
+<p>
+La culture de chaque arpent qui produit la récolte 
+en blé, est de deux années. Ainsi le fermier
+paye deux années de fermage sur les 17 liv. 8 s. du
+produit net de cette récolte ; il doit aussi payer la
+taille sur cette même somme, &amp; y trouver un gain
+pour subsister.
+</p>
+<p>
+Elle doit donc être distribuée à-peu-près ainsi:
+<table>
+Pour le propriétaire 3/5 ou 10  7  7          17  8
+Pour la taille . . . 1/5 ou  3  9  6          17  8
+Pour le fermier. . . 1/5 ou  3  9  6(<i><ref type="note" target="n26" n="f" /></i>)       17  8
+</table>
+<pb n="7:814" facs="V7/ENC_7-814.jpeg" />
+<milestone unit="column" n="1" />
+<table>
+ 60 liv. de frais, &amp; 13 liv. 18 s. 6 den.
+pour le propriétaire &amp; pour la taille, font
+73 liv. 18 s. 6 d. pour un arpent de blé,
+qui portant année commune cinq septiers,
+chaque septier coûte au fermier         14 15 8
+ Les années abondantes, l&#39;arpent portant 
+sept septiers, à 10 liv. le septier, le
+fermier perd par septier . . . . . . . .       0 11 2 1/2
+ Ou par arpent  . . . . . . . . . . . .       3 18 6
+ Les bonnes années, l&#39;arpent portant six
+septiers à 12 l. le fermier perd par septier   0  6 5
+  Ou par arpent . . . . . . . . . . . .       1 18 6
+</table>
+</p>
+<p>
+S&#39;il paye plus de taille qu&#39;il n&#39;est marqué ici, &amp;
+s&#39;il paye par arpent pour chaque année de fermage
+plus de 5 liv. 5 s. ses pertes sont plus considérables,
+à-moins que ce ne soit des terres très-bonnes (<i><ref type="note" target="n27" n="g" /></i>) qui
+le dédommagent par le produit. Ainsi le fermier a
+intérêt qu&#39;il n&#39;y ait pas beaucoup de blé; car il ne
+gagne un peu que dans les mauvaises années : je dis
+<i>un peu</i>, parce qu&#39;il a peu à vendre, &amp; que la consommation 
+qui se fait chez lui à haut prix, augmente 
+beaucoup sa dépense. Les prix des différentes
+années réduits aux prix communs de 15 liv. 9 s. le
+fermier gagne, année commune, 14 s. par septier ou
+3 liv. 10 s. par arpent.
+</p>
+<p>
+La sole de deux millions d&#39;arpens en blé donne en
+total, à cinq septiers de blé par arpent, &amp; la dixme
+y étant ajoûtée, 10, 944, 416 septiers, dont la valeur 
+en argent est 169, 907, 795 liv.
+</p>
+<p>
+De cette somme totale de 169, 907, 795 liv. il y a:
+<milestone unit="column" n="2" />
+<table>
+Pour la taille . . . .     7,000,000   35,000,000
+Pour les propriétaires    21,000,000   35,000,000
+Pour les fermiers . .      7,000,000   35,000,000
+Pour la dixme . . . .     14,907,795  134,907,795
+Pour les frais . . .     120,000,000  134,907,795
+ Produit total . . . . . . . . . .   169,907,795
+</table>
+</p>
+<p>
+Il y a aussi par la grande culture deux millions
+d&#39;arpens ensemencés chaque année en avoine, ou
+autres <i>grains</i> de Mars. Nous les supposerons tous ensemencés 
+en avoine, pour éviter des détails inutiles
+qui nous rameneroient à-peu-près au même produit,
+tous ces <i>grains</i> étant à-peu-près de la même
+valeur, étant vrai aussi que l&#39;avoine forme effectivement 
+la plus grande partie de ce genre de récolte.
+On estime qu&#39;un arpent donne, dixme prélevée,
+deux septiers d&#39;avoine double mesure du septier de
+blé. Le septier est évalué 9 liv. Il faut retrancher un
+sixieme des deux septiers pour la semence ; reste
+pour le produit de l&#39;arpent 15 liv. ou un septier &amp;
+2/3. Ajoûtez la dixme, le produit total est 16 livres
+10 s. dont il y a:
+<table>
+  Pour le fermage d&#39;une année     5   5    10
+  Pour la taille . . . . . . . .  2        10
+  Pour le fermier  . . . . . . .  2  15    10
+  Pour les frais (<i><ref type="note" target="n28" n="h" /></i>) . . . . . .  5         6 10
+  Pour la dixme . . . . . . . .   1  10     6 10
+Produit total . . . . . . . . . . . . . .   16 10
+</table>
+</p>
+<p>
+Les deux millions d&#39;arpens en avoine donnent, y
+compris la dixme, &amp; soustraction faite de la semence,
+3, 675,000 septiers, qui valent en argent
+33, 330, 333 liv. 7 s. dont il y a:
+<table>
+Pour les propriétaires 10,500,000   20,000,000
+Pour la taille . . . .  4,000,000   20,000,000
+Pour les fermiers. . .  5,500,000   20,000,000
+Pour la dixme . . . .   3,000,000   13,000,000
+Pour les frais. . . .  10,000,000   13,000,000
+ Produit total . . . . . . . . . . 33,000,000
+</table>
+<milestone unit="column" n="0" />
+<center>
+<i><sc>Total</sc> des produits de la récolte du blé &amp; de celle de l&#39;avoine, traités par la grande culture</i>.
+</center>
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>Etat de la petite culture des grains</i>. Nous avons observé 
+à l&#39;<i>article</i> <sc><ref target="head:Fermier" type="search">Fermier</ref></sc>, déjà cité, que dans les
+provinces où l&#39;on manque de laboureurs assez riches
+pour cultiver les terres avec des chevaux, les propriétaires 
+ou les fermiers qui font valoir les terres
+sont obligés de les faire cultiver par des paysans
+auxquels ils fournissent des boeufs pour les labourer.
+Nous avons vû que les frais qu&#39;exige cette culture,
+ne sont pas moins considérables que ceux de la culture 
+qui se fait avec les chevaux ; mais qu&#39;au défaut
+de l&#39;argent qui manque dans ces provinces, c&#39;est la
+terre elle-même qui subvient aux frais. On laisse des
+terres en friche pour la pâture des boeufs de labour,
+on les nourrit pendant l&#39;hyver avec les foins que produisent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les prairies ; &amp; au lieu de payer des gages à
+ceux qui labourent, on leur cede la moitié du produit 
+que fournit la récolte.
+</p>
+<p>
+Ainsi, excepté l&#39;achat des boeufs, c&#39;est la terre
+elle-même qui avance tous les frais de la culture,
+mais d&#39;une maniere fort onéreuse au propriétaire,
+&amp; encore plus à l&#39;état ; car les terres qui restent incultes 
+pour le pâturage des boeufs, privent le propriétaire 
+&amp; l&#39;état du produit que l&#39;on en tireroit par
+la culture. Les boeufs dispersés dans ces pâturages
+ne fournissent point de fumier ; les propriétaires confient 
+peu de troupeaux à ces métayers ou paysans
+chargés de la culture de la terre, ce qui diminue extrèmement 
+le produit des laines en France. Mais ce
+<pb n="7:815" facs="V7/ENC_7-815.jpeg" />
+<milestone unit="column" n="1" />
+défaut de troupeaux prive les terres de fumier ; &amp;
+faute d&#39;engrais, elles ne produisent que de petites
+récoltes, qui ne sont évaluées dans les bonnes années 
+qu&#39;au <i>grain</i> cinq, c&#39;est-à-dire au quintuple de la
+semence, ou environ trois septiers par arpent, ce
+qu&#39;on regarde comme un bon produit. Aussi les terres 
+abandonnées à cette culture ingrate sont-elles
+peu recherchées ; un arpent de terre qui se vend 30
+ou 40 liv. dans ces pays-là, vaudroit 2 ou 300 liv.
+dans des provinces bien cultivées. Ces terres produisent 
+à peine l&#39;intérêt du prix de leur acquisition,
+sur-tout aux propriétaires absens : si on déduit des
+revenus d&#39;une terre assujettie à cette petite culture,
+ce que produiroient les biens occupés pour la nourriture 
+des boeufs ; si on en retranche les intérêts au
+denier dix des avances pour l&#39;achat des boeufs de labour,
+qui diminuent de valeur après un nombre d&#39;années 
+de service, on voit qu&#39;effectivement le propre
+revenu des terres cultivées est au plus du fort au
+foible de 20 ou 30 sous par arpent. Ainsi, malgré la
+confusion des produits &amp; les dépenses de cette sorte
+de culture, le bas prix de l&#39;acquisition de ces terres
+s&#39;est établi sur des estimations exactes vérifiées par
+l&#39;intérêt des acquéreurs &amp; des vendeurs.
+</p>
+<p>
+Voici l&#39;état d&#39;une terre qui produit, année commune,
+pour la part du propriétaire environ 3000
+liv. en blé, semence prélevée, presque tout en froment ; 
+les terres sont bonnes, &amp; portent environ le
+<i>grain</i> cinq. Il y en a 400 arpens en culture, dont
+200 arpens forment la sole de la récolte de chaque
+année ; &amp; cette récolte est partagée par moitié entre
+les métayers &amp; le propriétaire. Ces terres sont cultivées 
+par dix charrues tirées chacune par quatre
+gros boeufs ; les quarante boeufs valent environ 8000
+liv. dont l&#39;intérêt mis au denier dix, à cause des risques 
+&amp; de la perte sur la vente de ces boeufs, quand
+ils sont vieux &amp; maigres, est 800 liv. Les prés produisent 
+130 charrois de foin qui sont consommés par
+les boeufs : de plus il y a cent arpens de friches pour
+leur pâturage ; ainsi il faut rapporter le produit des
+3000 liv. en blé pour la part du propriétaire.
+<table>
+ A l&#39;intérêt du prix des boeufs. . .  800   1050 liv.
+ A l&#39;intérêt de 1000 liv. de blé            1050 liv.
+choisi pour le premier fonds de la           1050 liv.
+semence avancée par le propriétaire     50   1050 liv.
+ A 200 liv. de frais particuliers           1050 liv.
+faits par le propriétaire, sans comp-1050 liv.
+ter les réparations &amp; les appointe-1050 liv.
+mens d&#39;un régisseur  . . . . . . . .   200   1050 liv.
+ A 130 charrois de foin, le char-1950 liv.
+roi à 10 liv.. . . . . . . . . . .    1300   1950 liv.
+ A 100 arpens de pâtureaux à 15             1950 liv.
+sous l&#39;arpent . . . . . . . . . . .     75   1950 liv.
+ Reste pour le produit des 400              1950 liv.
+arpens de terres cultivées. . . . .    575   1950 liv.
+   Total   . . . . . . . . . . . . . . .    3000 liv.
+</table>
+</p>
+<p>
+Ainsi ces quatre cents arpens de bonnes terres ne
+donnent pas par arpent 1 l. 10 s. de revenu (<i><ref type="note" target="n29" n="i" /></i>): mais
+dans le cas dont il sera parlé ci-après, chaque arpent
+seroit affermé 10 liv. les 400 arpens rapporteroient
+au propriétaire 4000 liv. au lieu de 575. Aussi ne devra-t-on pas être étonné de la perte énorme qu&#39;on
+appercevra dans les revenus des terres du royaume.
+</p>
+<p>
+Les terres médiocres sont d&#39;un si petit revenu, que
+selon M. Dupré de Saint-Maur (<i>essai sur les monn.</i>),
+celles de Sologne &amp; du Berry au centre du royaume,
+ne sont guere loüées que sur le pié de 15 sols
+<milestone unit="column" n="2" />
+l&#39;arpent, les prés, les terres, &amp; les friches ensemble ;
+encore faut-il faire une avance considérable de bestiaux 
+qu&#39;on donne aux fermiers, sans retirer que le
+capital à la fin du bail.
+<blockquote> 
+« Une grande partie de la
+Champagne, de la Bretagne, du Maine, du Poitou, des environs de Bayonne, <i>&amp;c.</i> dit le même auteur,
+ne produisent guere davantage ».
+</blockquote>
+(<i><ref type="note" target="n30" n="k" /></i>) Le Languedoc est plus cultive &amp; plus fertile ; mais ces avantages 
+sont peu profitables, parce que le blé qui est
+souvent retenu dans la province, est sans débit ; &amp; il
+y a si peu de commerce, que dans plusieurs endroits
+de cette province, comme dans beaucoup d&#39;autres
+pays, les ventes &amp; les achats ne s&#39;y font que par
+troc ou l&#39;échange des denrées mêmes.
+</p>
+<p>
+Les petites moissons que l&#39;on recueille, &amp; qui la
+plûpart étant en seigle (<i><ref type="note" target="n31" n="l" /></i>) fournissent peu de fourrages,
+contribuent peu à la nourriture des bestiaux, &amp;
+on n&#39;en peut nourrir que par le moyen des paturages 
+ou des terres qu&#39;on laisse en friche : c&#39;est pourquoi
+on ne les épargne pas. D&#39;ailleurs les métayers, toûjours 
+fort pauvres, employent le plus qu&#39;ils peuvent
+les boeufs que le propriétaire leur fournit, à faire des
+charrois à leur profit pour gagner quelque argent, &amp;
+les propriétaires sont obliges de tolérer cet abus pour
+se conserver leurs métayers : ceux-ci, qui trouvent
+plus de profit à faire des charrois qu&#39;à cultiver, négligent 
+beaucoup la culture des terres. Lorsque ces
+métayers laissent des terres en friche pendant longtems,
+&amp; qu&#39;elles se couvrent d&#39;épines &amp; de buissons,
+elles restent toûjours dans cet état, parce qu&#39;elles
+coûteroient beaucoup plus que leur valeur à esserter
+&amp; défricher.
+</p>
+<p>
+Dans ces provinces, les paysans &amp; manouvriers
+n&#39;y sont point occupés comme dans les pays de grande 
+culture, par des riches fermiers qui les employent
+aux travaux de l&#39;agriculture &amp; au gouvernement des
+bestiaux ; les métayers trop pauvres leur procurent
+peu de travail. Ces paysans se nourrissent de mauvais 
+pain fait de menus <i>grains</i> qu&#39;ils cultivent eux-mêmes,
+qui coûtent peu de culture, &amp; qui ne sont
+d&#39;aucun profit pour l&#39;état.
+</p>
+<p>
+Le blé a peu de débit faute de consommation dans
+ces pays ; car lorsque les grandes villes sont suffisamment 
+fournies par les provinces voisines, le blé ne se
+vend pas dans celles qui en sont éloignées ; on est forcé
+de le donner à fort bas prix, ou de le garder pour attendre 
+des tems plus favorables pour le débit : cette
+non valeur ordinaire des blés en fait encore négliger
+davantage la culture ; la part de la récolte qui est
+pour le métayer, devient à peine suffisante pour la
+nourriture de sa famille ; &amp; quand la recolte est mauvaise,
+il est lui-même dans la disette : il faut alors que
+le proprietaire y supplée. C&#39;est pourquoi les récoltes
+qu&#39;on obtient par cette culture ne sont presque d&#39;aucune 
+ressource dans les années de disette, parce que
+dans les mauvaises années elles suffisent à peine pour
+la subsistance du propriétaire &amp; du colon. Ainsi la
+cherté du blé dans les mauvaises années ne dédommage
+<pb n="7:816" facs="V7/ENC_7-816.jpeg" />
+<milestone unit="column" n="1" />
+point de la non-valeur de cette denrée dans les
+bonnes années ; il n&#39;y a que quelques propriétaires aisés 
+qui peuvent attendre les tems favorables pour la
+vente du blé de leur récolte, qui puissent en profiter.
+</p>
+<p>
+Il faut donc, à l&#39;égard de cette culture, n&#39;envisager 
+la valeur du blé que conformément au prix ordinaire 
+des bonnes années ; mais le peu de debit qu&#39;il
+y a alors dans les provinces éloignées de la capitale,
+tient le blé à fort bas prix : ainsi nous ne devons l&#39;évaluer 
+qu&#39;à 12 liv. le septier, froment &amp; seigle, dans
+les provinces où les terres sont traitées par la petite
+culture. C&#39;est en effet dans ces provinces, que le
+prix du blé ne peut soûtenir les frais pécuniaires de
+la grande culture ; qu&#39;on ne cultive les terres qu&#39;aux
+dépens des terres mêmes, &amp; qu&#39;on en tire le produit
+que l&#39;on peut en les faisant valoir avec le moins de
+dépenses qu&#39;il est possible.
+</p>
+<p>
+Ce n&#39;est pas parce qu&#39;on laboure avec des boeufs,
+que l&#39;on tire un si petit produit des terres ; on pourroit 
+par ce genre de culture, en faisant les depenses
+necessaires, tirer des terres à-peu-près autant de produit 
+que par la culture qui se fait avec les chevaux:
+niais ces depenses ne pourroient être faites que par
+les propriétaires ; ce qu&#39;ils ne feront pas tant que le
+commerce du ble ne sera pas libre, &amp; que les non-valeurs 
+de cette denrée ne leur laisseront appercevoir
+qu&#39;une perte certaine.
+</p>
+<p>
+On estime qu&#39;il y a environ trente millions d&#39;arpens 
+de terres traitées par la petite culture ; chaque
+arpent du sort au foible produisant, année commune,
+le <i>grain</i> quatre, ou trente-deux boisseaux non compris 
+la dixme ; de ces trente-deux boisseaux il faut en
+retrancher huit pour la semence. Il reste deux septiers
+qui se partagent par moitié entre le propriétaire &amp;
+le métayer. Celui-ci est chargé de la taille &amp; de quelques 
+frais inevitables.
+</p>
+<p>
+Trente millions d&#39;arpens de terres traitées par la
+petite culture, sont divisés en deux soles qui produisent 
+du blé alternativement. Il y a quinze millions
+d&#39;arpens qui portent du blé tous les ans, excepté
+quelques arpens que chaque métayer reserve pour
+ensemencer en <i>grains</i> de Mars : car il n&#39;y a point par
+cette culture de sole particuliere pour ces <i>grains</i>.
+Nous ne distinguerons point dans les quinze millions
+d&#39;arpens, la petite récolte des graines de Mars, de
+celle du ble ; l&#39;objet n&#39;est pas assez considérable pour
+<milestone unit="column" n="2" />
+entrer dans ce détail. D&#39;ailleurs la récolte de chaque
+arpent de blé est si foible, que ces deux sortes de récoltes 
+different peu l&#39;une de l&#39;autre pour le produit.
+<table>
+  Chaque arpent de ble donnant du fort
+au foible quatre pour un, ou deux septiers,
+semence prélevée, &amp; non compris la dixme ; 
+le septier à 12 liv. année commune,
+froment &amp; seigle, le produit en argent
+pour les deux septiers est . . . . . . . .    24
+  Ajoûtez un 1/12 en-dehors qui a été enlevé 
+pour la dixme prise sur toute la récolte,
+semence comprise . . . . . . . . . . .     2     13
+     Total. . . . . . . . . . . . . . . .    26     13
+</table>
+</p>
+<p>
+Les 24 liv. ou les deux septiers se distribuent ainsi:
+<table>
+ Au propriétaire pour les intérêts de              12
+ses avances, pour quelques autres frais,            12
+pour le dédommagement des fonds occupés 12
+pour la nourriture des boeufs de              12
+labour . . . . . . . . . . . . . . . . .       9    12
+  Pour lui tenir lieu de deux années de            12
+fermage, à 1 l. 10 s. par chaque année         3    12
+  Au métayer pour ses frais, son entre-12
+tien, &amp; sa subsistance . . . . . . . . .      10    12
+  Pour le payement de sa taille . . . .       1    12
+  Pour ses risques &amp; profits. . . . . .       1    12
+</table>
+</p>
+<p>
+Le produit total de 26 liv. 13 s. par chaque arpent 
+se partage donc ainsi:
+<table>
+  Pour le fermage de deux années..  3     5
+  Pour la taille . . . . . . . . .  1     5
+  Pour le métayer. . . . . . . . .  1     5
+  Pour la dixme. . . . . . . . . .  2 13 21  13
+  Pour les frais . . . . . . . . . 19    21  13
+     Produit total . . . . . . . . . . . 26  13
+</table>
+</p>
+<p>
+La récolte en blé des 15 millions d&#39;arpens traites
+par la petite culture, donne, la dixme comprise &amp;
+la semence prélevée, 33,150,000 septiers, qui
+valent en argent 397,802,040 liv. dont il y a:
+<table>
+Pour la taille . . . . 15,000,000     75,000,000
+Pour les propriétaires 45,000,000     75,000,000
+Pour les métayers . .  15,000,000     75,000,000
+Pour la dixme . . . .  37,802,040    322,802,040
+Pour les frais. . . . 285,000,000    322,802,040
+  Produit total . . . . . . . . .   397,802,040
+</table>
+<milestone unit="column" n="0" />
+<center>
+<i><sc>Total</sc> des produits de la grande &amp; de la petite culture réunis</i>.
+</center>
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>Etat d&#39;une bonne culture des grains</i>. La gêne dans
+le commerce des grains, le défaut d&#39;exportation, la
+dépopulation, le manque de richesses dans les campagnes,
+l&#39;imposition indéterminée des subsides, la levée 
+des milices, l&#39;exces des corvées, ont réduit nos
+récoltes à ce petit produit. Autrefois avec un tiers
+plus d&#39;habitans qui augmentoient la consommation,
+notre culture sournissoit à l&#39;étranger une grande
+quantité de <i>grains ;</i> les Anglois se plaignoient en 1621,
+de ce que les François apportoient chez eux des quantités 
+de blé si considérables &amp; à si bas prix, que la nation<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+n&#39;en pouvoit soûtenir la concurrence dans ses
+marchés (<i><ref type="note" target="n32" n="m" /></i>); il se vendoit alors en France 18 l. de notre 
+monnoie actuelle : c&#39;étoit un bas prix dans ce siecle.
+Il falloit donc que nos récoltes produisissent dans
+ces tems-là au-moins 70 millions de septiers de blé; elles 
+en produisent aujourd&#39;hui environ 45 millions : un
+tiers d&#39;hommes de plus en consommoit 20 millions
+au-delà de notre consommation actuelle, &amp; le royaume 
+en fournissoit encore abondamment à l&#39;étranger ;
+<pb n="7:817" facs="V7/ENC_7-817.jpeg" />
+<milestone unit="column" n="1" />
+cette abondance étoit une heureuse suite du gouvernement 
+économique de M. de Sully. Ce grand ministre 
+ne desiroit, pour procurer des revenus au roi &amp;
+à la nation, &amp; pour soutenir les forces de l&#39;état, que
+des laboureurs, des vignerons, &amp; des bergers.
+</p>
+<p>
+Le retablissement de notre culture suppose aussi
+l&#39;accroissement de la population ; les progrès de l&#39;un
+&amp; de l&#39;autre doivent aller ensemble ; le prix des <i>grains</i>
+doit sur passer les frais de culture : ainsi il faut que la
+consommation intérieure &amp; la vente à l&#39;etranger,
+entretiennent un profit certain sur le prix des <i>grains</i>.
+La vente a l&#39;etranger facilite le débit, ranime la culture,
+&amp; augmente le revenu des terres ; l&#39;accroissement 
+des revenus procure de plus grandes dépenses 
+qui favorisent la population, parce que l&#39;augmentation 
+des dépenses procure des gains à un plus
+grand nombre d&#39;hommes. L&#39;accroissement de la population 
+étend la consommation ; la consommation
+soûtient le prix des denrées qui se multiplient par la
+culture à-proportion des besoins des hommes, c&#39;est-à-dire à-proportion que la population augmente. Le
+principe de tous ces progrès est donc l&#39;exportation
+des denrées du crû; parce que la vente à l&#39;étranger
+augmente les revenus ; que l&#39;accroissement des revenus 
+augmente la population ; que l&#39;accroissement
+de la population augmente la consommation ; qu&#39;une
+plus grande consommation augmente de plus en plus
+la culture, les revenus des terres &amp; la population ;
+car l&#39;augmentation des revenus augmente la population,
+&amp; la population augmente les revenus.
+</p>
+<p>
+Mais tous ces accroissemens ne peuvent commencer 
+que par l&#39;augmentation des revenus ; voilà le
+point essentiel &amp; le plus ignoré ou du-moins le plus
+négligé en France : on n&#39;y a pas même reconnu dans
+l&#39;emploi des hommes, la différence du produit des
+travaux qui ne rendent que le prix de la main d&#39;oeuvre,
+d&#39;avec celui des travaux qui payent la main-d&#39;oeuvre &amp; qui procurent des revenus. Dans cette
+inattention on a préféré l&#39;industrie à l&#39;Agriculture,
+&amp; le commerce des ouvrages de fabrication au commerce 
+des denrées du crû: on a même soûtenu des
+manufactures &amp; un commerce de luxe au préjudice
+de la culture des terres.
+</p>
+<p>
+Cependant il est évident que le gouvernement n&#39;a
+point d&#39;autres moyens pour faire fleurir le Commerce, &amp; pour soûtenir &amp; étendre l&#39;industrie, que
+de veiller à l&#39;accroissement des revenus ; car ce sont
+les revenus qui appellent les marchands &amp; les artisans,
+&amp; qui payent leurs travaux. Il faut donc cultiver 
+le pié de l&#39;arbre, &amp; ne pas borner nos soins à
+gouverner les branches ; laissons-les s&#39;arranger &amp; s&#39;étendre 
+en liberté, mais ne négligeons pas la terre qui
+fournit les sucs nécessaires à leur végétation &amp; à leur
+accroissement. M. Colbert tout occupé des manufactures,
+a crû cependant qu&#39;il falloit diminuer la
+taille, &amp; faite des avances aux cultivateurs, pour
+relever l&#39;Agriculture qui dépérissoit ; ce qu&#39;il n&#39;a pû
+concilier avec les besoins de l&#39;état : mais il ne parle
+pas des moyens essentiels, qui consistent à assujettir 
+la taille à une imposition reglée &amp; à établir invariablement 
+la liberté du commerce des <i>grains:</i> l&#39;Agriculture fut négligée ; les 
+guerres qui étoient continuelles,
+la milice qui dévastoit les campagnes, diminuerent 
+les revenus du royaume ; les traitans, par
+des secours persides, devinrent les suppôts de l&#39;état ;
+la prévoyance du ministre s&#39;étoit bornée à cette
+malheureuse ressource, dont les effets ont été si funestes 
+à la France<sup><ref type="note" target="n33" n="*" /></sup>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La culture du blé est fort chere ; nous avons beaucoup 
+plus de terres qu&#39;il ne nous en faut pour cette
+culture ; il faudroit la borner aux bonnes terres,
+dont le produit surpasseroit de beaucoup les frais d&#39;une 
+bonne culture. Trente millions d&#39;arpens de bonnes 
+terres formeroient chaque année une sole de 10
+millions d&#39;arpens qui porteroient du blé: de bonnes
+terres bien cultivées, produiroient au-moins, année
+commune, six septiers par arpent, semence prélevée : ainsi la sole de dix millions d&#39;arpens donneroit,
+la dixme comprise, au-moins 65 millions de septiers
+de blé. (<i><ref type="note" target="n34" n="n" /></i>) La consommation intérieure venant à
+augmenter, &amp; la liberté du commerce du blé étant
+pleinement rétablie, le prix de chaque septier de blé,
+année commune, peut être évalué à 18 liv. un peu
+plus ou moins, cela importe peu ; mais à 18 liv. le
+produit seroit de 108 liv. non compris la dixme.
+</p>
+<p>
+Pour déterminer plus sûrement le prix commun
+du blé, l&#39;exportation étant permise, il faut faire attention 
+aux variations des produits des récoltes &amp;
+des prix du blé selon ces produits. On peut juger de
+l&#39;état de ces variations dans le cas de l&#39;exportation,
+en se reglant sur celles qui arrivent en Angleterre,
+où elles ne s&#39;étendent depuis nombre d&#39;années, qu&#39;environ 
+depuis 18 jusqu&#39;à 22 liv. Il est facile de comprendre 
+pourquoi ces variations y sont si peu considérables : l&#39;Agriculture a fait de très-grands progres
+dans ce royaume ; les récoltes, quelque foibles qu&#39;elles 
+y soient, sont toûjours plus que suffisantes pour
+la subsistance des habitans. Si notre agriculture étoit
+en bon état, nous recueillerions dans une mauvaise
+année à-peu-près autant de blé que nous en fournit
+aujourd&#39;hui une bonne récolte : ainsi on ne pourroit,
+sans des accidens extraordinaires, éprouver la disette 
+dans un royaume où les moindres récoltes jointes 
+à ce qui resteroit nécessairement des bonnes annees,
+seroient toûjours au-dessus des besoins des habitans.
+On peut en juger par l&#39;exposition que nous
+allons donner des variations des récoltes que produit 
+une bonne culture selon la diversité des années.
+On y remarquera qu&#39;une mauvaise récolte de 10
+millions d&#39;arpens donne 40 millions de septiers de
+blé sans la recolte d&#39;une même quantité d&#39;arpens ensemencés 
+en <i>grains</i> de Mars.
+<pb n="7:818" facs="V7/ENC_7-818.jpeg" />
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+<table>
+ Les 200 liv. du total, frais déduits, divisés 
+par cinq années, donnent pour année
+commune, ci. . . . . . . . . . . . . . . . .    40
+ Ajoûtez les frais. . . . . . . . . . . . .    66
+   Total . . . . . . . . . . . . . . . . .    106
+ Les 106 liv. divisées par six septiers,
+donnent pour prix commun
+du septier . . . . . . . . . . . .      17 13 4 (<i><ref type="note" target="n37" n="q" /></i>)
+ Au produit de six septiers, dont la valeur
+est . . . . . . . . . . . . . . . . . . . . .  106
+ Ajoûtez pour la dixme 1/12 en-dehors pris
+sur tout le produit &amp; sur la semence à prélever 
+. . . . . . . . . . . . . . . . . . .     10
+    Le produit total de l&#39;arpent est . . .    116
+Dont il y auroit de produit net 40 l. distribuées ainsi:
+Pour le fermage de deux années 1/2 ou   20 liv.  40
+Pour la taille 1/4 ou . . . . . . . .   10 (<i><ref type="note" target="n38" n="r" /></i>) 40
+Pour le fermier 1/4 ou. . . . . . . .   10       40
+La dixme. . . . . . . . . . . . . . .   10       76
+Les frais . . . . . . . . . . . . . .   66       76
+    Produit total de l&#39;arpent. . . .           116
+</table>
+</p>
+<p>
+66 liv. de frais, &amp; 30 liv. pour la taille &amp; le fermage,
+font 96 liv. par arpent : le produit étant six
+septiers, le septier coûteroit, année commune, au
+fermier 16 liv. Dans une année abondante, à huit
+septiers par arpent, le septier lui coûte 12 livres ;
+étant vendu 16 liv. il gagne 4 liv. Dans une mauvaise<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+année, à quatre septiers par arpent, le septier
+lui coûte 24 liv. étant vendu 20 liv. il perd 4 liv.
+Les années bonnes &amp; mauvaises, réduites à une année 
+commune, il gagne par septier 1 liv. 13 s. ou
+environ 10 liv. par arpent.
+</p>
+<p>
+La récolte en blé de dix millions d&#39;arpens donne,
+année commune, la dixme comprise levée sur toute 
+la récolte, le fonds de la semence compris,
+65,555,500 de septiers, semence prélevée, qui valent 
+en argent 1,159,500,000 liv. dont il y a:
+<table>
+Pour les propriétaires 200,000,000  400,000,000
+Pour la taille . . . . 100,000,000  400,000,000
+Pour les fermiers. . . 100,000,000  400,000,000
+Pour la dixme. . . . .  99,500,000  759,500,000
+Pour les frais . . . . 660,000,000  759,500,000
+ Produit total. . . . . . . . . .1,159,500,000
+</table>
+</p>
+<p>
+Il y auroit de même une sole de dix millions d&#39;arpens 
+qui produiroit des <i>grains</i> de Mars, &amp; dont chaque 
+arpent de bonne terre &amp; bien cultivée produiroit,
+année commune, au-moins deux septiers, semence 
+prélevée &amp; la dixme non comprise ; le septier 
+évalué un peu au-dessous des 2/3 du prix du blé,
+vaudroit environ 10 liv.
+<table>
+ L&#39;arpent produiroit . . . . . . . . .     20      21  17
+ Et la dixme qui est le 1/2 en-dehors
+ou .   .   .   .   .   .   .   .   .   .     1  17  21  17
+ Les 21 liv. 17 s. se distribuent ainsi:
+ Pour une année de fermage au
+propriétaire . . . . . . . . . . . . . .    10      15
+ Pour la taille . . . . . . . . . . . .     2  10  15
+ Pour le fermier. . . . . . . . . . . .     2  10  15
+ Pour la dixme. . . . . . . . . . . . .     1  17   6  17
+ Pour les frais . . . . . . . . . . . .     5       6  17
+   Produit total. . . . . . . . . . . .            21  17
+</table>
+</p>
+<p>
+Les dix millions d&#39;arpens en avoine donneroient,
+la dixme comprise 21, 944, 441 septiers, qui valent
+en argent 218, 500, 000 liv. dont il y a:
+<table>
+Pour les propriétaires  100,000,000  150,000,000
+Pour la taille . . . .   25,000,000  150,000,000
+Pour les fermiers. . .   25,000,000  150,000,000
+Pour la dixme  . . . .   18,500,000   68,666,660
+Pour les frais . . . .   50,000,000   68,666,660
+   Produit total . . . . . . . . .  218,500,000
+</table>
+</p>
+<p>
+Les produits de la récolte des dix millions d&#39;arpens 
+en blé &amp; de la récolte des dix millions d&#39;arpens
+en <i>grains</i> de Mars réunis produiroient:
+<milestone unit="column" n="0" />
+<gap type="table" />
+<pb n="7:819" facs="V7/ENC_7-819.jpeg" />
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Il y a, outre les trente millions dont on vient
+d&#39;apprétier le produit, trente autres millions d&#39;arpens 
+de terres cultivables de moindre valeur que les
+terres précédentes, qui peuvent être employées à
+différentes productions ; les meilleures à la culture
+des chanvres, des lins, des légumes, des seigles, des
+orges, des prairies artificielles des menus <i>grains ;</i>
+les autres selon leurs différentes qualités peuvent
+être plantés en bois, en vignes, en mûriers, en arbres 
+à cidre, en noyers, chataigniers, ou ensemencés 
+en blé noir, en faux seigle, en pommes de terre,
+en navets, en grosses raves, &amp; en d&#39;autres productions 
+pour la nourriture des bestiaux. Il seroit difficile 
+d&#39;apprétier les différens produits de ces trente
+<milestone unit="column" n="2" />
+millions d&#39;arpens ; mais comme ils n&#39;exigent pas
+pour la plûpart de grands frais pour la culture, on
+peut, sans s&#39;exposer à une grande erreur, les évaluer du fort au foible pour la distribution des revenus 
+environ à un tiers du produit des trente autres
+millions d&#39;arpens, dont il y auroit
+<table>
+Pour les propriétaires 100,000,000   180,000,000
+Pour la taille . . . .  40,000,000   180,000,000
+Pour les fermiers. . .  40,000,000   180,000,000
+Pour la dixme. . . . .  37,000,000   257,000,000
+Pour les frais . . . . 220,000,000   257,000,000
+    Produit total . . . . . . . .   437,000,000
+</table>
+<milestone unit="column" n="0" />
+<center>
+<i><sc>Récapitulation</sc> des différens produits de la bonne culture réunis. Les soixante millions d&#39;arpens de terres
+cultivables en France donneroient:</i>
+</center>
+<gap type="table" />
+<center>
+<i><sc>Comparaison</sc> des produits de la culture actuelle du royaume avec ceux de la bonne culture</i>.
+</center>
+<gap type="table" />
+<pb n="7:820" facs="V7/ENC_7-820.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>Observations sur les avantages de la culture des grains</i>.
+Les frais de la culture restent dans le royaume,
+&amp; le produit total est tout entier pour l&#39;état. Les
+bestiaux égalent au-moins la moitié de la richesse
+annuelle des récoltes ; ainsi le produit de ces deux
+parties de l&#39;Agriculture seroient environ de trois
+milliarts : celui des vignes est de plus de cinq cents
+millions, &amp; pourroit être beaucoup augmenté, si la
+population s&#39;accroissoit dans le royaume, &amp; si le
+commerce des vins &amp; eaux-de-vie étoit moins gêné 
+(<i><ref type="note" target="n43" n="y" /></i>). Les produits de l&#39;Agriculture seroient au moins 
+de quatre milliarts, sans y comprendre les produits 
+des chanvres, des bois, de la pêche, <i>&amp;c.</i> Nous
+ne parlons pas non plus des revenus des maisons,
+des rentes, du sel, des mines, ni des produits des
+Arts &amp; Métiers, de la Navigation, <i>&amp;c.</i> qui augmenteroient 
+à-proportion que les revenus &amp; la population 
+s&#39;accroîtroient ; mais le principe de tous ces
+avantages est dans l&#39;Agriculture, qui fournit les matieres 
+de premier besoin, qui donne des revenus au
+roi &amp; aux propriétaires, des dixmes au clergé, des
+profits aux cultivateurs. Ce sont ces premieres richesses,
+toûjours renouvellées, qui soûtiennent tous
+les autres états du royaume, qui donnent de l&#39;activité 
+à toutes les autres professions, qui font fleurir
+le Commerce, qui favorisent la population, qui animent 
+l&#39;industrie, qui entretiennent la prospérité de
+la nation. Mais il s&#39;en faut beaucoup que la France
+joüisse de tous ces milliarts de revenus que nous avons
+entre-vû qu&#39;elle pourroit tirer d&#39;elle-même. On n&#39;estime 
+guere qu&#39;à deux milliarts la consommation ou
+<milestone unit="column" n="2" />
+la dépense annuelle de la nation. Or la dépense est
+à-peu-près égale aux revenus, confondus avec les
+frais de la main-d&#39;oeuvre, qui procurent la subsistance 
+aux ouvriers de tous genres, &amp; qui sont presque
+tous payés par les productions de la terre ; car, à la
+reserve de la pêche &amp; du sel, les profits de la navigation 
+ne peuvent être eux-mêmes fort considérables,
+que par le commerce des denrées de notre cru.
+On regarde continuellement l&#39;Agriculture &amp; le Commerce comme les deux ressources de nos richesses ;
+le Commerce, ainsi que la main-d&#39;oeuvre, n&#39;est
+qu&#39;une branche de l&#39;Agriculture : mais la main-d&#39;oeuvre est beaucoup plus étendue &amp; beaucoup plus
+considérable que le Commerce. Ces deux états ne
+subsistent que par l&#39;Agriculture. C&#39;est l&#39;Agriculture
+qui fournit la matiere de la main-d&#39;oeuvre &amp; du Commerce, &amp; qui paye l&#39;une &amp; l&#39;autre : mais ces deux
+branches restituent leurs gains à l&#39;Agriculture, qui
+renouvelle les richesses, qui se dépensent &amp; se consomment 
+chaque année. En effet, sans les produits
+de nos terres, sans les revenus &amp; les dépenses des
+propriétaires &amp; des cultivateurs, d&#39;où naîtroit le
+profit du Commerce &amp; le salaire de la main-d&#39;oeuvre? La distinction du Commerce d&#39;avec l&#39;Agriculture, est une abstraction qui ne présente qu&#39;une idée
+imparfaite, &amp; qui séduit des auteurs qui écrivent
+sur cette matiere, même ceux qui en ont la direction,
+&amp; qui rapportent au commerce productif le
+commerce intérieur qui ne produit rien, qui sert la
+nation, &amp; qui est payé par la nation.
+</p>
+<p>
+On ne peut trop admirer la supériorité des vûes
+de M. de Sully : ce grand ministre avoit saisi les
+vrais principes du gouvernement économique du
+royaume, en établissant les richesses du roi, la puissance 
+de l&#39;état, le bonheur du peuple, sur les revenus 
+des terres, c&#39;est-à-dire sur l&#39;Agriculture &amp; sur le
+commerce extérieur de ses productions ; il disoit que
+sans l&#39;exportation des blés, les sujets seroient bientôt 
+sans argent &amp; le souverain sans revenus. Les
+prétendus avantages des manufactures de toute espece 
+ne l&#39;avoient pas séduit ; il ne protegeoit que
+celles des étoffes de laine, parce qu&#39;il avoit reconnu
+que l&#39;abondance des récoltes dépendoit du débit des
+laines, qui favorise la multiplication des troupeaux
+nécessaires pour fertiliser les terres.
+</p>
+<p>
+Les bonnes récoltes produisent beaucoup de fourrages 
+pour la nourriture des bestiaux ; les trente millions 
+d&#39;arpens de terres médiocres seroient en partie
+destinés aussi à cet usage. L&#39;auteur des <i>Prairies artificielles</i> décide très-judicieusement qu&#39;il faut à-peu-près la même quantité d&#39;arpens de prairies artificielles
+qu&#39;il y a de terre ensemencée en blé chaque année.
+Ainsi pour trente millions d&#39;arpens, il faudroit dix
+millions d&#39;arpens de prairies artificielles pour nourrir 
+des bestiaux qui procureroient assez de fumier
+pour fournir un bon engrais aux terres qui chaque
+année doivent être ensemencées en blé. Cette pratique 
+est bien entendue ; car si on se procure par l&#39;engrais 
+de la terre un septier de blé de plus par chaque
+arpent, on double à-peu-près le profit. Un arpent
+de blé qui porte cinq septiers à 15 liv. le septier,
+donne, tous frais déduits, 20 liv. de revenu ; mais
+un septier de plus doubleroit presque lui seul le revenu 
+d&#39;un arpent ; car si un arpent donne six septiers,
+le revenu est 35 liv. &amp; s&#39;il en portoit sept, le revenu
+seroit 50 liv. ou 3/5 de revenu de plus que dans le
+premier cas : le revenu n&#39;est pas simplement à raison
+du produit, mais à raison du produit &amp; des frais. Or
+l&#39;augmentation des frais est en bestiaux qui ont aussi
+leur produit ; ainsi les profits d&#39;une culture imparfaite 
+ne sont pas comparables à ceux d&#39;une bonne
+culture.
+</p>
+<p>
+Ainsi on voit que la fortune du fermier en état de
+faire les frais d&#39;une bonne culture, dépend du produit<gap type="hyphenpb" />
+<pb n="7:821" facs="V7/ENC_7-821.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;un septier ou deux de plus par arpent de terre ; 
+&amp; quoiqu&#39;il en partage la valeur pour la taille &amp;
+pour le fermage, son gain en est beaucoup plus considérable,
+&amp; la meilleure portion est toûjours pour
+lui ; car il recueille des fourrages à-proportion avec
+lesquels il nourrit des bestiaux qui augmentent son
+profit.
+</p>
+<p>
+Il ne peut obtenir cet avantage que par le moyen
+des bestiaux ; mais il gagneroit beaucoup aussi sur
+le produit de ces mêmes bestiaux. Il est vrai qu&#39;un
+fermier borné à l&#39;emploi d&#39;une charrue, ne peut prétendre 
+à un gain considérable ; il n&#39;y a que ceux qui
+sont assez riches pour se former de plus grands établissemens, qui puissent retirer un bon profit, &amp; mettre 
+par les dépenses qu&#39;ils peuvent faire, les terres
+dans la meilleure valeur.
+</p>
+<p>
+Celui qui n&#39;occupe qu&#39;une charrue, tire sur ce petit 
+emploi tous les frais nécessaires pour la subsistance 
+&amp; l&#39;entretien de sa famille ; il faut même qu&#39;il
+fasse plus de dépense à proportion pour les différens
+objets de son entreprise : n&#39;ayant qu&#39;une charrue il
+ne petit avoir, par exemple, qu&#39;un petit troupeau
+de moutons, qui ne lui coûte pas moins pour le
+berger, que ce que coûteroit un plus grand troupeau
+qui produiroit un plus grand profit. Un petit emploi
+&amp; un grand emploi exigent donc, à bien des égards,
+des dépenses qui ne sont pas de part &amp; d&#39;autre dans
+la même proportion avec le gain. Ainsi les riches laboureurs 
+qui occupent plusieurs charrues, cultivent
+beaucoup plus avantageusement pour eux &amp; pour
+l&#39;état, que ceux qui sont bornés à une seule charrue ;
+car il y a épargne d&#39;hommes, moins de dépense, &amp;
+un plus grand produit : or les frais &amp; les travaux des
+hommes ne sont profitables à l&#39;état, qu&#39;autant que
+leurs produits renouvellent &amp; augmentent les richesses 
+de la nation. Les terres ne doivent pas nourrir 
+seulement ceux qui les cultivent, elles doivent
+fournir à l&#39;état la plus grande partie des subsides,
+produire des dixmes au clergé, des revenus aux
+propriétaires, des profits aux fermiers, des gains à
+ceux qu&#39;ils employent à la culture. Les revenus du
+roi, du clergé, des propriétaires, les gains du fermier 
+&amp; de ceux qu&#39;il employe, tournent en dépenses,
+qui se distribuent à tous les autres états &amp; à toutes 
+les autres professions. Un auteur<sup><ref type="note" target="n44" n="*" /></sup> a reconnu ces
+vérités fondamentales lorsqu&#39;il dit:
+<blockquote> 
+« que l&#39;assemblage 
+de plusieurs riches propriétaires de terres qui résident 
+dans un même lieu, suffit pour former ce
+qu&#39;on appelle <i>une ville</i>, où les marchands, les fabriquans,
+les artisans, les ouvriers, les domestiques
+se rassemblent, à proportion des revenus que les
+propriétaires y dépensent : auquel cas la grandeur
+d&#39;une ville est naturellement proportionnée au
+nombre des propriétaires des terres, ou plûtôt au
+produit des terres qui leur appartiennent. Une ville
+capitale se forme de la même maniere qu&#39;une ville
+de province ; avec cette différence que les gros
+propriétaires de tout l&#39;état résident dans la capitale ».
+</blockquote>
+</p>
+<p>
+Les terres cultivées en détail par de petits fermiers,
+exigent plus d&#39;hommes &amp; de dépenses, &amp; les
+profits sont beaucoup plus bornés. Or les hommes
+&amp; les dépenses ne doivent pas être prodigués à des
+travaux qui seroient plus profitables à l&#39;état, s&#39;ils
+étoient exécutés avec moins d&#39;hommes &amp; moins de
+frais. Ce mauvais emploi des hommes pour la culture 
+des terres seroit préjudiciable, même dans un
+royaume fort peuplé; car plus il est peuplé, plus il
+est nécessaire de tirer un grand produit de la terre:
+mais il seroit encore plus desavantageux dans un
+royaume qui ne seroit pas assez peuplé; car alors il
+faudroit être plus attentif à distribuer les hommes
+<milestone unit="column" n="2" />
+aux travaux les plus nécessaires &amp; les plus profitables 
+à la nation. Les avantages de l&#39;Agriculture dépendent 
+donc beaucoup de la réunion des terres en
+grosses-fermes, mises dans la meilleure valeur par
+de riches fermiers.
+</p>
+<p>
+La culture qui ne s&#39;exécute que par le travail des
+hommes, est celle de la vigne ; elle pourroit occuper 
+un plus grand nombre d&#39;hommes en France, si
+on favorisoit la vente des vins, &amp; si la population
+augmentoit. Cette culture &amp; le commerce des vins
+&amp; des eaux-de-vie sont trop gênés ; c&#39;est cependant
+un objet qui ne mérite pas moins d&#39;attention que la
+culture des <i>grains</i>.
+</p>
+<p>
+Nous n&#39;envisageons pas ici le riche fermier comme 
+un ouvrier qui laboure lui-même la terre ; c&#39;est
+un entrepreneur qui gouverne &amp; qui fait valoir son
+entreprise par son intelligence &amp; par ses richesses.
+L&#39;agriculture conduite par de riches cultivateurs est
+une profession très-honnête &amp; très-lucrative, reservée 
+à des hommes libres en état de faire les avances
+des frais considérables qu&#39;exige la culture de la terre,
+&amp; qui occupe les paysans &amp; leur procure toûjours 
+un gain convenable &amp; assûré. Voilà, selon l&#39;idée 
+de M. de Sully, les vrais fermiers ou les vrais
+financiers qu&#39;on doit établir &amp; soûtenir dans un royaume 
+qui possede un grand territoire ; car c&#39;est de leurs
+richesses que doit naître la subsistance de la nation,
+l&#39;aisance publique, les revenus du souverain, ceux
+des propriétaires, du clergé, une grande dépense distribuée 
+à toutes les professions, une nombreuse population,
+la force &amp; la prospérité de l&#39;état.
+</p>
+<p>
+Ce sont les grands revenus qui procurent les grandes 
+dépenses, ce sont les grandes dépenses qui augmentent 
+la population, parce qu&#39;elles étendent le
+commerce &amp; les travaux, &amp; qu&#39;elles procurent des
+gains à un grand nombre d&#39;hommes. Ceux qui n&#39;envisagent 
+les avantages d&#39;une grande population que
+pour entretenir de grandes armées, jugent mal de la
+force d&#39;un état. Les militaires n&#39;estiment les hommes
+qu&#39;autant qu&#39;ils sont propres à faire des soldats ; mais
+l&#39;homme d&#39;état regrette les hommes destinés à la
+guerre, comme un propriétaire regrette la terre employée 
+à former le fossé qui est nécessaire pour conserver 
+le champ. Les grandes armées l&#39;épuisent ; une
+grande population &amp; de grandes richesses le rendent
+redoutable. Les avantages les plus essentiels qui résultent 
+d&#39;une grande population, sont les productions 
+&amp; la consommation, qui augmentent ou font
+mouvoir les richesses pécuniaires du royaume. Plus
+une nation qui a un bon territoire &amp; un commerce
+facile, est peuplée, plus elle est riche ; &amp; plus elle est
+riche, plus elle est puissante. Il n&#39;y a peut-être pas
+moins aujourd&#39;hui de richesses pécuniaires dans le
+royaume, que dans le siecle passé: mais pour juger
+de l&#39;état de ces richesses, il ne faut pas les considérer 
+simplement par rapport à leur quantité, mais aussi
+par rapport à leur circulation relative à la quantité,
+au débit &amp; au bon prix des productions du royaume.
+Cent septiers de blé à 20 liv. le septier, sont primitivement 
+une richesse pécuniaire quatre fois aussi grande 
+que 50 septiers à 10 livres le septier : ainsi la quantité 
+des richesses existe aussi réellement dans la valeur 
+des productions, que dans les especes d&#39;or &amp;
+d&#39;argent, sur-tout quand le commerce avec l&#39;étranger 
+assûre le prix &amp; le débit de ces productions.
+</p>
+<p>
+Les revenus sont le produit des terres &amp; des hommes.
+Sans le travail des hommes, les terres n&#39;ont aucune 
+valeur. Les biens primitifs d&#39;un grand état sont les
+hommes, les terres &amp; les bestiaux. Sans les produits
+de l&#39;agriculture, une nation ne peut avoir d&#39;autre
+ressource que la fabrication &amp; le commerce de trafic ; 
+mais l&#39;une &amp; l&#39;autre ne peuvent se soûtenir que
+par les richesses de l&#39;étranger : d&#39;ailleurs de telles ressources<gap type="hyphenpb" />
+<pb n="7:822" facs="V7/ENC_7-822.jpeg" />
+<milestone unit="column" n="1" />
+sont fort bornées &amp; peu assûrées, &amp; elles
+ne peuvent suffire qu&#39;à de petits états.
+</p>
+<p>
+<i>Observations sur la taille levée sur la culture des
+grains</i>. On ne doit imposer les fermiers à la taille
+qu&#39;avec beaucoup de retenue sur le profit des bestiaux,
+parce que ce sont les bestiaux qui sont produire 
+les terres : mais sans étendre la taille sur cette
+partie ; elle pourroit par l&#39;accroissement des revenus
+monter à une imposition égale à la moitié du prix
+du fermage : ainsi en se conformant aux revenus des
+propriétaires des terres qui seroient de quatre cents
+millions, la taille ainsi augmentée &amp; bornée-là pour
+toute imposition sur les fermages, produiroit environ
+200 millions, &amp; cela non compris celle qui est imposée 
+sur les rentiers &amp; propriétaires taillables, sur
+les maisons, sur les vignes, sur les bois taillables,
+sur le fermage particulier des prés, sur les voituriers,
+sur les marchands, sur les paysans, sur les artisans,
+manouvriers, <i>&amp;c.</i>
+</p>
+<p>
+Sur les 200 millions de taille que produiroit la
+culture des <i>grains</i>, il faut en retrancher environ 1/20
+pour l&#39;exemption des nobles &amp; privilégiés, qui font
+valoir par eux-mêmes la quantité de terres permise
+par les ordonnances, ainsi il resteroit 190 millions ;
+mais il faut ajoûter la taille des fermiers des dixmes,
+qui étant reunies à ces 190 millions, formeroit au moins 
+pour la total de la taille 200 millions. (<i><ref type="note" target="n45" n="z" /></i>)
+</p>
+<p>
+La proportion de la taille avec le loyer des terres,
+est la regle la plus sûre pour l&#39;imposition sur les fermiers,
+&amp; pour les garantir des inconvéniens de l&#39;imposition 
+arbitraire ; le propriétaire &amp; le fermier connoissent 
+chacun leur objet, &amp; leurs intérêts reciproques 
+fixeroient au juste les droits du roi. (<i><ref type="note" target="n46" n="a" /></i>)
+<milestone unit="column" n="2" />
+</p>
+<p>
+Il seroit bien à desirer qu&#39;on pût trouver une regle
+aussi sûre pour l&#39;imposition des métayers. Mais si la
+culture se rétablissoit, le nombre des fermiers augmenteroit 
+de plus en plus, celui des métayers diminueroit 
+à proportion : or une des conditions essentielles 
+pour le rétablissement de la culture &amp; l&#39;augmentation 
+des fermiers, est de reformer les abus de
+la taille arbitraire, &amp; d&#39;assûrer aux cultivateurs les
+fonds qu&#39;ils avancent pour la culture des terres. On
+doit sur-tout s&#39;attacher à garantir les fermiers, comme 
+étant les plus utiles à l&#39;etat, des dangers de cette
+imposition. Aussi éprouve-t-on que les desordres de
+la taille sont moins destructifs dans les villes taillables 
+que dans les campagnes ; parce que les campagnes 
+produisent les revenus, &amp; que ce qui détruit les
+revenus détruit le royaume. L&#39;etat des habitans des
+villes est etabli sur les revenus, &amp; les villes ne sont
+peuplées qu&#39;à proportion des revenus des provinces.
+Il est donc essentiel d&#39;assujettir dans les campagnes
+l&#39;imposition de la taille à une regle sure &amp; invariable,
+afin de multiplier les riches fermiers, &amp; de diminuer 
+de plus en plus le nombre des colons indigens,
+qui ne cultivent la terre qu&#39;au desavantage de l&#39;etat.
+</p>
+<p>
+Cependant on doit appercevoir que dans l&#39;etat actuel 
+de la grande &amp; de la petite culture, il est difficile
+de se conformer d&#39;abord à ces regles ; c&#39;est pourquoi
+nous avons pour la sûreté de l&#39;imposition proposé
+d&#39;autres moyens à l&#39;<i>article</i> <sc><ref target="head:Fermier" type="search">Fermier</ref></sc>: mais dans la
+suite le produit du ble ou le loyer des terres fourniroient 
+la regle la plus simple &amp; la plus convenable
+pour l&#39;imposition proportionnelle de la taille sur les
+cultivateurs. Dans l&#39;etat present de l&#39;agriculture, un
+arpent de terre traité par la grande culture produisant 
+74 livres, ne peut donner qu&#39;environ 1/24 du produit 
+total du prix du blé pour la taille. Un arpent
+traité par la petite culture produisant 24 liv. donne
+pour la taille 1/24. Un arpent qui seroit traité par la
+bonne culture, les autres conditions posées, produisant 
+1061. donneroit pour la taille environ 1/11; ainsi
+par la seule différence des cultures, un arpent de terre
+de même valeur produiroit ici pour la taille 10 liv.
+là il produit 3 liv. 10 s. ailleurs il ne produit qu&#39;une
+livre. On ne peut donc établir pour la taille aucune
+taxe fixe sur les terres dont le produit est si susceptible 
+de variations par ces différentes cultures ; on
+ne peut pas non plus imposer la taille proportionnellement 
+au produit total de la recolte, sans avoir
+égard aux frais &amp; à la différence de la quantité de
+semence, relativement au profit, selon les differentes 
+cultures : ainsi ceux qui ont propose une dixme
+pour la taille (<i><ref type="note" target="n47" n="b" /></i>), &amp; ceux qui ont propose une taille
+<pb n="7:823" facs="V7/ENC_7-823.jpeg" />
+<milestone unit="column" n="1" />
+réelle sur les terres, n&#39;ont pas examiné les irrégularités 
+qui naissent des differens genres de culture,
+&amp; les variations qui en resultent. Il est vrai que dans
+les pays d&#39;etats on établit communément la taxe sur
+les terres, parce que ces pays étant bornés à des
+provinces particulieres où la culture peut être à peu près uniforme, on peut regler l&#39;imposition à-peu-près sur la valeur des terres, &amp; à la différente
+quantité de semence, relativement au produit des
+terres de différente valeur ; mais on ne peut pas suivre 
+cette regle généralement pour toutes les autres
+provinces du royaume. On ne peut donc dans l&#39;état 
+actuel établir une taille proportionnelle, qu&#39;en se
+réglant sur la somme imposée préalablement sur chaque 
+paroisse, selon l&#39;etat de l&#39;agriculture de la province ; 
+&amp; cette taille imposée seroit repartie, comme 
+il est dit à l&#39;<i>article</i> <sc><ref target="head:fermier" type="search">fermier</ref></sc>, proportionnellement 
+aux effets visibles d&#39;agriculture, declarés tous
+les ans exactement par chaque particulier. On pourroit 
+même, quand les revenus se réduisent au produit 
+des <i>grains</i>, éviter ces declarations ; &amp; lorsque la
+bonne culture y seroit entierement établie, on pourroit 
+simplifier la forme par une imposition proportionnelle 
+aux loyers des terres. Le laboureur, en
+améliorant sa culture &amp; en augmentant ses dépenses,
+s&#39;attendroit, il est vrai, à payer plus de
+taille, mais il seroit assûre qu&#39;il gagneroit plus aussi,
+&amp; qu&#39;il ne seroit plus exposé à une imposition ruineuse,
+si la taille n&#39;augmentoit que proportionnellement 
+à l&#39;accroissement de son gain.
+</p>
+<p>
+Ainsi on pourroit des-à-present imposer la taille
+proportionnelle aux baux, dans les pays ou les terres 
+sont cultivées par des fermiers. Il ne seroit peut-être
+pas impossible de trouver aussi une regle à-peu-près semblable, pour les pays où les proprietaires
+font cultiver par des métayers ; on sait à-peu-près
+le produit de chaque metairie ; les frais étant déduits,
+on connoîtroit le revenu du propriétaire ; on
+y proportionneroit la taille, ayant égard à ne pas
+enlever le revenu même du proprietaire, mais à
+établir l&#39;imposition sur la portion du métayer, proportionnellement 
+au revenu net du maître. S&#39;il se
+trouvoit dans cette imposition proportionnelle quelques 
+irrégularités prejudiciables aux métayers, elles
+pourroient se réparer par les arrangemens entre ces
+métayers &amp; les proprietaires : ainsi ces inconvéniens
+inseparables des regles generales se réduiroient à peu
+de chose, étant supportés par le propriétaire &amp; le
+métayer. Il me paroit donc possible d&#39;etablir dès aujourd&#39;hui pour la grande &amp; pour la petite culture,
+des regles fixes &amp; générales pour l&#39;imposition proportionnelle 
+de la taille.
+</p>
+<p>
+Nous avons vû par le calcul des produits de la
+grande culture actuelle, que la taille imposée à une
+somme convenable, se trouve être à-peu-près égale
+à un tiers du revenu des propriétaires. Dans cette
+<milestone unit="column" n="2" />
+culture les terres etant presque toutes affermées, il
+est facile de determiner l&#39;imposition proportionnellement 
+aux revenus fixés par les baux.
+</p>
+<p>
+Mais il n&#39;en est pas de même des terres traitées
+par la petite culture, qui sont rarement affermées ;
+car on ne peut connoitre les revenus des propriétaires 
+que par les produits. Nous avons vû par les
+calculs de ces produits, que dans la petite culture la
+taille se trouvoit aussi à-peu-près à l&#39;egal du tiers
+des revenus des propriétaires ; mais ces revenus qui
+d&#39;ailleurs sont tous indécis, peuvent être envisagés
+sous un autre aspect que celui sous lequel nous les
+avons considéres dans ces calculs : ainsi il faut les
+examiner sous cet autre aspect, afin d&#39;eviter la confusion 
+qui pourroit naitre des différentes manieres de
+considérer les revenus des propriétaires qui sont cultiver 
+par des métayers, &amp; qui avancent des frais pécuniaires,
+&amp; employent une grande portion des biens
+fonds de chaque métairie pour la nourriture des
+boeufs de labour. Nous avons expose ci-devant pour
+donner un exemple particulier de cette culture, l&#39;état 
+d&#39;une terre qui peut rendre au proprietaire, année 
+commune, pour 3000 livres de blé, semence
+prélevée. On voit le detail des différens frais compris 
+dans les 3000 livres ; savoir 1050 liv. pour les
+avances pécuniaires, qui reduisent les 3000 livres à
+1950 livres.
+</p>
+<p>
+Il y a 1375 livres de revenus de prairies &amp; friches
+pour la nourriture des boeufs ; ainsi les terres qui portent 
+les moissons ne contribuent à cette somme de
+1950 livres que pour 575 livres, parce que le revenu 
+des prairies &amp; friches fait partie de ce même revenu 
+de 1950 livres. Si la taille étoit à l&#39;égal du tiers
+de ces 1950 livres, elle monteroit à 650 livres, qui
+payées par cinq métayers par portion egale, seroient
+pour chacun 13. livres.
+</p>
+<p>
+Ces métayers ont ensemble la moitié du <i>grain</i>,
+c&#39;est-à-dire pour 3000 livres : ainsi la part pour chacun 
+est 600 liv. Si chaque fermier, à raison du tiers
+de 1950 liv. payoit 131 liv. de taille, il ne lui resteroit 
+pour ses frais particuliers, pour sa subsistance
+&amp; l&#39;entretien de sa famille, que 479 liv. 16 sous.
+</p>
+<p>
+D&#39;ailleurs nous avons averti dans le détail de l&#39;exemple 
+que nous rappellons ici, que le fonds de la
+terre est d&#39;un bon produit, relativement à la culture
+faite avec les boeufs, &amp; qu&#39;il est d&#39;environ un quart
+plus fort que les produits ordinaires de cette culture : ainsi dans le dernier cas où les frais sont les mêmes,
+le revenu du propriétaire ne seroit que de
+1450 livres, &amp; la part de chaque métayer 453 liv.
+Si la taille étoit à l&#39;égal du tiers du revenu du propriétaire,
+elle monteroit à 497 livres ; ce qui seroit
+pour la taxe de chaque métayer 102 livres : il ne lui
+resteroit de son produit que 348 livres, qui ne pourroient 
+pas suffire à ses dépenses ; il faudroit que la moitié 
+pour le moins de la taille des cinq métayers, retombât 
+sur le propriétaire qui est chargé des grandes
+dépenses de la culture, &amp; a un revenu incertain.
+</p>
+<p>
+Ainsi selon cette maniere d&#39;envisager les revenus
+casuels des propriétaires qui partagent avec des métayers,
+si on imposoit la taille à l&#39;égal du tiers de ces
+revenus, les propriétaires payeroient pour la taille
+au-moins un tiers de plus sur leurs terres, que les
+propriétaires dont les terres sont affermées, &amp; dont
+le revenu est determiné par le fermage sans incertitude 
+&amp; sans soin ; car par rapport à ceux-ci, la taille
+qui seroit égale au tiers de leur revenu, est en-dehors de ce même revenu, qui est reglé &amp; assûré par
+le bail ; au lieu que si la taille suivoit la meme proportion 
+dans l&#39;autre cas, la moitié au-moins retomberoit 
+sur le revenu indécis des propriétaires. Or la
+culture avec des métayers est fort ingrate &amp; fort
+difficile à régir pour les propriétaires, surtout pour
+ceux qui ne résident pas dans leurs terres, &amp; qui
+<pb n="7:824" facs="V7/ENC_7-824.jpeg" />
+<milestone unit="column" n="1" />
+payent des régisseurs ; elle se trouveroit trop surchargée 
+par la taille, si elle étoit imposée dans la
+même proportion que dans la grande culture.
+</p>
+<p>
+Mais la proportion seroit juste à l&#39;égard de l&#39;une
+&amp; de l&#39;autre, si la taille étoit à l&#39;égal du tiers ou de
+la moitié des revenus des propriétaires dans la grande 
+&amp; dans la petite culture, où les terres sont affermées,
+&amp; où les propriétaires ont un revenu décidé
+par le fermage : elle seroit juste aussi, si elle étoit environ 
+égale au quart du revenu casuel du propriétaire
+qui fait valoir par le moyen de métayers, ce quart
+seroit à-peu-près le sixieme de la part du métayer.
+</p>
+<p>
+Ainsi en connoissant à-peu-près le produit ordinaire 
+d&#39;une métairie, la taille proportionnelle &amp; fixe
+seroit convenablement &amp; facilement réglée pendant
+le bail du métayer, au sixieme ou au cinquieme de
+la moitié de ce produit qui revient au métayer.
+</p>
+<p>
+Il y a des cas où les terres sont si bonnes, que le
+métayer n&#39;a pour sa part que le tiers du produit de
+la métairie : dans ces cas mêmes le tiers lui est aussi
+avantageux que la moitié du produit d&#39;une métairie
+dont les terres seroient moins bonnes : ainsi la taille
+établie sur le même pié dans ce cas-là, ne seroit pas
+d&#39;un moindre produit que dans les autres, mais elle
+seroit foible proportionnellement au revenu du propriétaire 
+qui auroit pour sa part les deux tiers de la
+récolte ; elle pourroit alors être mise à l&#39;égal du tiers
+du revenu : ainsi en taxant les métayers dans les cas
+où la récolte se partage par moitié, au sixieme ou
+au cinquieme de leur part du produit des <i>grains</i> de
+la métairie, on auroit une regle générale &amp; bien
+simple pour établir une taille proportionnelle, qui
+augmenteroit au profit du roi à mesure que l&#39;agriculture 
+feroit du progrès par la liberté du commerce 
+des <i>grains</i>, &amp; par la sûreté d&#39;une imposition déterminée.
+</p>
+<p>
+Cette imposition reglée sur les baux dans la grande 
+culture, se trouveroit être à-peu-près le double
+de celle de la petite culture ; parce que les produits
+de l&#39;une sont bien plus considérables que les produits
+de l&#39;autre.
+</p>
+<p>
+Je ne sais pas si, relativement à l&#39;état actuel de la
+taille, les taxes que je suppose rempliroient l&#39;objet ;
+mais il seroit facile de s&#39;y conformer, en suivant les
+proportions convenables. <i>Voyez</i> <sc><ref target="head:Impôt" type="search">Impôt</ref></sc>.
+</p>
+<p>
+Si ces regles étoient constamment &amp; exactement
+observées, si le commerce des <i>grains</i> étoit libre, si
+la milice épargnoit les enfans des fermiers, si les corvées 
+étoient abolies (<i><ref type="note" target="n48" n="c" /></i>), grand nombre de propriétaires 
+taillables refugiés dans les villes sans occupation,
+retourneroient dans les campagnes faire valoir
+paisiblement leurs biens, &amp; participer aux profits de
+l&#39;agriculture. C&#39;est par ces habitans aisés qui quitteroient 
+les villes avec sûreté, que la campagne se repeupleroit
+<milestone unit="column" n="2" />
+de cultivateurs en état de rétablir la culture 
+des terres. Ils payeroient la taille comme les fermiers,
+sur les profits de la culture, proportionnellement 
+aux revenus qu&#39;ils retireroient de leurs terres,
+comme si elles étoient affermées ; &amp; comme propriétaires 
+taillables, ils payeroient de plus pour la taille
+de leur bien même, le dixieme du revenu qu&#39;ils retireroient 
+du fermage de leurs terres, s&#39;ils ne les cultivoient 
+pas eux-mêmes. L&#39;intérêt fait chercher les
+établissemens honnêtes &amp; lucratifs. Il n&#39;y en a point
+où le gain soit plus certain &amp; plus irréprochable que
+dans l&#39;agriculture, si elle étoit protégée : ainsi elle
+seroit bien-tôt rétablie par des hommes en état d&#39;y
+porter les richesses qu&#39;elle exige. Il seroit même très convenable 
+pour favoriser la noblesse &amp; l&#39;agriculture,
+de permettre aux gentilshommes qui font valoir
+leurs biens, d&#39;augmenter leur emploi en affermant
+des terres, &amp; en payant l&#39;imposition à raison du prix
+du fermage ; ils trouveroient un plus grand profit,
+&amp; contribueroient beaucoup aux progrès de l&#39;agriculture.
+Cette occupation est plus analogue à leur
+condition, que l&#39;état de marchands débitans dans les
+villes, qu&#39;on voudroit qui leur fût accordé. Ce surcroît 
+de marchands dans les villes seroit même fort
+préjudiciable à l&#39;agriculture, qui est beaucoup plus
+intéressante pour l&#39;état que le trafic en détail, qui occupera 
+toûjours un assez grand nombre d&#39;hommes.
+</p>
+<p>
+L&#39;etat du riche laboureur seroit considéré &amp; protégé; 
+la grande agriculture seroit en vigueur dans
+tout le royaume ; la culture qui se fait avec les boeufs
+disparoîtroit presqu&#39;entierement, parce que le profit
+procureroit par-tout aux propriétaires de riches fermiers 
+en état de faire les frais d&#39;une bonne culture ; si
+la petite culture se conservoit encore dans quelques
+pays où elle paroîtroit préférable à la grande culture,
+elle pourroit elle-même prendre une meilleure forme
+par l&#39;attrait d&#39;un gain qui dédommageroit amplement 
+les propriétaires des avances qu&#39;ils feroient : le
+métayer alors pourroit payer sur sa part de la récolte
+la même taille que le fermier ; car si un métayer avoit
+pour sa part 18 ou 20 boisseaux de blé par arpent de
+plus qu&#39;il n&#39;en recueille par la petite culture ordinaire,
+il trouveroit en payant quatre ou cinq fois plus de
+taille, beaucoup plus de profit qu&#39;il n&#39;en retire aujourd&#39;hui. L&#39;état de la récolte du métayer pourroit
+donc fournir aussi une regle sûre pour l&#39;imposition
+d&#39;une taille proportionnelle.
+</p>
+<p>
+Voilà donc au-moins des regles simples, faciles &amp;
+sûres pour garantir les laboureurs de la taxe arbitraire,
+pour ne pas abolir les revenus de l&#39;état par
+une imposition destructive, pour ranimer la culture
+des terres &amp; rétablir les forces du royaume.
+</p>
+<p>
+L&#39;imposition proportionnelle des autres habitans
+de la campagne, peut être fondée aussi sur des profits
+ou sur des gains connus ; mais l&#39;objet étant beaucoup
+moins important, il suffit d&#39;y apporter plus de ménagement 
+que d&#39;exactitude ; car l&#39;erreur seroit de peu
+de conséquence pour les revenus du roi, &amp; un effet
+beaucoup plus avantageux qui en résulteroit, seroit
+de favoriser la population.
+</p>
+<p>
+La taille dans les villes ne peut se rapporter aux
+mêmes regles : c&#39;est à ces villes elles-mêmes à en
+proposer qui leur conviennent. Je ne parlerai pas de
+la petite maxime de politique que l&#39;on attribue au
+gouvernement, qui, dit-on, regarde l&#39;imposition arbitraire 
+comme un moyen assûré pour tenir les sujets 
+dans la soûmission : cette conduite absurde ne
+peut pas être imputée à de grands ministres, qui en
+connoissent tous les inconvéniens &amp; tout le ridicule.
+Les sujets taillables sont des hommes d&#39;une très médiocre 
+fortune, qui ont plus besoin d&#39;être encouragés 
+que d&#39;être humiliés ; ils sont assujettis souverainement 
+à la puissance royale &amp; aux lois ; s&#39;ils ont
+quelque bien, ils n&#39;en sont que plus dépendans, que
+<pb n="7:825" facs="V7/ENC_7-825.jpeg" />
+<milestone unit="column" n="1" />
+plus susceptibles de crainte &amp; de punition. L&#39;arrogance rustique qu&#39;on leur reproche est une forme de
+leur état, qui est fort indifférente au gouvernement ;
+elle se borne à résister à ceux qui sont à-peu-près de
+leur espece, qui sont encore plus arrogans, &amp; qui
+veulent dominer. Cette petite imperfection ne dérange 
+point l&#39;ordre ; au contraire elle repousse le mépris 
+que le petit bourgeois affecte pour l&#39;état le plus
+recommandable &amp; le plus essentiel. Quel avantage
+donc prétendroit-on retirer de l&#39;imposition arbitraire
+de la taille, pour réprimer des hommes que le ministere 
+a intérêt de protéger? seroit-ce pour les exposer 
+à l&#39;injustice de quelques particuliers qui ne pourroient 
+que leur nuire au préjudice du bien de l&#39;état?
+</p>
+<p>
+<i>Observations sur l&#39;exportation des grains</i>. L&#39;exportation des <i>grains</i>, qui est une autre condition essentielle 
+au rétablissement de l&#39;agriculture, ne contribueroit 
+pas à augmenter le prix des <i>grains</i>. On peut
+en juger par le prix modique qu&#39;en retirent nos voisins 
+qui en vendent aux étrangers ; mais elle empêcheroit 
+les non-valeurs du blé. Ce seul effet, comme 
+nous l&#39;avons remarqué <i>p. 819.</i> éviteroit à l&#39;agriculture 
+plus de 150 millions de perte. Ce n&#39;est pas
+l&#39;objet de la vente en lui-même qui nous enrichiroit ;
+car il seroit fort borné, faute d&#39;acheteurs. <i>Voyez</i> <sc><ref target="head:Fermier" type="search">Fermier</ref></sc>, <i>p. 533. VI. vol</i>. En effet, notre exportation
+pourroit à peine s&#39;étendre à deux millions de septiers.
+</p>
+<p>
+Je ne répondrai pas à ceux qui craignent que l&#39;exportation 
+n&#39;occasionne des disettes <sup><ref type="note" target="n49" n="*" /></sup> ; puisque son
+effet est au contraire d&#39;assurer l&#39;abondance, &amp; que
+l&#39;on a démontré que les moissons des mauvaises années 
+surpasseroient celles que nous recueillons actuellement 
+dans les années ordinaires : ainsi je ne
+parlerai pas non plus des projets chimériques de
+ceux qui proposent des établissemens de greniers
+publics pour prévenir les famines, ni des inconvéniens,
+ni des abus inséparables de pareilles précautions.
+Qu&#39;on refléchisse seulement un peu sur ce que
+dit à cet égard un auteur anglois (<i><ref type="note" target="n50" n="d" /></i>).
+</p>
+<p>
+<blockquote> 
+« Laissons aux autres nations l&#39;inquiétude sur les
+moyens d&#39;éviter la famine ; voyons-les éprouver
+la faim au milieu des projets qu&#39;elles forment pour
+s&#39;en garantir : nous avons trouvé par un moyen
+bien simple, le secret de joüir tranquillement &amp;
+avec abondance du premier bien nécessaire à la
+vie ; plus heureux que nos peres, nous n&#39;éprouvons 
+point ces excessives &amp; subites différences
+dans le prix des blés, toûjours causées plûtôt par
+crainte que par la réalité de la disette . . . . En
+place de vastes &amp; nombreux greniers de ressource
+&amp; de prévoyance, nous avons de vastes plaines
+ensemencées.
+</blockquote></p>
+<p>
+Tant que l&#39;Angleterre n&#39;a songé à cultiver que
+pour sa propre subsistance, elle s&#39;est trouvée souvent 
+au-dessous de ses besoins, obligée d&#39;acheter
+des blés étrangers : mais depuis qu&#39;elle s&#39;en est fait
+un objet de commerce, sa culture a tellement augmenté,
+qu&#39;une bonne récolte peut la nourrir cinq
+ans ; &amp; elle est en état maintenant de porter les
+blés aux nations qui en manquent.
+</p>
+<p>
+Si l&#39;on parcourt quelques-unes des provinces de
+la France, on trouve que non-seulement plusieurs
+de ses terres restent en friche, qui pourroient produire 
+des blés ou nourrir des bestiaux, mais que
+les terres cultivées ne rendent pas à beaucoup près
+à proportion de leur bonté; parce que le laboureur
+manque de moyen pour les mettre en valeur.
+</p>
+<p>
+Ce n&#39;est pas sans une joie sensible que j&#39;ai remarqué 
+dans le gouvernement de France un vice
+dont les conséquences sont si étendues, &amp; j&#39;en ai
+félicité ma patrie ; mais je n&#39;ai pû m&#39;empêcher de
+sentir en même tems combien formidable seroit
+<milestone unit="column" n="2" />
+devenue cette puissance, si elle eût profité des
+avantages que ses possessions &amp; ses hommes lui offroient ».
+<i>O sua si bona norint!</i> (<i><ref type="note" target="n51" n="e" /></i>)
+</p>
+<p>
+Il n&#39;y a donc que les nations où la culture est
+bornée à leur propre subsistance, qui doivent redouter 
+les famines. Il semble au contraire que dans
+le cas d&#39;un commerce libre des <i>grains</i>, on pourroit
+craindre un effet tout opposé. L&#39;abondance des productions 
+que procureroit en France l&#39;agriculture
+portée à un haut degré, ne pourroit-elle pas les faire
+tomber en non-valeur? On peut s&#39;épargner cette inquiétude ; 
+la position de ce royaume, ses ports, ses
+rivieres qui le traversent de toutes parts, réunissent
+tous les avantages pour le commerce ; tout favorise
+le transport &amp; le debit de ses denrées. Les succès de
+l&#39;agriculture y rétabliroient la population &amp; l&#39;aisance ; 
+la consommation de toute espece de productions 
+premieres ou fabriquées, qui augmenteroit
+avec le nombre de ses habitans, ne laisseroit que le
+petit superflu qu&#39;on pourroit vendre à l&#39;étranger. Il
+est vrai qu&#39;on pourroit redouter la fertilité des colonies 
+de l&#39;Amérique &amp; l&#39;accroissement de l&#39;agriculture 
+dans ce nouveau monde, mais la qualité des
+<i>grains</i> en France est si supérieure à celle des <i>grains</i>
+qui naissent dans ces pays-là, &amp; même dans les
+autres, que nous ne devons pas craindre l&#39;égalité
+de concurrence ; ils donnent moins de farine, &amp;
+elle est moins bonne ; celle des colonies qui passe
+les mers, se déprave facilement, &amp; ne peut se conserver 
+que fort peu de tems ; celle qu&#39;on exporte de
+<pb n="7:826" facs="V7/ENC_7-826.jpeg" />
+<milestone unit="column" n="1" />
+France est préférée, parce qu&#39;elle est plus profitable,
+qu&#39;elle fait de meilleur pain, &amp; qu&#39;on peut la
+garder long-tems. Ainsi nos blés &amp; nos farines seront 
+toûjours mieux vendus à l&#39;étranger. Mais une
+autre raison qui doit tranquilliser, c&#39;est que l&#39;agriculture 
+ne peut pas augmenter dans les colonies,
+sans que la population &amp; la consommation des
+<i>grains</i> n&#39;y augmente à proportion ; ainsi leur superflu 
+n&#39;y augmentera pas en raison de l&#39;accroissement
+de l&#39;agriculture.
+</p>
+<p>
+Le défaut de débit &amp; la non-valeur de nos denrées 
+qui ruinent nos provinces, ne sont que l&#39;effet
+de la misere du peuple &amp; des empêchemens qu&#39;on
+oppose au commerce de nos productions. On voit
+tranquillement dans plusieurs provinces les denrées
+sans débit &amp; sans valeur ; on attribue ces desavantages 
+à l&#39;absence des riches, qui ont abandonné les
+provinces pour se retirer à la cour &amp; dans les grandes 
+villes ; on souhaiteroit seulement que les évêques, les gouverneurs des provinces, &amp; tous ceux
+qui par leur etat devroient y résider, y consommassent 
+effectivement leurs revenus ; mais ces idées
+sont trop bornées ; ne voit-on pas que ce ne seroit
+pas augmenter la consommation dans le royaume,
+que ce ne seroit que la transporter des endroits où
+elle se fait avec profusion, dans d&#39;autres où elle se
+seroit avec économie? Ainsi cet expédient, loin
+d&#39;augmenter la consommation dans le royaume, la
+diminueroit encore. Il faut procurer par-tout le débit 
+par l&#39;exportation &amp; la consommation intérieure,
+qui avec la vente à l&#39;étranger soûtient le prix des
+denrées. Mais on ne peut attendre ces avantages que
+du commerce général des <i>grains</i>, de la population,
+&amp; de l&#39;aisance des habitans qui procureroient toûjours 
+un débit &amp; une consommation nécessaire pour
+soûtenir le prix des denrées.
+</p>
+<p>
+Pour mieux comprendre les avantages du commerce 
+des <i>grains</i> avec l&#39;étranger, il est nécessaire de
+faire quelques observations fondamentales sur le
+commerce en général, &amp; principalement sur le
+commerce des marchandises de main-d&#39;oeuvre, &amp;
+sur le commerce des denrées du crû; car pour le
+commerce de trafic qui ne consiste qu&#39;à acheter pour
+revendre, ce n&#39;est que l&#39;emploi de quelques petits
+états qui n&#39;ont pas d&#39;autres ressources que celle d&#39;être 
+marchands. Et cette sorte de commerce avec les
+étrangers ne mérite aucune attention dans un grand
+royaume ; ainsi nous nous bornerons à comparer les
+avantages des deux autres genres de commerce,
+pour connoître celui qui nous intéresse le plus.
+<center>
+<sc>Maximes de Gouvernement économique</sc>.
+</center>
+</p>
+<p>
+I. <i>Les travaux d&#39;industrie ne multiplient pas les richesses</i>. Les travaux de l&#39;agriculture dédommagent des
+frais, payent la main-d&#39;oeuvre de la culture, procurent 
+des gains aux laboureurs : &amp; de plus ils produisent 
+les revenus des biens-fonds. Ceux qui achetent 
+les ouvrages d&#39;industrie, payent les frais, la
+main-d&#39;oeuvre, &amp; le gain des marchands ; mais ces
+ouvrages ne produisent aucun revenu au-delà.
+</p>
+<p>
+Ainsi toutes les dépenses d&#39;ouvrages d&#39;industrie ne
+se tirent que du revenu des biens-fonds ; car les travaux 
+qui ne produisent point de revenus ne peuvent 
+exister que par les richesses de ceux qui les
+payent.
+</p>
+<p>
+Comparez le gain des ouvriers qui fabriquent les
+ouvrages d&#39;industrie, à celui des ouvriers que le
+laboureur employe à la culture de la terre, vous
+trouverez que le gain de part &amp; d&#39;autre se borne à
+la subsistance de ces ouvriers ; que ce gain n&#39;est pas
+une augmentation de richesses ; &amp; que la valeur des
+ouvrages d&#39;industrie est proportionnée à la valeur
+même de la subsistance que les ouvriers &amp; les marchands 
+consomment. Ainsi l&#39;artisan détruit autant
+<milestone unit="column" n="2" />
+en subsistance, qu&#39;il produit par son travail.
+</p>
+<p>
+Il n&#39;y a donc pas multiplication de richesses dans
+la production des ouvrages d&#39;industrie, puisque la
+valeur de ces ouvrages n&#39;augmente que du prix de
+la subsistance que les ouvriers consomment. Les
+grosses fortunes de marchands ne doivent point être
+vûes autrement ; elles sont les effets de grandes entreprises 
+de commerce, qui réunissent ensemble des
+gains semblables à ceux des petits marchands ; de
+même que les entreprises de grands travaux forment
+de grandes fortunes par les petits profits que l&#39;on
+retire du travail d&#39;un grand nombre d&#39;ouvriers. Tous
+ces entrepreneurs ne font des fortunes que parce
+que d&#39;autres font des dépenses. Ainsi il n&#39;y a pas
+d&#39;accroissement de richesses.
+</p>
+<p>
+C&#39;est la source de la subsistance des hommes, qui
+est le principe des richesses. C&#39;est l&#39;industrie qui les
+prépare pour l&#39;usage des hommes. Les propriétaires,
+pour en joüir, payent les travaux d&#39;industrie ;
+&amp; par-là leurs revenus deviennent communs à tous
+les hommes.
+</p>
+<p>
+Les hommes se multiplient donc à proportion des
+revenus des biens fonds. Les uns font naître ces richesses 
+par la culture ; les autres les préparent pour
+la joüissance ; ceux qui en joüissent payent les uns
+&amp; les autres.
+</p>
+<p>
+Il faut donc des biens-fonds, des hommes &amp; des
+richesses pour avoir des richesses &amp; des hommes.
+Ainsi un état qui ne seroit peuplé que de marchands
+&amp; d&#39;artisans, ne pourroit subsister que par les revenus 
+des biens-fonds des étrangers.
+</p>
+<p>
+II. <i>Les travaux d&#39;industrie contribuent à la population 
+&amp; à l&#39;accroissement des richesses</i>. Si une nation
+gagne avec l&#39;étranger par sa main-d&#39;oeuvre un
+million sur les marchandises fabriquées chez elle,
+&amp; si elle vend aussi à l&#39;étranger pour un million de
+denrées de son crû, l&#39;un &amp; l&#39;autre de ces produits
+sont également pour elle un surcroît de richesses,
+&amp; lui sont également avantageux, pourvû qu&#39;elle
+ait plus d&#39;hommes que le revenu du sol du royaume 
+n&#39;en peut entretenir ; car alors une partie de
+ces hommes ne peuvent subsister que par des marchandises 
+de main-d&#39;oeuvre qu&#39;elle vend à l&#39;etranger.
+</p>
+<p>
+Dans ce cas une nation tire du sol &amp; des hommes 
+tout le produit qu&#39;elle en peut tirer ; mais elle
+gagne beaucoup plus sur la vente d&#39;un million de
+marchandises de son crû, que sur la vente d&#39;un million 
+de marchandises de main-d&#39;oeuvre, parce qu&#39;elle
+ne gagne sur celles-ci que le prix du travail de l&#39;artisan,
+&amp; qu&#39;elle gagne sur les autres le prix du travail
+de la culture &amp; le prix des matieres produites par le
+sol. Ainsi dans l&#39;égalité des sommes tirées de la
+vente de ces différentes marchandises, le commerce
+du crû est toûjours par proportion beaucoup plus
+avantageux.
+</p>
+<p>
+III. <i>Les travaux d&#39;industrie qui occupent les hommes
+au préjudice de la culture des biens-fonds, nuisent à la
+population &amp; à l&#39;accroissement des richesses</i>. Si une
+nation qui vend à l&#39;etranger pour un million de
+marchandises de main-d&#39;oeuvre, &amp; pour un million
+de marchandises de son crû, n&#39;a pas assez d&#39;nommes 
+occupés à faire valoir les biens-fonds, elle
+perd beaucoup sur l&#39;emploi des hommes attachés
+à la fabrication des marchandises de main-d&#39;oeuvre 
+qu&#39;elle vend à l&#39;étranger ; parce que les hommes 
+ne peuvent alors se livrer à ce travail, qu&#39;au
+préjudice du revenu du sol, &amp; que le produit du
+travail des hommes qui cultivent la terre, peut être
+le double &amp; le triple de celui de la fabrication des
+marchandises de main-d&#39;oeuvre.
+</p>
+<p>
+IV. <i>Les richesses des cultivateurs font naître les richesses 
+de la culture</i>. Le produit du travail de la culture 
+peut être nul ou presque nul pour l&#39;état, quand
+<pb n="7:827" facs="V7/ENC_7-827.jpeg" />
+<milestone unit="column" n="1" />
+le cultivateur ne peut pas faire les frais d&#39;une bonne
+culture. Un homme pauvre qui ne tire de la terre par
+son travail que des denrées de peu de valeur, comme 
+des pommes de terre, du ble noir, des châtaignes,
+<i>&amp;c.</i> qui s&#39;en nourrit, qui n&#39;achete rien &amp; ne vend
+rien, ne travaille que pour lui seul : il vit dans la misere ; 
+lui, &amp; la terre qu&#39;il cultive, ne rapportent rien
+à l&#39;état.
+</p>
+<p>
+Tel est l&#39;effet de l&#39;indigence dans les provinces où
+il n&#39;y a pas de laboureurs en état d&#39;employer les
+paysans, &amp; où ces paysans trop pauvres ne peuvent 
+se procurer par eux-mêmes que de mauvais
+alimens &amp; de mauvais vêtemens.
+</p>
+<p>
+Ainsi l&#39;emploi des hommes à la culture peut
+être infructueux dans un royaume ou ils n&#39;ont pas
+les richesses necessaires pour préparer la terre à porter 
+de riches moissons. Mais les revenus des biensfonds 
+sont toûjours assûrés dans un royaume bien
+peuplé de riches laboureurs.
+</p>
+<p>
+V. <i>Les travaux de l&#39;industrie contribuent a l&#39;augmentation 
+des revenus des biens-fonds, &amp; les revenus des
+biens-fonds soutiennent les travaux d&#39;industrie</i>. Une
+nation qui, par la fertilité de son sol, &amp; par la
+difficulté des transports, auroit annuellement une
+surabondance de denrées qu&#39;elle ne pourroit vendre 
+à ses voisins, &amp; qui pourroit leur vendre des
+marchandises de main-d&#39;oeuvre faciles à transporter,
+auroit intérêt d&#39;attirer chez elle beaucoup de fabriquans 
+&amp; d&#39;artisans qui consommeroient les denrees
+du pays, qui vendroient leurs ouvrages à l&#39;etranger,
+&amp; qui augmenteroient les richesses de la nation
+par leurs gains &amp; par leur consommation.
+</p>
+<p>
+Mais alors cet arrangement n&#39;est pas facile ; parce 
+que les fabriquans &amp; artisans ne se rassemblent
+dans un pays qu&#39;à proportion des revenus actuels de
+la nation ; c&#39;est-à-dire à proportion qu&#39;il y a des propriétaires 
+ou des marchands qui peuvent acheter
+leurs ouvrages à-peu-près aussi cher qu&#39;ils les vendroient 
+ailleurs, &amp; qui leur en procureroient le débit 
+à mesure qu&#39;ils les fabriqueroient ; ce qui n&#39;est
+guere possible chez une nation qui n&#39;a pas elle-même
+le débit de ses denrées, &amp; où la non-valeur de ces
+mêmes denrées ne produit pas actuellement assez de
+revenu pour établir des manufactures &amp; des travaux
+de main-d&#39;oeuvre.
+</p>
+<p>
+Un tel projet ne peut s&#39;exécuter que fort lentement.
+Plusieurs nations qui l&#39;ont tenté ont même
+éprouvé l&#39;impossibilité d&#39;y réussir.
+</p>
+<p>
+C&#39;est le seul cas cependant ou le gouvernement
+pourroit s&#39;occuper utilement des progres de l&#39;industrie 
+dans un royaume fertile.
+</p>
+<p>
+Car lorsque le commerce du crû est facile &amp; libre,
+les travaux de main-d&#39;oeuvre sont toûjours assûrés
+infailliblement par les revenus des biens-fonds.
+</p>
+<p>
+VI. <i>Une nation qui a un grand commerce de denrées
+de son crû, peut toûjours entretenir, du-moins pour elle,
+un grand commerce de marchandises de main-d&#39;oeuvre</i>.
+Car elle peut toûjours payer à proportion des revenus 
+de ses biens-fonds les ouvriers qui fabriquent
+les ouvrages de main d&#39;oeuvre, dont elle a besoin.
+</p>
+<p>
+Ainsi le commerce d&#39;ouvrages d&#39;industrie appartient 
+aussi sûrement à cette nation, que le commerce 
+des denrées de son crû.
+</p>
+<p>
+VII. <i>Une nation qui a peu de commerce de denrées de
+son crû, &amp; qui est reduite pour subsister à un commerce
+d&#39;industrie, est dans un état précaire &amp; incertain</i>. Car
+son commerce peut lui être enlevé par d&#39;autres nations 
+rivales qui se livreroient avec plus de succès à
+ce même commerce.
+</p>
+<p>
+D&#39;ailleurs cette nation est toûjours tributaire &amp;
+dépendante de celles qui lui vendent les matieres
+de premier besoin. Elle est réduite à une économie
+rigoureuse, parce qu&#39;elle n&#39;a point de revenu à dépenser ;<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; qu&#39;elle ne peut étendre &amp; soûtenir son
+trafic, son industrie &amp; sa navigation, que par l&#39;épargne ; 
+au lieu que celles qui ont des biens-fonds,
+augmentent leurs revenus par leur consommation.
+</p>
+<p>
+VIII. <i>Un grand commerce intérieur de marchandises
+de main-d&#39;oeuvre ne peut subsister que par les revenus des
+biens-fonds</i>. Il faut examiner dans un royaume la
+proportion du commerce extérieur &amp; du commerce
+intérieur d&#39;ouvrages d&#39;industrie ; car si le commerce
+intérieur de marchandises de main-d&#39;oeuvre étoit,
+par exemple, de trois millions, &amp; le commerce exterieur 
+d&#39;un million, les trois quarts de tout ce commerce 
+de marchandises de main-d&#39;oeuvre seroient
+payées par les revenus des biens-fonds de la nation,
+puisque l&#39;etranger n&#39;en payeroit qu&#39;un quart.
+</p>
+<p>
+Dans ce cas, les revenus des biens-fonds seroient
+la principale richesse du royaume. Alors le principal 
+objet du gouvernement seroit de veiller à l&#39;entretien 
+&amp; à l&#39;accroissement des revenus des biensfonds.
+</p>
+<p>
+Les movens consistent dans la liberté du commerce 
+&amp; dans la conservation des richesses des cultivateurs.
+Sans ces conditions, les revenus, la population,
+&amp; les produits de l&#39;industrie s&#39;anéantissent.
+</p>
+<p>
+L&#39;agriculture produit deux sortes de richesses:
+savoir le produit annuel des revenus des propriétaires,
+&amp; la restitution des frais de la culture.
+</p>
+<p>
+Les revenus doivent être dépensés pour être distribues 
+annuellement à tous les citoyens, &amp; pour
+subvenir aux subsides de l&#39;etat.
+</p>
+<p>
+Les richesses employées aux frais de la culture,
+doivent être reservées aux cultivateurs, &amp; être
+exemptes de toutes impositions ; car si on les enleve,
+on detruit l&#39;agriculture, on supprime les gains des
+habitans de la campagne, &amp; on arrête la source des
+revenus de l&#39;état.
+</p>
+<p>
+IX. <i>Une nation qui a un grand territoire, &amp; qui fait
+baisser le prix des denrées de son crû pour favoriser la
+fabrication des ouvrages de main-d&#39;oeuvre, se detruit de
+toutes parts</i>. Car si le cultivateur n&#39;est pas dedommagé 
+des grands frais que la culture exige, &amp; s&#39;il ne
+gagne pas, l&#39;agriculture périt ; la nation perd les revenus 
+de ses biens-fonds ; les travaux des ouvrages de
+main-d&#39;oeuvre diminuent, parce que ces travaux ne
+peuvent plus être payés par les propriétaires des
+biens-fonds ; le pays se dépeuple par la misere &amp; par
+la desertion des fabriquans, artisans, manouvriers
+&amp; paysans, qui ne peuvent subsister qu&#39;à proportion 
+des gains que leur procurent les revenus de la
+nation.
+</p>
+<p>
+Alors les forces du royaume se détruisent ; les richesses 
+s&#39;anéantissent, les impositions surchargent
+les peuples, &amp; les revenus du souverain diminuent.
+</p>
+<p>
+Ainsi une conduite aussi mal entendue suffiroit
+seule pour ruiner un etat.
+</p>
+<p>
+X. <i>Les avantages du commerce exterieur ne consistent
+pas dans l&#39;accroissement des richesses pécuniaires</i>. Le
+surcroît de richesses que procure le commerce extérieur 
+d&#39;une nation, peut n&#39;etre pas un surcroît
+de richesses pécuniaires, parce que le commerce
+extérieur peut se faire avec l&#39;etranger par échange
+d&#39;autres marchandises qui se consomment par cette
+nation. Mais ce n&#39;est pas moins pour cette même
+nation une richesse dont elle joüit, &amp; qu&#39;elle pourroit 
+par économie convertir en richesses pécuniaires 
+pour d&#39;autres usages.
+</p>
+<p>
+D&#39;ailleurs les denrées envisagées comme marchandises,
+sont tout ensemble richesses pécuniaires
+&amp; richesses réelles. Un laboureur qui vend son blé
+à un marchand, est payé en argent ; il paye avec
+cet argent le propriétaire, la taille, ses domestiques,
+ses ouvriers, &amp; achete les marchandises dont il a
+<pb n="7:828" facs="V7/ENC_7-828.jpeg" />
+<milestone unit="column" n="1" />
+besoin. Le marchand qui vend le blé à l&#39;étranger,
+&amp; qui achete de lui une autre marchandise, ou qui
+commerce avec lui par échange, revend à son retour 
+la marchandise qu&#39;il a rapportée, &amp; avec l&#39;argent 
+qu&#39;il reçoit, il rachete du blé. Le blé envisagé
+comme marchandise, est donc une richesse pécuniaire 
+pour les vendeurs, &amp; une richesse réelle pour les
+acheteurs.
+</p>
+<p>
+Ainsi les denrées qui peuvent se vendre, doivent
+toûjours être regardées indifféremment dans un état
+comme richesses pécuniaires &amp; comme richesses réelles,
+dont les sujets peuvent user comme il leur
+convient.
+</p>
+<p>
+Les richesses d&#39;une nation ne se reglent pas par la
+masse des richesses pécuniaires. Celles-ci peuvent
+augmenter ou diminuer sans qu&#39;on s&#39;en apperçoive ;
+car elles sont toûjours effectives dans un état par
+leur quantité, ou par la célérité de leur circulation,
+à raison de l&#39;abondance &amp; de la valeur des denrées.
+L&#39;Espagne qui joüit des thrésors du Pérou, est toûjours 
+épuisée par ses besoins. L&#39;Angleterre soûtient
+son opulence par ses richesses réelles ; le papier qui
+y représente l&#39;argent a une valeur assûrée par le
+commerce &amp; par les revenus des biens de la nation.
+</p>
+<p>
+Ce n&#39;est donc pas le plus ou le moins de richesses 
+pécuniaires qui décide des richesses d&#39;un état ; &amp;
+les défenses de sortir de l&#39;argent d&#39;un royaume au
+préjudice d&#39;un commerce profitable, ne peuvent être
+fondées que sur quelque préjugé desavantageux.
+</p>
+<p>
+Il faut pour le soûtien d&#39;un état de véritables richesses,
+c&#39;est-à-dire des richesses toûjours renaissantes,
+toûjours recherchées &amp; toûjours payées, pour
+en avoir la joüissance, pour se procurer des commodites,
+&amp; pour satisfaire aux besoins de la vie.
+</p>
+<p>
+XI. <i>On ne peut connoitre par l&#39;état de la balance du
+commerce entre diverses nations, l&#39;avantage du commerce 
+&amp; l&#39;etat des richesses de chaque nation</i>. Car des
+nations peuvent être plus riches en hommes &amp; en
+biens-fonds que les autres ; &amp; celles-ci peuvent
+avoir moins de commerce intérieur, faire moins de
+consommation, &amp; avoir plus de commerce extérieur 
+que celles-là.
+</p>
+<p>
+D&#39;ailleurs quelques-unes de ces nations peuvent
+avoir plus de commerce de trafic que les autres. Le
+commerce qui leur rend le prix de l&#39;achat des marchandises 
+qu&#39;elles revendent, forme un plus gros
+objet dans la balance, sans que le fond de ce commerce 
+leur soit aussi avantageux que celui d&#39;un moindre 
+commerce des autres nations, qui vendent à
+l&#39;etranger leurs propres productions.
+</p>
+<p>
+Le commerce des marchandises de main-d&#39;oeuvre
+en impose aussi, parce qu&#39;on confond dans le produit 
+le prix des matieres premieres, qui doit être
+distingué de celui du travail de fabrication.
+</p>
+<p>
+XII. <i>C&#39;est par le commerce intérieur &amp; par le commerce 
+exterieur, &amp; sur-tout par l&#39;état du commerce intérieur,
+qu&#39;on peut juger de la richesse d&#39;une nation</i>.
+Car si elle fait une grande consommation de ses
+denrées à haut prix, ses richesses seront proportionnées 
+à l&#39;abondance &amp; au prix des denrées qu&#39;elle 
+consomme ; parce que ces mêmes denrées sont
+réellement des richesses en raison de leur abondance 
+&amp; de leur cherté; &amp; elles peuvent par la vente
+qu&#39;on en pourroit faire, être susceptibles de tout autre 
+emploi dans les besoins extraordinaires. Il suffit
+d&#39;en avoir le fonds en richesses réelles.
+</p>
+<p>
+XIII. <i>Une nation ne doit point envier le commerce de
+ses voisins quand elle tire de son sol, de ses hommes, &amp;
+de sa navigation, le meilleur produit possible</i>. Car
+elle ne pourroit rien entreprendre par mauvaise
+intention contre le commerce de ses voisins, sans
+déranger son etat, &amp; sans se nuire à elle-même ;
+<milestone unit="column" n="2" />
+sur-tout dans le commerce réciproque qu&#39;elle a établi avec eux.
+</p>
+<p>
+Ainsi les nations commerçantes rivales, &amp; même
+ennemies, doivent être plus attentives à maintenir
+ou à étendre, s&#39;il est possible, leur propre commerce,
+qu&#39;à chercher à nuire directement à celui des autres.
+Elles doivent même le favoriser, parce que le
+commerce réciproque des nations se soûtient mutuellement 
+par les richesses des vendeurs &amp; des
+acheteurs.
+</p>
+<p>
+XIV. <i>Dans le commerce réciproque, les nations qui
+vendent les marchandises les plus nécessaires ou les plus
+utiles, ont l&#39;avantage sur celles qui vendent les marchandises 
+de luxe</i>. Une nation qui est assûrée par ses
+biens-fonds d&#39;un commerce de denrees de son crû,
+&amp; par conséquent aussi d&#39;un commerce intérieur de
+marchandises de main-d&#39;oeuvre, est indépendante
+des autres nations. Elle ne commerce avec celles-ci 
+que pour entretenir, faciliter, &amp; étendre son
+commerce extérieur ; &amp; elle doit, autant qu&#39;il est
+possible, pour conserver son indépendance &amp; son
+avantage dans le commerce réciproque, ne tirer
+d&#39;elles que des marchandises de luxe, &amp; leur vendre
+des marchandises nécessaires aux besoins de la vie.
+</p>
+<p>
+Elles croiront que par la valeur réelle de ces différentes 
+marchandises, ce commerce réciproque
+leur est plus favorable. Mais l&#39;avantage est toûjours
+pour la nation qui vend les marchandises les plus
+utiles &amp; les plus nécessaires.
+</p>
+<p>
+Car alors son commerce est établi sur le besoin
+des autres ; elle ne leur vend que son superflu, &amp;
+ses achats ne portent que sur son opulence. Ceux-là
+ont plus d&#39;intérêt de lui vendre, qu&#39;elle n&#39;a besoin
+d&#39;acheter ; &amp; elle peut plus facilement se retrancher
+sur le luxe, que les autres ne peuvent épargner sur
+le nécessaire.
+</p>
+<p>
+Il faut même remarquer que les états qui se livrent
+aux manufactures de luxe, éprouvent des vicissitudes 
+fâcheuses. Car lorsque les tems sont malheureux,
+le commerce de luxe languit, &amp; les ouvriers
+se trouvent sans pain &amp; sans emploi.
+</p>
+<p>
+La France pourroit, le commerce étant libre, produire 
+abondamment les denrées de premier besoin,
+qui pourroient suffire a une grande consommation &amp;
+à un grand commerce exterieur, &amp; qui pourroient
+soûtenir dans le royaume un grand commerce d&#39;ouvrages 
+de main-d&#39;oeuvre.
+</p>
+<p>
+Mais l&#39;état de sa population ne lui permet pas
+d&#39;employer beaucoup d&#39;hommes aux ouvrages de
+luxe ; &amp; elle a même intérêt pour faciliter le commerce 
+extérieur des marchandises de son crû, d&#39;entretenir 
+par l&#39;achat des marchandises de luxe, un
+commerce réciproque avec l&#39;étranger.
+</p>
+<p>
+D&#39;ailleurs elle ne doit pas pretendre pleinement à
+un commerce général. Elle doit en sacrifier quelques
+branches les moins importantes à l&#39;avantage des autres 
+parties qui lui sont les plus profitables, &amp; qui
+augmenteroient &amp; assureroient les revenus des biensfonds 
+du royaume.
+</p>
+<p>
+Cependant tout commerce doit être libre, parce
+qu&#39;il est de l&#39;intéret des marchands de s&#39;attacher aux
+branches de commerce extérieur les plus sûres &amp; les
+plus profitables.
+</p>
+<p>
+Il suffit au gouvernement de veiller à l&#39;accroissement 
+des revenus des biens du royaume, de ne point
+gêner l&#39;industrie, de laisser aux citoyens la facilité
+&amp; le choix des dépenses.
+</p>
+<p>
+De ranimer l&#39;agriculture par l&#39;activité du commerce 
+dans les provinces où les denrées sont tombées en
+non-valeur.
+</p>
+<p>
+De supprimer les prohibitions &amp; les empêchemens
+préjudiciables au commerce. intérieur &amp; au commerce 
+réciproque extérieur.
+</p>
+<p>
+D&#39;abolir ou de modérer les droits excessifs de riviere<gap type="hyphenpb" />
+<pb n="7:829" facs="V7/ENC_7-829.jpeg" />
+<milestone unit="column" n="1" />
+&amp; de péage, qui détruisent les revenus des
+provinces éloignées, ou les denrées ne peuvent être
+commerçables que par de longs transports ; ceux à
+qui ces droits appartiennent, seront suffisamment
+dédommagés par leur part de l&#39;accroissement général 
+des revenus des biens du royaume.
+</p>
+<p>
+Il n&#39;est pas moins nécessaire d&#39;éteindre les priviléges 
+surpris par des provinces, par des villes, par
+des communautés, pour leurs avantages particuliers.
+</p>
+<p>
+Il est important aussi de faciliter par-tout les communications 
+&amp; les transports des marchandises par
+les réparations des chemins &amp; la navigation des rivieres 
+(<i><ref type="note" target="n52" n="f" /></i>).
+</p>
+<p>
+Il est encore essentiel de ne pas assujettir le commerce 
+des denrées des provinces à des défenses
+&amp; à des permissions passageres &amp; arbitraires, qui
+ruinent les campagnes sous le prétexte captieux d&#39;assûrer 
+l&#39;abondance dans les villes. Les villes subsistent
+par les depenses des propriétaires qui les habitent ;
+ainsi en détruisant les revenus des biens-fonds, ce
+n&#39;est ni favoriser les villes, ni procurer le bien de
+l&#39;état.
+</p>
+<p>
+Le gouvernement des revenus de la nation ne
+doit pas être abandonné à la discrétion ou à l&#39;autorité
+de l&#39;administration subalterne &amp; particuliere.
+</p>
+<p>
+On ne doit point borner l&#39;exportation des <i>grains</i>
+à des provinces particulieres, parce qu&#39;elles s&#39;épuisent 
+avant que les autres provinces puissent les regarnir ; 
+&amp; les habitans peuvent être exposés pendant
+quelques mois à une disette que l&#39;on attribue avec
+raison à l&#39;exportation.
+</p>
+<p>
+Mais quand la liberté d&#39;exporter est générale, la
+levée des <i>grains</i> n&#39;est pas sensible ; parce que les marchands 
+tirent de toutes les parties du royaume, &amp;
+sur-tout des provinces où les <i>grains</i> sont à bas prix.
+</p>
+<p>
+Alors il n&#39;y a plus de provinces où les denrées
+soient en non-valeur. L&#39;agriculture se ranime partout 
+à proportion du debit.
+</p>
+<p>
+Les progres du commerce &amp; de l&#39;agriculture marchent 
+ensemble ; &amp; l&#39;exportation n&#39;enleve jamais
+qu&#39;un superflu qui n&#39;existeroit pas sans elle. &amp; qui
+entretient toûjours l&#39;abondance &amp; augmente les revenus 
+du royaume.
+</p>
+<p>
+Cet accroissement de revenus augmente la population 
+&amp; la consommation, parce que les dépenses
+augmentent &amp; procurent des gains qui attirent les
+hommes.
+</p>
+<p>
+Par ces progrès un royaume peut parvenir en peu
+de tems à un haut degre de force &amp; de prospérité.
+Ainsi par des moyens bien simples, un souverain
+peut faire dans ses propres états des conquêtes bien
+plus avantageuses que celles qu&#39;il entreprendroit sur
+<milestone unit="column" n="2" />
+ses voisins. Les progrès sont rapides ; sous Henri IV.
+le royaume épuisé, chargé de dettes, devint bientôt 
+un pays d&#39;abondance &amp; de richesses. <i>Voyez</i> <sc><ref target="head:Impôt" type="search">Impôt</ref></sc>.
+</p>
+<p>
+<i>Observations sur la nécessité des richesses pour la culture
+des grains</i>. Il ne faut jamais oublier que cet état de
+prospérité auquel nous pouvons prétendre, seroit
+bien moins le fruit des travaux du laboureur, que le
+produit des richesses qu&#39;il pourroit employer à la culture 
+des terres. Ce sont les fumiers qui procurent de
+riches moissons ; ce sont les bestiaux qui produisent
+les fumiers ; c&#39;est l&#39;argent qui donne les bestiaux, &amp;
+qui fournit les hommes pour les gouverner. On a vû
+par les détails précédens, que les frais de trente millions 
+d&#39;arpens de terre traites par la petite culture, ne
+sont que de 285 millions ; &amp; que ceux que l&#39;on feroit 
+pour 30 millions d&#39;arpens bien traités par la
+grande culture, seroient de 710 millions ; mais dans
+le premier cas le produit n&#39;est que de 390 millions : &amp;
+dans le second il seroit de 1, 378, 000000. De plus
+grands frais produiroient encore de plus grands profits ; 
+la dépense &amp; les hommes qu&#39;exige de plus la
+bonne culture pour l&#39;achat &amp; le gouvernement des
+bestiaux, procurent de leur côté un produit qui n&#39;est
+guere moins considérable que celui des récoltes.
+</p>
+<p>
+La mauvaise culture exige cependant beaucoup
+de travail ; mais le cultivateur ne pouvant faire les
+dépenses nécessaires, ses travaux sont infructueux ;
+il succombe : &amp; les bourgeois imbécilles attribuent
+ses mauvais succès à la paresse. Ils croyent sans
+doute qu&#39;il suffit de labourer, de tourmenter la terre
+pour la forcer à porter de bonnes récoltes ; on s&#39;applaudit 
+lorsqu&#39;on dit à un homme pauvre qui n&#39;est
+pas occupé, <i>va labourer la terre</i>. Ce sont les chevaux,
+les boeufs, &amp; non les hommes, qui doivent
+labourer la terre. Ce sont les troupeaux qui doivent
+la fertiliser ; sans ces secours elle récompense peu les
+travaux des cultivateurs. Ne sait-on pas d&#39;ailleurs
+qu&#39;elle ne fait point les avances, qu&#39;elle fait au contraire 
+attendre long-tems la moisson? Quel pourroit
+donc être le sort de cet homme indigent à qui l&#39;on
+dit <i>va labourer la terre?</i> Peut-il cultiver pour son propre 
+compte? trouvera-t-il de l&#39;ouvrage chez les fermiers 
+s&#39;ils sont pauvres? Ceux-ci dans l&#39;impuissance
+de faire les frais d&#39;une bonne culture, hors d&#39;état de
+payer le salaire des domestiques &amp; des ouvriers, ne
+peuvent occuper les paysans. La terre sans engrais
+&amp; presqu&#39;inculte ne peut que laisser languir les uns
+&amp; les autres dans la misere.
+</p>
+<p>
+Il faut encore observer que tous les habitans du
+royaume doivent profiter des avantages de la bonne
+culture, pour qu&#39;elle puisse se soûtenir &amp; produire
+de grands revenus au souverain. C&#39;est en augmentant 
+les revenus des proprietaires &amp; les profits des
+fermiers, qu&#39;elle procure des gains à tous les autres
+états, &amp; qu&#39;elle entretient une consommation &amp; des
+dépenses qui la soûtiennent elle-même. Mais si les impositions 
+du souverain sont établies sur le cultivateur
+même, si elles enlevent ses profits, la culture dépérit,
+les revenus des proprietaires diminuent ; d&#39;où
+résulte une épargne inévitable qui influe sur les stipendiés,
+les marchands, les ouvriers, les domestiques : le système général des dépenses, des travaux,
+des gains, &amp; de la consommation, est dérangé; l&#39;état 
+s&#39;affoiblit ; l&#39;imposition devient de plus en plus
+destructive. Un royaume ne peut donc être florissant
+&amp; formidable que par les productions qui se renouvellent 
+ou qui renaissent continuellement de la richesse 
+même d&#39;un peuple nombreux &amp; actif, dont
+l&#39;industrie est soûtenue &amp; animée par le gouvernement.
+</p>
+<p>
+On s&#39;est imaginé que le trouble que peut causer le
+gouvernement dans la fortune des particuliers, est
+<pb n="7:830" facs="V7/ENC_7-830.jpeg" />
+<milestone unit="column" n="1" />
+indifférent à l&#39;état ; parce que, dit-on, si les uns deviennent 
+riches aux dépens des autres, la richesse
+existe également dans le royaume. Cette idée est
+fausse &amp; absurde ; car les richesses d&#39;un état ne se soûtiennent 
+pas par elles-mêmes, elles ne se conservent
+&amp; s&#39;augmentent qu&#39;autant qu&#39;elles se renouvellent
+par leur emploi dirigé avec intelligence. Si le cultivateur 
+est ruiné par le financier, les revenus du
+royaume sont anéantis, le commerce &amp; l&#39;industrie
+languissent ; l&#39;ouvrier manque de travail ; le souverain,
+les propriétaires, le clergé, sont prives des revenus ; 
+les depenses &amp; les gains sont abolis ; les richesses 
+renfermées dans les coffres du financier, sont infructueuses,
+ou si elles sont placées à intérêt, elles
+surchargent l&#39;état. Il faut donc que le gouvernement
+soit très-attentif à conserver à toutes les professions
+productrices, les richesses qui leur sont nécessaires
+pour la production &amp; l&#39;accroissement des richesses
+du royaume.
+</p>
+<p>
+<i>Observations sur la population soûtenue par la culture 
+des grains</i>. Enfin on doit reconnoitre que les productions 
+de la terre ne sont point des richesses par
+elles-mêmes ; qu&#39;elles ne sont des richesses qu&#39;autant
+qu&#39;elles sont nécessaires aux hommes, &amp; qu&#39;autant
+qu&#39;elles sont commerçables : elles ne sont donc des richesses 
+qu&#39;à proportion de leur consommation &amp; de
+la quantité des hommes qui en ont besoin. Chaque
+homme qui vit en société n&#39;étend pas son travail à
+tous ses besoins ; mais par la vente de ce que produit
+son travail, il se procure ce qui lui manque. Ainsi
+tout devient commerçable, tout devient richesse par
+un trafic mutuel entre les hommes. Si le nombre des
+hommes diminue d&#39;un tiers dans un état, les richesses 
+doivent y diminuer des deux tiers, parce que la
+dépense &amp; le produit de chaque homme forment une
+double richesse dans la société. Il y avoit environ
+24 millions d&#39;hommes dans le royaume il y a cent
+ans : après des guerres presque continuelles pendant
+quarante ans, &amp; après la révocation de l&#39;édit de
+Nantes, il s&#39;en est trouvé encore par le dénombrement 
+de 1700, dix-neuf millions cinq cents mille ;
+mais la guerre ruineuse de la succession à la couronne 
+d&#39;Espagne, la diminution des revenus du royaume,
+causée par la gêne du Commerce &amp; par les
+impositions arbitraires, la misere des campagnes, la
+desertion hors du royaume, l&#39;affluence de domestiques 
+que la pauvreté &amp; la milice obligent de se retirer 
+dans les grandes villes où la debauche leur tient
+lieu de mariage ; les desordres du luxe, dont on se
+dédommage malheureusement par une économie sur
+la propagation ; toutes ces causes n&#39;autorisent que
+trop l&#39;opinion de ceux qui réduisent aujourd&#39;hui le
+nombre d&#39;hommes du royaume à seize millions ; &amp; il
+y en a un grand nombre à la campagne réduits à se
+procurer leur nourriture par la culture du blé noir
+ou d&#39;autres <i>grains</i> de vil prix ; ainsi ils sont aussi peu
+utiles à l&#39;état par leur travail que par leur consommation.
+Le paysan n&#39;est utile dans la campagne qu&#39;autant 
+qu&#39;il produit &amp; qu&#39;il gagne par son travail,
+&amp; qu&#39;autant que sa consommation en bons alimens &amp;
+en bons vêtemens contribue à soûtenir le prix des
+denrées &amp; le revenu des biens, à augmenter &amp; à
+faire gagner les fabriquans &amp; les artisans, qui tous
+peuvent payer au roi des subsides à proportion des
+produits &amp; des gains.
+</p>
+<p>
+Ainsi on doit appercevoir que si la misere augmentoit,
+ou que si le royaume perdoit encore quelques 
+millions d&#39;hommes, les richesses actuelles y diminueroient 
+excessivement, &amp; d&#39;autres nations tireroient 
+un double avantage de ce desastre : mais si
+la population se réduisoit à moitié de ce qu&#39;elle doit
+être, c&#39;est-à-dire de ce qu&#39;elle étoit il y a cent ans, le
+royaume seroit dévasté; il n&#39;y auroit que quelques
+villes ou quelques provinces commerçantes qui seroient<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+habitées, le reste du royaume seroit inculte ;
+les biens ne produiroient plus de revenus ; les terres
+seroient par-tout surabondantes &amp; abandonnées à qui
+voudroit en joüir, sans payer ni connoitre de proprietaires.
+</p>
+<p>
+Les terres, je le répete, ne sont des richesses que
+parce que leurs productions sont nécessaires pour satisfaire 
+aux besoins des hommes, &amp; que ce sont ces
+besoins eux-mêmes qui établissent les richesses : ainsi
+plus il y a d&#39;hommes dans un royaume dont le territoire
+est fort étendu &amp; fertile, plus il y a de richesses.
+C&#39;est la culture animée par le besoin des hommes,
+qui en est la source la plus féconde, &amp; le principal
+soutien de la population ; elle fournit les matieres
+nécessaires à nos besoins, &amp; procure des revenus
+au souverain &amp; aux propriétaires. La population s&#39;accroit 
+beaucoup plus par les revenus &amp; par les dépenses 
+que par la propagation de la nation même.
+</p>
+<p>
+<i>Observations sur le prix des grains</i>. Les revenus
+multiplient les dépenses, &amp; les dépenses attirent les
+hommes qui cherchent le gain ; les étrangers quittent
+leur patrie pour venir participer à l&#39;aisance d&#39;une nation 
+opulente, &amp; leur affluence augmente encore
+ses richesses, en soûtenant par la consommation le
+bon prix des productions de l&#39;agriculture, &amp; en provoquant 
+par le bon prix l&#39;abondance de ces productions : car non-seulement le bon prix favorise les progres 
+de l&#39;agriculture, mais c&#39;est dans le bon prix même 
+que consistent les richesses qu&#39;elle procure. La
+valeur d&#39;un septier de blé considéré comme richesse,
+ne consiste que dans son prix : ainsi plus le blé, le vin,
+les laines, les bestiaux, sont chers &amp; abondans, plus
+il y a de richesse dans l&#39;état. <i>La non-valeur avec l&#39;abondance 
+n&#39;est point richesse. La cherté avec pénurie est
+misere. L&#39;abondance avec cherté est opulence</i>. J&#39;entends
+une cherté &amp; une abondance permanentes ; car une
+cherté passagere ne procureroit pas une distribution
+générale de richesses à toute la nation, elle n&#39;augmenteroit 
+pas les revenus des propriétaires ni les
+revenus du Roi ; elle ne seroit avantageuse qu&#39;à
+quelques particuliers qui auroient alors des denrées
+à vendre à haut prix.
+</p>
+<p>
+Les denrées ne peuvent donc être des richesses
+pour toute nation, que par l&#39;abondance &amp; par le
+bon prix entretenu constamment par une bonne culture,
+par une grande consommation, &amp; par un commerce 
+extérieur : on doit même reconnoître que relativement 
+à toute une nation, l&#39;abondance &amp; un
+bon prix qui a cours chez l&#39;étranger, est grande
+richesse pour cette nation, sur-tout si cette richesse 
+consiste dans les productions de l&#39;agriculture ;
+car c&#39;est une richesse en propriété bornée dans
+chaque royaume au territoire qui peut la produire:
+ainsi elle est toûjours par son abondance &amp; par sa
+cherté à l&#39;avantage de la nation qui en a le plus &amp;
+qui en vend aux autres : car plus un royaume peut se
+procurer de richesses en argent, plus il est puissant,
+&amp; plus les facultés des particuliers sont étendues,
+parce que l&#39;argent est la seule richesse qui puisse se
+prêter à tous les usages, &amp; décider de la force des
+nations relativement les unes aux autres.
+</p>
+<p>
+Les nations sont pauvres par-tout où les productions 
+du pays les plus nécessaires à la vie, sont à bas
+prix ; ces productions sont les biens les plus precieux
+&amp; les plus commerçables, elles ne peuvent tomber
+en non-valeur que par le défaut de population &amp; de
+commerce extérieur. Dans ces cas, la source des richesses 
+pécuniaires se perd dans des pays privés des
+avantages du Commerce, où les hommes réduits rigoureusement 
+aux biens nécessaires pour exister, ne
+peuvent se procurer ceux qu&#39;il leur faut pour satisfaire 
+aux autres besoins de la vie &amp; à la sûreté de
+leur patrie : telles sont nos provinces où les denrées
+sont à vil prix, ces pays d&#39;abondance &amp; de pauvreté,<gap type="hyphenpb" />
+<pb n="7:831" facs="V7/ENC_7-831.jpeg" />
+<milestone unit="column" n="1" />
+où un travail forcé &amp; une épargne outrée ne sont
+pas même des ressources pour se procurer de l&#39;argent.
+Quand les denrées sont cheres, &amp; quand les
+revenus &amp; les gains augmentent à proportion, on peut
+par des arrangemens économiques, diversifier les
+dépenses, payer des dettes, faire des acquisitions,
+établir des enfans, <i>&amp;c.</i> C&#39;est dans la possibilité de ces
+arrangemens que consiste l&#39;aisance qui résulte du
+bon prix des denrées. C&#39;est pourquoi les villes &amp; les
+provinces d&#39;un royaume où les denrées sont cheres,
+sont plus habitées que celles ou toutes les denrées
+sont à trop bas prix, parce que ce bas prix éteint les
+revenus, retranche les dépenses, détruit le Commerce, supprime les gains de toutes les autres professions,
+les travaux &amp; les salaires des artisans &amp; manouvriers : de plus il anéantit les revenus du Roi,
+parce que la plus grande partie du Commerce pour
+la consommation se fait par échange de denrées, &amp; ne
+contribue point à la circulation de l&#39;argent ; ce qui
+ne procure point de droits au roi sur la consommation 
+des subsistances de ces provinces, &amp; très-peu
+sur les revenus des biens.
+</p>
+<p>
+Quand le Commerce est libre, la cherté des denrées 
+a nécessairement ses bornes fixées par les prix
+mêmes des denrées des autres nations qui étendent
+leur commerce par-tout. Il n&#39;en est pas de même de
+la non-valeur ou de la cherté des denrées causées par
+le défaut de liberté du Commerce ; elles se succedent
+tour à tour &amp; irrégulierement, elles sont l&#39;une &amp;
+l&#39;autre fort desavantageuses, &amp; dépendent presque
+toûjours d&#39;un vice du gouvernement.
+</p>
+<p>
+Le bon prix ordinaire du blé qui procure de si
+grands revenus à l&#39;état, n&#39;est point préjudiciable au
+bas peuple. Un homme consomme trois septiers de
+blé: si à cause du bon prix il achetoit chaque septier
+quatre livres plus cher, ce prix augmenteroit au plus
+sa dépense d&#39;un sou par jour, son salaire augmenteroit 
+aussi à proportion, &amp; cette augmentation seroit
+peu de chose pour ceux qui la payeroient, en comparaison 
+des richesses qui résulteroient du bon prix
+du blé. Ainsi les avantages du bon prix du blé ne sont
+point détruits par l&#39;augmentation du salaire des ouvriers ; 
+car alors il s&#39;en faut beaucoup que cette
+augmentation approche de celle du profit des fermiers,
+de celle des revenus des propriétaires, de
+celle du produit des dixmes, &amp; de celle des revenus 
+du roi. Il est aisé d&#39;appercevoir aussi que ces
+avantages n&#39;auroient pas augmenté d&#39;un vingtieme,
+peut-être pas même d&#39;un quarantieme de plus le prix
+de la main-d&#39;oeuvre des manufactures, qui ont déterminé 
+imprudemment à défendre l&#39;exportation de nos
+blés, &amp; qui ont causé à l&#39;état une perte immense.
+C&#39;est d&#39;ailleurs un grand inconvénient que d&#39;accoûtumer 
+le même peuple à acheter le blé à trop bas
+prix ; il en devient moins laborieux, il se nourrit de
+pain à peu de frais, &amp; devient paresseux &amp; arrogant ; 
+les laboureurs trouvent difficilement des ouvriers 
+&amp; des domestiques ; aussi sont-ils fort mal servis 
+dans les années abondantes. Il est important que
+le petit peuple gagne davantage, &amp; qu&#39;il soit pressé
+par le besoin de gagner. Dans le siecle passé où le
+blé se vendoit beaucoup plus cher, le peuple y étoit
+accoûtumé, il gagnoit à proportion, il devoit être
+plus laborieux &amp; plus à son aise.
+</p>
+<p>
+Ainsi nous n&#39;entendons pas ici par le mot de <i>cherté</i>,
+un prix qui puisse jamais être excessif, mais seulement 
+un prix commun entre nous &amp; l&#39;étranger ; car
+dans la supposition de la liberté du commerce extérieur,
+le prix sera toûjours réglé par la concurrence
+du commerce des denrées des nations voisines.
+</p>
+<p>
+Ceux qui n&#39;envisagent pas dans toute son étendue
+la distribution des richesses d&#39;un état, peuvent objecter 
+que la cherté n&#39;est avantageuse que pour les
+vendeurs, &amp; qu&#39;elle appauvrit ceux qui achetent ;
+<milestone unit="column" n="2" />
+qu&#39;ainsi elle diminue les richesses des uns autant qu&#39;elle 
+augmente celles des autres. La cherté, selon ces
+idées, ne peut donc pas être dans aucun cas une augmentation 
+de richesses dans l&#39;etat.
+</p>
+<p>
+Mais la cherté &amp; l&#39;abondance des productions de
+l&#39;Agriculture n&#39;augmentent-elles pas les profits des
+cultivateurs, les revenus du roi, des propriétaires,
+&amp; des bénéficiers qui joüissent des dixmes? ces richesses 
+elles-mêmes n&#39;augmentent-elles pas aussi les
+dépenses &amp; les gains? le manouvrier, l&#39;artisan, le
+manufacturier, <i>&amp;c.</i> ne font-ils pas payer leur tems
+&amp; leurs ouvrages à proportion de ce que leur coûte
+leur subsistance? Plus il y a de revenus dans un état,
+plus le Commerce, les manufactures, les Arts, les
+Métiers, &amp; les autres professions deviennent nécessaires 
+&amp; lucratives.
+</p>
+<p>
+Mais cette prospérité ne peut subsistes que par le
+bon prix de nos denrées : car lorsque le gouvernement 
+arrête le débit des productions de la terre, &amp;
+lorsqu&#39;il en fait baisser les prix, il s&#39;oppose à l&#39;abondance,
+&amp; diminue les richesses de la nation à proportion 
+qu&#39;il fait tomber les prix des denrées qui se convertissent 
+en argent.
+</p>
+<p>
+Cet état de bon prix &amp; d&#39;abondance a subsisté dans
+le royaume tant que nos <i>grains</i> ont été un objet de
+Commerce, que la culture des terres a été protégée,
+&amp; que la population a été nombreuse ; mais la gêne
+dans le commerce des blés, la forme de l&#39;imposition
+des subsides, le mauvais emploi des hommes &amp; des
+richesses aux manufactures de luxe, les guerres continuelles,
+&amp; d&#39;autres causes de dépopulation &amp; d&#39;indigence,
+ont détruit ces avantages ; &amp; l&#39;état perd
+annuellement plus des trois quarts du produit qu&#39;il
+retiroit il y a un siecle, de la culture des <i>grains</i>, sans
+y comprendre les autres pertes qui résultent nécessairement 
+de cette énorme dégradation de l&#39;Agriculture &amp; de la population. <i>Art. de</i> M. <i><sc>Quesnay</sc> le fils</i>.
+</p>
+<p>
+Pour ne point rendre cet article trop long, nous
+renvoyons à <sc><ref target="head:Nielle" type="search">Nielle</ref></sc> ce qui concerne les maladies
+des <i>grains</i>.
+</p>
+<div2 type="notes">
+<note id="21">(<i>a</i>) Si les cultivateurs étoient assez riches pour traiter les
+36 millions d&#39;arpens par la grande culture, conformément
+aux six millions qui sont traités actuellement par cette culture.
+la récolte annuelle seroit environ de 66 millions de septiers,
+au lieu de 44 millions, comme on va le prouver par l&#39;examen
+de l&#39;état actuel de la grande culture.
+</note>
+<note id="22">(<i>b</i>) C&#39;est un cinquieme plus par arpent, que la mesure de
+l&#39;arpent donnée par M. de Vauban ; ainsi les récoltes doivent
+produire, selon cette mesure, un cinquieme de plus de <i>grain</i>
+que cet auteur ne l&#39;a estimé par arpent.
+</note>
+<note id="n23">(<i>c</i>) Le prix commun réglé, comme on fait ordinairement,
+sur les prix différens des années, sans égard aux frais, &amp; au
+plus ou moins de récolte chaque année, n&#39;est un prix commun
+que pour les acheteurs qui achetent pour leur subsistance la
+même quantité de blé chaque année. Ce prix est ici le cinquieme 
+de 87 liv. qui est 17 liv. 8 s. C&#39;est à-peu-près le prix
+commun de la vente de nos blés à Paris depuis long-tems ;
+mais le prix commun pour les fermiers, qui sont les vendeurs,
+n&#39;est qu&#39;environ 15 liv. 9 sols, à cause de l&#39;inégalité des récoltes.
+</note>
+<note id="n24">(<i>d</i>) On ne parle point ici des années stériles, parce qu&#39;elles
+sont fort rares, &amp; que d&#39;ailleurs on ne peut déterminer le
+prix qu&#39;elles donnent aux blés.
+</note>
+<note id="n25">(<i>e</i>) <i>Voyez</i> le détail de ces frais, <i>aux articles</i> <sc><ref target="head:Fermiers" type="search">Fermiers</ref> <i>&amp;</i> <ref target="head:Fermes" type="search">Fermes</ref></sc>.
+</note>
+<note id="n26">(<i>f</i>) Nous ne nous reglons pas ici sur l&#39;imposition réelle de
+la taille ; nous supposons une imposition qui laisse quelque profit 
+au fermier, &amp; un revenu au propriétaire, qui soûtienne un
+peu les richesses de la nation &amp; l&#39;entretien des terres.
+</note>
+<note id="n27">(<i>g</i>) Les gros fermiers qui exploitent de grandes fermes
+&amp; de bonnes terres qu&#39;ils cultivent bien, gagnent davantage,
+quoique de bonnes terres soient affermées à un plus haut prix ;
+car une terre qui produit beaucoup, procure un plus grand
+bénéfice sur les frais &amp; sur la semence. Mais il s&#39;agit ici d&#39;une
+estimation générale du fort au foible, par rapport à la différente 
+valeur des terres, &amp; aux différens états d&#39;aisance des
+fermiers. On verra ci-après dans les détails, les différens
+rapports des revenus des terres avec les frais de culture : il
+est nécessaire d&#39;y faire attention, pour juger des produits de
+l&#39;agriculture relativement aux revenus des propriétaires, aux
+profits des fermiers, à la taille &amp; à la dixme ; car on appercevra,
+à raison des divers produits, des rapports fort différens.
+</note>
+<note id="n28">(<i>h</i>) On ne met ici que les frais de moisson, parce que les
+frais de culture sont compris avec ceux du blé. <i>Voyez l&#39;article</i></note>
+<sc><ref target="head:Fermiers" type="search">Fermiers</ref></sc> <note id="nx">(<i>Econom. polit.</i>)
+</note>
+<note id="n29">(<i>i</i>) Il faut même supposer de bonnes années, &amp; que le prix
+du foin ne passe pas 10 liv. ou que la longueur des hyvers
+n&#39;en fasse pas consommer par les boeufs une plus grande
+quantite ; car un peu moins de produit ou un peu plus de
+dépense, anéantit ce petit revenu.
+</note>
+<note id="n30">(<i>k</i>) On peut juger de-là combien est mal fondée l&#39;opinion
+de ceux qui croyent que la campagne est dépeuplée, parce
+que les grands propriétaires le soit emparés de toutes les
+terres, ensorte que les paysans ne peuvent pas en avoir-pour
+cultiver a leur profit : ou voit que le fermage des terres est à si
+bas prix, qu&#39;il leur seroit très-facile d&#39;en affermer autant qu&#39;ils
+en voudroient ; mais il y a d&#39;autres raisons qui s&#39;y opposent, &amp;
+que nous examinerons dans la suite : car il faut dissiper des
+préjugés vulgaires qui voilent des vérités qu&#39;il est intéressant
+d&#39;approfondir.
+</note>
+<note id="n31">(<i>l</i>) Ceux qui sont assujettis à la petite culture, sont peu
+attachés au fourrage que produit le froment, parce qu&#39;ils en
+font peu d&#39;usage ; &amp; ils préferent volontiers la culture du
+seigle, parce qu&#39;il vient plus sûrement dans les terres maigres.
+Dailleurs il y a toûjours quelque partie de la sole des
+terres ensemencées qui porte des <i>grains</i> de Mars, que nous
+confondrons ici avec le blé, pour éviter de petits détails peu
+utiles. On peut compenser la valeur de ces différens <i>grains</i>
+par un prix commun un peu plus bas que celui du froment.
+</note>
+<note id="n32">(<i>m</i>) <i>Traité des avantages &amp; des desavantages de la Grande-Bretagne</i>.
+<note id="n33">* <i>Le financier citoyen, chap. iij. &amp; jv</i>.
+</note>
+<note id="n34">(<i>n</i>) Nous supposons que chaque arpent produise six septiers,
+semence prélevée : nons savons cependant qu&#39;un bon arpent
+de terre bien cultivé doit produire davantage. Nous avons
+juge à-propos, pour une plus grande sûreté dans l&#39;estimation,
+de nous fixer à ce produit ; mais afin qu&#39;on puisse juger
+de ce que peut rapporter un arpent de terre, dans le cis dont
+il s&#39;agit ici, nous en citerons un exemple tiré de l&#39;<i>article</i> <sc><ref target="head:Ferme" type="search">Ferme</ref></sc>,
+donné par M. le Roy, lieutenant des chasses du parc de
+Versailles.
+<blockquote> 
+« J&#39;ai actuellement, dit l&#39;auteur, sous les yeux
+une ferme qui est de plus de trois cents arpens, dont les
+terres sont bonnes sans être du premier ordre. Elles étoient
+il y a quatre ans entre les mains d&#39;un fermier qui les labouroit 
+assez bien, mais qui les fumoit très-mal, parce qu&#39;il
+vendoit ses pailles, &amp; nourrissoit peu le bétail. Ces terres
+ne rapportoient que trois à quatre septiers de blé par arpent 
+dans les meilleures années ; il s&#39;est ruiné, &amp; on l&#39;a
+contraint de remettre sa ferme à un autre cultivateur plus
+industrieux. Tout a changé de face ; la dépense n&#39;a point
+été épargnée ; les terres encore mieux labourées qu&#39;elles
+n&#39;étoient, ont été convertes de troupeaux &amp; de fumier:
+en deux ans elles on été améliorées au point de rapporter
+dix septiers de blé par arpent, &amp; d&#39;en faire espérer encore 
+plus par la suite. Ce succès sera répété toutes les fois
+qu&#39;il sera tenté. Multiplions nos troupeaux, nous doublerons 
+presque nos récoltes. Puisse cette persuasion frapper
+également les fermiers &amp; les propriétaires! Si elle devenoit 
+générale, si elle étoit encouragée, nous verrions bientôt 
+l&#39;Agriculture faire des progrès rapides, nous lui devrions 
+l&#39;abondance avec tous ses effets ».</blockquote></note>
+</note>
+<note id="n35">(<i>o</i>) Nous mettons le prix plus bas qu&#39;en Angleterre, quoique 
+le blé de France soit meilleur ; mais si nous en vendions
+à l&#39;étranger, la concurrence pourroit faire baisser le prix de
+part &amp; d&#39;autre.
+</note>
+<note id="n36">(<i>p</i>) Dans la grande culture actuelle en France, on a remarque 
+ci-devant que le fermier perd dans les bonnes années ;
+ici il gagne, mais il perd dans les mauvaises : ainsi il a intérêt
+qu&#39;il y ait beaucoup de blé: au lieu que dans l&#39;autre cas l&#39;abondance 
+ruine le fermier, &amp; celui-ci ne peut se dédommager
+un peu que dans les mauvaises années.
+</note>
+<note id="n37">(<i>q</i>) Le prix commun des acheteurs seroit le cinquieme de
+90 liv. qui est 18 liv. c&#39;est environ le prix commun ordinaire
+de la vente de nos blés dans ces derniers tems ; ainsi l&#39;exportation 
+n&#39;augmenteroit pas le prix du blé pour les acheteurs:
+elle l&#39;augmenteroit pour les fermiers de 2 liv. 4 s. par septier ; 
+ce seroit sur 65 millions de septiers, 160 millions de
+bénéfice pour l&#39;Agriculture, sans que le blé augmentât de
+prix pour l&#39;acheteur. Voilà l&#39;avantage de l&#39;exportation. Ainsi
+on ne doit pas s&#39;étonner des progrès de l&#39;Agriculture en Angleterre.
+</note>
+<note id="n38">(<i>r</i>) Pour les terres chargées du droit de champart ou de la
+dixme agriere, les fermiers ne payent pas tant de taille ; mais
+ce qui manqueroit se répandroit sur ceux qui afferment cette
+espece de dixme.
+</note>
+<note id="n39">(<i>s</i>) Les frais ne se font pas tous en argent ; la nourriture
+des chevaux &amp; celle des domestiques sont fournies en nature
+par les récoltes, ainsi il n&#39;y a guere que la moitié de ces frais
+qui participe à la circulation de l&#39;argent. Il n&#39;en est pas de
+même des frais de la culture des vignes, &amp; des dépenses pour
+les récoltes des vins ; car ces avances se font presque toutes
+en argent : ainsi on voit toûjours que plus de la moitié de la
+masse d&#39;argent monnoyé qu&#39;il y a dans le royaume, doit circuler 
+dans les campagnes pour les frais de l&#39;agriculture.
+</note>
+<note id="n40">(<i>t</i>) On suppose dans ces deux états de culture, la taille
+égale environ à un tiers du revenu des propriétaires. La capitation 
+&amp; les taxes particulieres jointes à la taille, montent
+aujourd&#39;hui l&#39;imposition totale à-peu-près à l&#39;égal de la moitié 
+des revenus ou à 40 millions. Suivant cette proportion,
+l&#39;imposition totale monteroit dans la bonne culture à 200 millions,
+au lieu de 40 millions. Nous comprenons dans les deux
+cas, sous le même point de vûe, les pays d&#39;états &amp; les pays
+d&#39;élections, qui en effet payent ensemble aujourd&#39;hui en
+taille, dons gratuits &amp; capitation, environ 40 millions sur des
+terres du royaume employées à la culture des <i>grains</i>.
+</note>
+<note id="n41">(<i>u</i>) Dans l&#39;état actuel, les frais ne produisent que 30 pour
+cent ; &amp; dans une bonne culture, où le débit des <i>grains</i> seroit 
+favorisé, comme en Angleterre, par l&#39;exportation, les
+frais produiroient environ cent pour cent.
+</note>
+<note id="n42">(<i>x</i>) Notez que dans cette comparaison on ne suppose aucune 
+augmentation dans le prix commun des <i>grains ;</i> car il
+n&#39;est pas vraissemblable que l&#39;exportation en fit augmenter
+le prix : mais elle exclueroit les non-valeurs &amp; les chertés.
+Elle produit constamment cet avantage en Angleterre, quoiqu&#39;on n&#39;y exporte qu&#39;environ un million de septiers (ce qui
+n&#39;est pas un vingtieme de la récolte), ne trouvant pas chez
+l&#39;étranger à en vendre davantage.
+</note>
+<note id="n43">(<i>y</i>) L&#39;auteur du livre intitulé <i>le financier citoyen</i>, dont les intentions 
+peuvent être loüables, est trop attaché aux droits
+des aides : il paroit n&#39;avoir pas envisagé dans le vrai point de
+vûe les inconvéniens de ces droits ; il ne les regarde que du
+côté des consommateurs, qui sont libres, dit-il, de faire
+plus ou moins de dépense en vin. Mais ce plus ou moins de
+dépense est un objet important par rapport aux revenus des
+vignes, &amp; aux habitans occupés à les cultiver. Cette culture
+employe beaucoup d&#39;hommes, &amp; peut en employer encore
+davantage ; ce qui mérite une grande attention par rapport à
+la population : d&#39;ailleurs les terres employées en vignes sont
+d&#39;un grand produit. Le grand objet du gouvernement est de
+veiller à l&#39;augmentation des revenus, pour le bien de l&#39;état
+&amp; pour le fonds des impositions ; car les terres qui produisent
+beaucoup, peuvent soûtenir une forte imposition. Les vignes
+produisent tous les ans, ainsi chaque arpent peut fournir pour
+la taille le double de chaque arpent de terre cultivé en blé ;
+ce qui produiroit au roi à-peu-près autant que les droits des aides,
+qui ruinent un commerce essentiel au royaume, &amp; desolent 
+les vignerons par les rigueurs de la régie &amp; les vexations 
+des commis. Dans le système d&#39;une bonne culture, la
+taille bien régie doit être la principale source des revenus du
+roi. C&#39;est une partie qu&#39;on n&#39;a point approfondie, &amp; qui n&#39;est
+connue que par les abus destructifs contre lesquels on s&#39;est
+toûjours récrîé, &amp; auxquels on n&#39;a point encore remédié.</note>
+<i>V.</i> <sc><ref target="head:Impôts" type="search">Impôts</ref></sc>. Il paroit que l&#39;auteur tient aussi un peu au préjugé
+vulgaire par rapport à l&#39;industrie. L&#39;industrie procure la subsistance 
+à une multitude d&#39;hommes, par le payement de la
+main-d&#39;oeuvre ; mais elle ne produit point de revenus, &amp;
+elle ne peut se soûtenir que par les revenus des citoyens qui
+achetent les ouvrages des artisans. Il défend l&#39;imposition sur
+l&#39;industrie, dans la crainte de l&#39;anéantir ; mais l&#39;industrie subsistera 
+toûjours dans un royaume à raison des revenus, par
+rapport aux ouvrages nécessaires, &amp; par rapport aux ouvrages 
+de luxe : l&#39;imposition peut seulement en augmenter
+un peu le prix. Mais cette partie intéresse fort peu le commerce 
+extérieur, qui ne peut nous enrichir que par la vente
+de nos productions. L&#39;auteur est entierement décidé en faveur 
+des fermes générales bien ordonnées ; il y trouve les
+revenus du roi assûrés, des intérêts pour les seigneurs sous
+des noms empruntés, des fortunes honnêtes pour les fermiers
+&amp; sous-fermiers, des appointemens pour les commis ; mais
+il veut que les financiers ayent de la probité. Un autre avantage 
+qu&#39;il apperçoit dans les fermes, c&#39;est qu&#39;elles peuvent
+s&#39;augmenter sans nuire à l&#39;Agriculture, à l&#39;Industrie, ni au
+Commerce. Il est vrai du-moins que dans des royaumes incultes,
+c&#39;est peut-être le seul moyen pour tirer des revenus
+pour le souverain, &amp; des intérêts pour les seigneurs ; mais
+dans un état riche par ses biens &amp; par le commerce de ses
+productions, ce moyen onéreux n&#39;est pas nécessaire, &amp; les
+seigneurs soûtiennent leurs dépenses par les produits de leurs
+terres.
+<note id="n44">* Cantillon, <i>essai sur le Commerce, chap. v. vj</i>.
+</note>
+<note id="n45">(<i>z</i>) Nous ne supposons ici qu&#39;environ 10 millions de taille
+sur les fermiers des dixmes, mais le produit des dixmes n&#39;étant 
+point chargé des frais de culture il est susceptible d&#39;une
+plus forte taxe : ainsi la dixme qui est affermée, c&#39;est à-dire
+qui n&#39;est pas réunie aux cures, pouvant monter à plus de 100
+millions par le rétablissement, leur culture pourroit avec justice 
+être imposée à plus de 20 millions de taille. En effet,
+elle ne seroit pas, dans ce cas même, proportionnée à celle
+des cultivateurs ; &amp; ceux qui affermeroient leurs dixmes,
+profiteroient encore beaucoup sur le rétablissement de notre
+culture.
+</note>
+<note id="n46"><p>(<i>a</i>) Peut-être que la taille égale à la moitié du fermage
+paroitra forcée, &amp; cela peut être vrai en effet ; mais au moins 
+cette taille étant fixée, les fermiers s&#39;y conformeroient
+en affermant les terres. Voilà l&#39;avantage d&#39;une taille qui seroit 
+fixée : elle ne seroit point ruineuse, parce qu&#39;elle seroit
+prévûe par les fermiers ; au lieu que la taille arbitraire peut
+les ruiner, étant sujets à des augmentations successives pendant 
+la durée des baux, &amp; ils ne peuvent éviter leur perte
+par aucun arrangement sur le prix du fermage. Mais toutes
+les fois que le fermier connoitra par le prix du bail la taille
+quil doit payer, il ne laissera point tomber sur lui cette
+imposition, ainsi elle ne pourra pas nuire à la culture ; elle
+sera prise sur le produit de la ferme, &amp; la partie du revenu
+dû propriétaire en sera meilleure &amp; plus assûrée ; parce que
+la taille n&#39;apportera point d&#39;obstacle à la culture de son bien ;
+au contraire, la taille imposée sans regle sur le fermier, rend
+l&#39;état de celui-ci incertain ; son gain est limité par ses arrangemens 
+avec le propriétaire, il ne peut se prêter aux variations 
+de cette imposition : si elle devient trop forte, il ne peut
+plus faire les frais de la culture, &amp; le bien est dégradé. Il
+faut toûjours que l&#39;imposition porte sur le fonds, &amp; jamais
+sur la culture ; &amp; qu&#39;elle ne porte sur le fonds que relativement 
+à sa valeur &amp; à l&#39;état de la culture, &amp; c&#39;est le fermage
+qui en décide.</p>
+<p>On peut soupçonner que la taille proportionnelle aux baux
+pourroit occasionner quelqu&#39;intelligence frauduleuse entre les
+propriétaires &amp; les fermiers, dans l&#39;exposé du prix du fermage 
+dans les baux ; mais la sûreté du propriétaire exigeroit
+quelque clause, ou quelqu&#39;acte particulier inusité &amp; suspect
+qu&#39;il faudroit défendre : telle seroit, par exemple, une reconnoissance 
+d&#39;argent prêté par le propriétaire au fermier. Or
+comme il est très-rare que les propriétaires prêtent d&#39;abord
+de l&#39;argent à leurs fermiers, cet acte seroit trop suspect, surtout 
+si la date étoit dès les premiers tems du bail, ou si l&#39;acte
+n&#39;étoit qu un billet sous seing privé. En ne permettant point
+de telles conventions, on exclueroit la fraude. Mais on pourroit 
+admettre les actes qui surviendroient trois ou quatre ans
+après le commencement du bail, s&#39;ils étoient passés pardevant 
+notaire, &amp; s&#39;ils ne changeoient rien aux clauses du bail ;
+car ces actes postérieurs ne pourroient pas servir à des arrangemens 
+frauduleax à l&#39;égard du prix du fermage, &amp; ils peuvent 
+devenir nécessaires entre le propriétaire &amp; le fermier,
+à cause des accidens qui quelquefois arrivent aux bestiaux ou
+aux moissons pendant la durée d&#39;un bail, &amp; qui engageroient
+un propriétaire à secourir son fermier. L&#39;argent avancé sons
+la forme de pot-de-vin par le fermier, en diminution du prix
+du bail, est une fraude qu&#39;on peut reconnoître par le trop
+bas prix du fermage, par comparaison avec le prix des autres
+terres du pays. S&#39;il y avoit une différence trop marquée, il
+faudroit anéantir le bail, &amp; exclure le fermier.</p>
+</note>
+<note id="n47"><p>(<i>b</i>) On a vû par les produits des différentes cultures, que
+la taille convertie en dixme sur la culture faite avec le boeufs,
+monteroit à plus des deux tiers du revenu des propriétaires.
+Dailleurs la taille ne peut pas être fixée à-demeure sur le revenu 
+actuel de cette culture, parce que les terres ne produisant 
+pas les revenus qu&#39;elles donneroient lorsqu&#39;elles seroient
+mieux cultivées, il arriveroit qu&#39;elles se trouveroient taxées
+sept ou huit fois moins que celles qui seroient actuel ement
+en pleine valeur.</p>
+<p>Dans l&#39;état actuel de la grande culture, les terres produisent 
+davantage ; mais elles donnent la moitié moins de revenu
+qu&#39;on n&#39;en retireroit dans le cas de la liberté du commerce
+des <i>grains</i>. Dans l&#39;état présent, la dixme est égale à la moitie
+du fermage, la taille convertie en dixme seroit encore fort
+onéreuse ; mais dans le cas d&#39;exportation, les terres donneroient 
+plus de revenu ; la dixme re se trouveroit qu&#39;environ
+égale à un tiers du fermage. La taille convertie en dixme, ne
+seroit plus dans une proportion convenable avec les revenus ;
+car elle pourroit alors être portée à l&#39;égal de la moitié des revenus,
+&amp; être beaucoup moins onéreuse que dans l&#39;état présent ; 
+ainsi les proportions de la taille &amp; de la dixme avec le
+fermage sont fort différentes, selon les différens produits des
+terres. Dans la petite culture la taille seroit forte, si elle égaloit la moitié de la dixme ; elle seroit foible dans une bonne
+culture, si elle n&#39;étoit égale qu&#39;à la totalité de la dixme. Les
+proportions de la taille avec le produit sont moins discordantes 
+dans les différens états de culture ; mais toûjours le sont-elles 
+trop pour pouvoir se prêter à une regle générale : c&#39;est
+tout ensemble le prix des <i>grains</i>, l&#39;état de la culture, &amp; la
+qualité des terres, qui doivent former la base de l&#39;imposition
+de la taille à raison du produit net du revenu du propriétaire.
+C&#39;est ce qu&#39;il faut observer aussi dans l&#39;imposition du dixieme
+sur les terres cultivées avec des boeufs aux frais des propriétaires,
+car si on prenoit le dixieme du produit, ce seroit
+dans des cas la moitié du revenu, &amp; dans d&#39;autres le revenu
+tout entier qu&#39;on enleveroit.</p>
+</note>
+<note id="n48">(<i>c</i>) Les fermiers un peu aisés font prendre à leurs enfans 
+des professions dans les villes, pour les garantir de la milice ; 
+&amp; ce qu&#39;il y a de plus desavantageux à l&#39;agriculture,
+c&#39;est que non-seulement la campagne perd les hommes destinés 
+à être fermiers, mais aussi les richesses que leurs peres
+employoient à la culture de la terre. Pour arrêter ces effets
+destructifs, M. de la Galaisiere, intendant de Lorraine, a
+exempté de la milice par une ordonnance, les charretiers &amp;
+fils des fermiers, à raison des charrues que leur emploi exige.
+Les corvées dont on charge les paysans, sont très-desavantageuses à l&#39;état &amp; au roi, parce qu&#39;en réduisant les paysans à
+la misere, on les met dans l&#39;impuissance de soûtenir leurs petits 
+établissemens ; d&#39;où résulte un grand dommage sur les produits,
+sur la consommation &amp; sur les revenus : ainsi loin que
+ce soit une épargne pour l&#39;état de ménager de cette maniere
+les frais des travaux publics, il les paye très-cher, tandis
+qu&#39;ils lui coûteroient fort peu, s&#39;il les faisoit faire à ses frais ;
+c&#39;est-à-dire par de petites taxes générales dans chaque province,
+pour le payement des ouvriers. Toutes les provinces
+reconnoissent tellement les avantages des travaux qui facilitent 
+le Commerce, qu&#39;elles se prêtent volontiers à ces sortes
+de contributions, pourvû qu&#39;elles soient employées surement 
+&amp; fidelement à leurs destinations.
+</note>
+<note id="n49">* <i>Voyez le traité de la police des grains, par M.</i> Herbert.
+</note>
+<note id="n50">(<i>d</i>) <i>Avant. &amp; desavant. de la Grande-Bretagne</i>.
+</note>
+<note id="n51">(<i>e</i>) Si, malgré des raisons si décisives, on avoit encore de
+l&#39;inquiétude sur les disettes dans le cas d&#39;exportation, il est
+facile de se rassûrer ; car on peut, en permettant l&#39;exportation,
+permettre aussi l&#39;importation des blés étrangers sans
+exiger de droits : par-là le prix du blé ne pourra pas être
+plus haut chez nous que chez les autres nations qui en exportent.
+Or on sait par une longue expérience qu&#39;elles sont
+dans l&#39;abondance, &amp; qu&#39;elles éprouvent rarement de cherté; 
+ainsi la concurrence de leurs blés dans notre pays, empêcheroit 
+nos marchands de fermer leurs greniers dans l&#39;espérance 
+d&#39;une cherté, &amp; l&#39;inquiétude du peuple ne feroit
+point augmenter le prix du blé par la crainte de la famine ;
+ce qui est presque toûjours l&#39;unique cause des chertés excessives.
+Mais quand on le voudra, de telles causes disparoitront
+à la vûe des bateaux de blés étrangers qui arriveroient à Paris. Les chertés n&#39;arrivent toûjours que par le défaut de liberté 
+dans le commerce du blé. Les grandes disettes réelles
+sont très-rares en France, &amp; elles le sont encore plus dans
+les pays où la liberté du commerce du blé soûtient l&#39;Agriculture. En 1709, la gelée fit par-tout manquer la récolte:
+le septier de blé valoit en France 100 livres de notre monnoie 
+actuelle, &amp; on ne le vendoit en Angleterre que 43 liv.
+ou environ le double du prix ordinaire dans ces tems-là ;
+ainsi ce n&#39;étoit pas pour la nation une grande cherté. Dans la
+disette de 1693 &amp; 1694, le blé coûtoit moitié moins en Angleterre qu&#39;en France, quoique l&#39;exportation ne fut établie
+en Angleterre que depuis trois ou quatre ans : avant cette
+exportation, les Anglois essuyoient souvent de grandes chertés,
+dont nous profitions par la liberté du commerce de nos</note>
+<i>grains</i> sous les regnes d&#39;Henri IV. de Louis XIII. &amp; dans
+les premiers tems du regne de Louis XIV. L&#39;abondance &amp;
+le bon prix entretenoient les richesses de la nation : car le
+prix commun du blé en France étoit souvent 25 liv. &amp; plus de
+notre monnoie, ce qui formoit annuellement une richesse dans
+le royaume de plus de trois milliarts, qui réduits à la monnoie 
+de ces tems-là, étoient environ 1200 millions. Cette
+richesse est diminuée aujourd&#39;hui de cinq sixiemes. L&#39;exportation ne doit pas cependant être illimitée ; il faut qu&#39;elle soit,
+comme en Angleterre, interdite, lorsque le blé passe un prix
+marqué par la loi. L&#39;Angleterre vient d&#39;essuyer une cherté,
+parce que le marchand est contrevenu à cette regle par des
+abus &amp; des monopoles que le gouvemement a tolérés, &amp;
+qui ont toûjours de funestes effets dans un état qui a recours
+a des ressources si odieuses ; ainsi la nation a éprouvé une
+cherté dont l&#39;exportation même l&#39;avoit préservée depuis plus
+de soixante ans. En France, les famines sont fréquentes, parce
+que l&#39;exportation du blé y étoit souvent défendue ; &amp; que l&#39;abondance 
+est autant desavantageuse aux fermiers, que les disettes 
+sont funestes aux peuples. Le prétexte de remédier aux
+famines dans un royaume, en interceptant le commerce des
+<i>grains</i> entre les provinces, donne encore lieu à des abus qui
+augmentent la misere, qui détruisent l&#39;Agriculture, &amp; qui
+anéantissent les revenus du royaume.
+<note id="n52">(<i>f</i>) Les chemins ruraux ou de communication avec les
+grandes routes, les villes &amp; les marchés, manquent ou sont
+mauvais presque par-tout dans les provinces, ce qui est un
+grand obstacle a l&#39;activité du Commerce. Cependant il semble 
+qu&#39;on pourroit y remédier en peu d&#39;années ; les propriétaires 
+sont trop intéressés à la vente des denrées que produisent 
+leurs biens, pour qu&#39;ils ne voulussent pas contribuer aux
+dépenses de la réparation de ces chemins. On pourroit donc les
+imposer pour une petite taxe réglée au sou la livre de la taille
+de leurs fermiers, &amp; dont les fermiers &amp; les paysans sans
+bien seroient exempts. Les chemins à réparer seroient décidés 
+par MM. les intendan, dans chaque district, après avoir
+consulté les habitans, qut ensuite les seroient exécuter par
+des entrepreneurs. On répareroit d&#39;abord les endroit ; les plus
+impraticables, &amp; on perfectionneroit successivement les chemins ; 
+les fermiers &amp; paysans seroient ensuite chargés de
+les entretenir. On pourroit faire avec les provinces de pareils
+arrangemens pour les rivieres qui peuvent être rendues navigables.
+Il y a des provinces qui ont si bien reconnu l&#39;utilité
+de ces travaux, qu&#39;elles ont demandé elles-mêmes à être autorisées 
+à en faire les dépenses ; mais les besoins de l&#39;état ont
+quelquefois enlevé les fonds que l&#39;on y avoit destinés : ces
+mauvais succès ont étouffé des dispositions ti avantageuses au
+bien de l&#39;état.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27930" id="49:113" vol="7">
+<index type="head" value="FOUINE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat." />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>FOUINE</head>
+<p>
+FOUINE, <i>foyna</i>, s. f. (<i>Hist. nat.</i>) animal quadrupede.
+La <i>foüine, martes fagorum</i>, &amp; la marte, <i>martes
+abietum</i>, different l&#39;une de l&#39;autre en ce que la premiere 
+est plus brune, &amp; qu&#39;elle a la queue plus grande 
+&amp; plus noire. Sa gorge est blanche, &amp; celle de
+marte est jaune : les peaux des martes sont beaucoup
+plus cheres que celles des <i>foüines ;</i> ces animaux sont
+gros comme des chats, mais ils ont le corps plus alongé,
+les jambes &amp; les ongles plus courts. La <i>foüine</i> est
+<pb n="7:221" facs="V7/ENC_7-221.jpeg" />
+<milestone unit="column" n="1" />
+carnaciere ; elle tue les poules &amp; mange leurs oeufs ;
+elle est très-legere, &amp; elle s&#39;insinue, comme la belette,
+dans des ouvertures si étroites, que l&#39;on ne
+croiroit pas qu&#39;elle pût y entrer : aussi a-t-elle été mise 
+par les nomenclateurs dans le genre des belettes,
+<i>genus mustellinum vermineumve</i>, avec le putois, le furet,
+la genette, <i>&amp;c.</i> Les excrémens de la <i>fouine</i> ont
+une odeur forte &amp; pénétrante, que l&#39;on a comparée
+à celle du musc : cet animal est sauvage ; cependant
+on l&#39;apprivoise aisément lorsqu&#39;on l&#39;éleve dans les
+maisons. Raii <i>synop. meth. animalium quadr. Voyez</i>
+<sc><ref target="head:Quadrupede" type="search">Quadrupede</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

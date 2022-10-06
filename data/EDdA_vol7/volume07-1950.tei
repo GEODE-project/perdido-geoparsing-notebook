@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29404" id="52:167:1" vol="7">
+<index type="head" value="Gentilhomme à Drapeau" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod. &amp; Art milit." />
+<index type="normclass" value="Histoire moderne | Art militaire" />
+<index type="englishclass" value="Modern history | Military Arts" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Gentilhomme à Drapeau</head>
+<p>
+<sc>Gentilhomme à Drapeau</sc>, (<i>Hist. mod.</i> &amp;
+<i>Art milit.</i>) c&#39;étoit autrefois dans le régiment des
+gardes, un jeune homme de condition qui portoit
+l&#39;habit d&#39;officier dans chaque compagnie. Il n&#39;avoit
+point de paye ; c&#39;étoit une espece d&#39;officier surnuméraire,
+destiné à remplir les places d&#39;enseigne
+dans le régiment lorsqu&#39;elles devenoient vacantes.
+Il n&#39;y a plus aujourd&#39;hui de <i>gentilshommes à drapeau</i>
+dans ce régiment. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

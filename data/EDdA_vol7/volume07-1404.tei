@@ -1,0 +1,228 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28858" id="51:142:7" vol="7">
+<index type="head" value="Galerie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Peinture." />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="NA" />
+<head>Galerie</head>
+<p>
+<sc>Galerie</sc>, (<i>Peinture.</i>) terme d&#39;Architecture que la
+Peinture a emprunté pour exprimer une suite de
+compositions dont les <i>galeries</i> sont quelquefois ornées:
+<pb n="7:444" facs="V7/ENC_7-444.jpeg" />
+<milestone unit="column" n="1" />
+c&#39;est dans ce sens que l&#39;on appelle les tableaux dans
+lesquels Rubens a représenté l&#39;histoire de Marie de
+Médicis, la <i>galerie de Rubens</i> ou la <i>galerie du Luxembourg</i>.
+</p>
+<p>
+Si quelque chose peut rendre sensible les ressemblances 
+si bien établies entre la Poésie &amp; la Peinture,
+c&#39;est sans doute les rapports qu&#39;ont entre eux les différens 
+genres de productions de ces deux Arts. Je
+dirai <i>au mot</i> <sc><ref target="head:Genre" type="search">Genre</ref></sc>, les ressemblances principales
+qu&#39;on peut admettre dans les ouvrages de Peinture &amp;
+dans ceux de Poésie ; je vais en emprunter un seul
+trait, qui me paroît convenir particulierement à l&#39;<i>article</i> <sc><ref target="head:Galerie" type="search">Galerie</ref></sc>.
+</p>
+<p>
+Les compositions dont la Poésie se fait plus d&#39;honneur,
+sont les poëmes composés de plusieurs parties
+qui susceptibles d&#39;une beauté particuliere, exigent que
+cette beauté ait une juste convenance avec l&#39;ouvrage 
+entier, &amp; une liaison combinée avec les parties
+qui précedent ou qui suivent. Dans la Peinture, un
+seul tableau, quelque grand qu&#39;en soit le sujet, ne
+semble pas répondre parfaitement à cette idée:
+mais un assemblage de tableaux qui indépendamment
+des convenances particulieres auxquelles ils sont astreints,
+auroient entre eux des rapports d&#39;action &amp;
+d&#39;intérêt qui les lieroient les uns aux autres, seroit
+une image sensible des poëmes dont je viens de parler.
+Une <i>galerie</i> décorée par un célebre artiste, dans laquelle 
+les momens différens d&#39;une histoire sont partagés
+avec l&#39;intelligence nécessaire pour les rendre dépendans 
+les uns des autres, est à la Peinture ce qu&#39;est à
+la Poésie un poëme excellent, où tout marche &amp; se
+suit. Despréaux, ce législateur des Poëtes, ajoûte
+qu&#39;une composition de cette espece
+<lg>
+</lg></p>
+<p>
+<i>N&#39;est pas de ces travaux qu&#39;un caprice produit ;
+Il veut du tems, des soins</i> . . . . . .
+Il veut plus que tout cela, un véritable génie.
+</p>
+<p>
+Quelle machine, en effet, à concevoir, à disposer,
+à créer, à animer enfin! c&#39;est à des ouvrages de
+cette espece qu&#39;on reconnoît le caractere de divinité
+par lequel ce qu&#39;on appelle <i>génie</i> a mérité dans tous
+les âges &amp; méritera toûjours l&#39;hommage des hommes.
+Il est un point de perfection où les Arts sont tellement 
+au-dessus du méchanisme qui leur est propre,
+que leurs productions ne paroissent plus être que du
+ressort de l&#39;ame. Mais pour revenir à l&#39;art de la Peinture, je crois que les ouvrages de l&#39;espece de ceux
+qu&#39;on nomme <i>galerie</i>, ainsi que les plafonds, sont les
+moyens les plus propres à entretenir &amp; à étendre ses
+progrés. A la vérité, les occasions d&#39;entreprendre ces
+poëmes pittoresques sont encore rares ; mais il ne
+faut, pour les rendre plus communs, qu&#39;un simple
+desir du souverain, &amp; quelques exemples. Les arts
+plus goûtés &amp; plus connus, ont déjà fait naître une
+espece de luxe qui est prêt à l&#39;emporter sur l&#39;étalage
+de ces superfluités qui n&#39;ont d&#39;autre merite que de
+venir de fort loin. Il arrivera peut-être que non-seulement des princes, mais des particuliers, pour satisfaire 
+leurs penchans tolérés pour la somptuosité,
+donneront à des artistes distingués l&#39;occasion d&#39;entreprendre 
+des poëmes pittoresques de différens genres,
+dans lesquels le génie de la Peinture prenant un
+libre essor, étendra les limites de l&#39;art, &amp; les portera 
+aussi loin qu&#39;il pourra lui-même s&#39;élever. Eh, pourquoi 
+dirigeant à un but honnête &amp; même utile, ces
+effets de la prodigalité, ne consacreroit-on pas ces
+compositions à la loüange &amp; à l&#39;encouragement des
+vertus? Si les descendans de ces maisons illustres
+auxquelles leurs chefs ont transmis une juste gloire,
+peuvent faire représenter dans les <i>galeries</i> de leurs palais 
+les actions de ceux de leurs ayeux dont ils tiennent 
+une distinction plus flatteuse que celle qui ne
+provient que d&#39;une date éloignée, les particuliers
+moins illustres, en faisant retracer dans leurs maisons
+<milestone unit="column" n="2" />
+des actions moins éclatantes, pourroient rappeller
+les traits non moins honorables de la vie de leurs
+peres, de leurs amis, ou de leurs bienfaiteurs. Serions-nous moins sensibles à voir en action la générosité,
+la justice, l&#39;attendrissement vertueux, que la
+majesté, la gloire, la vengeance, &amp; ces inscriptions
+simples qu&#39;on liroit au bas d&#39;un tableau? le ressentiment 
+étouffé ou l&#39;amitié éprouvée, ne parleroient-elles 
+pas autant au coeur &amp; à l&#39;esprit dans leur genre,
+que celles dans lesquelles on annonce des ennemis 
+vaincus &amp; des places assiégées?
+</p>
+<p>
+Il seroit donc très-possible de lier ensemble les
+compositions des tableaux qui orneroient un simple
+cabinet, comme on voit unis &amp; dépendans les uns
+des autres, ceux qui décorent les <i>galeries</i> des rois ; &amp;
+des évenemens particuliers intéressans ou agréables,
+produiroient un plaisir vif à ceux qui connoîtroient
+particulierement ceux qui en seroient les acteurs, &amp;
+un intérêt assez grand aux personnes indifférentes,
+à l&#39;aide d&#39;une courte inscription.
+</p>
+<p>
+Il seroit aisé d&#39;appuyer cette idée de raisonnemens
+&amp; de preuves ; mais les raisonnemens &amp; les preuves
+influent peu sur des usages que souvent le simple hasard 
+introduit dans un tems ; tandis que dans un autre,
+des volumes de dissertations ne pourroient les faire
+adopter.
+</p>
+<p>
+L&#39;usage des <i>galeries</i> est encore d&#39;y rassembler des
+tableaux de différens artistes anciens &amp; modernes.
+Ces collections, loüables en elles-mêmes parce qu&#39;elles 
+contribuent à la conservation des chefs-d&#39;oeuvre des Arts, demanderoient sans doute une intelligence 
+quelquefois rare dans ceux qui les forment,
+pour que chaque composition fût dans la place la
+plus favorable aux beautés qui font son mérite. Il
+en est des tableaux comme des hommes ; ils se font
+valoir ou se détruisent par les diverses oppositions
+de leurs caracteres. Un coloriste rigoureux est un
+voisin redoutable pour un dessinateur fin &amp; correct,
+qui n&#39;a pas assez entendu la magie de la couleur. Un
+homme dont l&#39;esprit est plein d&#39;images &amp; la conversation 
+brillante, n&#39;obscurcit-il pas celui dont la raison
+moins colorée, pour ainsi dire, se montre sous des formes 
+justes, mais avec moins d&#39;éclat? <i>Article de M.
+<sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

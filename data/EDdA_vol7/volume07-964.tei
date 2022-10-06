@@ -1,0 +1,151 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28418" id="50:159:9" vol="7">
+<index type="head" value="Froid" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Belles-Lettres." />
+<index type="normclass" value="Belles-Lettres" />
+<index type="englishclass" value="Literature" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="NA" />
+<head>Froid</head>
+<p>
+<sc>Froid</sc>, (<i>Belles-Lettres.</i>) on dit qu&#39;un morceau de
+poésie, d&#39;éloquence, de musique, un tableau même 
+est <i>froid</i>, quand on attend dans ces ouvrages une
+expression animée qu&#39;on n&#39;y trouve pas. Les autres
+arts ne sont pas si susceptibles de ce défaut. Ainsi
+L&#39;Architecture, la Géométrie, la Logique, la Métaphysique, tout ce qui a pour unique mérite la justesse,
+ne peut être ni échauffé ni refroidi. Le tableau
+de la famille de Darius peint par Mignard, est très<gap type="hypheneol" />
+<i>froid</i>, en comparaison du tableau de Lebrun, parce
+qu&#39;on ne trouve point dans les personnages de Mignard, cette même affliction que Lebrun a si vivement 
+exprimée sur le visage &amp; dans les attitudes des
+princesses persanes. Une statue même peut être <i>froide</i>. On doit voir la crainte &amp; l&#39;horreur dans les traits
+d&#39;une Andromede, l&#39;effort de tous les muscles &amp;
+une colere mêlée d&#39;audace dans l&#39;attitude &amp; sur le
+front d&#39;un Hercule qui soûleve Anthée.
+</p>
+<p>
+Dans la Poésie, dans l&#39;éloquence, les grands mouvemens 
+des passions deviennent <i>froids</i> quand ils sont
+exprimés en termes trop communs, &amp; dénués d&#39;imagination.
+C&#39;est ce qui fait que l&#39;amour qui est si vif
+dans Racine, est languissant dans Campistron son
+imitateur.
+</p>
+<p>
+Les sentimens qui échappent à une ame qui veut
+les cacher, demandent au contraire les expressions
+les plus simples. Rien n&#39;est si vif, si animé que ces
+vers du Cid, <i>va, je ne te hais point.... tu le dois.... je</i>
+<milestone unit="column" n="2" />
+<i>ne puis</i>. Ce sentiment deviendroit <i>froid</i> s&#39;il étoit relevé 
+par des termes étudiés.
+</p>
+<p>
+C&#39;est par cette raison que rien n&#39;est si <i>froid</i> que
+le style empoulé. Un héros dans une tragédie dit qu&#39;il
+a essuyé une tempête, qu&#39;il a vû périr son ami dans
+cet orage. Il touche, il intéresse s&#39;il parle avec douleur 
+de sa perte, s&#39;il est plus occupé de son ami que
+de tout le reste. Il ne touche point, il devient <i>froid</i>,
+s&#39;il fait une description de la tempête, s&#39;il parle de
+<i>source de feu bouillonnant sur les eaux, &amp; de la foudre
+qui gronde &amp; qui frappe à sillons redoublés la terre &amp;
+l&#39;onde</i>. Ainsi le style <i>froid</i> vient tantôt de la stérilité,
+tantôt de l&#39;intempérance des idées ; souvent d&#39;une
+diction trop commune, quelquefois d&#39;une diction
+trop recherchée.
+</p>
+<p>
+L&#39;auteur qui n&#39;est <i>froid</i> que parce qu&#39;il est vif à
+contre-tems, peut corriger ce défaut d&#39;une imagination 
+trop abondante. Mais celui qui est <i>froid</i> parce
+qu&#39;il manque d&#39;ame, n&#39;a pas de quoi se corriger. On
+peut modérer son feu. On ne sauroit en acquérir.
+<i>Article de M. de <sc>Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

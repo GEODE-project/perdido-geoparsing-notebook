@@ -1,0 +1,215 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28641" id="51:23" vol="7">
+<index type="head" value="FUSILIERS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art militaire" />
+<index type="normclass" value="Art Militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="s.m.pl." />
+<head>FUSILIERS</head>
+<p>
+FUSILIERS, s. m. pl. dans l&#39;<i>Art militaire</i>, ce sont
+des soldats armés de fusils, qu&#39;ils portent en bandouliere.
+<i>Voyez ci-devant</i> <sc><ref target="head:Fusil" type="search">Fusil</ref></sc>.
+</p>
+<p>
+Il y a eu un régiment de <i>fusiliers</i> créé en 1671,
+pour la garde de l&#39;artillerie. On arma ce régiment
+de fusils au lieu de mousquets, qui étoient alors l&#39;arme
+commune presqu&#39;à tous les corps d&#39;infanterie. Outre
+l&#39;épée, on donne aussi des bayonnettes aux soldats:
+c&#39;est le premier régiment dont les soldats ayent été
+ainsi armés.
+</p>
+<p>
+Ce régiment commença par être composé de quatre 
+compagnies, chacune de cent hommes, que l&#39;on
+tira des autres troupes ; les officiers furent pris dans
+le régiment du roi. La premiere de ces quatre compagnies 
+s&#39;appelloit la <i>compagnie des canonniers du grand-maître ;</i> elle étoit en effet composée de canonniers:
+mais par une ordonnance de Louis XIV. elle fut
+remplie de soldats travailleurs, comme les trois autres ; 
+elle étoit commandée par le commandant du
+second bataillon.
+</p>
+<p>
+Une autre de ces compagnies étoit composée uniquemens 
+de sapeurs, c&#39;est-à-dire des gens propres
+aux travaux des tranchées. On y mettoit aussi autant
+qu&#39;on pouvoit des tailleurs de pierres, des maçons,
+&amp; d&#39;autres gens capables de travailler aux mines ; elle 
+étoit commandée par le lieutenant-colonel du régiment,
+&amp; principalement employée aux travaux de
+la sape.
+</p>
+<p>
+Les deux autres furent mises dans la suite à la tête
+du troisieme &amp; quatrieme bataillon, &amp; étoient composées 
+d&#39;ouvriers en bois &amp; en fer : on s&#39;en servoit
+pour faire les ponts &amp; autres travaux de cette espece.
+Ce corps, composé d&#39;abord de ces quatre compagnies 
+en 1671, fut augmenté en 1672 avant la
+guerre de Hollande, de vingt-deux compagnies : on
+fit un régiment de deux bataillons, qu&#39;on nomma le
+<i>régiment des fusiliers:</i> en 1677, on fit à ce régiment
+une seconde augmentation de quatre bataillons, de
+chacun quinze compagnies, lesquelles furent tirées
+des vieux régimens. Ces quatre bataillons prirent la
+queue des deux premiers, &amp; le rang entr&#39;eux par l&#39;ancienneté 
+du régiment d&#39;où ils avoient été tirés.
+</p>
+<p>
+En 1679, après la paix de Nimegue, on réforma
+le sixieme de ces bataillons. Peu de tems après, &amp; la
+même année, on réforma six compagnies de canonniers,
+dont les soldats furent tirés des troupes. Quatre de ces compagnies furent données à quatre anciens 
+capitaines des deux premiers bataillons : les
+deux premieres furent données aux deux plus anciens 
+des quatre derniers bataillons.
+</p>
+<p>
+En 1689 on fit aussi une augmentation de 6 compagnies 
+de canoniers, lesquelles furent tirées des troupes,
+&amp; les officiers tirés du régiment ; de sorte qu&#39;il y
+avoit 12 compagnies de canoniers, qui n&#39;étoient point
+enbataillonnées. Cette même année, le troisieme &amp;
+le quatrieme bataillon furent augmentés de chacun
+<milestone unit="column" n="2" />
+une compagnie de grenadiers. En 1691, le roi ayant
+mis les bataillons de toute l&#39;infanterie à treize compagnies 
+au lieu de seize, on prit les trois dernieres
+compagnies de chacun des trois derniers bataillons
+de ce régiment, auxquelles on ajoûta trois autres
+compagnies tirées des troupes ; ce qui fit douze compagnies.
+Ces douze compagnies en fournirent une
+de grenadiers : &amp; de tout cela, on en fit un troisieme 
+bataillon, conformément au réglement du roi ;
+parce que le sieur de Bouvincourt, qui fut choisi
+pour le commander, se trouva le troisieme capitaine
+du régiment. En 1693; le roi ordonna que le régiment 
+seroit appellé desormais le <i>régiment roy al de l&#39;artillerie:</i> les commissions des officiers sont du roi, mais
+elles sont adressées au grand-maître de l&#39;artillerie,
+comme au colonel-lieutenant du régiment. <i>Mém.
+d&#39;artillerie de</i> Saint-Remi.
+</p>
+<p>
+Le régiment royal de l&#39;artillerie est augmenté depuis 
+1721 du régiment des Bombardiers, qui y fut
+alors incorporé, pour ne faire qu&#39;un seul &amp; même
+corps avec ce régiment. <i>Voyez</i> <sc><ref target="head:Bombardiers" type="search">Bombardiers</ref></sc>. Il
+fut divisé en cinq bataillons qui furent placés à Strasbourg, Grenoble, la Fere, &amp; Perpignan : celui de
+cette derniere ville a été transféré depuis à Besançon.
+</p>
+<p>
+Ces bataillons sont composés de huit compagnies
+de cent hommes chacune, non compris un capitaine
+en premier &amp; un capitaine en second, deux lieutenans,
+&amp; deux sous-lieutenans : chaque compagnie est
+divisée en trois escouades.
+</p>
+<p>
+La premiere qui est double, est composée de vingt-quatre 
+canonniers ou bombardiers, &amp; de vingt-quatre
+soldats apprentis.
+</p>
+<p>
+La seconde est composée de douze mineurs ou sapeurs,
+&amp; de douze apprentis.
+</p>
+<p>
+Et la troisieme est composée de douze ouvriers en
+fer &amp; en bois, &amp; autres propres à l&#39;usage de l&#39;artillerie,
+&amp; de douze apprentis. Il y a aussi deux cadets
+&amp; deux tambours dans chaque compagnie.
+</p>
+<p>
+Les bataillons sont indépendans les uns des autres ;
+les officiers de différens bataillons ne roulent point
+ensemble pour les emplois ; chacun monte à ceux de
+son bataillon. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

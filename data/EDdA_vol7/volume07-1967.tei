@@ -1,0 +1,387 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29421" id="52:173" vol="7">
+<index type="head" value="GÉODÉSIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ordre encyclop. Entendement. Raison, Philosoph. Science de la Nat. Mathématiques. Géométrie. Géodésie." />
+<index type="normclass" value="Géodésie" />
+<index type="englishclass" value="Geodesy " />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.f." />
+<head>GÉODÉSIE</head>
+<p>
+GÉODÉSIE, s. f. (<i>Ordre encyclop. Entendement.
+Raison, Philosoph. Science de la Nat. Mathématiques.
+Géométrie. Géodésie.</i>) c&#39;est proprement cette partie de
+la Géométrie pratique qui enseigne à diviser &amp; partager 
+les terres &amp; les champs entre plusieurs propriétaires.
+<i>Voyez ci-après</i> <sc><ref target="head:Géométrie" type="search">Géométrie</ref></sc>.
+</p>
+<p>
+Ce mot vient de deux mots grecs, <foreign lang="greek">γῆ</foreign> <i>terra</i>, terre,
+&amp; <foreign lang="greek">δαίω</foreign>, <i>divido</i>, je divise.
+</p>
+<p>
+Ainsi la <i>Géodésie</i> est proprement l&#39;art de diviser
+une figure quelconque en un certain nombre de parties.
+Or cette opération est toûjours possible, ou
+exactement, ou au-moins par approximation. Si la
+figure est rectiligne, on la divisera d&#39;abord en triangles,
+qui auront un sommet commun pris où l&#39;on
+voudra, soit au-dedans de la figure, soit sur la circonférence.
+On calculera par les méthodes connues
+l&#39;aire de chacun de ces triangles, &amp; par conséquent
+on aura la valeur de chaque partie de la surface,
+&amp; on connoîtra par-là de quelle maniere il faut diviser 
+la figure ; toute la difficulté se réduira dans
+tous les cas à diviser un triangle en raison donnée.
+C&#39;est ce qu&#39;il est nécessaire de développer un peu
+plus au long.
+</p>
+<p>
+Soit proposé, par exemple, de diviser un hexagone 
+par une ligne qui parte d&#39;un de ses angles,
+en deux parties qui soient entr&#39;elles comme <i>m</i> à <i>n ;</i>
+on divisera d&#39;abord cet hexagone en quatre triangles
+par des lignes qui partent du point donné; ensuite
+soit <i>A</i> l&#39;aire de l&#39;hexagone, &amp; <i>pA, qA, rA, sA</i>,
+l&#39;aire de chacun des triangles ; comme les aires des
+deux parties cherchées doivent être <i>mA</i> &amp; <i>nA</i>,
+supposons que <gap type="formula" />, il s&#39;ensuit qu&#39;il faudra 
+prendre dans le triangle <i>qA</i> une partie <i>xA</i>, telle
+que <gap type="formula" /> ; d&#39;où l&#39;on tire (<i>p+q</i>)<i>n</i><gap type="hypheneol" />
+(<i>r+s</i>)<i>m=mx+nx</i>, &amp; par conséquent <gap type="formula" />.
+Il s&#39;agit donc de diviser le
+triangle <i>qA</i> en deux parties <i>xA</i> &amp; (<i>q-x</i>)<i>A</i>, qui
+soient entr&#39;elles comme <i>x</i> est à <i>q-x</i>, &amp; par conséquent 
+en raison donnée, puisque <i>x</i> est connue par
+l&#39;équation qu&#39;on vient de trouver. Or pour cela il
+suffit de diviser le côté de l&#39;hexagone qui est la base
+de ce triangle <i>qA</i>, en deux parties, qui soient entre
+elles comme <i>x</i> à <i>q-x ;</i> opération très-facile. <i>Voyez</i>
+<sc><ref target="head:Triangle" type="search">Triangle</ref></sc>.
+</p>
+<p>
+Le problème n&#39;auroit pas plus de difficulté, si le
+point donné étoit non au sommet des angles, mais
+sur un des côtés de la figure à volonté.
+</p>
+<p>
+Si la figure que l&#39;on propose de diviser est curviligne,
+on peut quelquefois la diviser géométriquement 
+en raison donnée, mais cela est rare ; &amp; en général 
+la méthode la plus simple dans la pratique consiste 
+à diviser la circonférence de la figure en parties 
+sensiblement rectilignes, à regarder par conséquent 
+la figure comme rectiligne, &amp; à la diviser ensuite 
+selon la méthode précédente.
+</p>
+<p>
+Quelquefois, au lieu de diviser un triangle en
+raison donnée par une ligne qui passe par le sommet,
+<pb n="7:607" facs="V7/ENC_7-607.jpeg" />
+<milestone unit="column" n="1" />
+il s&#39;agit de le diviser en raison donnée par une ligne
+qui passe par un point placé hors du sommet, soit
+sur l&#39;un des côtés, soit au-dedans du triangle, soit
+au-dehors ; alors le problème est un peu plus difficile ; 
+mais la Géométrie, aidée de l&#39;Analyse, fournit
+des moyens de le résoudre. <i>Voyez dans l&#39;Application
+de l&#39;Algebre à la Géométrie</i> de M. Guisnée la solution
+des problemes du second degré, vous y trouverez
+celui dont il s&#39;agit. Il est résolu &amp; expliqué fort en
+détail ; &amp; il servira, comme on le va voir, à diviser 
+une figure quelconque en raison donnée par une
+ligne menée d&#39;un point donné quelconque.
+</p>
+<p>
+Si le point par lequel passe la ligne qui doit diviser 
+une figure quelconque en raison donnée, est situé 
+au-dedans ou au-dehors de la figure, alors il est
+évident que le probleme peut avoir plusieurs solutions,
+au-moins dans un grand nombre de cas, &amp;
+quelquefois être impossible. Pour le sentir, il suffit
+de remarquer que si la figure, par exemple, est réguliere 
+&amp; d&#39;un nombre pair de côtés, que le point
+donné soit le centre, &amp; qu&#39;il faille diviser la figure
+en deux parties égales, le probleme est indéterminé,
+puisque toute ligne tirée par le centre résoudra
+ce probleme ; que si les deux parties doivent être
+inegales, le problème est impossible ; &amp; que si dans
+ce dernier cas le point est placé hors de la figure,
+soit réguliere, soit irréguliere, le probleme a toûjours 
+deux solutions, dont l&#39;une s&#39;exécutera par une
+ligne tirée à droite, &amp; l&#39;autre à gauche, toutes deux
+partant du point donne. Or menant du point donné
+à tous les angles de la figure des lignes, qui prolongées,
+s&#39;il est nécessaire, au-dedans de la figure, partagent 
+cette figure en quadrilateres, ce qui est toûjours 
+possible, on voit évidemment que, comme
+la question s&#39;est réduite dans le premier cas a partager 
+un triangle en raison donnée, par une ligne
+qui parte d&#39;un point donné; de même la question se
+reduit ici, après avoir calculé séparément les surfaces 
+de tous ces quadrilateres, à partager l&#39;un d&#39;eux
+en raison donnée par une ligne tirée du point donné.
+Il y a donc ici trois choses à trouver, 1°. quel
+est le quadrilatere qu&#39;il faut partager ; 2°. quelle est
+la raison suivant laquelle il faut le partager ; 3°.
+comment on partage un quadrilatere en raison donnée 
+par une ligne menée d&#39;un point donne, qui se
+trouve au concours des deux côtés du quadrilatere.
+Les deux premiers de ces problèmes se résoudront
+par une methode exactement semblable à celle
+qu&#39;on a donnée ci-dessus, pour le cas de la division
+de la figure en triangles. Le troisieme demande un
+calcul analytique fort simple, &amp; tout-à-fait analogue 
+à celui que M. Guisnée a employé pour résoudre 
+le même problème par rapport au triangle. Nous
+y renvoyons le lecteur, afin de lui laisser quelque
+sujet de s&#39;exercer à l&#39;analyse géométrique ; mais si
+l&#39;on veut se dispenser de cette peine, on pourra réduire 
+le problème dont il s&#39;agit, au cas de la division
+du triangle de la maniere suivante. On prolongera
+les deux côtés du quadrilatere qui ne concourront
+pas au point donné, &amp; on formera un triangle extérieur 
+au quadrilatere qui aura un des autres côtés
+du quadrilatere pour base, &amp; qui sera avec le quadrilatere 
+en raison donnée de <i>k</i> à 1, <i>k</i> étant un nombre 
+quelconque entier ou rompu. Cela posé, scient
+<i>pA, qA</i> les deux parties dans lesquelles il faut diviser 
+le quadrilatere, il est évident que le quadrilatere 
+total sera <i>pA+qA ;</i> que le triangle sera
+<i>k</i>(<i>pA+qA</i>), &amp; que le triangle joint au quadrilatere
+(ce qui formera un nouveau triangle qui aura le quatrieme 
+côté du quadrilatere pour base), sera (<i>k</i>+1)
+(<i>pA+qA</i>). Il s&#39;agit donc, en menant une ligne
+par le point donné, de diviser ce triangle en deux
+parties, dont l&#39;une soit <i>k</i>(<i>pA+qA</i>)+<i>pA</i>, &amp;
+l&#39;autre <i>qA ;</i> c&#39;est-à-dire que le problème se réduit à
+<milestone unit="column" n="2" />
+diviser un triangle connu &amp; donné, en deux parties
+qui soient entr&#39;elles comme <i>k</i>(<i>p+q</i>)+<i>p</i> est à <i>q</i>,
+par une ligne qui passe par un point donné hors du
+triangle : or on a dit ci-dessus comment on peut résoudre 
+ce problème.
+</p>
+<p>
+Si le point donné est placé dans la figure, on menera 
+par ce point à tous les angles de la figure, des
+lignes terminées de part &amp; d&#39;autre à cette figure ; &amp;
+on divisera par ce moyen la figure en triangles dont
+chacun aura son opposé au sommet. Cela posé, on
+cherchera les aires de ces triangles, &amp; on aura les
+aires de chaque partie de la figure terminées par une
+des lignes tirées du point donné; lignes qu&#39;on peut
+appeller, quoiqu&#39;improprement, <i>diametres de la figure</i>. Connoissant ces aires, on cherchera quels sont
+les deux diametres voisins qui divisent la figure, l&#39;un
+en plus grande raison, l&#39;autre en plus petite raison
+que la raison donnée ; &amp; par-là on saura que la ligne
+cherchée doit passer dans l&#39;angle formé par ces deux
+diametres : &amp; comme il peut y avoir plusieurs diametres 
+voisins qui divisent ainsi la figure, l&#39;un en
+plus grande raison, l&#39;autre en plus petite raison que
+la raison donnée, il s&#39;ensuit que le probleme aura
+autant de solutions possibles qu&#39;il y aura de tels diametres.
+Cela posé, soit <i>A</i> l&#39;aire de la figure totale ;
+<i>pA</i> l&#39;aire d&#39;un des triangles formé par les deux diametres 
+voisins ; <i>qA</i> l&#39;aire du triangle opposé au sommet 
+de celui-ci, &amp; que je suppose lui être inférieur ;
+<i>mA</i> l&#39;aire de la partie de la figure qui est à droite de
+ces deux triangles ; <i>nA</i> l&#39;aire de la partie qui est à
+gauche, on aura <i>mA+pA+nA+qA</i> pour l&#39;aire
+de la figure entiere ; ensorte que <i>m+p+n+q</i> sera=1, &amp; il sera question de mener entre les deux
+diametres donnés, &amp; par le point donné où ces diametres 
+se coupent, une ligne qui divise les deux
+triangles opposés au sommet en deux parties ; savoir
+<i>xA</i> &amp; <i>pA-xA</i>, d&#39;une part, &amp; de l&#39;autre <i>zA</i> &amp;
+<i>qA-zA</i>, &amp; qui soient telles que <i>mA+pA-xA
++zA</i> soit à <i>nA+qA-zA+xA</i> en raison donnée,
+par exemple de <i>s</i> à 1, que nous supposons être
+la raison demandée. On aura donc, 1° <i>m+p-x
++z:n+q-z+x::s.</i> 1; ce qui donnera une premiere 
+équation entre <i>x</i> &amp; <i>z:</i> or comme les triangles
+<i>xA</i> &amp; <i>zA</i> sont opposés au sommet, &amp; font partie
+des triangles donnés &amp; aussi opposés au sommet <i>pA</i>
+&amp; <i>qA</i>, on trouvera facilement une autre équation
+générale entre <i>x</i> &amp; <i>z</i>, puisque <i>xA</i> étant connue,
+<i>zA</i> le sera nécessairement ; c&#39;est pourquoi on aura
+deux équations en <i>x</i> &amp; en <i>z</i>, par le moyen desquelles 
+on trouvera <i>x</i>, &amp; il ne s&#39;agira plus que de diviser
+la base du triangle <i>pA</i> en raison de <i>x</i> à <i>p ;</i> ce qui donnera 
+la solution complete du problème.
+</p>
+<p>
+S&#39;il falloit diviser une figure en raison donnée, par
+une ligne qui ne passât pas par un point donné, mais
+qui fût parallele à une ligne donnée, on commenceroit 
+par diviser la figure en trapézoïdes, par des lignes 
+menées de tous les angles de cette figure, parallelement 
+à la ligne donnée, &amp; il est évident qu&#39;il
+ne s&#39;agiroit plus que de diviser en raison donnée un
+de ces trapézoïdes, ce qui seroit très-facile.
+</p>
+<p>
+Voilà la méthode génerale pour diviser une figure
+en raison donnée, méthode qui réussira infailliblement 
+dans tous les cas ; mais cette méthode peut
+être abregée en plusieurs occasions, selon la nature
+de la figure proposée. Ceux qui voudront en trouver
+des exemples, n&#39;auront qu&#39;à lire le <i>traité de Géométrie sur le terrein</i>, de M. le Clerc, imprimé à la suite
+de sa <i>Géométrie pratique</i>, ou <i>pratique de la Géométrie
+sur le papier &amp; sur le terrein</i>, par le même auteur. Ils
+trouveront dans le <i>chap. v.</i> de ce <i>traité de Géométrie</i>,
+des pratiques abrégées pour diviser dans plusieurs
+cas les figures données en différentes parties. Ce
+<i>chap. v.</i> a pour titre, <i>division des plans ;</i> le <i>chap. jv.</i>
+qui le précede, &amp; qui mérite aussi d&#39;être lû, a pour
+<pb n="7:608" facs="V7/ENC_7-608.jpeg" />
+<milestone unit="column" n="1" />
+objet la <i>réduction</i> ou <i>transfiguration des plans</i>, &amp; l&#39;auteur 
+y enseigne principalement à changer en triangle
+une figure donnée ; ce qu&#39;il exécute pour l&#39;ordinaire
+fort simplement au moyen de cette proposition, que
+deux triangles de même base &amp; entre mêmes paralleles,
+sont égaux. Un coup-d&#39;oeil jetté sur les propositions 
+de ce <i>chap. jv.</i> en apprendra plus que tout
+ce que nous en pourrions dire. Cette réduction ou
+changement des figures en triangles est fort utile à
+l&#39;auteur, dans le <i>chapitre v.</i> dont il s&#39;agit principalement 
+ici, pour la division des figures ; &amp; il y fait
+aussi un grand usage de l&#39;égalité des triangles de même 
+base entre mêmes paralleles. Le <i>chap. vj.</i> a aussi
+rapport à la matiere dont nous traitons : il a pour
+titre, <i>comment on peut assembler les plans, les retrancher 
+les uns des autres, &amp; les aggrandir ou les diminuer
+selon quelque quantité proposée</i>. L&#39;auteur résout les
+problemes relatifs à cet objet, avec la même élégance que ceux des deux chapitres qui précedent.
+</p>
+<p>
+Cet ouvrage de M. le Clerc, une des meilleures
+Géométries pratiques que nous connoissions, est devenu 
+rare ; &amp; les gravûres agréables dont l&#39;auteur
+l&#39;a accompagné, le rendent assez cher, eu égard à
+son volume : il seroit à souhaiter qu&#39;on le réimprimât,
+en supprimant les gravûres pour diminuer le
+prix du livre ; l&#39;utilité de l&#39;ouvrage, &amp; sa clarté, en
+assûreroient le débit. L&#39;édition que nous avons sous
+les yeux, est celle d&#39;Amsterdam, en 1694, qu&#39;on
+pourroit prendre pour modele. On pourroit même
+se contenter, pour rendre l&#39;ouvrage encore moins
+cher, de réimprimer le seul <i>traité de Géométrie sur le
+terrein ;</i> car la Géométrie pratique qui le précede, &amp;
+qui est imprimée à Amsterdam en 1691, ne contient
+rien ou presque rien qu&#39;on ne trouve dans la plûpart
+des élémens de Géométrie pratique.
+</p>
+<p>
+Quoique le mot <i>Géodésie</i> ait principalement l&#39;acception 
+que nous lui avons donnée dans cet article,
+de la science de partager les terres, cependant il se
+prend aussi assez communément &amp; en général pour
+la science pratique de la mesure des terreins, soit
+quant à leur circonférence, soit quant à leur surface ; 
+mais cette derniere science s&#39;appelle encore plus
+communément <i>arpentage. Voyez</i> <sc><ref target="head:Arpentage" type="search">Arpentage</ref></sc>.
+</p>
+<p>
+La <i>Géodésie</i> prise en ce dernier sens, le plus étendu
+qu&#39;on puisse lui donner, n&#39;est proprement autre chose
+que la Géométrie pratique, dont elle embrasse toutes 
+les parties ; ainsi les opérations géométriques ou
+trigonométriques nécessaires pour lever une carte,
+soit en petit, soit en grand, seront en ce dernier sens
+des opérations de <i>Géodésie</i>, ou pourront être regardées 
+comme telles. C&#39;est pour cette raison que quelques 
+auteurs ont appellé <i>opérations géodésiques</i>, celles
+qu&#39;on fait pour trouver la longueur d&#39;un degré terrestre 
+du méridien, ou, en général, d&#39;une portion
+quelconque du méridien de la terre. Ils les appellent
+ainsi pour les distinguer des <i>opérations astronomiques</i>,
+que l&#39;on fait pour trouver l&#39;amplitude de ce même
+degré. <i>Voyez</i> 
+<sc><ref target="head:Degré" type="search">Degré</ref>, <ref target="head:Figure de la Terre" type="search">Figure de la Terre</ref>, <ref target="head:Géographie" type="search">Géographie</ref>, <ref target="head:Géographique" type="search">Géographique</ref></sc>, <i>&amp;c.</i> (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

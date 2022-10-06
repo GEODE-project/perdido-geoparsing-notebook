@@ -1,0 +1,101 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27772" id="49:46:14" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Cartonnier." />
+<index type="normclass" value="Cartonnier" />
+<index type="englishclass" value="Cardboard working" />
+<index type="generatedclass" value="Cartonnier" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>* Forme</sc>, (<i>Cartonnier.</i>) espece de chassis de bois
+fait d&#39;un quadre &amp; de traverses, &amp; couvert de fils de
+laiton. Il n&#39;est pas fort différent de la <i>forme</i> des Papetiers ; le laiton en est seulement plus fort, &amp; la <i>forme</i>
+du Papetier a un rebord. La <i>forme</i> du Cartonnier sert
+à lever les feuilles de carton. <i>Voyez les <ref target="XPL:4785" type="platelink">Pl. du Cartontonnier</ref></i>, &amp; les <i>articles</i> <sc><ref target="head:Carton" type="search">Carton</ref> <i>&amp;</i> <ref target="head:Papeterie" type="search">Papeterie</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

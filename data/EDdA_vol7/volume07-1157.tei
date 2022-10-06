@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28611" id="51:16:2" vol="7">
+<index type="head" value="Fuseau" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Robert de Vaugondy" />
+<index type="shortauth" value="Robert de Vaugondy" />
+<index type="kafnum" value="115" />
+<index type="kafauth" value="Robert de Vaugondy, Didier (1723-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="NA" />
+<head>Fuseau</head>
+<p>
+<sc>Fuseau</sc>, (<i>Géog.</i>) l&#39;on nomme ainsi chaque partie 
+d&#39;une carte géographique ou uranographique
+destinée à être appliquée sur une boule, pour former 
+un globe terrestre ou céleste ; ou pour s&#39;exprimer 
+géométriquement, un <i>fuseau</i> de globe est un
+espace renfermé entre deux courbes égales &amp; semblables,
+dont le sommet de chacune se trouve sur
+l&#39;équateur du globe terrestre, ou sur l&#39;écliptique du
+globe céleste. L&#39;axe de chacune de ces deux courbes 
+est la moitié de la partie de l&#39;équateur ou de l&#39;écliptique,
+qui forme la largeur du <i>fuseau</i>. Les abscisses 
+de cet axe, en partant du sommet, croissent
+comme les sinus verses des distances des paralleles
+à l&#39;équateur ou à l&#39;écliptique : &amp; les ordonnées à cet
+axe, en partant du même sommet, suivent la progression 
+arithmétique 1, 2, 3, &amp; des distances de ces
+mêmes paralleles à l&#39;équateur, de sorte que la plus
+grande double ordonnee, commune à ces deux courbes,
+est le développement même du méridien du
+globe. L&#39;on voit que cette courbe n&#39;est pas une portion 
+de cercle, comme le prétend Glareau dans sa
+Géographie, qui, pour tracer des <i>fuseaux</i>, fait prendre 
+pour rayon les 3/4 de la circonserence de l&#39;équateur.
+<i>Voyez</i> <sc><ref target="head:Globe" type="search">Globe</ref></sc>. <i>Cet article est de M. <sc>Robert de
+Vaugondy</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

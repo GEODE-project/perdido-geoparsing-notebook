@@ -1,0 +1,920 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27489" id="48:17:1" vol="7">
+<index type="head" value="Foie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physiologie." />
+<index type="normclass" value="Physiologie" />
+<index type="englishclass" value="Physiology" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Foie</head>
+<p>
+<sc>Foie</sc>, (<i>Physiologie.</i>) Les anciens n&#39;ayant pas connoissance 
+des vaisseaux qui servent à porter le chyle
+des premieres voies dans les secondes, &amp; ayant
+trouvé tout près des principaux organes de la digestion,
+un gros viscere d&#39;une couleur qui a beaucoup
+de rapport avec celle du sang, dont il paroît aussi
+plus rempli qu&#39;aucun autre viscere, eu égard au
+grand nombre de veines qui y sont attachées, avoient
+imaginé que c&#39;est dans cette partie à laquelle on a
+donné le nom de <i>foie</i>, que le suc des alimens est porté 
+pour y être converti en sang, &amp; que la bile n&#39;est
+<pb n="7:32" facs="V7/ENC_7-32.jpeg" />
+<milestone unit="column" n="1" />
+autre chose que la partie excrémentitielle, qui est séparée 
+tout de-suite du nouveau sang, pour la dépuration,
+pour sa plus grande perfection.
+</p>
+<p>
+Le rapport bien aisé à observer entre le <i>foie</i> &amp;
+les boyaux, par le moyen des veines mésentériques,
+leur fit penser que ces veines servent à attirer le chyle,
+comme les racines des plantes attirent le suc de
+la terre. Ils avoient recours à cette sorte de suction,
+puce qu&#39;ils n&#39;appercevoient dans les intestins aucune 
+force impulsive, qui pût faire entrer &amp; porter en-avant 
+le chyle dans ces veines. Ils étoient confirmés
+dans l&#39;idée d&#39;attribuer au <i>foie</i> l&#39;ouvrage de la sanguification,
+<foreign lang="greek">αἱματοποίησις</foreign>, parce qu&#39;ils ne trouvoient
+point de chyle dans les racines de la veine cave qui
+portent le sang du <i>soie</i> au coeur, &amp; que le sang de
+ces veines leur paroissoit d&#39;autant plus parfait, qu&#39;il
+étoit d&#39;un rouge plus foncé; ils le croyoient dès-lors
+doüé de toutes les qualités requises pour le bien de
+l&#39;économie animale ; puisque selon leur sentiment,
+il est de-là distribué dans toutes les parties du corps
+pour leur fournir la nourriture. Ils regardoient conséquemment 
+le <i>foie</i> comme le principe de toutes les
+veines, (<i>Hipp. de alimento.</i>) c&#39;est-à-dire de tous les
+vaisseaux que l&#39;on trouve pleins de sang après la
+mort : ils appelloient sa substance <i>parenchyme</i>, de
+<foreign lang="greek">χύειν</foreign>, <i>fundere</i>, répandre ; parce qu&#39;ils le regardoient
+comme une masse composee de cellules appliquées
+à l&#39;orifice des veines, dans lesquelles cellules le sang
+épanché auquel se mêle le chyle, convertit celui-ci
+en sa propre nature. <i>Voyez</i> 
+<sc><ref target="head:Sang" type="search">Sang</ref>, <ref target="head:Sanguification" type="search">Sanguification</ref>, <ref target="head:Parenchyme" type="search">Parenchyme</ref></sc>
+</p>
+<p>
+Telles sont les premieres idées que l&#39;on avoit prises 
+du principal usage du <i>foie</i> dans l&#39;économie animale ; 
+c&#39;est ce qui est établi à ce sujet dans les oeuvres 
+d&#39;Hippocrate, mais d&#39;une maniere plus détaillée 
+dans celles de Galien, <i>de Hipp. &amp; plat. decr.
+lib. VI. cap. jv</i>. Ces deux auteurs attribuoient aussi
+avec Aristote à ce viscere la fonction secondaire de
+contribuer par son voisinage de l&#39;estomac &amp; par sa
+position sur ce principal organe de la digestion, à y
+entretenir la chaleur nécessaire pour la coction des
+alimens. Démocrite dans une lettre au pere de la
+Medecine, établissoit encore dans le <i>foie</i> le siége de
+la concupiscence. <i>Voyez</i> cette lettre dans le recueil
+des oeuvres d&#39;Hippocrate.
+</p>
+<p>
+Le sentiment sur la sanguification opérée dans le
+<i>foie</i> a été constamment adopté par tous les Medecins, jusqu&#39;à la découverte des veines lactées, par
+laquelle il a été démontré que le chyle n&#39;est pas porté
+dans ce viscere, &amp; que c&#39;est ailleurs par conséquent
+qu&#39;il est changé en sang ; Glisson fut le premier qui
+entreprit de le prouver &amp; de réfuter l&#39;ancienne opinion : ensuite Bartholin la détruisit entierement ; ce
+qui donna lieu dans ce tems-là à plusieurs écrits qui
+parurent sous des titres relatifs à cet évenement, tels
+que <i>hepatis causa desperata</i> (à l&#39;égard de la sanguification 
+attribuée à ce viscere), <i>hepatis exequiae, epitaphium</i>, &amp;c.
+</p>
+<p>
+Bilfius dans ces circonstances voulut soûtenir encore 
+pendant quelque tems le système des anciens,
+qui eut aussi pour défenseur Swammerdam ; mais ils
+ne retarderent pas sa chûte. Il fut bien-tôt abandonné 
+presque dans toute l&#39;Europe, dès qu&#39;on se fut
+convaincu de la véritable route que prend le chyle
+au sortir des intestins.
+</p>
+<p>
+D&#39;ailleurs on comprit que l&#39;organisation du <i>foie</i>
+n&#39;étoit point propre à produire le changement qui
+lui étoit attribué, par la considération du peu d&#39;action 
+dont sont capables les parties solides, eu égard
+sur-tout à une opération qui semble devoir être presque 
+totalement l&#39;effet de puissances méchaniques
+(<i>voyez</i> <sc><ref target="head:Sanguification" type="search">Sanguification</ref></sc>); par les conséquences
+qui se présentent à tirer de la lenteur du cours du
+sang dans les vaisseaux de ce viscere ; par l&#39;attention
+<milestone unit="column" n="2" />
+à ce que la plus grande partie du sang qui y est apportée 
+est un sang veineux quin&#39;a pas besoin d&#39;eprouver 
+de nouveaux effets tendans à changer en sang les
+humeurs mêlées qui en sont susceptibles ; parce qu&#39;enfin 
+l&#39;observation a prouve souvent que la sanguification 
+continue à s&#39;opérer egalement pendant assez
+long-tems, quoique le <i>foie</i> soit presque détruit par
+la suppuration ou toute autre cause, quoiqu&#39;il soit tout
+rempli d&#39;obstructions, ainsi qu&#39;il arrive dans bien des,
+maladies chroniques.
+</p>
+<p>
+Il reste donc que le <i>foie</i> n&#39;est regardé a-présent
+que comme n&#39;étant principalement destiné qu&#39;à séparer 
+du sang l&#39;humeur qu on appelle <i>bile</i>, &amp; cette
+fonction paroit si importante pour l&#39;économie animale,
+que ce n&#39;est pas la rendre trop bornée, nonobstant 
+le grand volume de ce viscere ; si on a égard
+à ce que la secrétion qui s&#39;y fait est d&#39;une abondance
+excessive selon le calcul de Borelli, mais proportionnée 
+selon les expériences de Muckius, de Berenhorst, (qui portent que par comparaison de ce qu&#39;il
+coule de bile dans les boyaux d&#39;un chien avec ce
+qu&#39;îl doit couler, tout étant égal, dans l&#39;homme, la
+quantité de ce récrément doit aller dans l&#39;espace de
+vingt-quatre heures, à une livre environ); que l&#39;humeur 
+qui en résulte n&#39;est pas seulement destinée à
+servir à la digestion, à la préparation du chyle,
+qu&#39;elle est d&#39;un usage aussi continuel que son flux,
+au-moins par rapport à sa plus grande partie, c&#39;est-à-dire celle qui est versée sans interruption dans les
+intestins, ensuite repompée par les mêmes vaisseaux
+qui reçoivent &amp; portent le chyle, &amp; qu&#39;elle est ainsi
+reprise &amp; mêlée dans la masse des humeurs, sans
+doute pour y agir par sa propriété dissolvante contre 
+la tendance qu&#39;elles ont à prendre trop de consistance 
+à s&#39;épaissir, à perdre la fluidité qu&#39;elles n&#39;ont
+pour la plûpart que par accident.
+</p>
+<p>
+Cette idée générale qui vient d&#39;être donnée de
+l&#39;office du <i>foie</i>, de sa production, &amp; des effets de
+celle-ci, est le résultat de l&#39;exposition des causes méchaniques 
+&amp; physiques dans les solides &amp; dans les
+fluides qui concourent à la secrétion qui se fait dans
+ce viscere de la nature de l&#39;humeur séparée, &amp; de
+ce qu&#39;elle devient après son écoulement dans les intestins 
+Cette exposition a été faite dans l&#39;article
+<sc><ref target="head:Bile" type="search">Bile</ref></sc> ; il en sera encore fait mention dans celui de
+<sc><ref target="head:Secrétion" type="search">Secrétion</ref></sc> en général : ainsi <i>voyez</i> <sc><ref target="head:Bile" type="search">Bile</ref>, <ref target="head:Secrétion" type="search">Secrétion</ref></sc>. On ne peut placer ici que ce qu&#39;il y a d&#39;essentiel 
+à observer concernant le <i>foie</i>, ce qui est propre à
+ce viscere dont il n&#39;a pas été traité dans le premier
+de ces articles, &amp; qui n&#39;est pas du ressort de l&#39;autre.
+</p>
+<p>
+1°. Pour bien juger de l&#39;importance des fonctions
+du <i>foie</i>, il est à-propos de remarquer qu&#39;il n&#39;est aucune 
+secrétion qui soit préparée avec autant d&#39;appareil 
+que celle qui se fait dans ce viscere ; que le
+sang qui y est porté pour en fournir la matiere, se
+rend de presque tous les visceres du bas-ventre dans
+la veine-porte, &amp; qu&#39;ainsi ces visceres dans lesquels
+le sang a éprouvé différentes altérations, concourent 
+tous chacun à sa maniere, à établir la disposition 
+avec laquelle le sang entre dans la substance du
+<i>foie</i> ; qu&#39;il est par conséquent nécessaire que les différentes 
+especes de sang fournies par les veines de la
+rate, de l&#39;épiploon, de l&#39;estomac, du pancréas, des
+boyaux, &amp; du mésentere, soient réunies dans un seul
+vaisseau, tel que le sinus de la veine-porte, pour
+que la distribution qui se fait ensuite de ce mélange
+puisse fournir à chaque partie du <i>foie</i> un fluide composé 
+de la combinaison des mêmes principes d&#39;où
+résultent les mêmes matériaux pour la formation de
+la bile ; autrement chaque veine d&#39;un différent viscere 
+du bas-ventre implantée dans une partie du
+<i>foie</i> qui lui fût propre, n&#39;auroit fourni à cette partie
+qu&#39;un sang par exemple huileux, comme celui de
+l&#39;épiploon, ou aqueux comme celui de la rate. Il
+<pb n="7:33" facs="V7/ENC_7-33.jpeg" />
+<milestone unit="column" n="1" />
+n&#39;auroit pas pû de cette différence s&#39;ensuivre la secrétion 
+d&#39;un fluide de même nature dans toutes les
+parties du viscere, parce que ce fluide qui est la bile,
+doit les qualités qui la caracterisent à la réunion des
+qualités de tous les différens sangs dans les ramifications 
+de la veine-porte, d&#39;où passe la matiere de la
+bile dans ses vaisseaux secrétoires.
+</p>
+<p>
+2°. Quoiqu&#39;il ait été suffisamment établi dans l&#39;<i>art</i>.
+<sc>Bile</sc>, que c&#39;est du sang de la veine-porte qu&#39;est séparé
+ce fluide crémentitiel, &amp; non pas du sang de l&#39;artere
+hépatique ; il reste à ajoûter ici quelques réflexions à
+ce sujet. Il n&#39;y a point de vraissemblance qu&#39;un vaisseau
+aussi peu considérable que cette artere, porte au <i>foie</i>
+une quantité de sang suffisante pour une secrétion
+opérée dans toute l&#39;étendue d&#39;un viscere d&#39;un aussi
+grand volume que l&#39;est le <i>foie</i>. En effet, il est aisé de
+démontrer que sa proportion avec cette artere, la
+seule qu&#39;il reçoive dans sa substance, est plus grande 
+que celle d&#39;aucun autre viscere comparé avec les
+arteres qui lui sont propres ; excepté les seuls testicules.
+Ainsi l&#39;artere hépatique paroît avoir été donnée 
+au <i>foie</i>, seulement pour l&#39;usage auquel est destinée 
+l&#39;artere bronchique à l&#39;égard des poumons, c&#39;est-à-dire pour servir à distribuer le suc nourricier dans
+la substance du <i>foie ;</i> ce que ne peut pas faire la veine-porte : parce que le sang veineux ne contient que
+le résidu de ce suc, qui n&#39;est plus propre à la nutrition.
+<i>Voyez</i> <sc><ref target="head:Nutrition" type="search">Nutrition</ref></sc>. C&#39;est pourquoi tous les visceres,
+comme le coeur, le poumon, &amp; le <i>foie</i>, dont
+le sang qu&#39;ils reçoivent &amp; qu&#39;ils travaillent dans leur
+sein, pour une utilité commune à toutes les parties
+de l&#39;économie animale, est principalement un sang
+de la qualité de celui des troncs veineux, ont tous
+des arteres particulieres pour leur nutrition. Ces arteres 
+ont aussi des veines qui leur sont propres : ensorte 
+que le sang de l&#39;artere hépatique, après avoir
+rempli sa destination, est porté, quant à son résidu,
+non dans la veine-cave, mais dans la veine azygos,
+ainsi que l&#39;a démontré Ruysch : d&#39;où on peut conclure,
+qu&#39;il se fait deux circulations différentes dans le
+<i>foie</i>, comme dans ces autres visceres ; ce qui est prouvé 
+par l&#39;expérience : puisque l&#39;injection faite dans
+l&#39;artere hépatique ne rend sensible aucune communication 
+avec la veine-porte, avec les pores biliaires 
+non plus qu&#39;avec la veine-cave ; tandis qu&#39;il arrive 
+constamment que la matiere de l&#39;injection poussée
+dans la veine-porte, passe très-aisément dans la veine-cave &amp; les pores biliaires.
+</p>
+<p>
+3°. Outre l&#39;usage qui vient d&#39;être assigné à l&#39;artere 
+hépatique, il en est un autre que n&#39;est pas moins
+certain ; savoir, de communiquer par sa position,
+de la chaleur &amp; du mouvement au sang de la veineporte.
+Comme celui-ci est fort éloigne, eu égard à
+son cours, de la principale force impulsive de tous
+les fluides, qui est le coeur, il est aussi porté avec
+beaucoup de lenteur à son entrée dans le <i>foie</i>, par
+cette cause ; &amp; de plus, parce qu&#39;en passant dans les
+ramifications de la veine-porte, il passe respectivement 
+à chacune d&#39;elles, d&#39;un lieu plus large dans un
+lieu plus étroit ; attendu qu&#39;elles sont divisées &amp; distribuées 
+sous forme d&#39;artere, sans en avoir le ressort ; 
+attendu que la capsule de Glisson qui enveloppe 
+celles-là, ne supplée que très-peu à ce défaut, selon 
+Cowper, Staalh, Fanton, Morgagni ; qu&#39;elle n&#39;a
+point d&#39;action musculaire ; &amp; qu&#39;elle ne fait tout au-plus 
+que résister à une trop grande dilatation, à un
+trop grand engorgement des veines artérielles du
+<i>foie:</i> ainsi le sang pour y circuler, pour ne pas y perdre 
+toute sa chaleur, n&#39;étant d&#39;ailleurs foüetté par le
+voisinage d&#39;aucun muscle, a besoin qu&#39;elles soient
+contiguës à l&#39;artere hépatique, qui étant renfermée
+dans la gaîne Glissonnienne, accompagne toutes les
+divisions de ces veines, en se divisant avec elles
+(ainsi que l&#39;a prouvé Ruysch, en confirmation des
+<milestone unit="column" n="2" />
+conjectures de Glisson &amp; des planches d&#39;Eustache),
+procuré à leur fluide, par ses pulsations, une sorte
+de mouvement progressif, qui favorise leur cours, &amp;
+leur communique de la chaleur dont abonde son sang,
+qui vient de sortir du coeur, où il a participé à celle
+de toute la masse dont il a été séparé.
+</p>
+<p>
+4°. Il y a une remarque à faire par rapport au sang
+artériel de la coeliaque &amp; de la mésentérique : il
+éprouve dans son cours des variétés, qui lui sont
+absolument particulieres : il est porté, ainsi que celui
+de toutes les autres arteres, dans les veines correspondantes,
+celles-ci forment les racines de la veineporte : mais il ne revient pas pour cela tout de suite
+au coeur par cette voie ; ce qui est un effet de la structure 
+propre du <i>foie</i>. Ce sang étant porté dans le sinus
+de la veine-porte, reprend un cours, pour ainsi dire,
+artériel ; entant qu&#39;après s&#39;être réuni dans ce sinus 
+comme dans un coeur, il se divise de nouveau,
+&amp; il s&#39;en fait une distribution dans toutes les ramifications 
+de la veine-porte, comme dans un second
+systeme artériel, pour être de nouveau reçû dans des
+veines qui sont les racines de la veine-cave ; &amp; de
+celle-ci arriver enfin au coeur. Ainsi il ne faut pas
+prendre à la lettre la proposition d&#39;Harvée, qui porte
+que
+<blockquote> 
+« le cours du sang se fait en circulant du coeur
+dans les arteres ; de celles ci dans les veines, pour
+retourner immédiatement au coeur, &amp; répéter toûjours 
+le même chemin ».
+</blockquote>
+Cette proposition, comme 
+on vient de voir, doit souffrir une exception par
+rapport au sang des visceres qui concourent à la formation 
+de la bile.
+</p>
+<p>
+5°. Il suit de ce qui vient d&#39;être dit (4), concernant
+la singularité du cours du sang de la veine-porte, que
+l&#39;on peut regarder le sinus de cette veine comme un
+centre de réunion &amp; de division pour ce fluide : ensorte 
+que, selon l&#39;idée de Boerhaave, on peut comparer 
+à cet égard ce sinus au coeur : cet auteur pousse
+même cette comparaison plus loin, entant qu&#39;il fait
+observer que la rate est à ce coeur abdominal ce que
+sont les poumons au coeur thorachique : en effet, la
+race fournit au <i>foie</i> un sang très fluide, très-délayé,
+qui, en se mêlant au sang veineux, grossi du sinus,
+lui sert, pour ainsi dire, de véhicule, &amp; le dispose à
+pénétrer sans embarras dans les ramifications de la
+veine porte, à surmonter les résistances causées par
+leur forme artérielle ; ce à quoi il ne suffiroit même
+pas, s&#39;il ne s&#39;y joignoit des puissances impulsives auxiliaires,
+telles que les pulsations de l&#39;artere hépatique,
+qui portent sur ces ramifications les pressions
+continuelles procurées par la contraction alternative
+du diaphragme &amp; des muscles abdominaux, qui en
+portant leur action sur tous les visceres du bas-ventre &amp; sur le <i>foie</i> particulierement, attendu qu&#39;il y est
+le plus exposé, favorise le cours des humeurs de ce
+viscere, soit à l&#39;égard de celles qui s&#39;y portent, soit
+à l&#39;égard de celles qui sont dans sa substance.
+</p>
+<p>
+6°. Mais de toutes ces dispositions nécessaires,
+pour rendre le <i>foie</i> propre à la fonction à laquelle il
+est destiné, c&#39;est-à-dire, à la secrétion de la bile, il
+n&#39;en est point de plus importantes que le rapport qui
+existe entre l&#39;épiploon &amp; ce viscere. La bile que fournit 
+celui-ci étant principalement huileuse de sa nature,
+il falloit qu&#39;il reçût une matiere susceptible de
+procurer cette qualité à la bile. C&#39;est à cette fin que
+le sang veineux de l&#39;<i>omentum</i> se rend dans la veineporte.
+L&#39;<i>omentum</i>, qui est le principal organe du corps
+dans lequel se forme la graisse, &amp; dans lequel il s&#39;en
+forme le plus, tout étant égal, ne paroît pas avoir
+d&#39;autre usage essentiel que celui de travailler pour le
+<i>foie</i>. En effet, toute la graisse qui s&#39;y sépare n&#39;y reste
+pas : il faut bien qu&#39;elle soit portée en quelque endroit,
+après qu&#39;il s&#39;en est fait un certain amas dans
+ce viscere : les arteres ne cessent d&#39;y en fournir la
+matiere. Il faut donc, puisqu&#39;il n&#39;y a point de vaisseau<gap type="hyphenpb" />
+<pb n="7:34" facs="V7/ENC_7-34.jpeg" />
+<milestone unit="column" n="1" />
+déférent pour la porter ailleurs, qu&#39;elle soit reprise 
+par les veines, à proportion de ce qui en est
+porté par les arteres. Ces veine tendent toutes au
+<i>foie</i> ; elles coucourent à former la veine-porte : ainsi
+le suc huileux qu&#39;elles y charrient continuellement
+(après avoir éprouvé une élaboration considérable
+dans l&#39;épiploon, par l&#39;effet de la chaleur abdominale,
+par la pression, &amp; pour ainsi dire le broyement qu&#39;operent 
+continuellement le diaphragme, les muscles
+du bas-ventre, le mouvement péristaltique des
+boyaux ; élaboration par laquelle se fait une atténuation 
+des globules de ce suc), a contracté une
+grande disposition à rancir, à devenir amer, &amp; en
+même tems à devenir miscible avec la sérosité du sang
+<i>liénaire:</i> ensorte qu&#39;il ne lui manque rien des qualités
+nécessaires pour fournir la principale matiere de la
+bile ; ce qu&#39;aucune autre des différentes sortes de sang
+versé dans la veine-porte, ne peut faire (excepté
+ceux du mésentere &amp; du mésocolon, mais en petite
+quantité), la rate, le ventricule, le pancréas n&#39;ayant
+point de graisse, &amp; ne pouvant par conséquent fournir 
+aucun suc huileux les changemens dont est susceptible 
+celui qui est mêlé au sang de la veine-porte,
+sont aisément prouvés par les opérations de la Chimie sur de semblables substances. <i>Voyez</i> <sc><ref target="head:Huile" type="search">Huile</ref></sc>,
+(<i>Chimie.</i>) On sait combien l&#39;huile d&#39;olives, d&#39;amandes 
+la plus douce, dont le contact ne blesseroit pas
+l&#39;organe le plus délicat, peut cependant contracter
+d&#39;acrimonie rancide, par le seul effet de la chaleur.
+Les personnes qui ont l&#39;estomac foible éprouvent souvent 
+qu&#39;après avoir pris des alimens gras en trop
+grande quantité, il en survient des retours acres, rances,
+&amp; amers, qui les fatiguent beaucoup par l&#39;irritation 
+qu&#39;ils causent dans toutes les voies par où ils
+se font, c&#39;est-à-dire dans l&#39;oesophage, la gorge, la
+bouche. Ainsi qu&#39;on n&#39;objecte pas qu&#39;il paroît plus
+vraissemblable qu&#39;une huile douce, telle que celle
+de l&#39;épiploon, puisse être convertie en bile, qui est
+susceptible de devenir si acre &amp; si amere.
+</p>
+<p>
+7°. Il faut cependant observer que la bile n&#39;a pas
+essentiellement ces qualités ; elle ne les contracte que
+par accident ; &amp; même ce n&#39;est qu&#39;une petite partie
+de cette humeur, en qui elles sont éminemment sensibles.
+La bile qui coule continuellement par le conduit 
+hépatique, est totalement différente de celle qui
+vient de la vésicule du fiel. Il est aisé de s&#39;en convaincre,
+sur-tout par l&#39;expérience faite dans le cochon,
+dont le <i>foie</i> &amp; les trois conduits biliaires ont
+beaucoup de conformité avec ces mêmes organes
+dans l&#39;homme. On peut s&#39;assûrer combien la bile est
+éloignée d&#39;être amere, tant qu&#39;elle est dans les vaisseaux 
+secrétoires, par le goût du <i>foie</i> qui est très agréable 
+à manger dans les poissons, dans la plûpart
+des oiseaux, des quadrupedes ; pourvû qu&#39;on en sépare 
+soigneusement la bile de la vésicule, dans ceux
+qui en ont une : car la plus petite quantité de cette
+derniere bile suffit pour infecter de son amertume
+tout ce à quoi elle se mêle. Six gouttes dans une once 
+d&#39;eau, la rendent fort amere. Lorsque la vésicule
+manque, dans l&#39;homme même, ce qui a souvent été
+observé, la bile qui coule alors par le seul conduit
+hépatique, a été trouvée très-peu jaune, presque
+point amere, &amp; au contraire d&#39;un goût assez agréable,
+selon Hartman. Il est un grand nombre d&#39;animaux 
+qui n&#39;ont point de fiel, parce qu&#39;ils n&#39;ont point
+de follicule pour le contenir, dont le <i>foie</i> ne fournit 
+pas de la bile d&#39;une autre nature que celle qui se
+trouve dans le canal hépatique ; tels sont le cheval,
+l&#39;âne, le cerf, l&#39;éléphant, le dromadaire, l&#39;élan, <i>&amp;c.</i>
+parmi les quadrupedes ; parmi les volatiles, la colombe,
+la grue, la geline de montagnes, le paon, l&#39;autruche,
+<i>&amp;c.</i> entre les poissons qui sont en petit nombre 
+en comparaison des autres animaux, le marsouin,
+<i>&amp;c.</i> d&#39;où on doit conclure, qu&#39;il n&#39;est pas essentiel à la
+<milestone unit="column" n="2" />
+bile d&#39;être amere, &amp; qu&#39;elle peut être séparée avec
+toutes les qualités qui lui sont nécessaires pour l&#39;usage 
+auquel elle est destinée, sans le concours de celles
+qu&#39;elle acquiert par le moyen de la vésicule ; ce qui
+est vrai, même par rapport à l&#39;homme, qui ne laisse
+pas d&#39;avoir de la bile dans les cas où il est privé de
+ce dernier organe. <i>hist. de l&#39;acad. des Sciences. 1701,
+1705</i>. Il existe aussi des animaux dans lesquels la bile
+de la vésicule est absolument distincte &amp; séparée de
+celle que le <i>foie</i> fournit continuellement au conduit
+hépatique ; parce que la vésicule n&#39;a aucune communication 
+avec ce canal : ensorte qu&#39;il ne peut passer
+rien de l&#39;un dans l&#39;autre ; cela est très ordinaire dans
+la plûpart des poissons, tels que l&#39;anguille, l&#39;alose,
+la perche, le loup, <i>&amp;c.</i> On en trouve aussi des exemples 
+parmi les oiseaux, dans la cicogne, <i>&amp;c.</i> Il fuit
+donc de tout ce qui vient d&#39;être dit sur ces variétés,
+que le <i>foie</i> sépare constamment de la bile, indépendamment 
+de la vésicule du fiel ; que celle-ci existe
+ou n&#39;existe pas dans l&#39;individu : ainsi, il y a lieu de
+croire que la bile hépatique est d&#39;une nécessité plus
+générale que la cystique dans toute l&#39;oeconomie animale.
+</p>
+<p>
+8°. Mais ces deux biles ont-elles une origine différente?
+Il y a eu différens sentimens à cet égard, <i>voy.</i>
+<sc><ref target="head:Bile" type="search">Bile</ref></sc>. Cependant que la bile de la vésicule lui soit
+portée par les conduits hépato-cystiques, ou qu&#39;elle
+lui soit fournie par le reflux du conduit hépatique,
+il paroît tout simple de regarder avec Ruysch, (<i>observ. anat. 31.</i>) cette bile cystique, lorsqu&#39;elle entre
+dans la vésicule, comme étant de la même nature que
+l&#39;hépatique : mais elle change de qualité, &amp; contracte
+une véritable altération par son séjour dans ce réservoir ; 
+elle y devient jaune, acre, rancide, amere ; &amp;
+elle acquiert plus de consistence, de ténacité, par la
+dissipation de ses parties séreuses, &amp; la réunion de ses
+parties huileuses ; effets qui doivent être attribués à
+la chaleur du lieu &amp; à la disposition qu&#39;ont toutes
+les humeurs animales à se trier, pour ainsi dire, par
+la tendance à l&#39;adhésion des parties homogenes entr&#39;elles ; à perdre leur fluidité qu&#39;elles ne doivent
+qu&#39;au mouvement, à l&#39;agitation ; effets qui ont également lieu par rapport à la bile hépatique, si elle est
+empêchée de couler : si elle est retenue dans ses conduits 
+excrétoires par quelque cause que ce soit, selon 
+que Ruysch dit l&#39;avoir observé, <i>loco citato</i>. Ainsi
+il n&#39;y a pas d&#39;autres raisons que celles qui viennent
+d&#39;être rapportées, de la différence dans l&#39;état naturel
+entre la bile cystique &amp; la bile hépatique : ce qui arrive 
+à celle-là lui est commun avec ce que l&#39;on observe 
+relativement à l&#39;humeur cérumineuse des
+oreilles, qui a beaucoup d&#39;analogie avec la bile,
+<i>voyez</i> <sc><ref target="head:Cérumineuse" type="search">Cérumineuse</ref></sc> (<i>matiere</i>), <i>&amp;</i> <sc><ref target="head:Cire des Oreilles" type="search">Cire des
+Oreilles</ref></sc>. Il n&#39;y a qu&#39;une sorte de bile, dans tous
+les vaisseaux secrétoires du <i>foie ;</i> elle est telle dans
+toutes les parties de ce viscere, qu&#39;elle arrive dans
+le conduit hépatique : celle-ci qui forme la plus grande 
+partie de l&#39;humeur séparée, coule dans ce conduit 
+sans avoir presque changé de qualité, respectivement 
+à ce qu&#39;elle étoit dans les pores biliaires, Malpighi, <i>in posth. p. 47.</i> Elle se rend ainsi du conduit
+commun aux deux biles, qui est le canal cholidoque,
+&amp; se répand dans le duodenum. Ceux qui ont attribué 
+à cette bile hépatique les qualités de la bile cystique,
+n&#39;ont examiné celle-là qu&#39;après son mélange
+avec celle-ci dans le canal cholidoque : telle a été la
+cause de l&#39;erreur, à cet égard, de Bohnius &amp; de plusieurs 
+autres : on pourroit donc, pour éviter l&#39;équivoque,
+appeller <i>bile</i> simplement celle que nous avons
+appellée <i>hépatique</i>, &amp; laisser à la bile cystique le nom
+de <i>fiel</i>, que le vulgaire lui donne.
+</p>
+<p>
+9°. Cette derniere distinction des deux biles étant
+posée, on doit remarquer que presque tous les auteurs,
+faute de l&#39;avoir faite, ont confondu les qualités <gap type="hyphenpb" />
+<pb n="7:35" facs="V7/ENC_7-35.jpeg" />
+<milestone unit="column" n="1" />
+de ces deux humeurs, &amp; n&#39;ont parlé de leurs
+effets &amp; de leur usage, que d&#39;après l&#39;idée qu&#39;elles
+peuvent donner, lorsqu&#39;elles ont été mêlées dans le
+canal cholidoque, &amp; qu&#39;elles sont ainsi versées dans
+les intestins. Mais puisqu&#39;ils conviennent qu&#39;elles n&#39;y
+coulent pas toutes les deux continuellement ; que la
+seule hépatique a un cours réglé, sans interruption ;
+que la cystique n&#39;y est portée que lorsque le follicule 
+est exprimé, peu avant &amp; pendant le travail de
+la digestion : ce qui est en effet prouvé par de nombreuses 
+observations, desquelles il résulte que dans
+les cadavres d&#39;hommes &amp; d&#39;animaux ouverts peu de
+tems après qu&#39;ils avoient mangé, la vésicule n&#39;a jamais 
+été trouvée pleine ; qu&#39;il s&#39;en falloit le plus souvent 
+d&#39;un tiers de sa capacité; qu&#39;au contraire elle a
+toûjours été trouvée très-remplie &amp; distendue, presque 
+au point de crever, dans les animaux qui avoient
+été privés de manger long-tems avant la mort : c&#39;est ce
+que rapportent entr&#39;autres Riolan, Borelli, Lister,
+&amp; Boerhaave ; pourquoi n&#39;a-t-on pas insisté sur la
+différence des qualités &amp; des effets de la bile qui coule 
+toûjours, &amp; du fiel dont l&#39;écoulement n&#39;a qu&#39;un
+tems? Il semble cependant que la considération de
+cette différence doit être importante pour l&#39;intelligence 
+de l&#39;usage de ces deux biles, qui doit être différent 
+par rapport à chacune d&#39;elles.
+</p>
+<p>
+10°. Riviere, dans ses <i>institutes</i>, semble avoir entrevû 
+la distinction qu&#39;il convient d&#39;en faire, lorsqu&#39;il
+établit qu&#39;il y a deux sortes de biles, dont l&#39;une est
+<i>alibile</i>, c&#39;est-à dire recrémentitielle, &amp; l&#39;autre excrémentitielle : la premiere, selon cet auteur, est celle
+qui est la plus fluide, qui a très-peu d&#39;amertume, &amp;
+qui passe dans la masse des humeurs ; ce qui convient
+à l&#39;hépatique ; &amp; l&#39;autre est moins fluide, plus amere,
+doüée de beaucoup d&#39;acrimonie, qui sert à exciter le
+mouvement des boyaux à l&#39;expulsion des matieres
+fécales avec lesquelles elle se mele, pour être portée
+hors du corps ; effets qui désignent bien la bile cystique : aussi ne dit-il point de la premiere qu&#39;elle
+vienne de la vésicule ; il ne le dit que de la seconde.
+Ne seroit-on pas fondé à adopter la maniere dont cet
+auteur distingue les deux biles, c&#39;est-à-dire en recrémentitielle 
+&amp; en excrémentitielle, si l&#39;or fait attention 
+à ce qu&#39;enseigne l&#39;expérience à l&#39;égard du chyle,
+savoir qu&#39;il n&#39;est point amer dans les veines lactées,
+selon la remarque d&#39;Hoffman? La bile cystique
+ne passe donc point avec lui dans ces veines, après
+avoir été mêlée avec la matiere du chyme, dans le
+canal intestinal. Il se fait donc une sorte de secrétion
+qui ne permet point aux parties ameres de la bile,
+de passer avec le suc des alimens : ces parties restent
+donc avec le marc, &amp; se sont évacuées avec lui,
+comme excrémentitielles. Il ne paroît rien qui empêche 
+de répondre affirmativement à toutes ces questions.
+Ainsi on peut regarder, avec Riviere, le fiel
+comme un excrément, mais qui est destiné à produire 
+de bons effets dans les premieres voies, avant d&#39;être 
+porté hors du corps, tels que de diviser par sa qualité 
+pénétrante les matieres muqueuses qui tapissent
+la surface intérieure des intestins ; d&#39;empêcher qu&#39;elles 
+ne s&#39;y ramassent en trop grande abondance ; de
+les détacher des parois du canal, &amp; de découvrir
+ainsi les orifices des veines lactées : tout cela se fait
+pendant que la digestion s&#39;opere dans l&#39;estomac. Tous
+les organes qui doivent servir à cette fonction, se
+mettant en jeu en même tems, la vésicule du fiel entre 
+aussi en contraction, exprime ce qu&#39;elle contient ;
+&amp; la bile qui y étoit déposée coule dans les intestins,
+pour y préparer les voies à la continuation de la préparation 
+du chyle, qui doit s&#39;y perfectionner &amp; s&#39;y
+achever. L&#39;écoulement de la bile cystique continue
+encore à se faire pendant cette derniere digestion,
+pour exciter de plus en plus l&#39;action des boyaux,
+pour dissoudre par sa qualité savonneuse, plus éminente<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+que dans la bile hépatique, les matieres grasses
+qui pourroient éluder l&#39;action de celle-ci. Le fiel se
+mêle ainsi à la pâte alimentaire, &amp; reste ensuite mêlé 
+avec sa partie la plus grossiere, qui forme les excrémens ; 
+à laquelle il donne la couleur iaune plus
+ou moins foncée, qu&#39;on y observe dans l&#39;état naturel,
+les dispose à se corrompre plus promptement par
+la disposition qu&#39;il y a lui-même, irrite ensuite les
+gros boyaux, jusqu&#39;à ce que parvenus à l&#39;extrémité
+du canal, ils soient poussés hors du corps. <i>Voyez</i> <sc><ref target="head:Déjection" type="search">Déjection</ref></sc>.
+</p>
+<p>
+11°. Enfin il est important de remarquer encore
+dans un examen physiologique du <i>foie</i>, qu&#39;il n&#39;est
+aucun animal connu qui ne soit pourvû de ce viscere.
+Plus les autres visceres sont petits à proportion 
+du sujet, plus le volume du <i>foie</i> est grand : c&#39;est
+ce qui est démontré dans les poissons &amp; dans les insectes.
+Les premiers n&#39;ont point de poitrine ; la capacité 
+de l&#39;abdomen en est d&#39;autant plus étendue,
+&amp; ce sont le <i>foie</i> &amp; le pancréas qui la remplissent
+presqu&#39;en entier, les boyaux en étant très peu considérables.
+Boerhaave a fait cette observation, particulierement 
+dans le poisson appellé <i>lamie</i>. Mais il
+en est de même à l&#39;égard de tous les autres poissons ;
+on y trouve le <i>foie</i> intimement uni aux boyaux &amp;
+lié à leur texture, de maniere qu&#39;il en accompagne
+presque toutes les circonvolutions. Les quadrupedes,
+les oiseaux ont tous un <i>foie</i>, qui est dans tous
+d&#39;un volume assez considérable, respectivement à
+chacun de ces animaux. Il s&#39;y sépare dans tous de la
+bile, c&#39;est-à-dire une humeur savonneuse, qui sans
+être amere dans tous, attendu qu&#39;il en est plusieurs
+qui n&#39;ont point de vésicule du fiel, ainsi qu&#39;il a été
+dit ci-devant, a cependant les autres qualités de la
+bile, &amp; un flux continuel.
+</p>
+<p>
+12°. Il paroît surprenant que l&#39;existence de cette
+humeur dans tout ce qui a vie, n&#39;ait pas fait juger
+déterminément que le viscere qui la fournit doit
+être d&#39;un usage plus étendu dans l&#39;économie animale,
+que celui de servir seulement à la chylification.
+En effet ne peut-il pas être comparé avec fondement 
+aux organes dont les fonctions influent sur
+toutes les parties du corps, tels que le cerveau &amp; le
+poumon : ces deux organes-ci sont sans contredit
+chacun le viscere principal de la cavité où il est renfermé,
+l&#39;un du ventre supérieur, l&#39;autre du ventre
+moyen ; ainsi l&#39;on peut dire que le <i>foie</i> est le viscere
+principal du ventre inférieur. Le premier étend son
+action sur tous les solides qui sont susceptibles de
+sentiment &amp; de mouvement ; le second filtre toute
+la masse des humeurs, &amp; leur fait éprouver la plus
+grande élaboration qu&#39;elles puissent recevoir en commun ; 
+le troisieme fournit à cette masse un fluide reconnu 
+pour avoir la propriété d&#39;opérer de grands
+effets dans les premieres voies, par sa qualité dissolvante 
+de séparer les parties homogenes des sucs
+alimentaires, d&#39;en briser la viscosité, la tenacité,
+de les rendre miscibles avec des parties respectivement 
+hétérogenes : pourquoi ne pourroit-on pas
+étendre ces effets jusque dans les secondes voies, &amp;
+dans toute la distribution des fluides du corps animal,
+de maniere à regarder la bile comme étant la
+liqueur balsamique, le menstrue sulphureux, qui
+conserve ces fluides dans l&#39;état de dissolution convenable,
+qui les rend propres à couler dans tous les
+vaisseaux, &amp; à être distribués dans toutes les parties
+du corps ; ensorte que le récrément que fournit le
+<i>foie</i> à la masse des humeurs seroit à cette masse, par
+ses effets physiques, ce que lui sont les poumons par
+leur action méchanique? Ainsi on pourroit dire que
+l&#39;analogie semble concourir avec l&#39;observation fournie 
+par l&#39;histoire naturelle des animaux, à établir
+l&#39;influence générale du <i>foie</i> sur toute l&#39;économie animale.
+En effet l&#39;existence de ce viscere, commune à
+<pb n="7:36" facs="V7/ENC_7-36.jpeg" />
+<milestone unit="column" n="1" />
+tous les êtres qui ont vie, dont on a pû étudier la structure 
+(quelque différence qu&#39;il y ait d&#39;ailleurs dans
+leur organisation), n&#39;annonce-t-elle pas cette universalité 
+d&#39;usages, cette necessité qui s&#39;étend à tout
+le corps animé? &amp; la propriété dissolvante qui vient
+d&#39;être attribuée à la production du <i>foie</i>, portée dans
+toute la masse des humeurs, ne paroît elle pas prouvée 
+par la considération que ce viscere est d&#39;un volume 
+d&#39;autant plus grand dans les animaux, qu&#39;ils
+ont leurs humeurs plus disposées à perdre leur fluidité,
+ainsi qu&#39;on l&#39;observe, sur tout dans les poissons,
+où elles sont extrèmement visqueuses, glutineuses ; 
+que cette humeur manque dans quelques
+animaux, quant à la partie qui ne coule que dans le
+tems de la digestion, dans ceux qui ont une vésicule
+du fiel, mais qu&#39;elle se trouve dans tous, quant à la
+partie dont le flux est continuel &amp; qui ne cesse d&#39;étre
+portée dans la masse des humeurs? On ne peut donc
+pas se refuser raisonnablement à ces conséquences. Le
+<i>foie</i> doit donc être rangé parmi les visceres principaux,
+parmi ceux dont les usages sont généraux. Le
+cerveau, les poumons &amp; le <i>soie</i>, sont les seuls qui
+reglent toute l&#39;économie animale ; les autres visceres 
+ont des usages bornés, particuliers : ce seroit
+ranger le <i>foie</i> parmi ceux-ci, &amp; n&#39;admettre dans le
+bas-ventre aucun organe principal, de n&#39;attribuer à
+ce viscere que des fonctions limitées, relatives à la
+seule digestion, &amp; de ne pas porter plus loin ses
+vùes à l&#39;égard d&#39;une partie aussi importante. La considération 
+de la maniere dont influent sur toutes les
+humeurs les vices qui peuvent affecter cette partie,
+doit achever de convaincre que le récrément qu&#39;elle
+fournit est d&#39;une utilité &amp; d&#39;une nécessité generale:
+effectivement la secrétion de la bile vient-elle à être
+diminuée, ou sa qualite dissolvante vient-elle à être
+altérée, affoiblie ; il s&#39;ensuit des obstructions, des
+engorgemens dans les autres organes secretoires,
+des embarras dans toute la circulation dans le cours
+des humeurs ; &amp; si au contraire la bile vient à être
+séparée, à être portée dans la masse des humeurs, à
+y refluer en trop grande quantité, il en résulte trop
+de fluidité, de division dans tous les fluides qui causent 
+la decomposition des globules du sang, leur dissolution 
+en globules séreux, jaunes ; d&#39;ou s&#39;ensuivent
+les hémorrhagies, la jaunisse ; d&#39;où se forment les
+hydropisies ; d&#39;où tirent leur cause les sueurs hectiques,
+les diarrhées colliquatives, les diabetes, ou
+toutes autres évacuations excessives qui ont rapport
+à celles-là, c&#39;est à-dire qui proviennent du defaut
+de consistance des fluides, à raison de laquelle ils
+ne peuvent pas être retenus dans les vaisseaux qui
+leur sont propres ; ils s&#39;échappent par erreur de lieu,
+par anastomose, <i>&amp;c.</i> &amp; sont versés dans quelques
+cavités sans issue, ou portés tout-de-suite hors du
+corps. <i>Voyez</i> <sc><ref target="head:Foie" type="search">Foie</ref></sc> (<i>maladies du</i>), 
+<sc><ref target="head:Jaunisse" type="search">Jaunisse</ref>, <ref target="head:Obstruction" type="search">Obstruction</ref>, <ref target="head:Hémorrhagie" type="search">Hémorrhagie</ref>, <ref target="head:Hydropysie" type="search">Hydropysie</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+13°. Il suit de tout ce qui vient d&#39;être dit pour
+établir que les effets de la bile portent sur toute la
+masse des humeurs, &amp; que c&#39;est-là son usage principal,
+&amp; non pas de servir seulement dans les premieres 
+voies en qualité de suc digestif, que ce dernier
+usage n&#39;est que comme accessoire à celui pour lequel
+elle est essentiellement destinée : que dans le tems de
+la digestion, en tant qu&#39;elle se méle avec les sucs alimentaires,
+cet usage secondaire n&#39;est que le commencement 
+de son exercice, &amp; concourt à leur élaboration ; exercice qui hors le tems de la digestion ne
+commence que par son mélange avec la lymphe des
+veines lactées, dont la bile tient les orifices toûjours
+ouverts en y pénétrant continuellement. Or puisqu&#39;il est convenu que la bile a un flux continuel dans
+les intestins, qu&#39;elle est continuellement portée dans
+la masse des humeurs par les voies du chyle ; pourquoi 
+les Physiologistes insistent-ils à ne regarder ce
+<milestone unit="column" n="2" />
+récrément que comme un suc digestif, principalement 
+destine à la chylification? N&#39;est-il donc, selon
+eux, d&#39;aucun usage, quand il n&#39;est pas employé
+pour celui-là, c&#39;est-à-dire quand il n&#39;y a pas des alimens 
+dans les intestins? Concluons qu&#39;ils ont été
+tout-au-moins inconséquens à cet égard, s&#39;ils ont
+entrevû un usage plus genéral de la bile, sans le désigner 
+expressément ; ce qui a pû être une cause de
+bien des erreurs dans la théorie &amp; la pratique médicinale,
+dans lesquelles les vraies connoissances des
+qualités de la bile &amp; de ses effets doivent joüer un si
+grand rôle.
+</p>
+<p>
+14°. Le cours de la bile, en tant qu&#39;elle passe du
+<i>foie</i> par les premieres voies dans les secondes, &amp; se
+méle à toute la masse des humeurs, n&#39;est pas la seule
+route qu&#39;elle tienne. Il est très-vraissemblable que
+comme une portion du chyle pénetre dans les veines
+mesaraïques, pour se mêler avec le sang de la veineporte 
+(ce qui n&#39;est guere contesté), sans doute pour
+en corriger la rancescence dominante ; de même il
+passe avec le chyle une portion de bile, qui retourne 
+ainsi dans le <i>foie</i> avec les qualités qu&#39;elle y a
+acquises, &amp; qu&#39;elle n&#39;a eu completement qu&#39;à la sortie 
+de ce viscere, c&#39;est-à-dire lors de son excretion:
+ensorte que cette portion du récrément hépatique va
+opérer immédiatement sur le sang veineux &amp; concrescible 
+de la veine-porte, ses effets dissolvans qui
+paroissent y être plus nécessaires que dans aucune
+autre partie du corps. Cette assertion semble pouvoir 
+être mise hors de doute par l&#39;observation de
+Vanhelmont (<i>Sextu. digest.</i>), &amp; de plusieurs autres,
+qui ont trouvé que le sang des veines mésentériques
+est d&#39;une qualité différente de celui des autres veines,
+qu&#39;il n&#39;est pas aussi susceptible de se coaguler, &amp; qu&#39;il
+est d&#39;un rouge moins foncé; ce qu&#39;il faut moins attribuer 
+au mélange du chyle, qu&#39;à celui de la bile,
+qui par sa qualite pénétrante est plus propre à produire 
+cet effet que le suc des alimens, qui par lui-même 
+seroit au contraire disposé à diminuer la fluidité 
+des humeurs aux quelles il se mele. Il suit donc de
+cette seconde destination de la bile, que l&#39;on peut
+concevoir une espece de circulation d&#39;une partie de
+ce récrément, qui etant sortie du <i>foie</i> pour être versée 
+dans le canal intestinal, retourne au <i>foie</i>, étant
+absorbée, reprise par les veines du mesentere, &amp; renouvelle 
+continuellement ce cours pour l&#39;usage qui
+vient d&#39;être assigné; usage d&#39;une aussi grande conséquence 
+pour conserver la fluidité des humeurs dans
+les ramifications de la veine porte, que le mélange
+de la même bile à la masse des humeurs en général,
+est nécessaire pour les disposer à couler librement 
+dans tous les vaisseaux du corps. <i>Voyez</i> sur
+cette propriété absorbante des veines mésentériques,
+<i>les articles</i> <sc><ref target="head:Veine" type="search">Veine</ref> <i>&amp;</i> <ref target="head:Mésentérique" type="search">Mésentérique</ref></sc>.
+</p>
+<p>
+15°. Il reste encore à observer sur l&#39;usage du récrément 
+fourni par le <i>foie</i>, que son efficacité ne se
+borne pas à entretenir les qualités nécessaires dans
+les fluides animaux ; qu&#39;elle opere aussi sur les solides,
+non-seulement dans les premieres voies, en excitant,
+a nsi qu&#39;il a été dit ci devant, le mouvement,
+l&#39;action du canal intestinal, mais encore dans tout
+le systeme des vaisseaux sanguins &amp; autres. Les humeurs 
+imprégnées de la bile, portée dans les secondes 
+voies avec le chyle qui en renouvelle la
+masse, sont pour ainsi dire armées d&#39;une qualite stimulante 
+dont l&#39;effet, par leur seule application aux
+parois des vaisseaux, est d&#39;en exciter l&#39;irritabilité,
+d&#39;en ranimer continuellement l&#39;action systaltique ; ce
+qui concourt à entretenir l&#39;agitation, &amp; conséquemment 
+la fluidité des humeurs, ensorte que la bile sert
+de deux manieres à cette fin, en tant que meêlée avec
+elles, sa qualité physique dissolvante opere immédiatement,
+&amp; que par le moyen de la propriété stimulante,
+elle fait agir les puissances méchaniques
+<pb n="7:37" facs="V7/ENC_7-37.jpeg" />
+<milestone unit="column" n="1" />
+qui sont les principaux instrumens que la nature employe 
+pour conserver cette fluidité. Le plus ou le
+moins d&#39;activité dans la bile, considérée sous ce dernier 
+rapport, doit donc influer plus ou moins sur le
+jeu des solides en général ; sur l&#39;exercice de toutes
+les fonctions, &amp; particulierement de celles qui dépendent 
+davantage de la disposition qu&#39;ont les organes 
+à l&#39;irritabilité: cette activité doit donc décider
+beaucoup dans tous les animaux, pour former leur
+caractere, leur penchant dominant ; mais dans l&#39;homme 
+sur-tout, quant au physique des inclinations,
+des passions, puisqu&#39;elle le rend susceptible d&#39;impressions 
+plus ou moins vives par-tout ce qui l&#39;affecte,
+soit au-dehors, soit au-dedans de la machine,
+&amp; par-tout ce qui lui procure des perceptions, soit
+par la voie des sens, soit par celle de l&#39;imagination.
+La bile contribue donc essentiellement à etablir la
+différence des tempéramens ; ce qui est conforme
+à l&#39;idée qu&#39;en avoient les anciens. <i>Voyez</i> <sc><ref target="head:Tempérament" type="search">Tempérament</ref>, <ref target="head:Passion" type="search">Passion</ref></sc>. Ensorte que la bile doit être
+regardée comme une cause universelle, c&#39;est-à-dire
+qui s&#39;étend à tout dans toute l&#39;économie animale.
+C&#39;est donc avec bien de la raison, que les Medecins
+la regardent aussi comme une des causes générales
+de lésions dans cette même économie, par les vices
+que peut contracter cette production du <i>foie</i>, soit
+par ceux du sang qui fournit la matiere de la secrétion 
+de ce viscere, soit par ceux des organes qui préparent 
+&amp; qui operent cette secrétion. <i>Voyez ci-après</i>
+<sc><ref target="head:Foie" type="search">Foie</ref></sc> (<i>Maladies du</i>). (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

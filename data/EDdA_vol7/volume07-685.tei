@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28139" id="50:34:1" vol="7">
+<index type="head" value="Fraiser un Bataillon" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Fraiser un Bataillon</head>
+<p>
+<sc>Fraiser un Bataillon</sc>, (<i>Art milit.</i>) c&#39;étoit autrefois 
+l&#39;entourer de piquiers qui empêchoient la cavalerie 
+de le forcer. A-présent c&#39;est faire mettre la
+bayonnette au bout du fusil aux soldats qui le composent,
+&amp; principalement aux rangs qui en forment
+la circonference, ou qui le terminent.
+</p>
+<p>
+La colonne de M. le chevalier de Folard doit être
+<i>fraisée</i> de fusiliers &amp; de piquiers. Mais ses piquiers
+au lieu d&#39;une pique de 15 piés de longueur, doivent
+avoir des especes de pertuisannes de 11 piés.
+<milestone unit="column" n="2" />
+</p>
+<p>
+<blockquote> 
+« On ne regarde pas fixement, dit cet auteur, un
+corps de troupes <i>fraisé</i> de ces sortes d&#39;armes, jointes 
+aux hallebardes, aux espontons, &amp; aux bayonnettes 
+au bout du fusil, particulierement contre
+une nation comme la françoise, dont l&#39;ardeur &amp;
+l&#39;abord est des plus redoutables. <i>Traité de la colonne</i>».
+</blockquote>
+(<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28664" id="51:34" vol="7">
+<index type="head" value="FUTUR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Dumarsais" />
+<index type="shortauth" value="Dumarsais" />
+<index type="kafnum" value="43" />
+<index type="kafauth" value="Du Marsais, César Chesneau (1676-1756)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="adject" />
+<head>FUTUR</head>
+<p>
+FUTUR, adj. il se dit d&#39;une chose qui doit être,
+qui doit arriver, qui est à venir. M. de Vaugelas dit
+(<i>élém. p. 436.</i>) que ce mot est plus de la Poésie que
+de la bonne Prose, &amp; le bannit du beau style. Le P.
+Bouhours soûtient le contraire (<i>élém. nouv. p. 596.</i>),
+mais il ajoûte qu&#39;il faut éviter de donner dans le style
+de Notaire, <i>futur époux, future épouse</i>. Cette derniere
+restriction est favorable au sentiment de M. de Vaugelas. En effet on dira plûtôt, <i>le voyage que nous devons 
+faire</i>, qu&#39;on ne dira, <i>notre voyage futur</i>, &amp;c. Il
+est établi qu&#39;on dise <i>les biens de la vie future</i>, par opposition 
+à ceux <i>de la vie présente</i>. On dit aussi, <i>les présages 
+de sa grandeur future</i>. Malherbe a dit:
+<lg>
+</lg></p>
+<p>
+<i>Que direz-vous, races futures,
+Quand un véritable discours
+Vous apprendra les avantures
+De nos abominables jours?</i> (<i>F</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

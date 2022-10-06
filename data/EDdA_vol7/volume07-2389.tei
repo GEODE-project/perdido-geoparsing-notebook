@@ -1,0 +1,245 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29843" id="53:263" vol="7">
+<index type="head" value="GONORRHÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en termes de Medecine" />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medecine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GONORRHÉE</head>
+<p>
+GONORRHÉE, s. f. <i>en termes de Medecine</i>, signifie 
+un flux ou écoulement in volontaire de la semence,
+ou de quelque autre humeur, sans délectation &amp;
+sans érection de la verge. <i>Voyez</i> <sc><ref target="head:Semence" type="search">Semence</ref></sc>. Ce mot
+est formé du grec <foreign lang="greek">γόνος</foreign>, <i>semence</i>, &amp; <foreign lang="greek">ῥέω</foreign>, <i>je coule</i>.
+</p>
+<p>
+Il y a deux sortes de <i>gonorrhée</i>, l&#39;une simple &amp;
+l&#39;autre virulente.
+</p>
+<p>
+La <i>gonorrhée</i> simple, sans virus ou malignité, est
+<milestone unit="column" n="2" />
+causée quelquefois par des exercices violens, par
+l&#39;usage immodéré d&#39;alimens chauds &amp; sur-tout de
+liqueurs fermentées, comme le vin, la bierre, le cidre,
+<i>&amp;c.</i> on en guérit en prenant du repos, des alimens 
+nourrissans, des bouillons, <i>&amp;c.</i>
+</p>
+<p>
+Cette espece se subdivise en <i>gonorrhée</i> véritable,
+dans laquelle l&#39;humeur qui s&#39;écoule est réellement de
+la semence ; &amp; en <i>gonorrhée</i> fausse ou bâtarde, où
+l&#39;humeur qui se vuide n&#39;est point de la semence, mais
+une matiere qui sort des glandes placées autour des
+prostates. <i>Voyez</i> <sc><ref target="head:Prostates" type="search">Prostates</ref></sc>.
+</p>
+<p>
+Cette derniere espece a quelque ressemblance
+avec les fleurs blanches des femmes, &amp; on en peut
+être incommodé long-tems sans perdre beaucoup de
+ses forces : quelques-uns l&#39;appellent <i>gonorrhée caterreuse</i>. Son siege est dans les glandes prostates, qui
+sont trop relâchées ou ulcérées.
+</p>
+<p>
+La <i>gonorrhée</i> virulente vient de quelque commerce 
+impur ; c&#39;est le premier symptome de la maladie
+vénérienne, &amp; ce qu&#39;on appelle la <i>chaude-pisse. Voy</i>.
+<sc><ref target="head:Maladif vénérienne" type="search">Maladif vénérienne</ref> <i>&amp;</i> <ref target="head:Chaude-pisse" type="search">Chaude-pisse</ref></sc>
+</p>
+<p>
+Les parties que ce mal affecte d&#39;abord, sont les
+prostates dans les hommes &amp; les lacunes dans les femmes.
+Ces parues étant ulcérées par quelque matiere
+contagieuse qu&#39;elles ont reçûe dans le coit, elles commencent 
+par jetter une liqueur blanchâtre &amp; aqueuse,
+&amp; causent une douleur aiguë: ensuite cette liqueur 
+devient jaune, plus acre, enfin verdâtre &amp;
+souvent fetide ou de mauvaise odeur.
+</p>
+<p>
+Elle est accompagnée d&#39;une tension &amp; inflammation 
+de la verge, &amp; d&#39;une ardeur ou acreté d&#39;urine
+qui cause au malade une douleur sort vive dans le
+passage urinaire qu&#39;elle déchire &amp; excorie par son
+acrimonie : de-là naissent les tumeurs &amp; ulceres sur
+le prépuce &amp; sur le gland, lesquelles affectent aussi
+quelquefois l&#39;urethre.
+</p>
+<p>
+La cause de la <i>gonorrhée</i> virulente, selon M. Littre, est quelque humeur acide échauffée &amp; raréfiée,
+qui dans le tems du coït se leve des parties intérieures 
+du <i>pudendum</i> d&#39;une femme infectée, &amp; vient se
+loger dans l&#39;urethre de l&#39;homme ; elle a différens siéges 
+dans le corps : quelquefois elle ne s&#39;attache qu&#39;aux 
+glandes mucilagineuses de Cowper ; quelquefois
+aux prostates, quelquefois aux vésicules séminales ;
+quelquefois elle affecte deux de ces parties, &amp; quelquefois 
+toutes les trois ensemble.
+</p>
+<p>
+C&#39;est par rapport à cette diversité de siéges, que
+M. Littre distingue la <i>gonorrhée</i> virulente en simple,
+qui n&#39;affecte qu&#39;une de ces trois places, &amp; en compliquée 
+ou composée, qui en affecte plusieurs ; il observe 
+que celle qui siége dans les glandes mucilagineuses,
+peut continuer d&#39;être simple pendant tout le
+cours de la maladie, parce que les canaux de ces glandes 
+sont ouverts dans l&#39;urethre à un pouce &amp; demi
+de distance en deçà des prostates, &amp; ont leur écoulement en-bas, de sorte qu&#39;elles déchargent aisément
+leur liqueur ; les deux autres especes se produisent
+mutuellement l&#39;une l&#39;autre, parce que les conduits
+des vésicules séminaires se terminent dans l&#39;urethre
+au milieu des glandes des prostates ; de sorte que leurs
+liqueurs se communiquent aisément.
+</p>
+<p>
+La <i>gonorrhée</i> qui n&#39;affecte que les glandes mucilagineuses,
+est la moins commune &amp; la plus aisée à
+guérir ; la cure se fait par des cataplasmes émolliens,
+par des fomentations sur la partie, &amp; par des demi-bains.
+<i>Mèm. de l&#39;acad. ann. 1711</i>.
+</p>
+<p>
+Les autres especes demandent des remedes plus
+forts, dont les principaux sont le mercure, l&#39;émulsion 
+de chenevi verd, os de seche, térébenthine, sucre 
+de Saturne, <i>&amp;c.</i>
+</p>
+<p>
+Les Anglois font beaucoup de cas du précipité
+verd de mercure, de mercure doux : le baume de Saturne térébenthiné, préparé à petit feu, le sucre de
+Saturne, l&#39;huile de térébenthine, &amp; le camphre, sont
+<pb n="7:741" facs="V7/ENC_7-741.jpeg" />
+<milestone unit="column" n="1" />
+aussi très-bien. Quand l&#39;inflammation est grande vers
+les reins &amp; les génitoires, il faut avoir recours aux
+saignées, aux émulsions, aux calmans &amp; adoucissans,
+tant internes qu&#39;externes. Une infusion de cantharides 
+dans du vin, est le remede spécifique d&#39;un fameux 
+medecin hollandois ; ce remede me paroît suspect 
+&amp; peut avoir des suites bien funestes : on recommande 
+aussi la résine de gayac, &amp; on regarde
+comme un remede spécifique le baume de Copaïba ;
+à quoi il faut ajoûter l&#39;antimoine diaphorétique, le
+bezoar minéral, l&#39;eau dans laquelle on a fait bouillir 
+du mercure, les injections d&#39;eau de chaux, le mercure 
+doux, le sucre de Saturne, <i>&amp;c.</i>
+</p>
+<p>
+Pitcarn traite la <i>gonorrhée</i> virulente de cette maniere.
+Au commencement de la maladie, il purge
+avec une tisanne laxative de senné, de sel de tartre &amp;
+de fleurs de mélilot ; il prescrit du petit-lait pour la
+boisson du malade. Après l&#39;avoir purgé ainsi pendant
+trois ou quatre jours, si l&#39;urine est moins échauffée,
+le flux moins considérable, &amp; la couleur &amp; la consistence 
+de la matiere devenue meilleure, il lui fait
+prendre pendant six ou sept jours des bols de térébenthine 
+&amp; de rhapontic ; si ces bols lui tiennent le
+ventre libre, c&#39;est un bon signe. Il faut éviter absolument 
+de donner des remedes astringens ; la <i>gonorrhée</i>
+ne dégénerant presque jamais en vérole, à-moins
+qu&#39;on ne se presse trop de l&#39;arrêter. Pitcarn, <i>in manu 
+scripto</i>.
+</p>
+<p>
+Du Blegny veut que l&#39;on commence la cure d&#39;une
+<i>gonorrhée</i> par un cathartique bénin de casse, de senné,
+de crystal minéral, de tamarin, de guimauve, &amp; de
+rhubarbe, que l&#39;on prend alternativement de deux
+jours l&#39;un ; ensuite des diurétiques, &amp; sur-tout ceux
+de térébenthine ; &amp; enfin des astringens bénins, comme 
+les eaux minérales, le <i>crocus Martis</i> astringent,
+les teintures de rose &amp; de corail en cochenille, <i>&amp;c.</i>
+</p>
+<p>
+Le ptyalisme ou la salivation ne guérit jamais la
+<i>gonorrhée. Chambers</i>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,157 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28946" id="51:211:1" vol="7">
+<index type="head" value="Gants" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Droit coûtumier." />
+<index type="normclass" value="Droit coutumier" />
+<index type="englishclass" value="Customary law" />
+<index type="generatedclass" value="Gantier" />
+<index type="pos" value="NA" />
+<head>Gants</head>
+<p>
+<sc>Gants</sc>, (<i>Droit coûtumier.</i>) droit seigneurial qui
+dans la plûpart de nos coûtumes, est dû à chaque
+mutation ; ce droit est reglé à une petite somme, savoir 
+deux sous en quelques lieux, &amp; en d&#39;autres, quatre 
+deniers, qui suivant la coûtume de Dunois, <i>art.
+36.</i> doivent être payés par l&#39;acheteur, huit jours
+après le contrat de vente. Je n&#39;en savois guere davantage 
+sur ce terme de coûtume : mais M. Aubert,
+dans ses <i>additions au Richelet</i>, m&#39;a éclairé completement 
+&amp; agréablement : je vais transcrire sa glose,
+pour n&#39;y pas renvoyer le lecteur.
+</p>
+<p>
+<blockquote> 
+« Le droit de <i>gants</i>, dit-il, est ancien, selon Galant, dans son <i>traité du franc-alleu:</i> il est dit dans la
+coûtume de Lorris, <i>art. 4. tit. des cens</i>, &amp;c. <i>aucunes
+censives sort à droit de lods &amp; ventes, les autres, à</i>
+gants <i>&amp; ventes</i>. Les coûtumes d&#39;Orléans, <i>art. 106.</i>
+de Chartres, <i>art. 47.</i> &amp; plusieurs autres, s&#39;expliquent 
+de même ; &amp; Boutillier, dans sa <i>somme, ch.
+v.</i> en fait mention en ces termes : <i>gants blancs pour
+les deux livres de tenure</i>».
+</blockquote>
+</p>
+<p>
+Ces <i>gants</i> étoient une reconnoissance de l&#39;investiture 
+accordée par le seigneur au nouvel acquéreur.
+La tradition réelle se faisoit autrefois de différentes
+manieres, ou par un fétu de bois ou de paille, ou
+par un morceau de terre, ou par des <i>gants</i>, que le
+seigneur féodal recevoit comme une marque de la
+gratitude de son vassal, ou de son emphitéote : on en
+voit la formule dans Marculphe ; &amp; l&#39;on seroit sans
+doute ennuyeux, si l&#39;on rapportoit ic toutes les preuves 
+que l&#39;on trouve dans plusieurs auteurs de cet ancien 
+usage. Je me contenterai, ajoûte M. Aubert, de
+ces endroit du roman de la Rose, où l&#39;amante parle:
+<lg>
+</lg></p>
+<p>
+<i>Vienne, dit-elle, à point aux gants</i>.
+L&#39;amant répond,
+<lg>
+</lg></p>
+<p>
+<i>Aux gants, dame, ains vous dis sans lobe,
+Que vous aurez mantel &amp; robe</i>.
+</p>
+<p>
+Le glossaire latin de Ducange est à consulter sur
+le fréquent usage de la delivrance d&#39;un <i>gant</i>, pour
+marque de l&#39;investiture. <i>Si aliquam territorii partem</i>,
+dit une loi anglo-saxonne, <i>venundari contigerit, domini 
+venditiones</i> (les ventes) <i>habebunt, scilicet tot denarios 
+quot venditor indè habuerit solidos : major verò terroe
+illius, pro wantis</i> (les gants) <i>accipiet duos denarios</i>. Il
+arriva de cette loi, que les <i>gants</i> devinrent un droit
+personnel au bailli du fief du seigneur : de-là s&#39;établit 
+encore la coûtume, dans la plûpart des marchés,
+de donner aux domestiques de l&#39;argent pour une paire 
+de <i>gants</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

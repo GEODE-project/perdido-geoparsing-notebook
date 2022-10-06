@@ -1,0 +1,370 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30024" id="54:17:3" vol="7">
+<index type="head" value="Grace" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en matiere criminelle" />
+<index type="normclass" value="Matiere criminelle" />
+<index type="englishclass" value="Criminal Matters" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Grace</head>
+<p>
+<sc>Grace</sc>, <i>en matiere criminelle</i>, se prend en général
+pour toutes lettres du prince qui déchargent un accusé 
+de quelque crime, ou de la peine à laquelle il
+auroit été sujet. On se servoit autrefois de ce terme
+<i>grace</i> dans le style de chancellerie ; mais présentement 
+on dit <i>abolition, rémission</i>, &amp; <i>pardon:</i> &amp; quoique 
+ces termes paroissent d&#39;abord synonymes pour
+signifier <i>grace</i>, ils ont cependant chacun leur signification 
+propre. <i>Abolition</i> est lorsque le prince efface
+le crime &amp; en remet la peine, de maniere qu&#39;il ne
+reste aux juges aucun examen à faire des circonstances.
+<i>Rémission</i> est lorsqu&#39;il remet seulement la peine:
+ces lettres s&#39;accordent pour homicide involontaire,
+ou commis par la nécessité d&#39;une légitime défense de
+la vie. Les lettres de <i>pardon</i> s&#39;accordent dans les cas
+<milestone unit="column" n="2" />
+où il n&#39;échet pas peine de mort, &amp; qui néanmoins ne
+peuvent pas être excusés.
+</p>
+<p>
+Il n&#39;appartient qu&#39;au roi de donner des <i>graces</i>.
+</p>
+<p>
+Néanmoins anciennement plusieurs seigneurs &amp;
+grands officiers de la couronne, s&#39;étoient arrogé le
+droit d&#39;en donner ; tels que le connétable, les maréchaux 
+de France, le maître des arbalêtriers, &amp; les
+capitaines ou gouverneurs des provinces ; ce qui leur
+fut d&#39;abord défendu par Charles V. alors régent du
+royaume, par une ordonnance du 13 Mars 1359.
+Cette défense fut réitérée pour toutes sortes de personnes 
+par Louis XII. en 1499.
+</p>
+<p>
+Le chancelier de France les accorde, mais c&#39;est
+toûjours au nom du roi. Ce privilége fut accordé au
+chancelier de Corbie par Charles VI. le 13 Mars
+1401. Les lettres portent, qu&#39;en tenant les requêtes
+générales avec tel nombre de personnes du grand-conseil 
+qu&#39;il voudra, il pourra accorder des lettres
+de <i>grace</i> en toute sorte de cas, &amp; à toutes sortes de
+personnes.
+</p>
+<p>
+Suivant l&#39;ordonnance de 1670, les lettres d&#39;abolition,
+celles pour ester à droit après les cinq ans de
+la contumace, de rappel de ban ou de galeres, de
+commutation de peine, réhabilitation du condamné
+en ses biens &amp; bonne renommée, &amp; de révision de
+procès, ne peuvent être scellées qu&#39;en la grande
+chancellerie.
+</p>
+<p>
+Les lettres de rémission qui s&#39;accordent pour homicide 
+involontaire, ou commis dans la nécessité
+d&#39;une légitime defense de la vie, peuvent être scellées 
+dans les petites chancelleries.
+</p>
+<p>
+On peut obtenir <i>grace</i> par un simple brevet, &amp;
+sans qu&#39;il y ait dans le moment des lettres de chancellerie ; 
+savoir, quand les rois font leur entrée pour
+la premiere sois, après leur avénement à la couronné,
+ils ont coûtume de donner <i>grace</i> à tous les criminels 
+qui sont détenus dans les prisons de la ville où le
+roi fait son entrée : mais si les criminels ne levent pas
+leurs lettres en chancellerie six mois après la date du
+brevet du grand-aumônier, ils en sont déchûs.
+</p>
+<p>
+Le roi accorde aussi quelquefois de semblables <i>graces</i> à la naissance des fils de France, &amp; aux entrées des
+reines. Lorsque Charles VI. établit le duc de Berri
+son frere, pour son lieutenant dans le Languedoc en
+1380, il lui donna, entre autres choses, le pouvoir
+d&#39;accorder des lettres de <i>grace</i>.
+</p>
+<p>
+Louis XI. permit aussi à Charles duc d&#39;Angoulême d&#39;en donner une fois dans chaque ville où il feroit 
+son entrée.
+</p>
+<p>
+Mais aucun prince n&#39;a ce droit de son chef ; &amp;
+quelqu&#39;étendue de pouvoir que nos rois accordent
+dans les apanages aux enfans de France, le droit de
+donner des lettres de <i>grace</i> n&#39;y est jamais compris.
+Louise de Savoie ayant obtenu le privilége de donner 
+des lettres de <i>grace</i> dans le duché d&#39;Anjou, s&#39;en
+départit, ayant appris que le parlement de Paris
+avoit délibéré de faire au roi des remontrances à ce
+sujet.
+</p>
+<p>
+Il est quelquefois arrivé que dans les facultés des
+légats envoyés en France par la cour de Rome,
+on a inséré le pouvoir d&#39;abolir le crime d&#39;hérésie
+dont les accusés pourroient être prevenus. Les parlemens 
+ont toûjours rejetté ces sortes de clauses. Le
+cardinal de Plaisance légat, ayant en l&#39;année 1547
+donné des lettres de <i>grace</i> à un clerc qui avoit tué
+un soldat ; par arrêt du 5 Janvier 1548, il fut dit
+qu&#39;il avoit été mal, nullement &amp; abusivement procédé 
+à l&#39;entérinement de telles lettres par le juge
+ecclésiastique, &amp; que nonobstant ces lettres, le procès 
+seroit fait &amp; parfait à l&#39;accusé.
+</p>
+<p>
+Les évêques d&#39;Orléans donnoient autrefois des
+lettres de <i>grace</i> à tous les criminels qui venoient se
+rendre dans les prisons d&#39;Orléans lors de leur entrée
+solennelle à Orléans : il ne s&#39;en trouva d&#39;abord que
+<pb n="7:804" facs="V7/ENC_7-804.jpeg" />
+<milestone unit="column" n="1" />
+deux ou trois ; mais par succession de tems le nombre 
+s&#39;en accrut beaucoup, tellement qu&#39;en 1707 il
+y en eut jusqu&#39;à 900, &amp; en 1733 il y en eut plus de
+1200. L&#39;édit du mois de Novembre 1753 a beaucoup 
+restraint ce privilége. Il est dit dans le préambule,
+qu&#39;il n&#39;appartient qu&#39;à la puissance souveraine
+de faire <i>grace ;</i> que les empereurs chrétiens par respect 
+filial pour l&#39;église, donnoient accès aux supplications 
+de ses ministres pour les criminels ; que les
+anciens rois de France déféroient aussi souvent à la
+priere charitative des évêques, sur-tout en des occasions 
+solennelles où l&#39;église usoit aussi quelquefois
+d&#39;indulgence envers les pécheurs, en se relâchant de
+l&#39;austérité des pénitences canoniques ; que telle est
+l&#39;origine de ce qui se pratique à l&#39;avenement des
+évêques d&#39;Orléans à leur entrée ; que cet usage n&#39;etant 
+pas soûtenu de titres d&#39;une autorité inébranlable,
+sa Majesté a cru devoir lui donner des bornes.
+</p>
+<p>
+Le Roi ordonne en conséquence, qu&#39;à l&#39;avenir les
+évêques d&#39;Orléans à leur entrée pourront donner
+aux prisonniers en ladite ville, pour tous crimes
+commis dans le diocese &amp; non ailleurs, leurs lettres
+d&#39;intercession &amp; déprécation ; sur lesquelles le roi
+fera expédier des lettres de <i>grace</i> sans frais ; qu&#39;en signifiant 
+les lettres déprécatoires, il sera sursis pendant 
+six mois, sauf l&#39;instruction qui sera continuée.
+</p>
+<p>
+L&#39;édit excepte de ces lettres, l&#39;assassinat prémédité,
+le meurtre ou outrage &amp; excès, ou recousse
+des prisonniers pour crime, des mains de la justice,
+commis ou machiné par argent ou sous autre engagement ; 
+le rapt commis par violence ; les exces ou
+outrages commis en la personne des magistrats ou
+officiers, huissiers &amp; sergens royaux exerçans, faisant 
+ou exécutant quelque acte de justice ; les circonstances 
+&amp; dépendances desdits crimes, telles qu&#39;elles 
+sont prévûes &amp; marquées par les ordonnances,
+&amp; tous autres forfaits &amp; cas notoirement réputés non
+graciables dans le royaume.
+</p>
+<p>
+Pour ce qui est des regles que l&#39;on observe par
+rapport aux lettres d&#39;abolition, rémission, pour dons
+&amp; autres lettres de <i>grace ;</i> en général il faut observer
+que tous les juges auxquels les lettres d&#39;abolition
+sont adressées, doivent les entériner incessamment,
+si elles sont conformes aux charges &amp; imformations:
+les cours souveraines peuvent cependant faire des
+remontrances au roi, &amp; les autres juges representer
+à M. le chancelier ce qu&#39;ils jugent à-propos sur l&#39;atrocité 
+du crime.
+</p>
+<p>
+On ne doit pas accorder de lettres d&#39;abolition pour
+les duels, assassinats prémédités, soit pour ceux qui
+en sont les auteurs ou complices, soit pour ceux qui
+à prix d&#39;argent ou autrement, se louent &amp; s&#39;engagent 
+pour tuer, outrager, excéder ou retirer des
+mains de la justice les prisonniers pour crime, ni à
+ceux qui les auront loués ou induits pour ce faire,
+quoiqu&#39;il n&#39;y ait eu que la seule machination &amp; attentat 
+sans effet ; pour crime de rapt commis par violence,
+ni à ceux qui ont excédé ou outragé quelque
+magistrat, officier, huissier, ou sergent royal, faisant 
+ou exécutant quelque acte de justice.
+</p>
+<p>
+L&#39;arrêt ou le jugement de condamnation doit être
+attaché sous le contre-scel des lettres de rappel de
+ban ou de galeres, de commutation de peine, ou de
+réhabilitation, à peine de nullité; &amp; toutes ces lettres 
+doivent être entérinées, quoiqu&#39;elles ne soient
+pas conformes aux charges &amp; informations : si elles
+sont obtenues par des gentilshommes, ils doivent y
+exprimer nommément leur qualité, à peine de nullité.
+</p>
+<p>
+Pour obtenir des lettres de revision, on présente
+requête au conseil, laquelle est renvoyée aux maîtres 
+des requêtes pour donner leur avis ; ensuite duquel 
+intervient arrêt qui ordonne que les lettres seront 
+expédiées. <i>Voyez</i> <sc><ref target="head:Revision" type="search">Revision</ref></sc>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les lettres de <i>grace</i> obtenues par les gentilshommes,
+doivent etre adressées aux cours souveraines
+qui peuvent néanmoins renvoyer l&#39;instruction sur
+les lieux, si la partie civile le requiert. L&#39;adresse en
+peut aussi être faite aux présidiaux, si la compétence 
+y a été jugée.
+</p>
+<p>
+Les lettres obtenues par les roturiers, s&#39;adressent
+aux baillis &amp; sénéchaux des lieux où il y a siege présidial ; 
+&amp; dans les provinces où il n&#39;y a point de présidial,
+l&#39;adresse se fait aux juges ressortissans nuement
+aux cours.
+</p>
+<p>
+On ne peut présenter les lettres d&#39;abolition, rémission,
+pardon, &amp; pour ester à droit, que l&#39;accuse
+ne soit actuellement en prison, &amp; il doit y demeurer 
+pendant toute l&#39;instruction, &amp; jusqu&#39;au jugement 
+définitif ; &amp; la signification des lettres ne peut
+suspendre les decrets ni l&#39;instruction, jugement &amp;
+exécution de la contumace, si l&#39;accusé n&#39;est dans les
+prisons du juge auquel les lettres auront été adressées.
+</p>
+<p>
+On doit présenter les lettres dans les trois mois
+de leur date ; mais comme l&#39;accusé est ordinairement 
+absent, &amp; même souvent qu&#39;il ignore qu&#39;on ait
+obtenu pour lui des lettres, on en a accordé quelquefois 
+de nouvelles après les trois mois expirés.
+</p>
+<p>
+Les charges &amp; informations avec les lettres, même 
+les procedures faites depuis l&#39;obtention des lettres,
+doivent être incessamment apportées au greffe
+des juges auxquels l&#39;adresse des lettres est faite ; &amp;
+l&#39;on ne peut procéder à l&#39;entérinement, que toutes
+les charges &amp; informations n&#39;ayent été apportées &amp;
+communiquées avec les lettres aux procureurs du
+roi, quelque diligence que les impétrans ayent faite
+pour les faire apporter, sauf à décerner des exécutoires 
+&amp; autres peines contre les greffiers négligens.
+</p>
+<p>
+Les lettres doivent être signifiées à la partie civile,
+pour donner ses moyens d&#39;opposition ; &amp; le
+procureur du roi &amp; la partie civile peuvent, nonobstant 
+la presentation des lettres de rémission &amp;
+pardon, informer par addition, &amp; faire recoller &amp;
+confronter les temoins.
+</p>
+<p>
+Les demandeurs en lettres d&#39;abolition, rémission
+&amp; pardon, sont tenus de les présenter à l&#39;audience
+tête nue &amp; à genoux sans épée ; &amp; après qu&#39;elles ent
+été lûes en leur présence, ils doivent affirmer qu&#39;ils
+ont donné charge d&#39;obtenir ces lettres, qu&#39;elles contiennent 
+vérité, qu&#39;ils veulent s&#39;en servir : après quoi
+ils sont renvoyés en prison, &amp; ensuite sont interrogés 
+par le rapporteur du procès.
+</p>
+<p>
+De telle nature que soient les lettres de <i>grace</i>,
+ceux qui les ont impétrées doivent être interrogés sur
+la sellette, &amp; l&#39;interrogatoire rédigé par écrit par le
+greffier, &amp; envoyé en cas d&#39;appel avec le procès.
+</p>
+<p>
+Si les lettres sont obtenues pour des cas qui ne
+soient pas graciables, ou si elles ne sont pas conformes 
+aux charges, l&#39;impétrant en est debouté; parce
+qu&#39;on suppose que le roi a été surpris, son intention
+n&#39;étant de faire <i>grace</i> qu&#39;autant que le cas est graciable.
+<i>Voyez l&#39;ordonnance de 1670, tit. xvj</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

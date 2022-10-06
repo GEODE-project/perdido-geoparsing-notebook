@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29644" id="53:124:1" vol="7">
+<index type="head" value="Gladiateurs, (Guerre des)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. rom." />
+<index type="normclass" value="Histoire romaine" />
+<index type="englishclass" value="Roman history" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Gladiateurs</head>
+<p>
+<sc>Gladiateurs</sc>, (<sc>Guerre des</sc>) <i>bellum gladiatorum</i>, (<i>Hist. rom.</i>) guerre domestique &amp; dangereuse
+que Spartacus excita en Italie l&#39;an 680 de la fondation 
+de Rome.
+</p>
+<p>
+Ce <i>gladiateur</i> homme de courage &amp; d&#39;une bravoure 
+à toute épreuve, s&#39;échappa de Capoue où il
+étoit gardé avec soixante &amp; dix de ses camarades ; il
+les exhorta de sacrifier leur vie plûtôt pour la défense 
+de la liberté, que pour servir de spectacle à
+<pb n="7:698" facs="V7/ENC_7-698.jpeg" />
+<milestone unit="column" n="1" />
+l&#39;inhumanité de leurs patrons ; il les persuada, rassembla 
+sous ses drapeaux un grand nombre d&#39;autres
+esclaves fugitifs, animés du même esprit ; il se mit
+à leur tête, s&#39;empara de la Campanie, &amp; remporta
+de grands avantages sur les préteurs romains, que
+le sénat se contenta d&#39;abord de lui opposer avec peu
+de troupes.
+</p>
+<p>
+L&#39;affaire ayant paru plus sérieuse, les consuls eurent 
+ordre de marcher avec les légions ; Spartacus
+les défit entierement, ayant choisi son camp &amp; le
+champ de bataille comme auroit pû faire un général 
+consommé; de si grands succès attirerent une
+foule innombrable de peuples sous les enseignes de
+Spartacus, &amp; ce <i>gladiateur</i> redoutable se vit jusqu&#39;à
+six vingt mille hommes à ses ordres, bandits, esclaves,
+transfuges, gens féroces &amp; cruels, qui portoient 
+le fer &amp; le feu de tous côtés, &amp; qui n&#39;envisageoient 
+dans leur révolte qu&#39;une licence effrénée &amp;
+l&#39;impunité de leurs crimes.
+</p>
+<p>
+Il y avoit près de trois ans que cette guerre domestique 
+duroit en Italie, avec autant de honte que
+de desavantage pour la république, lorsque le sénat
+en donna la conduite en 682 à Licinius-Crassus, un
+des premiers capitaines du parti de Sylla, &amp; qui
+avoit eu beaucoup de part à ses victoires.
+</p>
+<p>
+Crassus savoit faire la guerre, &amp; la fit heureusement ; 
+il tailla en pieces en deux batailles rangées
+les troupes de Spartacus, qui cependant prouva toûjours 
+qu&#39;il ne lui manquoit qu&#39;une meilleure cause à
+défendre : on le vit blessé à la cuisse d&#39;un coup de
+javeline combattre long-tems à genou, tenant son
+bouclier d&#39;une main &amp; son épée de l&#39;autre. Enfin
+percé de coups, il tomba sur un monceau ou de romains 
+qu&#39;il avoit immolés à sa propre fureur, ou de
+ses propres soldats qui s&#39;étoient fait tuer aux piés de
+leur général en le défendant.
+</p>
+<p>
+<i>Voyez</i> les détails de la guerre célebre des <i>gladiateurs</i> dans les historiens romains, dans Tite-Live,
+<i>liv. XCVII.</i> Athénée, <i>liv. II.</i> Eutrope, <i>liv. VI.</i> Appian, <i>de la guerre civile, liv. II.</i> Florus, <i>liv. III. chap.
+xx.</i> César, <i>commentaires liv. I.</i> Valere-Maxime, <i>liv.
+VIII.</i> Velleius-Paterculus, <i>liv. II. &amp; autres.</i> (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29946" id="53:326:1" vol="7">
+<index type="head" value="Goulu de mer" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Icthyolog." />
+<index type="normclass" value="Ichtiologie" />
+<index type="englishclass" value="Ichthiology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Goulu de mer</head>
+<p>
+<sc>Goulu de mer</sc>, <i>galeus glaucus</i> d&#39;Artedi, (<i>Icthyolog.</i>)
+espece de <i>squalus</i>, &amp; l&#39;un des plus voraces de
+tous les animaux aquatiques. Il est d&#39;un beau bleu
+sur le dos &amp; d&#39;un blanc-argentin sur le ventre ; ses
+narines s&#39;étendent transversalement à toute la longueur 
+du nez ; les trous de ses yeux sont de forme
+elliptique : il a deux rangs de dents larges &amp; triangulaires ; 
+sa queue est fourchue, mais une des fourches 
+est plus grosse que l&#39;autre ; enfin il a cette particularité 
+remarquable, &amp; néanmoins commune
+avec les autres poissons de son genre, c&#39;est que sa
+vaste gueule est à la partie inférieure de la tête, ensorte 
+qu&#39;il est obligé de se tourner sur le dos avant
+que de pouvoir attraper sa proie. Si les poissons auxquels 
+il donne la chasse, ne s&#39;échappoient dans cet
+intervalle, dit le docteur Hansloane, aucun d&#39;eux ne
+pourroit l&#39;éviter, tant il a d&#39;ardeur, de vîtesse, &amp;
+de force en nageant. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

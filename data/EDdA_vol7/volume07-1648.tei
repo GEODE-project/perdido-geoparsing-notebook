@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29102" id="51:241" vol="7">
+<index type="head" value="GARDIENS, matelots gardiens" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m.pl." />
+<head>GARDIENS</head>
+<p>
+GARDIENS, s. m. pl. (<i>Marine.</i>) <i>matelots gardiens ;</i>
+ce sont des matelots commis dans un port pour la
+garde des vaisseaux &amp; pour veiller à la conservation 
+des arsenaux de Marine. On partage les <i>matelots
+gardiens</i> en trois brigades égales en nombre &amp; force,
+suivant le rôle qui est arrêté par le capitaine de
+port ; chaque brigade est conduite par un maitre des
+matelots choisi par le capitaine du port. Sur les vaisseaux 
+du premier rang il doit y avoir huit <i>matelots
+gardiens ;</i> sur ceux du second rang, six ; sur ceux du
+troisieme, quatre ; sur ceux du quatrieme &amp; cinquieme,
+trois ; sur les frégates, brûlots, flûtes, &amp; autres 
+bâtimens, deux ou un, selon le besoin. Dans
+le nombre des <i>gardiens</i>, il doit y avoir le quart qui
+soient calfats ou charpentiers ; l&#39;ordonnance de la
+Marine de 1689 regle tout ce qui concerne les <i>gardiens</i>. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

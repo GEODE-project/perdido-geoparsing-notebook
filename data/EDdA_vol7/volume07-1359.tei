@@ -1,0 +1,163 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28813" id="51:111:1" vol="7">
+<index type="head" value="Galanga" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan. exot." />
+<index type="normclass" value="Botanique exotique" />
+<index type="englishclass" value="Exotic botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Galanga</head>
+<p>
+<sc>Galanga</sc>, (<i>Botan. exot.</i>) racine des Indes orientales,
+qui est d&#39;usage en Medecine.
+</p>
+<p>
+On trouve deux especes de <i>galanga</i> dans les boutiques,
+le petit &amp; le grand, tous deux décrits avec
+soin par M. Geoffroy. Le petit <i>galanga, galanga minor</i>, ou <i>galanga sinensis off.</i> est une racine tubéreuse,
+noüeuse, genouillée, tortue, repliée &amp; recourbée 
+comme par articulations de distance en distance,
+divisée en branches, &amp; entourée de bandes circulaires : cette racine est inégale, dure, solide, de la grosseur 
+du petit doigt, de couleur brune en-dehors &amp;
+rougeâtre en-dedans, d&#39;une odeur vive, aromatique:
+sa saveur un peu amere, pique &amp; brûle le gosier,
+comme font le poivre &amp; le gingembre. On rous apporte 
+cette racine séchée, coupée par tranches ou
+en petits morceaux ; on la tire de la Chine &amp; des
+Indes orientales, où elle croît d&#39;elle-même, &amp; où les
+habitans la cultivent : il faut la choisir saine, nourrie,
+compacte, odorante, d&#39;un goût piquant.
+</p>
+<p>
+La plante qui s&#39;éleve de cette racine est appellée
+<i>lagundi</i> par les Indiens. On assûre qu&#39;elle est composée 
+de feuilles graminées, comme le gingembre ; qué
+les fleurs, extrèmement odorantes, sont blanches &amp;
+faites en maniere de casque ; &amp; que son fruit a trois
+loges pleines de petites graines arrondies.
+</p>
+<p>
+Le grand <i>galanga, galanga major, galanga javanensis 
+off.</i> est une racine tubéreuse, noüeuse, inégale,
+genouillée, semblable à celle du petit <i>galanga</i>, mais
+plus grande, de la grosseur d&#39;un ou de deux pouces,
+d&#39;une odeur &amp; d&#39;un goût bien plus foibles &amp; moins
+agréables, d&#39;un brun rougeâtre en dehors &amp; pâle
+en-dedans. La plante qui produit cette racine s&#39;appelle 
+aux Indes <i>bangula ;</i> &amp; c&#39;est tout ce que nous en
+savons.
+</p>
+<p>
+Le grand &amp; le petit <i>galanga</i> ont été également inconnus 
+aux Grecs anciens &amp; modernes, ainsi qu&#39;aux
+Arabes : ces deux racines contiennent un sel volatil,
+huileux, aromatique, mais en plus grande abondance 
+dans le petit <i>galanga</i> que dans le grand.
+</p>
+<p>
+Le petit <i>galanga</i> passe sur-tout pour être propre à
+fortifier l&#39;estomac relâché par l&#39;atonie des fibres : on
+peut alors l&#39;employer comme stomachique, jusqu&#39;au
+<milestone unit="column" n="2" />
+poids d&#39;une dragme en poudre, &amp; jusqu&#39;à trois dragmes 
+en infusion dans un véhicule convenable. Les
+Indiens se servent des deux racines pour assaisonner
+leur nourriture, &amp; nos Vinaigriers pour donner de
+la force à leurs vinaigres : les Droguistes vendent
+quelquefois l&#39;un &amp; l&#39;autre <i>galanga</i> pour la racine
+d&#39;acorus : cependant cette derniere n&#39;a pas une adstriction 
+si considérable.
+</p>
+<p>
+L&#39;huile pure des fleurs de <i>galanga</i>, qu&#39;on tire aux
+Indes orientales, est aussi rate que précieuse : M.
+Tronchin en reçut en 1749 du gouverneur de Batavia, une très-petite quantité, mais d&#39;une qualité si
+parfaite, que je parfumai, j&#39;embaumai deux livres
+de thé avec une seule goutte de cette huile admirable.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

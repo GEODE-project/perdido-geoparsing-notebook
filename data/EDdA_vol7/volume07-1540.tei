@@ -1,0 +1,137 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28994" id="51:235:1" vol="7">
+<index type="head" value="Garde ou Gardien" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclés." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="s.m." />
+<head>Garde</head>
+<p>
+<sc>Garde</sc> <i>ou</i> <sc>Gardien</sc>, s. m. (<i>Hist. ecclés.</i>) nom
+qu&#39;on trouve dans les auteurs ecclésiastiques appliqué 
+à différentes personnes chargées de diverses fonctions.
+</p>
+<p>
+1°. On appelloit <i>gardes</i> ou <i>gardiens</i> des églises,
+<i>custodes ecclesiarum</i>, certaines personnes specialement 
+chargées du soin &amp; des réparations des églises.
+<milestone unit="column" n="2" />
+Bingham croit que c&#39;étoient les mêmes officiers,
+qu&#39;on nommoit communément <i>portiers</i>, ce qui paroît
+revenir à ce que nous appellons <i>marguilliers</i> ou <i>fabriciens</i>. C&#39;étoient des économes ou des administrateurs 
+qui veilloient à la régie des biens temporels
+de l&#39;Eglise. Le même auteur remarque dans un autre
+endroit que ces <i>gardiens</i> recevoient non-seulement
+les revenus des églises, mais encore en gardoient les
+thrésors, les vases, l&#39;argenterie ; qu&#39;ils n&#39;étoient pas
+tirés du clergé, mais d&#39;entre les principaux du peuple,
+&amp; quelquefois du corps des magistrats. On a
+une lettre de S. Augustin à l&#39;église d&#39;Hippone, intitulée 
+<i>clero, senioribus &amp; universae plebi ;</i> &amp; M. Laubepine dans <i>ses notes sur</i> Optat, fait aussi mention de
+ces anciens ou <i>gardiens</i> des églises. Peut-être étoit-ce
+en Afrique la même charge que celle des défenseurs 
+en Orient &amp; en Europe. <i>Voyez</i> <sc><ref target="head:Défenseurs" type="search">Défenseurs</ref></sc>.
+</p>
+<p>
+2°. On nommoit <i>gardes</i> ou <i>gardiens</i> des saints
+lieux, <i>custodes sanctorum locorum</i>, ceux à qui l&#39;on
+avoit confié la <i>garde</i> des lieux sanctifiés par la présence 
+du Sauveur, comme le lieu où il étoit né en
+Bethléem, le Calvaire, la montagne des Oliviers,
+le saint Sépulchre, <i>&amp;c.</i> Cet emploi n&#39;étoit pas toûjours 
+confié à des ecclésiastiques ; mais ceux qui l&#39;exerçoient 
+joüissoient des mêmes priviléges que les
+clercs, &amp; étoient exemts de tributs, d&#39;impositions,
+&amp; des autres charges publiques, comme il paroît
+par le code théodosien, <i>lib. XVI. tit. xj. leg. 26</i>. Ce
+sont aujourd&#39;hui les Franciscains ou Cordeliers qui
+ont la <i>garde</i> du saint Sépulcre, sous le bon plaisir du
+grand-seigneur. Bingham, <i>orig. eccles. tom. I. lib. II.
+cap. xjx. §. 19. &amp; tom. II. lib. III. cap. xiij. §. 2</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,285 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28363" id="50:130:1" vol="7">
+<index type="head" value="Friction" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chirurgie." />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Friction</head>
+<p>
+<sc>Friction</sc>, (<i>Chirurgie.</i>) l&#39;action de frotter quelque
+partie du corps humain. La <i>friction</i> est au rang des
+exercices nécessaires à la santé; c&#39;est une des six choses 
+non naturelles, &amp; une espece de celles qui sont
+comprises sous le nom de <i>mouvement ;</i> les anciens en
+faisoient un grand cas, &amp; elle est sans doute trop négligée 
+de nos jours. Les <i>frictions</i> seroient utiles aux
+personnes qui, à raison des circonstances particulieres,
+ne peuvent ni marcher, ni courir, ni monter à
+cheval, ni jouer à la paume, en un mot, qui ne sout
+pas dans le cas de faire les exercices convenables à
+leur santé.
+</p>
+<p>
+Ambroise Paré, dans son <i>introduction à la Chirurgie</i>, réduit toutes les especes &amp; différences des <i>frictions</i>, à trois ; savoir, la forte, la douce, &amp; la modérée,
+qui tient le milieu entre les deux autres : dans
+la premiere, on frotte rudement les parties, soit avec
+la main, de la toile neuve, des éponges, &amp; autres
+choses : la vertu de cette sorte de <i>friction</i> est de resserrer 
+&amp; de fortifier les parties que l&#39;on y soûmet. Si on
+la réitere souvent, &amp; qu&#39;on frotte assez long-tems à
+chaque fois ; elle raréfie, évapore, résout, exténue, &amp;
+diminue la substance des parties : elle fait révulsion,
+disent les auteurs, &amp; détourne la fluxion des humeurs
+d&#39;une partie sur une autre. J&#39;ai vû des rhûmatismes
+&amp; autres douleurs fixes, qu&#39;aucun remede n&#39;avoit
+soulagées, céder à ces <i>frictions</i>. Elles sont très-efficaces pour fortifier les parties sur lesquelles il se fait
+habituellement des fluxions : par cette raison, elles
+sont un moyen utile dans la cure préservatrice des
+sciatiques &amp; autres maladies du genre goutteux &amp;
+rhûmatisant, fort sujettes à récidive. Au reste, on
+conçoit bien que le degré de force qui établit la différence 
+des trois especes de <i>frictions</i>, doit être relatif : car celles qui seroient modérées pour une personne 
+très-robuste, pourroient être trop violentes
+pour les <i>frictions</i> les plus fortes convenables à une
+personne délicate. Il faut aussi avoir égard à l&#39;âge &amp;
+à la constitution naturelle des parties plus ou moins
+tendres &amp; sensibles.
+</p>
+<p>
+Les plus grands maîtres ont conseillé, dans la cure 
+de la léthargie, des <i>frictions</i> sur l&#39;occipital &amp; le
+<pb n="7:307" facs="V7/ENC_7-307.jpeg" />
+<milestone unit="column" n="1" />
+cou, dirigées de haut en bas. Elles doivent être d&#39;autant 
+plus fortes, que l&#39;assoupissement est plus profond.
+Lancisi rapporte que les gens du peuple, que
+les remedes les plus violens n&#39;avoient pû réveiller
+d&#39;un assoupissement apoplectique, ont été sur le
+champ rappellés à la vie par des fers rouges qu&#39;on
+approcha de la plante de leurs piés. M. Winslow, dans
+sa thèse sur les signes de la mort, dit qu&#39;on peut exciter 
+avec succès, dans ces cas, une sensation douloureuse 
+avec l&#39;eau bouillante, la cire ordinaire, ou
+la cire d&#39;Espagne brûlante ; ou bien avec une meche
+allumée, sur les mains, les bras, ou autres parties
+du corps. Mais les <i>frictions</i> très fortes produiront le
+même effet, &amp; sont preferables, à beaucoup d&#39;égards.
+On lit dans les <i>éphémérides de l&#39;académie des
+curieux de la nature</i>, qu&#39;un medecin ayant soupçonné
+qu&#39;un homme qui étoit sans pouls &amp; sans respiration,
+n&#39;étoit pas moit, fit frotter la plante des piés
+de cet homme pendant trois quarts-d&#39;heure, avec
+une toile de crin pénétrée d&#39;une saumure très-forte,
+&amp; que par ce moyen il le rappella à la vie. Les
+<i>frictions</i> faites avec un linge chaud sur la surface extérieure 
+du corps des noyes, sont un des principaux
+secours qui favorisent l&#39;effet des moyens qui ont le
+plus de vertu pour les rappeller d&#39;une mort apparente 
+à l&#39;exercice des fonctions vitales. Dans ce cas,
+les <i>frictions</i> ne peuvent pas servir à rappeller le sang
+du centre à la circonference ; mais elles préviennent
+la coagulation des liqueurs, auxquelles elles donnent 
+du mouvement. <i>Voyez</i> les observations sur la
+cause de la mort des noyés, &amp; sur les secours qui leur
+conviennent, à la suite des <i>lettres sur la certitude des
+fignes de la mort</i>, à Paris, chez Lambert, 1752.
+</p>
+<p>
+La <i>friction</i> douce ou legere a des effets différens
+de la forte ; elle amollit &amp; relâche ; elle rend la peau
+douce &amp; polie, pourvû néanmoins qu&#39;on employe
+assez de tem ; à la faire ; car celle qui seroit d&#39;une
+trop courte durée seroit absolument sans effet. Ces
+sortes de <i>frictions</i> en produisent un très-bon sur les
+membres débilités par la gêne &amp; la contrainte qu&#39;ils
+essuient de la part des bandages, &amp; par l&#39;inaction.
+pendant le tems de la cure des fractures, des grandes
+plaies, <i>&amp;c</i>.
+</p>
+<p>
+Quelques personnes sont dans l&#39;usage de se faire
+frotter leger ement le matin &amp; le soir avec une brosse
+douce, pour ouvrir les pores &amp; faciliter la transpiration ; 
+&amp; elles se trouvent très-bien de ce genre d&#39;exercice.
+</p>
+<p>
+La <i>friction</i> modérée tient le milieu entre les deux
+autres ; elle attire le sang &amp; les esprits sur la partie ;
+elle convient aux membres atrophiés, parce qu&#39;elle
+fait augmentation d&#39;aliment &amp; nutrition, comme disent 
+nos anciens, d&#39;après Galien, <i>lib. de sanitate
+tuendâ</i>. On a quelquefois réussi à rappeller la goutte
+dans les extrémités inférieures, en les frottant modérément 
+depuis les piés jusqu&#39;à la moitié des cuisses,
+avec une flanelle douce, de trois en trois heures,
+pendant un quart-d&#39;heure à chaque fois.
+</p>
+<p>
+En général, les <i>frictions</i> exigent les mêmes précautions,
+pour être administrées sagement, que les
+autres exercices. Il faut être attentif au tems, à la
+quantité, à la qualité, &amp; à la réitération convenables.
+Toutes ces choses doivent être soûmises à des
+indications raisonnées sur l&#39;etat de la personne, &amp;
+sur l&#39;effet qu&#39;on se propose d&#39;obtenir des <i>frictions.
+Voyez</i> <sc><ref target="head:Exercice" type="search">Exercice</ref></sc>, (<i>Medecine</i>.)
+</p>
+<p>
+On prépare utilement à l&#39;efficacité de l&#39;application 
+des ventouses, des vésicatoires &amp; des cauteres
+potentiels ; à celle des fomentations résolutives, des
+emplâtres de même vertu, &amp; de tous les remedes
+incisifs ou stimulans dont on se sert sur les tumeurs
+oedémateuses, &amp; autres congestions de matieres froides 
+&amp; indolentes qu&#39;on veut échauffer ; on prépare,
+dis-je, au bon effet de ces remedes, par des <i>frictions</i>
+<milestone unit="column" n="2" />
+modérées faites avec des linges chauds, &amp; assez longtems.
+M. Petit parlant de la cure de l&#39;anchylose, dans
+son <i>traité des maladies des os</i>, dit que les <i>frictions</i> faites 
+avec des linges chauds, peuvent d&#39;abord être mises 
+utilement en usage, pour suppléer au mouvement 
+de l&#39;article ; &amp; que si ces <i>frictions</i> ne suffisent
+pas seules pour résoudre la synovie &amp; dissiper le gonflement 
+de la jointure, elles servent du-moins à assûrer 
+l&#39;effet des autres remedes, qui par ce moyen agissent 
+plus efficacement.
+</p>
+<p>
+Il y a des fievres continues où les malades ont
+presque toûjours les extrémités froides : dans ce cas,
+outre les linges chauds qu&#39;on renouvelle souvent,
+on fait des <i>frictions</i> douces avec des linges mollets,
+&amp; ensuite des onctions avec les huiles d&#39;amandes
+douces, de lys, de camomille, <i>&amp;c.</i> afin de rappeller
+la chaleur.
+</p>
+<p>
+Le duc d&#39;Ascot demanda au roi Charles IX. de lui
+envoyer Ambroise Paré, premier chirurgien, pour
+le marquis d&#39;Avret son frere, qui étoit à la derniere 
+extrémité, à la suite d&#39;un coup de feu reçû sept
+mois auparavant, avec fracture de l&#39;os de la cuisse.
+Dans cette cure, l&#39;une des plus belles qu&#39;on ait faites 
+en ce genre, Ambroise Paré prescrivit des <i>frictions</i> avec des linges chauds sur la partie, pour favoriser 
+l&#39;action des remedes capables d&#39;atténuer &amp;
+de résoudre l&#39;engorgement du membre blessé; &amp; il
+en faisoit faire
+<blockquote> 
+« le matin d&#39;universelles de tout le
+corps, qui étoit grandement exténué &amp; amaigri
+par les douleurs &amp; accidens, &amp; aussi par faute d&#39;exercice ».
+</blockquote>
+</p>
+<p>
+Dans les sueurs qui arrivent spontanément, ou
+par l&#39;action des remedes sudorifiques, aussi-bien que
+dans celles que procure un exercice violent, tel que
+le jeu de la paume, il est convenable, avant de changer 
+de linge, de se faire essuyer &amp; frotter modérément 
+avec des linges chauds. Cette <i>friction</i> non-seulement nettoie le corps, en absorbant l&#39;humidité qui
+le mouille, mais elle fait sortir &amp; exprime des pores
+de la peau des restes de sueurs &amp; de sucs excrémenteux 
+qui y ont été portés, &amp; donne du ressort aux
+pardies : aussi remarque-t-on que ces <i>frictions</i> préviennent 
+la lassitude ; effet ordinaire de l&#39;épuisement.
+</p>
+<p>
+On donne le nom de <i>frictions</i> aux mouvemens que
+le chirurgien fait dans l&#39;opération de la saignée, pour
+pousser le sang vers la ligature, dans la veine qu&#39;on
+doit picquer, afin de faire gonfler ce vaisseau, pour
+la facilité de l&#39;ouvrir.
+</p>
+<p>
+<i>Friction mercurielle</i>, est une onction faite sur les
+parties du corps avec l&#39;onguent napolitain, pour la
+guérison des maladies vénériennes. <i>V.</i> <sc><ref target="head:Vérole" type="search">Vérole</ref></sc>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

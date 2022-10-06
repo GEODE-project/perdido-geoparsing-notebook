@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29362" id="52:153" vol="7">
+<index type="head" value="GENITA-MANA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythol." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="NA" />
+<head>GENITA-MANA</head>
+<p>
+<i>GENITA-MANA</i>, (<i>Mythol.</i>) déesse qui présidoit 
+aux enfantemens ; les Romains lui sacrifioient
+un chien, comme les Grecs en sacrifioient un à Hécate. On faisoit à cette déesse une priere conçue en
+termes fort singuliers : on lui demandoit la faveur
+que de ce qui naîtroit dans la maison rien ne devint
+bon. Plutarque dans ses questions romaines, <i>quest.
+52</i>, donne deux explications de cette façon de parler 
+énigmatique ; l&#39;une est de ne pas entendre la priere 
+des personnes, mais des chiens, Alors, dit-il, l&#39;on
+demandoit à la déesse que ces animaux qui naîtroient
+dans la maison, ne fussent pas doux &amp; pacifiques,
+mais méchans &amp; féroces ; ou bien, selon Plutarque,
+en appliquant la priere aux personnes, le mot <i>devenir bon</i> signifioit <i>mourir ;</i> dans ce dernier sens l&#39;on
+prioit la déesse qu&#39;aucun de ceux qui naîtroient dans
+la maison, ne vînt à mourir dans cette même maison.
+Cette derniere explication, ajoûte-t-il, ne doit
+pas paroître étrange à ceux qui savent que dans un
+certain traité de paix conclu entre les Arcadiens &amp;
+les Lacédémoniens, il fut stipulé qu&#39;on ne <i>feroit bon</i>,
+c&#39;est-à-dire, selon Aristote, qu&#39;on ne <i>tueroit</i> personne
+d&#39;entre les Tégates pour les secours qu&#39;ils auroient
+pû prêter aux Lacédémoniens. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

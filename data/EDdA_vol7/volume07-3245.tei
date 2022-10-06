@@ -1,0 +1,104 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30699" id="55:248" vol="7">
+<index type="head" value="GUILLOCHER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Tourneur." />
+<index type="normclass" value="Tourneur" />
+<index type="englishclass" value="Turner" />
+<index type="generatedclass" value="Vernisseur" />
+<index type="pos" value="v.act." />
+<head>GUILLOCHER</head>
+<p>
+GUILLOCHER, v. act. (<i>Tourneur.</i>) <i>voyez à l&#39;article</i> <sc>Tour</sc> la maniere de <i>guillocher</i>. Les Vernisseurs
+font des tabatieres de carton, &amp; autres ouvrages qui
+semblent être <i>guillochés</i>, par les differentes couleurs
+qui y sont posées. Pour cet effet les ouvriers qui forment<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+la boîte, la <i>guillochent</i> sur le tour quand elle
+est bien seche, comme on fait aux boîtes d&#39;écaille ;
+ensuite le vernisseur remplit ces guillochures avec
+différentes couleurs au vernis, &amp; ensuite y met autant 
+de couches de verni qu&#39;il est nécessaire pour la
+rendre unie &amp; luisante.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

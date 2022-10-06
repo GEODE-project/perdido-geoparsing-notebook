@@ -1,0 +1,198 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29165" id="52:12" vol="7">
+<index type="head" value="GAS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chim." />
+<index type="normclass" value="Chimie" />
+<index type="englishclass" value="Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.m.pl." />
+<head>GAS</head>
+<p>
+GAS, s. m. pl. (<i>Chim.</i>) terme créé par Vanhelmont
+pour exprimer une vapeur invisible &amp; incoercible qui
+s&#39;éleve de certaines substances, par ex. des corps
+doux actuellement fermentans, du charbon embrasé,
+du soufre brûlant, du sel ammoniac auquel on applique 
+de l&#39;acide vitriolique ou des substances alkalines,
+<i>&amp;c.</i> Vanhelmont a compris encore sous le nom
+de <i>gas</i> les exhalaisons produites dans des soûterreins
+profonds, tels que les galeries des mines, ou sortant
+de certains creux, grottes, ou fentes de la terre, telles 
+que la grotte du chien ; le prétendu esprit des
+eaux minérales ; les odeurs fortes &amp; suffocantes ; en
+un mot toutes les vapeurs sur lesquelles M. Hales a
+fait les expériences rapportées dans son <i>VI. chapitre
+de la statique des végétaux</i>, &amp; dans l&#39;appendice qui termine 
+cet ouvrage. Quelques auteurs avoient auparavant 
+appellé ces vapeurs <i>spiritus sylvestres</i>, esprits
+sauvages.
+</p>
+<p>
+Comme nous n&#39;avons point de dénomination commune 
+pour désigner ces substances, il sera commode
+de retenir celle de <i>gas</i>, &amp; de désigner sous ce nom
+générique toutes les vapeurs invisibles &amp; incoercibles 
+qui sont capables de fixer l&#39;air, de détruire son
+élasticité, ou plûtôt de le dissoudre, pour parler le
+langage chimique, qui étant respirées par les animaux,
+gênent singulierement le jeu de leurs poumons,
+au point même de les suffoquer quelquefois
+subitement, qui éteignent la flamme, qui se décelent
+d&#39;ailleurs par une odeur plus ou moins fétide, &amp; souvent 
+en irritant les yeux jusqu&#39;à en arracher des
+larmes.
+</p>
+<p>
+Les vapeurs connues qui produisent tous ces effets,
+sont, outre celles dont nous avons déjà parlé, la
+vapeur des bougies, des chandelles, des lampes allumées,
+c&#39;est-à-dire la fumée des substances huileuses
+brûlantes ; celles de toutes les substances végétales
+&amp; animales brûlantes ; celles des corps pourrissans ;
+certains clissus ; les acides minéraux volatils, &amp; les
+alkalis volatils, sur-tout ceux qui sont animés par la
+chaux.
+</p>
+<p>
+M. Hales a pensé que le phénomene de la suffocation 
+des animaux n&#39;étoit qu&#39;une suite de la fixation 
+de l&#39;air ou de la destruction de son élasticité ;
+c&#39;est-à-dire qu&#39;un animal frappé de la foudre ou
+placé dans une atmosphere infectée par le <i>gas</i> du vin
+ou par celui du charbon, mouroit
+<blockquote> 
+« parce que l&#39;élasticité 
+de l&#39;air qui environne l&#39;animal venant à manquer 
+tout-d&#39;un-coup, les poumons sont obligés de
+s&#39;affaisser ; ce qui suffit pour causer une mort subite ».
+</blockquote>
+<i>Statique des végétaux, traduct. franç. p. 221</i>.
+</p>
+<p>
+Cette explication, quoique très-séduisante par sa
+simplicité, ne paroît pas satisfaire entierement à toutes 
+les circonstances qui accompagnent ce phénomene : il nous paroît que la considération suivante
+suffit pour nous empêcher de l&#39;admettre. Les <i>gas</i> suffoquent <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+en plein air, quoique leur action soit moins
+énergique sur les animaux, en ce cas, que lorsqu&#39;ils
+les respirent dans des lieux fermés : or comment imaginer 
+que l&#39;atmosphere qui environne immédiatement 
+un animal, étant détruite ou supprimée, l&#39;air
+voisin ne la répare pas soudainement? Peut-on penser 
+qu&#39;un animal seroit suffoqué parce qu&#39;on établiroit devant sa bouche &amp; ses narines une espece
+de pompe qui absorberoit à chaque instant autant
+de piés cubiques d&#39;air qu&#39;on voudra supposer? Je
+crois que M. Roüelle est le premier qui a réfuté publiquement 
+ce sentiment de M. Hales.
+</p>
+<p>
+Les <i>gas</i> sont des êtres encore fort inconnus pour
+nous : nous n&#39;avons jusqu&#39;à-présent bien observé que
+les qualités génériques que nous venons de rapporter ;
+&amp; vraissemblablement leur incoercibilité les soustraira 
+encore long-tems à nos recherches.
+</p>
+<p>
+Becher tenta inutilement de ramasser du <i>gas</i> de
+vin, en appliquant des chapiteaux armés de réfrigérant,
+au bondon d&#39;un gros tonneau plein de moût
+actuellement fermentant : on a exposé en vain différens 
+aimans à la bouche des latrines les plus puantes ;
+on n&#39;a retenu aucun principe sensible : on sait que la
+nature de la mouffette de la grotte du chien s&#39;est refusée 
+aux fameuses expériences de M. l&#39;abbé Nollet.
+<i>Voyez</i> 
+<sc><ref target="head:Exhalaisons" type="search">Exhalaisons</ref>, <ref target="head:Moffete" type="search">Moffete</ref>, <ref target="head:Charbon" type="search">Charbon</ref>, <ref target="head:Soufre" type="search">Soufre</ref>, <ref target="head:Clissus" type="search">Clissus</ref>, <ref target="head:Fermentation" type="search">Fermentation</ref>, <ref target="head:Putréfaction" type="search">Putréfaction</ref>, <ref target="head:Vin" type="search">Vin</ref>, <ref target="head:Vinaigre" type="search">Vinaigre</ref></sc>.
+</p>
+<p>
+Vanhelmont a donné encore le nom de <i>gas</i> à l&#39;esprit 
+vital, à un prétendu baume ennemi de la putréfaction,
+<i>&amp;c.</i> mais ce n&#39;est ici, comme on voit, qu&#39;une
+expression figurée, ou qu&#39;une chimere. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

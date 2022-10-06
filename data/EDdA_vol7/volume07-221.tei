@@ -1,0 +1,422 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27675" id="48:98:5" vol="7">
+<index type="head" value="Conservation des forces vives" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Conservation des forces vives</head>
+<p>
+<sc>Conservation des forces vives</sc>. C&#39;est un
+principe de Méchanique que M. Huyghens semble
+avoir apperçû le premier, &amp; dont M. Bernoulli, &amp;
+plusieurs autres géometres après lui, ont fait voir
+depuis l&#39;étendue &amp; l&#39;usage dans la solution des problèmes 
+de Dynamique. Voici quel est ce principe ;
+il consiste dans les deux lois suivantes.
+</p>
+<p>
+1°. Si des corps agissent les uns sur les autres, soit
+en se tirant par des fils ou des verges inflexibles, soit
+en se poussant, soit en se choquant, pourvû que
+dans ce dernier cas, ils soient à ressort parfait, la
+somme des produits des masses par les quarrés des
+vîtesses fait toûjours une quantité constante. 2°. Si
+les corps sont animés par des puissances quelconques,
+la somme des produits des masses par les quarrés 
+des vîtesses à chaque instant, est égale à la somme 
+des produits des masses par les quarrés des vîtesses 
+initiales, plus les quarrés des vîtesses que les
+corps auroient acquises, si étant animés par les mêmes 
+puissances, ils s&#39;étoient mûs librement chacun
+sur la ligne qu&#39;il a décrite.
+</p>
+<p>
+Nous avons dit <i>soit en se poussant, soit en se choquant</i>, &amp; nous distinguons <i>la pulsion</i> d&#39;avec le <i>choc</i>,
+<pb n="7:115" facs="V7/ENC_7-115.jpeg" />
+<milestone unit="column" n="1" />
+parce que la conservation des <i>forces vives</i> a lieu dans
+les mouvemens des corps qui se poussent, pourvû
+que ces mouvemens ne changent que par degrés insensibles,
+ou plûtôt infiniment petits ; au lieu qu&#39;elle
+a lieu dans les corps élastiques qui se choquent, dans
+le cas même où le ressort agiroit en un instant indivisible,
+&amp; les feroit passer sans gradation d&#39;un mouvement 
+à un autre.
+</p>
+<p>
+M. Huyghens paroît être le premier qui ait apperçu 
+cette loi de la conservation des <i>forces vives</i> dans
+le choc des corps élastiques. Il paroît aussi avoir
+connu la loi de la conservation des <i>forces vives</i> dans
+le mouvement des corps qui sont animés par des
+puissances. Car le principe dont il se sert pour résoudre 
+le problème des centres d&#39;oscillation, n&#39;est autre
+chose que la seconde loi exprimée autrement. M.
+Jean Bernoulli dans son discours sur les lois de la
+communication du mouvement dont nous avons
+parlé, a développé &amp; étendu cette découverte de
+M. Huyghens, &amp; il n&#39;a pas oublié de s&#39;en servir pour
+prouver son opinion sur la mesure des <i>forces</i>, à laquelle 
+il croit ce principe très-favorable, puisque
+dans l&#39;action mutuelle de deux corps, ce n&#39;est presque 
+jamais la somme des produits des masses par les
+vîtesses qui fait une somme constante, mais la somme 
+des produits des masses par les quarrés des vîtesses.
+Descartes croyoit que la même quantité de
+<i>force</i> devoit toûjours subsister dans l&#39;univers, &amp; en
+conséquence il pretendoit faussement que le mouvement 
+ne pouvoit pas se perdre, parce qu&#39;il supposoit 
+la <i>force</i> proportionnelle à la quantité de mouvement.
+Ce philosophe n&#39;auroit peut-être pas été éloigné d&#39;admettre la mesure des <i>forces vives</i> par les
+quarrés des vîtesses, si cette idée lui fût venue dans
+l&#39;esprit. Cependant si on fait attention à ce que nous
+avons dit ci-dessus sur la notion qu&#39;on doit attacher
+au mot de <i>force</i>, il semble que cette nouvelle preuve 
+en faveur des <i>forces vives</i>, ou ne présente rien de
+net à l&#39;esprit, ou ne lui présente qu&#39;un fait &amp; une
+vérité avoués de tout le monde.
+</p>
+<p>
+Dans mon traité de Dynamique imprimé en 1743,
+j&#39;ai démontré le principe de la conservation des <i>forces vives</i> dans tous les cas possibles ; &amp; j&#39;ai fait voir
+qu&#39;il dépend de cet autre principe, que quand des
+puissances se font équilibre, les vîtesses <i>virtuelles</i>
+des points où elles sont appliquées, estimées suivant
+la direction de ces puissances, sont en raison inverse
+de ces mêmes puissances. Ce dernier principe est reconnu 
+depuis long-tems par les Géometres pour le
+principe fondamental de l&#39;équilibre, ou du moins
+pour une conséquence nécessaire de l&#39;équilibre.
+</p>
+<p>
+M. Daniel Bernoulli dans son excellent ouvrage
+intitulé <i>Hydrodynamica</i>, a appliqué le premier au
+mouvement des fluides le principe de la conservation
+des <i>forces vives</i>, mais sans le démontrer. J&#39;ai publié
+à Paris en 1744, <i>un traité de l&#39;équilibre &amp; du mouvement 
+des fluides</i>, où je crois avoir démontré le premier 
+la conservation des <i>forces vives</i> dans le mouvement 
+des fluides. C&#39;est aux savans à juger si j&#39;y ai
+réussi. Je crois aussi avoir prouvé que M. Daniel
+Bernoulli s&#39;est servi quelquefois du principe de la
+conservation des <i>forces vives</i> dans certains cas où il
+n&#39;auroit pas dû en faire usage. Ce sont ceux où la
+vîtesse du fluide ou d&#39;une partie du fluide change
+brusquement &amp; sans gradation, c&#39;est-à-dire sans diminuer 
+par des degrés insensibles. Car le principe
+de la conservation des <i>forces vives</i> n&#39;a jamais lieu
+lorsque les corps qui agissent les uns sur les autres
+passent subitement d&#39;un mouvement à un mouvement 
+différent, sans passer par les degrés de mouvement 
+intermédiaires, à-moins que les corps ne
+soient supposés à ressort parfait. Encore dans ce cas
+le changement ne s&#39;opere-t-il que par des degrés infiniment 
+petits ; ce qui le fait rentrer dans la regle
+<milestone unit="column" n="2" />
+générale. <i>Voyez</i> <sc><ref target="head:Hydrodynamique" type="search">Hydrodynamique</ref> <i>&amp;</i> <ref target="head:Fluide" type="search">Fluide</ref></sc>.
+</p>
+<p>
+Dans les <i>mém. de l&#39;académie des Sciences de 1742</i>,
+M. Clairaut a démontré aussi d&#39;une maniere particuliere 
+le principe de la conservation des <i>forces vives ;</i> &amp; je dois remarquer à ce sujet, que quoique 
+le mémoire de M. Clairaut soit imprimé dans
+le vol. de 1742, &amp; que mon traité de Dynamique n&#39;ait paru qu&#39;en 1743, cependant ce mémoire
+&amp; ce traité ont été présentés tous deux le même jour
+à l&#39;académie.
+</p>
+<p>
+On peut voir par différens mémoires répandus
+dans les volumes des académies des Sciences de
+Paris, de Berlin, de Petersbourg, combien le principe 
+de la conservation des <i>forces vives</i> facilite la solution 
+d&#39;un grand nombre de problemes de Dynamique ; nous croyons même qu&#39;il a été un tems où
+on auroit été fort embarrassé de résoudre plusieurs
+de ces problemes sans employer ce principe ; &amp; il
+me semble, si une prévention trop favorable pour
+mon propre travail ne m&#39;en impose point, que j&#39;ai
+donné le premier dans mon traite de Dynamique
+une méthode générale &amp; directe pour résoudre toutes 
+les questions imaginables de ce genre, sans y
+employer le principe de la conservation des <i>forces
+vives</i>, ni aucun autre principe indirect &amp; secondaire.
+Cela n&#39;empêche pas que je ne convienne de l&#39;utilité
+de ces derniers principes pour faciliter, ou plûtôt
+pour abréger en certains cas les solutions, sur-tout
+lorsqu&#39;on aura eu soin de démontrer auparavant ces
+mêmes principes.
+</p>
+<p>
+<i>Du rapport de la force vive avec l&#39;action</i>. Nous
+avons vû <i>au mot</i> <sc><ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, que les partisans
+modernes des <i>forces vives</i> avoient imaginé l&#39;action
+comme le produit de la masse par l&#39;espace &amp; par la
+vîtesse, ou ce qui revient au même, comme le produit 
+de la masse par le quarré de la vîtesse &amp; par le
+tems, car dans le mouvement uniforme tel qu&#39;on le
+suppose ici, l&#39;espace est le produit de la vîtesse par
+le tems. <i>Voyez</i> <sc><ref target="head:Vîtesse" type="search">Vîtesse</ref></sc>.
+</p>
+<p>
+Nous avons dit aussi aux <i>mots</i> <sc><ref target="head:Action" type="search">Action</ref> <i>&amp;</i> <ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, que cette définition de l&#39;action prise en
+elle-même, est absolument arbitraire ; cependant
+nous craignons que les partisans modernes des <i>forces
+vives</i> n&#39;ayent prétendu attacher par cette définition
+quelque réalité à ce qu&#39;ils appellent <i>action</i>. Car selon 
+eux la force instantanée d&#39;un corps en mouvement,
+est le produit de la masse par le quarré de la
+vîtesse ; &amp; ils paroissent avoir regardé l&#39;action comme 
+la somme des <i>forces instantanées</i>, puisqu&#39;ils font
+l&#39;action égale au produit de la <i>force vive</i> par le tems.
+On peut voir sur cela un mémoire, d&#39;ailleurs assez
+médiocre, du feu professeur Wolf, inséré dans le
+<i>I. volume de Petersbourg ;</i> &amp; l&#39;on se convaincra que
+ce professeur croyoit en effet avoir fixé dans ce mémoire 
+la véritable notion de l&#39;action ; mais il est aisé
+de voir que cette notion, quand on voudra la regarder 
+autrement que comme une définition de nom,
+est tout-à-fait chimérique &amp; en elle-même &amp; dans
+les principes des partisans des <i>forces vives ;</i> 1°. en
+elle-même, parce que dans le mouvement uniforme
+d&#39;un corps, il n&#39;y a point de résistance à vaincre,
+ni par conséquent d&#39;action à proprement parler ;
+2°. dans les principes des partisans des <i>forces vives</i>,
+parce que selon eux, la <i>force vive</i> est celle qui se consume,
+ou qu&#39;on suppose pourvoir se consumer en s&#39;exerçant.
+Il n&#39;y a donc proprement d&#39;action que lorsque 
+cette <i>force</i> se consume réellement en agissant
+contre des obstacles. or dans ce cas, selon les défenseurs 
+même des <i>forces vives</i>, le tems doit être
+compté pour rien, parce qu&#39;il est de la nature d&#39;une
+<i>force</i> plus grande d&#39;être plus long-tems à s&#39;anéantir.
+Pourquoi donc veulent-ils faire entrer le tems dans
+la considération de l&#39;action? L&#39;action ne devroit être
+dans leurs principes que la <i>force vive</i> même en tant
+<pb n="7:116" facs="V7/ENC_7-116.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;elle agit contre des obstacles ; &amp; cette maniere de
+la considérer ne doit rien changer à sa mesure, puisque 
+selon eux cette <i>force</i> n&#39;est regardée comme proportionnelle 
+au quarré de la vîtesse, qu&#39;autant qu&#39;on
+suppose cette <i>force</i> anéantie insensiblement par des
+obstacles contre lesquels elle agit.
+</p>
+<p>
+Reconnoissons donc que cette définition de l&#39;action 
+donnée par les partisans des <i>forces vives</i> est purement 
+arbitraire, &amp; même peu conforme à leurs
+principes. A l&#39;égard de ceux qui comme M. de Maupertuis, n&#39;ont point pris de parti dans la dispute
+des <i>forces vives</i>, on ne peut leur contester la définition 
+de l&#39;action, sur-tout lorsqu&#39;ils paroissent la donner 
+comme une définition de nom ; M. de Maupertuis dit lui-même à la page 26 du premier volume de
+ses nouvelles oeuvres imprimés à Lyon ; <i>Ce que j&#39;ai
+appellé</i> action, <i>il auroit peut-être mieux valu l&#39;appeller</i>
+force ; <i>mais ayant trouvé ce mot tout établi par Leibnitz &amp; par Wolf, pour exprimer la même idée, &amp; trouvant 
+qu&#39;il y répond bien, je n&#39;ai pas voulu changer les
+termes</i>. Ces paroles semblent faire connoître que M.
+de Maupertuis, quoiqu&#39;il croye que l&#39;action peut-être
+représentée par le produit du quarré de la vîtesse 
+&amp; du tems, croit en même tems qu&#39;on pourroit 
+attacher à ce mot une autre notion ; à quoi nous
+ajoûterons relativement aux <i>articles</i> <sc><ref target="head:Action" type="search">Action</ref> <i>&amp;</i> <ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, que quand il regarde l&#39;action envisagée 
+sous ce point de vûe, comme la <i>dépense</i> de la
+nature, ce mot de <i>dépense</i> ne doit point sans doute
+être pris dans un sens métaphysique &amp; rigoureux,
+mais dans un sens purement mathématique, c&#39;est-à-dire pour une quantité mathématique, qui dans plusieurs 
+cas est égale à un <i>minimum</i>.
+</p>
+<p>
+Par les mêmes raisons, je crois qu&#39;on peut adopter 
+également toute autre définition de l&#39;action, par
+exemple celle que M. d&#39;Arcy en a donnée dans les
+Mém. de l&#39;acad. des Sciences de 1747 &amp; 1752,
+pourvû (ce qui ne contredit en rien les principes de
+M. d&#39;Arcy) qu&#39;on regarde aussi cette définition
+comme une simple définition de nom. On peut dire
+dans un sens avec M. d&#39;Arcy, que l&#39;action d&#39;un système 
+de deux corps égaux qui se meuvent en sens
+contraire avec des vîtesses égales, est nulle, parce
+que l&#39;action qui feroit équilibre à la somme de ces
+actions seroit nulle ; mais on peut aussi dans un autre
+sens regarder l&#39;action de ce système comme la somme 
+des actions séparées, &amp; par conséquent comme
+réelle. Ainsi on peut regarder comme très-réelle l&#39;action 
+de deux boulets de canon qui vont en sens contraires.
+Au reste M. d&#39;Arcy remarque avec raison que
+la conservation de l&#39;action, prise dans le sens qu&#39;il
+lui donne, a lieu en général dans le mouvement des
+corps qui agissent les uns sur les autres, &amp; il s&#39;est
+servi avantageusement de ce principe pour faciliter
+la solution de plusieurs problemes de Dynamique<sup><ref type="note" target="n4" n="*" /></sup>.
+</p>
+<p>
+Comme l&#39;idée qu&#39;on attache ordinairement au
+mot <i>action</i> suppose de la résistance à vaincre, &amp; que
+nous ne pouvons avoir d&#39;idée de l&#39;action que par
+son effet, j&#39;ai cru pouvoir définir l&#39;<i>action</i> dans
+l&#39;Encyclopédie, en disant qu&#39;elle est le mouvement
+qu&#39;un corps produit, ou qu&#39;il tend à produire dans
+un autre corps. Un auteur qui m&#39;est inconnu prétend
+dans les <i>mém. de l&#39;acad. de Berlin</i> de 1753, que cette
+<milestone unit="column" n="2" />
+définition est <i>vague</i>. Je ne sai s&#39;il a prétendu m&#39;en
+faire un reproche ; en tout cas, je l&#39;invite à nous
+donner une définition mathématique de l&#39;action qui
+représente d&#39;une maniere plus exacte &amp; plus précise,
+non la notion métaphysique du mot <i>action</i>, qui est
+une chimere, mais l&#39;idée qu&#39;on attache vulgairement 
+à ce mot.
+</p>
+<p>
+Tout ce que nous venons de dire sur l&#39;action avoit
+un rapport nécessaire au mot <i>force</i>, &amp; peut être regardé 
+comme un supplément aux <i>mots</i> <sc><ref target="head:Action" type="search">Action</ref></sc> &amp;
+<sc><ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, auxquels nous renvoyons.
+</p>
+<p>
+<i>Réflexions sur la nature des forces mortes, &amp; sur leurs
+différentes especes</i>. En adoptant comme une simple
+definition de nom l&#39;idée que les défenseurs des <i>forces
+vives</i> nous donnent de la <i>forces morte</i>, on peut distinguer 
+deux sortes de <i>forces mortes ;</i> les unes cessent
+d&#39;exister dès que leur effet est arrêté, comme il arrive
+dans le cas de deux corps durs égaux qui se choquent
+directement en sens contraires avec des vîtesses égales. La seconde espece de <i>forces mortes</i> renferme celles 
+qui périssent &amp; renaissent à chaque instant, ensorte 
+que si on supprimoit l&#39;obstacle, elles auroient
+leur plein &amp; entier effet ; telle est celle de deux ressorts 
+bandés, tandis qu&#39;ils agissent l&#39;un contre l&#39;autre ; 
+telle est encore celle de la pesanteur. <i>Voyez la
+fin de l&#39;article</i> <sc><ref target="head:Equilibre" type="search">Equilibre</ref></sc>, (<i>Méchan.</i>) où nous avons
+remarqué que le mot <i>équilibre</i> ne convient proprement 
+qu&#39;à l&#39;action mutuelle de cette derniere sorte
+de <i>forces mortes</i>.
+</p>
+<p>
+Cette distinction entre les <i>forces mortes</i> nous donnera 
+lieu d&#39;en faire encore une autre : ou la <i>force
+morte</i> est telle qu&#39;elle produiroit une vîtesse finie, s&#39;il
+n&#39;y avoit point d&#39;obstacle ; ou elle est telle que l&#39;obstacle 
+ôté, il n&#39;en résulteroit d&#39;abord qu&#39;une vîtesse
+infiniment petite, ou pour parler plus exactement,
+que le corps commenceroit son mouvement par zéro
+de vîtesse, &amp; augmenteroit ensuite cette vîtesse par
+degrés. Le premier cas est celui de deux corps égaux
+qui se choquent, ou qui se poussent, ou qui se tirent
+en sens contraire avec des vîtesses égales &amp; finies ;
+le second est celui d&#39;un corps pesant qui est appuyé
+sur un plan horisontal. Ce plan ôté, le corps descendra ; 
+mais il commencera à descendre avec une
+vîtesse nulle, &amp; l&#39;action de la pesanteur fera croître
+ensuite à chaque instant cette vîtesse ; c&#39;est du moins
+ainsi qu&#39;on le suppose. <i>Voyez</i> <sc><ref target="head:Accélération" type="search">Accélération</ref> <i>&amp;</i> <ref target="head:Descente" type="search">Descente</ref></sc>. De-là les Méchaniciens ont conclu que
+la force de la percussion étoit infiniment plus grande
+que celle de la pesanteur, puisque la premiere est à
+la seconde comme une vîtesse finie est à une vîtesse
+infiniment petite, ou plûtôt à zéro ; &amp; par-là ils ont
+expliqué pourquoi un poids énorme qui charge un
+clou à moitié enfoncé dans une table ne fait pas
+avancer ce clou, tandis que souvent une percussion
+assez legere produit cet effet. Sur quoi <i>voyez l&#39;article</i>
+<sc><ref target="head:Percussion" type="search">Percussion</ref></sc>.
+</p>
+<div2 type="notes">
+<note id="n4">
+* Je crois m&#39;être expliqué avec beaucoup d&#39;exactitude
+sur la question de la <i>moindre action</i> à l&#39;<i>article</i> <sc><ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>.
+L&#39;espece de reproche qu&#39;on semble m&#39;avoir fait du contraire
+dans les mém. de l&#39;Académie de 1752, disparoîtra entierement 
+si on veut bien lire avec attention cet article &amp; le <i>mot</i>
+<sc><ref target="head:Causes finales" type="search">Causes finales</ref></sc>. Par exemple, en parlant du levier dans
+cet <i>article</i> <sc><ref target="head:Cosmologie" type="search">Cosmologie</ref></sc>, je me suis exprimé ainsi, <i>l&#39;application &amp; l&#39;usage du principe ne comportent pas une généralité plus
+grande ;</i> &amp; au <i>mot</i> <sc><ref target="head:Causes finales" type="search">Causes finales</ref></sc>, j&#39;ai remarqué que le
+chemin de la réflexion est <i>souvent</i> (&amp; non pas <i>toûjours</i>) un
+<i>maximum</i> dans les miroirs concaves.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

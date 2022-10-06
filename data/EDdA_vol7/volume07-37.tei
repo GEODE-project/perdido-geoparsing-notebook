@@ -1,0 +1,454 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27490" id="48:17:2" vol="7">
+<index type="head" value="Foie (Maladies du)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Foie</head>
+<p>
+<sc>Foie</sc> (<i>Maladies du</i>). La connoissance de la structure 
+de ce viscere, des différens vaisseaux qui sont
+distribués dans sa substance, de la singularité du
+cours du sang qu&#39;il reçoit, des différens visceres qui
+préparent, fournissent ce sang ; de ses differentes
+qualités ; de la fonction principale à laquelle il est
+destiné, par consequent de la secrétion qui s&#39;y fait,
+&amp; de la nature de l&#39;humeur qui résulte de cette secrétion ; 
+cette connoissance, dis-je, bien établie, doit
+suffire pour inférer que le <i>soie</i> est non-seulement susceptible 
+de toutes les lésions dont peuvent être affectés 
+tous les autres organes du corps, mais qu&#39;il est
+pius disposé qu&#39;aucun autre à contracter les différens
+vices qui constituent ces lésions.
+</p>
+<p>
+En effet comme il n&#39;est aucune maladie qui ne
+doive sa cause à l&#39;action trop forte ou trop foible
+des solides, à l&#39;excès ou au défaut de mouvement
+des humeurs, à leur fluidité trop augmentée ou trop
+diminuée ; il est aisé de conclure de tout ce qui a été
+expose ci-devant concernant le <i>foie</i>, que tous ces
+différens vices peuvent avoir lieu plus facilement
+dans ce viscere, que dans tout autre ; ce qu&#39;il seroit
+d&#39;ailleurs trop long de prouver en détail : ainsi il
+suffira de la faire ici par des généralités qui donneront 
+occasion d&#39;indiquer les articles, dans lesquels il
+est suppleé à la briéveté de celui-ci.
+</p>
+<p>
+1°. Les vaisseaux qui entrent dans la composition
+du <i>foie</i> étant la plûpart veineux, destinés cependant
+à faire les fonctions d&#39;artere sans avoir des tuniques
+d&#39;une force proportionnée, doivent, tout étant égal,
+avoir plus de disposition à pécher par le défaut de
+force élastique &amp; systaltique ; &amp; à plus forte raison,
+si l&#39;on a égard à ce que les fluides contenus dans ces
+vaisseaux sont plus éloignés que dans aucune autre
+partie du corps, de la puissance impulsive, conservent 
+très-peu du mouvement qu&#39;ils en ont reçu, &amp;
+le perdent de plus en plus par l&#39;effet des résistances
+qu&#39;ils éprouvent à être portes une seconde sois dans
+des vaisseaux de ferme artérielle, sans être aides par
+l&#39;action immédiate d&#39;aucun muscle ; action qui est
+d&#39;un si gran l secours ailleurs pour entretenir la fluidité 
+&amp; le cours du sang dans les veines : de ce défaut 
+peuvent suivre des engorgemens, des dilatations 
+forcées, des ruptures de vaisseaux ; d&#39;où peuvent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+résulter des effusions de sang dans les pores biliaires,
+&amp; de-là dans les intestins, d&#39;où se forme ce
+qu&#39;on appelle <i>flux hépatique</i>.
+</p>
+<p>
+2°. Les vaisseaux artériels qui sont distribués en
+petit nombre dans la substance du <i>foie</i>, participent
+à proportion aux mêmes vices que les vaisseaux veineux,
+à cause de la mollesse de ce viscere qui ne leur
+fournit pas de point d&#39;appui propre à s&#39;opposer à leur
+engorgement, qui peut être suivi des mêmes effets
+que dans tous autres vaisseaux de ce genre.
+</p>
+<p>
+3°. L&#39;on peut néanmoins concevoir qu&#39;une partie
+des vaisseaux du <i>foie</i> est susceptible de pécher par
+trop d&#39;action, &amp; sont les vaisseaux colatoires de la
+bile, qui étant très-irritables, peuvent recevoir aisement 
+de fortes impressions de la moindre acrimonie 
+contractée par ce récrément ; ou de la trop grande 
+irritation des parties voisines du <i>foie</i>, telles que
+l&#39;estomac, les boyaux, causée par l&#39;action trop violente 
+de quelque médicament vomitif, purgatif : ou
+de l&#39;éréthisme général, effet de la colere ou de toute
+autre passion violente, qui ébranle fortement le genre 
+nerveux, <i>&amp;c.</i> ce qui donne souvent lieu à des constrictions 
+spasmodiques, convulsives, qui expriment
+trop fortement, trop promptement ce fluide, lequel
+étant versé dans le canal intestinal, continue à porter 
+des impressions irritantes qui causent des douleurs 
+d&#39;entrailles, des diarrhées, des tenesmes, des
+dyssenteries ; &amp; ensuite étant porté dans le sang,
+augmente son alkalescence naturelle, stimule tous
+les vaisseaux. les fait agir avec plus de force ; d&#39;où
+suit une augmentation de mouvement &amp; de chaleur
+qui constitue le genre de fievre qu&#39;on appelle <i>ardente, bilieuse</i> (<i>Voyez les articles</i> de ces différentes maladies); ces irritations donnent lieu à des étranglemens qui arrêtent le cours de la bile, la détournent 
+de la voie qui la porte dans les intestins, la font
+refluer dans les racines de la veine-cave, <i>&amp;c.</i> d&#39;où
+suivent les mêmes effets qui seront attribués aux vices 
+de la bile, considérée comme péchant par trop
+de consistance.
+</p>
+<p>
+4°. Ces différens vices dans les solides doivent
+contribuer d&#39;autant plus facilement à en procurer
+aux fluides, que ceux-ci sont plus disposés à en contracter ; 
+en effet la quantité du sang de la plûpart des
+vaisseaux du <i>foie</i> (c&#39;est-à-dire de toute la distribution
+de la veine-porte) lui étant commune avec celle
+du sang de toutes les veines du corps moins fluides,
+moins propres à couler dans les vaisseaux capillaires
+que le sang des arteres, destine cependant à être porté
+dans les divisions d&#39;un vrai systeme artériel ; ce sang
+doit avoir bien plus de difficulté à pénétrer dans ses
+vaisseaux : plus de tendance à s&#39;y arrêter, à y former
+des embarras, des engorgemens, à s&#39;y corrompre,
+qu&#39;il n&#39;y a lieu à de pareils effets dans les autres parties 
+du corps.
+</p>
+<p>
+5°. Le vrai sang artériel du <i>foie</i> doit aussi avoir
+plus de disposition (tout étant égal) à s&#39;épaissir, à être
+filtré difficilement dans les passages étroits des arteres,
+dans les veines correspondantes, qu&#39;il n&#39;arrive
+dans les autres extrémités artérielles, à cause de la
+mollesse du viscere : d&#39;où peuvent s&#39;établir de vraies
+causes d&#39;inflammation &amp; de ses suites. <i>Voyez</i> <sc><ref target="head:Hépatique" type="search">Hépatique</ref></sc>.
+</p>
+<p>
+6°. La bile elle-même, à cause de la lenteur de son
+cours dans l&#39;état naturel où elle n&#39;a point d&#39;acrimonie 
+qui excite l&#39;action des vaisseaux qui lui sont propres,
+doit être susceptible de perdre aisément sa fluidité 
+nécessaire, par la disposition qu&#39;ont ses parties
+intégrantes homogenes à se réunir entr&#39;elles, à se
+séparer par conséquent des hétérogenes ; à former
+des concretions de différentes natures, huileuses,
+salines, terreuses, conformément à ses différens principes 
+&amp; à celui d&#39;entr&#39;eux qui est dominant (<i>voyez</i>
+<sc><ref target="head:Bile" type="search">Bile</ref></sc>): d&#39;où naissent des obstructions, des matieres
+<pb n="7:38" facs="V7/ENC_7-38.jpeg" />
+<milestone unit="column" n="1" />
+gypseuses, graveleuses, qui étant fixées dans les
+vaisseaux secretoires, forment des tubercules ; ou
+qui étant portées dans les vaisseaux excrétoires, dans
+la vésicule, grossissent &amp; forment de vrais calculs,
+<i>voyez</i> <sc><ref target="head:Pierre" type="search">Pierre</ref></sc> (<i>Medec.</i>): d&#39;où selon leur nombre, leur
+different siége &amp; leur différente figure, plus ou moins
+propre à irriter les parties contenantes, à comprimer
+les parties ambiantes, suivent les arrêts des humeurs
+de toute espece dans différens points, différente étendue de ce viscere ; l&#39;empêchement de la secrétion de
+la bile dans les parties obstruées ; le reflux de ce récrément 
+dans la masse des humeurs ; la couleur plus
+ou moins jaune, communiquée à toute la sérosité de
+cette masse ; si ce reflux est fait de la bile cystique,
+qui, eu égard à ce qu&#39;elle ne peut être fournie qu&#39;en
+petite quantité, agit plûtôt comme colorante que
+comme dissolvante ; ou la decomposition du sang en
+globules jaunes, si c&#39;est de la bile hépatique, qui
+peut refluer assez abondamment, pour agir comme
+fondante avec plus d&#39;activité, que lorsqu&#39;en passant
+par les premieres voies, elle perd de son énergie en
+se mêlant avec le chyle ou la lymphe ; ensorte qu&#39;il
+s&#39;ensuit de-là des icteres de differente espece, des dissolutions 
+générales d&#39;humeurs, des hydropisies universelles 
+ou particulieres, selon que les lésions de l&#39;équilibre 
+dans les solides, sont plus ou moins étendues ; <i>V.</i> 
+<sc><ref target="head:Jaunisse" type="search">Jaunisse</ref>, <ref target="head:Hydropisie" type="search">Hydropisie</ref>, <ref target="head:Leucophlegmatie" type="search">Leucophlegmatie</ref>, <ref target="head:Anasarque" type="search">Anasarque</ref>, <ref target="head:OEdème" type="search">OEdème</ref>, <ref target="head:Equilibre" type="search">Equilibre</ref></sc>
+</p>
+<p>
+7°. Ces differens vices du <i>foie</i> dans ses solides &amp;
+dans ses fluides peuvent être non-seulement idiopatiques,
+mais encore sympathiques ; c&#39;est à-dire qu&#39;ils 
+peuvent être produits immediatement dans ce viscere 
+même, ou dependre de ceux des autres visceres
+qui contribuent aux fonctions du <i>foie ;</i> ainsi la rate
+ne peut pas être lésée dans les siennes, sans que le
+<i>foie</i> s&#39;en ressente : parce que si le sang qu&#39;elle fournit
+à celui-ci, n&#39;est pas preparé convenablement, le sang
+de la veine-porte manque des dispositions necessaires,
+pour qu&#39;il puisse pénétrer dans la substance du
+<i>foie</i>, &amp; fournir la matiere de la bile. Il en est de même 
+de l&#39;omentum ; si les sucs huileux qu&#39;il envoye
+au <i>foie</i> sont trop ou trop peu abondans, sont trop
+exaltés ou trop concrescibles, la secrétion de la bile
+se fait imparfaitement, péche par la qualité ou par la
+quantité: ainsi des autres visceres dont le sang est
+porté dans le <i>foie ;</i> ils influent sur celui-ci à proportion 
+de l&#39;importance du rapport qu&#39;ils ont avec lui.
+</p>
+<p>
+8°. Les différens vices du poumon même, quoiqu&#39;il n&#39;ait aucune communication immediate avec
+le <i>foie</i>, peuvent aussi contribuer aux lesions des fonctions 
+de ce dernier ; si le viscere de la poitrine est affoibli,
+travaille mal le chyle pour le convertir en
+sang, la portion de celui ci, qui doit être distribuée
+au <i>foie</i>, manque des parties intégrantes nécessaires
+pour la formation d&#39;une bile de bonne qualité; le
+récrement qui en résulte n&#39;a point d&#39;activité, relàche
+ses conduits au lieu d&#39;en exciter la réaction, les engorge,
+&amp; ne coule point dans les boyaux ; ou s&#39;il y
+appartient, il n&#39;y peut servir à la préparation du chyle : il ne peut agir comme dissolvant, n&#39;ayant po nt
+d&#39;énergie pour cet effet ; il n&#39;en a pas plus étant porté 
+dans la masse du sang, où il ne remplit pas mieux
+sa destination, manquant également quant à sa faculté 
+dissolvante &amp; quant à sa qualité stimulante:
+la partie cystique étant à proportion aussi peu active,
+n&#39;opere pas davantage ; elle laisse les premieres voies
+se decharger de mucosités, de glaires ; elle n&#39;excite
+point le canal intestinal à se décharger, à se vuider
+des excremens, <i>&amp;c.</i> tels sont les vices de la bile dans
+la chlorose &amp; dans toutes les maladies où la sanguification 
+ne se fait pas bien par le défaut d&#39;action dans
+les solides du poumon, &amp; de leur debilité générale.
+<i>Voyez</i> 
+<sc><ref target="head:Pales Couleurs" type="search">Pales Couleurs</ref>, <ref target="head:Débilité" type="search">Débilité</ref>, <ref target="head:Fibre" type="search">Fibre</ref></sc>
+</p>
+<p>
+De cette exposition sommaire des principaux vices<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+que le <i>foie</i> est susceptible de contracter &amp; des effets 
+qui s&#39;ensuivent, on peut tirer cette consequence,
+que ce viscere peut être le siege d&#39;un très grand
+nombre de maladies tant aigues que chroniques, ou
+de leurs causes disponentes : c&#39;est cette consideration
+qui a fait dire à Sthaal que la veine-porte est la source 
+d&#39;une infinite de maux, <i>vena porta porta malorum ;</i>
+que le <i>foie</i> est moins sujet aux maladies inflammatoires 
+que les autres visceres, attendu qu&#39;il reçoit
+peu d&#39;arteres dans sa substance, &amp; que le mouvement 
+du sang dans les ramifications de la veine-porte
+est trop lent pour produire des engorgemens inflammatoires,
+excepte lorsqu&#39;il est assez échauffé, assez
+acrimonieux pour exciter un mouvement extraordinaire 
+dans ses vaisseaux ; que sa disposition la plus
+dominante est, à raison de cette même lenteur dans
+le cours de ses humeurs, d&#39;être le foyer de la plûpart 
+des maladies chroniques, qui peuvent avoir des
+paroxismes très-aigus, accompagnes de violentes
+douleurs, qui peuvent causer de proche en proche
+un desordre général dans toutes les fonctions, en
+tant qu&#39;elles occasionnent des vices dans les premieres 
+voies, qui ne sont pas réparables dans les secondes ; 
+qu&#39;elles privent celles-ci du correctif necessaire
+pour l&#39;entretien de la fluidité naturelle des humeurs,
+ou qu&#39;elles ne le fournissent qu&#39;avec des imperfections 
+qui le rendent plus nuisible qu&#39;utile.
+</p>
+<p>
+Enfin de cent maladies chroniques, comme dit
+Boerhaave (<i>instit. comment. § 350.</i>), à peine en trouve-t-on une dont la cause n&#39;ait pas son siege principal 
+dans le <i>foie</i>, c&#39;est-à-dire dans la distribution de la
+veine-porte ou dans les colatoires de la bile (car les
+maladies qui ont leur siege dans l&#39;artere hépatique,
+n&#39;ont presque rien de particulier qui soit applicable
+ici); &amp; ce qui est bien mortifiant pour ceux qui exercent 
+l&#39;art de guérir, c&#39;est que selon le même auteur 
+(<i>ibid.</i>), on peut compter mille cures de maladies 
+aigues, tandis qu&#39;on a peine à en observer une
+parfaite des differentes maladies du <i>foie</i>, ou qui dépendent 
+des vices de ce viscere : telles que la jaunisse,
+les obstructions de rate, l&#39;hydropisie, <i>&amp;c.</i> La
+raison qu&#39;il donne de la difficulte qu&#39;il y a à guerir
+ces dernieres, c&#39;est que les médicamens qui doivent
+être portés dans le <i>foie</i> pour y operer les changemens 
+salutaires, pour y corriger les vices dominans,
+pour y resoudre les obstructions, p. e. ont une si
+longue route à faire, en suivant le cours ordinaire
+des humeurs, des vaisseaux lactes au coeur, du coeur
+au poumon, de celui-ci de nouveau au coeur, dans
+l&#39;aorte, dans les arteres coeliaques mésentériques,
+dans toute leur distribution, pour passer dans les veines,
+se rendre dans le sinus de la veine-porte, pour
+en suivre les ramifications jusqu&#39;aux differens points
+ou est formé l&#39;embarras ; quelquefois jusque dans les
+conduits biliaires, s&#39;il y a son siege : il n&#39;est donc pas
+étonnant qu&#39;il se trouve peu de remedes qui puissent
+parcourir une si longue suite de vaisseaux à-travers
+tant de détours, se mêler avec tant d&#39;humeurs différentes,
+&amp; arriver après tant de circuits, au lieu de leur
+destination, sans rien perdre de leur propriété. On
+peut ajoûter que les forces de la <i>nature</i> qui operent
+le plus souvent sans secours, les crises dans les autres 
+parties du corps, manquent dans le <i>foie</i>, &amp; ce
+défaut suffit pour rendre peu efficaces les secours les
+mieux appliqués. Les impulsions du coeur ne peuvent
+pas étendre leur effet à une si grande distance ; la force 
+systaltique des arteres n&#39;a pas lieu non plus dans
+la plus grande partie de ce viscere, qui est occupée
+par les divisions de la veine-porte ; c&#39;est cependant
+cette force systaltique qui est le grand instrument que
+la nature employe pour operer la resolution, les
+changemens les plus salutaires, dans les engorgemens
+inflammatoires, pour forcer les vaisseaux engorgés
+à se dilater outre mesure, &amp; à se rompre pour donner<gap type="hyphenpb" />
+<pb n="7:39" facs="V7/ENC_7-39.jpeg" />
+<milestone unit="column" n="1" />
+issue à la matiere <i>obstruante</i>, lorsqu&#39;elle ne peut
+pas être atténuée, reprendre sa fluidité &amp; son cours,
+&amp; qu&#39;elle ne peut être tirée autrement des vaisseaux
+où elle est retenue, ainsi qu&#39;il arrive dans la péripneumonie,
+où les crachats sanglans dégagent par
+cette évacuation forcée la partie enflammée. Il ne
+peut arriver rien de semblable dans le <i>foie</i>, à l&#39;égard
+de la plûpart des humeurs qui sont portées dans sa
+substance, à cause de la lenteur avec laquelle elles
+coulent, &amp; du peu de mouvement excédent qui peut
+leur être communiqué; en un mot à cause de la disposition 
+dominante qui se trouve dans les solides &amp;
+dans les fluides à favoriser la formation des obstructions,
+à les laisser subsister, &amp; à les augmenter par
+tout ce qui est le plus propre à cet effet. <i>Voyez</i> <sc><ref target="head:Obstruction" type="search">Obstruction</ref></sc>.
+</p>
+<p>
+Il n&#39;y a donc d&#39;autre moyen à tenter, pour parvevir 
+à détruire ces causes morbifiques, que celui de
+faire naître un petit mouvement de fievre dans toute
+la machine, qui puisse atténuer les humeurs portées
+au <i>foie</i>, &amp; les disposer pour ainsi dire à détremper,
+à pénétrer les humeurs stagnantes, à les ébranler, &amp;
+à les emporter dans ce torrent de la circulation : c&#39;est
+donc une méthode bien pernicieuse &amp; bien contraire,
+que de traiter ce genre de maladie avec le quinquina,
+puisqu&#39;il tend à supprimer la fievre, qui est
+le principal agent que la nature &amp; l&#39;art puissent employer 
+pour dissiper les obstructions du <i>foie ;</i> mais
+les effets de la fievre peuvent être considérablement
+aidés par l&#39;usage du petit-lait &amp; de tous autres médicamens 
+liquides atténuans, qui soient susceptibles
+d&#39;être poussés du canal intestinal dans les veines
+mésentériques, &amp; portés de-là au <i>foie</i>, ce qui est la
+voie la plus courte, sans passer le grand chemin du
+cours des humeurs ; afin qu&#39;ils parviennent à leur
+destination avant d&#39;avoir perdu leurs propriétés,
+leurs forces. C&#39;est par ces raisons qu&#39;on peut utilement 
+employer dans ces cas la décoction de chiendent,
+des bois legerement sudorifiques ou incisifs,
+sur-tout les eaux minérales dites <i>acidules</i>, tous ces
+médicamens en grande quantité: ce sont presque les
+seuls qui conviennent aux embarras du <i>foie</i>, &amp; qui ne
+nuisent pas, s&#39;ils ne peuvent pas être utiles ; mais il
+faut en accompagner l&#39;usage d&#39;un exercice modéré,
+de l&#39;équitation, des promenades, des voyages en
+voiture.
+</p>
+<p>
+Voilà sommairement tout ce qu&#39;on peut dire de
+la cure des principales maladies propres au <i>foie</i>,
+qui ont presque toutes cela de commun, d&#39;être causées 
+par des obstructions de ce viscere ; il n&#39;y a que
+le différent siége de ces obstructions dans ses différentes 
+parties, qui fait varier les symptomes &amp; la dénomination 
+de ces maladies, dont la nature de cet ouvrage 
+ne permettroit pas de donner ici une histoire
+théorique &amp; pratique plus étendue, sans s&#39;exposer
+à des répétitions dans les articles particuliers où il en
+est traité, auxquels il a été renvoyé. <i>Voyez aussi</i> <sc><ref target="head:Mélancolie" type="search">Mélancolie</ref>, <ref target="head:Hypochondriaque" type="search">Hypochondriaque</ref></sc>. (<i>Passion.</i>)
+</p>
+<p>
+Quant aux auteurs qui ont traité de la physiologie 
+&amp; de la pathologie du <i>foie</i>, de ses maladies &amp; de
+leur cure, d&#39;une maniere qui ne laisse rien à desirer,
+<i>voyez</i> entr&#39;autres les oeuvres de Bonh, celles d&#39;Hoffman, <i>passim</i>, &amp; sur-tout sa dissertation <i>de bile medicinâ 
+&amp; veneno corporis:</i> les oeuvres de Boerhaave,
+<i>instit. comment</i>. Haller, <i>de actione hepatis, de actione
+bilis utriusque, &amp; aphor. de cognoscendis &amp; curandis
+morbis : Comment</i>. Wanswieten, <i>t. III. de hepatitide
+&amp; ictero multiplici</i>. Voyez encore les <i>essais de Physique sur l&#39;anatomie d&#39;</i>Heister, au <i>chap. de l&#39;action du
+foie</i>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

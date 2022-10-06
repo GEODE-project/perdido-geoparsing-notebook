@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30365" id="55:18" vol="7">
+<index type="head" value="GRENADILLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Bot. exot." />
+<index type="normclass" value="Botanique exotique" />
+<index type="englishclass" value="Exotic botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GRENADILLE</head>
+<p>
+GRENADILLE, s. f. (<i>Bot. exot.</i>) genre de plante
+qu&#39;on a déjà caractérisée sous son nom vulgaire de
+<i>fleurs de la passion ;</i> les Botanistes l&#39;appellent <i>granadilla ;</i> c&#39;est une belle plante étrangere de la nouvelle
+Espagne, dont on cultive pour la fleur un grand nombre 
+d&#39;especes ; Bradley rapporte en avoir vû plus de
+trente dans le jardin d&#39;Amsterdam, mais il s&#39;en faut
+de beaucoup qu&#39;il s&#39;en trouve aujourd&#39;hui un nombre 
+aussi considérable dans ce même jardin ; &amp; selon
+toute apparence, M. Bradley s&#39;est trompé. Miller
+n&#39;en connoît que treize especes en Angleterre, sur
+la culture desquelles il a donné les meilleures &amp; les
+plus exactes instructions qu&#39;on puisse desirer ; j&#39;y renvoye 
+les curieux.
+</p>
+<p>
+Tournefort a fait d&#39;une des especes de <i>grenadille</i>,
+un genre particulier sous le nom de <i>murucuja ;</i> cette
+espece se trouve en plusieurs endroits de l&#39;ile Saint-Domingue, &amp; produit bien rarement du fruit en Europe ; du-moins Miller, malgré ses talens, n&#39;est jamais 
+parvenu à lui en faire porter. Le P. Feuillée a
+aussi décrit quelques especes de <i>grenadilles</i> de la vallée 
+de Lima, &amp; entr&#39;autres une qu&#39;il surnomme <i>pomifere:</i> elle donne un fruit rond, de deux pouces &amp;
+demi de diametre, rempli d&#39;une substance aqueuse,
+doucâtre, &amp; cependant agréable au goût ; ce fruit
+contient de petites graines enfermées dans une peau
+blanche en-dedans, &amp; cramoisi-jaune en-dehors.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

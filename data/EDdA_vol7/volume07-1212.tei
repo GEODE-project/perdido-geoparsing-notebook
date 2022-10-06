@@ -1,0 +1,193 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28666" id="51:35" vol="7">
+<index type="head" value="FUTUR CONTINGENT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métaphysiq." />
+<index type="normclass" value="Métaphysique" />
+<index type="englishclass" value="Metaphysics" />
+<index type="generatedclass" value="Métaphysique" />
+<index type="pos" value="NA" />
+<head>FUTUR CONTINGENT</head>
+<p>
+FUTUR CONTINGENT, (<i>Métaphysiq.</i>) On appelle 
+en Philosophie <i>futur contingent</i> ce qui doit arriver,
+mais qui n&#39;arrivera pas nécessairement. Par
+exemple, cette proposition, <i>j&#39;irai demain à la campagne</i>, est une proposition de <i>futur contingent</i>, non seulement 
+parce que je pourrois d&#39;ici à demain changer 
+de résolution, mais encore parce que j&#39;aurois pu
+ne pas prendre cette résolution, &amp; qu&#39;il n&#39;implique
+point contradiction que j&#39;aille ou que je n&#39;aille pas
+à la campagne un tel jour.
+</p>
+<p>
+Quand nous disons que la <i>non-existence</i> du <i>futur
+contingent</i> n&#39;implique pas contradiction, c&#39;est en envisageant 
+la chose future absolument &amp; en elle-même, &amp; non pas relativement au système présent de
+l&#39;univers, aux lois du mouvement, aux évenemens
+qui doivent préparer &amp; produire celui dont il s&#39;agit,
+enfin aux decrets &amp; à la préscience du Créateur ; car
+si on considere les <i>futurs contingens</i> sous ces derniers
+points de vûe, on peut dire qu&#39;ils ne sont plus <i>con-</i>
+<pb n="7:405" facs="V7/ENC_7-405.jpeg" />
+<milestone unit="column" n="1" />
+<i>tingens</i>, entant qu&#39;ils doivent infailliblement arriver.
+Ainsi dans cette proposition, <i>il pleuvra demain</i>,
+la pluie que j&#39;annonce est en elle-même un <i>futur contingent</i>, parce que le Créateur auroit pu disposer
+l&#39;univers de telle sorte, qu&#39;il ne plût pas demain ;
+mais relativement à l&#39;état actuel de l&#39;univers &amp; aux
+lois établies par l&#39;Être suprème de toute éternité, la
+pluie doit tomber demain infailliblement en conséquence 
+de la disposition présente que la terre &amp; l&#39;atmosphere 
+ont aujourd&#39;hui. <i>Voyez</i> <sc><ref target="head:Fortuit" type="search">Fortuit</ref> <i>&amp;</i> <ref target="head:Contingent" type="search">Contingent</ref></sc>.
+</p>
+<p>
+Les Athées qui admettent l&#39;éternité &amp; la nécessité
+du monde &amp; de la matiere, ne reconnoissent point
+de <i>futur contingent ;</i> parce que le monde, selon eux,
+ne pouvoit être autre qu&#39;il n&#39;est, &amp; que les évenemens sont une suite nécessaire du choc &amp; du mouvement 
+des corps : mais selon tous les autres philosophes,
+&amp; selon la raison, il y a des <i>futurs contingens</i> en ce sens, que Dieu qui a créé &amp; arrangé le
+monde, pouvoit l&#39;arranger autrement, &amp; que les
+évenemens qui arrivent infailliblement dans le monde,
+arrangé tel qu&#39;il est, ne seroient pas arrivés dans
+un monde arrangé d&#39;une autre maniere.
+</p>
+<p>
+L&#39;existence des <i>futurs contingens</i> libres, c&#39;est-à-dire qui dépendent de la volonté humaine, n&#39;est pas
+moins infaillible que celle des <i>futurs</i> non libres. Par
+exemple, si en vertu du decret éternel de Dieu, je
+dois aller demain à la campagne, il est aussi infaillible 
+que je ferai ce voyage, qu&#39;il l&#39;est qu&#39;il pleuvra
+demain, si Dieu l&#39;a résolu ainsi. C&#39;est pourquoi la
+distinction qu&#39;on a voulu faire dans les écoles des
+<i>futurs contingens</i> libres, &amp; de ceux qui ne le sont
+pas, est en elle-même chimérique, puisque tous les
+<i>futurs contingens</i> sont dans le même cas quant à l&#39;infaillibilité 
+de l&#39;existence. On nous demandera sans
+doute de faire sentir clairement en quoi l&#39;existence
+infaillible differe de l&#39;existence nécessaire : c&#39;est à
+quoi nous ne nous engageons pas : il nous suffit que
+cette différence soit réelle ; tant pis même pour qui
+l&#39;expliqueroit, puisqu&#39;elle tient à un des mysteres
+de notre religion, l&#39;accord de la science &amp; de la
+puissance divine avec la liberté. Dans le langage
+commun, <i>infaillible</i> &amp; <i>nécessaire</i> sont la même chose ;
+il n&#39;en est pas ainsi en Métaphysique théologique.
+L&#39;essence de tout mystere consiste dans une chose exprimée 
+par des mots dont la contradiction apparente 
+choque la raison, mais que la foi nous apprend 
+n&#39;être pas contradictoires.
+</p>
+<p>
+On dispute beaucoup dans les écoles pour savoir
+si deux propositions de futur contingent, <i>Pierre
+mourra demain, Pierre ne mourra pas demain</i>, sont
+toutes deux fausses, <i>en faisant abstraction du decret de
+Dieu ;</i> ou si l&#39;une est vraie, &amp; l&#39;autre fausse dans cette
+même hypothèse ; question creuse, absurde, bien
+digne des chimeres de la scholastique, &amp; du nombre
+de celles qu&#39;on devroit bannir de la philosophie enseignée 
+aujourd&#39;hui dans les colléges. <i>Voyez</i> <sc><ref target="head:Collége" type="search">Collége</ref></sc>. Il vaudroit autant demander, si en faisant abstraction 
+de l&#39;égalité des rayons, le cercle continue
+ou cesse de l&#39;être. La solution de la question proposée 
+(si elle en mérite une), c&#39;est qu&#39;elle suppose
+une absurdité, <i>l&#39;abstraction du decret de Dieu</i>, &amp; qu&#39;ainsi 
+elle ne mérite pas qu&#39;on y réponde sérieusement ; 
+que pour un philosophe qui auroit le malheur
+d&#39;être athée, &amp; par conséquent de ne faire entrer
+Dieu pour rien dans les évenemens de l&#39;univers,
+une des deux propositions est vraie, &amp; l&#39;autre fausse ;
+mais que pour nous, faire abstraction des decrets
+divins, c&#39;est faire abstraction de l&#39;existence de Dieu,
+par conséquent de celle du monde, par conséquent
+de celle de Pierre, &amp; qu&#39;il est ridicule de proposer
+des questions par rapport à Pierre, lorsqu&#39;on fait
+abstraction de son existence. L&#39;abus des abstractions
+&amp; les questions futiles que cet abus occasionne,
+<milestone unit="column" n="2" />
+sont le grand vice de la philosophie scholastique. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28760" id="51:81" vol="7">
+<index type="head" value="GAGNE-DENIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Commerce." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="s.m." />
+<head>GAGNE-DENIER</head>
+<p>
+GAGNE-DENIER, s. m. (<i>Commerce.</i>) homme
+fort &amp; robuste dont on se sert à Paris pour porter
+des fardeaux &amp; marchandises en payant une certaine 
+somme, dont on convient à l&#39;amiable. On les
+nomme aussi <i>porte-faix, crocheteurs, forts, hommes
+de peine, plumets, garçons de la pelle, tireurs de moulins</i>, &amp;c.
+</p>
+<p>
+Ils servent pour la plûpart sur les ports, &amp; ont
+leurs salaires reglés par les prevôt des Marchands &amp;
+échevins : ils composent différentes communautés,
+&amp; ont leurs officiers, confrairies, &amp; maîtres de confrairies.
+</p>
+<p>
+L&#39;ordonnance de la ville de 1712 a reglé plusieurs
+points de police qui concernent ces <i>gagne-deniers</i>.
+</p>
+<p>
+On appelle du même nom à la Douane de Paris,
+des gens à qui seuls il appartient de travailler pour
+la décharge &amp; recharge des marchandises, ballots,
+balles, tonneaux, <i>&amp;c.</i> qui y sont portés ou qui y arrivent 
+par les carrosses, coches, chariots, charrettes,
+&amp; autres voitures publiques.
+</p>
+<p>
+Ils sont choisis par les fermiers généraux, font
+une espece d&#39;apprentissage, &amp; ne peuvent être reçûs 
+qu&#39;en payant certains droits qui montent à près
+de huit cents livres.
+</p>
+<p>
+Ce sont eux qui exécutent les ordres des principaux 
+commis de la douane, particulierement de
+l&#39;inspecteur général des manufactures &amp; des visiteurs
+pour l&#39;ouverture des balles &amp; ballots, &amp; pour l&#39;envoi 
+des draperies à la halle aux draps, des livres à
+la chambre syndicale des Libraires, &amp; des toiles à
+la halle de cette marchandise.
+</p>
+<p>
+Leur nombre n&#39;excede guere celui de vingt ; leurs
+salaires ne sont pas fixés pour la plûpart, &amp; ils font
+bourse commune, partageant entre eux tous les soirs
+ce qu&#39;ils ont reçû. <i>Dictionnaires de Commerce &amp; de
+Trévoux</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

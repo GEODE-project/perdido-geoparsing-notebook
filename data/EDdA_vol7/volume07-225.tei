@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27679" id="48:98:9" vol="7">
+<index type="head" value="Force mouvante" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Méchanique" />
+<index type="pos" value="NA" />
+<head>Force mouvante</head>
+<p>
+<sc>Force mouvante</sc>, est proprement la même
+chose que <i>force motrice ;</i> cependant on ne se sert
+guere de ce mot que pour désigner des <i>forces</i> qui
+agissent avec avantage par le moyen de quelque
+machine. Ainsi on appelle parmi nous <i>forces mouvantes</i>, ce que d&#39;autres appellent <i>puissances méchaniques</i>. Ce sont les machines simples dont on fait mention 
+dans les élémens de Statique, &amp; de la combinaison 
+desquelles on compose toutes les autres machines ; 
+savoir le levier, le plan incliné, la vis, le
+coin, la poulie. On peut même les réduire à deux,
+le levier &amp; le plan incliné; car la vis se réduit au
+plan incliné &amp; au levier, la poulie &amp; le coin au levier.
+<i>Voyez</i> 
+<sc><ref target="head:Vis" type="search">Vis</ref>, <ref target="head:Coin" type="search">Coin</ref>, <ref target="head:Poulie" type="search">Poulie</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+Ces différentes machines facilitent l&#39;action des
+puissances pour mouvoir des poids, soit parce qu&#39;elles 
+diminuent en effet l&#39;action que la puissance seroit
+obligée d&#39;exercer pour mouvoir le poids immédiatement,
+soit parce que la maniere dont la puissance
+est appliquée favorise son action. Ainsi dans la poulie,
+par exemple, la puissance doit être égale au
+poids ; cependant la poulie aide la puissance, parce
+que la maniere dont la puissance y est appliquée facilite 
+son action, &amp; la met en état d&#39;agir commodément 
+&amp; sans gêne. <i>Voyez</i> <sc><ref target="head:Poulie" type="search">Poulie</ref></sc>, <i>&amp;c.</i> A ces cinq
+<i>forces mouvantes</i> ou machines simples, M. Varignon
+dans son <i>projet de Méchanique</i>, en ajoûte une sixieme 
+qu&#39;il appelle <i>la machine funiculaire</i>, &amp; qui n&#39;est
+qu&#39;un assemblage de cordes par le moyen desquelles
+différentes puissances tirent un poids. <i>Voyez</i> <sc><ref target="head:Funiculaire" type="search">Funiculaire</ref></sc>. Pour connoître l&#39;effet de ces différentes
+machines, il faut le calculer dans le cas de l&#39;équilibre ; 
+car dès qu&#39;on a la puissance capable de soûtenir 
+un poids, alors en augmentant tant-soit-peu cette
+puissance, on fera mouvoir le poids. Or pour calculer 
+le cas de l&#39;équilibre, il suffit d&#39;employer le principe 
+de la composition &amp; de la décomposition des
+<i>forces</i>. Il faut pour cela prolonger d&#39;abord, s&#39;il est
+nécessaire, les directions de deux <i>forces</i> quelconques,
+&amp; chercher celle qui en résulte ; ensuite chercher
+la résultante de cette derniere &amp; d&#39;une troisieme <i>force</i>, &amp; ainsi de suite, jusqu&#39;à ce qu&#39;on soit arrivé à
+une derniere <i>force</i>, qui doit ou être = o, ou au moins 
+passer par un point fixe, pour qu&#39;il y ait équilibre. En effet, si cette derniere <i>force</i> qui résulte de la
+réunion de toutes les autres, n&#39;étoit pas égale à zéro,
+ou ne passoit pas par un point fixe dont la résistance 
+anéantît son action, il n&#39;y auroit pas d&#39;équilibre,
+comme on le suppose, puisque cette <i>force</i>
+produiroit alors quelque mouvement. Ce principe
+de la réduction de toutes les <i>forces</i> à une seule, renferme 
+toute la Statique, &amp; on peut en voir l&#39;application 
+aux articles des différentes machines.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

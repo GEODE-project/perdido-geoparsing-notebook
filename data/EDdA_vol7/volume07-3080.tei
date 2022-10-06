@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30534" id="55:121:2" vol="7">
+<index type="head" value="Grue" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Méchan." />
+<index type="normclass" value="Méchanique" />
+<index type="englishclass" value="Mechanics" />
+<index type="generatedclass" value="Architecture" />
+<index type="pos" value="NA" />
+<head>Grue</head>
+<p>
+<sc>Grue</sc>, (<i>Méchan.</i>) machine en usage dans la construction 
+des bâtimens, pour élever des pierres &amp;
+autres grands fardeaux.
+</p>
+<p>
+M. Perrault dans ses notes sur Vitruve, prétend
+que la <i>grue</i> est le corbeau des anciens. <i>Voyez</i> <sc><ref target="head:Corbeau" type="search">Corbeau</ref></sc>.
+</p>
+<p>
+La <i>grue</i> des modernes est composée de plusieurs
+pieces, dont la principale est un arbre élevé perpendiculairement,
+&amp; terminé en poinçon par le haut:
+cet arbre est garni par le milieu de huit pieces de bois
+posées en croix, &amp; soûtenu de huit bras ou liens en
+contre-fiche, qui s&#39;assemblent vers le haut de l&#39;arbre,
+&amp; y sont joints avec tenon &amp; mortoise. La piece
+de bois qui porte &amp; qui sert à élever les fardeaux,
+s&#39;appelle <i>échelier</i> ou <i>rancher ;</i> elle est garnie de chevilles 
+ou ranches, &amp; posée sur un pivot de fer qui est au
+bout du poinçon de l&#39;arbre : il est assemblé avec plusieurs 
+moises à des liens montans. Il y a des pieces de
+bois que l&#39;on nomme <i>soûpentes</i>, attachées à la grande 
+moise d&#39;en-bas &amp; à l&#39;échelier, &amp; qui servent à
+porter la roue &amp; le treuil, autour duquel se devide
+le cable. Le cable passe dans des poulies qui sont
+au bout des moises, &amp; à l&#39;extrémité de l&#39;échelier.
+Tout le corps de la <i>grue</i>, c&#39;est-à-dire, l&#39;échelier,
+les moises, les liens montans, les soûpentes, la roue
+&amp; le treuil, tourne sur le pivot autour de l&#39;arbre pour
+placer les fardeaux où l&#39;on veut. <i>Chambers</i>.
+</p>
+<p>
+A proprement parler, la <i>grue</i> est un composé du
+treuil &amp; de la poulie : ainsi pour connoître l&#39;effet de
+cette machine &amp; sa force, il ne faut qu&#39;y appliquer ce
+que nous dirons de ces deux machines. <i>Voyez donc</i>
+<sc><ref target="head:Poulie" type="search">Poulie</ref> <i>&amp;</i> <ref target="head:Treuil" type="search">Treuil</ref></sc>. <i>Voyez aussi</i> 
+<sc><ref target="head:Axe dans le Tambour" type="search">Axe dans le Tambour</ref></sc>
+, qui est la même chose que <i>treuil</i>, &amp;c.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

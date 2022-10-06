@@ -1,0 +1,175 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27793" id="49:56" vol="7">
+<index type="head" value="FORMULAIRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théol. &amp; Hist. ecclés." />
+<index type="normclass" value="Théologie | Histoire ecclésiastique" />
+<index type="englishclass" value="Theology | Ecclesiastical history" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.m." />
+<head>FORMULAIRE</head>
+<p>
+FORMULAIRE, s. m. (<i>Théol. &amp; Hist. ecclés.</i>) on
+appelle ainsi en général toute formule de foi qu&#39;on
+propose pour être reçûe ou signée ; mais on donne
+<milestone unit="column" n="2" />
+aujourd&#39;hui ce nom (comme par excellence) au fameux 
+<i>formulaire</i> dont le clergé de France a ordonné
+la signature en 1661, &amp; par lequel l&#39;on condamne
+les cinq propositions dites de Jansénius.
+</p>
+<p>
+Ce <i>formulaire</i>, auquel un petit nombre d&#39;ecclésiastiques 
+refuse encore d&#39;adhérer, est une des principales
+causes des troubles dont l&#39;église de France
+est affligée depuis cent ans. La postérité aura-t-elle
+pour les auteurs de ces troubles de la pitié ou de
+l&#39;indignation, quand elle saura qu&#39;une dissension si
+acharnée se réduit à savoir, si les cinq propositions
+expriment ou non la doctrine de l&#39;évêque d&#39;Ypres?
+car tous s&#39;accordent à condamner ces propositions
+en elles-mêmes. On appelle (très-improprement)
+<i>Jansénistes</i>, ceux qui refusent de signer que Jansénius ait enseigné ces propositions. Ceux-ci de leur côté 
+qualifient (non moins ridiculement) leurs adversaires 
+de <i>Molinistes</i>, quoique le Molinisme n&#39;ait rien
+de commun avec le <i>formulaire ;</i> &amp; ils appellent <i>athées</i>
+les hommes sages qui rient de ces vaines contestations.
+Que les opinions de Luther &amp; de Calvin ayent
+agité &amp; divisé l&#39;Europe, cela est triste sans doute ;
+mais du-moins ces opinions erronées rouloient sur
+des objets réels &amp; importans à la religion. Mais que
+l&#39;Eglise &amp; l&#39;Etat ayent été boulversés pour savoir
+si cinq propositions inintelligibles sont dans un livre
+que personne ne lit ; que des hommes, tels qu&#39;Arnauld, qui auroient pu éclairer le genre humain par
+leurs écrits, ayent consacré leur vie &amp; sacrifie leur
+repos à ces querelles frivoles ; que l&#39;on ait porte la
+démence jusqu&#39;à s&#39;imaginer que l&#39;Être supreme ait
+decide par des miracles une controverse si digne des
+tems barbares : c&#39;est, il faut l&#39;avoüer, le comble de
+l&#39;humiliation pour notre siecle. Le seul bien que ces
+disputes avent produit, c&#39;est d&#39;avoir été l&#39;occasion
+des <i>Provinciales ;</i> modele de bonne plaisanterie dans
+une matiere qui en paroissoit bien peu susceptible.
+Il ne manqueroit rien à cet immortel ouvrage, si les
+<i>fanatiques</i><sup><ref type="note" target="n6" n="*" /></sup> des deux partis y étoient également tournés 
+en ridicule : mais Pascal n&#39;a lancé ses traits que
+sur l&#39;un des deux, sur celui qui avoit le plus de pouvoir,
+&amp; qu&#39;il croyoit mériter seul d&#39;être immole à
+la risée publique. M. de Voltaire dans son chapitre
+<i>du Jansénisme</i>, qui fait partie du siecle de Louis XIV.
+a sû faire de la plaisanterie un usage plus impartial
+&amp; plus utile ; elle est distribuée à droite &amp; à gauche,
+avec une finesse &amp; une legereté qui doit couvrir 
+tous ces hommes de parti d&#39;un mépris ineffaçable.
+Peut-être aucun ouvrage n&#39;est-il plus propre 
+à faire sentir combien le gouvernement a montré 
+de lumieres &amp; de sagesse en ordonnant enfin le
+silence sur ces matieres, &amp; combien il eût été à desirer 
+qu&#39;une guerre aussi insensée eût été étouffée dès sa
+naissance. Mais le cardinal Mazarin qui gouvernoit
+alors, pouvoit-il prévoir que des hommes raisonnables 
+s&#39;acharneroient pendant plus de cent ans les
+uns contre les autres pour un pareil objet? La faute
+que ce grand ministre fit en cette occasion, apprend
+à ceux qui ont l&#39;autorité en main, que les querelles 
+de religion, même les plus futiles, ne sont jamais 
+à mépriser ; qu&#39;il faut bien se garder de les aigrir 
+par la persécution ; que le ridicule dont on peut
+les couvrir dès leur origine, est le moyen le plus sûr
+de les anéantir de bonne-heure ; qu&#39;on ne sauroit
+sur-tout trop favoriser les progrès de l&#39;esprit philosophique,
+qui en inspirant aux hommes l&#39;indifférence 
+pour ces frivoles disputes, est le plus ferme appui
+de la paix dans la religion &amp; dans l&#39;état, &amp; le fondement 
+le plus sûr du bonheur des hommes. (<i>O</i>)
+</p>
+<div2 type="notes">
+<note id="n6">
+* Nous disons <i>les fanatiques</i> ; car en tout genre le fanatisme
+seul est condamnable.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

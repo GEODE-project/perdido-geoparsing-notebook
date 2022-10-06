@@ -1,0 +1,194 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30781" id="55:316" vol="7">
+<index type="head" value="GYMNOPEDIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Antiq. greq." />
+<index type="normclass" value="Antiquité grecque" />
+<index type="englishclass" value="Ancient Greece" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="s.f." />
+<head>GYMNOPÉDIE</head>
+<p>
+GYMNOPÉDIE, s. f. (<i>Antiq. greq.</i>) <foreign lang="greek">γυμνωπαιδία</foreign>,
+mot composé de <foreign lang="greek">γυμνός</foreign>, <i>nud</i>, &amp; <foreign lang="greek">παῖς</foreign>, <i>jeune homme ;</i>
+danse en usage chez les Lacédémoniens, &amp; qui devoit 
+son institution à Lycurgue. Cette danse faisoit
+partie d&#39;une fête solennelle qu&#39;on célébroit publiquement 
+à Lacédémone, en mémoire de la victoire remportée 
+près de Thyrée par les Spartiates sur les
+Argiens. Deux troupes de danseurs nuds, la premiere 
+de jeunes gens, la seconde d&#39;hommes faits, composoient 
+la <i>gymnopédie</i>, &amp; lui donnoient son nom:
+<milestone unit="column" n="2" />
+celui qui menoit chaque troupe, portoit sur la tête
+une couronne de palmier, qu&#39;on nommoit <i>couronne
+thyréatique</i>, à cause du sujet de la fête. Toute la bande 
+en dansant chantoit les poésies lyriques de Thalétas &amp; d&#39;Aleman, ou les péanes de Dionysodote.
+Ces danses se faisoient dans la place publique ; &amp; la
+partie de cette place destinée aux danseurs s&#39;appelloit 
+le choeur, <foreign lang="greek">χῶρος</foreign>.
+</p>
+<p>
+La fête étoit consacrée à Apollon pour la poésie,
+&amp; à Bacchus pour la danse ; cette danse, selon Athénée, avoit quelque rapport à une sorte d&#39;exercice,
+connu anciennement sous le nom d&#39;<foreign lang="greek">ἀναπάλη</foreign>, parce
+les danseurs par les démarches entre-coupées &amp;
+cadencées de leurs piés, &amp; par les mouvemens figurés 
+de leurs mains, offroient aux yeux une image
+adoucie de la lutte &amp; du pancrace. Meursius a discuté 
+cette matiere avec érudition, dans son livre intitulé 
+<i>orchestra ;</i> on y peut recourir. Il me suffira d&#39;ajoûter 
+qu&#39;on passoit ordinairement de cette danse à
+la pyrrhique, dont la <i>gymnopédie</i> étoit comme le prélude.
+</p>
+<p>
+Le législateur de Lacédémone appliqua l&#39;exercice
+de la danse aux vues qu&#39;il avoit de porter la jeunesse 
+de Sparte à apprendre en se joüant l&#39;art terrible de
+la guerre : non-seulement Lycurgue voulut que les
+jeunes garçons dansassent nuds, mais il établit que
+les jeunes filles, dans certaines fêtes solennelles, ne
+danseroient que parées de leur propre beauté, &amp;
+sans autre voile que leur pudeur. Quelques personnes 
+lui ayant demande la cause de cette institution:
+c&#39;est afin, repondit-il, que les filles de Sparte faisant
+les mêmes exercices que les hommes, elles ne leur
+soient point inferieures ni pour la force &amp; la santé
+du corps, ni pour la générosité de l&#39;ame.
+</p>
+<p>
+M. Guillet, dans sa <i>Lacédémone ancienne</i>, entreprend 
+d&#39;après Plutarque l&#39;apologie de Lycurgue contre 
+ceux qui prétendent que cette institution étoit
+plus capable de corrompre les moeurs que de les affiner.
+</p>
+<p>
+<blockquote> 
+« Outre, dit M. Guillet, qu&#39;il est impossible
+d&#39;imaginer que Lycurgue, qui regardoit l&#39;éducation 
+des enfans pour la plus importante affaire d&#39;un
+législateur, ait pû jamais fonder des usages qui tendissent 
+au déréglement, il n&#39;est pas douteux que la
+nudité étant commune à Lacédémone, ne faisoit
+point d&#39;impression criminelle ou dangereuse. Il se
+forme par-tout naturellement une habitude de l&#39;oeil
+à l&#39;objet qui dispose à l&#39;insensibilité, &amp; qui bannit
+les desirs déréglés de l&#39;imagination ; l&#39;émotion ne
+vient guere que de la nouveauté du spectacle. Enfin (&amp; c&#39;est la meilleure raison de M. Guillet) dès
+qu&#39;on s&#39;est mis une fois dans l&#39;esprit l&#39;intégrité des
+moeurs de Sparte, on demeure persuadé de ce bon
+mot : <i>les filles de Lacédémone n&#39;étoient point nues,
+l&#39;honneteté publique les couvroit</i>. Telle étoit, dit Plutarque, la pudicité de ce peuple, que l&#39;adultere y
+passoit »
+</blockquote>
+pour une chose impossible &amp; incroyable.
+</p>
+<p>
+Ces usages nous paroissent également étranges
+&amp; blâmables ; &amp; nous sommes étonnés qu&#39;un homme 
+aussi renommé pour sa sagesse ait pû les proposer,
+ou qu&#39;on ne les ait pas rejettés.
+</p>
+<p>
+Après tout, quelque parti qu&#39;on prenne pour ou
+contre Lycurgue, gardons-nous bien de croire que
+son excuse en fût une pour nous. Quoiqu&#39;il y ait
+quantité de lieux dans le monde où les femmes paroissent 
+toûjours dans l&#39;état de celles qui dansoient
+à certaines fêtes de Sparte, &amp; quoique nos voyageurs 
+assûrent que dans ces lieux le déréglement des
+moeurs est très-rare ; le point important qu&#39;il ne faut
+jamais perdre de vûe sur cette matiere, est de reconnoître 
+que si la force de l&#39;éducation générale, établie
+sur de bons principes, est infinie, lorsque des exemples 
+contagieux n&#39;en peuvent déranger les effets,
+nous ne joüissons malheureusement ni des avantages
+<pb n="7:1022" facs="V7/ENC_7-1022.jpeg" />
+<milestone unit="column" n="1" />
+précieux de cette excellente éducation générale, ni
+de ceux d&#39;une bonne éducation particuliere. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29117" id="51:254" vol="7">
+<index type="head" value="GARGARISER, (se) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>GARGARISER</head>
+<p>
+GARGARISER, (<sc>se</sc>) c&#39;est l&#39;action de se laver la
+bouche &amp; l&#39;entrée du gosier avec quelque liqueur. On
+se <i>gargarise</i> ordinairement avec de l&#39;eau simple, par
+propreté: cette ablution enleve les matieres limoneuses 
+qui pendant la nuit s&#39;attachent à la langue,
+au voile du palais, &amp; dans le fond de l&#39;arriere-bouche. Lorsqu&#39;on fait usage de gargarismes dans des
+maladies du fond de la bouche, on a coûtume de
+porter la tête en-arriere ; on retient la liqueur, &amp;
+on l&#39;agite en lui faisant faire un gargouillement. Ce
+mouvement de l&#39;air avec l&#39;eau peut irriter les parties,
+&amp; empêche l&#39;action du médicament. Il opereroit 
+plus efficacement, si l&#39;on retenoit la liqueur sans
+aucune agitation, de façon qu&#39;elle baignât simplement 
+les parties malades. <i>Voy.</i> <sc><ref target="head:Gargarisme" type="search">Gargarisme</ref></sc>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

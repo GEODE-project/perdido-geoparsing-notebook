@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28114" vol="7">
+<index type="head" value="Frais funéraires" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Frais funéraires</head>
+<p>
+<i>Frais funéraires</i>, sont ceux qui se font pour l&#39;inhumation 
+d&#39;un défunt ; ce qui comprend les billets
+d&#39;invitation, la tenture, la cire, l&#39;ouverture de la
+terre, l&#39;honoraire des prêtres, &amp; autres <i>frais</i> nécessaires 
+&amp; usités, selon la qualité des personnes.
+</p>
+<p>
+L&#39;annuel ne fait pas partie des <i>frais funéraires</i>.
+</p>
+<p>
+Mais le deuil de la veuve &amp; des domestiques qui
+sont à son service, sont compris dans ces <i>frais</i>.
+</p>
+<p>
+Ils ne se prennent point sur la masse de la communauté,
+mais seulement sur la part du défunt &amp; sur
+ses autres biens personnels.
+</p>
+<p>
+Ils ne sont point à la charge du légataire universel
+seul, mais il y contribue avec les héritiers chacun à
+proportion de l&#39;émolument.
+</p>
+<p>
+Ils sont privilégiés sur les meubles à tous autres
+créanciers, même au propriétaire de la maison que
+le défunt habitoit. <i>L. 45. ff. de reliq. &amp; sumpt. funer</i>.
+Ils ne passent néanmoins qu&#39;après les <i>frais</i> de justice.
+</p>
+<p>
+Leur privilége ne s&#39;étend qu&#39;à ce qui est nécessaire 
+pour l&#39;inhumation, selon la qualité de la personne,
+&amp; non à des superfluités. <i>L. 37. ff. de reliq.
+&amp; sumpt. fun.</i> (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

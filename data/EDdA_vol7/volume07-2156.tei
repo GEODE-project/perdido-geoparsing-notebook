@@ -1,0 +1,172 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29610" id="53:108:1" vol="7">
+<index type="head" value="Gîte, (droit de-) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. de France" />
+<index type="normclass" value="Histoire de France" />
+<index type="englishclass" value="History of France" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gîte</head>
+<p>
+<sc>Gîte</sc>, (<sc>droit de-</sc>) <i>Hist. de France ;</i> dans les titres 
+ce droit s&#39;appelle <i>jus gisti, gistum, jus subventionis</i>, ou <i>procurationis. Voyez</i> Ducange, au mot <i>gistum</i>. Ancien droit que les rois de France levoient
+dans les villes, bourgs, évêchés, &amp; abbayes, pour
+les indemniser des frais du voyage, passage, ou séjour 
+qu&#39;ils faisoient sur les lieux.
+</p>
+<p>
+Quand les rois de la premiere race &amp; quelques-uns 
+de la seconde, voyageoient, ce qui leur arrivoit
+<pb n="7:675" facs="V7/ENC_7-675.jpeg" />
+<milestone unit="column" n="1" />
+souvent, ils logeoient avec leur suite pendant une
+nuit, aux dépens des villes, des bourgs, &amp; des villages 
+qui étoient sur leur route. On leur fournissoit tout
+ce dont ils avoient besoin, &amp; ils étoient magnifiquement 
+défrayés ; car leurs hôtes ne manquoient jamais 
+d&#39;y joindre au départ quelque présent en argenterie.
+Peu-à-peu cet établissement devint un droit
+royal, qu&#39;on nomma <i>droit de gîte ;</i> &amp; personne n&#39;en
+fut exempt. Jean le Coq rapporte un arrêt qui déclare 
+les villes données en doüaire à la reine, sujettes
+au <i>droit de gîte</i>.
+</p>
+<p>
+Les évêques &amp; les abbés payoient ce <i>droit de gîte</i>
+pour la visite de leur église ; &amp; quand nos rois se dégoûterent 
+de mener une vie errante, ils continuerent 
+d&#39;exiger leur <i>droit de gîte</i> des évêques, des abbés,
+&amp; autres prélats. Lors même que ces évêques
+&amp; abbés furent affranchis du service militaire, ils
+resterent soûmis au <i>droit de gîte</i>. Louis VII. en exempta 
+la seule église de Paris, en reconnoissance de l&#39;éducation 
+qu&#39;elle lui avoit donnée.
+</p>
+<p>
+Ce <i>droit de gîte</i> étoit fixé à une certaine somme pour
+chaque évêché ou abbaye, toutes les fois que le roi
+venoit visiter l&#39;église ou l&#39;abbaye du lieu : p. ex. l&#39;abbé 
+du grand monastere de Tours étoit taxé à soixante
+livres du pays ; <i>abbas majoris monasterii Turonensis
+debet unum gistum, taxatum sexaginta libras turonenses,
+levandas quolibet anno, si rex visitaverit ecclesiam</i>.
+</p>
+<p>
+Quelques églises s&#39;abonnerent à payer le <i>droit de
+gîte</i> à une certaine somme, soit que le roi vînt ou
+non les visiter ; l&#39;archevêque de Tours prit ce parti,
+&amp; composa pour cent francs. Pasquier rapporte à ce
+sujet un grand passage qu&#39;il a tiré des archives de la
+chambre des comptes, &amp; dont voici le précis : <i>L. anno 
+Domini 1382, dominus P. Mazerii, episcopus Atrebatensis, pro jure procurationis . . . . . . . . composuit in
+ducentis &amp; quadraginta francis auri, franco sexdecim
+solidorum, pro eo quod debebat ; de quibus satisfactum,
+dominus Atrebatensis habet penès se litteras regias, unâ
+cum litteris quitationis secretariorum</i>. Le latin de ce
+tems-là n&#39;est pas élégant, mais le sens en est clair.
+Ce passage dit qu&#39;en 1382 l&#39;évêque d&#39;Arras traita à
+deux cents quarante francs d&#39;or, chaque franc de
+seize sous, pour ce qu&#39;il devoit du <i>droit de gîte ;</i> qu&#39;il
+paya cette somme, en prit l&#39;écrit du roi, &amp; quittance 
+de ses secrétaires.
+</p>
+<p>
+Ce même passage nous apprend positivement que
+le <i>droit de gîte</i> subsistoit encore en 1382.
+<blockquote> 
+« Enfin, dit
+Pasquier en son vieux gaulois, le tems a depuis fait
+mettre en oubli, tant les services militaires, que
+<i>droits de gîte ;</i> au lieu desquels on a introduit l&#39;octroi 
+des décimes sur tout le clergé, n&#39;étant demeuré 
+de cette ancienneté, que la prestation de serment
+de fidélité au roi, qui doit être faite par tous les prélats 
+de France, lors de leurs avénemens ».
+</blockquote>
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

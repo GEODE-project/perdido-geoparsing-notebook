@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30175" id="54:81" vol="7">
+<index type="head" value="GRATITUDE, RECONNOISSANCE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Synonymes." />
+<index type="normclass" value="Synonymes" />
+<index type="englishclass" value="Synonyms" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="sub.f" />
+<head>GRATITUDE, RECONNOISSANCE</head>
+<p>
+GRATITUDE, RECONNOISSANCE, sub. f.
+(<i>Synonymes.</i>) ces deux mots désignent une même
+chose, le sentiment des bienfaits qu&#39;on a reçûs ; avec
+cette différence, que le second est toûjours en regne,
+&amp; que le premier, quoique plus moderne,
+n&#39;ayant été hasardé que sur la fin du seizieme siecle,
+commence à vieillir dans le dix-huitieme.
+<blockquote> 
+« Quant
+à la <i>gratitude</i>, dit Montagne, (car il me semble que
+nous avons besoin de mettre ce mot en crédit),
+l&#39;exemple du lion qui récompensa Androclus du
+bienfait qu&#39;il avoit reçû de lui, en venant le lecher 
+dans l&#39;amphitéatre de Rome, est un exemple 
+de cette vertu qu&#39;Appien &amp; Séneque nous ont
+consacrée ».
+</blockquote>
+Autre bizarrerie de notre langue ; le
+mot de <i>méconnoissance</i> est tombé, &amp; le mot <i>ingratitude</i> a pris sa place. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

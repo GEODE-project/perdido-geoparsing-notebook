@@ -1,0 +1,478 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30088" id="54:36" vol="7">
+<index type="head" value="GRAINE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botanique." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="s.f." />
+<head>GRAINE</head>
+<p>
+GRAINE, s. f. (<i>Botanique.</i>) semence que les plantes 
+fournissent pour la conservation &amp; la propagation 
+de l&#39;espece, après qu&#39;elles ont produit leurs
+fleurs &amp; leur fruit. M. Dodard définit la <i>graine</i>, un
+bourgeon de plante abregée, accompagné d&#39;une pulpe 
+qui lui tient lieu de placenta. La <i>graine</i> est souvent
+le fruit même de la plante, comme dans la plûpart
+des herbes potageres ; quelquefois elle n&#39;est que la
+partie renfermée dans le fruit en forme de grain, de
+pepin, de noyau ; mais dans tous ces cas, c&#39;est toûjours 
+elle qui sert à multiplier l&#39;espece.
+</p>
+<p>
+L&#39;anatomie des <i>graines</i>, leur variété externe &amp;
+interne, les voies dont la nature se sert pour les semer,
+&amp; le secret de leur végétation seront à jamais
+l&#39;objet des recherches &amp; de l&#39;admiration des Physiciens.
+</p>
+<p>
+Grew, qui a fait tant de curieuses observations
+sur cette matiere, a remarqué qu&#39;en général les <i>graines</i> ont quatre enveloppes, dont la premiere s&#39;appelle 
+la <i>capsule</i>, qui ressemble quelquefois à une petite 
+bourse, comme celle du cresson ; quelquefois c&#39;est
+une gousse, comme celle des légumes ; quelquefois
+elle est divisée en deux, comme dans l&#39;oseille &amp; dans
+la renouée. La seconde &amp; la troisieme enveloppe
+s&#39;appellent les <i>peaux de la graine</i>, principalement
+dans les féves ; leur couleur varie depuis le blanc
+jusqu&#39;au noir de jay. La quatrieme &amp; derniere enveloppe 
+se peut nommer <i>secondine</i>, parce qu&#39;elle est,
+pour ainsi dire, dans les plantes, ce que sont dans les
+animaux les membranes qui enveloppent le fétus:
+on la peut voir en enlevant fort adroitement les robes 
+d&#39;une féve nouvellement formée.
+</p>
+<p>
+La figure des <i>graines</i> est tantôt semblable à celle
+d&#39;un rein, comme dans cette espece de ben appellée
+<i>papaver spumeum:</i> tantôt elle est triangulaire, comme 
+dans l&#39;oseille &amp; dans le sceau de Salomon ; quelquefois 
+entre ronde &amp; triangulaire, comme dans la
+<milestone unit="column" n="2" />
+menthe &amp; dans la mélisse ; quelquefois elle est ronde-plate, comme dans les giroflées &amp; les amaranthes ; 
+quelquefois sphérique, comme dans les navets
+&amp; dans le muguet des bois ; quelquefois ovale, comme 
+dans le peigne de Vénus &amp; dans les tithymales ;
+ou demi-ovale, comme dans l&#39;anis &amp; dans le fénouil,
+ou demi-ronde, comme dans la coriandre.
+</p>
+<p>
+On en trouve qui ont la forme d&#39;une pique, comme 
+dans la laitue ; ou d&#39;un cylindre, comme dans les
+jacobées ; ou d&#39;une pyramide, comme dans le bec de
+cicogne à feuilles de guimauve. Il y en a de lisses &amp;
+polies, comme celles du scandix ; d&#39;autres qui sont
+bouillonnées, comme celles de l&#39;herbe aux mittes ;
+d&#39;autres qui sont remplies de petites fosses exagones
+semblables aux rayons de miel, comme celles des
+pavots, de la jusquiame, du mufle de veau, &amp; du
+passerage ; d&#39;autres qui sont percées comme des pierres 
+ponces, telles que sont celles du grémil &amp; du phalange 
+de Candie.
+</p>
+<p>
+La <i>graine</i> de plusieurs plantes mâles est huileuse,
+&amp; cette <i>graine</i> n&#39;est autre chose qu&#39;une espece de
+poussiere de diverses couleurs, qui dans les fleurs
+tient au sommet des étamines ; elle est jaune dans le
+lis blanc, rouge dans le lis frisé, noire dans plusieurs
+especes de tulipes ; toutes ces graines repoussent
+l&#39;eau. Cela se voit fort bien dans la semence du pié
+de loup, <i>lycopodium ;</i> car si on en enduit le fond d&#39;un
+verre, on s&#39;appercevra que l&#39;eau qu&#39;on y verse reçoit 
+une surface convexe, &amp; qu&#39;une goutte d&#39;eau y
+paroît sous la forme d&#39;un globule rond : l&#39;eau ne pénetrera 
+pas un morceau de toile ou de papier, si on
+a eu soin de les frotter auparavant comme il faut
+avec la <i>graine</i> de cette mousse terrestre.
+</p>
+<p>
+Les peaux des <i>graines</i> de coignassier, de l&#39;herbe
+aux puces, de la roquette, de la cameline, du cresson,
+du basilic, &amp; de plusieurs autres, sont vernissées 
+d&#39;un mucilage qui s&#39;évanoüit quand elles sont
+seches.
+</p>
+<p>
+Toutes les <i>graines</i> de plantes ont des enveloppes
+ou des étuis qui les mettent à couvert jusqu&#39;à ce qu&#39;elles 
+soient jettées en terre ; on les retourne, on les
+mesure, on les entasse sans danger, parce qu&#39;elles
+sont enveloppées &amp; garanties : les unes naissent dans
+le coeur des fruits, comme les pepins des pommes &amp;
+des poires ; d&#39;autres viennent dans des gousses, comme 
+les pois, les féves, les graines de pavot, le cacao.
+Il y en a qui outre la chair du fruit ont encore
+de grosses coques de bois plus ou moins dures, comme 
+les noix, les amandes des abricots, des pêches,
+&amp; d&#39;autres fruits, tant des Indes orientales que des
+Indes occidentales. Plusieurs par-dessus leur coque
+de bois ont un brou amer comme nos noix ; ou un
+fourreau hérissé de pointes, comme les châtaignes
+&amp; les marrons d&#39;Inde. Indépendamment des enveloppes 
+extérieures, chaque <i>graine</i> a encore son épiderme ou sa peau, dans laquelle sont renfermés la pulpe
+&amp; le germe.
+</p>
+<p>
+Toutes ces choses frappent les yeux, &amp; bien davantage 
+encore, quand on regarde les plus petites
+<i>graines</i> avec la lentille ; car alors elles se montrent
+aussi différentes dans leur figure &amp; dans leur caractere,
+que le sont tous les autres genres d&#39;êtres de la
+création : mais si leur forme extérieure porte une si
+grande variété, leur structure interne etant artistement 
+développée par des préparations &amp; des sections,
+offre au microscope mille choses dignes d&#39;admiration.
+Je suis fâché de n&#39;en oser citer que quelques
+exemples.
+</p>
+<p>
+La <i>graine</i> de l&#39;angélique est une des plus odorantes 
+du monde : ôtez-en la premiere pellicule, &amp; vous
+découvrirez au microscope ce qui produit sa charmante 
+odeur ; c&#39;est une fine gomme ambrée, couchée
+par filets sur toutes les cannelures de cette semence.
+</p>
+<p>
+Faites une section longitudinale au grand cardamome,<gap type="hyphenpb" />
+<pb n="7:834" facs="V7/ENC_7-834.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;on appelle autrement <i>graine de paradis</i>,
+vous appercevrez d&#39;abord une substance poisseuse
+noire, contenant une matiere blanche en forme radiée,
+semblable à du sel très-blanc ; &amp; c&#39;est aussi probablement 
+un mélange de sel volatil &amp; de concrétion 
+farineuse, du-moins sa structure étoilée &amp; son
+goût piquant favorisent cette opinion. Mais ce dont
+on ne peut douter, &amp; qui est encore plus curieux,
+le centre de chaque <i>graine</i> est rempli d&#39;un petit morceau 
+de camphre parfait, le même, à tous égards,
+que celui de nos boutiques ; il est toûjours de la figure 
+des bouteilles qui ont un ventre large &amp; arrondi,
+avec un cou long &amp; étroit.
+</p>
+<p>
+La <i>graine</i> du grand érable, qu&#39;on nomme improprement 
+<i>sycomore</i>, présente au microscope un insecte
+qui a ses aîles étendues ; les aîles sont finement vasculaires,
+&amp; les enveloppes couvertes d&#39;un duvet blanc
+&amp; soyeux contiennent une petite pelote ronde &amp;
+compacte. Après avoir ôté la pellicule brune qui y
+est fermement attachée, on découvre une plante toute 
+verte, singulierement repliée ; le pédicule a environ,
+2/3, &amp; chaque feuille séminale 6/8 de pouce de
+longueur : les germes y sont de la plus grande perfection.
+</p>
+<p>
+La poussiere des <i>graines</i> de la plûpart des pavots
+étant exposée au microscope, est transparente comme 
+la <i>graine</i> même, &amp; lui ressemble entierement.
+</p>
+<p>
+La substance farineuse des féves, des pois, du
+froment, de l&#39;orge, &amp; autres grains, est enfermée
+dans de petites membranes qui sont comme autant
+de petits sacs percés de trous à-travers desquels on
+peut voir la lumiere, &amp; qui paroissent des restes de
+vaisseaux coupés ; ensorte que probablement chaque
+particule de farine est nourrie par des vaisseaux dont
+on ne voit plus que des extrémités tronquées. Il est
+vraissemblable que toutes les <i>graines</i> farineuses sont
+formées de petits globules renfermés dans des membranes 
+qui sont un amas de vaisseaux destinés à
+nourrir les divers globules qu&#39;elles contiennent.
+</p>
+<p>
+L&#39;huile des amandes &amp; de toutes les <i>graines</i> oléagineuses,
+est contenue dans de petits vaisseaux qui
+vûs au microscope, naissent des membranes dont ils
+font partie. Comme la substance oléagineuse reçoit
+son accroissement des vaisseaux qui sont dans les cellules,
+&amp; que la plante se ferine pendant le tems que
+la <i>graine</i> est en terre, les orifices sont formés de maniere 
+à admettre le passage intérieur de l&#39;humidité
+qu&#39;ils attirent en eux pendant leur séjour en terre:
+ainsi la <i>graine</i> doit enfler successivement, &amp; faire
+croitre la plante en grosseur, jusqu&#39;à ce que la racine 
+soit devenue capable de lui fournir par elle-même la nourriture de la terre.
+</p>
+<p>
+Le lecteur trouvera un nombre infini d&#39;autres
+belles choses de ce genre, recueillies &amp; décrites
+exactement par le docteur Parsons, dans son ouvrage 
+intitulé <i>A microscopic theatre of seeds</i>. Je le cite en
+anglois, car nous n&#39;avons pas été encore assez curieux 
+pour le traduire en notre langue. Je remarquerai 
+seulement en faveur de ceux qui voudront
+s&#39;attacher à ces sortes d&#39;observations, qu&#39;elles demandent 
+beaucoup d&#39;adresse dans la dissection, &amp;
+que la plûpart des especes de <i>graines</i> doivent être
+préparées pour l&#39;examen microscopique en les trempant 
+dans l&#39;eau chaude, jusqu&#39;à ce que leurs enveloppes 
+soient enlevées ; &amp; alors, par exemple, leurs
+feuilles séminales peuvent être ouvertes sans déchirement.
+</p>
+<p>
+Ce n&#39;est pas au hasard ni pour la simple vûe qu&#39;est
+fait l&#39;appareil merveilleux des <i>graines ;</i> on sait aujourd&#39;hui qu&#39;il n&#39;y a pas une seule plante dans le
+monde, grande, médiocre ou petite, qui puisse se
+produire sans <i>graine</i>, soit que la <i>graine</i> ait été mise
+dans les lieux mêmes où ces plantes naissent par la
+main du créateur ou de l&#39;homme, soit qu&#39;elle y ait
+<milestone unit="column" n="2" />
+été portée d&#39;ailleurs au-travers de l&#39;air par les pluies
+ou par les vents : il est vrai qu&#39;on a été long-tems à
+chercher sans succès les <i>graines</i> des plantes capillaires,
+de plusieurs especes de fucus, de plantes marines,
+de mousses, <i>&amp;c.</i> mais l&#39;industrie du xvij. &amp; du
+xviij. siecle, a découvert les <i>graines</i> de la plûpart de
+ces plantes, &amp; nous sait présumer que les autres n&#39;en
+sont pas destituées.
+</p>
+<p>
+Les <i>graines</i> de la fougere &amp; des plantes capillaires,
+d&#39;abord vûes par Caesius, ont été pleinement
+demontrees par M. Guillaume Cole &amp; par Swammerdam. <i>Voyez</i> <sc><ref target="head:Fougere" type="search">Fougere</ref></sc>. Les <i>graines</i> de quelques
+plantes marines ont été découvertes par le comte
+de Marsigli &amp; par M. de Reaumur. <i>Voyez l&#39;histoire
+de l&#39;académie des Sciences, années 1711 &amp; 1712</i>. Les
+<i>graines</i> de quelques especes de fucus ont été découvertes 
+par M. Samuel Doody : celles de quelques
+coralloïdes, par le docteur Tancred Robinson ; celles 
+de plusieurs fungus, &amp; en particulier des truffes,
+des vesses-de-loup, &amp; d&#39;autres de ce genre, par le
+docteur Lister. <i>Voyez les Transactions philosophiques</i>.
+</p>
+<p>
+Quand toutes ces découvertes n&#39;existeroient pas,
+il suffit de considérer la structure admirable des plantes,
+pour juger qu&#39;il est impossible qu&#39;elle résulte du
+concours fortuit de quelques sucs diversement agités,
+&amp; que ce concours fortuit produise régulierement 
+dans chaque espece des plantes toûjours parfaitement 
+semblables. Enfin Malpighi a prouvé par
+ses expériences, confirmées depuis par tous les Physiciens, qu&#39;une terre qui ne reçoit aucune semence,
+ne produit rien : c&#39;est donc une vérité de raisonnement 
+&amp; de fait, que toute plante vient d&#39;une <i>graine</i>.
+</p>
+<p>
+Arrêtons-nous ici quelques momens à considérer
+les différentes voies dont se sert la nature pour semer 
+les <i>graines</i> des plantes aussitôt qu&#39;elles sont mûres ; 
+&amp; c&#39;est ce qu&#39;elle exécute non-seulement en ouvrant 
+la capsule où la <i>graine</i> est enfermée, mais aussi
+en donnant à la <i>graine</i> une structure convenable pour
+se répandre près ou loin. Or, 1°. les <i>graines</i> de plusieurs 
+plantes qui demandent un terroir particulier,
+comme celles du pié-de-veau, du pavot, <i>&amp;c.</i> sont
+assez pesantes &amp; menues pour tomber droit en-bas
+&amp; s&#39;insinuer dans la terre, sans qu&#39;elles ayent besoin
+d&#39;autre secours : 2°. lorsqu&#39;elles sont assez grosses &amp;
+legeres pour pouvoir être enlevées par le vent, elles
+ont souvent un simple crochet comme la benoite, ou
+plusieurs petits crochets, qui les arrêtent &amp; les empêchent 
+d&#39;être portées trop loin de leur place ; telles
+sont les <i>graines</i> de l&#39;aigremoine &amp; du grateron : 3°.
+il y a au contraire des semences garnies d&#39;ailes ou de
+plumes, tant pour être dispersées par le vent, lorsqu&#39;elles sont mûres, comme celles du frêne, qu&#39;afin
+qu&#39;elles puissent s&#39;écarter sans tomber les unes sur
+les autres ; ainsi les <i>graines</i> de la dent de lion &amp; la
+plûpart des <i>graines</i> à aigrettes, ont quantité de petites 
+plumes longues qui les mettent en état de se répandre 
+de tous côtés : 4°. il y a des <i>graines</i>, comme
+celle de l&#39;oseille sauvage, qui sont dardées au loin
+avec force, par le secours d&#39;une pellicule ou coque
+blanche, épaisse, tendineuse &amp; élastique, qui étant
+desséchée se creve, &amp; de cette maniere élance fortement 
+la <i>graine</i>, comme dans la langue-de-cerf &amp; la
+persicaire acre &amp; siliqueuse ; toute la différence est
+que dans les unes le ressort se roule en-dedans, &amp;
+dans les autres l&#39;action se fait du dedans en-dehors.
+</p>
+<p>
+Ainsi tantôt le créateur a renfermé les <i>graines</i> dans
+des capsules élastiques dont les ressorts les écartent
+à une distance convenable ; tantôt il a donné aux
+<i>graines</i> une espece de duvet ou d&#39;aigrettes qui leur
+servent d&#39;aîles pour être jettées par le vent ; &amp; tantôt 
+dans les <i>graines</i> legeres, il leur a mis des crochets
+pour empêcher d&#39;être portées trop loin.
+</p>
+<p>
+Telles sont les vûes constantes de la nature pour
+la conservation &amp; la propagation des especes par le
+<pb n="7:835" facs="V7/ENC_7-835.jpeg" />
+<milestone unit="column" n="1" />
+secours des <i>graines</i>.
+<blockquote> 
+« La plante qui étoit cachée
+sous un petit volume acquiert une grande étendue,
+&amp; rend sensible avec le tems ce que les yeux ne
+pouvoient appercevoir dans l&#39;origine ».
+</blockquote>
+C&#39;est un
+passage remarquable de Plutarque.
+</p>
+<p>
+Pour comprendre ce développement des <i>graines</i>,
+on en peut juger par un pois, une feve, un pepin
+de melon ; mais les parties d&#39;une feve étant plus grosses 
+&amp; plus sensibles, nous la prendrons pour exemple.
+Après avoir fait tremper une feve vingt-quatre
+heures dans de l&#39;eau plus que tiede, ôtez sa robe, il
+vous reste à la main deux pieces qui se détachent &amp;
+qu&#39;on appelle <i>les deux lobes de la graine ;</i> au bout de
+l&#39;un de ces lobes est le germe, enfoncé comme un
+petit clou : ce germe tient aux deux lobes par deux
+petits liens.
+</p>
+<p>
+Ces deux liens, qui sont deux vrais tuyaux, se
+fortifient &amp; s&#39;alongent en différentes branches, qui
+vont tout le long des lobes recevoir à chaque instant
+de nouveaux sucs ; ils les épuisent insensiblement au
+profit de la petite plante. La plus fine pellicule qui
+couvre les deux lobes, végete aussi quelque peu ; &amp;
+les deux extrémités de ce sac qui embrassent la tête
+du germe, s&#39;alongent &amp; montent avec lui pour lui
+servir de défense contre les frottemens qui en pourroient 
+altérer le tissu délicat. Le germe monte droit
+&amp; perce l&#39;air de sa pointe ; mais les deux bouts du
+sac étant d&#39;un tissu moins nourri que la tige, obéissent 
+à l&#39;essort de l&#39;air qui pese dessus, &amp; s&#39;abaissent de
+côté &amp; d&#39;autre sous la forme de deux petites feuilles
+vertes, toutes différentes du véritable feuillage que
+la plante produira par la suite.
+</p>
+<p>
+Cette pellicule est comme la chemise ou la robe de
+la <i>grains ;</i> &amp; les deux bouts qui en sortent, font le
+collet qui se rabat de part &amp; d&#39;autre. Quand les deux
+lobes ont fourni toute leur substance au germe éclos
+hors de terre, &amp; qu&#39;ils viennent à se sécher, la peau
+qui les enveloppe se seche aussi, &amp; les deux premieres 
+feuilles que nous avons appellées <i>le collet</i>, &amp;
+qui ne sont que les deux bouts de cette peau, se sechent 
+de même par une suite nécessaire : alors la
+petite plante qui s&#39;est grossie de toute la chair que
+les lobes contenoient, n&#39;y trouvant plus rien, va
+chercher sa nourriture dans la terre même.
+</p>
+<p>
+Toute <i>graine</i> a un germe : ce germe, roit d&#39;une
+feve, d&#39;un pepin de melon, ou d&#39;un pepin de pomme 
+&amp; de toute autre plante, est ce qu&#39;on appelle <i>la
+plantule</i>, &amp; est composé de la radicule, de la tige &amp;
+de la plume. La radicule est le bas de la petite plante ;
+c&#39;est la partie par où elle s&#39;attachera à la terre : la tige
+est le corps de la plante ; &amp; la plume en est la tête où
+le feuillage en petit est enveloppé: c&#39;est ce qui sort
+toûjours de terre &amp; qui s&#39;éleve peu-à-peu.
+</p>
+<p>
+Mais comment arrive-t-il que la plume sort toûjours 
+de terre &amp; non la radicule ; car il est certain
+que les <i>graines</i> portées en terre par le vent ou par
+l&#39;homme, tombent au hasard dans une infinité de
+positions différentes? Quand un laboureur seme, il
+jette son blé à l&#39;avanture ; quand un jardinier plante
+des feves ou des pois, il n&#39;observe point où est le
+bas ni le haut de la <i>graine</i>, si le côté auquel répond la
+plume se trouve en bas, &amp; si celui auquel répond la
+radicule du germe se trouve en-haut. Qu&#39;est-ce donc
+qui force la plume à remonter droit en l&#39;air, &amp; la radicule 
+à demeurer en terre ; car il se passe ici certainement 
+une action de violence? On a bien de la peine 
+à concevoir ce phénomene, &amp; l&#39;on n&#39;a donné jusqu&#39;à ce jour que des hypothèses ingénieuses pour
+l&#39;expliquer : telles sont celles de MM. Dodard, La
+Hire, Geoffroi &amp; autres, rapportées dans l&#39;histoire
+de l&#39;académie des Sciences, &amp; que je regarde comme 
+autant de romans de la végétation des plantes.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

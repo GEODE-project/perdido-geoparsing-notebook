@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29370" id="52:158:3" vol="7">
+<index type="head" value="Genou" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="NA" />
+<head>Genou</head>
+<p>
+<sc>Genou</sc>, (<i>Marine.</i>) ce sont des pieces de bois très courbes 
+qui s&#39;empatent sur les varangues &amp; fourcats,
+c&#39;est-à-dire, que le <i>genou</i> est placé à la moitié
+de sa longueur sur le côté de la varangue, où il est
+assujetti par de forts clous rivés qui percent toute
+l&#39;épaisseur de la varangue &amp; des <i>genous ;</i> ainsi la varangue 
+est alongée de la moitié de la longueur du
+<i>genou</i>, qui prolonge verticalement le contour du
+vaisseau.
+</p>
+<p>
+On distingue ces pieces en <i>genoux</i> de fond &amp; <i>genoux</i> de revers.
+</p>
+<p>
+Les <i>genoux</i> de fond s&#39;assemblent sur les varangues
+de fond, de façon qu&#39;ayant leur convexité au-dehors du vaisseau, ils en augmentent les capacités.
+</p>
+<p>
+Les <i>genoux</i> de revers sont assemblés sur les varangues 
+acculées &amp; sur les fourcats ; mais comme leur
+convexité est en-dedans du vaisseau, ils en diminuent 
+la capacité. <i>Voyez <ref target="XPL:5259" type="platelink">Pl. V</ref>. <ref target="XPL:5260" type="platelink">fig. 1</ref>.</i> les <i>genoux cotès 
+27</i>. &amp; dans la <i><ref target="XPL:5261" type="platelink">Pl. IV</ref>. <ref target="XPL:5262" type="platelink">fig. 1</ref>. cotés 27. Voyez</i> aussi
+<i><ref target="XPL:5263" type="platelink">Pl. VI</ref>. <ref target="XPL:5264" type="platelink">fig. 65</ref>.</i> la forme de cette piece de bois qui
+dans les vaisseaux du premier rang doit avoir un pié
+deux ou trois pouces d&#39;épaisseur sur le droit. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

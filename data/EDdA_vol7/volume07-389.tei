@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27843" id="49:79" vol="7">
+<index type="head" value="FORURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Serrurerie." />
+<index type="normclass" value="Serrurerie" />
+<index type="englishclass" value="Locksmithing" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="s.f." />
+<head>FORURE</head>
+<p>
+* FORURE, s. f. (<i>Serrureric.</i>) On entend en général 
+par ce mot les trous percés au foret pour l&#39;assemblage,
+tant des grands ouvrages de serrurerie
+que des petits ; mais il se dit principalement du trou
+pratiqué à l&#39;extrémité d&#39;une clé, vers le panneton,
+qui reçoit une broche à son entrée dans la serrure.
+Il y a de ces <i>forures</i> d&#39;une infinité de figures possibles.
+Les rondes sont les plus faciles ; elles se font au
+foret, sans exiger d&#39;autre attention de la part de
+l&#39;ouvrier, que d&#39;avoir un foret de la juste grosseur
+dont il veut percer sa <i>forure</i>, &amp; de prendre bien le
+milieu de la grosseur de la tige. Cela fait, la broche
+<milestone unit="column" n="2" />
+entrera droit &amp; juste dans la <i>forure</i>, &amp; le bout de la
+clé ira bien perpendiculairement s&#39;appliquer sur le
+palâtre, à l&#39;origine de la broche, ce qui n&#39;arriveroit
+pas si la broche ou la <i>forure</i> étoit un peu versée de
+côté; mais un autre inconvénient, c&#39;est que pour
+peu que la <i>forure</i> fût commencée obliquement, ou la
+tige de la clé seroit percée en-dehors, avant que la
+<i>forure</i> eût la profondeur convenable, ou la broche,
+sur-tout si elle est juste, ne pourroit y entrer : ce qui
+l&#39;empêcheroit encore, ce seroit le canon qui est
+monte sur la couverture ou le foncet de la serrure,
+&amp; dont la broche occupe le centre sur toute sa longueur.
+</p>
+<p>
+Si l&#39;on perce au bout de la tige huit petits trous
+de foret, &amp; qu&#39;on en pratique un neuvieme au centre 
+de ces huit, qu&#39;on évuide ce qui reste de plein,
+&amp; qu&#39;on finisse le tout ensuite avec un mandrin fait
+en croix de chevalier, on aura la <i>forure en croix de
+chevalier</i>.
+</p>
+<p>
+Si l&#39;on perce au centre de la tige un trou de foret ; 
+&amp; qu&#39;en évuidant avec un burin, on pratique
+autour des petits rayons, &amp; qu&#39;on finisse le tout avec
+le mandrin en étoile, on aura une <i>forure en étoile</i>.
+</p>
+<p>
+Si l&#39;ouvrier, après avoir bien dresse le bout de sa
+tige, y trace la forme d&#39;une fleur-de-lis, &amp; qu&#39;aux
+centres des quatre fleurons les plus forts de la fleur-de-lis, il perce quatre trous de foret ; qu&#39;il évuide
+le reste avec de petits burins faits expres, &amp; qu&#39;il
+finisse le tout avec un mandrin en fleur-de-lis, qu&#39;il
+fera entrer doucement dans la <i>forure</i>, de peur de l&#39;y
+casser, il aura une <i>forure en fleur de-lis</i>.
+</p>
+<p>
+Il en est de même de la <i>forure en tiers-point</i>, de la
+<i>forure en trefle</i>, &amp; d&#39;une infinite d&#39;autres qu&#39;on peut
+imagine.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

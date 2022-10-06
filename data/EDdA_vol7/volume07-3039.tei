@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30493" id="55:99:2" vol="7">
+<index type="head" value="Groseillier, ou Groseillier a grappes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botanique." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="NA" />
+<head>Groseillier</head>
+<p>
+<sc>Groseillier</sc>, <i>ou</i> <sc>Groseillier a grappes</sc>,
+(<i>Botanique.</i>) en anglois, <i>the currant-tree</i>, &amp; par les
+Botanistes, <i>ribes</i>, ou <i>ribes vulgaris non spinosa</i>.
+</p>
+<p>
+Voici ses caracteres : c&#39;est un arbrisseau sans piquans,
+à larges feuilles ; son pédicule se termine par
+un ovaire couronné d&#39;un calice divisé en cinq segmens ; 
+sa fleur est pentapétale, &amp; est garnie de cinq
+étamines ; l&#39;ovaire donne un tuyau qui forme un
+fruit long en ombilic figuré en grappes, &amp; plein de
+petits pepins.
+</p>
+<p>
+On compte plusieurs especes de <i>groseilliers à grappes</i>,
+dont la plus commune qu&#39;il suffira de décrire dans
+cet ouvrage, est le <i>ribes vulgaris acidus, ruber</i>, de J.
+Bauhin, Boerhaave, Gérard, Ray, Parkinson, <i>&amp;c</i>.
+</p>
+<p>
+Il a ses racines branchues, fibreuses, &amp; astringentes ; 
+ses tiges ou verges sont nombreuses, pliantes,
+&amp; flexibles, hautes de deux ou de trois coudées, couvertes 
+d&#39;une écorce brune ou cendrée ; leur bois est
+verd, &amp; renferme beaucoup de moëlle ; ses feuilles
+sont semblables à celles de la vigne, mais beaucoup
+plus petites, molles, sinuées, d&#39;un goût acerbe, d&#39;un
+verd foncé en-dessus, lisses, blanchâtres, &amp; couvertes 
+en-dessous de duvet ; ses fleurs sont par grappes,
+<pb n="7:956" facs="V7/ENC_7-956.jpeg" />
+<milestone unit="column" n="1" />
+disposées en rose, composées de cinq pétales purpurins 
+en maniere de coeur. Elles naissent des crenelures 
+du calice, qui est en forme de bassin découpé en
+cinq segmens, dont la partie postérieure se change
+en une baie ou grain verd d&#39;abord, rouge ou blanc
+quand il est mûr, large de deux lignes, sphérique,
+rempli d&#39;un suc acide, agréable, &amp; de plusieurs petites 
+semences.
+</p>
+<p>
+Cet arbrisseau vient en France, par exemple,
+dans les forêts des Alpes &amp; des Pyrénées. On le cultive 
+communément dans les jardins &amp; dans les vergers.
+Il fleurit en Avril &amp; Mai ; son fruit est mûr en
+Juin &amp; Juillet. On le mange &amp; on s&#39;en sert en Medecine. <i>Voyez</i> <sc><ref target="head:Groseilille" type="search">Groseilille</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

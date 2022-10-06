@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30659" id="55:222" vol="7">
+<index type="head" value="GUHR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéralogie." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history. Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GUHR</head>
+<p>
+GUHR, s. m. <i>creta fluida, medulla fluida, lac lunae</i>, &amp;c. (<i>Hist. nat. Minéralogie.</i>) mot allemand adopté 
+par les Naturalistes pour désigner différentes especes 
+de terres métalliques que l&#39;on rencontre quelquefois,
+même à la surface de la terre, dans des fentes 
+de roches, &amp; des montagnes qui contiennent des
+mines. Les premiers auteurs qui ont écrit sur la Minéralogie, ont regardé les <i>guhrs</i> comme la matiere
+premiere &amp; l&#39;origine de la formation des métaux ;
+ils se présentent aux yeux sous la forme d&#39;une terre
+blanche en poudre très-fine, semblable à de la craie,
+mais dans leur origine ils sont d&#39;une consistence fluide 
+comme du lait, ou plûtôt comme de la bouillie ;
+les eaux soûterreines après les avoir atténués, les
+entraînent &amp; les portent en différens endroits, où ils
+se durcissent par le contact de l&#39;air, &amp; la partie aqueuse 
+s&#39;en dégage par évaporation ou par dessication.
+</p>
+<p>
+Les Minéralogistes regardent les <i>guhrs</i> comme un
+indice assez sûr de la présence d&#39;une mine métallique,
+&amp; croyent que quand on les rencontre, cela
+prouve que la nature a été troublée dans l&#39;opération
+par laquelle elle vouloit encore produire des métaux ;
+de-là vient la façon de s&#39;exprimer des mineurs, qui
+disent qu&#39;<i>ils sont venus de trop bonne heure</i>, quand ils
+rencontrent des <i>guhrs</i>. Il y a des <i>guhrs</i> qui ne sont
+presque que de l&#39;argent tout pur ; ceux qui sont d&#39;une
+couleur verte ou bleue, annoncent une mine de cuivre ; 
+ceux qui sont blancs ou d&#39;un bleu clair &amp; leger,
+&amp; qui se trouvent dans des fentes qui paroissent
+quelquefois même à la surface de la terre, donnent
+lieu de soupçonner la présence d&#39;un filon de mine
+d&#39;argent. <i>Voyez</i> Lehmann, <i>traité des mines</i>.
+</p>
+<p>
+Wallerius distingue deux especes de <i>guhrs</i>, l&#39;un
+est crétacé, l&#39;autre est métallique : il définit le premier 
+une terre crétacée, fluide, qui quelquefois se
+desseche &amp; forme des incrustations, des stalactites,
+&amp; autres concrétions semblables ; il y en a de blanche 
+&amp; de liquide comme du lait, &amp; de grise, mais
+d&#39;une consistence épaisse comme de la bouillie.
+</p>
+<p>
+Le <i>guhr</i> minéral ou métallique est ou gris &amp; blanchâtre ; 
+il coule dans les soûterreins des mines, &amp;
+contient quelque chose de métallique, ou du-moins
+quelque chose qui est propre à contribuer à la formation 
+des métaux. <i>Voyez la Minéralogie &amp; l&#39;Hydrologie</i> de Wallerius. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

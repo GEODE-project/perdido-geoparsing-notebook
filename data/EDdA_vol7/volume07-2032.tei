@@ -1,0 +1,613 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29486" id="52:221" vol="7">
+<index type="head" value="GÉRONDIF" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme propre à la Grammaire latine" />
+<index type="normclass" value="Grammaire latine" />
+<index type="englishclass" value="Latin grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GÉRONDIF</head>
+<p>
+GÉRONDIF, s. m. <i>terme propre à la Grammaire latine</i>. L&#39;essence du verbe consiste à exprimer l&#39;existence 
+d&#39;une modification dans un sujet (<i>Voyez</i> <sc><ref target="head:Verbe" type="search">Verbe</ref></sc>). Quand les besoins de l&#39;énonciation exigent que
+l&#39;on sépare du verbe la considération du sujet, l&#39;existence 
+de la modification s&#39;exprime alors d&#39;une maniere 
+abstraite &amp; tout-à-fait indépendante du sujet,
+qui est pourtant toûjours supposé par la nature même 
+de la chose ; parce qu&#39;une modification ne peut
+exister que dans un sujet. Cette maniere d&#39;énoncer
+l&#39;existence de la modification, est ce que l&#39;on appelle
+dans le verbe <i>mode infinitif.</i> (<i>Voyez</i> 
+<sc><ref target="head:Mode" type="search">Mode</ref> <i>&amp;</i> <ref target="head:Infinitif." type="search">Infinitif.</ref></sc>
+</p>
+<p>
+Dans cet état, le verbe est une sorte de nom, puisqu&#39;il présente à l&#39;esprit l&#39;idée d&#39;une modification
+existante, comme étant ou pouvant être le sujet d&#39;autres 
+modifications ; &amp; il figure en effet dans le discours 
+comme les noms : de-là ces façons de parler,
+<i>dormir est un tems perdu ; dulce &amp; decorum est pro patriâ
+mori : dormir</i>, dans la premiere phrase, &amp; <i>mori</i>, dans
+la seconde, sont des sujets dont on énonce quelque
+chose. <i>Voyez</i> <sc><ref target="head:Nom" type="search">Nom</ref></sc>.
+</p>
+<p>
+Dans les langues qui n&#39;ont point de cas, cette espece 
+de nom paroît sous la même forme dans toutes
+les occurrences. La langue greque elle-même qui admet 
+les cas dans les autres noms, n&#39;y a point assujetti
+ses infinitifs ; elle exprime les rapports à l&#39;ordre de
+l&#39;énonciation, ou par l&#39;article qui se met avant l&#39;infinitif 
+au cas exigé par la syntaxe greque, ou par des
+prépositions conjointement avec le même article.
+Nous disons en françois avec un nom, <i>le tems de dîner,</i><gap type="hyphenpb" />
+<pb n="7:647" facs="V7/ENC_7-647.jpeg" />
+<milestone unit="column" n="1" />
+<i>ner</i>, pour <i>le diner</i>, &amp;c. &amp; avec un verbe, <i>le tems
+d&#39;aller</i>, pour <i>aller</i>, &amp;c. de même les Grecs disent
+avec le nom, <foreign lang="greek">ὥρα τοῦ ἀρίστου, πρὸς τὸ ἄριστον</foreign>, &amp; avec le
+verbe, <foreign lang="greek">ὥρα τοῦ πορεύεσθαι, πρὸς τὸ πορεύεσθαι</foreign>.
+</p>
+<p>
+Les Latins ont pris une route différente ; ils ont
+donné à leurs infinitifs des inflexions analogues aux
+cas des noms ; &amp; comme ils disent avec les noms,
+<i>tempus prandii, ad prandium</i>, ils disent avec les verbes,
+<i>tempus eundi, ad eundum</i>.
+</p>
+<p>
+Ce sont ces inflexions de l&#39;infinitif que l&#39;on appelle
+<i>gérondifs</i>, en latin <i>gerundia</i>, peut-être parce qu&#39;ils
+tiennent lieu de l&#39;infinitif même, <i>vicem gerunt</i>. Ainsi
+il paroît que la véritable notion des <i>gérondifs</i> exige
+qu&#39;on les regarde comme différens cas de l&#39;infinitif
+même, comme des inflexions particulieres que l&#39;usage 
+de la langue latine a données à l&#39;infinitif, pour
+exprimer certains points de vûe relatifs à l&#39;ordre de
+l&#39;énonciation ; ce qui produit en même tems de la variété 
+dans le discours, parce qu&#39;on n&#39;est pas forcé de
+montrer à tout moment la terminaison propre de
+l&#39;infinitif.
+</p>
+<p>
+On distingue ordinairement trois <i>gérondifs</i>. Le premier 
+a la même inflexion que le génitif des noms de
+la seconde déclinaison, <i>scribendi:</i> le second est terminé 
+comme le datif ou l&#39;ablatif, <i>scribendo:</i> &amp; le troisieme 
+a la même terminaison que le nominatif ou
+l&#39;accusatif des noms neutres de cette déclinaison,
+<i>scribendum</i>. Cette analogie des terminaisons des <i>gérondifs</i> avec les cas des noms, est un premier préjugé 
+en faveur de l&#39;opinion que nous embrassons ici ;
+elle va acquérir un nouveau degré de vraissemblance,
+par l&#39;examen de l&#39;usage qu&#39;on en fait dans la langue 
+latine.
+</p>
+<p>
+I. Le premier <i>gérondif</i>, celui qui a la terminaison
+du génitif, fait dans le discours la même fonction,
+la fonction de déterminer la signification vague d&#39;un
+nom appellatif, en exprimant le terme d&#39;un rapport
+dont le nom appellatif énonce l&#39;antécédent : <i>tempus
+scribendi</i>, rapport du temps à l&#39;événement ; <i>facilitas
+scribendi</i>, rapport de la puissance à l&#39;acte ; <i>causa scribendi</i>, rapport de la cause à l&#39;effet. Dans ces trois
+phrases, <i>scribend</i> détermine la signification des noms
+<i>tempus, facilitas, causa</i>, comme elle seroit déterminée 
+par le génitif <i>scriptionis</i>, si l&#39;on disoit, <i>tempus
+scriptionis, facilitas scriptionis, causa scriptionis. Voyez</i>
+<sc><ref target="head:Genitif" type="search">Genitif</ref></sc>.
+</p>
+<p>
+Il. Le second <i>gérondif</i>, dont la terminaison est la
+même que celle du datif ou de l&#39;ablatif, fait les fonctions 
+tantôt de l&#39;un &amp; tantôt de l&#39;autre de ces cas.
+</p>
+<p>
+En premier lieu, ce <i>gérondif</i> fait dans le discours
+les fonctions du datif. Ainsi Pline, en parlant des
+différentes especes de papiers, (<i>lib. XIII.</i>) dit, <i>emporetica inutilis scribendo</i>, ce qui est la même chose
+que <i>inutilis scriptioni</i>, au moins quant à la construction : pareillement comme on dit, <i>alicui rei operam
+dare</i>, Plaute dit (<i>Epidic. act. jv.</i>), <i>Epidicum quaerendo
+operam dabo</i>.
+</p>
+<p>
+En second lieu, ce même <i>gérondif</i> est fréquemment 
+employé comme ablatif dans les meilleurs auteurs.
+</p>
+<p>
+1°. On le trouve souvent joint à une préposition
+dont il est le complement : <i>In quo isti nos jureconsulti
+impediunt, à discendoque deterrent</i>. (Cic. <i>de orat. l. II.</i>)
+<i>Tu quid cogites de transeundo in Epirum scire sanè velim</i>, (id. <i>ad Attic. lib. IX.</i>) <i>Sed ratio rectè scribendi
+juncta cum loquendo est</i>, (Quintil. <i>lib. I.</i>) <i>Heu senex,
+pro vapulando, herclè ego abs te mercedem petam!</i> (Plaut.
+<i>aulul. Act. iij.</i>) On voit dans tous ces exemples le
+<i>gérondif</i> servir de complément aux prépositions <i>à,
+de, cum</i>, &amp; <i>pro ; à discendo</i>, comme <i>à studio ; de transeundo</i>, comme <i>de transitu ; cum loquendo</i>, de même
+que <i>cum locutione ; pro vapulando</i>, de même que <i>pro
+verberibus</i>.
+</p>
+<p>
+2°. On trouve ce <i>gérondif</i> employé comme ablatif,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+à cause d&#39;une préposition sous-entendue dont il
+est le complément. On lit dans Quintilien (<i>lib. xi.</i>),
+<i>memoria excolendo augetur ;</i> c&#39;est la même chose que
+s&#39;il avoit dit, <i>memoria culturâ augetur</i>. Or il est évident que la construction pleine exige que l&#39;on supplée
+la préposition <i>à; memoria augetur à culturâ:</i> on doit
+donc dire aussi, <i>augetur ab excolendo</i>.
+</p>
+<p>
+3°. Enfin ce <i>gérondif</i> est employé aussi comme
+ablatif absolu, c&#39;est-à-dire sans être dans la dépendance 
+d&#39;aucune préposition ni exprimée ni sous-entendue. Ceci mérite une attention particuliere, parce
+que plusieurs grammairiens célebres prétendent que
+tout ablatif suppose toûjours une préposition : M.
+du Marsais lui-même a défendu cette opinion dans
+l&#39;<i>Encyclopédie</i> (<i>voyez</i> <sc><ref target="head:Ablatif absolu" type="search">Ablatif absolu</ref></sc>): mais nous
+osons avancer que c&#39;est une erreur daus laquelle il
+n&#39;est tombé que pour avoir perdu de vûe ses propres
+principes &amp; les principes les plus certains.
+</p>
+<p>
+Ce philosophe dit d&#39;une part, que les cas sont les
+signes des rapports, &amp; indiquent l&#39;ordre successif par
+lequel seul les mots font un sens ; que les cas n&#39;indiquent 
+le sens que relativement à cet ordre ; &amp; que
+c&#39;est pour cela qu&#39;il n&#39;y a point de cas dans les langues 
+dont la syntaxe suit cet ordre, ou ne s&#39;en écarte que par des inversions légeres que l&#39;esprit apperçoit 
+&amp; rétablit aisément. <i>Voyez</i> <sc><ref target="head:Cas" type="search">Cas</ref></sc>. Il dit ailleurs,
+que ce n&#39;est que par un usage arbitraire, que l&#39;on
+donne au nom déterminant d&#39;une préposition, la terminaison 
+de l&#39;accusatif, ou bien du génitif comme en
+grec ; parce qu&#39;au fond ce n&#39;est que la valeur du nom
+qui détermine le sens appellatif de la préposition ;
+mais que l&#39;usage de la langue latine &amp; de la greque
+donnant aux noms différentes terminaisons, il falloit 
+bien qu&#39;ils en prissent une à la suite de la préposition,
+&amp; que l&#39;usage a consacré arbitrairement l&#39;une
+après telles prépositions &amp; une autre après telles autres.
+<i>Voyez</i> <sc><ref target="head:Accusatif" type="search">Accusatif</ref></sc>. Cette doctrine est vraie &amp;
+avouée de tout le monde : mais appliquons-la. La
+principale conséquence que nous devons en tirer,
+c&#39;est qu&#39;aucun cas n&#39;a été institué pour servir de complément 
+aux prépositions, parce que les cas &amp; les
+prépositions expriment également des points de vûe,
+des rapports relatifs à l&#39;ordre de l&#39;énonciation, &amp;
+qu&#39;il y auroit un double emploi dans l&#39;institution des
+cas uniquement destinés aux prépositions. D&#39;ailleurs
+si l&#39;on s&#39;étoit avisé de destiner un cas à cet usage particulier,
+il semble qu&#39;il y auroit eu quelque inconséquence 
+à en employer d&#39;autres dans les mêmes circonstances ; 
+&amp; l&#39;on sait qu&#39;il y a en latin un bien plus
+grand nombre de prépositions dont le complément se
+met à l&#39;accusatif, qu&#39;il n&#39;y en a qui régissent l&#39;ablatif.
+</p>
+<p>
+On doit donc dire de la terminaison de l&#39;ablatif à
+la suite d&#39;une préposition, ce que M. du Marsais a dit
+de celle de l&#39;accusatif en pareille occurrence ; que
+c&#39;est pour obéir à un usage arbitraire, puisqu&#39;on n&#39;a
+besoin alors que de la valeur du mot ; &amp; que cette
+terminaison spécialement propre à la langue latine,
+a une destination originelle, analogue à celle des
+autres cas, &amp; également indépendante des prépositions.
+Essayons d&#39;en faire la recherche.
+</p>
+<p>
+On trouve quelquefois dans une période, des
+énonciations, des propositions partielles, qui n&#39;ont
+souvent avec la principale qu&#39;un rapport de tems ; &amp;
+c&#39;est communément un rapport de co-existence ou
+un rapport de pré-existence. Par exemple ; <i>tandis
+que César Auguste régnoit, J. C. prit naissance:</i> voilà
+deux propositions, <i>César Auguste régnoit</i>, &amp; <i>J. C. prit
+naissance ;</i> il y a entre les deux faits qu&#39;elles énoncent, un rapport de co-existence indiqué par <i>tandis
+que</i>, qui des deux propositions n&#39;en fait qu&#39;une seule.
+Autre exemple : <i>quand les tems furent accomplis,
+Jesus-Christ prit naissance ;</i> il y a encore ici deux propositions,
+<i>les tems furent accomplis</i>, &amp; <i>Jesus-Christ
+prit naissance ;</i> la premiere a à la seconde un rapport<gap type="hyphenpb" />
+<pb n="7:648" facs="V7/ENC_7-648.jpeg" />
+<milestone unit="column" n="1" />
+de pré-existence qui est désigné par <i>quand</i>, &amp;
+qui est le seul lien de ces deux énonciations partielles.
+On voit que ce rapport de l&#39;énonciation circonstancielle 
+à la proposition principale, peut s&#39;exprimer 
+par le secours des conjonctions périodiques ;
+mais leur emploi trop fréquent ne peut être que monotone : la monotonie augmente par la ressemblance 
+des tours de la phrase circonstancielle &amp; de la
+principale. Cette ressemblance d&#39;ailleurs, en multipliant 
+les propositions sous des formes pareilles,
+partage l&#39;attention de l&#39;esprit &amp; le fatigue : enfin
+cette circonlocution ne peut qu&#39;énerver le style &amp;
+le faire languir. L&#39;image de la pensée ne sauroit trop
+se rapprocher de l&#39;unité indivisible de la pensée même ; 
+&amp; l&#39;esprit voudroit qu&#39;un mot tout-au-plus fût
+employé à l&#39;expression de l&#39;idée unique d&#39;une circonstance.
+Mais si une langue n&#39;est pas assez riche
+pour fournir à tout ce qu&#39;exigeroit une si grande précision,
+elle doit du-moins y tendre par tous les
+moyens que son génie peut lui suggérer ; &amp; elle y
+tend en effet, indépendamment même de toute réflexion 
+préalable : c&#39;est vraissemblement l&#39;origine de
+l&#39;ablatif latin.
+</p>
+<p>
+Au lieu d&#39;exprimer la conjonction périodique, &amp;
+de mettre à un mode fini le verbe de la phrase circonstancielle,
+on employa le participe, mode essentiellement 
+conjonctif, &amp; propre en conséquence à
+faire disparoître la conjonction (<i>Voyez</i> <sc><ref target="head:Participe" type="search">Participe</ref></sc>).
+Mais comme il a avec la nature du verbe la nature
+&amp; la forme du simple adjectif, il ne peut qu&#39;être en
+concordance de genre, de nombre, &amp; de cas avec
+son sujet. Le sujet lui-même doit pourtant paroître
+sous quelque terminaison : au nominatif, on pourra
+le prendre pour le sujet de la proposition principale ;
+au génitif, il passera pour le déterminatif de quelque
+nom ; au datif, à l&#39;accusatif, il donnera lieu à de pareilles 
+méprises. Cependant le sujet de l&#39;énonciation
+circonstancielle n&#39;a réellement avec les mots de la
+proposition principale, aucun des rapports grammaticaux 
+indiqués par les cas qui sont communs à la
+langue latine &amp; à la langue greque. Il ne restoit donc
+qu&#39;à instituer un cas particulier qui indiquât que le
+nom qui en seroit revêtu, n&#39;a avec la proposition
+principale aucune relation grammaticale, quoique
+sujet d&#39;une énonciation liée par un rapport de tems
+à cette phrase principale. C&#39;est justement l&#39;<i>ablatif</i>,
+dont l&#39;étymologie semble s&#39;accorder parfaitement
+avec cette destination : <i>ablatif</i>, d&#39;<i>ablatum</i>, supin
+d&#39;<i>auferre</i>, (ôter, enlever); <i>ablatif</i> qui sert à ôter, à
+enlever, comme <i>nominatif</i>, qui sert à nommer, <i>datif</i>, qui sert à donner ; c&#39;est la signification commune 
+à tous les termes scientifiques terminés en françois 
+par <i>if</i>, &amp; en latin par <i>ivus</i>. Cette terminaison
+pourroit bien avoir quelque liaison avec <i>juvare</i>,
+(aider, servir à). En effet l&#39;ablatif, avec la destination 
+que nous lui donnons ici, sert à enlever à la
+proposition principale un nom qu&#39;on pourroit croire
+lui appartenir, s&#39;il paroissoit sous une autre forme,
+&amp; qui ne lui appartient pas effectivement, puisqu&#39;il
+est le sujet d&#39;une phrase circonstancielle qui n&#39;a avec
+elle qu&#39;un rapport de tems.
+</p>
+<p>
+Si l&#39;on n&#39;avoit employé ce cas qu&#39;à sa destination
+primitive, on ne le connoîtroit que sous le nom d&#39;<i>ablatif ;</i> mais l&#39;usage arbitraire de la langue latine
+l&#39;ayant attaché accidentellement au service de quelques 
+prépositions, quand on l&#39;a trouvé employé à
+son usage naturel, &amp; conséquemment sans préposition,
+on l&#39;a appellé <i>absolu</i>, pour indiquer qu&#39;il y est
+dégagé de tous les liens que la syntaxe peut imposer 
+aux parties intégrantes de la proposition principale.
+Vouloir donc regarder tout ablatif comme le
+complément d&#39;une préposition, c&#39;est aller, ce semble,
+contre l&#39;esprit de son institution &amp; contre le
+génie de la langue latine ; c&#39;est s&#39;exposer souvent à
+<milestone unit="column" n="2" />
+des difficultés très-grandes, ou à des commentaires
+ridicules, parce que l&#39;on court après ce qui n&#39;existe
+pas ; c&#39;est vouloir enfin accommoder cette langue à
+son système particulier, au lieu de construire son
+système d&#39;après les principes usuels de cette langue.
+</p>
+<p>
+En effet, c&#39;est tellement pour la fin que nous indiquons,
+que l&#39;ablatif a été d&#39;abord institué, que quoique 
+la phrase circonstancielle ait le même sujet que
+la principale, on trouve fréquemment dans les auteurs 
+qu&#39;il est mis à l&#39;ablatif dans l&#39;une, &amp; au nominatif 
+dans l&#39;autre, contre la décision commune des
+méthodistes. C&#39;est ainsi que Cicéron a dit : <i>nobis vigilantibus,
+erimus profectò liberi</i>.
+</p>
+<p>
+C&#39;est pour la même fin &amp; dans le même sens que le
+<i>gérondif</i> en <i>do</i> est quelquefois employé comme ablatif
+absolu. Ainsi lorsque Virgile a dit (<i>AEn. II.</i>): <i>quis, talia 
+fando, temperet à lachrymis ;</i> c&#39;est comme s&#39;il avoit
+dit, <i>quis, se aut alio quovis talia fante, temperet à lachrymis?
+</i> ou en employant la conjonction périodique, <i>quis,
+dùm ipse aut alius quivis talia fatur, temperet à lachrymis?</i>
+Pareillement, lorsque Cicéron a dit, <i>nobis vigilantibus,
+erimus profectò liberi</i>, il auroit pû dire par le <i>gérondif, vigilando</i>, ou par la conjonction, <i>dum vigilabimus</i>. Le choix raisonné entre ces expressions qui paroissent 
+équivalentes, porte vraissemblablement sur
+des distinctions très-délicates : nous allons risquer
+nos conjectures. Virgile a dit, <i>quis talia fando</i>, par un
+tour qui n&#39;assigne aucun sujet détermine au verbe <i>fari</i>, parce qu&#39;il est indifférent par qui se fasse le récit ;
+celui qui le fait &amp; ceux qui l&#39;écoutent, doivent également en être touchés jusqu&#39;aux larmes : une traduction 
+fidele doit conserver ce sens vague ; <i>qui pourroit,
+au récit de tels malheurs</i>, &amp;c. Cicéron au contraire 
+a dit, <i>nobis vigilantibus</i>, en assignant le sujet, parce 
+que ce sont ceux-mêmes qui veulent être libres,
+qui doivent être vigilans ; &amp; l&#39;orateur a voulu le
+faire sentir.
+</p>
+<p>
+III. Le troisieme <i>gérondif</i> qui est terminé en <i>dum</i>,
+est quelquefois au nominatif &amp; quelquefois à l&#39;accusatif.
+</p>
+<p>
+1°. Il est employé au nominatif dans ce vers de
+Lucrece, (<i>lib. I.</i>)
+<lg>
+</lg></p>
+<p>
+<i>AEternas quoniam poenas in morte timendum</i>.
+dans ce passage de Cicéron, (<i>de senect.</i>) <i>Tanquam aliquam 
+viam longam confeceris, quam nobis quoque ingrediendum 
+sit:</i> dans cet autre du même auteur, (<i>lib.
+VII. epist. 7.</i>) <i>Discessi ab eo bello, in quo aut in aliquas
+insidias incidendum, aut deveniendum in victoris manus,
+aut ad Jubam confugiendum:</i> enfin dans ce texte
+de Tite-Live, (<i>lib. XXXV.</i>) <i>Boii nocte saltum, quà
+transeundum erat Romanis, insederunt:</i> &amp; dans celui-ci 
+de Plaute, (<i>Epidic.</i>) <i>aliqua consilia reperiundum est</i>.
+</p>
+<p>
+2°. Il est employé à l&#39;accusatif dans mille occasions.
+<i>Conclamatum propè ab universo senatu est, perdomandum 
+feroces animos esse</i>, (Tite-Live, <i>liv.
+XXXVII.</i>)
+<lg>
+</lg></p>
+<p>
+<i>Legati responsa ferunt, alia arma Latinis
+Quaerenda, aut pacem trojano ab rege petendum</i>.
+(Virgile, <i>AEn. XI.</i>)
+<i>Cùm oculis ad cernendum non egeremus</i>, (Cic. <i>de naturâ 
+deorum.</i>) <i>Et inter agendum, occursare capro, cornu
+ferit ille, caveto ;</i> (Virg. <i>eclog. jx.</i>) <i>Namque antè domandum 
+ingentes tollent animos</i>, (id. <i>Georg. III.</i>)
+</p>
+<p>
+Nous croyons donc avoir suffisamment démontré
+que les <i>gérondifs</i> sont des cas de la seconde déclinaison.
+Nous avons ajoûté que ce sont des cas de l&#39;infinitif,
+&amp; ce second point n&#39;est pas plus douteux
+que le premier.
+</p>
+<p>
+Nous avons remarqué dès le commencement, que
+les points de vûe énoncés en latin par les <i>gérondifs</i>,
+le sont en grec &amp; en françois par l&#39;infinitif même,
+sans changement à la terminaison ; c&#39;est même le
+<pb n="7:649" facs="V7/ENC_7-649.jpeg" />
+<milestone unit="column" n="1" />
+procédé commun de presque toutes les langues.
+Cette premiere observation suffiroit peut-être pour
+établir notre doctrine sur la nature des <i>gérondifs ;</i>
+mais l&#39;usage même de la langue latine en fournit des
+preuves sans nombre dans mille exemples, où l&#39;infinitif 
+est employé pour les mêmes fins &amp; dans les
+mêmes circonstances que les <i>gérondifs</i>. On lit dans
+Plaute (<i>Menech.</i>), <i>dum datur mihi occasio tempusque
+<sc>abire</sc></i>, pour <i>abeundi ;</i> dans Cicéron, <i>tempus est nolis 
+de illa vita <sc>agere</sc></i>, pour <i>agendi ;</i> dans Cesar,
+<i>consilium coepit omnem à se equitarum <sc>dimittere</sc></i>,
+pour <i>dimittendi ;</i> &amp; chez tous les meilleurs écrivains
+on trouve fréquemment l&#39;infinitif pour le premier
+<i>gérondif</i>. Il n&#39;est pas moins usité pour le troisieme:
+c&#39;est ainsi que Virgile a écrit (<i>AEn. j.</i>):
+<lg>
+</lg></p>
+<p>
+<i>Non nos aut ferro Libycos <sc>populare</sc> penates
+Venimus, aut raptas ad littora <sc>vertere</sc> praedas</i>,
+où l&#39;on voit <i>populare</i> &amp; <i>vertere</i>, pour <i>ad populandum</i>
+&amp; <i>ad vertendum</i>. De même Horace dit (<i>od. j. 3.</i>) <i>audax omnia <sc>perpeti</sc></i>, pour <i>ad perpetiendum ;</i> &amp; (<i>ep.
+j. 20.</i>), <i><sc>irasci</sc> celerem</i>, pour <i>ad irascendum</i>. Il est
+plus rare de trouver l&#39;infinitif pour le second <i>gérondif ;</i> mais on le trouve cependant, &amp; le voici dans
+un vers de Virgile (<i>ecl. vij.</i>), où deux infinitifs différens 
+sont mis pour deux <i>gérondifs:</i>
+<lg>
+</lg></p>
+<p>
+<i><sc>Et cantare</sc> pares, &amp; <sc>respondere</sc> parati ;</i>
+ce qui, de l&#39;aveu de tous les Commentateurs, signifie,
+<i>&amp; in <sc>cantando</sc> pares, &amp; ad <sc>respondendum</sc> parati</i>.
+</p>
+<p>
+Nous concluons donc que les <i>gérondifs</i> ne sont effectivement 
+que les cas de l&#39;infinitif, &amp; qu&#39;ils ont,
+comme l&#39;infinitif, la nature du verbe &amp; celle du nom.
+Ils ont la nature du verbe, puisque l&#39;infinitif leur est
+synonyme, &amp; que, comme tout verbe, ils expriment
+l&#39;existence d&#39;une modification dans un sujet ; &amp; c&#39;est
+par conséquent avec raison que, dans le besoin, ils
+prennent le même régime que le verbe d&#39;où ils derivent.
+Ils ont aussi la nature du nom, &amp; c&#39;est pour cela
+que les Latins leur ont donné les terminaisons affectées
+aux noms, parce qu&#39;ils se construisent dans le discours 
+comme les noms, &amp; qu&#39;ils y font les mêmes
+fonctions. C&#39;est pour cela aussi que le régime du premier 
+<i>gérondif</i> est souvent le génitif, comme dans ces
+phrases : <i>aliquod fuit principium generandi animalium</i>
+(Varr. <i>lib. II. de R. R. 1.</i>); <i>fuit exemplorum legendi
+potestas</i> (Cic.); <i>vestri adhortandi causa</i> (Tit. Liv. <i>lib.
+XXI.</i>); <i>generandi animalium</i>, comme <i>generationis
+animalium ; exemplorum legendi</i>, comme <i>lectionis
+exemplorum ; vestri adhortandi</i>, comme <i>adhortationis
+vestri</i>.
+</p>
+<p>
+Les Grammairiens trouvent de grandes difficultés
+sur la nature &amp; l&#39;emploi des <i>gérondifs</i>. La plûpart
+prétendent qu&#39;ils ne sont que le futur du participe
+passif en correlation avec un mot supprimé par ellipse.
+Cette ellipse, on la supplée comme on peut ;
+mais c&#39;est toûjours par un mot qu&#39;on n&#39;a jamais vû
+exprimé en pareilles circonstances, &amp; qu&#39;on ne peut
+introduire dans le discours, sans y introduire en même 
+tems l&#39;obscurité &amp; l&#39;absurdité. Les uns sous-entendent l&#39;infinitif actif du même verbe, pour être
+comme le sujet du <i>gérondif:</i> Sanctius, Scioppius &amp;
+Vossius sont de cet avis ; &amp;, selon eux, c&#39;est cet infinitif 
+sous-entendu qui régit l&#39;accusatif, quand on le
+trouve avec le <i>gérondif:</i> ainsi, <i>petendum est pacem à
+rege</i>, signifie dans leur système, <i>petere pacem à rege
+est petendum ; petere pacem à rege</i>, c&#39;est le sujet de la
+proposition, <i>petendum</i> en est l&#39;attribut : <i>tempus petendi 
+pacem</i>, c&#39;est <i>tempus petere pacem petendi ; petere
+pacem</i> est comme un nom unique au génitif, lequel
+détermine <i>tempus ; petendi</i> est un adjectif en concordance 
+avec ce génitif.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les autres sous-entendent le nom <i>negotium</i>, &amp;
+voici comme ils commentent les mêmes expressions:
+<i>petendum est pacem à rege</i>, c&#39;est-à-dire, <i>negotium petendum 
+à rege est circà pacem ; tempus petendi pacem</i>,
+c&#39;est-à-dire, <i>tempus negotii petendi circà pacem</i>.
+</p>
+<p>
+Nous l&#39;avons déjà dit, on n&#39;a point d&#39;exemples
+dans les auteurs latins, qui autorisent la prétendue
+ellipse que l&#39;on trouve ici ; &amp; c&#39;est cependant la loi
+que l&#39;on doit suivre en pareil cas, de ne jamais supposer 
+de mot sous-entendu dans des phrases où ces
+mots n&#39;ont jamais été exprimés : cette loi est bien
+plus pressante encore, si on ne peut y déroger sans
+donner à la construction pleine un tour obscur &amp;
+forcé.
+</p>
+<p>
+C&#39;est sans doute la forme matérielle des <i>gérondifs</i> qui aura occasionné l&#39;erreur &amp; les embarras
+dont il est ici question : ils paroissent tenir de près
+à la forme du futur du participe passif, &amp; d&#39;ailleurs
+on se sert des uns &amp; des autres dans les mêmes occurrences,
+à quelque changement près dans la syntaxe ; 
+on dit également, <i>tempus est scribendi epistolam</i>,
+&amp; <i>scribendae epistolae ;</i> on dit de même <i>scribendo epistolam</i>, ou <i>in scribendâ epistolâ ;</i> &amp; enfin <i>ad scribendum
+epistolam</i>, ou <i>ad scribendam epistolam ; scribendum est
+epistolam</i>, ou <i>scribenda est epistola:</i> ce sont probablement 
+ces expressions qui auront fait croire que les
+<i>gérondifs</i> ne sont que ce participe employé selon les
+regles d&#39;une syntaxe particuliere.
+</p>
+<p>
+Mais en premier lieu, on doit voir que la même
+syntaxe n&#39;est pas observée dans ces deux manieres
+d&#39;exprimer la même phrase ; ce qui doit faire au moins 
+soupçonner que les deux mots verbaux n&#39;y
+sont pas exactement de même nature, &amp; n&#39;expriment 
+pas précisément les mêmes points de vûe. En
+second lieu ce n&#39;est jamais par le matériel des mots
+qu&#39;il faut juger du sens que l&#39;usage y a attaché, c&#39;est
+par l&#39;emploi qu&#39;en ont fait les meilleurs auteurs. Or
+dans tous les passages que nous avons cités dans le
+cours de cet article, nous avons vû que les <i>gérondifs</i> tiennent très-souvent lieu de l&#39;infinitif actif. En
+conséquence nous concluons qu&#39;ils ont le sens actif,
+&amp; qu&#39;ils doivent y être ramenés dans les phrases
+où l&#39;on s&#39;est imaginé voir le sens passif. Cette interprétation 
+est toûjours possible, parce que les verbes
+au <i>gérondif</i> n&#39;étant déterminés en eux-mêmes par
+aucun sujet, on peut autant les déterminer par le
+sujet qui produit l&#39;action, que par celui qui en reçoit
+l&#39;effet : de plus cette interprétation est indispensable
+pour suivre les erremens indiqués par l&#39;usage ; on
+trouve les <i>gérondifs</i> remplacés par l&#39;infinitif actif ;
+on les trouve avec le régime de l&#39;actif, &amp; nulle part
+on ne les a vûs avec le régime du passif ; cela paroît
+décider leur véritable état. D&#39;ailleurs les verbes absolus,
+qu&#39;on nomme communément <i>verbes neutres</i>,
+ne peuvent jamais avoir le sens passif, &amp; cependant
+ils ont des <i>gérondifs ; dormiendi, dormiendo, dormiendum</i>. Les <i>gérondifs</i> ne sont donc pas des participes 
+passifs, &amp; n&#39;en sont point formés ; comme eux,
+ils viennent immédiatement de l&#39;infinitif actif, ou
+pour mieux dire, ils ne sont que cet infinitif même
+sous différentes terminaisons relatives à l&#39;ordre de
+l&#39;énonciation.
+</p>
+<p>
+Ceux qui suppléent le nom général <i>negotium</i>, en
+regardant le <i>gérondif</i> comme adjectif ou comme participe,
+tombent donc dans une erreur avérée ; &amp;
+ceux qui suppléent l&#39;infinitif même, ajoûtent à cette
+erreur un véritable pléonasme : ni les uns ni les autres 
+n&#39;expliquent d&#39;une maniere satisfaisante ce qui
+concerne les <i>gérondifs</i>. Le grammairien philosophe
+doit constater la nature des mots, par l&#39;analyse raisonnée 
+de leurs usages. (<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

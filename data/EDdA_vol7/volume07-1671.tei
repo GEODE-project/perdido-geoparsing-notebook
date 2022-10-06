@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29125" id="51:260" vol="7">
+<index type="head" value="GARGOULETTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de relation" />
+<index type="normclass" value="Terme de relation" />
+<index type="englishclass" value="Relationship term" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GARGOULETTE</head>
+<p>
+GARGOULETTE, s. f. <i>terme de relation</i>. La <i>gargoulette</i> est un vase de terre du Mexique, extrèmement 
+legere &amp; transparente. Ce vase est double,
+c&#39;est-à-dire qu&#39;il y en a deux en partie l&#39;un dans l&#39;autre.
+Le premier, ou supérieur, a la forme d&#39;un entonnoir 
+qui n&#39;est pas percé, dont le bout est enchâssé
+dans le fecond, ou inférieur. Celui-ci a un petit goulot,
+comme une théyere, pour rendre la liqueur
+qu&#39;il a reçûe. C&#39;est dans le supérieur qu&#39;on verse la
+liqueur, d&#39;où elle passe en filtrant dans celui de dessous.
+On met une attache aux ances de la <i>gargoulette</i>,
+pour la suspendre à l&#39;ombre, &amp; l&#39;eau y devient d&#39;une
+grande fraîcheur.
+</p>
+<p>
+On a voulu imiter ces vases en Europe, &amp; particulierement 
+en Italie ; mais on n&#39;a pas pû y réussir
+jusqu&#39;à-présent : c&#39;est la terre qui en fait toute la
+bonté, &amp; ils sont d&#39;une commodité merveilleuse au
+Mexique. On n&#39;y met pour l&#39;ordinaire que de l&#39;eau
+pure, parce que le vin est trop chargé de corpuscules
+hétérogenes qui ne passeroient pas au-travers des pores 
+de la terre, ou qui les rempliroient bientôt ; au
+lieu que l&#39;eau étant plus homogene, se filtre avec facilité,
+&amp; se rafraîchit considérablement par le moyen
+de l&#39;air frais qui pénetre les pores des deux vaisseaux.
+</p>
+<p>
+Mais les <i>gargoulettes</i> des Indes orientales, faites
+avec la terre de Patna, sont encore au-dessus de celles 
+du Mexique. Ce sont des bouteilles assez grandes,
+capables de contenir autant de liqueur qu&#39;une pinte
+de Paris ; cependant elles sont si minces &amp; si legeres,
+qu&#39;elles pourroient être enlevées en l&#39;air, étant vuides,
+par le souffle seul, comme les boules d&#39;eau de
+savon que font les enfans. On se sert de ces sortes de
+vases pour rafraîchir l&#39;eau dans un lieu frais, &amp; l&#39;on
+dit que dans le pays cette eau y contracte une odeur
+&amp; un goût très-agréable. L&#39;on ajoûte que les dames
+indiennes, après avoir bû l&#39;eau, mangent avec délices 
+le vase qui la contenoit ; ensorte qu&#39;il y a telle
+femme grosse au Mogol, qui, si on ne l&#39;en empêchoit,
+dévoreroit en peu de tems les plats, les pots,
+les caraffes, les bouteilles, &amp; tous les autres ustensiles 
+de la terre de Patna qu&#39;elle trouveroit sous sa
+main. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

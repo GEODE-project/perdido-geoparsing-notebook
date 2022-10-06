@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29825" id="53:249" vol="7">
+<index type="head" value="GOND" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Serrurerie." />
+<index type="normclass" value="Serrurerie" />
+<index type="englishclass" value="Locksmithing" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="s.m." />
+<head>GOND</head>
+<p>
+* GOND, s. m. (<i>Serrurerie.</i>) morceau de fer plié
+en équerre, de la grosseur &amp; de la largeur qui conviennent 
+à l&#39;usage. Il sert à soûtenir la porte suspendue ; 
+&amp; c&#39;est sur ses <i>gonds</i> qu&#39;elle tourne, s&#39;ouvre &amp;
+se ferme. Les parties du <i>gond</i> ont différentes formes ;
+celle qui entre dans la penture est ronde &amp; se nomme 
+<i>le mamelon ;</i> celle qui doit être fixée dans le bois
+ou dans le plâtre est quarrée, pointue par le bout si
+le <i>gond</i> est pour bois, fourchue si le <i>gond</i> est pour
+platre : dans ce dernier cas, il doit être scellé en
+plomb, &amp; l&#39;on pratique avec la tranche des hachures 
+sur les quatre faces de la queue. Enfin on distingue 
+dans le <i>gond</i> trois choses ; le bout du mamelon
+qu&#39;on appelle <i>la tête du gond ;</i> la portion comprise
+depuis la tête jusqu&#39;à la pointe, qu&#39;on nomme <i>le
+corps</i>, &amp; <i>la pointe</i>.
+</p>
+<p>
+Il y a des <i>gonds</i> de différentes sortes. Le <i>gond</i> à
+clavette, auquel on perce une ouverture, à-travers
+laquelle on passe une clavette qui empêche qu&#39;on ne
+puisse l&#39;arracher. Le <i>gond</i> de fiche, ou la partie inférieure 
+de la fiche, sur laquelle le <i>gond</i> est monté:
+la supérieure se nomme <i>penture</i>. le <i>gond</i> à repos, celui 
+où l&#39;on voit à la tête un épaulement autour du
+mamelon ; on l&#39;appelle <i>gond à repos</i>, parce que l&#39;oeil
+de la penture pose dessus : on l&#39;employe aux portes
+pesantes ; alors on y ajuste &amp; l&#39;on y rive un mamelon.
+Tous ces <i>gonds</i> sont en bois &amp; à plâtre. Le <i>gond</i>
+double à repos, celui où le mamelon excede la fiche
+ou l&#39;oeil de la penture, de l&#39;épaisseur de la seconde
+branche du <i>gond</i>, à la tête de laquelle l&#39;on a fait
+un oeil, comme a celle sur laquelle le mamelon est
+fixe. Cette sorte de <i>gond</i> est pour les grandes portes
+cocheres.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

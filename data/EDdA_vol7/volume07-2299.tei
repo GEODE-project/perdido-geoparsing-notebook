@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29753" id="53:204" vol="7">
+<index type="head" value="GOBELET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie domestiq." />
+<index type="normclass" value="Economie domestique" />
+<index type="englishclass" value="Home economics" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="s.m." />
+<head>GOBELET</head>
+<p>
+* GOBELET, s. m. (<i>Economie domestiq.</i>) vaisseau
+de verre ou de quelque substance métallique, qui est
+plus haut que large, ordinairement rond &amp; sans anses,
+soit qu&#39;il soit de verre ou de métal, &amp; sans pié
+quand il est de verre, d&#39;une capacité à pouvoir être
+embrassé commodément par la main, &amp; dont on se
+<milestone unit="column" n="2" />
+sert pour prendre les liqueurs qui nous servent de
+boisson, soit en santé soit en maladie. Comme les liqueurs 
+dont on remplit le vaisseau, sur-tout quand il
+est d&#39;argent, sont quelquefois si chaudes qu&#39;on auroit
+de la peine à tenir le <i>gobelet</i>, on le revêt quelquefois 
+d&#39;un bois mince &amp; leger creusé autour, de la
+forme même du <i>gobelet:</i> cette enveloppe s&#39;echausse
+difficilement, &amp; par sa nature &amp; par l&#39;interruption ;
+car il est d&#39;expérience que la chaleur se répand avec
+moins de force &amp; de facilité dans un corps fait de plu
+sieurs pieces, que s&#39;il étoit d&#39;une seule, dans le cas
+même où les pieces différentes seroient toutes le la
+même matiere. Cette idée que nous jettons ici, peut
+avoir son application dans un grand nombre d&#39;autres 
+cas plus importans, soit pour la construction de
+certaines machines, telles que les fourneaux (<i>voyez
+l&#39;article</i> <sc><ref target="head:Fourneau" type="search">Fourneau</ref></sc>), soit pour l&#39;explication de plusieurs 
+phénomenes.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

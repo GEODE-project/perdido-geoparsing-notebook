@@ -1,0 +1,183 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28082" id="50:22" vol="7">
+<index type="head" value="FOYER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Géométrie ; en Optique" />
+<index type="normclass" value="Géométrie | Optique" />
+<index type="englishclass" value="Geometry | Optics" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.m." />
+<head>FOYER</head>
+<p>
+FOYER, s. m. ce mot a deux acceptions, l&#39;une
+en <i>Géométrie</i>, l&#39;autre en <i>Optique</i>, &amp; ces deux acceptions 
+ont quelque chose d&#39;analogue.
+</p>
+<p>
+En <i>Géométrie</i> il s&#39;employe principalement en parlant 
+des sections coniques : on dit <i>le foyer de la parabole</i>, les <i>foyers de l&#39;ellipse</i>, les <i>foyers de l&#39;hyperbole ;</i>
+&amp; on a expliqué au <i>mot</i> <sc>Conique</sc> ce que c&#39;est que
+ces <i>foyers</i>. On a appellé ces points <i>foyers</i>, par la propriété 
+qu&#39;ils ont de réunir les rayons qui viennent
+frapper la courbe suivant certaines directions. Cette
+propriété est détaillée au <i>mot</i> <sc><ref target="head:Conique" type="search">Conique</ref></sc>. <i>Voyez ausse</i>
+<sc><ref target="head:Ellipse" type="search">Ellipse</ref>, <ref target="head:Hyperbole," type="search">Hyperbole,</ref> <i>&amp;</i> <ref target="head:Parabole" type="search">Parabole</ref></sc>
+</p>
+<p>
+Les points qu&#39;on appelle aujourd&#39;hui <i>foyers</i>, s&#39;appelloient 
+autrefois <i>umbilics</i> ou <i>nombrils, umbilici ;</i>
+parce qu&#39;on peut les regarder comme les points les
+plus remarquables qui se rapportent à la courbe,
+&amp; qu&#39;on peut même déterminer l&#39;équation de la
+courbe par des rayons tirés à ces points, ainsi qu&#39;on
+l&#39;a vû au <i>mot</i> <sc>Ellipse</sc>.
+</p>
+<p>
+Il est quelquefois plus commode de représenter
+une courbe par l&#39;équation entre les rayons tirés d&#39;un
+point fixe à cette courbe, &amp; les angles que forment
+ces rayons, que de la représenter par l&#39;équation entre 
+les co-ordonnées rectangles (<i>Voyez</i> <sc><ref target="head:Courbe" type="search">Courbe</ref> <i>&amp;</i> <ref target="head:Equation" type="search">Equation</ref></sc>); en ce cas on donne quelquefois par
+extension le nom de <i>foyer</i> à ce point fixe, duquel
+on suppose que les rayons soient tirés, quoique co
+point n&#39;ait pas la propriété de rassembler les rayon,
+qui tomberoient sur la courbe. Tel seroit par exemple 
+le point <i>F</i> (<i><ref target="XPL:5137" type="platelink">figure 18</ref>. Coniq.</i>), par rapport à la
+courbe <i>A M m</i>, si on déterminoit l&#39;équation de cette
+courbe, non par le rapport en&#39;re les variables <i>A P</i>
+&amp; <i>P M</i>, mais par le rapport entre la variable <i>F M</i>,
+&amp; l&#39;angle variable <i>A F M</i>, que la ligne <i>F M</i> fait avec
+la ligne fixe <i>FA Voyez la seconde section des infin. ment
+petits</i> de M. de l&#39;Hopital, <i>vers la fin</i>.
+</p>
+<p>
+En <i>Optique</i> on appel e <i>foyer d&#39;un miroir, foyer d&#39;un
+verre, foyer d&#39;une lunette</i>, le point où les ravons refléchis 
+par le miroir, ou rompus par le verre ou la
+<pb n="7:263" facs="V7/ENC_7-263.jpeg" />
+<milestone unit="column" n="1" />
+lunette, se réunissent, soit exactement, soit physiquement : sur quoi <i>voyez l&#39;article</i> <sc><ref target="head:Ardent" type="search">Ardent</ref></sc>. On trouve 
+dans les <i>mémoires de l&#39;acad. des Sciences de 1710</i>,
+une formule générale pour connoître le <i>foyer</i> des miroirs ; 
+&amp; dans ceux de 1704, une formule pour déterminer 
+celui des verres. Nous donnerons ces formules 
+aux <i>mots</i> <sc><ref target="head:Lentille" type="search">Lentille</ref> <i>&amp;</i> <ref target="head:Miroir" type="search">Miroir</ref></sc>, où est leur
+véritable place. <i>Voyez aussi</i> 
+<sc><ref target="head:Convergent" type="search">Convergent</ref>, <ref target="head:Divergent" type="search">Divergent</ref>, <ref target="head:Concave" type="search">Concave</ref>, <ref target="head:Convexe" type="search">Convexe</ref></sc>
+, <i>&amp;c</i>.
+</p>
+<p>
+M. Bouguer a remarqué dans son ouvrage sur la
+<i>figure de la terre, p. 203. &amp; suiv.</i> que le <i>foyer</i> des grandes 
+lunettes est différent, 1°. selon la constitution des
+yeux de l&#39;observateur ; 2°. selon qu&#39;on enfonce ou
+retire l&#39;oculaire ; 3°. selon la constitution actuelle de
+l&#39;atmosphere ; &amp; il donne des moyens de se précautionner 
+contre ces variations. <i>Voyez l&#39;article</i> <sc><ref target="head:Lunette" type="search">Lunette</ref></sc>.
+</p>
+<p>
+Lorsque les rayons refléchis ou rompus sont divergens,
+mais de maniere que ces rayons prolongés
+iroient se réunir, soit exactement, soit physiquement,
+en un même point, ce point est appellé <i>foyer
+virtuel</i> ou <i>imaginaire</i>, &amp; par d&#39;autres <i>points de dispersion</i>. Ainsi (<i><ref target="XPL:5138" type="platelink">fig. 11</ref>. Optiq.</i>) si les rayons <i>fa</i> paralleles 
+à l&#39;axe <i>de</i>, sont rompus par le verre <i>a b</i> suivant
+<i>a K</i>, ensorte qu&#39;ils concourent en <i>e</i> étant prolongés,
+ce point <i>e</i> est le <i>foyer</i> virtuel de ces rayons.
+</p>
+<p>
+Comme les rayons qui partent du <i>foyer</i> d&#39;une hyperbole 
+sont refléchis par cette hyperbole, de maniere 
+qu&#39;étant prolongés ils passeroient par le <i>foyer</i>
+de l&#39;hyperbole opposée, on peut regarder ce second
+<i>foyer</i> comme un <i>foyer</i> virtuel.
+</p>
+<p>
+Sur les propriétés des différentes especes de <i>foyers,
+voyez la dioptrique</i> de Descartes, celle de Huyghens,
+&amp; beaucoup d&#39;autres ouvrages. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

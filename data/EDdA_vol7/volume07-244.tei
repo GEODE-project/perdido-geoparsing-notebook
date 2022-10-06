@@ -1,0 +1,230 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27698" id="49:5:2" vol="7">
+<index type="head" value="Forcer la main" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége." />
+<index type="normclass" value="Manège" />
+<index type="englishclass" value="Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Forcer la main</head>
+<p>
+<sc>Forcer la main</sc>, (<i>Manége.</i>) c&#39;est de la part de
+l&#39;animal en fuir non-seulement l&#39;obéissance, mais
+chercher à se soustraire entierement à ses effets, &amp;
+en vaincre réellement la puissance.
+</p>
+<p>
+Cette action peut être placée au rang des plus
+dangereuses défenses, sur-tout lorsque le cheval en
+a contracté l&#39;habitude.
+</p>
+<p>
+La trop grande sensibilité d&#39;une bouche importunée 
+&amp; même offensée, une sujétion ou excessive ou
+trop constante, des entreprises peu réfléchies &amp; au-dessus 
+des forces &amp; de la capacité de l&#39;animal, un
+caractere &amp; une nature rébelle, des sentimens rigoureux,
+mérités en apparence, mais plus propres à irriter 
+&amp; à révolter qu&#39;à produire un changement qu&#39;on 
+ne devoit attendre que de la patience &amp; de la
+douceur ; telles sont les causes ordinaires du vice
+dont il s&#39;agit.
+</p>
+<p>
+Tout cheval qui <i>force la main</i>, tire communément
+ou en s&#39;encapuchonnant, ou en roidissant le cou &amp;
+en portant au vent.
+</p>
+<p>
+Celui qui s&#39;arme peche le plus souvent par le défaut 
+de legereté, par le défaut de bouche, par la
+mauvaise conformation de son devant presque toûjours 
+foible, bas &amp; chargé; &amp; celui qui porte au
+vent, par la trop grande délicatesse des parties exposées 
+à l&#39;impression du mors.
+</p>
+<p>
+Ce n&#39;est pas dans une allure extrèmement prompte 
+&amp; pressée que l&#39;un &amp; l&#39;autre <i>forceront la main:</i> il
+est même assez rare que dans l&#39;action du pas ils tâchent 
+de se rédimer ainsi de toute contrainte ; mais
+le trot &amp; le galop semblent leur en faciliter plus particulierement 
+les moyens.
+</p>
+<p>
+Toutes les leçons que j&#39;ai prescrites en parlant du
+cheval qui fuit avec fougue &amp; avec impétuosité, malgré 
+les efforts que l&#39;on fait pour le retenir, <i>voyez</i>
+<milestone unit="column" n="2" />
+<sc><ref target="head:Emporter" type="search">Emporter</ref></sc> (<i>s&#39;</i>) tous les principes que j&#39;ai établis
+relativement à celui qui s&#39;arme, <i>voyez</i> <sc><ref target="head:Encapuchonner" type="search">Encapuchonner</ref></sc> (<i>s&#39;</i>) &amp; relativement à des bouches égarées (<i>voyez</i> <sc><ref target="head:Egarée" type="search">Egarée</ref></sc>) doivent être ici mis en usage
+pour corriger l&#39;animal de cette défense.
+</p>
+<p>
+Je ne conseillerai point de recourir, à l&#39;exemple
+de quelques écuyers, à toutes les voies de rigueur,
+de solliciter des chevaux vifs &amp; vigoureux à des
+courses longues &amp; furieuses, de les pousser jusqu&#39;à
+perte d&#39;haleine, de les extrapasser entre des piliers
+ou vis-à-vis d&#39;un mur quelconque, de leur lier les
+testicules avec un ruban de laine ou de soie auquel
+on a pratiqué un noeud coulant, &amp; de tirer ce même 
+ruban avec force au moindre mouvement qui
+annonce leur desobéissance, <i>&amp;c.</i> de pareils préceptes,
+dont l&#39;exécution est infiniment périlleuse, sont
+écrits, il est vrai, dans des ouvrages qui ont jour de
+la plus grande réputation, mais ils ne sauroient en
+imposer qu&#39;à des hommes dépourvûs de toute lumiere,
+&amp; ils confirment ceux qui sont éclairés dans
+la persuasion où ils sont que le plus beau nom n&#39;est
+souvent dû qu&#39;à la fortune de celui qui l&#39;acquiert,
+&amp; qu&#39;à l&#39;aveuglement d&#39;une multitude d&#39;ignorans
+qui décident.
+</p>
+<p>
+Les seules ressources que se permet un véritable
+maître, sont celles qui émanent du fond de l&#39;art,
+que le raisonnement suggere, &amp; dont l&#39;expérience
+garantit toûjours le succès.
+</p>
+<p>
+Nul cheval ne peut <i>forcer la main</i>, si elle n&#39;est
+dans une certaine opposition avec sa bouche : ainsi
+une main extrèmement legere, &amp; qui à peine imprimera 
+sur cette partie une sorte d&#39;appui, ne fournira 
+certainement à l&#39;animal aucun prétexte à la résistance.
+Je conviendrai néanmoins que le vice dont
+il est question peut être tellement enraciné, que le
+cheval qui ne se sentira, pour ainsi dire, ni captive
+ni retenu, profitera peut-être de l&#39;espece de liberté
+qu&#39;on lui laisse pour se déplacer de l&#39;une ou de l&#39;autre 
+maniere, &amp; pour se dérober ou pour fuir ; mais
+si le cavalier d&#39;ailleurs instruit de la justesse des proportions 
+qui constituent la science &amp; l&#39;habileté de la
+main, est attentif à prévenir cette action, ou plûtôt
+s&#39;il en saisit subtilement le moment précis, en élevant &amp; en éloignant sa main de son corps dans le
+cas où le cheval voudra s&#39;armer, ou en la mettant
+près de soi &amp; en la baissant dans celui où il entreprendra 
+de sortir de la ligne perpendiculaire en-avant,
+il rendra incontestablement la tentative de l&#39;animal
+inutile.
+</p>
+<p>
+Nous devons encore supposer que ce tems si nécessaire 
+à rencontrer lui a échappé: le cheval s&#39;encapuchonne,
+il fuit : alors on ne doit pas le renfermer
+sur le champ ; il importe au contraire de diminuer
+promptement le point d&#39;appui leger que l&#39;on tenoit,
+pour en revenir ensuite au mouvement de la main
+que je viens de prescrire, &amp; pour rendre &amp; reprendre 
+de nouveau : car le passage subit de ce même
+point d&#39;appui à un autre qui contraindroit davantage 
+l&#39;animal, lui présenteroit une occasion de faire
+effort contre la main, de la <i>forcer</i>, &amp; d&#39;en détruire
+les effets.
+</p>
+<p>
+Il en est de même du cheval qui s&#39;emporte en
+tendant le nez ; si le cavalier ne rend dans le moment,
+l&#39;animal fuira toûjours, il résistera sans cesse
+&amp; de plus en plus ; tandis que s&#39;il n&#39;est d&#39;abord en
+aucune façon captivé, il se replacera de lui-même ;
+&amp; si dans cet instant le cavalier renferme le cheval,
+cette action seule faite à propos suffira pour l&#39;arrêter.
+Tout dépend donc ici du tems où l&#39;on doit agir,
+&amp; non d&#39;une force d&#39;autant plus mal-à-propos employée,
+qu&#39;elle ne peut jamais être supérieure, &amp;
+qu&#39;elle ne sert qu&#39;à accroître la défense, bien loin
+de la réprimer ; &amp; c&#39;est ainsi que l&#39;homme de cheval
+en triomphe, sauf à châtier d&#39;ailleurs l&#39;animal colere<gap type="hyphenpb" />
+<pb n="7:128" facs="V7/ENC_7-128.jpeg" />
+<milestone unit="column" n="1" />
+qui s&#39;élance avant de s&#39;abandonner, &amp; à se conformer 
+encore aux maximes déduites dans les articles 
+auxquels j&#39;ai renvoyé. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

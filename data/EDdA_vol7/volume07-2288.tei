@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29742" id="53:196" vol="7">
+<index type="head" value="GNOMON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Astronom." />
+<index type="normclass" value="Astronomie" />
+<index type="englishclass" value="Astronomy" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="s.m." />
+<head>GNOMON</head>
+<p>
+GNOMON, s. m. (<i>Astronom.</i>) est proprement le
+stile ou aiguille d&#39;un cadran solaire, dont l&#39;ombre
+marque les heures. <i>Voyez</i> <sc><ref target="head:Cadran" type="search">Cadran</ref></sc>.
+</p>
+<p>
+Ce mot est purement grec, &amp; signifie littéralement
+<i>une chose qui en fait connoitre une autre ;</i> de <foreign lang="greek">γνώμη</foreign>, <i>connoissance:</i> les anciens l&#39;ont appliqué au stile d&#39;un cadran,
+parce qu&#39;il indique ou fait connoître les heures.
+</p>
+<p>
+Le <i>gnomon</i> d&#39;un cadran solaire représente l&#39;axe du
+monde, ou, pour parler plus juste, l&#39;extrémité du
+<i>gnomon</i> d&#39;un cadran solaire est censée représenter le
+centre de la terre ; &amp; si l&#39;autre bout du <i>gnomon</i> passe
+par le centre du cadran ou point de concours des lignes
+horaires, le <i>gnomon</i> est alors parallele à l&#39;axe de la terre ; 
+&amp; on peut le prendre pour cet axe même, sans
+erreur sensible : mais si le <i>gnomon</i> est dans toute autre 
+situation par rapport au cadran, par exemple, s&#39;il
+est perpendiculaire au plan du cadran, alors il ne représente 
+plus l&#39;axe du monde, à-moins que le cadran
+ne soit équinoctial ; mais l&#39;extrémité ou la pointe du
+<i>gnomon</i> est toûjours regardée comme le centre de la
+terre.
+</p>
+<p>
+Au reste, le mot de <i>gnomon</i> n&#39;est plus guere en usage 
+pour signifier <i>le stile des cadrans ;</i> on se sert plûtôt
+du mot de <i>stile</i> ou d&#39;<i>aiguille:</i> on peut d&#39;ailleurs reserver 
+le mot de <i>gnomon</i> pour les cadrans qui n&#39;ont
+point de stile, mais seulement une plaque percée d&#39;un
+trou par où passe l&#39;image du soleil. <i>Voyez</i> <sc><ref target="head:Cadran" type="search">Cadran</ref></sc>.
+Ces cadrans sont en petit ce que sont en Astronomie
+les <i>gnomons</i> dont nous allons parler.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

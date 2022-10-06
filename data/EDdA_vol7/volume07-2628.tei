@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30082" id="54:35:6" vol="7">
+<index type="head" value="Grain" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Artillerie" />
+<index type="pos" value="NA" />
+<head>Grain</head>
+<p>
+<sc>Grain</sc>, (<i>Art milit.</i>) dans l&#39;artillerie est une opération 
+dont on se sert pour corriger le défaut des lumieres 
+des pieces de canon &amp; mortiers qui se sont
+trop élargies.
+</p>
+<p>
+Ce <i>grain</i> n&#39;est autre chose que de nouveau métal
+que l&#39;on fait couler dans la lumiere pour la boucher
+entierement. Pour que ce nouveau métal s&#39;unisse
+plus facilemement avec l&#39;ancien, on fait chauffer la
+piece très-fortement, pour lui donner à-peu-près le
+même degré de chaleur que le métal fondu que l&#39;on
+y coule : quand ce métal est refroidi, on perce une
+nouvelle lumiere à la piece ; pour que le nouveau
+métal ne coule pas dans l&#39;ame du canon par la lumiere,
+on y introduit du sable bien refoulé jusque
+vers les anses.
+</p>
+<p>
+Comme il est assez difficile que le nouveau métal
+dont on remplit la lumiere s&#39;unisse parfaitement
+avec l&#39;ancien, le chevalier de Saint-Julien propose,
+dans son livre <i>de la forge de Vulcain</i>, d&#39;élargir la lumiere 
+de deux pouces jusqu&#39;à l&#39;ame du canon, comme 
+à l&#39;ordinaire ; de faire ensuite autour de cette
+ouverture, à trois ou quatre pouces de distance,
+quatre trous en quatre endroits différens, disposés de
+maniere qu&#39;ils aillent se rencontrer obliquement vers
+le milieu de l&#39;épaisseur de la lumiere ; il faut que ces
+trous ayent au moins chacun un pouce de diametre.
+Il faut après cela prendre un instrument de bois à-peu-près <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+comme un refouloir, qui soit exactement du
+calibre de la piece ; sur la tête de cette espece de refouloir ; 
+il faut faire une entaille d&#39;un demi-pouce
+de profondeur, coupée également suivant sa circonférence,
+ensorte que le fond de cette entaille donne
+une superficie convexe, parallele à celle de sa partie
+supérieure. On doit garnir l&#39;entaille d&#39;une ligne ou
+deux d&#39;épaisseur, en lui donnant toûjours la forme
+convexe ; après cela, il faut faire fondre cinq ou six
+cents livres de métal, bien chauffer le canon, &amp; introduire 
+dedans le refouloir dont nous venons de
+parler ; son entaille doit répondre au trou de la lumiere.
+Le canon étant ensuite placé de maniere que
+le trou de la lumiere se trouve bien perpendiculaire à
+l&#39;horison, il faut faire couler le métal dans tous les
+trous que l&#39;on a percés, &amp; après les en avoir remplis,
+&amp; laissé refroidir le tout, la lumiere se trouvera 
+exactement bouchée &amp; en état de résister à tout
+l&#39;effort de la poudre dont le canon sera chargé dans
+la suite ; c&#39;est ce que cette construction rend évident.
+Il est question après cela de retirer le refouloir ; pour
+le faire plus facilement, on a la précaution de le
+construire de deux pieces, &amp; en tirant celle de dessous,
+l&#39;autre se détache aisément. On perce ensuite
+une nouvelle lumiere, avec un instrument appellé
+<i>foret ;</i> &amp; c&#39;est la raison pour laquelle on dit indifféremment,
+dans l&#39;usage ordinaire, <i>percer</i> ou <i>forer</i> une
+lumiere. <i>Voyez</i> <sc><ref target="head:Canon" type="search">Canon</ref></sc>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

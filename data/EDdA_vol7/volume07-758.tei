@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28212" id="50:46" vol="7">
+<index type="head" value="FRANCHE-COMTÉ, ou Comté de Bourgogne" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>FRANCHE-COMTÉ</head>
+<p>
+FRANCHE-COMTÉ, <i>ou</i> <sc>Comté de Bourgogne</sc>, (<i>Géog.</i>) <i>Burgundiae comitatus</i>, province considérable,
+bornée au nord par la Lorraine, à l&#39;est par
+le Montbeliard &amp; la Suisse, à l&#39;oüest par le Bassigny
+&amp; la Bresse, &amp; au sud par le Bugey. Ce pays contient 
+la plus grande partie du territoire des anciens
+Séquaniens, qui furent subjugués par Jules-César.
+<i>Voyez</i> Longuerue.
+</p>
+<p>
+La <i>Franche-Comté</i> a environ cinquante lieues de
+long sur trente-deux dans sa plus grande largeur ; elle 
+abonde en grains, vins, bestiaux, chevaux, mines
+de fer, de cuivre, &amp; de plomb, outre plusieurs carrieres ; 
+elle est partagée paresque également en pays
+uni &amp; en pays de montagnes. Le pays uni renferme
+le bailliage de Vésoul, Gray, Dôle, <i>&amp;c.</i> le pays de
+montagnes comprend le bailliage de Pontarlier &amp;
+d&#39;Orgelet, de Salins, Ornause, Beaume, Saint-Claude, Quingey, Arbois, &amp; la ville de Besançon, capitale 
+de toute la <i>Franche-Comté:</i> cette province est
+arrosée par cinq rivieres principales, la Saone, le
+Lougnon, le Doux, la Louvre, &amp; le Dain, toutes
+fort poissonneuses.
+</p>
+<p>
+Louis XIV. conquit la <i>Franche-Comté</i> en 1674.
+Ce prince, avec un million d&#39;argent comptant &amp; une
+assurance de six cents mille livres, détermina les Suisses à refuser à l&#39;empereur &amp; à l&#39;Espagne le passage
+des troupes : il prit Besançon, après avoir gagné les
+grands seigneurs du pays ; &amp; en six semaines, toute
+la <i>Franche-Comté</i> lui fut soûmise. Elle est restée à la
+France par le traité de Nimegue en 1678, &amp; semble
+y être pour jamais annexée ; monument de la foiblesse 
+du ministere autrichien-espagnol, &amp; de l&#39;habileté 
+de celui de Louis XIV. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

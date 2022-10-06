@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30340" id="55:11" vol="7">
+<index type="head" value="GRELIN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Corderie" />
+<index type="normclass" value="Corderie" />
+<index type="englishclass" value="Ropemaking" />
+<index type="generatedclass" value="Corderie" />
+<index type="pos" value="s.m." />
+<head>GRELIN</head>
+<p>
+GRELIN, s. m. <i>terme de Corderie</i>, cordage composé 
+de plusieurs aussieres, &amp; commis deux fois.
+</p>
+<p>
+Les <i>grelins</i> se fabriquent de la même façon que les
+aussieres ; la seule différence qu&#39;il y a entre ces deux
+sortes de cordages, c&#39;est que les <i>grelins</i> sont composés 
+d&#39;aussieres, au lieu que les aussieres sont faites de
+torons.
+</p>
+<p>
+M. Duhamel dit, dans son <i>art de la Corderie</i>, que
+les <i>grelins</i> ont plusieurs avantages sur les aussieres.
+</p>
+<p>
+1°. Comme ils sont commis deux fois, les fibres
+de chanvre sont entrelacées, de maniere que les frottemens<gap type="hyphenpb" />
+<pb n="7:932" facs="V7/ENC_7-932.jpeg" />
+<milestone unit="column" n="1" />
+violens que ces cordages ont à souffrir, ne
+peuvent déranger facilement ces fibres : avantage
+que n&#39;ont pas les aussieres ; aussi sont-elles moins de
+durée.
+</p>
+<p>
+2°. Les <i>grelins</i> sont plus serrés que les aussieres ;
+ainsi l&#39;eau les pénetre plus difficilement.
+</p>
+<p>
+3°. On a dit dans l&#39;<i>article</i> 
+<sc><ref target="head:Aussieres a quatre Torons" type="search">Aussieres a quatre Torons</ref></sc>, qu&#39;il est avantageux de multiplier le nombre 
+des torons : or il n&#39;y a pas de moyen plus sûr de
+les multiplier, que de faire des cordages en <i>grelin</i>.
+</p>
+<p>
+On peut faire des <i>grelins</i> avec toutes sortes d&#39;aussieres,
+&amp; les composer d&#39;autant d&#39;aussieres qu&#39;on met
+de torons dans les aussieres.
+</p>
+<p>
+<i>Grelins en queue de rat</i>, sont des <i>grelins</i> qui ont une
+fois plus de grosseur par un bout que par l&#39;autre.
+</p>
+<p>
+Quand on a fait des aussieres eu queue de rat, on
+en prend autant qu&#39;on veut que le <i>grelin</i> ait de cordons,
+&amp; on les commet de la même façon que les
+<i>grelins</i> ordinaires, excepté que pour tordre les <i>grelins</i> on ne fait virer que les manivelles du chantier.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Corderie" type="search">Corderie</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

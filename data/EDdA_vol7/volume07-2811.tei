@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30265" id="55:2" vol="7">
+<index type="head" value="GRÉENWICH" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GRÉENWICH</head>
+<p>
+GRÉENWICH, (<i>Géog.</i>) petite ville d&#39;Angleterre
+dans la province de Kent N. O. à-deux lieues de Londres sur la Tamise. <i>Long.</i> suivant Harris &amp; Cassini,
+<i>17<sup>d</sup>. 28&#39;. 3&quot; lat 51<sup>d</sup>. 28&#39;. 3&quot;</i>.
+</p>
+<p>
+<i>Gréenwich</i> est remarquable par son observatoire &amp;
+par son hôpital en faveur des matelots invalides.
+Cette derniere maison étoit le palais chéri de Guillaume &amp; de la reine Marie ; mais en 1694 ils l&#39;abandonnerent 
+volontairement à cette pieuse destination.
+</p>
+<p>
+C&#39;est à <i>Gréenwich</i> que naquit Henri VIII. prince
+aussi fougueux que voluptueux, d&#39;une opiniâtreté
+invincible dans ses desirs, &amp; d&#39;une volonté despotique 
+qui tint lieu de lois ; libéral jusqu&#39;à la prodigalité: courageux, intrépide, il battit les François &amp;
+les Ecossois, réunit le pays de Galles à l&#39;Angleterre,
+&amp; érigea l&#39;Irlande en nouveau royaume : cruel &amp;
+sans retour sur lui-même, il se souilla de trois divorces 
+&amp; du sang de deux épouses : également tyran
+dans sa famille, dans le gouvernement &amp; dans la religion,
+il se sépara du pape, parce qu&#39;il étoit amoureux 
+d&#39;Anne de Boulen, &amp; se fit le premier reconnoître 
+pour chef de l&#39;église dans ses états. Mais si ce
+fut un crime sous son empire de soûtenir l&#39;autorité
+du pape, c&#39;en fut un d&#39;être protestant ; il fit brûler
+dans la même place ceux qui parloient pour le pontife 
+romain, &amp; ceux qui se déclaroient pour la réforme 
+d&#39;Allemagne.
+</p>
+<p>
+Elisabeth sa fille, l&#39;une des plus illustres souveraines 
+dont les annales du monde ayent parlé, naquit
+dans le même lieu qu&#39;Henri VIII. hérita de ses couronnes,
+mais non pas de son caractere &amp; de sa tyrannie.
+Son regne est le plus beau morceau de l&#39;histoire 
+d&#39;Angleterre : il a été l&#39;école où tant d&#39;hommes
+célebres d&#39;état &amp; de guerre se sont formés, que la
+Grande-Bretagne n&#39;en produisit jamais un si grand
+nombre ; elle ne peut oublier l&#39;époque mémorable
+ou, après la dispersion de la flotte invincible, cette
+reine disoit à son parlement:
+<blockquote> 
+« Je sais, Messieurs,
+que je ne tiens pas le sceptre pour mon propre
+avantage, &amp; que je me dois toute entiere à la société 
+qui a mis en moi sa confiance ; mon plus grand
+bonheur est de voir que j&#39;ai pour sujets des hommes
+dignes que je renonçansse pour eux au throne &amp; à
+la vie ».
+</blockquote>
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,234 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28426" id="50:163:1" vol="7">
+<index type="head" value="Fromage" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Diete." />
+<index type="normclass" value="Diète" />
+<index type="englishclass" value="Diet" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Fromage</head>
+<p>
+<sc>Fromage</sc>, (<i>Diete.</i>) le <i>fromage</i> est, comme tout
+le monde sait, un des principes constitutifs du lait,
+dont on le retire par une véritable décomposition,
+pour l&#39;usage de nos tables.
+</p>
+<p>
+On prépare deux especes de <i>fromage ;</i> un <i>fromage</i>
+pur, c&#39;est-à-dire qui n&#39;est formé que par la partie caséeuse 
+proprement dite du lait ; &amp; un autre qui renferme 
+ce dernier principe, &amp; la partie butyreuse du
+lait, ou le beurre.
+</p>
+<p>
+Le <i>fromage</i> de la premiere espece est grossier, peu
+lié, très-disposé à aigrir ; il est abandonné aux gens
+de la campagne. Tous les <i>fromages</i> qui ont quelque
+réputation, &amp; qui se débitent dans les villes, sont
+de la seconde espece ; ils sont moëlleux, gras, délicats,
+peu sujets à aigrir ; ils ont une odeur &amp; un goût
+fort agréables, au moins tant qu&#39;ils sont récens : on
+les appelle communément <i>gras</i> ou <i>beurrés</i>. Plusieurs
+cantons du royaume en fournissent d&#39;excellens. Le
+<i>fromage</i> de Rocquefort est sans contredit le premier
+<i>fromage</i> de l&#39;Europe ; celui de Brie, celui de Sassenage, celui de Marolles, ne le cedent en rien aux meilleurs 
+<i>fromages</i> des pays étrangers : celui des montagnes 
+de Lorraine, de Franche-Comté, &amp; des contrées 
+voisines, imitent parfaitement celui de Gruyere : le <i>fromage</i> d&#39;Auvergne est aussi bon que le meilleur 
+<i>fromage</i> d&#39;Hollande, <i>&amp;c.</i>
+</p>
+<p>
+Tous les Medecins qui ont parlé du <i>fromage</i>, l&#39;ont
+distingué avec raison en frais ou récent, &amp; en vieux,
+ou fort &amp; picquant ; ils ont encore déduit d&#39;autres
+différences, mais moins essentielles, de la diversité
+des animaux qui avoient fourni le lait dont on l&#39;avoit 
+retiré; de l&#39;odeur, du goût, du degré de salure,
+<i>&amp;c.</i>
+</p>
+<p>
+Les anciens ont prétendu que le <i>fromage</i> frais étoit
+froid, humide, &amp; venteux, mais qu&#39;il excitoit moins
+la soif que le vieux ; qu&#39;il resserroit moins le ventre ;
+qu&#39;il ne fournissoit pas un suc si grossier ; qu&#39;il nourrissoit 
+bien, &amp; même qu&#39;il engraissoit ; que cependant 
+il étoit de difficile digestion ; qu&#39;il engendroit
+le calcul ; qu&#39;il causoit des obstructions, <i>&amp;c.</i>
+</p>
+<p>
+Le vieux étoit chaud &amp; sec, selon leur doctrine,
+&amp; à cause de ces qualités, difficile à digérer, très propre 
+à engendrer le calcul, sur-tout s&#39;il étoit fort
+salé. Galien, Dioscoride, &amp; Avicenne en ont condamné 
+l&#39;usage, pour ces raisons ; &amp; encore, parce
+qu&#39;ils ont prétendu qu&#39;il sournissoit un mauvais suc ;
+qu&#39;il resserroit le ventre, &amp; qu&#39;il se tournoit en bile
+noire ou atrabile : ils ont avoüé cependant, que pris
+en petite quantité, il pouvoit faciliter la digestion,
+surtout des viandes, quoiqu&#39;il fût difficile à digérer
+lui-même.
+</p>
+<p>
+La plûpart de ces prétentions sont peu confirmées
+par les faits. Le <i>fromage</i>, à-moins qu&#39;il ne soit absolument 
+dégénéré par la putréfaction, est très-nourrissant : la partie caséeuse du lait est son principe
+vraiment alimenteux.
+</p>
+<p>
+Le <i>fromage</i> frais assaisonné d&#39;un peu de sel, est
+donc un aliment qui contient en abondance la matiere 
+prochaine du suc nourricier, &amp; dont la fadeur
+est utilement corrigée par l&#39;activité du sel. Les gens
+de la campagne, &amp; ceux qui sont occupés journellement 
+à des travaux pénibles, se trouvent très-bien
+de l&#39;usage de cet aliment, qui devient plus salutaire 
+encore, comme tous les autres, par l&#39;habitude.
+</p>
+<p>
+Le <i>fromage</i> fait, c&#39;est-à-dire qui a essuyé un commencement<gap type="hyphenpb" />
+<pb n="7:334" facs="V7/ENC_7-334.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;altération spontanée, dont les progrès
+l&#39;auroient porté à un vrai état de putréfaction ; celui-là, dis-je, est moins nourrissant, mais plus irritant ; 
+il convient encore mieux aux corps robustes
+&amp; exercés.
+</p>
+<p>
+Enfin le <i>fromage</i> presque pourri, état dans lequel
+on le mange quelquefois, doit moins passer pour un
+aliment que pour un assaisonnement, <i>irritamentum
+gulae</i>, qui excite souvent avec avantage le jeu de
+l&#39;estomac déjà chargé de diverses viandes, &amp; qu&#39;on
+peut par conséquent manger avec succès à la fin du
+repas : c&#39;est celui-ci principalement dont il s&#39;agit dans
+ce vers connu de tout le monde:
+<center>
+<i>Caseus ille bonus quem dat avara manus</i>.
+</center>
+</p>
+<p>
+L&#39;usage du <i>fromage</i> n&#39;est pourtant point sans inconvénient : le <i>fromage</i> frais pris en grande quantité,
+produit quelquefois des indigestions chez les personnes 
+qui n&#39;y sont point accoûtumées : ceci est vrai,
+sur-tout de ces <i>fromages</i> mous &amp; délicats qu&#39;on mange 
+très-frais, délayés avec de la creme ou du lait,
+&amp; qu&#39;on appelle communément <i>fromages à la creme</i>.
+Ceux-ci different à peine à cet égard, du lait entier.
+<i>Voyez</i> <sc><ref target="head:Lait" type="search">Lait</ref></sc>, (<i>Diete &amp; Mat. med.</i>) Le <i>fromage</i> fait pris
+aussi en trop grande quantité, excite la soif, produit
+une chaleur incommode dans l&#39;estomac &amp; dans les
+intestins, rend la salive gluante &amp; épaisse, &amp; cause
+de petites aphthes dans l&#39;intérieur de la bouche. On
+prévient ces accidens, en usant sobrement de cet
+aliment ; &amp; on les guérit, en faisant avaler quelques
+verres d&#39;eau froide.
+</p>
+<p>
+Le <i>fromage</i> vieux &amp; piquant a toutes les mauvaises 
+qualités des assaisonnemens très-irritans ; il est
+presque caustique.
+</p>
+<p>
+En général, les personnes délicates, qui ont le
+genre nerveux sensible, ou qui sont sujettes aux maladies 
+de la peau, doivent se priver de <i>fromage ;</i> le
+sel dont il est souvent très-chargé, &amp; les parties actives 
+développées par l&#39;espece de fermentation qu&#39;il
+éprouve, portent singulierement vers cet organe ; le
+fait est observé.
+</p>
+<p>
+Le <i>fromage</i> est un de ces alimens pour lequel certaines 
+personnes ont une répugnance naturelle, dont
+la cause est assez difficile à déterminer. Lémery le
+fils (<i>traité des alimens</i>), nous apprend qu&#39;un Martin
+Schoockius a fait un traité particulier <i>de aversione
+casei</i>, auquel il a la discrétion de renvoyer le lecteur
+curieux : nous aurons aussi cette attention pour le
+lecteur raisonnable. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

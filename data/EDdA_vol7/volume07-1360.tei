@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28814" id="51:112" vol="7">
+<index type="head" value="GALANT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="adject" />
+<head>GALANT</head>
+<p>
+GALANT, adj. pris subst. (<i>Gramm.</i>) ce mot vient
+de <i>gal</i>, qui d&#39;abord signifia <i>gaieté</i> &amp; <i>réjoüissance</i>, ainsi
+qu&#39;on le voit dans Alain Chartier &amp; dans Froissard:
+on trouve même dans le roman de la rose, <i>galandé</i>,
+pour signifier <i>orné, paré</i>.
+<lg>
+</lg></p>
+<p>
+<i>La belle fut bien atornée
+Et d&#39;un filet d&#39;or galandée</i>.
+</p>
+<p>
+Il est probable que le <i>gala</i> des Italiens &amp; le <i>galan</i>
+des Espagnols, sont dérivés du mot <i>gal</i>, qui paroît
+originairement celtique ; de-là se forma insensiblement 
+<i>galant</i>, qui signifie <i>un homme empressé à plaire:</i>
+ce mot reçut une signification plus noble dans les
+tems de chevalerie, où ce desir de plaire se signaloit
+par des combats. <i>Se conduire galamment, se tirer d&#39;affaire 
+galamment</i>, veut même encore dire, <i>se conduire
+en homme de coeur</i>. Un <i>galant</i> homme, chez les Anglois, signifie <i>un homme de courage:</i> en France, il veut
+dire de plus, <i>un homme à nobles procédés</i>. Un homme
+<i>galant</i> est tout autre chose qu&#39;un <i>galant</i> homme ; celui-ci tient plus de l&#39;honnête homme, celui-là se rapproche 
+plus du petit-maître, de l&#39;homme à bonnes fortunes.
+<i>Etre galant</i>, en général, c&#39;est chercher à plaire 
+par des soins agréables, par des empressemens
+flatteurs. <i>Voyez l&#39;article</i> <sc><ref target="head:Galanterie" type="search">Galanterie</ref></sc>. <i>Il a été très galant 
+avec ces dames</i>, veut dire seulement, <i>il a montré 
+quelque chose de plus que de la politesse</i>: mais <i>être le
+galant d&#39;une dame</i>, a une signification plus forte ; cela
+signifie <i>être son amant ;</i> ce mot n&#39;est presque plus d&#39;usage 
+aujourd&#39;hui que dans les vers familiers. Un <i>galant</i> est non-seulement un homme à bonne fortune ;
+mais ce mot porte avec soi quelque idée de hardiesse,
+&amp; même d&#39;effronterie : c&#39;est en ce sens que la Fontaine a dit:
+<lg>
+</lg></p>
+<p>
+<i>Mais un galant chercheur de pucelage</i>.
+Ainsi le même mot se prend en plusieurs sens. Il en
+est de même de <i>galanterie</i>, qui signifie tantôt <i>coquetterie</i> dans l&#39;esprit, paroles flatteuses, tantôt présent de
+petits bijoux, tantôt intrigue avec une femme ou plusieurs ; 
+&amp; même depuis peu il a signifié ironiquement
+<i>faveurs de Vénus</i>: ainsi <i>dire des galanteries, donner
+des galanteries, avoir des galanteries, attraper une galanterie</i>, sont des choses toutes différentes. Presque
+tous les termes qui entrent fréquemment dans la conservation,
+reçoivent ainsi beaucoup de nuances qu&#39;il
+est difficile de démêler : les mots techniques ont une
+signification plus précise &amp; moins arbitraire. <i>Article
+de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

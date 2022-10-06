@@ -1,0 +1,273 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27582" id="48:56:2" vol="7">
+<index type="head" value="Fondation" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Fondation</head>
+<p>
+<sc>Fondation</sc>, (<i>Jurisprud.</i>) les nouveaux établissemens que l&#39;on considere dans cette matiere, sont
+ceux des évêchés, abbayes, &amp; autres monasteres,
+églises, chapelles, hôpitaux, colléges ; les <i>fondations</i>
+de messes, obits, services, &amp; autres prieres.
+</p>
+<p>
+Aucune <i>fondation</i> ecclésiastique, telle que celle
+d&#39;un évêché, monastere, paroisse, chapelle, <i>&amp;c.</i>
+ne peut être faite sans l&#39;autorité du supérieur ecclésiastique ; 
+il faut aussi des lettres patentes du roi,
+dûement enregistrées au parlement, ce qui est toûjours 
+précédé d&#39;une information <i>de commodo &amp; incommodo</i>.
+</p>
+<p>
+Il faut aussi des lettres patentes pour autoriser les
+<i>fondations</i> séculieres, telles que sont les hôpitaux,
+colléges, &amp; autres communautés séculieres.
+</p>
+<p>
+On appelle <i>fondateur</i> celui qui a fait la <i>fondation</i>,
+soit qu&#39;il ait donné le fond ou terrein pour y construire 
+une église ou autre édifice, soit qu&#39;il y ait fait
+construire l&#39;édifice de l&#39;église, monastere, hôpital
+ou collége, ou que l&#39;édifice ayant déjà été construit,
+&amp; depuis tombé en ruine, il l&#39;ait fait relever ; ou
+bien qu&#39;il ait doté l&#39;église ou maison de deniers &amp;
+revenus destinés à l&#39;entretenement d&#39;icelle : chacune
+de ces différentes manieres de fonder une église acquiert 
+au fondateur le droit de patronage.
+</p>
+<p>
+Il faut neanmoins l&#39;avoir réservé spécialement par
+la <i>fondation ;</i> autrement le fondateur n&#39;a simplement
+que la préséance, l&#39;encens, la recommandation aux
+prieres nominales, &amp; autres droits honorifiques ;
+mais non pas la collation, présentation ou nomination 
+des bénéfices : pour ce qui est des droits honorifiques,
+le fondateur en joüit dans les églises conventuelles 
+comme dans les paroissiales.
+</p>
+<p>
+Un fondateur peut être contraint de redoter l&#39;église 
+par lui fondée, lorsquelle devient pauvre, à
+moins qu&#39;il ne renonce à son droit de patronage.
+</p>
+<p>
+S&#39;il étoit prouvé par le titre de la <i>fondation</i> que le
+fondateur eût renoncé au droit de patronage, la possession<gap type="hyphenpb" />
+<pb n="7:76" facs="V7/ENC_7-76.jpeg" />
+<milestone unit="column" n="1" />
+même immémoriale de présenter aux bénéfices,
+ne lui acquerroit pas ce droit.
+</p>
+<p>
+Les héritiers ou successeurs des fondateurs étant
+tombés dans l&#39;indigence, sans que ce soit par leur
+mauvaise conduite, doivent être nourris aux dépens
+de la <i>fondation</i>.
+</p>
+<p>
+L&#39;évêque ne peut pas autoriser une <i>fondation</i> ecclésiastique,
+à moins que l&#39;église ne soit dotée suffisamment 
+par le fondateur, tant pour l&#39;entretien des
+bâtimens, que pour la subsistance des clercs qui doivent 
+desservir cette église ; c&#39;est ce qu&#39;enseignent plusieurs 
+conciles &amp; autres réglemens rapportés par Ducange, en son <i>glossaire</i>, au mot <i>dot</i>.
+</p>
+<p>
+La surintendance des <i>fondations</i> ecclésiastiques appartient 
+à l&#39;évêque diocésain, ensorte qu&#39;il a droit
+d&#39;examiner si elles sont exécutées suivant l&#39;intention
+des fondateurs ; il peut aussi en changer l&#39;usage, les
+unir &amp; transférer lorsqu&#39;il y a utilité ou nécessité.
+</p>
+<p>
+Le concile de Trente ne permet à l&#39;évêque de réduire 
+les <i>fondations</i> que dans les synodes de son diocèse,
+mais il y a des arrêts qui ont autorisé ces réductions,
+quoique faites par l&#39;évêque seul ; quand il
+n&#39;y a point d&#39;opposition, c&#39;est un acte qui dépend de
+la jurisdiction volontaire ; s&#39;il y a des opposans, on
+fait juger leurs moyens à l&#39;officialité, avant que l&#39;évêque 
+fasse son decret.
+</p>
+<p>
+Maîs ils ne peuvent changer les <i>fondations</i> séculieres 
+faites pour l&#39;instruction de la jeunesse, &amp; les rendre 
+ecclésiastiques.
+</p>
+<p>
+On ne peut pas non plus appliquer une <i>fondation</i>
+faite pour une ville à une autre ville.
+</p>
+<p>
+Le grand vicaire de l&#39;évêque ne peut pas homologuer 
+une <i>fondation</i> sans un pouvoir spécial.
+</p>
+<p>
+Philon, juif, enseignoit que le gain fait par une
+courtisanne ne pouvoit être reçû pour la <i>fondation</i>
+d&#39;un lieu saint ; on n&#39;a cependant pas toûjours eu la
+même délicatesse ; &amp; M. de Salve, <i>part. II. tract.
+quoest. 5. n.</i> soûtient au contraire que la <i>fondation</i>
+d&#39;une église est valable, quoiqu&#39;elle ait eté faite par
+une femme publique, des deniers provenans de sa
+débauche.
+</p>
+<p>
+Une église ne peut prétendre avoir acquis une possession 
+contraire à sa <i>fondation</i>.
+</p>
+<p>
+Elle n&#39;est point non plus présumée avoir les biens
+qu&#39;elle possede, sans qu&#39;il y ait eu quelque charge
+portée par la <i>fondation ;</i> c&#39;est pourquoi Henri II. en
+1556, voulant amplifier le service divin &amp; procurer
+l&#39;accomplissement des <i>fondations</i>, c&#39;est-à-dire des
+messes, services, &amp; prieres fondées dans les églises,
+ordonna que tous héritages &amp; biens immeubles tenus 
+sans charge de service divin ou d&#39;office égal, ou
+revenu d&#39;iceux, par les églises, prélats. &amp; bénéficiers,
+à quelque titre que ce fût, seroient censés
+vacans &amp; réunis à son domaine.
+</p>
+<p>
+Les biens d&#39;église ne peuvent être aliénés même
+par decret, si ce n&#39;est à la charge de la <i>fondation</i>,
+quand même on ne se seroit pas opposé au decret.
+</p>
+<p>
+Pour accepter une <i>fondation</i> faite dans une église
+paroissiale, il faut le concours du curé &amp; des marguilliers.
+</p>
+<p>
+Dans les <i>fondations</i> faites par testament ou codicile,
+c&#39;est aux héritiers à payer les droits d&#39;amortissement 
+&amp; d&#39;indemnité, parce que l&#39;on présume que
+l&#39;intention du défunt a été de faire joüir l&#39;église pleinement 
+de l&#39;effet de ses libéralités, au lieu que dans
+les <i>fondations</i> faites par actes entre vifs, les heritiers
+ne sont pas obligés de payer ces droits, parce que
+ces sortes de donations ne reçoivent point d&#39;extension ; 
+&amp; l&#39;on présume que si le fondateur avoit voulu
+payer les droits d&#39;amortissement &amp; d&#39;indemnité, il
+l&#39;ausoit fait lui-même, ou l&#39;auroit dit dans l&#39;acte.
+</p>
+<p>
+Le docteur Rochus dit que les <i>fondations</i> doivent
+être accomplies au moins dans l&#39;année du décès du
+fondateur ; que si ce qu&#39;il a donné n&#39;est pas suffisant
+<milestone unit="column" n="2" />
+pour accomplir les charges de la <i>fondation</i>, les heritiers 
+ne sont pas tenus de fournir le surplus, mais la
+<i>fondation</i> est convertie en quelqu&#39;autre oeuvre pie,
+du consentement de l&#39;évêque.
+</p>
+<p>
+Lorsque les <i>fondations</i> sont exorbitantes, &amp; qu&#39;il
+y a contestation sur l&#39;exécution du testament où elles
+sont portées, le juge peut les réduire <i>ad legitimum
+modum</i>, eu égard aux biens du desunt, à la qualité
+&amp; à la fortune du défunt, &amp; autres circonstances.
+</p>
+<p>
+Les arrérages des <i>fondations</i> pour obits, services,
+&amp; prieres, se peuvent demander de puis 29 années,
+en affirmant par les ecclésiastiques qu&#39;ils ont acquitte
+les charges, &amp; qu&#39;ils n&#39;ont pas été payés.
+</p>
+<p>
+Pour ce qui est du fond, si c&#39;est une somme à une
+fois payer, qui est donnée à l&#39;église, elle est sujette
+à prescription ; mais les <i>fondations</i> qui consistent
+en prestations annuelles, sont imprescriptibles quant
+au fond ; la prescription ne peut avoir lieu que pour
+les arrérages antérieurs aux 29 dernieres années.
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28225" id="50:55" vol="7">
+<index type="head" value="FRANCOLIN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Ornit." />
+<index type="normclass" value="Histoire naturelle | Ornithologie" />
+<index type="englishclass" value="Natural history. Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>FRANCOLIN</head>
+<p>
+FRANCOLIN, s. m. <i>attagen</i>, (<i>Hist. nat. Ornit.</i>) oiseau 
+de la grosseur du faisan, auquel il ressemble beaucoup 
+par la forme du corps. Il a le bec court, noir
+&amp; crochu à l&#39;extremité. Son plumage est de différentes 
+couleurs. Il porte sur la tête une hupe jaune avec
+des taches blanches &amp; des taches noires. La prunelle
+des yeux est de couleur de noisette, &amp; l&#39;iris jaune.
+La membrane des sourcils est d&#39;une belle couleur
+rouge, comme dans la gelinotte. Il y a au-dessous
+du bec une sorte de barbe, composée de plumes très déliées.
+Le cou, quoiqu&#39;un peu long, est assez bien
+proportionné au corps ; il est mince &amp; de couleur
+cendrée, mêlée de taches noires &amp; de taches blanches.
+On voit sur la poitrine des taches de même couleur 
+que celles du cou, &amp; elles sont traversées par
+d&#39;autres taches de couleur de rouille. Les plumes du
+ventre, de la queue, du croupion &amp; des pattes, sont
+de couleur cendrée ou plombée, mêlée de taches
+noires. Les doigts de devant sont longs, &amp; celui de
+derriere est court ; ils ont tous à leur extrémité un
+ongle crochu. Les Italiens n&#39;ont nommé cet oiseau
+<i>francolin</i>, que parce qu&#39;il est franc dans ce pays,
+c&#39;est-à-dire qu&#39;il est défendu au peuple d&#39;en tuer : il
+n&#39;y a que les princes qui ayent cette prérogative.
+La chair du <i>francolin</i> est ties-bonne a manger. Willughby, <i>Ornith. Voyez</i> <sc><ref target="head:Oiseau" type="search">Oiseau</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

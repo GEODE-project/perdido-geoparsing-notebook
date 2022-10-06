@@ -1,0 +1,167 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28204" id="50:44" vol="7">
+<index type="head" value="FRANCFORT sur le Mein" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="s.m." />
+<head>FRANCFORT</head>
+<p>
+FRANCFORT <i>sur le Mein</i>, s. m. (<i>Géog.</i>) ville
+d&#39;Allemagne en Wétéravie, aux confins de la Franconie, entre la ville d&#39;Hanaw &amp; celle de Mayence.
+</p>
+<p>
+<i>Francfort</i> est partagé en deux par le Mein, que
+l&#39;on y passe sur un pont de pierre. La partie qui est
+sur le bord septentrional du fleuve, porte proprement
+le nom de <i>Francfort ;</i> on appelle l&#39;autre <i>Saxen-Hansen</i>, c&#39;est-à-dire <i>les maisons des Saxons</i>. Ces deux
+parties sont fortifiées avec des bastions à l&#39;antique,
+un fossé plein d&#39;eau, &amp; un chemin-couvert.
+</p>
+<p>
+Cette ville est la patrie de Charles le Chauve, roi
+de France : elle est riche, impériale, anséatique,
+peuplée, &amp; marchande ; on y tient deux foires chaque 
+année, l&#39;une au printems, &amp; l&#39;autre en automne,
+où entr&#39;autres marchandises, il se fait un grand
+commerce de livres.
+</p>
+<p>
+C&#39;est-là que les électeurs se rendent pour élire un
+empereur ou un roi des Romains, conformément eu
+non conformément à la bulle d&#39;or de l&#39;empereur
+Charles IV. dont l&#39;original se garde à la maison-de
+ville ; c&#39;est un parchemin <i>in-4°.</i> de quarante-trois
+feuilles, selon Wagenseil.
+</p>
+<p>
+<i>Francfort</i> est fameux par son concile de l&#39;an 794,
+un des plus célebres qui se soient tenus dans l&#39;occident : Charlemagne, en qualité d&#39;empereur, y exerça 
+la même autorité qu&#39;avoient autrefois les empereurs 
+d&#39;orient dans les conciles, depuis qu&#39;ils eurent
+embrassé le Christianisme. On rejetta dans ce concile 
+le second concile de Nicée, dans lequel on avoit
+<pb n="7:283" facs="V7/ENC_7-283.jpeg" />
+<milestone unit="column" n="1" />
+rétabli le culte des images. <i>Voyez</i> <sc><ref target="head:Iconoclastes" type="search">Iconoclastes</ref></sc>.
+</p>
+<p>
+<i>Francfort</i> embrassa la confession d&#39;Augsbourg l&#39;an
+1530; le magistrat, &amp; presque tout le peuple, sont
+de cette confession ; les Réformés, les Catholiques
+Romains, &amp; même les Juifs, y sont également bien
+reçûs, &amp; y habitent avec liberté, quoiqu&#39;ils n&#39;y
+ayent point d&#39;exercice public de leurs religions,
+mais on les tolere avec autant de sagesse que de profit.
+On est assez sage dans cette ville, pour ne s&#39;y
+occuper que du soin de faire fleurir le commerce,
+&amp; de maintenir les droits des citoyens.
+</p>
+<p>
+Le gouvernement y est entre les mains de quelques 
+familles, qu&#39;on appelle <i>patriciennes:</i> cependant
+le choix des personnes particulieres qui y doivent
+remplir les charges, est fait par le corps des métiers ;
+ce qui rend ce gouvernement aristo-démocratique.
+</p>
+<p>
+Le territoire de <i>Francfort</i> est un petit pays entre
+l&#39;archevêché de Mayence, le comte d&#39;Hanaw, &amp; le
+landgraviat de Hesse-Darmstadt : il a seulement quatre 
+milles de long &amp; autant de large ; &amp; il est partagé
+par le Mein en deux parties, dont la septentrionale
+est fort peuplée, tandis que l&#39;autre n&#39;est presque qu&#39;une 
+forêt.
+</p>
+<p>
+La ville de <i>Francfort</i>, le seul lieu considérable de
+son territoire, est à environ quatre milles d&#39;Allemagne à l&#39;Est de Mayence, à deux milles d&#39;Hanaw, &amp;
+à cinq d&#39;Asschaffenbourg. <i>Long. 26. 6. 36. latit. 49.
+55. o.</i> suivant les observations de Cassini. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

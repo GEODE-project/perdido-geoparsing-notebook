@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28234" id="50:63:1" vol="7">
+<index type="head" value="Frappe" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Fondeur de caracteres d&#39;Imprimerie." />
+<index type="normclass" value="Fonderie en caracteres d&#39;Imprimerie" />
+<index type="englishclass" value="Typemaking" />
+<index type="generatedclass" value="Fonderie en caracteres d&#39;Imprimerie" />
+<index type="pos" value="s.f." />
+<head>Frappe</head>
+<p>
+<sc>Frappe</sc>, s. f. (<i>Fondeur de caracteres d&#39;Imprimerie.</i>)
+est l&#39;assortiment complet de matrices pour fondre lesdits 
+caracteres. On dit une <i>frappe</i> de nompareille,
+lorsqu&#39;une boëte renferme toutes les matrices nécessaires 
+pour faire une fonte de nompareille, ainsi
+des autres.
+</p>
+<p>
+Un assortiment de <i>frappes</i> contenant les matrices
+nécessaires pour fondre tous les caracteres, est la richesse 
+&amp; le fonds d&#39;un Fondeur. C&#39;est en tirant l&#39;empreinte 
+de ces matrices avec un moule, qu&#39;il fond
+tous les caracteres nécessaires pour l&#39;impression ; on
+les appelle <i>frappes</i>, parce que les matrices reçoivent 
+la figure de la lettre par un poinçon sur lequel
+est gravée la lettre que l&#39;on veut former dans la matrice ; 
+ce qui se fait en frappant avec un marteau sur
+le poinçon qui s&#39;enfonce, &amp; laisse son empreinte
+dans le morceau de cuivre qui s&#39;appellera <i>matrice:</i>
+cette opération s&#39;appelle <i>frappe. Voyez</i> <sc><ref target="head:Poinçons" type="search">Poinçons</ref>,
+<ref target="head:Matrices" type="search">Matrices</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

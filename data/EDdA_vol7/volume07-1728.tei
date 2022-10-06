@@ -1,0 +1,246 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29182" id="52:29" vol="7">
+<index type="head" value="GASTRORAPHIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.f." />
+<head>GASTRORAPHIE</head>
+<p>
+GASTRORAPHIE, s. f. <i>terme de Chirurgie</i>, suture
+qu&#39;on fait pour réunir les plaies du bas-ventre qui
+pénetrent dans sa capacité. Ce mot est grec, <foreign lang="greek">γαστροραφία</foreign>, composé de <foreign lang="greek">γαστὴρ</foreign>, <i>ventre</i>, &amp; de <foreign lang="greek">ῥαφὴ</foreign>,
+<i>sutura</i>, couture.
+</p>
+<p>
+La réunion des plaies pénétrantes du bas-ventre
+n&#39;est praticable qu&#39;après qu&#39;on a fait la réduction
+des parties contenues, si elles étoient sorties. <i>Voyez</i>
+<sc><ref target="head:Plaies du Bas-ventre" type="search">Plaies du Bas-ventre</ref></sc>.
+</p>
+<p>
+On fait autant de points qu&#39;on le juge nécessaire,
+suivant l&#39;étendue de la plaie : il faut préparer pour chaque 
+point deux aiguilles courbes enfilées du même
+cordonnet, composé de plusieurs brins de fil ciré, unis
+&amp; applatis, ensorte qu&#39;ils forment un ruban d&#39;un
+pié &amp; demi ou de deux piés de long. Une aiguille
+sera placée au milieu de ce fil, &amp; les deux bouts seront 
+passés à-travers l&#39;oeil de l&#39;autre aiguille : c&#39;est
+celle-ci qu&#39;il faut tenir dans la main, &amp; c&#39;est avec
+elle qu&#39;il faut commencer chaque point.
+</p>
+<p>
+Pour pratiquer la <i>gastroraphie</i>, l&#39;opérateur met le
+doigt index de la main gauche dans la plaie sous la
+levre la plus éloignée de son corps. Ce doigt est contre 
+le péritoine, pour pincer &amp; soulever toutes les
+parties contenantes, conjointement avec le pouce,
+qui appuie extérieurement sur la peau. De l&#39;autre
+main on introduit une des aiguilles dans le ventre,
+en conduisant sa pointe sur le doigt index, pour éviter de piquer l&#39;épiploon ou les intestins. On perce
+de-dedans en-dehors le bord de la plaie, environ à
+un pouce de distance, plus ou moins selon l&#39;épaisseur 
+des parties, en poussant le talon de l&#39;aiguille
+avec les doigts de la main droite, pendant que le
+pouce de la main gauche qui appuie extérieurement,
+facilite le passage de la pointe. Dès qu&#39;elle est suffisamment 
+sortie, on acheve de la tirer avec la main
+droite, qui à cet effet abandonne le talon de l&#39;aiguille 
+pour en aller prendre la pointe. Sans ôter du
+ventre le doigt index de la main gauche, on le retourne 
+vers l&#39;autre levre de la plaie ; on prend de la
+main droite l&#39;aiguille qui contient l&#39;anse du fil ; on
+conduit cette aiguille le long du doigt index ; on
+perce du-dedans au-dehors, comme on a fait à l&#39;autre 
+levre, &amp; à pareille distance, à la faveur du pouce
+qui appuie extérieurement la peau contre la pointe
+de l&#39;aiguille. Lorsque le fil est passé à-travers les
+deux levres de la plaie, on ôte les aiguilles ; il faut
+couper l&#39;anse pour retirer celle qui a servi la derniere.
+</p>
+<p>
+On fait alors rapprocher les levres de la plaie par
+<pb n="7:522" facs="V7/ENC_7-522.jpeg" />
+<milestone unit="column" n="1" />
+un aide-chirurgien, &amp; on se dispose à noüer les fils.
+On ne doit point les arrêter à un des côtés de la
+plaie par un noeud simple soûtenu d&#39;une rosette, ce
+qui formeroit une suture entre-coupée ; parce l&#39;action 
+continuelle des muscles du bas-ventre pourroit
+causer le déchirement des parties comprises dans le
+trajet du fil, &amp; sur-tout dans la levre opposée au
+côté où se seroit fait le noeud, en réunissant les deux
+extrémités du cordonnet. On préfere de diviser en
+deux chaque bout du lien, pour mettre dans cet écartement un petit rouleau de tassetas ciré ou de toile
+gommée, qu&#39;on assujettit par un double noeud de
+chaque côté de la plaie (<i><ref target="XPL:5227" type="platelink">Planche XXXI</ref>. <ref target="XPL:5228" type="platelink">figure 2</ref>.</i>).
+On ne craint point que cette suture manque, parce
+que l&#39;action des muscles ne peut pas la fatiguer, l&#39;esfort 
+du fil portant entierement sur les chevilles de
+tassctas ou de toile gommée. Cette suture se nomme
+<i>enclievillée:</i> les anciens s&#39;en servoient ; mais au lieu
+de petits rouleaux flexibles que nous employons, ils
+avoiant des vraies chevilles de bois auxquelles on a
+substitué après des tuyaux de plume. On sent que
+ces corps pouvoient occasionner des contusions &amp;
+autres accidens par leur dureté &amp; le défaut de souplesse.
+</p>
+<p>
+Le pansement consiste dans l&#39;application des remedes 
+&amp; de l&#39;appareil : on met sur la plaie un plumaccau 
+trempé dans un baume vulnéraire ; on fait
+une embrocation sur tout le bas-ventre avec l&#39;huile
+rosat tiede. On a trois petites compresses de la longueur 
+de la plaie, aussi larges que la distance qu&#39;il y
+a entre les deux chevilles : deux doivent être un peu
+plus épaisses que les chevilles pour se mettre à chaque 
+côté extérieurement, &amp; la troisieme un peu
+moins épaisse pour mettre entre deux. On applique
+une ou deux compresses d&#39;un pié en quarré sur la
+plaie, &amp; une plus longue &amp; aussi large qu&#39;on nomme
+<i>ventriere ;</i> le tout soûtenu du bandage de corps &amp; du
+scapulaire. <i>Voyez</i> 
+<sc><ref target="head:Bandage de corps" type="search">Bandage de corps</ref> <i>&amp;</i> <ref target="head:Scapulaire" type="search">Scapulaire</ref></sc>
+</p>
+<p>
+La cure demande des attentions différentes, suivant 
+les diverses complications de la plaie. <i>Voyez</i>
+<sc><ref target="head:Plaies du Bas-ventre" type="search">Plaies du Bas-ventre</ref></sc>.
+</p>
+<p>
+S&#39;il est permis au malade d&#39;être dans la situation
+qui lui paroîtra la plus commode, &amp; qu&#39;il ait à se retourner 
+dans le lit, il est bon qu&#39;il ne s&#39;aide en aucune 
+maniere, &amp; qu&#39;il se laisse remuer par des gens
+assez forts &amp; adroits. Lorsque la réunion est faite,
+on ôte les points de suture en coupant avec des ciseaux 
+les fils qui embrassent une des chevilles ; &amp; on
+retire l&#39;anse soûtenue par la cheville opposée. Il se
+forme quelquefois une hernie ventrale à la suite de
+ces plaies pénétrantes, parce que les parties contenantes 
+ne sont point capables d&#39;une aussi grande résistance 
+dans cet endroit qu&#39;ailleurs, à raison du péritoine,
+qui ne se cicatrise point avec lui-même ;
+chaque levre de sa plaie contractant adhérence avec
+les parties musculeuses les plus voisines.
+</p>
+<p>
+On fait ordinairement la <i>gastroraphie</i> à la suite de
+l&#39;opération césarienne. <i>Voyez</i> <sc><ref target="head:Césarienne" type="search">Césarienne</ref></sc>.
+</p>
+<p>
+On convient en général que les sutures sont des
+moyens violens, auxquels on ne doit avoir recours
+que dans les cas où il ne seroit pas possible de maintenir 
+les levres de la plaie rapprochées par la situation 
+&amp; à l&#39;aide d&#39;un bandage méthodique. M. Pibrac
+croit ces circonstances extrèmement rares : il est entré 
+dans un grand détail sur cette matiere, dans un
+excellent mémoire sur l&#39;abus des sutures, inseré dans
+le troisieme volume de l&#39;académie royale de Chirurgie. Nous en parlerons plus amplement <i>au mot</i> <sc><ref target="head:Suture" type="search">Suture</ref></sc> Il rapporte sur les plaies du bas-ventre deux
+observations intéressantes de guérison obtenue par
+un appareil &amp; un bandage méthodiques. Les auteurs
+qui ont parlé de l&#39;opération césarienne, disent que
+la suture a été pratiquée. On voit par le détail de
+<milestone unit="column" n="2" />
+leurs observations, que les points ont manqué; on a
+été obligé de se contenter du bandage, &amp; les malades 
+sont gueris. Ces raisons ne nous avoient point
+échappé en composant <i>l&#39;article</i> <sc><ref target="head:Césarienne" type="search">Césarienne</ref></sc>, &amp; nous
+y avions déjà proscrit la suture. Il y a cependant peu
+de plaies au bas-ventre d&#39;une plus grande étendue,
+si l&#39;on en excepte une éventration telle que j&#39;en ai
+vû une par un coup de corne de taureau, qui ouvrit
+presqu&#39;entierement le ventre d&#39;une femme. Dans un
+cas de cette nature, il seroit bien à-propos de faire
+quelques points de suture ; &amp; cela suffit pour justifier 
+le détail dans lequel je suis entré sur l&#39;opération
+de la <i>gastroraphie</i>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

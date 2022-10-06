@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29754" vol="7">
+<index type="head" value="Tours de Gobelets" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art d&#39;escamotage." />
+<index type="normclass" value="Art d&#39;escamotage" />
+<index type="englishclass" value="Sleight of hand" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Tours de Gobelets</head>
+<p>
+<i>Tours de</i> <sc>Gobelets</sc>, (<i>Art d&#39;escamotage.</i>) On appelle 
+ainsi des especes de tours de gibeciere, qui consistent 
+en une douzaine de passes qu&#39;on exécute avec
+des balles &amp; des <i>gobelets</i> faits exprès. M. Ozanam
+s&#39;est amusé dans ses <i>récréations mathematiques</i>, à expliquer 
+toutes ces sortes de jeux de main.
+</p>
+<p>
+Les <i>gobelets</i> dont on se sert ordinairement pour les
+exécuter, sont de fer-blanc ; il est bon qu&#39;ils ayent
+deux pouces &amp; sept lignes de hauteur, deux pouces
+&amp; demi de largeur par l&#39;ouverture, &amp; un pouce
+deux lignes par le fond. Le fond doit être en forme
+de calotte renversée, &amp; avoir trois lignes &amp; demie
+de profondeur : il y aura deux cordons, l&#39;un fixé dans
+le bas, pour rendre les <i>gobelets</i> plus forts, &amp; l&#39;autre
+à trois lignes du bas, pour empêcher que les <i>gobelets</i>
+ne tiennent ensemble quand on les met l&#39;un dans
+l&#39;autre. Au reste, les dimensions ici proposées pour
+le <i>gobelet</i> ne sont pas absolument nécessaires ; il suffit 
+d&#39;observer que ceux dont on joue ne sorent pas
+trop grands ; que le fond n&#39;en soit pas trop petit, &amp;
+qu&#39;ils ne tiennent pas fermement l&#39;un dans l&#39;autre.
+</p>
+<p>
+On fait les balles à escamoter de liége ; &amp; on leur
+donne la grosseur d&#39;une noisette ; ensuite on les brûle
+à la chandelle ; &amp; quand elles sont rouges, on les
+tourne dans les mains, pour les rendre bien rondes.
+</p>
+<p>
+Personne n&#39;ignore que la principale difficulté du
+jeu des <i>gobelets</i> ne consiste que dans l&#39;escamotage,
+&amp; que ce petit art demande de l&#39;exercice joint à quelque 
+méthode : il faut, par exemple, pour bien escamoter,
+prendre la balle avec le milieu du pouce &amp;
+le bout du premier doigt, &amp; la faire rouler avec le
+pouce entre le second &amp; le troisieme doigt, où l&#39;on
+tient la balle en serrant les deux doigts &amp; en ouvrant
+la main ; tenir les doigts les plus étendus que l&#39;on
+peut, afin de faire paroitre qu&#39;on n&#39;a rien dans les
+mains. Lorsqu&#39;on veut mettre sous un <i>gobelet</i> la
+balle que l&#39;on a escamotée, on la fait sortir d&#39;entre
+les deux premiers doigts, en la poussant avec le second 
+doigt dans le troisieme ; on leve le gobelet en
+l&#39;air, &amp; en le rabaissant vîte, on met la balle dedans.
+</p>
+<p>
+Le joüeur de <i>gobelets</i> doit se placer derriere la table 
+pour joüer, &amp; ceux qui regardent doivent être
+devant du côté des balles que le joüeur tient dans sa
+gibeciere. <i>Voyez</i> <sc><ref target="head:Gibeciere" type="search">Gibeciere</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

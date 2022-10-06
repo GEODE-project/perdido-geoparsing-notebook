@@ -1,0 +1,193 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29387" id="52:161:1" vol="7">
+<index type="head" value="Gens de Lettres" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Philosophie &amp; Littérat." />
+<index type="normclass" value="Philosophie | Littérature" />
+<index type="englishclass" value="Philosophy | Literature" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="NA" />
+<head>Gens de Lettres</head>
+<p>
+<sc>Gens de Lettres</sc>, (<i>Philosophie &amp; Littérat.</i>) ce
+mot répond précisément à celui de <i>grammairiens:</i> chez
+les Grecs &amp; les Romains : on entendoit par <i>grammairien</i>, non-seulement un homme versé dans la Grammaire proprement dite, qui est la base de toutes les
+connoissances, mais un homme qui n&#39;étoit pas étranger dans la Géométrie, dans la Philosophie, dans
+l&#39;Histoire générale &amp; particuliere ; qui sur-tout faisoit 
+son étude de la Poésie &amp; de l&#39;Eloquence : c&#39;est
+ce que sont nos <i>gens de lettres</i> aujourd&#39;hui. On ne
+donne point ce nom à un homme qui avec peu de
+connoissances ne cultive qu&#39;un seul genre. Celui qui
+n&#39;ayant lû que des romans ne fera que des romans ;
+celui qui sans aucune littérature aura composé au hasard 
+quelques pieces de théatre, qui dépourvû de
+science aura fait quelques sermons, ne sera pas compté 
+parmi les <i>gens de lettres</i>. Ce titre a de nos jours encore 
+plus d&#39;étendue que le mot <i>grammairien</i> n&#39;en avoit
+chez les Grecs &amp; chez les Latins. Les Grecs se contentoient 
+de leur langue ; les Romains n&#39;apprenoient
+que le grec : aujourd&#39;hui l&#39;<i>homme de lettres</i> ajoûte souvent 
+à l&#39;étude du grec &amp; du latin celle de l&#39;italien,
+de l&#39;espagnol, &amp; sur-tout de l&#39;anglois. La carriere de
+l&#39;Histoire est cent fois plus immense qu&#39;elle ne l&#39;étoit
+pour les anciens ; &amp; l&#39;Histoire naturelle s&#39;est accrûe
+à proportion de celle des peuples : on n&#39;exige pas
+qu&#39;un <i>homme de lettres</i> approfondisse toutes ces matieres ; 
+la science universelle n&#39;est plus à la portée de
+l&#39;homme : mais les véritables <i>gens de lettres</i> se mettent
+en état de porter leurs pas dans ces différens terreins,
+s&#39;ils ne peuvent les cultiver tous.
+</p>
+<p>
+Autrefois dans le seizieme siecle, &amp; bien avant
+dans le dix-septieme, les littérateurs s&#39;occupoient
+beaucoup de la critique grammaticale des auteurs
+grecs &amp; latins ; &amp; c&#39;est à leurs travaux que nous devons 
+les dictionnaires, les éditions correctes, les
+commentaires des chefs-d&#39;oeuvres de l&#39;antiquité; aujourd&#39;hui cette critique est moins nécessaire, &amp; l&#39;esprit 
+philosophique lui a succédé. C&#39;est cet esprit philosophique 
+qui semble constituer le caractere de
+<i>gens de lettres ;</i> &amp; quand il se joint au bon goût, il
+forme un littérateur accompli.
+</p>
+<p>
+C&#39;est un des grands avantages de notre siecle, que
+ce nombre d&#39;hommes instruits qui passent des épines
+des Mathématiques aux fleurs de la Poésie, &amp; qui jugent 
+egalement bien d&#39;un livre de Métaphysique &amp;
+d&#39;une piece de théatre : l&#39;esprit du siecle les a rendus
+pour la plûpart aussi propres pour le monde que pour
+le cabinet ; &amp; c&#39;est en quoi ils sont fort supérieurs à
+ceux des siecles précédens. Ils furent écartés de la société 
+jusqu&#39;au tems de Balzac &amp; de Voiture ; ils en
+ont fait depuis une partie devenue nécessaire. Cette
+<pb n="7:600" facs="V7/ENC_7-600.jpeg" />
+<milestone unit="column" n="1" />
+raison approfondie &amp; épurée que plusieurs ont répandue 
+dans leurs écrits &amp; dans leurs conversations, a
+contribué beaucoup à instruire &amp; à polir la nation:
+leur critique ne s&#39;est plus consumée sur des mots grecs
+&amp; latins ; mais appuyée d&#39;une saine philosophie, elle a
+détruit tous les préjugés dont la société étoit infectée ; 
+prédictions des astrologues, divinations des magiciens,
+sortiléges de toute espece, faux prodiges,
+faux merveilleux, usages superstitieux ; elle a relegué 
+dans les écoles mille disputes puériles qui étoient
+autrefois dangereuses &amp; qu&#39;ils ont rendues méprisables : par-là ils ont en effet servi l&#39;état. On est quelquefois 
+étonné que ce qui boulversoit autrefois le
+monde, ne le trouble plus aujourd&#39;hui ; c&#39;est aux véritables 
+<i>gens de lettres</i> qu&#39;on en est redevable.
+</p>
+<p>
+Ils ont d&#39;ordinaire plus d&#39;indépendance dans l&#39;esprit 
+que les autres hommes ; &amp; ceux qui sont nés sans
+fortune trouvent aisément dans les fondations de
+Louis XIV. de quoi affermir en eux cette indépendance : on ne voit point, comme autrefois, de ces
+épîtres dédicatoires que l&#39;intérêt &amp; la bassesse offroient 
+à la vanité. <i>Voyez</i> <sc><ref target="head:Epitre" type="search">Epitre</ref></sc>.
+</p>
+<p>
+Un <i>homme de lettres</i> n&#39;est pas ce qu&#39;on appelle <i>un
+bel esprit:</i> le bel esprit seul suppose moins de culture,
+moins d&#39;étude, &amp; n&#39;exige nulle philosophie ; il
+consiste principalement dans l&#39;imagination brillante,
+dans les agrémens de la conversation, aidés d&#39;une
+lecture commune. Un bel esprit peut aisément ne
+point mériter le titre d&#39;<i>homme de lettres ;</i> &amp; l&#39;<i>homme
+de lettres</i> peut ne point prétendre au brillant du bel
+esprit.
+</p>
+<p>
+Il y a beaucoup de <i>gens de lettres</i> qui ne sont point
+auteurs, &amp; ce sont probablement les plus heureux ;
+ils sont à l&#39;abri des dégoûts que la profession d&#39;auteur
+entraîne quelquefois, des querelles que la rivalité
+fait naître, des animosités de parti, &amp; des faux jugemens ; 
+ils sont plus unis entre eux ; ils joüissent plus
+de la société; ils sont juges, &amp; les autres sont jugés.
+<i>Article de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

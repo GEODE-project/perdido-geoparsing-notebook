@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29417" id="52:169:1" vol="7">
+<index type="head" value="Génuflexion" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Génuflexion</head>
+<p>
+<sc>Génuflexion</sc>, (<i>Hisl. mod.</i>) marque extérieure
+de respect, de soûmission, de dépendance d&#39;un homme 
+à un autre homme.
+</p>
+<p>
+L&#39;usage de la <i>génuflexion</i> passa de l&#39;Orient dans
+l&#39;Occident, introduit par Constantin, &amp; précédemment 
+par Dioclétien ; il arriva de-là que plusieurs
+rois, à l&#39;exemple de l&#39;empereur d&#39;Occident, exigerent<gap type="hyphenpb" />
+<pb n="7:606" facs="V7/ENC_7-606.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;on fléchît les genoux en leur parlant, ou en
+les servant. Les députés des communes prirent la
+coûtume de parler à genoux au roi de France, &amp;
+les vestiges en subsistent toûjours. Les ducs de Bourgogne tâcherent aussi dans leurs états de conserver
+l&#39;étiquete des chefs de leur maison. Les autres souverains 
+suivirent le même exemple. En un mot, un
+vassal se vit obligé de faire son hommage à son seigneur 
+les deux genoux en terre. Tout cela, comme
+dit très-bien M. de Voltaire, n&#39;est autre chose que
+l&#39;histoire de la vanité humaine ; &amp; cette histoire ne
+mérite pas que nous nous y arrêtions plus long-tems.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

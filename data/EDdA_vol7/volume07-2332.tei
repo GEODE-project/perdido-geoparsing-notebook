@@ -1,0 +1,163 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29786" id="53:227" vol="7">
+<index type="head" value="GOILAND" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ornithol." />
+<index type="normclass" value="Ornithologie" />
+<index type="englishclass" value="Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GOILAND</head>
+<p>
+GOILAND, s. m. (<i>Ornithol.</i>) en latin <i>larus ;</i>
+genre d&#39;oiseau maritime qu&#39;on peut ainsi caractériser
+suivant M. Ray. Ils sont tous, à l&#39;exception d&#39;un
+petit nombre, à piés plats, joints par une membrane 
+telle que dans les oies ; leur bec est droit, étroit,
+un peu crochu à l&#39;extrémité; leurs narines sont oblongues,
+leurs ailes grandes &amp; fortes, leurs jambes
+basses, &amp; leurs piés petits : leur corps est très-leger, couvert d&#39;un épais plumage ; ils planent dans
+l&#39;air avec fracas, jettent de grands cris en volant,
+&amp; vivent principalement de poisson.
+</p>
+<p>
+On compte deux genres subordonnés dans la classe 
+générale de ces sortes d&#39;oiseaux : les premiers
+d&#39;une grande taille ont la queue unie, &amp; le bec bossu
+dans la partie du bas ; les autres ont la queue fourchue,
+&amp; n&#39;ont point de bosse à la partie inférieure
+du bec.
+</p>
+<p>
+Ces oiseaux chassent sur terre &amp; sur mer ; on en
+trouve sur les bords de l&#39;Océan, &amp; de très-beaux
+dans les mers du Pérou &amp; du Chily ; tel est celui des
+côtes de ce dernier royaume décrit par le P. Feuillée,
+&amp; qu&#39;il appelle <i>larus</i>, <foreign lang="greek">λευκορέκονος</foreign>, <i>à courte queue</i>.
+</p>
+<p>
+Ce <i>goiland</i> étoit de la grosseur d&#39;une de nos poules ; 
+son bec étoit jaune, long d&#39;environ deux pouces,
+dur &amp; pointu, ayant la partie supérieure recourbée 
+à la pointe, &amp; la partie inférieure relevée
+en bosse. Le couronnement, la tête &amp; le parement
+étoient d&#39;un beau blanc de lait ; &amp; cette même couleur 
+descendant sous le ventre, s&#39;étendoit jusqu&#39;à
+<milestone unit="column" n="2" />
+l&#39;extrémité de la queue. Tout son vol ainsi que son
+manteau, étoit d&#39;un minime obscur &amp; luisant, mais
+l&#39;extrémité des pennes étoit blanche ; il avoit les piés
+jaunâtres, hauts de deux à trois pouces, &amp; les serres
+jointes par des cartilages de la même couleur.
+</p>
+<p>
+Ces sortes d&#39;oiseaux nichent sur la roche, &amp; ne
+pondent que deux oeufs un peu plus gros que ceux
+de nos perdrix, teints d&#39;un blanc sale, couverts de
+taches d&#39;un rouge de sang pourri, les unes plus claires 
+que les autres. Leur langue de deux pouces de
+long, est faite en forme de feuille de saule, fendue
+à l&#39;extremité, terminée par deux pointes fort aigues ;
+la partie inférieure en est plate, &amp; la partie supérieure 
+cannelée en long par le milieu.
+</p>
+<p>
+Il y a d&#39;autres <i>goilands</i> de ces pays-là dont la partie 
+inférieure du bec est toute droite ; on en voit
+de tout noirs, de la grosseur de nos pigeons, &amp; dont
+la queue est fourchue comme celle des hirondelles ;
+d&#39;autres sont cendrés à queue non fourchue : enfin
+l&#39;on en voit de très-petits dont le corps est mi-parti
+de differentes couleurs, ayant le parement d&#39;un blanc
+de lait mêlé de couleur de rose, le manteau &amp; les cuisses 
+cendrées, les deux grandes pennes noires, les
+jambes &amp; les piés couleur de feu, &amp; armés de petits 
+ongles noirs. Tout cela prouve que la classe des
+<i>goilands</i> est fort étendue, &amp; qu&#39;elle souffre plusieurs
+subdivisions que nous ne pouvons encore que faire
+très-imparfaitement. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

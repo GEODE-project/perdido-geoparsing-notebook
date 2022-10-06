@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28244" id="50:65:6" vol="7">
+<index type="head" value="Frapper" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Rubanier." />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Rubanier" />
+<index type="pos" value="NA" />
+<head>Frapper</head>
+<p>
+<sc>* Frapper</sc>, (<i>Rubanier.</i>) c&#39;est approcher &amp; serrer 
+par l&#39;action du battant le coup de navette qui
+vient d&#39;être lance, ce qui forme la liaison de la trame 
+avec la chaine ; il faut que l&#39;ouvrier ait soin de
+ne lâcher le pas qu&#39;après qu&#39;il a <i>frappé</i>. Cette précaution 
+est si nécessaire pour la perfection de l&#39;ouvrage,
+que les connoisseurs s&#39;apperçoivent lorsqu&#39;elle
+a été négligée.
+</p>
+<p>
+L&#39;ouvrage pour avoir la perfection ou la fermeté
+qui lui est essentielle, a besoin quelquefois d&#39;être
+<i>frappé</i> avec plus de force ; voici comme la chose s&#39;exécute : pour <i>frapper</i> fort, il ne s&#39;agit que de descendre 
+la corde du bandage plus bas sur les aspes
+du battant, ce qui en augmente le poids, puisque
+le point d&#39;appui de cette corde se trouvant plus près
+de l&#39;ouvrage, &amp; racourcissant par-là la partie du
+battant, la force du tirage doit en augmenter ; on
+peut encore charger le battant en entortillant la corde 
+plusieurs fois à l&#39;entour du bandoire, ce qui produit 
+le même effet. Le <i>frappé</i> dépend encore de l&#39;habileté 
+des ouvriers, puisqu&#39;on en trouve qui (montant sur les mêmes metiers où d&#39;autres travailloient)
+sout obliges de decharger le battant, qui malgré ce
+soulagement, ne laissent pas de faire paroître leur
+ouvrage plus <i>frappé</i> que celui des autres ; il n&#39;est
+donc pas toûjours nécessaire que le battant soit fort
+charge pour <i>frapper</i> suffisamment ; l&#39;ouvrage même
+se fait toûjours plus beau étant <i>frappé</i> à-propos à
+coups legers, que lorsqu&#39;il est assommé par la force
+du battant ; plus on trame fin, plus il faut <i>frapper</i>
+fort. <i>Voyez</i> <sc><ref target="head:Tramer" type="search">Tramer</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

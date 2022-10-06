@@ -1,0 +1,167 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29908" id="53:307" vol="7">
+<index type="head" value="GOUACHE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Peinture." />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="s.f." />
+<head>GOUACHE</head>
+<p>
+GOUACHE, s. f. (<i>Peinture.</i>) <i>peindre à goüache ;</i>
+la maniere de peindre qu&#39;on distingue par ce nom
+est une des plus anciennes de celles que nous connoissons,
+si ce n&#39;est pas celle qu&#39;on doit regarder
+comme ayant précédé toutes les autres. L&#39;eau est
+sans doute le moyen le plus facile de donner à des
+matieres colorées, mises en poudre, la fluidité nécessaire 
+pour pouvoir les étendre sur des surfaces,
+&amp; les y incorporer. Les premieres couleurs ont été
+vraissemblablement des terres &amp; des pierres broyées,
+qu&#39;on a rendu liquides par le moyen de l&#39;eau ; mais
+comme l&#39;usage a fait voir que lorsque l&#39;humidité de
+ces couleurs étoit totalement dissipée, elles n&#39;étoient
+plus retenues, &amp; qu&#39;elles quittoient trop aisément
+les corps sur lesquels on les avoit employées, on a
+cherché à leur donner plus de consistance par des
+<pb n="7:750" facs="V7/ENC_7-750.jpeg" />
+<milestone unit="column" n="1" />
+mélanges de matieres visqueuses ; alors les gommes
+que certains arbres fournissent abondamment, &amp;
+qui par leur transparence ne peuvent altérer les
+nuances des couleurs, se sont offertes naturellement
+pour cet usage.
+</p>
+<p>
+La <i>goüache</i> n&#39;est autre chose que cet apprêt simple 
+des couleurs broyées, délayées dans de l&#39;eau,
+que l&#39;on charge plus ou moins d&#39;une dissolution de
+gomme. On employe les couleurs ainsi préparées
+sur toutes sortes de corps principalement sur la toile,
+le vélin, le papier, l&#39;yvoire, <i>&amp;c.</i> On se sert communément 
+de la gomme arabique, que l&#39;on fait fondre 
+dans l&#39;eau commune, comme on fait pour peindre 
+en miniature ; &amp; après avoir proportionné le
+mélange de la gomme avec les différentes couleurs,
+on couche ces couleurs en les empâtant, &amp; en leur
+donnant du corps, ce qui n&#39;a lieu, ni dans le <i>lavis</i>,
+comme je le dirai, ni dans la <i>miniature</i>. Il est des
+couleurs qui demandent à être plus gommées les
+unes que les autres ; l&#39;expérience donnera des regles 
+à cet égard ; &amp; les inconvéniens qu&#39;il faut éviter serviront à les établir. Ces inconvéniens sont
+que les couleurs qui ne sont point assez gommées,
+se dissipent lorsqu&#39;elles sont seches, &amp; qu&#39;elles s&#39;évaporent.
+Elles s&#39;écaillent, se fendent, &amp; se détachent 
+par morceaux lorsqu&#39;elles sont trop gommées:
+des essais faciles à faire instruiront mieux que tout
+ce qu&#39;on pourroit dire à ce sujet. La <i>goüache</i> est très-propre 
+à peindre le paysage d&#39;après nature ; elle sert
+aussi à faire des esquisses colorées pour de grandes
+compositions, <i>&amp;c.</i> Cette maniere est prompte &amp;
+expéditive, elle a de l&#39;éclat ; mais on doit sur-tout
+éviter, en la mettant en usage, une sécheresse qui
+dans cette espece de travail, doit provenir de la
+promptitude avec laquelle les couleurs se sechent.
+L&#39;artiste qui n&#39;a pas toûjours le tems nécessaire pour
+dégrader ses teintes, pour fondre ses nuances, &amp;
+pour accorder son ouvrage, laisse échapper des touches 
+dures, &amp; des passages de tons trop marqués.
+La miniature dans l&#39;usage de laquelle on cherche à
+éviter cet inconvénient, en pointillant, comme je
+le dirai, tombe assez souvent dans un défaut contraire ; 
+&amp; il est aussi commun de voir des <i>goüaches</i>
+trop dures, que des miniatures dont la maniere est
+trop molle. <i>Voyez</i> <sc><ref target="head:Lavis" type="search">Lavis</ref>, <ref target="head:Miniature" type="search">Miniature</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+<lg>
+<i>Est modus in rebus, sunt certi denique fines,
+Quos ultra citraque nequit consistere rectum</i>.
+</lg>
+<i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

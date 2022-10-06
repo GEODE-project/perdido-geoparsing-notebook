@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27811" id="49:62:7" vol="7">
+<index type="head" value="Fort" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="parmi les Commerçans" />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="NA" />
+<head>Fort</head>
+<p>
+<sc>Fort</sc>, <i>parmi les Commerçans</i>, &amp; sur-tout à Paris, signifie un <i>porte-faix</i>, un <i>crocheteur</i>, un <i>gagne denier</i> qui travaille à la décharge ou au transport des
+marchandises.
+</p>
+<p>
+Les principaux lieux de Paris où il y a des <i>forts</i>
+établis, sont la douane, la halle aux draps, la halle
+aux toiles, le port Saint-Paul, &amp; le port Saint-Nicolas.
+</p>
+<p>
+Les <i>forts</i> de la douane dépendent des fermiers-généraux:
+ceux de la halle aux draps sont préposés par
+les maîtres &amp; gardes-drapiers &amp; merciers : ceux de la
+halle aux toiles sont placés par les officiers de cette
+halle ; &amp; ceux des ports sont autorisés par les prevôt
+des marchands &amp; échevins.
+</p>
+<p>
+Dans chacun de ces endroits, il n&#39;y a qu&#39;un certain 
+nombre de <i>forts</i> reglé, n&#39;étant pas permis à d&#39;autres 
+personnes de la ville d&#39;y venir travailler à leur
+préjudice. <i>Voyez</i> <sc><ref target="head:Gagne - denier" type="search">Gagne-denier</ref></sc>. <i>Dictionnaire de
+Commerce</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

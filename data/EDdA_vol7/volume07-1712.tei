@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29166" id="52:13" vol="7">
+<index type="head" value="GASCOGNE, (la) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GASCOGNE</head>
+<p>
+GASCOGNE, (<sc>la</sc>) <i>Vasconia</i>, (<i>Géog.</i>) grande
+province de France qui fait une partie du gouvernement 
+général de la Guienne ; elle est entre la Garonne, l&#39;Océan, &amp; les Pyrénées : les Géographes l&#39;étendent 
+plus ou moins &amp; la divisent en haute &amp;
+basse, ou en <i>Gascogne</i> proprement dite, &amp; <i>Gascogne</i>
+improprement dite. La <i>Gascogne</i> proprement dite
+comprend, suivant plusieurs auteurs, les Landes, la
+Chalosse, le Tursan, le Mursan, &amp; le pays d&#39;Albret:
+la <i>Gascogne</i> improprement dite ajoûte à ces pays le
+Basque, le Béarn, la Bigorre, le Comminges, l&#39;Armagnac, le Condommois, le Bazadois, &amp; le Bourdelois. On comprend aussi quelquefois sous le nom
+de <i>Gascogne</i>, le Languedoc &amp; la Guienne entiere.
+</p>
+<p>
+La <i>Gascogne</i> a pris ce nom des <i>Gascons</i> ou <i>Vascons</i>,
+peuples de l&#39;Espagne tarragonoise, qui s&#39;en emparerent ; 
+ils descendirent sous les petit-fils de Clovis,
+sur la fin du sixieme siecle, des montagnes qu&#39;ils habitoient 
+dans le voisinage des Pyrénées, se rendirent
+maîtres de la Novempopulanie, &amp; s&#39;y établirent
+sous un duc de leur nation. Théodebert &amp; Thierri les
+attaquerent en 602, &amp; les vainquirent ; mais ils se
+révolterent ensuite plusieurs fois, &amp; ne céderent
+qu&#39;à Charlemagne. <i>Voyez</i> les détails dans l&#39;abbé de
+Longuerue, <i>descript. de la France ;</i> dans Hadrien de
+Valois, <i>notit. Gallioe ;</i> &amp; dans M. de Marca, <i>hist. de
+Béarn</i>.
+</p>
+<p>
+Grégoire de Tours est le premier écrivain dans lequel 
+on trouve le nom de <i>Gascogne</i>. Ces peuples ont
+apporté d&#39;Espagne l&#39;habitude qu&#39;ils ont encore de
+confondre l&#39;<i>V</i> &amp; le <i>B ;</i> &amp; c&#39;est ce qui a donné lieu
+à la plaisanterie de Scaliger : <i>felices populi, quibus bibere 
+est vivere</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

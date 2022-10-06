@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28902" id="51:176" vol="7">
+<index type="head" value="GALON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Rubannier." />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Rubanier" />
+<index type="pos" value="s.m." />
+<head>GALON</head>
+<p>
+GALON, s. m. (<i>Rubannier.</i>) tissu étroit qui se
+fabrique avec l&#39;or, l&#39;argent, la soie, &amp; quelquefois
+avec le fil seul.
+</p>
+<p>
+Les <i>galons</i> d&#39;or &amp; d&#39;argent servent aux habillemens 
+des personnes riches : on s&#39;en sert aussi pour
+orner les ornemens d&#39;église &amp; les meubles somptueux.
+</p>
+<p>
+Les <i>galons</i> d&#39;or &amp; d&#39;argent, qui ne servent qu&#39;aux
+habillemens, aux ornemens d&#39;église, &amp; des meubles,
+se nomment <i>bords</i> ou <i>bordés:</i> les Chapeliers appellent
+<i>bords</i> les <i>galons</i> qu&#39;ils mettent sur les chapeaux.
+</p>
+<p>
+Les <i>galons</i> de soie se sont à Lyon ; il y en a de
+deux largeurs différentes, distinguées par le n°.
+2 &amp; le n°. 3. le n°. 2 porte sept lignes de largeur,
+&amp; le n°. 3 en a 9; les pieces des uns &amp; des autres
+sont de 60 aunes, qui se partagent en deux demi-pieces 
+de 30 aunes.
+</p>
+<p>
+Le <i>galon</i> de laine est une espece de ruban large
+qui doit avoir 36 fils de chaîne, &amp; dont la piece doit
+contenir 36 aunes : ce <i>galon</i> se fait à Amiens par des
+ouvriers qu&#39;on appelle <i>Passementiers</i>.
+</p>
+<p>
+Les <i>galons</i> de livrée sont des tissus veloutés de
+laine ou de soie de diverses couleurs &amp; façons dont
+on orne les habits des domestiques, pour faire connoître 
+la qualité &amp; la maison des maitres.
+</p>
+<p>
+Ce sont les Tissutiers-Rubaniers qui fabriquent toutes 
+sortes de <i>galons</i> de livrée, &amp; qui les vendent aux
+maîtres qui les ont commandés. <i>Voyez</i> <sc><ref target="head:Rubannier" type="search">Rubannier</ref></sc>.
+</p>
+<p>
+Le mot <i>galon</i> vient des pieces que l&#39;on met aux
+habits, pour en couvrir les trous ou les taches : ainsi
+les <i>galons</i> sont devenus l&#39;ornement &amp; la parure des
+riches, après avoir été un des signes de la pauvrete.
+</p>
+<p>
+Nous ne nous étendons pas davantage ici sur la
+fabrique des <i>galons</i>. On en saura suffisamment, lorsqu&#39;on aura lu ce que nous avons à dire de la toile,
+de la gaze, du ruban, &amp; des autres étoffes figurées.
+<i>Voyez ces articles</i>. Le <i>galon</i> n&#39;est qu&#39;une exécution
+de ces ouvrages en petit. <i>Voyez aussi nos <ref target="XPL:5217" type="platelink">Planches,
+&amp; leur explication ;</ref></i> vous y verrez le métier à <i>galon</i>,
+&amp; les autres instrumens propres au Galonnier.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

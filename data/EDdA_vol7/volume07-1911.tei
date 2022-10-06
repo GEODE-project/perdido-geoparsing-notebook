@@ -1,0 +1,570 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29365" id="52:156" vol="7">
+<index type="head" value="GENITIF" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GENITIF</head>
+<p>
+GENITIF, s. m. c&#39;est le second cas dans les langues <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+qui en ont reçu : son usage universel est de présenter 
+le nom comme terme d&#39;un rapport quelconque,
+qui détermine la signification vague d&#39;un nom
+appellatif auquel il est subordonné.
+</p>
+<p>
+Ainsi dans <i>lumen solis</i>, le nom <i>solis</i> exprime deux
+idées ; l&#39;une principale, désignée sur-tout par les premiers 
+élemens du mot, <i>sol</i>, &amp; l&#39;autre accessoire, indiquée 
+par la terminaison <i>is:</i> cette terminaison présente 
+ici <i>le soleil</i> comme le terme auquel on rapporte 
+le nom appellatif <i>lumen</i> (la lumiere), pour en déterminer 
+la signification trop vague par la relation
+de la lumiere particuliere dont on prétend parler,
+au corps individuel d&#39;où elle émane ; c&#39;est ici un
+détermination fondée sur le rapport de l&#39;effet à la
+cause.
+</p>
+<p>
+La détermination produite par le <i>génitif</i> peut être
+fondée sur une infinité de rapports différens. Tantôt
+c&#39;est le rapport d&#39;une qualité à son sujet, <i>fortitudo
+regis ;</i> tantôt du sujet à la qualité, <i>puer egregiae indolis:</i> quelquefois c&#39;est le rapport de la forme à la matiere,
+<i>vas auri ;</i> d&#39;autre fois de la matiere à la forme,
+<i>aurum vasis</i>. Ici c&#39;est le rapport de la cause à
+l&#39;effet, <i>creator mundi ;</i> là de l&#39;effet à la cause, <i>Ciceronis opera</i>. Ailleurs c&#39;est le rapport de la partie au
+tout, <i>pes montis ;</i> de l&#39;espece à l&#39;individu, <i>oppidum
+Antiochioe ;</i> du contenant au contenu, <i>modius frumenti ;</i> de la chose possédée au possesseur, <i>bona civium ;</i> de l&#39;action à l&#39;objet, <i>metus supplicii</i>, &amp;c. Partout le nom qui est au <i>génitif</i> exprime le terme du
+rapport ; le nom auquel il est associé en exprime
+l&#39;antécédent ; &amp; la terminaison propre du <i>génitif</i> annonce 
+que ce rapport qu&#39;elle indique est une idée
+déterminative de la signification du nom antécédent.
+<i>Voyez</i> <sc><ref target="head:Rapport" type="search">Rapport</ref></sc>.
+</p>
+<p>
+Cette diversité des rapports auxquels le <i>génitif</i>
+peut avoir trait, a fait donner à ce cas différentes
+dénominations, selon que les uns ont fixé plus que
+les autres l&#39;attention des Grammairiens. Les uns
+l&#39;ont appellé <i>possessif</i>, parce qu&#39;il indique souvent le
+rapport de la chose possédée au possesseur, <i>praedium
+Terentii ;</i> d&#39;autres l&#39;ont nommé <i>patrius</i> ou <i>paternus</i>,
+à cause du rapport du pere aux enfans, <i>Cicero pater
+Tuiliae:</i> d&#39;autres <i>uxorius</i>, à cause du rapport de l&#39;épouse 
+au mari, <i>Hectoris Andromache</i>. Toutes ces dénominations 
+péchent en ce qu&#39;elles portent sur un
+rapport qui ne tient point directement à la signification
+du <i>génitif</i>, &amp; qui d&#39;ailleurs est accidentel. L&#39;effet général 
+de ce cas est de servir à déterminer la signification 
+vague d&#39;un nom appellatif par un rapport
+quelconque dont il exprime le terme ; c&#39;étoit dans
+cette propriété qu&#39;il en falloit prendre la dénomination,
+&amp; on l&#39;auroit appellé alors <i>déterminatif</i> avec
+plus de fondement qu&#39;on n&#39;en a eu à lui donner tout
+autre nom. Celui de <i>génitif</i> a été le plus unanimement 
+adopté, apparement parce qu&#39;il exprime
+l&#39;un des usages les plus fréquens de ce cas ; il naît
+du nominatif, &amp; il est le générateur de tous les cas
+obliques &amp; de plusieurs especes de mots : c&#39;est la remarque 
+de Priscien même, <i>lib. V. de casu:</i> Genitivus, dit-il, <i>naturale vinculum generis possidet, nascitur 
+quidem à nominativo, generat autem omnes obliquos 
+sequentes ;</i> &amp; il avoit dit un peu plus haut, <i>Generalis videtur esse hic casus</i> genitivus, <i>ex quo ferè omnes 
+derivationes, &amp; maximè apud Groecos, solent fieri</i>.
+En effet les services qu&#39;il rend dans le système de la
+formation s&#39;étendent à toutes les branches de ce système.
+<i>Voyez</i> <sc><ref target="head:Formation" type="search">Formation</ref></sc>.
+</p>
+<p>
+I. Dans la dérivation grammaticale, le <i>génitif</i> est
+la racine prochaine des cas obliques ; tous suivent
+l&#39;analogie de sa terminaison, tous en conservent la
+figurative. Ainsi <i>homo</i> a d&#39;abord pour <i>génitif hom-inis</i>, où l&#39;on voit <i>o</i> du nominatif changé en <i>in-is ; is</i>
+est la terminaison propre de ce cas, <i>in</i> en est la figurative : or la figurative <i>in</i> demeure dans tous les
+<pb n="7:586" facs="V7/ENC_7-586.jpeg" />
+<milestone unit="column" n="1" />
+cas obliques, la seule terminaison <i>is</i> y est changée ;
+<i>hom-in-is, hom-in-i ; hom-in-em, hom-in-e, hom-in-es,
+hom-in-um, hom-in-ibus</i>. De même de <i>temp-or-is, génitif</i> de <i>tempus</i>, sont venus <i>temp-or-i, temp-or-e, tempor-a, temp-or-um, temp-or-ibus</i>. C&#39;est par une suite de
+cet usage du <i>génitif</i>, que ce cas a été choisi comme
+le signe de la déclinaison, <i>voyez</i> <sc><ref target="head:Déclinaison" type="search">Déclinaison</ref></sc>.
+C&#39;est le signal de ralliement qui rappelle à une même
+formule analogique tous les noms qui ont à ce cas
+la même terminaison. Il est vrai que la distinction
+des déclinaisons doit résulter des différences de la
+totalité des cas ; mais ces différences suivent exactement 
+celles du <i>génitif</i>, &amp; par conséquent ce cas seul
+peut suffire pour caractériser les déclinaisons.
+</p>
+<p>
+Les noms de la premiere ont le <i>génitif</i> singulier en
+<i>oe</i>, comme <i>mensa</i> (table) <i>gén. mensae:</i> ceux de la
+seconde ont le <i>génitif</i> en <i>i</i>, comme <i>liber</i> (livre), <i>génit. libri</i>. Ceux de la troisieme l&#39;ont en <i>is</i>, comme
+<i>pater</i> (pere), <i>gén. patris</i>. Ceux de la quatrieme
+l&#39;ont en <i>ûs</i>, comme <i>fructus</i> (fruit), <i>génit. fructûs ;</i> &amp;
+ceux de la cinquieme l&#39;ont en <i>ei</i>, comme <i>dies</i> (jour),
+<i>génit. diei</i>. On en trouve quelques-uns dont le <i>génitif</i> s&#39;éloigne de cette analogie ; ce sont des noms
+grecs auxquels l&#39;usage de la langue latine a conservé
+leur <i>génitif</i> originel : <i>Andromache</i> (Andromaque),
+<i>génit. Andromaches</i>, premiere déclinaison : <i>Orpheus</i>
+(Orphée), <i>génit. Orphei</i> &amp; <i>Orpheos</i>, seconde déclinaison : <i>syntaxis</i> (syntaxe), <i>génit. syntaxis</i> &amp; <i>syntaxeos</i>, troisieme déclinaison.
+</p>
+<p>
+Ces exceptions sont, pour ainsi dire, les restes
+des incertitudes de la langue naissante. Les cas, &amp;
+spécialement le <i>génitif</i>, n&#39;y furent pas fixés d&#39;abord
+à des terminaisons constantes, &amp; les premieres qu&#39;on
+adopta étoient greques, parce que le latin est comme 
+un rejetton du grec ; elles s&#39;altérerent insensiblement 
+pour se défaire de cet air d&#39;emprunt, &amp; pour
+se revêtir des apparences de la propriété.
+</p>
+<p>
+Ainsi <i>as</i> fut d&#39;abord la terminaison du <i>génitif</i> de
+la premiere déclinaison, &amp; l&#39;on disoit <i>musa, musas</i>,
+comme les Doriens <foreign lang="greek">μοῦσα, μούσας</foreign>: outre le <i>pater familias</i> connu de tout le monde, on trouve encore
+bien d&#39;autres traces de ce <i>génitif</i> dans les auteurs ;
+dans Ennius, <i>dux ipse vias</i>, pour <i>viae ;</i> &amp; dans Virgile (<i>AEnaeid. xj.</i>) <i>nihil ipsa, nec auras, nec sonitus
+memor</i>, selon Jules Scaliger qui attribue à l&#39;impéritie 
+le changement d&#39;<i>auras</i> en <i>auroe</i>. Le <i>génitif</i> de la
+premiere déclinaison fut aussi en <i>ai, terraï, aulaï ;</i>
+on lit dans Virgile, <i>aulaï in medio</i>, pour <i>aulae:</i> comme 
+on rencontre plus d&#39;exemples de ce <i>génitif</i> dans
+les poëtes, on peut présumer qu&#39;ils l&#39;ont introduit
+pour faciliter la mesure du vers, &amp; qu&#39;ils se régloient
+alors sur la déclinaison éolienne, où au lieu du
+<foreign lang="greek">μούσας</foreign> dorien, on disoit <foreign lang="greek">μούσαις</foreign>.
+</p>
+<p>
+Les noms des autres déclinaisons ont eu également leurs variations au <i>génitif</i>. On trouve plusieurs
+fois dans Salluste <i>senati</i>. Aulu-Gelle (<i>lib. VI. c. xvj.</i>)
+nous apprend qu&#39;on a dit <i>senatuis, fluctuis ;</i> &amp; le <i>génitif senatûs, fluctûs</i> paroît n&#39;en être qu&#39;une contraction.
+Le <i>génitif</i> de <i>dies</i> se présente dans les auteurs
+sous quatre terminaisons différentes : 1°. en <i>es</i>, comme 
+<i>equites daturos illius</i> dies <i>poenas</i> (<i>Cic. pro Sext.</i>):
+2°. en <i>e</i>, comme César l&#39;avoit indiqué dans ses analogies,
+&amp; comme Servius &amp; Priscien veulent qu&#39;on
+le lise dans ce vers de Virgile (<i>j. Géorg. 208.</i>)
+<center>
+<i>Libra</i> die <i>somnique pares ubi fecerit horas</i>.
+</center>
+</p>
+<p>
+3°. en <i>ii</i>, comme dans cet autre passage du même
+poëte, <i>munera laetitiam que</i> dii ; <i>quod imperitiores</i> dei
+<i>legunt</i>, dit Aulu-Gelle, <i>lib. jx. cap. xjv.</i> 4°. enfin
+en <i>ei</i>, &amp; c&#39;est la terminaison qui a prévalu.
+</p>
+<p>
+II. Dans la dérivation philosophique le <i>génitif</i> est
+la racine génératrice d&#39;une infinité de mots, soit dans
+la langue latine même, soit dans celles qui y ont puisé; 
+on en reconnoît sensiblement la figurative dans
+ses dérivés.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Ainsi du <i>génitif</i> des adjectifs l&#39;on forme, à peu d&#39;exceptions 
+près, leurs degrés comparatif &amp; superlatif,
+en ajoûtant à la figurative de ce cas les terminaisons
+qui caractérisent ces degrés : <i>docti, docti-or, docti-ssimus ; prudenti-s, prudenti-or, prudenti-ssimus</i>. Il en est
+de même des adverbes dérivés des adjectifs ; ils prennent 
+cette figurative au positif, &amp; la conservent dans
+les autres degrés : <i>prudent-is, prudent-er, prudent-iùs,
+prudent-issimé</i>.
+</p>
+<p>
+Le <i>génitif</i> des noms sert à la dérivation de plusieurs
+especes de mots : de <i>patris</i> sont sortis les noms de <i>patria, patriciatus, patratio, patronus, patrona, patruus ;</i> les adjectifs <i>patrius, patricius, patrimus ;</i> l&#39;adverbe 
+<i>patriè ;</i> les verbes <i>patrare, patrissare</i>. On trouve 
+même plusieurs noms dont le <i>génitif</i>, quant au
+matériel, ne differe en rien de la seconde personne
+du singulier du présent absolu de l&#39;indicatif des verbes 
+qui en sont dérivés : <i>lex, legis ; lego, legis : dux,
+ducis ; duco, ducis</i>. Quelques <i>génitifs</i> inusités hors de
+la composition, se retrouvent de même dans des verbes 
+composés de la même racine élémentaire : <i>tibicen, tibi-cinis ; con-cino, con cinis ; parti-ceps, participis ; 
+ac-cipio, ac-cipis</i>.
+</p>
+<p>
+Nous avons dans notre langue des mots qui viennent 
+immédiatement d&#39;un <i>génitif</i> latin ; tels sont <i>capitaine, capitation</i>, qui sont dérivés de <i>capitis ;</i> tels encore 
+les monosyllabes <i>art, mort, part, sort</i>, &amp;c. qui
+viennent des <i>génitifs art-is, mort-is, part-is, sort-is</i>,
+dont on a seulement supprimé la terminaison latine.
+De-là les dérivés simples : de <i>capitaine, capitainerie ;
+d&#39;art, artiste, artistement ;</i> de <i>mort, mortel, mortellement,
+mortalité, mortuaire ;</i> de <i>part, partie, partiel ;</i>
+de <i>sort, sorte, sortable</i>, &amp;c.
+</p>
+<p>
+III. Dans la composition, c&#39;est encore le <i>génitif</i>
+qui est la racine élémentaire d&#39;une infinité de mots,
+soit primitifs, soit dérivés. On le voit sans aucune
+altération dans les composés <i>legis-lator, legis-latio ;
+juris-peritus, juris-prudentia ; agri-cola, agri-cultura</i>.
+On en reconnoît la figurative dans <i>patri-monium, patro-cinium, fronti-spicium, juri-stitium ;</i> &amp; on la retrouve 
+encore dans <i>homi-cidium</i> malgré l&#39;altération ;
+<i>hom-o</i>, c&#39;est le nominatif ; <i>hom-in-is</i>, c&#39;est le <i>génitif</i>
+dont la figurative est <i>in ;</i> &amp; la consonne <i>n</i> de cette
+figurative est retranchée pour éviter le choc trop
+rude des deux consonnes <i>n c</i>, mais <i>i</i> est resté.
+</p>
+<p>
+Nous appercevons sensiblement la même influence
+dans les mots composés de notre langue, qui ne sont
+pour la plûpart que des mots latins terminés à la françoise ; 
+<i>patri-moine, légis-lateur, légis-lation, juris-consulte,
+juris-prudence, agri-culture, frontis-pice,
+homi-cide:</i> &amp; l&#39;analogie nous a naturellement conduits
+à conserver les droits de ce <i>génitif</i> dans les mots que
+nous avons composés par imitation ; <i>part-ager, as-sort-ir, res-sort-ir</i>, &amp;c.
+</p>
+<p>
+On voit par ce détail des services du <i>génitif</i> dans
+la génération des mots, que le nom qu&#39;on lui a donné
+le plus unanimement a un juste fondement ; quoiqu&#39;il
+n&#39;exprime pas l&#39;espece de service pour lequel il paroît 
+que ce cas a été principalement institué, je veux
+dire la détermination du sens vague du nom appellatif 
+auquel il est subordonné.
+</p>
+<p>
+C&#39;est pour cela qu&#39;en latin il n&#39;est jamais construit
+qu&#39;avec un nom appellatif, quoiqu&#39;on rencontre souvent 
+des locutions où il paroît lié à d&#39;autres mots:
+mais on retrouve aisément par l&#39;ellipse le nom appellatif 
+auquel se rapporte le <i>génitif</i>.
+</p>
+<p>
+I. Il est quelquefois à la suite d&#39;un nom propre ;
+<i>Terentia Ciceronis</i>, supp. <i>uxor ; Sophia Septimi</i>, supp.
+<i>filia</i>.
+</p>
+<p>
+Il. D&#39;autres fois il suit quelqu&#39;un de ces adjectifs
+présentés sous la terminaison neutre, &amp; réputés pronoms 
+par la foule des Grammairiens ; <i>ad id locorum</i>,
+c&#39;est-à-dire <i>ad id punctum locorum ; quid rei est?</i> c&#39;est-à-dire <i>quod momentum rei est?</i>
+<pb n="7:587" facs="V7/ENC_7-587.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+III. Souvent il paroît modifier tout autre adjectif
+dont le corrélatif est exprimé ou supposé: <i>plenus vini,
+lassus viarum</i>, supp. <i>de copiâ vini, de labore viarum</i>. C&#39;est la même chose après le comparatif &amp; le
+superlatif ; <i>fortior manuum, primus</i> ou <i>doctissimus omnium</i>, supp. <i>è numero manuum, è numero omnium</i>.
+</p>
+<p>
+IV. Plus souvent encore le <i>génitif</i> est à la suite
+d&#39;un verbe, &amp; les méthodistes énoncent expressément 
+qu&#39;il en est le régime ; c&#39;est une erreur, il ne
+peut l&#39;être en latin que d&#39;un nom appellatif, &amp; l&#39;ellipse 
+le ramene à cette construction. Il est aisé de le
+vérifier sur des exemples qui réuniront à-peu-près
+tous les cas. <i>Est regis</i>, c&#39;est-à-dire <i>est officium regis.
+Refert Caesaris</i>, c&#39;est-à-dire <i>refert ad rem Caesaris</i>, comme 
+Plaute a dit (<i>in Pers.</i>). <i>Quid id ad me aut ad meam
+rem refert? Interest reipublicoe ; est inter negotia, est inter 
+commoda reipublicoe. Manet Romoe</i>, c&#39;est à-dire <i>manet in urbe Romoe</i>.
+</p>
+<p>
+On trouve communément le <i>génitif</i> après les verbes 
+<i>poenitere, pudere, pigere, taedere, miserere ;</i> &amp; les
+rudimentaires disent que ces verbes sont impersonnels,
+que leur nominatif se met à l&#39;accusatif, &amp; leur
+régime au <i>génitif</i>. Il est aisé d&#39;appercevoir les absurdités 
+que renferme cette décision : nous ferons voir
+au <i>mot</i> <sc>Impersonnel</sc>, que ces verbes sont réellement 
+personnels, &amp; que leur sujet doit être au nominatif 
+quand on l&#39;exprime. Nous allons montrer ici
+que leur prétendu régime au <i>génitif</i> est le régime déterminatif 
+du nom qui leur sert de sujet ; &amp; que ce
+qu&#39;on envisage ordinairement comme leur sujet sous
+la dénomination ridicule de nominatif, est véritablement 
+leur régime objectif.
+</p>
+<p>
+On lit dans Plaute (<i>Stich. in arg.</i>) <i>&amp; me quidem hoec
+conditio nunc non poenitet:</i> il est évident que <i>hoec conditio</i> est le sujet de <i>poenitet</i>, &amp; que <i>me</i> en est le régime 
+objectif ; &amp; l&#39;on pourroit rendre littéralement ces
+mots <i>me hoec conditio non poenitet</i>, par ceux-ci : <i>cette
+condition ne me peine point, ne me fait aucune peine ;</i>
+c&#39;est le sens littéral de ce verbe dans toutes les circonstances.
+Cet exemple nous indique le moyen de
+ramener tous les autres à l&#39;analogie commune, en
+suppléant le sujet sousentendu de chaque verbe : <i>poenitet me facti</i> veut dire <i>conscientia facti poenitet me</i>, le
+sentiment intérieur de mon action me peine.
+</p>
+<p>
+Pareillement dans cette phrase de Cicéron (<i>pro
+domo</i>), <i>ut me non solum pigeat stultitiaoe meae, sed etiam
+pudeat ;</i> c&#39;est tout simplement, <i>ut conscientia stultitiae
+meae non solum pigeat, sed etiam pudeat me</i>.
+</p>
+<p>
+Dans celle-ci, <i>sunt homines quos infamiae suoe neque 
+pudeat neque taedeat</i> (<i>2. verr.</i>); suppléez <i>turpitudo</i>,
+&amp; vous aurez la construction pleine : <i>sunt homines
+quos turpitudo infamiae suoe neque pudeat neque taedeat</i>.
+</p>
+<p>
+De même dans cette autre qui est encore de Cicéron, <i>miseret me infelicis familiae ;</i> suppléez <i>sors</i>, &amp;
+vous aurez cette phrase complete, <i>sors infelicis familiae 
+miseret me</i>.
+</p>
+<p>
+On voit donc que les mots <i>facti, stultitiae, infamiae,
+familiae</i>, ne sont au <i>génitif</i> dans ces phrases,
+que parce qu&#39;ils sont les déterminatifs des noms <i>conscientia, turpitudo, sors</i>, qui sont les sujets des verbes.
+</p>
+<p>
+Le <i>génitif</i> se construit encore avec d&#39;autres verbes ;
+<i>quanti emisti?</i> c&#39;est-à-dire, <i>pro re quanti pretii emisti?</i>
+Cicéron (<i>Attic. viij.</i>) parlant de Pompée, dit <i>facio pluris 
+omnium hominum neminem ;</i> c&#39;est comme s&#39;il avoit
+dit, <i>facio neminem ex numero omnium hominum virum
+pluris momenti:</i> c&#39;est la même chose du passage de
+Térence (<i>in Phorm.</i>) <i>meritò te semper maximi feci</i>, c&#39;est-à-dire <i>virum maximi momenti</i>. Mais si le régime objectif 
+est le nom d&#39;une chose inanimée, le nom appellatif 
+qu&#39;il faut suppléer, c&#39;est <i>res ; illos scelestos qui
+tuum fecerunt fanum parvi</i> (Plaut. <i>in Rudent.</i>), c&#39;est-à-dire, <i>qui tuum fecerunt fanum rem parvi pretii. Accusare furti</i>, c&#39;est <i>accusare de crimine furti ; condemnare
+capitis</i>, c&#39;est <i>condemnare ad poenam capitis. Oblivisci</i>,
+<milestone unit="column" n="2" />
+<i>cordari, meminisse alicujus rei ;</i> suppléez <i>memoriam
+alicujus rei ;</i> c&#39;est ce même nom qu&#39;il faut sous-entendre dans cette phrase de Cicéron &amp; dans les pareilles,
+<i>tibi tuarum virtutum veniat in mentem</i> (<i>de orat. ij.
+61.</i>) suppléez <i>memoria</i>.
+</p>
+<p>
+V. Quand on trouve un <i>génitif</i> avec un adverbe,
+il n&#39;y a qu&#39;à se rappeller que l&#39;adverbe a la valeur
+d&#39;une préposition avec son complément, <i>voyez</i> <sc><ref target="head:Adverbe" type="search">Adverbe</ref></sc> ; &amp; que ce complément est un nom appellatif : en décomposant l&#39;adverbe, on retrouvera l&#39;analogie.
+<i>Ubi terrarum</i>, décomposez ; <i>in quo loco terrarum:
+nusquam gentium</i>, c&#39;est-à-dire <i>in nullo loco gentium</i>.
+</p>
+<p>
+Il faut remarquer ici qu&#39;on ne doit pas chercher par
+cette voie l&#39;analogie du <i>génitif</i>, après certains mots
+que l&#39;on prend mal-à-propos pour des adverbes de
+quantité, tels que <i>parum, multum, plus, minus, plurimum,
+minimum, satis</i>, &amp;c. ce sont de vrais adjectifs 
+employés sans un nom exprimé, &amp; souvent comme 
+complément d&#39;une préposition également sousentendue : dans ce second cas, ils font l&#39;office de
+l&#39;adverbe : mais par-tout, le <i>génitif</i> qui les accompagne 
+est le déterminatif du nom leur corrélatif ; <i>satis
+nivis</i>, c&#39;est <i>copia satis nivis</i>, ou <i>copia conveniens nivis</i>.
+De l&#39;adjectif <i>satis</i> vient <i>satior</i>.
+</p>
+<p>
+VI. Enfin on rencontre quelquefois le <i>génitif</i> à la
+suite d&#39;une préposition ; il se rapporte alors au complement 
+de la préposition même qui est fous-entendue. <i>Ad Castoris</i>, suppléez <i>aedem ; ex Apollodori</i> (Cic.)
+suppléez <i>chronicis ; labiorum tenus</i>, suppléez <i>extremitate</i>.
+</p>
+<p>
+Nous nous sommes un peu étendus sur ces phrases 
+elliptiques ; premierement, parce que le <i>génitif</i>
+qui est ici notre objet principal, y paroissant employé
+d&#39;une autre maniere que sa destination originelle ne
+semble le comporter, il étoit de notre devoir de
+montrer que ce ne sont que des écarts apparens, &amp;
+que les assertions contraires des méthodistes sont
+fausses &amp; fort éloignées du vrai génie de la langue
+latine : en second lieu, parce que nous regardons la
+connoissance des moyens de suppléer l&#39;ellipse, comme 
+une des principales clés de cette langue.
+</p>
+<p>
+On doit être suffisamment convaincu par tout ce
+qui précede, que le <i>génitif</i> fait l&#39;office de déterminatif 
+à l&#39;égard du nom auquel il est subordonné: mais
+il faut bien se garder de conclure que ce soit le seul
+moyen qu&#39;on puisse employer pour cette détermination.
+Il faut bien qu&#39;il y en ait d&#39;autres dans les langues 
+dont les noms ne reçoivent pas les inflexions appellées 
+<i>cas</i>.
+</p>
+<p>
+En françois on remplace assez communément la
+fonction du <i>génitif</i> latin par le service de la préposition 
+<i>de</i>, qui par le vague de sa signification semble exprimer 
+un rapport quelconque ; ce rapport est spécifié 
+dans les différentes occurrences (qu&#39;on nous permette 
+les termes propres) par la nature de son antécédent 
+&amp; de son conséquent. <i>Le créateur</i> de <i>l&#39;univers</i>,
+rapport de la cause à l&#39;effet : <i>les écrits</i> de <i>Cicéron</i>,
+rapport de l&#39;effet à la cause : <i>un vase</i> d&#39;<i>or</i>, rapport de
+la forme à la matiere : <i>l&#39;or</i> de <i>ce vase</i>, rapport de la
+matiere à la forme, <i>&amp;c.</i> En hébreu, on employe des
+préfixes, sortes de prépositions inséparables, dont
+quelqu&#39;une est spécialement déterminative d&#39;un terme 
+antécédent. Chaque langue a son génie &amp; ses ressources.
+</p>
+<p>
+La langue latine elle-même n&#39;est pas tellement restrainte 
+à son <i>génitif</i> déterminatif, qu&#39;elle ne puisse
+remplir les mêmes vûes par d&#39;autres moyens : <i>Evandrius ensis</i>, c&#39;est la même chose qu&#39;<i>ensis Evandri ; liber 
+meus</i>, c&#39;est <i>liber mei, liber pertinens ad me ; domus
+regia</i>, c&#39;est <i>domus regis</i>. On voit que le rapport de
+la chose possédée au possesseur, s&#39;exprime par un adjectif 
+véritablement dérivé du nom du possesseur,
+mais qui s&#39;accorde avec le nom de la chose possédée ;
+parce que le rapport d&#39;appartenance est réellement
+en elle &amp; s&#39;identifie avec elle.
+<pb n="7:588" facs="V7/ENC_7-588.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le rapport de l&#39;espece à l&#39;individu, n&#39;est pas toûjours 
+annoncé par le <i>génitif:</i> souvent le nom propre
+déterminant est au même cas que le nom appellatif
+déterminé; <i>urbs Roma, flumen Sequana, mons Parnassus</i>, &amp;c. Mais cette concordance ne doit pas s&#39;entendre 
+comme le commun des Grammairiens l&#39;expliquent : <i>urbs Roma</i> ne signifie point, comme on l&#39;a
+dit, <i>Roma quoe est urbs ;</i> c&#39;est au contraire <i>urbs quoe est
+Roma ; urbs</i> est déterminé par les qualités individuelles 
+renfermées dans la signification du mot <i>Roma</i>. Il
+y a précisément entre <i>urbs Romoe</i> &amp; <i>urbs Roma</i>, la
+même différence qu&#39;entre <i>vas auri</i> &amp; <i>vas aureum ; aureum</i> est un adjectif, <i>Roma</i> en fait la fonction ; l&#39;un &amp;
+l&#39;autre est déterminatif d&#39;un nom appellatif, &amp; c&#39;est
+la fonction commune des adjectifs relativement aux
+noms. N&#39;est-il pas en effet plus que vraissemblable
+que les noms propres <i>Asia, Africa, Hispania, Gallia</i>, &amp;c. sont des adjectifs dont le substantif commun
+est <i>terra ;</i> que <i>annularis, auricularis, index</i>, &amp;c. noms
+propres des doigts, se rapportent au substantif commun 
+<i>digitus?</i> Quand on veut donc interpréter l&#39;apposition,
+&amp; rendre raison de la concordance des cas,
+c&#39;est le nom propre qu&#39;il faut y considérer comme
+adjectif, parce qu&#39;il est déterminant d&#39;un nom appellatif.
+<i>Voyez</i> <sc><ref target="head:Apposition" type="search">Apposition</ref></sc>.
+</p>
+<p>
+La langue latine a encore une maniere qui lui est
+propre, de déterminer un nom appellatif d&#39;action
+par le rapport de cette action à l&#39;objet ; ce n&#39;est pas
+en mettant le nom de l&#39;objet au <i>génitif</i>, c&#39;est en le
+mettant à l&#39;accusatif. Alors le nom déterminé est tiré
+du supin du verbe qui exprime la même action ; &amp;
+c&#39;est pour cela qu&#39;on le construit comme son primitif 
+avec l&#39;accusatif. Ainsi, au lieu de dire, <i>quid tibi
+hujus cura est rei?</i> Plaute dit, <i>quid tibi hanc curatio
+est rem?</i>
+</p>
+<p>
+Nous avons vû jusqu&#39;ici la nature, la destination
+générale, &amp; les usages particuliers du <i>génitif ;</i> n&#39;en
+dissimulons pas les inconvéniens. Il détermine quelquetois 
+en vertu du rapport d&#39;une action au sujet
+qui la produit, quelquefois aussi en vertu du rapport
+de cette action à l&#39;objet ; c&#39;est une source d&#39;obscurités 
+dans les auteurs latins.
+</p>
+<p>
+Est-il aisé, par exemple, de dire ce qu&#39;on entend
+par <i>amor Dei?</i> La question paroîtra singuliere au
+premier coup-d&#39;oeil ; tout le monde répondra que
+c&#39;est l&#39;<i>amour de Dieu:</i> mais c&#39;est en françois la même 
+équivoque ; car il restera toûjours à savoir si c&#39;est
+<i>amor Dei amantis</i> ou <i>amor Dei amati</i>. Il faut avouer
+que ni l&#39;expression françoise ni l&#39;expression latine
+n&#39;en disent rien. Mais mettez ces mots en relation
+avec d&#39;autres, &amp; vous jugerez ensuite. <i>Amor Dei est
+infinitus</i>, c&#39;est <i>amor Dei <sc><ref target="head:amantis" type="search">amantis</ref></sc> ; amor Dei est
+ad salutem necessarius</i>, c&#39;est <i>amor Dei <sc><ref target="head:amati" type="search">amati</ref></sc></i>.
+</p>
+<p>
+Cette remarque amene naturellement celle-ci. Il
+ne suffit pas de connoître les mots &amp; leur construction 
+méchanique, pour entendre les livres écrits en
+une langue ; il faut encore donner une attention
+particuliere à toutes les correspondances des parties 
+du discours, &amp; en observer avec soin tous les
+effets. (<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

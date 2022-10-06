@@ -1,0 +1,177 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30362" id="55:16:6" vol="7">
+<index type="head" value="Grenadiers-Royaux (Régiment de)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Durival" />
+<index type="shortauth" value="Durival" />
+<index type="kafnum" value="44" />
+<index type="kafauth" value="Durival, Jean Luton (1725-1810)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Grenadiers-Royaux</head>
+<p>
+<sc>Grenadiers-Royaux</sc> (<i>Régiment de</i>). C&#39;est un
+corps composé de plusieurs compagnies de grenadiers 
+de milice, réunies sous un même chef.
+</p>
+<p>
+Le Roi par son ordonnance du 15 Septembre
+1744, établit des compagnies de <i>grenadiers</i> dans tous
+les bataillons de milice du royaume ; &amp; par celle du
+<pb n="7:937" facs="V7/ENC_7-937.jpeg" />
+<milestone unit="column" n="1" />
+10 Avril 1745, il en forma sept régimens de <i>grenadiers-royaux</i> d&#39;un bataillon chacun, qui servirent la
+campagne suivante, commandés par des colonels &amp;
+lieutenans-colonels, avec les majors &amp; aide-majors
+qui y furent attachés.
+</p>
+<p>
+Sa majesté satisfaite du service de ces troupes, &amp;
+voulant en augmenter la force pour les mettre en
+état d&#39;être employés d&#39;une maniere encore plus utile,
+établit par ordonnance du 28 Janvier 1746 des compagnies 
+de <i>grenadiers</i>-postiches dans chaque bataillon
+de milice, les unit à celles des <i>grenadiers</i> par ordonnance 
+du 10 Mars suivant, &amp; de toutes ces troupes,
+composa sept régimens de <i>grenadiers-royaux</i> de deux
+bataillons chacun.
+</p>
+<p>
+Ces corps servirent utilement &amp; glorieusement
+pendant les campagnes qui suivirent leur institution,
+jusqu&#39;à la paix de 1748. Réunis ou séparés, ils donnerent 
+à l&#39;envi l&#39;un de l&#39;autre, dans toutes les occasions,
+les plus grandes marques de zele &amp; de bravoure.
+Ils se signalerent au siége de la citadelle d&#39;Anvers,
+à celui de Mons, à la bataille de Raucoux, &amp; à celle
+de Lawfeld, sur-tout au siége à jamais mémorable de
+Bergopzoom, enfin dans toutes les diverses opérations 
+militaires auxquelles il eurent part pendant toutes 
+ces campagnes.
+</p>
+<p>
+A la paix les régimens de <i>grenadiers-royaux</i> furent
+séparés ; les compagnies qui les composoient furent
+renvoyées à leurs bataillons de milice, &amp; licenciées
+en même tems que les corps de ces bataillons.
+</p>
+<p>
+Tous les bataillons de milice du royaume sont convoqués 
+une fois par an pendant la paix, pour être recrûtés 
+&amp; passer en revûe, &amp; sont séparés après quelques 
+jours de service ; <i>voyez</i> <sc><ref target="head:Levée des Troupes" type="search">Levée des Troupes</ref></sc>.
+Mais les compagnies <i>de grenadiers</i> demeurent assemblées,
+&amp; sont reunies pour composer des bataillons
+de <i>grenadiers-royaux</i>. Ces bataillons établis au nombre 
+de onze par ordonnance du premier Mars 1750,
+sont exercés chaque année pendant un mois à toutes
+les manoeuvres de guerre, ensuite séparés, &amp; les
+<i>grenadiers</i> renvoyés dans leurs paroisses, jusqu&#39;à ce
+qu&#39;il plaise au Roi de les rappeller. On prepare ainsi
+ces corps dans le silence de la paix, aux opérations
+militaires qu&#39;ils doivent exécuter pendant la guerre.
+</p>
+<p>
+Les bataillons de <i>grenadiers royaux</i> fournissent chaque 
+année au corps des <i>grenadiers</i> de France, les
+remplacemens qui y sont nécessaires. Des officiers
+de ce corps sont détachés à chaque bataillon pendant
+le tems des assemblées, &amp; y choisissent &amp; engagent
+des <i>grenadiers</i> de bonne volonté, jusqu&#39;à concurrence 
+de ce que doit fournir chaque bataillon. <i>Voyez</i>
+<sc><ref target="head:Grenadiers de France" type="search">Grenadiers de France</ref></sc>.
+</p>
+<p>
+Lors du licenciement des compagnies de <i>grenadiers-royaux</i>, on leur permet par distinction d&#39;emporter
+leurs habits, à la différence des soldats, qui sont obligés 
+de les laisser en dépôt dans le lieu d&#39;assemblée ;
+<i>voyez</i> <sc><ref target="head:Licenciement" type="search">Licenciement</ref></sc>. Le Roi accorde en outre 3
+sous par jour à chaque sergent de ces compagnies
+pendant tout le tems de leur séparation ; un sou six
+deniers à chaque tambour, &amp; un sou à chaque <i>grenadier ;</i> dont le décompte leur est fait à l&#39;assemblée
+suivante de leur bataillon. <i>Article de M. <sc>Durival</sc>
+le jeune</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

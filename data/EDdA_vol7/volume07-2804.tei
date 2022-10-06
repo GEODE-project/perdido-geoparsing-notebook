@@ -1,0 +1,190 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30258" id="54:107:4" vol="7">
+<index type="head" value="Grecs modernes considérés par rapport à la religion" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclés." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>Grecs modernes</head>
+<p>
+<sc>Grecs modernes</sc> <i>considérés par rapport à la religion</i>, (<i>Hist. ecclés.</i>) sont des chrétiens schismatiques,
+aujourd&#39;hui soûmis à la domination du grand-seigneur, &amp; répandus dans la Grece, les îles de l&#39;Archipel, à Constantinople &amp; dans l&#39;Orient, où ils ont
+le libre exercice de leur religion.
+</p>
+<p>
+Le schisme des <i>Grecs</i> commença dans le neuvieme 
+siecle sous leur patriarche Photius, &amp; sous l&#39;empire 
+de Michel III. surnommé <i>le Bûveur</i> ou <i>l&#39;Yvrogne:</i> mais ce ne fut que dans le onzieme qu&#39;il fut consommé 
+par le patriarche Michel Cerularius. Dans le
+treizieme &amp; le quinzieme siecles, aux conciles de
+Lyon &amp; de Florence, la réunion des <i>Grecs</i> avec l&#39;église 
+romaine fut plûtôt tentée que consommée ; &amp;
+depuis ce tems-là les <i>Grecs</i> pour la plûpart sont demeurés 
+schismatiques, quoique parmi eux il y ait un
+assez bon nombre de catholiques obéissans à l&#39;église
+romaine, sur-tout dans les îles de l&#39;Archipel. <i>Voyez</i>
+<sc><ref target="head:Schisme" type="search">Schisme</ref></sc>.
+</p>
+<p>
+Les <i>grecs</i> schismatiques ne reconnoissent point
+l&#39;autorité du pape, &amp; le regardent seulement comme 
+le patriarche des Latins. Ils ont quatre patriarches 
+pour leur nation ; celui de Constantinople, qui
+se dit le premier ; celui d&#39;Alexandrie, celui d&#39;Antioche, &amp; celui de Jérusalem. Le patriarche d&#39;Alexandrie réside ordinairement au grand Caire, &amp; celui
+d&#39;Antioche à Damas. Les chrétiens qui habitent la
+Grece proprement dite, ne reconnoissent pour leur
+<pb n="7:919" facs="V7/ENC_7-919.jpeg" />
+<milestone unit="column" n="1" />
+chef que le patriarche de Constantinople qui y fait sa
+résidence, &amp; qui est élû par les métropolitains &amp; archevêques,
+puis confirmé par le grand-seigneur. Tous
+leurs patriarches &amp; évêques sont religieux de l&#39;ordre
+de S. Basile ou de S. Chrysostome. Les prélats &amp; les
+religieux <i>grecs</i> portent leurs cheveux longs comme les
+séculiers en Europe, &amp; different en cela des autres
+nations orientales qui les portent courts. Leurs habits 
+pontificaux &amp; sacerdotaux sont entierement différens 
+de ceux dont on use dans l&#39;eglise romaine. Ils
+ne se servent point de surplis ni de bonnets quarrés,
+mais seulement d&#39;aubes, d&#39;étoles &amp; de chapes. Ils
+célebrent la messe avec une espece de chape qui n&#39;est
+point ouverte ou fendue par le devant. Le patriarche 
+porte une dalmatique en broderie, avec des
+manches de même ; &amp; sur la tête une couronne royale,
+au lieu de mitre. Les évêques ont une certaine
+toque à oreilles, semblable à un chapeau sans rebords.
+Ils ne portent point de crosse, mais une béquille 
+d&#39;ébene, ornée d&#39;ivoire ou de nacre de perle.
+</p>
+<p>
+On ne célebre qu&#39;une seule messe par jour en chaque 
+église greque, &amp; deux les fêtes &amp; dimanches.
+Ils n&#39;ont point d&#39;autre traduction de la Bible que
+celle des Septante. Ils nient que le saint-Esprit procede 
+du Fils, &amp; néanmoins administrent le baptême
+au nom des trois personnes de la sainte Trinité. Ils
+ont la même créance que les Latins au sujet de l&#39;eucharistie ; 
+mais ils consacrent avec du pain levé, &amp;
+donnent la communion au peuple sous les deux especes.
+Ils n&#39;admettent point de purgatoire, quoiqu&#39;ils
+avouent dans leur martyrologe qu&#39;il y a un étang de
+feu, par lequel passent les ames qui ont quelques
+souillures pour en être purifiées. Ils prient Dieu pour
+les défunts, &amp; célebrent des messes à leur intention
+pour les délivrer de ces peines, ou selon d&#39;autres,
+pour fléchir la miséricorde de Dieu, qui, selon eux,
+ne doit juger personne qu&#39;à la fin du monde. Il y en
+a aussi qui pensent que les peines des Chrétiens ne
+seront pas éternelles en enfer. Ils traitent d&#39;hérétiques 
+ceux qui ne font pas le signe de la croix comme 
+eux, c&#39;est-à-dire en portant premierement la
+main au côté droit, puis au gauche ; parce que, disent-ils, notre Seigneur donna sa main droite la premiere 
+pour être crucifiée. Ils ne veulent point d&#39;images 
+en bosse ou en relief, mais seulement en plate
+peinture ou en gravure. Ils ne se servent point de
+musique ni de cloches dans les églises, &amp; tiennent
+les femmes séparées des hommes par des treillis. A
+Constantinople, la plûpart des Chrétiens ont des
+chapelets ; mais dans la Grece, il n&#39;y en a guere qui
+sachent le <i>Pater</i> &amp; l&#39;<i>Ave</i>. En général, les <i>Grecs modernes</i> sont fort ignorans, même leurs évêques, prêtres 
+&amp; religieux, les lettres étant aujourd&#39;hui aussi
+négligées parmi eux, qu&#39;elles y étoient autrefois cultivées.
+On trouvera répandu dans ce Dictionnaire
+ce qui concerne les opinions &amp; les pratiques des
+<i>Grecs modernes</i>, soit sur le dogme, soit sur la discipline,
+sous les différens titres qui y sont relatifs.
+</p>
+<p>
+On compte parmi les <i>Grecs modernes</i> plusieurs sociétés 
+ou sectes chrétiennes répandues en Orient, &amp;
+qui ont leurs évêques &amp; leurs patriarches particuliers ; 
+comme les Maronites ou Chrétiens du mont
+Liban, les Arméniens, les Georgiens, les Jacobites,
+les Nestoriens, les Cophtes, <i>&amp;c. Voyez</i> <sc><ref target="head:Maronites" type="search">Maronites</ref>, <ref target="head:Arminiens" type="search">Arminiens</ref></sc>, <i>&amp;c.</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,134 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29415" id="52:168" vol="7">
+<index type="head" value="GENTILÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GENTILÉ</head>
+<p>
+GENTILÉ, s. m. (<i>Gramm.</i>) terme latin, que l&#39;usage 
+a francisé pour exprimer le nom qu&#39;on donne
+aux peuples par rapport au pays ou aux villes dont
+ils sont habitans.
+</p>
+<p>
+Le <i>gentilé</i> d&#39;un seul homme peut être de trois manieres 
+&amp; de trois sortes de dénominations : le <i>gentilé</i>, par exemple, du peintre Jean Rothénamer est
+allemand, bavarois &amp; munichien ; allemand signifie 
+qu&#39;il est d&#39;Allemagne ; bavarois, qu&#39;il est du cercle 
+de Baviere ; &amp; munichien, qu&#39;il est de Munich.
+</p>
+<p>
+Le dictionnaire d&#39;Etienne de Bisance enseigne le
+<milestone unit="column" n="2" />
+<i>gentilé</i> des habitans des villes, &amp; des pays dont il
+parle. Notre langue manque souvent de cette sorte
+de richesse ; ce qui nous oblige d&#39;employer des circonlocutions,
+parce que nous n&#39;avons point de dénomination 
+tirée du nom de plusieurs villes. On seroit 
+bien embarrassé de désigner le <i>gentilé</i> des habitans 
+d&#39;Amiens, de Saint-Omer, d&#39;Arras &amp; d&#39;autres
+lieux ; il est vrai cependant qu&#39;il y a plusieurs pays
+&amp; villes qui ont leur <i>gentilé</i> déjà fait, &amp; que tout
+le monde ne connoît pas : tels sont les habitans de
+l&#39;Artois, de Salé &amp; de Candie, qui s&#39;appellent <i>artésiens, saletins &amp; candiots</i>. Mais on trouve encore
+dans les auteurs le <i>gentilé</i> des peuples de certaines
+provinces, qu&#39;il est plus difficile de deviner, comme 
+berruyers, guespins &amp; hennuyers. La plûpart
+des François ignorent que ce sont les habitans de
+Berri, d&#39;Orléans &amp; du Hainaut.
+</p>
+<p>
+Je crois que l&#39;on pourroit former avec succès le
+<i>gentilé</i> qui nous manque de plusieurs de nos villes &amp;
+provinces, &amp; que ces sortes de dénominations faites
+dans la regle, &amp; transportées ensuite dans les livres
+de Géographie, prendroient faveur. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

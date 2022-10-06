@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30783" id="55:318" vol="7">
+<index type="head" value="GYNÉCÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Antiq. rom." />
+<index type="normclass" value="Antiquité romaine" />
+<index type="englishclass" value="Ancient Rome" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GYNÉCÉE</head>
+<p>
+GYNÉCÉE, (<i>Antiq. rom.</i>) logement destiné à
+mettre en réserve les habits, hardes, linge, meubles,
+&amp; autres effets de la garderobe des empereurs,
+pour qu&#39;ils pussent s&#39;en servir lorsque les affaires les
+appelloient tantôt dans une province, ta tot dans
+une autre. Il y avoit de ces sortes de logemens en
+plusieurs villes des diverses provinces, situées sur
+de grandes routes.
+</p>
+<p>
+Quoique le mot <i>gynaeceum</i>, emprunté des Grecs
+par les Latins, signifie proprement un cabinet où les
+femmes serrent leurs habits précieux, bagues, joyaux,
+ornemens, <i>&amp;c.</i> néanmoins il s&#39;applique particulierement 
+à tous les endroits où on conservoit les habits
+&amp; ameublemens impériaux dans les villes principales.
+</p>
+<p>
+Quantité de personnes, sur-tout des femmes,
+étoient logées dans ces sortes de bâtimens, pour travailler 
+à l&#39;ameublement de l&#39;empereur, ou à d&#39;autres
+manufactures.
+</p>
+<p>
+Les maîtres des garderobes impériales de Province se nommoient <i>procuratores gynoeciorum ;</i> parce
+qu&#39;ils devoient avoir soin que rien ne manquât de
+ce qui concernoit le linge, vêtement, meubles, &amp;
+autres commodités nécessaires au service domestique
+des empereurs en route. Ils devoient aussi tenir toûjours 
+prêts un grand nombre d&#39;habits pour les soldats:
+enfin ils devoient avoir en magasin des provisions suffisantes 
+de toile à voiles pour les navires &amp; vaisseaux
+de guerre, dont l&#39;équipement seroit ordonné.
+</p>
+<p>
+La notice de l&#39;Empire appelle ces sortes d&#39;intendans 
+<i>procuratores gynaegiorum</i>, mais c&#39;est par corruption 
+du vrai mot, car dans les lois impériales, <i>gynaegium</i> signifie un <i>chenil</i>, &amp; selon Suidas, le lieu où
+on exposoit aux yeux du peuple les bêtes féroces que
+les gouverneurs des provinces envoyoient à l&#39;empereur 
+pour les spectacles publics. Il n&#39;y a donc point
+de doute qu&#39;il ne faille lire <i>procuratores gynoeciorum</i>,
+c&#39;est-à-dire <i>maîtres des garderobes impériales:</i> on
+comptoit quinze de ces maîtres dans l&#39;empire d&#39;occident,
+dont il y en avoit six établis dans six villes
+ou cités des Gaules ; &amp; tous étoient subordonnés à
+l&#39;intendant général des finances <i>sub dispositione comitis 
+sacrarum largitonum</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

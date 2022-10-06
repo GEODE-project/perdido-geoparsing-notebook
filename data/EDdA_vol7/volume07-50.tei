@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27503" id="48:23" vol="7">
+<index type="head" value="FOIX" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>FOIX</head>
+<p>
+FOIX, (<i>Géog.</i>) en latin <i>Fuxum ;</i> petite ville de
+France, capitale du comté de même nom, qui fait
+un gouvernement particulier dans le haut Languedoc. Elle est sur l&#39;Auziege, au pié des Pyrénées, entre 
+Pamiers &amp; Tarascon ; à trois lieues S. O. de Pamiers ; 12 S. E. de Toulouse. <i>Long. 18. 55. latitude
+43. 4</i>.
+</p>
+<p>
+Le comté de <i>Foix</i> a le Toulousain au levant, le
+Conserans au couchant, le comté de Cominges au
+nord, les Pyrénées &amp; le Roussillon au midi. <i>Voyez</i> sur
+ce comté l&#39;abbé de Longuerue, <i>descript. de la France, part. I.</i> De Marca, <i>hist. de Béarn, liv. VIII.</i> &amp;
+Catel, <i>mém. de l&#39;hist. de Languedoc, liv. II</i>.
+</p>
+<p>
+Ce comté peut se glorifier d&#39;avoir donné le jour à
+Bayle. Il naquit à Carlat le 8 Novembre 1647, &amp;
+mourut à Roterdam la plume à la main le 28 Décembre 1706: son <i>dictionn. histor.</i> est le premier ouvrage 
+de raisonnement en ce genre, où l&#39;on puisse
+apprendre à penser : mais il faut abandonner, comme 
+dit M. de Voltaire, les articles de ce vaste recueil,
+qui ne contiennent que de petits faits, indignes à la
+fois du génie de Bayle, d&#39;un lecteur grave, &amp; de la
+postérité. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

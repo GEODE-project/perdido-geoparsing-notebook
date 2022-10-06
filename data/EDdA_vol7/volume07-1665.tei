@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29119" id="51:255:1" vol="7">
+<index type="head" value="Gargarisme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Man. Marechall." />
+<index type="normclass" value="Manège. Maréchallerie" />
+<index type="englishclass" value="Horsemanship. Farrier" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Gargarisme</head>
+<p>
+<sc>Gargarisme</sc>, (<i>Man. Marechall.</i>) médicament
+liquide, &amp; propre à humecter les parties de la bouche 
+&amp; de l&#39;arriere-bouche de l&#39;animal. C&#39;est une espece 
+d&#39;infusion ou de decoction, ou de suc exprimé,
+ou de mixture moyenne, <i>&amp;c.</i> &amp; il offre de véritables
+ressources dans des cas d&#39;inflammation, de sécheresse,
+de tumeurs, d&#39;ulceres, d&#39;aphthes dans l&#39;une
+ou l&#39;autre de ces cavités.
+</p>
+<p>
+Son efficacité ne sauroit être rapportée ni à une
+collution réelle, car nous ne connoissons aucun
+moyen de forcer l&#39;animal d&#39;agiter la liqueur dans sa
+bouche, de maniere que toutes les parties en soient
+imbibées, détergées &amp; pénétrées ; ni au séjour que
+le remede y fait, car il nous est impossible de le contraindre 
+à l&#39;y retenir long-tems : il ne peut donc être
+salutaire que par l&#39;attention que l&#39;on a d&#39;en renouveller 
+souvent l&#39;usage.
+</p>
+<p>
+L&#39;impuissance où nous serions encore d&#39;inviter
+avec succès l&#39;animal à prendre le fluide que nous lui
+présenterions, ne nous laisse que la voie des injections.
+Nous poussons le <i>gargarisme</i> avec une seringue
+dont l&#39;extrémité de la canule ou du syphon, qui présente 
+une forme ovalaire &amp; legerement arrondie, est
+percée de plusieurs trous, semblables à ceux dont
+sont percés les arrosoirs ; &amp; pour l&#39;adresser plus sûrement 
+au lieu qu&#39;il importe de baigner, nous faisons
+ouvrir la bouche du cheval par le secours d&#39;un pas-d&#39;âne ou autrement, s&#39;il s&#39;agit néanmoins d&#39;humecter 
+les parties qu&#39;elle renferme. Lorsqu&#39;il est question
+de porter la liqueur dans l&#39;arriere-bouche &amp; au-delà
+<milestone unit="column" n="2" />
+de la cloison du palais, nous dirigeons notre injection 
+dans les nazeaux, à l&#39;aide d&#39;un syphon percé
+d&#39;une seule ouverture ; &amp; cette route l&#39;y conduit directement,
+parce qu&#39;elle enfile les arriere-narines.
+Cette pratique est sans doute preférable à celle d&#39;introduire 
+des médicamens jusque dans le fond du gosier 
+par le moyen d&#39;un nerf de boeuf, aux risques
+d&#39;estropier l&#39;animal, &amp; d&#39;augmenter tous les accidens 
+qu&#39;un ignorant s&#39;efforce toujours vainement de
+combattre.
+</p>
+<p>
+Au surplus, le choix des matieres à injecter dépend
+du genre de la maladie ; ainsi il est des <i>gargarismes</i>
+antiseptiques, antiphlogistiques, resolutifs, rafraîchissans,
+émolliens, détersifs, consolidans, <i>&amp;c.</i> &amp;
+l&#39;on doit ne faire entrer dans leur composition aucune 
+chose qui, prise interieurement, pourroit nuire
+&amp; préjudicier au cheval. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

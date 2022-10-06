@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28158" vol="7">
+<index type="head" value="Franc ou Frent" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Franc ou Frent</head>
+<p>
+<i>Franc</i> ou <i>Frent</i> est un françois, &amp; par extension
+un européen, ou plûtôt un latin ; à cause, dit le
+même auteur, que la nation françoise s&#39;est fait connoître 
+&amp; distinguer entre toutes les autres qui ont
+porté les armes dans l&#39;Orient au tems des croisades.
+<i>Voyez</i> <sc><ref target="head:Croisade" type="search">Croisade</ref></sc>.
+</p>
+<p>
+Le P. Goar, dans ses notes sur Codin, <i>c. v. n. 43.</i>
+nous fournit une autre origine du mot <i>franc</i> beaucoup 
+plus ancienne que la premiere. Il observe que
+les Grecs n&#39;appelloient d&#39;abord <i>Francs</i> que les François, c&#39;est-à-dire les Allemands établis en France ;
+ensuite ils donnerent le même nom aux habitans de
+la Pouille &amp; de la Calabre, après que les Normands
+eurent conquis ces provinces. Dans la suite ils ont
+donné ce nom à tous les Latins.
+</p>
+<p>
+Ainsi Anne Comnene &amp; Curopalate, pour distinguer<gap type="hyphenpb" />
+<pb n="7:280" facs="V7/ENC_7-280.jpeg" />
+<milestone unit="column" n="1" />
+les François des autres nations de l&#39;Europe,
+les appellent les <i>Francs occidentaux</i>.
+</p>
+<p>
+Du Cange ajoûte que vers le tems de Charlemagne on distinguoit la France en orientale &amp; en occidentale,
+en latine ou romaine, &amp; en allemande,
+qui étoit l&#39;ancienne France appellée depuis <i>Franconie. Dictionn. de Trév. &amp; Chambers</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

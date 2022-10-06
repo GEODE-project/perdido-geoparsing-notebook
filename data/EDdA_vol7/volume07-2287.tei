@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29741" id="53:195" vol="7">
+<index type="head" value="GNOMES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Divin." />
+<index type="normclass" value="Divination" />
+<index type="englishclass" value="Necromancy" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="s.m.pl." />
+<head>GNOMES</head>
+<p>
+GNOMES, s. m. pl. (<i>Divin.</i>) nom que les cabalistes 
+donnent à certains peuples invisibles, qu&#39;ils
+supposent habiter dans la terre, &amp; la remplir jusqu&#39;au centre. Ils feignent qu&#39;ils sont de petite stature,
+amis de l&#39;homme, &amp; faciles à commander ; ils
+les font gardiens des trésors, des minieres &amp; des
+pierreries. Vigenere les appelle <i>Gnomons ;</i> leurs
+femmes sont appellées <i>Gnomides</i>.
+</p>
+<p>
+Vigneul Marville dans ses <i>mélanges de Littérature &amp; d&#39;Histoire, tom. I. pag. 100</i>, rapporte que
+dans une conférence tenue chez M. Rohault, un
+philosophe de l&#39;ecole soûtint qu&#39;il y a une infinité
+d&#39;esprits qui remplissent les élémens, le feu, l&#39;air,
+l&#39;eau &amp; la terre, des Salamandres, des Sylphes, des
+Oudins &amp; des <i>Gnomes ;</i> que ces derniers sont employés 
+à faire agir les machines des animaux qui
+habitent sur la terre.
+</p>
+<p>
+Il ajoûtoit que quelques philosophes de sa secte
+prétendent que ces esprits sont de deux sexes, pour
+répondre apparemment aux deux sexes des animaux ;
+que les plus grands, les plus ingénieux &amp; les plus
+habiles de ces esprits, gouvernent les machines des
+animaux, les plus grandes, les plus composées &amp; les
+plus parfaites ; qu&#39;il y en avoit une infinité de fort
+déliés, de toutes especes, qui font jouer le nombre
+infini d&#39;insectes que nous voyons, ou qui échappent
+à nos yeux par leur extreme petitesse. Que tous
+ces esprits en général gouvernent chaque machine
+selon la disposition de tes organes, de son tempérament 
+&amp; de ses humeurs, ne se saisissant pas indifféremment 
+de toutes sortes de machines, mais
+seulement de celles qui sont-de leur caractere, &amp;
+qui vivent dans l&#39;élement qui leur est propre ; qu&#39;un
+<i>gnome</i> fier &amp; superbe, par exemple, se saisit d&#39;un
+<milestone unit="column" n="2" />
+coursier de Naples, d&#39;un genet d&#39;Espagne : un autre
+qui est cruel se jette dans un tigre ou dans un lion,
+<i>&amp;c.</i> Que de folies! <i>Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

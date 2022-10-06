@@ -1,0 +1,954 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28414" id="50:159:5" vol="7">
+<index type="head" value="Froid" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Patholog." />
+<index type="normclass" value="Pathologie" />
+<index type="englishclass" value="Pathology" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Froid</head>
+<p>
+<sc>Froid</sc>, (<i>Patholog.</i>) il suit de ce qui vient d&#39;être
+établi à la fin de l&#39;article précédent, que le <i>froid</i> considéré 
+entant qu&#39;il produit ses effets dans le corps des
+animaux chauds, dans le corps humain, peut être
+lui-même produit par des causes externes &amp; par des
+causes internes, par rapport à l&#39;individu qui le
+souffre.
+</p>
+<p>
+La principale cause externe de ce <i>froid</i> animal est
+le <i>froid</i> de l&#39;atmosphere. Le premier degre de celui-ci,
+relativement à ses effets physiques les plus susceptibles,
+hors de nous, de tomber sous les sens, est
+marqué par la diminution de l&#39;action du feu à l&#39;égard
+de l&#39;eau, au point où elle cesse d&#39;être fluide, où elle
+devient un vrai solide, qui est la glace : mais ce changement,
+qui est la congelation, ne se fait encore à
+ce degré de <i>froid</i>, que dans de très-petites masses
+d&#39;eau. Il est toûjours plus considérable, à-mesure
+que le <i>froid</i> augmente ; &amp; dans les climats temperes,
+cette augmentation se fait jusqu&#39;à la moitié du nombre 
+des degrés dont augmente l&#39;action du feu dans
+l&#39;atmosphere, par-dessus le degré de la congelation,
+pour former la plus grande chaleur dont ces climats-ci 
+sont susceptibles : ensorte que comme le plus grand
+hyver de ce siecle y fit descendre le mercure du
+thermometre de Farenheit environ à 32 degrés au-dessous 
+de zéro, c&#39;est-à-dire du point où commence
+la congelation, les plus grandes chaleurs l&#39;ont fait
+monter à environ 98: ce qui fait une augmentation
+de deux tiers par-dessus le point de la congelation:
+ainsi le degré moyen entre le plus grand chaud &amp; le
+plus grand <i>froid</i> dans l&#39;atmosphere, est celui de la
+température qui a été observée dans les caves de
+l&#39;Observatoire de Paris ; ce degré est fixé à 10 au-dessus du point de la congelation. Selon la division du
+thermometre de M. de Réaumur, c&#39;est le point moyen
+des variations de cette température, dont la latitude,
+selon le thermometre de Farenheit, s&#39;étend du quarante-cinquieme
+degré, ou environ, au cinquante-cinquieme.
+Ainsi au degré moyen de cette latitude,
+l&#39;eau est également éloignée d&#39;être convertie en glace<gap type="hyphenpb" />
+<pb n="7:327" facs="V7/ENC_7-327.jpeg" />
+<milestone unit="column" n="1" />
+&amp; de devenir tiede. Tant que la chaleur de l&#39;atmosphere 
+n&#39;est pas diminuée jusqu&#39;à ce degre moyen,
+quoiqu&#39;elle soit toûjours moins considérable que celle 
+qui est ordinaire au corps humain, dans l&#39;état de
+santé; si la premiere diminue insensiblement jusqu&#39;à ce degré, on ne s&#39;en apperçoit pas beaucoup ;
+on n&#39;est pas fort incommodé de cette diminution
+dans l&#39;action du feu de l&#39;atmosphere ; diminution a
+laquelle il est cependant attaché de produire les effets 
+du <i>froid</i>, d&#39;en exciter la sensation, comme étant
+la disposition physique qui est la principale cause externe 
+du <i>froid</i> animal. Cette cause opérant à-proportion de son intensité, la sensation qui en resulte n&#39;est
+pas bien forte, tant que le <i>froid</i> du milieu n&#39;est pas
+parvenu au degré de la température dont on vient
+de parler ; d&#39;autant que la chaleur propre à l&#39;animal
+augmente à-proportion qu&#39;il en reçoit moins de ce
+milieu : &amp; cette augmentation se fait en raison de celle 
+du resserrement que ce <i>froid</i> cause dans la surface
+du corps. Mais plus le <i>froid</i> approche du degré de la
+congelation, plus ce resserrement devient considérable ; 
+il va toûjours en augmentant avec le <i>froid</i>,
+au point qu&#39;il ralentit le cours des humeurs ; soit
+par la trop grande résistance qu&#39;il cause ainsi dans les
+solides, soit par la condensation des fluides, qui leur
+fait perdre leur fluidité dans les portions où est opérée 
+cette condensation ; effets qui diminuent par conséquent 
+l&#39;activité du frottement &amp; la génération de
+la chaleur, qui depend de cette activité; d&#39;où s&#39;ensuit 
+un double obstacle à l&#39;impulsion des fluides dans
+les parties affectées du <i>froid ;</i> duquel obstacle établi
+suit une sorte d&#39;impression sur les nerfs, qui a la
+propriété, etant transmise à l&#39;ame, de faire naître la
+sensation desagreable du <i>froid</i> animal, ainsi qu&#39;il a
+été dit dans l&#39;article précédent : &amp; cette sensation
+devient forte de plus-en-plus, à-proportion que le
+<i>froid</i> externe, &amp; conséquemment le resserrement des
+vaisseaux capillaires, le ralentissement des humeurs,
+augmentent &amp; s&#39;étendent davantage de la circonférence 
+vers le centre : ce qui arrive sur-tout si l&#39;on
+est constamment exposé à l&#39;air libre ; si l&#39;atmosphere
+qu&#39;il forme autour du corps est continuellement renouvelle 
+par le vent : ensorte que l&#39;air ambiant ne restant 
+point assez appliqué au corps animal, pour le faire 
+participer à la chaleur qu&#39;il en tire, ne fait que lui
+en enlever sans cesse, &amp; ne lui communique que son
+<i>froid</i> actuel, qui pénetre dans sa substance, opere une
+veritable constriction dans ses solides, dispose à la
+coagulation ses fluides ; d&#39;où s&#39;ensuit qu&#39;il diminue de
+volume en tout sens, &amp; que bien des gens ont observé 
+que les habits qui ne les entouroient, ne les enveloppoient 
+qu&#39;avec peine en été, pendant la raréfaction 
+de tous les corps par l&#39;effet de la chaleur, se
+trouvent alors trop amples ; tant la condensation de
+toutes les parties se rend sensible.
+</p>
+<p>
+Ainsi les effets du <i>froid</i> de l&#39;air sur le corps humain,
+peuvent être si considérables, qu&#39;il y a des exemples
+d&#39;hommes qui sont morts subitement par le seul effet
+du grand <i>froid</i>, sans aucune autre mauvaise disposition 
+que celle qu&#39;il avoit produite : ce qui arrive assez 
+communement dans les pays septentrionaux, non seulement 
+à l&#39;egard des hommes, mais encore à l&#39;égard 
+des bêtes.
+</p>
+<p>
+On ne sauroit douter que ce qui donne lieu à des
+accidens de cette nature, ne soit le resserrement des
+vaisseaux, qui lorsqu&#39;il est porté à un degré considérable,
+intercepte le cours des humeurs : à quoi se
+joint la coagulation de celles-ci : effets qui ont l&#39;eu
+principalement dans les poumons, où les vaisseaux
+très-minces, très-exposés, très faciles à se laisser penetrer 
+par le <i>froid</i>, &amp; le sang très-exposé aux influences 
+de l&#39;air, étant presque à découvert dans ce viscere,
+sont, par ces différentes raisons, très susceptibles 
+d&#39;engorgemens inflammatoires &amp; autres, si
+<milestone unit="column" n="2" />
+prompts même &amp; si étendus, lorsqu&#39;ils sont produits
+par un <i>froid</i> extreme, qu&#39;ils peuvent procurer une
+suffocation subite ; comme dans les cas qui viennent
+d&#39;être mentionnés.
+</p>
+<p>
+Personne n&#39;ignore que le sang sorti d&#39;une veine &amp;
+reau dans un vase sous forme fluide, se fige dans l&#39;espace
+de trois ou quatre minutes dans un air temperé,
+&amp; qu&#39;il se change ainsi en une masse solide, qui s&#39;attache 
+ordinairement aux parois du récipient. Ce
+fluide de animal se coagule encore plus promptement,
+si l&#39;air auquel il est exposé est bien <i>froid</i>, comme dans
+un tems de gelée ; il n&#39;est cependant pas aise de determiner 
+précisément à quel degré de la diminution de
+la chaleur dans l&#39;air, le sang perd ainsi sa fluidité,
+puisque cela arrive également dans l&#39;été, &amp; qu&#39;il
+n&#39;y a de différence en comparaison avec ce qui se
+passe à cet égard en hyver, qu&#39;en ce que la coagulation 
+est moins prompte dans la premiere que dans
+la seconde de ces circonstances : on sait seulement
+que la sérosité du sang ne se congele qu&#39;au vingt-huitieme degré du thermometre de Farenheit, &amp; que
+par consequent il faut un plus grand <i>froid</i> pour la
+convertir en glace. Qu&#39;à l&#39;égard de l&#39;eau qui commence 
+à se geler des le trente deuxieme, c&#39;est peut-être
+parce que la sérosité est un peu salée, qu&#39;elle
+résiste davantage à perdre sa fluidité: mais il suffit
+pour le sujet dont il s&#39;agit ici, que l&#39;on soit assuré que
+le <i>froid</i> hâte la tendance naturelle du sang à la coagulation ; 
+c&#39;est pourquoi s&#39;il arrive à ceux qui tombent 
+en syncope de rester assez dans cet état pour
+que par la grande diminution du mouvement des humeurs 
+elles ayent eu le tems de se refroidir, il se
+forme alors, par une suite du défaut d&#39;agitation vitale 
+&amp; du <i>froid</i> qui s&#39;ensuit, des concretions polypeuses 
+autour du coeur dans les gros vaisseaux ; concrétions 
+qui sont le plus souvent de nature a ne pouvoir 
+être resoutes.
+</p>
+<p>
+La constriction des vaisseaux &amp; la coagulation du
+sang, sont donc des effets du <i>froid</i> de l&#39;air sur les
+corps des animaux ; d&#39;où peuvent s&#39;ensuivre de
+grands desordres dans leur économie, à-proportion
+de l&#39;intensité de la cause qui a produit ces effets.
+Cette cause est même de nature à pouvoir les opérer 
+après la mort, puisque dans cet état il ne reste
+plus dans le corps animal d&#39;autre principe de chaleur,
+que de celle qui lui est commune avec tous les
+corps inanimés ; chaleur qui à quelque degré qu&#39;elle
+soit dans l&#39;atmosphere, n&#39;est jamais, comme il a été
+dit plusieurs fois, qu&#39;un <i>froid</i> respectis : ainsi ce <i>froid</i>
+causant une constriction générale dans tous les solides,
+elle est plus forte dans chaque partie à-proportion de sa densité; par consequent les arteres dont
+les tuniques sont plus compactes que celles des veines,
+se resserrant davantage, tout étant égal, expriment 
+la partie la plus fluide du sang dans les vaisseaux 
+plus foibles, c&#39;est-à-dire dans les veines, &amp; ne
+retiennent que la plus grossiere, celle qui a perdu sa
+fluidité, ensorte même qu&#39;elles se vuident souvent
+entierement ; d&#39;où résulte que le <i>froid</i> contribue à
+donner de l&#39;action aux vaisseaux, non-seulement
+pendant la vie pour la conserver par l&#39;exercice des
+fonctions, en y entretenant la chaleur à un degré
+uniforme &amp; toûjours supérieur à celle de l&#39;atmosphere,
+mais encore après la mort, en donnant lieu
+à certains mouvemens dans les solides &amp; dans les
+fluides, tant que ceux-ci sont disposés à conserver
+de la fluidité, &amp; à céder à l&#39;action de ceux-là: d&#39;où
+surviennent souvent dans les cadavres différentes
+sortes d&#39;évacuations de sang, de sérosités, d&#39;urine,
+<i>&amp;c.</i> par les voies qui n&#39;offrent pas de la résistance à
+ces efforts automatiques. On peut donc encore inférer 
+de ces effets posthumes, que si le <i>froid</i> peut opérer 
+des mouvemens aussi marqués dans les corps des
+animaux sans le concours de la vie, il doit influer
+<pb n="7:328" facs="V7/ENC_7-328.jpeg" />
+<milestone unit="column" n="1" />
+bien davantage à-proportion sur les opérations des
+corps animés, en tant qu&#39;il contre-balance les effets
+qu&#39;y produit la chaleur qui leur est propre, en les
+bornant, d&#39;autant plus qu&#39;il a plus de part à sa génération,
+dans une certaine latitude ; en empêchant
+par conséquent le trop grand relâchement des fibres,
+la dissolution trop considérable des humeurs qui seroient 
+les suites de la chaleur &amp; du mouvement laissés 
+à eux-mêmes dans les animaux ; en conservant
+convenablement la fermeté, l&#39;élasticité dans celles-là,
+&amp; la densité, la consistance dans celles-ci.
+</p>
+<p>
+Mais lorsque le <i>froid</i> augmente au point de former
+des résistances au cours des fluides, résistances que
+la puissance motrice ne peut plus surmonter, &amp; dont
+conséquemment elle ne peut plus tirer avantage pour
+la production de la chaleur animale, les effets qui
+s&#39;ensuivent ne peuvent, comme on l&#39;a déjà fait pressentir,
+qu&#39;être très-nuisibles à l&#39;exercice des fonctions 
+nécessaires pour la vie saine, &amp; même seulement 
+pour l&#39;entretien de celles sans lesquelles la vie
+ne peut subsister. Le cours des humeurs est d&#39;abord
+considérablement ralenti, &amp; s&#39;arrête même totalement 
+dans les parties les plus exposées à l&#39;impression
+du <i>froid</i>, &amp; dans lesquelles la force impulsive est le
+plus affoiblie, à cause de l&#39;éloignement du principal
+instrument qui l&#39;a produit, c&#39;est-à-dire du coeur : ainsi
+la surface du corps en général, &amp; particulierement
+les extrémités, les piés, les mains, le nez, les oreilles,
+les levres, sont les parties les plus susceptibles
+d&#39;être affectées des effets du <i>froid ;</i> la peau se fronce,
+se resserre sur les parties qu&#39;elle enveloppe immédiatement ; 
+elle comprime de tous côtés les bulbes des
+poils, elle rend ainsi ces bulbes saillans ; elle reste
+soûlevée sous forme de petits boutons dans les portions 
+qui les recouvrent comparées à celles des interstices 
+de ces bulbes ; elle est seche &amp; roide, parce 
+que ses pores étant resserrés, ne permettent point
+à la matiere de l&#39;insensible transpiration de se répandre 
+dans sa substance, pour l&#39;humecter, l&#39;assouplir,
+&amp; que les vaisseaux cutanés ne recevant presque
+point de fluides, elle perd la flexibilité qui en dépend.
+Les ongles deviennent de couleur livide, noirâtre,
+à cause de l&#39;embarras dans le cours du sang des vaisseaux 
+qu&#39;ils recouvrent : c&#39;est par cette même raison 
+que les levres &amp; différentes parties déliées de la
+peau, paroissent violettes, attendu que les vaisseaux
+sanguins y sont plus nombreux, plus superficiels.
+Tout le reste des tégumens est extrèmement pâle ;
+parce que le resserrement des vaisseaux cutanés empêche 
+le sang d&#39;y parvenir. Le sentiment &amp; le mouvement 
+sont engourdis dans le visage, dans les mains
+&amp; les piés ; parce que la constriction des solides pénétrant 
+jusqu&#39;aux nerfs &amp; aux muscles, gêne le cours
+des esprits animaux, empêche le jeu des fibres charnues : d&#39;où s&#39;ensuit que même les mouvemens musculaires 
+qui servent à la respiration, se font difficilement ; 
+ce qui contribue à l&#39;oppression que donne le
+<i>froid</i>, joint à ce que la surface des voies de l&#39;air dans
+les poumons ayant beaucoup d&#39;étendue, n&#39;étant pas
+moins exposée que la peau, &amp; n&#39;ayant que très-peu
+d&#39;épaisseur, éprouve à proportion les mêmes effets
+du <i>froid</i> qu&#39;elle, par conséquent avec plus d&#39;intensité; 
+&amp; que le sang de ce viscere y est, comme il a
+été dit, très-exposé à la coagulation ; ce qui ajoûte
+beaucoup à l&#39;embarras du cours des humeurs dans ce
+principal organe auxiliaire de la circulation.
+</p>
+<p>
+Tous ces différens symptomes peuvent exister
+avec plus ou moins d&#39;intensité; mais ils constituent
+toûjours un véritable état de maladie : lorsque la lésion 
+des fonctions en quoi ils consistent est durable,
+ils peuvent même, comme il a déjà été dit, avoir les
+suites les plus funestes, si par la continuation des effets 
+du <i>froid</i>, les embarras dans le cours des humeurs
+s&#39;étendent beaucoup de la circonférence vers le centre,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; deviennent à proportion aussi considérables
+au-dedans qu&#39;au-dehors : d&#39;ou tirent d&#39;abord leur
+origine la plûpart des maladies causées par la suppression 
+de la transpiration insensible (<i>voyez</i> <sc><ref target="head:Transpiration" type="search">Transpiration</ref></sc>); d&#39;où se forment souvent de violentes
+inflammations dans les membres, sur-tout dans leurs
+extrémités qui ont beaucoup de disposition à le terminer 
+par la gangrene, le sphacele (<i>voyez</i> 
+<sc><ref target="head:Engelure" type="search">Engelure</ref>, <ref target="head:Gangrene" type="search">Gangrene</ref>, <ref target="head:Sphacele" type="search">Sphacele</ref></sc>
+); d&#39;où plus souvent
+encore prennent naissance les fluxions inflammatoires 
+de la membrane pituitaire, de la gorge, des poumons,
+de la plevre, à cause du contact immédiat ou
+presque immédiat de l&#39;air <i>froid</i> auquel sont exposées
+toutes ces parties. <i>Voyez</i> 
+<sc><ref target="head:Rhume" type="search">Rhume</ref>, <ref target="head:Enchifrenement" type="search">Enchifrenement</ref>, <ref target="head:Esquinancie" type="search">Esquinancie</ref>, <ref target="head:Péripneumonie" type="search">Péripneumonie</ref>, <ref target="head:Pleurésie" type="search">Pleurésie</ref></sc>
+</p>
+<p>
+L&#39;application de l&#39;air, de l&#39;eau, ou de toute autre
+chose qui peut exciter un sentiment vif de <i>froid</i> sur
+certaines parties du corps qui y sont le moins exposées,
+qui sont toûjours plus chaudes que d&#39;autres,
+produit toûjours des constrictions, des resserremens
+non-seulement dans les vaisseaux de la partie ainsi
+affectée &amp; même de toute l&#39;étendue de la peau, mais
+encore dans l&#39;intérieur, dans les visceres, où peuvent 
+être produits les mêmes vices, qui sont les suites 
+des impressions immédiates du <i>froid:</i> d&#39;où il arrive 
+souvent entre autres accidens, que les femmes
+éprouvent la suppression de leurs regles, par l&#39;effet
+d&#39;avoir passé subitement d&#39;un air chaud à un air bien
+<i>froid</i>, ou d&#39;avoir souffert le <i>froid</i> aux piés, aux mains
+avec assez d&#39;intensité ou de durée, ou de s&#39;être trempé 
+ces parties dans de l&#39;eau bien <i>froide</i>. Tous ces accidens 
+surviennent dans ces cas d&#39;autant plus aisement,
+si les personnes qui les éprouvent avoient auparavant 
+tout leur corps bien chaud. Il en est de
+même à l&#39;égard de la boisson bien <i>froide</i>, de la boisson 
+à la glace, dans la circonstance où le corps est
+échauffé par quelque exercice, par quelque travail
+violent ; ce qui donne lieu à des maladies très-aigue,
+&amp; très-communes parmi les gens de la campagne,
+les gens de fatigue.
+</p>
+<p>
+Dans tous ces cas, quoique l&#39;effet immédiat du
+<i>froid</i> ne porte que sur les parties externes, ou sur
+celles qui communiquent avec l&#39;extérieur qu&#39;il affecte 
+par les propriétés physiques qui ont été si souvent 
+mentionnées ; cet effet ne se borne pas à la
+surface de ces parties ; il est attaché à l&#39;impression du
+<i>froid</i>, de causer une sorte de <i>stimulus</i> dans le genre
+nerveux, d&#39;en éxciter l&#39;irritabilité, &amp; d&#39;occasionner
+une tension, un érétisme général dans toutes les parties 
+du corps ; d&#39;où se forme un resserrement dans,
+tous les vaisseaux, qui fait un obstacle dans tout le
+cours des humeurs, à raison de la diminution proportionnée 
+dans le diametre de chacun d&#39;eux, diminution 
+qui restraint par conséquent la capacite
+des parties contenantes, &amp; donne lieu à une pléthore 
+respective ; ensorte que la partie des humeurs
+qui devient excédente par-là, est forcée par les lois
+de l&#39;équilibre, dans le systeme vasculeux du corps
+animal, à se porter dans la partie qui en est la plas
+foible ; ou s&#39;il n&#39;en est aucune qui cede, il s&#39;ensuit
+nécessairement que la circulation des humeurs trouvant 
+par-tout une égale résistance, se trouve aussi
+par-tout embarrassée, &amp; disposée à s&#39;arrêter. Tel
+fut le cas d&#39;Alexandre, mentionné dans Quinte-Curce, <i>lib. II. cap. v.</i> Ce prince ayant voulu pendant le
+fort de la chaleur du jour, dans un climat brûlant,
+se laver dans le fleuve Cydnus, de la poussiere mêlée
+à la sueur dont son corps étoit couvert, après
+s&#39;être échauffé excessivement par les plus grandes
+fatigues de la guerre, fut tellement saisi du <i>froid</i> de
+l&#39;eau, que tout son corps en devint roide, immobile,
+couvert d&#39;une pâleur mortelle, &amp; parut avoir
+perdu toute sa chaleur vitale ; ensorte qu&#39;il fut tiré
+<pb n="7:329" facs="V7/ENC_7-329.jpeg" />
+<milestone unit="column" n="1" />
+du fleuve sans forces, sans usage de ses sens, en un
+mot comme sans vie. Tous ces effets furent produits
+si subitement, que le <i>froid</i> n&#39;avoit pas pû pénétrer
+dans l&#39;intérieur, pour agir immédiatement, comme
+à l&#39;extérieur, par sa faculté de resserrer les solides,
+de condenser, de figer les fluides : ce ne pouvoit être
+que par le moyen des nerfs qu&#39;il se fit un desordre
+si prompt &amp; si terrible dans toute l&#39;économie animale 
+de ce jeune héros ; desordre qui faisoit un état
+si dangereux, que l&#39;habileté &amp; le zele des medecins
+de Philippe son pere eurent bien de la peine à l&#39;en
+tirer, à le rappeller, pour ainsi dire, à la vie, &amp; à
+lui rendre la santé; parce que la lésion des fonctions
+avoit été d&#39;autant plus considérable, que le sujet
+étoit plus robuste, &amp; qu&#39;il ne se trouva point dans
+son corps de partie foible disposée à souffrir pour le
+tout ; ensorte que le mal intéressa dans ce cas généralement 
+toutes les conditions nécessaires pour l&#39;entretien 
+de la santé. <i>Voyez</i>, sur la théorie relative aux
+accidens de cette espece, l&#39;<i>article</i> <sc><ref target="head:Equilibre" type="search">Equilibre</ref></sc>, (<i>Economie animale.</i>)
+</p>
+<p>
+La cause à laquelle on vient d&#39;attribuer ces derniers 
+phénomenes comme effets du <i>froid</i>, sans qu&#39;il
+porte ses impressions immédiatement, en tant que
+<i>froid</i> externe, sur les parties internes de l&#39;animal,
+semble être encore plus prouvée par ce qui arrive
+en consequence de l&#39;application subite d&#39;une colonne
+d&#39;air <i>froid</i>, ou de quelqu&#39;autre corps bien <i>froid</i>, sur
+une partie bien chaude &amp; bien sensible de la surface
+de notre corps ; application qui excite une sorte de
+tremblement sur toute la peau, un vrai frisson momentané,
+c&#39;est à-dire qui dure autant que la sensation 
+même du <i>froid</i> C&#39;est ainsi que l&#39;aspersion de
+l&#39;eau bien <i>froide</i> sur le visage des personnes disposées 
+à la syncope, rappelle les sens &amp; rétablit les
+mouvemens vitaux prêts à être suspendus, en produisant 
+une sorte de secousse dans tout le genre nerveux : c&#39;est ainsi que l&#39;on a quelquefois arrêté des hémorrhagies,
+en touchant quelque partie du corps
+bien chaude, avec un morceau de métal bien <i>froid</i>,
+ou un morceau de glace ; en occasionnant par la sensation 
+vive qui résulte de cette application, une sorte
+de crispation des solides en général, qui resserre comme 
+par accident les vaisseaux qui se trouvent ouverts.
+</p>
+<p>
+Ces considérations concernant les effets lu <i>froid</i>
+externe sur le corps humain (effets que l&#39;on peut distinguer 
+en les appellant <i>sympathiques</i>, parce qu&#39;ils
+influent sur des parties où ils n&#39;ont pû être portés ou
+produits que par communication, &amp; non immédiatement), menent à dire quelque chose d&#39;autres effets
+du <i>froid</i> dans les animaux, produits par des causes
+absolument internes, sans aucun concours du <i>froid</i>
+externe : tels sont tous les obstacles à l&#39;action du
+coeur &amp; des arteres, tant qu&#39;ils ne peuvent pas être
+facilement surmontés par sa puissance motrice ; tout
+ce qui de la part des humeurs s&#39;oppose à leur propre
+cours, comme le trop de consistance, leur épaississement, leur trop grande quantité qui fait une masse
+trop difficile à mouvoir, leur volume trop diminué
+par les grandes évacuations, les hémorrhagies surtout 
+qui diminuent trop considérablement la partie
+rouge du sang, le nombre de ses globules, tout ce
+qui empêche la distribution du fluide nerveux &amp; en
+conséquence le mouvement des organes vitaux, même 
+de ceux qui sont soûmis à la volonté, comme dans
+les parties paralysées qui sont toûjours <i>froides ;</i> enfin
+tout ce qui peut diminuer ou suspendre l&#39;agitation,
+le frottement de la partie élastique de nos humeurs
+entre elles, &amp; contre les vaisseaux qui les contiennent.
+<i>Voyez</i> 
+<sc><ref target="head:Fievre maligne" type="search">Fievre maligne</ref>, <ref target="head:lipyrie" type="search">lipyrie</ref>, <ref target="head:intermittente" type="search">intermittente</ref>, <ref target="head:Venin" type="search">Venin</ref>, <ref target="head:Poison" type="search">Poison</ref>, <ref target="head:Gangrene" type="search">Gangrene</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Ces différentes causes internes du <i>froid</i> animal sont
+certaines &amp; fréquentes : il en est cependant encore
+<milestone unit="column" n="2" />
+d&#39;autres d&#39;une différente nature, qui produisent des
+effets que l&#39;on ne sauroit attribuer à celles qui viennent 
+d&#39;être exposées, puisqu&#39;il s&#39;agit de cas où l&#39;on
+éprouve une sensation de <i>froid</i> très-marqué &amp; souvent 
+très-vif, sans qu&#39;il y ait aucune diminution d&#39;agitation 
+dans les solides &amp; dans les fluides ; au contraire 
+même souvent avec des mouvemens violens
+dans les principaux organes de la circulation du
+sang, du cours des humeurs, avec toutes les dispositions 
+nécessaires pour la conservation de leur fluidité; 
+ensorte qu&#39;il arrive quelquefois que les parties
+supérieures du corps sont brûlantes, tandis que les
+inférieures sont glacées ; qu&#39;un côté du corps est refroidi,
+pendant que l&#39;on sent beaucoup d&#39;ardeur dans
+le côté opposé; que l&#39;on sent comme un air <i>froid</i> se
+répandant sur un membre, comme par un mouvement 
+progressif, tandis que l&#39;on est fatigué de bouffées 
+de chaleur ; qu&#39;il se fait des transports d&#39;humeurs,
+des engorgemens dans d&#39;autres parties, avec
+les symptomes les plus violens. On ne peut attribuer
+la cause de semblables phénomenes qu&#39;à l&#39;action des
+nerfs, qui par l&#39;effet d&#39;un cours irrégulier des esprits
+animaux, sont tendus &amp; resserrent les vaisseaux dans
+quelques parties ; d&#39;où les humeurs devenues surabondantes 
+par rapport à la diminution de la capacité 
+des vaisseaux, sont comme repoussées dans d&#39;autres 
+parties qui n&#39;opposent point de résistance extraordinaire,
+où elles sont portées avec beaucoup d&#39;agitation,
+tandis que leur cours est presque arrêté
+dans les vaisseaux resserrés ; de maniere qu&#39;il s&#39;établit 
+dans ceux-ci une disposition, telle qu&#39;elle peut
+être produite par le <i>froid</i> externe, pour exciter la
+sensation qui resulte de son application sur les parties 
+sensibles ; &amp; dans ceux-là une disposition telle
+qu&#39;il la faut pour faire augmenter la génération de
+la chaleur animale, &amp; le sentiment qu&#39;elle fait naître.
+<i>Voyez</i> <sc><ref target="head:Chaleur animale" type="search">Chaleur animale</ref></sc>, &amp; sur ces effets singuliers,
+ce qui est dit en son lieu de chacune des différentes 
+maladies dans lesquelles on les observe, telles 
+que la <sc><ref target="head:Fievre nerveuse" type="search">Fievre nerveuse</ref></sc>, <i>la</i> 
+<sc><ref target="head:Passion hypocondriaque" type="search">Passion hypocondriaque</ref>, <ref target="head:hystérique" type="search">hystérique</ref></sc>, <i>les</i> <sc><ref target="head:Vapeurs" type="search">Vapeurs</ref></sc>, <i>l&#39;</i><sc><ref target="head:Epilepsie" type="search">Epilepsie</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Dans d&#39;autres cas il survient en peu de tems, &amp;
+quelquefois subitement, à des personnes qui ont toute 
+leur chaleur naturelle, tant au dehors qu&#39;au-dedans, un <i>froid</i> répandu sur toute la surface du corps
+avec pâleur, frisson, tremblement dans les membres,
+sueur froide ; tous symptomes que l&#39;on ne peut encore 
+attribuer qu&#39;au resserrement plus ou moins
+prompt, qui se fait dans les vaisseaux capillaires par
+le moyen des nerfs, ensuite d&#39;une distribution irréguliere,
+plus abondante qu&#39;elle ne devroit être, du
+fluide nerveux dans l&#39;habitude du corps, &amp; dans les
+organes du mouvement ; resserrement qui arrête le
+cours des humeurs, dans tous les tégumens, &amp; en
+exprime sous forme sensible la matiere de la transpiration 
+condensée par le défaut de chaleur animale.
+</p>
+<p>
+On observe ces différens phénomenes avec plus
+ou moins d&#39;intensité dans les grandes passions de l&#39;ame,
+comme le chagrin, la peur, la surprise, l&#39;effroi,
+la terreur, <i>&amp;c. Voyez</i> <sc><ref target="head:Passions" type="search">Passions</ref></sc>, <i>animi pathemata</i>.
+</p>
+<p>
+Après avoir considéré quelles sont les différentes
+causes tant externes qu&#39;internes, qui peuvent nous
+affecter de la sensation du <i>froid</i>, il reste à dire quelque 
+chose des différens moyens que l&#39;on peut employer 
+pour faire cesser la disposition contre nature 
+qui produit cette sensation ; parce que l&#39;on peut
+inférer de l&#39;effet de ces moyens, la confirmation de
+tout ce qui a été avancé ici concernant la théorie du
+<i>froid</i> animal.
+</p>
+<p>
+Parmi les causes, tant externes qu&#39;internes, qui
+peuvent produire la disposition à laquelle en est attachée 
+la sensation, il n&#39;en est point de si générale &amp;
+de si commune, que l&#39;application du <i>froid</i> de l&#39;air ambiant:<gap type="hyphenpb" />
+<pb n="7:330" facs="V7/ENC_7-330.jpeg" />
+<milestone unit="column" n="1" />
+or comme c&#39;est par l&#39;agitation de l&#39;air, par le
+renouvellement continuel de la partie de ce fluide
+qui nous environne, que le <i>froid</i> est le plus sensible,
+tout étant égal ; le premier moyen que les hommes
+nés nuds &amp; laissés à-peu-près sans défense à cet égard,
+ont trouvé de se garantir un peu de cette impression
+desagréable, a été vraissemblablement de se mettre
+à couvert du vent derriere des arbres ou tout autre
+corps, qui pouvoient être interposés entre eux &amp; le
+courant d&#39;air. On eut ensuite bien-tôt occasion de
+découvrir quelque creux de rocher, quelque caverne,
+où l&#39;on pouvoit encore se mettre plus aisément à
+l&#39;abri de toutes les injures de l&#39;air ; mais on ne pouvoit 
+souvent pas y rester autant qu&#39;elles duroient ; il
+falloit passer d&#39;un lieu à un autre pour pourvoir à ses
+besoins. On s&#39;apperçut que la nature avoit donné aux
+bêtes différens moyens attachés à leur individu, tels
+que les poils, les plumes, dont le principal usage paroissoit 
+être de couvrir la surface de leur corps, &amp;
+de la défendre des impressions fâcheuses que pouvoient 
+leur causer les corps ambians : envier cet
+avantage &amp; sentir que l&#39;on pouvoit se l&#39;approprier,
+ne furent presqu&#39;une même réflexion. En effet l&#39;homme 
+ne tarda pas à se procurer par art ce dont la nature 
+ne l&#39;avoit sans doute laisse dépourvû, que parce
+qu&#39;elle lui avoit donné d&#39;ailleurs bien supérieurement
+à tous les animaux, l&#39;intelligence nécessaire non seulement 
+pour se défendre de toutes les incommodités
+de la vie, mais encore pour trouver tous les moyens
+possibles de se la rendre agréable, &amp; par conséquent
+celui de se garantir du plus grand inconvénient de sa
+nudité, en se couvrant contre le <i>froid</i>, &amp; de la faire
+servir par le moyen d&#39;un tact plus fin &amp; plus étendu,
+à des delices de différentes especes (que les animaux
+ne sont pas disposés à gouter), dans bien des circonstances 
+où il pouvoit desirer d&#39;avoir la surface de son
+corps découverte &amp; exposée au contact d&#39;autres
+corps propres à lui procurer des sensations agréables 
+comme dans les chaleurs de l&#39;été, où il lui étoit
+facile de se dépouiller de tout ce qui pouvoit l&#39;empêcher 
+de sentir la fraîcheur de l&#39;air, lorsque l&#39;occasion
+s&#39;en présentoit ; il se détermina donc bien-tôt à sacrifier
+au besoin qu&#39;il avoit de se défendre du <i>froid</i> les
+bêtes, auxquelles il crut voir les couvertures les plus
+convenables qu&#39;il pût convertir à son usage. Il n&#39;eut
+pas à balancer pour le choix ; les animaux dont les
+fourrures sont les plus fournies, dûrent avoir tout-de-suite la préférence : c&#39;est-là vraissemblablement
+le premier motif qui a porté les hommes à égorger
+des animaux ; ils pouvoient s&#39;en passer à l&#39;égard de
+la nourriture, les fruits pouvoient leur suffire ; mais
+il ne se présentoit rien d&#39;aussi propre à les couvrir, &amp;
+qui demandât moins de préparation, que la peau garnie 
+de poil, dont la nature avoit couvert un grand
+nombre d&#39;animaux de différentes grandeurs.
+</p>
+<p>
+L&#39;art ajoûta ensuite beaucoup à ce vêtement simple,
+pour le rendre plus commode ; il ne servit d&#39;abord 
+qu&#39;à envelopper le tronc ; on ne parvint pas
+si-tôt à trouver le moyen de couvrir les extrémités
+séparément. Tout ce qu&#39;on se proposa d&#39;abord en
+cherchant à le perfectionner, fut d&#39;en rendre l&#39;application 
+plus intime sur les parties que l&#39;on en couvroit,
+&amp; d&#39;empêcher qu&#39;il ne restât des issues à l&#39;air
+pour pénétrer jusqu&#39;à la peau. On s&#39;apperçut bientôt 
+que plus la substance du vêtement est compacte,
+plus elle garantit du <i>froid:</i> la chaleur du corps
+animal se répandant autour de lui, échauffe ce qui
+l&#39;environne jusqu&#39;à une certaine distance : ainsi l&#39;air
+ambiant participe à cette chaleur, d&#39;autant plus qu&#39;il
+est appliqué plus long-tems à ce corps chaud sans être
+renouvellé, &amp; il lui rend de cette chaleur empruntée 
+à proportion de ce qu&#39;il en a reçû. Mais comme
+les corps en général retiennent &amp; communiquent
+plus de chaleur selon qu&#39;ils sont plus denses, l&#39;air
+<milestone unit="column" n="2" />
+étant de tous les corps celui qui a le moins de densité,
+ne peut donc retenir &amp; communiquer que très peu 
+de la chaleur qu&#39;il a reçue de notre corps : c&#39;est
+donc en fixant davantage cette chaleur exhalée hors
+de nous, &amp; en nous la rendant pour ainsi dire reversible,
+que les vêtemens nous servent d&#39;autant plus
+qu&#39;ils sont plus compactes, &amp; plus exactement appliqués 
+à la surface de notre corps ; de maniere qu&#39;ils
+empêchent le contact de l&#39;air, qui est plus propre à
+enlever de la chaleur animale, qu&#39;à en rendre la dissipation 
+profitable, &amp; qu&#39;ils absorbent eux-mêmes
+en bonne partie, ce qui s&#39;échappe ainsi continuelle
+ment de cette chaleur, pour la réfléchir sur le corps
+qui l&#39;a produite, pour contribuer par-là à empècher
+les effets du <i>froid</i> sur la surface du corps, &amp; s&#39;opposer 
+au trop grand resserrement des vaisseaux capillaires
+cutanés, à la trop grande condensation des humeurs 
+qui y sont contenues, d&#39;où suivroit la disposition 
+contre nature, à laquelle est attachée la sentation 
+du <i>froid</i>.
+</p>
+<p>
+Ainsi c&#39;est par le moyen des habits que l&#39;on conserve 
+la chaleur des parties qui en sont couvertes,
+que l&#39;on garantit ces parties des effets du <i>froid</i> externe ; 
+c&#39;est aussi l&#39;inconvenient de cette précaution qui
+les rend plus sensibles, tandis que le visage, les
+mains, ou toute autre partie qui est exposée au contact 
+immédiat de l&#39;air, peuvent être très-<i>froides</i> en
+comparaison de celles là, sans qu&#39;il en résulte une
+sensation aussi desagréable, <i>ab assuetis non fit passio</i>.
+Le plus souvent les premieres ne deviennent <i>froides</i>
+que par la communication sympathique dont il a été
+traite ci-devant, &amp; non pas par l&#39;impression immediate 
+du <i>froid</i> externe, qui pénetre difficilement lorsqu&#39;on est bien vêtu, lorsque les habits sont d&#39;un tissu
+serré &amp; qu&#39;ils enveloppent le corps bien exactement.
+Ils rendent au corps la chaleur dont ils sont imbus,
+&amp; qu&#39;ils retiennent d&#39;autant plus qu&#39;ils y participent,
+qu&#39;elle leur est communiquée sans interruption,
+à-mesure par conséquent qu&#39;elle s&#39;engendre &amp;
+qu&#39;elle se dissipe. Ainsi le resserrement causé par le
+<i>froid</i> n&#39;est jamais si considérable dans les parties couvertes ; 
+il s&#39;y engendre donc moins de chaleur animale,
+à proportion que dans celles où il y a plus d&#39;effet,
+du <i>froid</i>, telles que le visage, que l&#39;on n&#39;habille
+jamais ; celles là conservent leur chaleur par le
+moyen des corps chauds qui leur sont continuellement 
+appliqués ; celles-ci en engendrent davantage,
+à-proportion qu&#39;elles en perdent davantage ; ou elles
+se refroidissent lorsque le resserrement des capillaires
+y est si fort, qu&#39;il empêche le mouvement des humeurs,
+&amp; par consequent la génération de la chaleur 
+animale ; on peut encore dire à l&#39;égard de l&#39;effet 
+des habits, en tant qu&#39;ils servent à la conserver,
+qu&#39;ils y contribuent peut-être aussi un peu par leur
+poids, en ce qu&#39;ils compriment la surface du corps.
+&amp; qu&#39;en resserrant ainsi les vaisseaux, ils favorisent
+le frottement des humeurs contre leurs parois, auquel 
+est attaché de reproduire la chaleur ; il est certain 
+que des couvertures pesantes contribuent autant 
+à détendre du <i>froid</i>, que des couvertures d&#39;un
+tissu bien dense ; mais celles-là produisent cet effet
+d&#39;une maniere très-incommode.
+</p>
+<p>
+Ce n&#39;est pas encore le tout d&#39;être bien couvert,
+bien vêtu pour se garantir du <i>froid</i> externe ; il faut
+de plus, que comme on se propose par le moyen des
+habits d&#39;empêcher la dissipation immédiate de la chaleur 
+animale, l&#39;on empêche aussi l&#39;enlevement de
+celle qui est communiquée aux habits ou autres differentes 
+couvertures ; au-moins est il besoin de s&#39;opposer 
+par des moyens convenables à ce qu&#39;ils ne perdent 
+pas absolument toute celle qu&#39;ils reçoivent ; ce
+qui arrive lorsque l&#39;air ambiant se renouvelle continuellement 
+par agitation ou par l&#39;effet du vent ; on
+ne peut empêcher cette dissipation de la chaleur refléchie<gap type="hyphenpb" />
+<pb n="7:331" facs="V7/ENC_7-331.jpeg" />
+<milestone unit="column" n="1" />
+des vêtemens, qu&#39;en se tenant dans un lieu
+bien fermé; en rendant autant qu&#39;il est possible l&#39;air
+comme immobile autour de soi par les paravents,
+les rideaux, les alcoves, <i>&amp;c.</i> ce qui procure alors
+une atmosphere toûjours chaude, parce qu&#39;on l&#39;échauffe 
+soi même, &amp; que l&#39;on se fait de cette maniere,
+pour ainsi dire, un poile naturel dont le foyer de
+la chaleur animale est lui-même le fourneau ; on se
+procure encore plus sûrement cette atmosphere chaude 
+par le moyen des poîles proprement dits (<i>hypocausta</i>), des chambres échauffées avec les differentes
+matieres combustibles dont on forme &amp; entretient le
+feu domestique ; il n&#39;est pas hors de propos d&#39;observer 
+ici que cette chaleur artificielle ne doit jamais
+être assez considerable pour faire monter le thermometre 
+au dessus de 60 degrés du thermometre de
+Farenheit, parce qu&#39;etant jointe à celle que nous engendrons 
+en tems <i>froid</i>, qui est beaucoup plus considerable 
+qu&#39;en tems chaud, elle seroit excessive, &amp;
+relâcheroit trop vîte l&#39;habitude du corps ; d&#39;ailleurs,
+quoique la chaleur de l&#39;éte éleve souvent le thermometre 
+bien au dessus du terme qui vient d&#39;être indique 
+pour les poîles, il y a cette différence, qu&#39;on ne
+reste pas en cette saison dans un lieu fermé, dont l&#39;air
+ne soit pas renouvelle ; c&#39;est le renouvellement de
+l&#39;air auquel on s&#39;expose tant qu&#39;on peut pendant les
+chaleurs de l&#39;ete, qui contribue le plus à les rendre
+supportables, attendu que l&#39;air n&#39;y participe jamais
+à un degré superieur, &amp; même égal a celui de la chaleur 
+animale dans ce tems là; par conséquent l&#39;air
+agité, le changement d&#39;atmosphere propre ou du
+fluide qui la forme, enlevent continuellement de
+cette chaleur, qui n&#39;est pas alors bien plus considérable 
+que celle de l&#39;atmosphere en général, parce
+qu il s&#39;en engendre d&#39;autant moins en nous, comme
+il a ete établi dans l&#39;article précédent, que l&#39;air est
+plus échauffé &amp; communique davantage de sa chaleur
+à notre corps.
+</p>
+<p>
+Tous les moyens que nous employons pour nous
+garantir ou pour nous délivrer des effets du <i>froid</i> externe,
+tendent donc tous à opérer les mêmes changemens
+en nous &amp; autour de nous, qui se font par
+le passage de l&#39;hyver à l&#39;été; nous échauffons l&#39;air
+qui nous environne, les corps qui nous enveloppent,
+&amp; par à même la surface de notre corps médiatenient 
+ou immédiatement, ainsi nous ne faisons
+autre chose qu&#39;empêcher ou faire cesser le trop grand
+resserrement de nos solides, la constriction de nos
+vaisseaux capillaires, sur-tout de ceux de la peau,
+qui sont le plus exposés ; la condensation excessive de
+nos humeurs, leur disposition à une coagulation prochaine,
+qui sont constamment les effets d&#39;un trop
+grand <i>froid</i>, bien marqués par tous les symptomes
+qui s&#39;ensuivent, dont la cause leur a été attribuée 
+ci-devant 
+à juste titre ; &amp; par les douleurs que l&#39;on ressent 
+en réchauffant des parties bien <i>froides ;</i> douleurs
+qui ne sont produites que parce que le relâchement
+causé par la chaleur dans les solides, favorise le mouvement 
+progressif, le frottement des humeurs presque 
+coagulées, qui roulent durement, pour ainsi dire,
+dans les vaisseaux qui les contiennent, &amp; causent 
+conséquemment de l&#39;irritation dans leurs tuniques ; 
+ensorte que cette sensation desagréable dure
+jusqu&#39;à ce que la chaleur extérieure ait ramolli, dissous 
+ces humeurs en les pénétrant, &amp; leur ait rendu
+leur fluidité naturelle ; les frictions sur les parties affectées 
+du <i>froid</i> faites avec des linges chauds, sont
+plus propres à les dissiper sans douleur de l&#39;espece
+dont on vient de parler, que de se présenter tout-à-coup à un grand feu.
+</p>
+<p>
+La sensation &amp; les autres effets du <i>froid</i> animal causés 
+par communication (des parties affectées immédiatement 
+par le <i>froid</i> externe à celles qui ne le sont
+pas, &amp; qui en reçoivent cependant les impressions,)
+<milestone unit="column" n="2" />
+ne sont susceptibles d&#39;être corrigés par les mêmes
+moyens que lorsqu&#39;ils proviennent entierement de
+quelque cause externe immédiate que ce puisse être ;
+mais il n&#39;en est pas tout-à-fait de même des causes internes 
+du <i>froid</i> animal, c&#39;est-à-dire de celles qui sont
+indépendantes du <i>froid</i> externe ; le plus souvent elles
+sont de nature à ne pas céder à l&#39;application extérieure 
+des moyens propres à dissiper les effets du <i>froid</i> externe ; 
+ainsi lorsque la masse des humeurs est tellement 
+épaissie, a contracté une si grande force de cohésion 
+dans ses parties intégrantes, qu&#39;elle ne cede
+point à l&#39;action dissolvante des vaisseaux, ni à celle
+des particules ignées dont on les pénetre, comme il
+arrive dans le <i>froid</i> de la fievre, particulierement de
+certaines fievres malignes, pestilentielles, de celles
+qui sont causées par l&#39;effet de certains poisons ou venins 
+coagulans, de quelques especes de fievres intermittentes 
+(<i>voyez à l&#39;article</i> <sc><ref target="head:Fievre" type="search">Fievre</ref></sc> ce qui concerne 
+le <i>froid fébrile</i>): dans ces différens cas, on réussit
+mieux le plus souvent à faire cesser les effets du <i>froid</i>
+par tout ce qui est propre à ranimer, à exciter l&#39;action 
+des organes vitaux, le mouvement, le cours des
+humeurs ; à favoriser le rétablissement de leur fluidité,
+comme les cordiaux, les délayans aromatiques,
+les stimulans tant internes qu&#39;externes, &amp; ceux-cï
+particulierement à l&#39;égard du <i>froid</i> des parties affectées 
+de rhumatisme, que par quelqu&#39;autre moyen que
+ce soit, appliqué à l&#39;extérieur pour procurer de la
+chaleur.
+</p>
+<p>
+Le vice des solides peut aussi être tel qu&#39;ils manquent 
+des qualités qu&#39;ils doivent avoir pour co-opérer à la génération de la chaleur animale ; ils peuvent 
+donc aussi contribuer à disposer à la sensation
+du <i>froid ;</i> c&#39;est ainsi que dans le corps des vieillards
+les tuniques des vaisseaux deviennent si solides, si
+peu flexibles, qu&#39;elles ne peuvent pas se prêter aux
+mouvemens, à l&#39;action nécessaire, pour entretenir
+le cours des humeurs avec la force &amp; la vîtesse,
+d&#39;où dépendent l&#39;intensité du frottement des globules 
+sanguins dans les vaisseaux capillaires, &amp; les autres 
+effets qui concernent la chaleur naturelle ; ensorte 
+que la vieillesse établit dans les solides une disposition 
+contraire à la génération de la chaleur ; tout
+comme le grand <i>froid : senescere, sicut frigescere est continuò 
+rigescere</i>. C&#39;est pourquoi l&#39;usage modéré du vin,
+des liqueurs spiritueuses, &amp; de tout ce qui peut fournir 
+aux organes vitaux des aiguillons pour exciter
+leurs mouvemens, est si salutaire aux gens âgés
+pour l&#39;entretien ou le rétablissement de leur chaleur
+naturelle ; &amp; quant aux moyens externes qu&#39;il convient 
+d&#39;employer pour le même effet, il est certain
+que la chaleur douce &amp; humide des jeunes personnes 
+long-tems couchées avec les vieilles gens, est
+plus efficace, &amp; leur est plus utile que la chaleur seche 
+du feu artificiel : attendu que celle-ci raccornit
+toûjours plus les fibres, &amp; augmente par-là le vice qui
+empêche la production de la chaleur naturelle ; &amp;
+que celle-là, en suppléant à ce défaut, assouplit les
+solides, ou au-moins entretient le peu de flexibilité
+qui leur reste.
+</p>
+<p>
+Mais le <i>froid</i> animal le plus rebelle à l&#39;action du
+feu artificiel appliqué tant extérieurement qu&#39;intérieurement 
+sous quelque forme que ce soit, &amp; à quelque 
+degré que l&#39;on le porte, c&#39;est le <i>froid</i> causé par
+le spasme de cause interne, l&#39;érétisme du genre nerveux : puisque la chaleur, sur-tout lorsquelle est excessive,
+ne fait qu&#39;augmenter le <i>stimulus</i> qui en est la
+cause ; par conséquent la disposition, le resserrement
+des vaisseaux qui s&#39;opposent au cours des humeurs,
+d&#39;où dépend la génération de la chaleur animale. Il
+n&#39;y a que le relâchement procuré par la cessation du
+<i>stimulus</i>, de la cause qui irrite les nerfs, de l&#39;influx
+irrégulier des esprits animaux, qui en augmentent la
+tension <i>contre nature</i>, selon le langage des écoles,
+<pb n="7:332" facs="V7/ENC_7-332.jpeg" />
+<milestone unit="column" n="1" />
+qui puisse faire cesser cette disposition, de laquelle
+provient le <i>froid</i> animal dans les passions de l&#39;ame,
+dans les maladies dont la cause occasionne un pareil
+desordre, qui se manifeste principalement par l&#39;effet
+de tout ce qui affecte immédiatement la partie éminemment irritable &amp; sensible du corps humain.
+</p>
+<p>
+Comme donc ce desordre dans le physique animal
+proprement dit, dépend le plus souvent beaucoup
+de la relation qui subsiste entre la faculté pensante &amp;
+les organes qui y ont un rapport immédiat, &amp; qu&#39;il
+est sur-tout entretenu par l&#39;influence réciproque entre 
+celle-là &amp; ceux-ci, le repos de l&#39;esprit &amp; du corps,
+la cessation des peines de l&#39;un &amp; l&#39;autre, les remedes
+moraux sont souvent les moyens les plus propres à
+faire cesser le <i>froid</i> animal qui provient de la tension
+des nerfs, sans aucune cause physique qui l&#39;entretienne.
+Il est cependant bien des cas où ces moyens
+n&#39;étant pas suffisans, on peut avoir recours avec succès 
+aux médicamens propres à faire cesser cette tension 
+morbifique, le resserrement des vaisseaux qui en
+est l&#39;effet : tels sont les médicamens anodyns, narcotiques,
+anti-spasmodiques : les émolliens chauds employés 
+intérieurement &amp; extérieurement, tels que
+les lavemens, les bains de même qualité, <i>&amp;c.</i> mais
+ce ne sont là le plus souvent que des palliatifs : le régime,
+l&#39;exercice, les médicamens propres à fortifier
+les solides en général, à diminuer la délicatesse, la
+sensibilité, l&#39;irritabilité du genre nerveux, sont les
+moyens les plus propres à détruire la cause du symptome 
+dont il s&#39;agit, c&#39;est-à dire du <i>froid</i> animal, &amp; de
+tous ceux qui proviennent du vice mentionné que
+Sydenham appelloit <i>ataxie du fluide nerveux. Voyez</i>
+le traitement de toutes les maladies spasmodiques &amp;
+convulsives, &amp; sur-tout des <i>vapeurs</i>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

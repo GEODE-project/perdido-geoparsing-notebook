@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29310" id="52:123:5" vol="7">
+<index type="head" value="Général" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclésiastique." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>Général</head>
+<p>
+<sc>Général</sc>, (<i>Hist. ecclésiastique.</i>) est usité parmi les
+moines pour signifier <i>le ches</i> d&#39;un ordre, c&#39;est-à-dire
+de toutes les maisons &amp; congrégations qui sont sous la
+même regle. <i>Voyez</i> <sc><ref target="head:Ordre" type="search">Ordre</ref></sc>.
+</p>
+<p>
+Nous disons dans ce sens le <i>général</i> des Cisterciens,
+des Franciscains, <i>&amp;c. Voyez</i> <sc><ref target="head:Franciscains" type="search">Franciscains</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Le P. Thomassin fait venir l&#39;origine des <i>généraux</i>
+des ordres, des priviléges que les anciens patriarches
+avoient accordés aux monastères de leurs villes capitales,
+par le moyen desquels ils étoient exempts
+de la jurisdiction de l&#39;évêque, &amp; soûmis immédiatement 
+au seul patriarche. <i>Voyez</i> <sc><ref target="head:Exemption" type="search">Exemption</ref></sc>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

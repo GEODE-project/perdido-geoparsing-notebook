@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28728" id="51:71:11" vol="7">
+<index type="head" value="Gage prétorien" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gage prétorien</head>
+<p>
+<sc>Gage prétorien</sc>, <i>pignus proetorium</i>, étoit chez
+les Romains celui qui se contractoit, lorsque par l&#39;édit
+du préteur, c&#39;est-à-dire en vertu d&#39;un mandement &amp;
+commission du magistrat, ce que l&#39;on appelloit <i>autore
+praetore</i>, le créancier étoit mis en possession des biens
+de son débiteur, quoiqu&#39;il n&#39;eût stipulé sur ces biens
+aucune hypotheque.
+</p>
+<p>
+Cette mise en possession se fait avant la condamnation 
+du débiteur ou après. Elle s&#39;accordoit avant
+la condamnation, à cause de la contumace du débiteur,
+soit <i>in non comparendo, aut in non satis dando ;</i> elle s&#39;accordoit après la condamnation lorsque
+le débiteur se cachoit de peur d&#39;être emprisonné faute 
+de payement, suivant la loi des douze tables.
+</p>
+<p>
+Dans les actions réelles cette mise en possession ne
+s&#39;accordoit que sur la chose contentieuse seulement,
+au lieu que dans les actions personnelles elle se faisoit
+sur tous les biens du débiteur ; mais Justinien la modéra 
+<i>ad modum debiti</i>, comme il est dit en l&#39;authentique 
+<i>&amp; qui jurat</i>, inserée au code <i>de bonis autor. jud.
+possid</i>. C&#39;est pourquoi depuis Justinien, cette mise en
+possession fut fort peu pratiquée, parce que l&#39;usage du
+<i>gage</i> judiciel fut trouvé plus commode, attendu qu&#39;il
+étoit plûtôt vendu, &amp; avec moins de formalité.
+</p>
+<p>
+Le <i>gage prétorien</i> ne s&#39;accordoit que quand le débiteur 
+étoit absent, &amp; qu&#39;il se cachoit pour frauder ses
+créanciers, suivant ce qui est dit dans les deux dernieres 
+lois au code <i>de bonis autor. jud. poss</i>. II avoit
+lieu aussi après la mort du débiteur quand il n&#39;y avoit
+point d&#39;héritier, suivant la loi <i>pro debito</i> au même titre ; 
+car tant qu&#39;on trouvoit la personne, on ne s&#39;attaquoit 
+jamais aux biens.
+</p>
+<p>
+En France le <i>gage prétorien</i> n&#39;est nullement usité.
+<i>Voyez</i> Loyseau, <i>tr. du déguerpiss. liv. III. ch. j. n. 8.
+&amp; 13</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

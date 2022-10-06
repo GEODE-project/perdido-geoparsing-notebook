@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29339" id="52:136" vol="7">
+<index type="head" value="GENETHLIAQUES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme d&#39;Astrologie" />
+<index type="normclass" value="Astrologie" />
+<index type="englishclass" value="Astrology" />
+<index type="generatedclass" value="Astrologie" />
+<index type="pos" value="s.m.pl." />
+<head>GENETHLIAQUES</head>
+<p>
+GENETHLIAQUES, s. m. pl. <i>terme d&#39;Astrologie</i>,
+c&#39;étoit le nom qu&#39;on donnoit dans l&#39;antiquité aux
+astrologues qui dressoient des horoscopes, ou qui
+prédisoient ce qui devoit arriver à quelqu&#39;un par le
+moyen des astres, qu&#39;ils supposoient avoir présidé
+à sa naissance. <i>Voyez</i> <sc><ref target="head:Horoscope" type="search">Horoscope</ref> <i>&amp;</i> <ref target="head:Astrologie" type="search">Astrologie</ref></sc>.
+</p>
+<p>
+Ce mot est forme du grec <foreign lang="greek">γένεσις</foreign>, <i>origine, génération,
+naissance</i>.
+</p>
+<p>
+Les anciens appelloient ces sortes de devins <i>Chaldaei</i>, &amp; en général <i>Mathematici</i>. Les lois civiles &amp;
+canoniques que l&#39;on trouve contre les Mathématiciens, ne regardent que les <i>Généthliaques</i> ou Astrologues. <i>Voyez</i> <sc><ref target="head:Géométrie" type="search">Géométrie</ref></sc>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+L&#39;assûrance avec laquelle ces insensés osoient prédire 
+l&#39;avenir, faisoit qu&#39;ils trouvoient toûjours des
+dupes ; &amp; qu&#39;après avoir été chassés par arrêt du sénat,
+ils savoient encore se ménager assez de protections 
+pour demeurer dans la ville. C&#39;est ce que disoit
+un ancien : <i>homimum genus quod in civitate nostrâ semper 
+&amp; vetabitur &amp; retinebitur. Voyez</i> <sc><ref target="head:Divination" type="search">Divination</ref></sc>.
+</p>
+<p>
+Antipater &amp; Archinapolus ont prétendu que la
+<i>Généthliogie</i> devroit être plûtôt fondée sur le tems
+de la conception, que sur celui de la naissance. Qu&#39;en
+savoient-ils? <i>Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

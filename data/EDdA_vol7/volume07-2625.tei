@@ -1,0 +1,174 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30079" id="54:35:3" vol="7">
+<index type="head" value="Grain de fin" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Chimie. Métall." />
+<index type="normclass" value="Chimie | Métallurgie" />
+<index type="englishclass" value="Chemistry | Metallurgy" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Grain de fin</head>
+<p>
+<sc>Grain de fin</sc>, (<i>Chimie. Métall.</i>) petit bouton
+de fin qu&#39;on retire du plomb, de la litharge, ou du
+verre de plomb, <i>&amp;c.</i> qui doivent servir à coupeller
+l&#39;argent : on l&#39;appelle encore le <i>témoin</i> &amp; le <i>grain de
+plomb ;</i> derniere expression qui répond à l&#39;idiome allemand 
+qui exprime la même idée.
+</p>
+<p>
+Si l&#39;on met du plomb marchand seul sur une coupelle,
+&amp; qu&#39;on l&#39;y traite comme si l&#39;on affinoit de
+l&#39;argent, on trouve pour l&#39;ordinaire à la fin de l&#39;opération 
+un petit point blanc, qui est le fin que contenoit 
+ce plomb : mais cette quantité, pour si petite
+qu&#39;elle soit, se trouve avec le culot qui est formé
+par le coupellement de l&#39;argent avec le plomb, &amp;
+l&#39;augmente de poids : il faut donc trouver un moyen
+de l&#39;en défalquer dans la pesée du bouton de fin ; sans
+quoi on tomberoit dans l&#39;erreur. Pour cela, on scorifie 
+à part la même quantité de plomb qu&#39;on a employée 
+pour l&#39;essai, &amp; on le coupelle pour en avoir
+le témoin. On met ce témoin dans le plateau des
+poids avec lesquels on pese le culot ; &amp; par ce moyen
+en ne comptant que les poids, on soustrait celui du
+témoin du bouton de fin qui a reçû du plomb la même 
+quantité d&#39;argent étranger à la mine essayée.
+</p>
+<p>
+C&#39;est ainsi qu&#39;on se dispense des embarras du calcul 
+&amp; des erreurs qu&#39;il peut entraîner. On peut être
+sûr que le bouton de fin a reçû la même accrétion
+de poids, puisque le plomb &amp; sa quantité sont les mêmes ; 
+il y a pourtant certaines précautions à prendre 
+pour garder cette exactitude : il faut grenailler à
+la fois une certaine quantité de plomb, &amp; mêler le
+résultat avec un crible, parce que l&#39;argent ne se distribue 
+pas uniformément dans toute la masse du
+<pb n="7:832" facs="V7/ENC_7-832.jpeg" />
+<milestone unit="column" n="1" />
+plomb. <i>Voyez</i> <sc><ref target="head:Lotissage" type="search">Lotissage</ref></sc>. On a pour l&#39;ordinaire
+autant de témoins qu&#39;on employe de quantités différentes 
+de grenaille, &amp; la chose parle d&#39;elle-même ;
+si l&#39;on en fait de nouvelle, il faut recommencer sur
+nouveaux frais : ainsi il en faut faire beaucoup à-la-fois ; car le plomb de la même miniere ne contient
+pas la même quantité d&#39;argent. Les produits d&#39;une
+mine changent tous les jours ; &amp; d&#39;ailleurs l&#39;argent
+n&#39;est pas répandu uniformément dans le même gâteau 
+de plomb, comme nous l&#39;avons déjà insinué,
+&amp; comme nous le détaillerons plus particulierement
+à l&#39;<i>article</i> <sc><ref target="head:Lotissage" type="search">Lotissage</ref></sc>. C&#39;est aussi par la même raison 
+que ceux qui au lieu de grenailler leur plomb
+d&#39;essai le réduisent en lamines qu&#39;ils coupent de la
+grandeur que prescrit ce poids, &amp; dont ils enveloppent 
+l&#39;essai, sont sujets à tomber dans l&#39;erreur.
+</p>
+<p>
+Mais il ne suffit pas de s&#39;être assûré de la quantité
+d&#39;argent que contient le plomb, il faut aussi examiner 
+sous ce même point de vûe tout ce qui sert aux
+essais &amp; qui peut être soupçonné d&#39;en augmenter le
+bouton ; la litharge, le verre de plomb, le cuivre &amp;
+le fer, <i>&amp;c.</i> il faut avoir le <i>grain de plomb</i> de tous ces
+corps. Il est vrai que la plûpart du tems l&#39;erreur qui
+en pourroit résulter ne seroit pas considérable ; mais
+elle le deviendroit si elle étoit répétée, c&#39;est à-dire si
+elle étoit une somme de celles qui pourroient venir
+de plusieurs causes à-la-fois.
+</p>
+<p>
+S&#39;il se trouve de l&#39;argent dans le plomb, le bismuth 
+(car celui-ci sert aussi à coupeller) la litharge,
+<i>&amp;c.</i> c&#39;est qu&#39;il n&#39;y est pas en assez grande quantité
+pour défrayer des dépenses de l&#39;affinage. D&#39;ailleurs
+il y a des auteurs qui prétendent que si l&#39;on coupelle
+de nouveau le plomb qui a été bu par la coupelle, on
+y trouve toûjours de l&#39;argent : ainsi il ne peut y avoir
+de plomb sans argent, quoiqu&#39;on dise qu&#39;il s&#39;en trouve.
+<i>Voyez</i> 
+<sc><ref target="head:Cramer" type="search">Cramer</ref>, <ref target="head:Plomb" type="search">Plomb</ref>, <ref target="head:Fourneau" type="search">Fourneau</ref></sc>
+, <i>à la
+section des fourneaux de fusion ;</i> 
+<sc><ref target="head:Mine perpétuelle de Bécher" type="search">Mine perpétuelle de Bécher</ref>, <ref target="head:Essai" type="search">Essai</ref>, <ref target="head:Affinage" type="search">Affinage</ref> <i>&amp;</i> <ref target="head:Raffinage de l&#39;Argent" type="search">Raffinage de l&#39;Argent</ref>, <i>&amp;</i> <ref target="head:Grenailler" type="search">Grenailler</ref></sc>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

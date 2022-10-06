@@ -1,0 +1,187 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30348" id="55:15" vol="7">
+<index type="head" value="GRENADE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharm. &amp; Mat. méd." />
+<index type="normclass" value="Pharmacie | Matière médicale" />
+<index type="englishclass" value="Pharmaceuticals | Materia medica" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="s.f." />
+<head>GRENADE</head>
+<p>
+GRENADE, s. f. (<i>Pharm. &amp; Mat. méd.</i>) c&#39;est le
+fruit du grenadier. <i>Voyez l&#39;article</i> <sc><ref target="head:Grenadier" type="search">Grenadier</ref></sc>. Des
+trois especes de <i>grenades</i>, on n&#39;employe guere en
+Medecine que la <i>grenade</i> aigre.
+</p>
+<p>
+Les graines ou semences contenues dans ce fruit,
+le suc qu&#39;on en exprime, l&#39;écorce du fruit &amp; les fleurs
+qui l&#39;ont précédé, sont en usage en Medecine.
+</p>
+<p>
+Le suc des grains de <i>grenade</i> a une saveur aigrelette 
+très-agreable, il est moins acide que celui du
+citron, de la groseille, &amp; de l&#39;épine vinette, avec
+lesquels il est d&#39;ailleurs parfaitement analogue. Il
+faut les ranger avec ces autres sacs, dans l&#39;ordre des
+muqueux acides. <i>Voyez</i> <sc><ref target="head:Muqueux" type="search">Muqueux</ref></sc>.
+</p>
+<p>
+Si l&#39;on garde dans un lieu frais ce suc exprimé,
+clarifié, &amp; enfermé dans un vaisseau convenable,
+il donne du sel essentiel d&#39;une saveur acide.
+</p>
+<p>
+Il est susceptible de la fermentation vineuse, ne
+donne point de gelée comme le suc de groseille, &amp;
+peut être mis par conséquent sous la forme de sirop
+avec suffisante quantité de sucre. Ce sirop se prépare
+de la même maniere que le sirop de limon. <i>Voyez</i> <sc><ref target="head:Citron" type="search">Citron</ref></sc>.
+</p>
+<p>
+On prépare beaucoup de ces sirops dans les pays
+où les <i>grenades</i> croissent abondamment. Celui qu&#39;on
+employe à Paris vient du Languedoc.
+</p>
+<p>
+Les grains de <i>grenade</i> manges tout entiers sont regardés 
+comme amis de l&#39;estomac, comme en temperant<gap type="hyphenpb" />
+<pb n="7:933" facs="V7/ENC_7-933.jpeg" />
+<milestone unit="column" n="1" />
+l&#39;ardeur, calmant la soif, rafraichissant, arrêtant 
+le flux hémorrhoidal trop abondant, corrigeant
+l&#39;acrimonie de la bile, arrêtant le vomissement &amp; le
+hoquet. Les malades attaques de fievres ardentes &amp;
+bilieuses, éprouvent un leger soulagement, &amp; même
+un certain degre de plaisir, lorsqu&#39;on leur permet de
+rouler de-tems-en-tems dans leur bouche &amp; de sucer
+quelques grains de <i>grenade</i>.
+</p>
+<p>
+On fait une eau de <i>grenades</i> dans le pays où elles
+sont communes, en étendant le suc exprimé de ses
+grains dans suffisante quantité d&#39;eau, &amp; l&#39;édulcorant
+avec un peu de sucre, ou en dissolvant le sirop de
+<i>grenade</i> dans sept à huit parties d&#39;eau. Cette boisson
+a les mêmes usages que la limonade ou l&#39;eau de groseille ; 
+elle est seulement un peu moins agaçante, &amp;
+par conséquent moins sujette aux inconvéniens des
+acides donnés mal-à-propos.
+</p>
+<p>
+L&#39;écorce de <i>grenade</i> prise intérieurement, passe
+pour un puissant astringent ; sa saveur amere &amp; austere 
+est une preuve suffisante de la réalité de cette
+vertu. Il est à présumer cependant que son action se
+borne à l&#39;oesophage, à l&#39;estomac &amp; au canal intestinal ; 
+que par conséquent ce remede n&#39;est véritablement 
+utile que contre les diarrhées, qu&#39;on peut arrêter 
+sans danger, &amp; qu&#39;on ne doit pas beaucoup
+compter sur son efficacité dans le relâchement ou les
+hémorrhagies des autres parties, comme dans les
+écoulemens immodérés des regles, les fleurs blanches,
+les gonorrhées, <i>&amp;c.</i> On la donne en poudre
+depuis demi-gros jusqu&#39;à un pour chaque prise, &amp;
+jusqu&#39;à demi-once en décoction.
+</p>
+<p>
+On employe l&#39;écorce de <i>grenade</i> extérieurement
+dans les décoction, les gargarismes &amp; les lavemens
+astringens. La décoction très-chargée de cette écorce
+ est sur-tout célebre pour redonner le ton naturel
+&amp; la capacité convenable au vagin, relâché &amp; délabré 
+par un accouchement laborieux, ou par toute
+autre cause.
+</p>
+<p>
+Les fleurs de <i>grenade</i>, plus connues dans les boutiques 
+sous le nom de <i>balaustes</i>, ont la même vertu
+que l&#39;écorce, mais dans un degré inférieur ; on en
+fait à-peu-près le même usage, tant extérieurement
+qu&#39;intérieurement. <i>Voyez</i> <sc><ref target="head:Balauste" type="search">Balauste</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

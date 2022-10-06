@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27973" id="49:132:6" vol="7">
+<index type="head" value="Fourche" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="chez les Blanchisseurs de cire" />
+<index type="normclass" value="Blanchisserie de cire" />
+<index type="englishclass" value="Wax bleaching" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="NA" />
+<head>Fourche</head>
+<p>
+<sc>* Fourche</sc>, <i>chez les Blanchisseurs de cire</i>, c&#39;est un
+instrument de bois long de quatre ou cinq piés, terminé 
+à un bout par deux branches qui sortent de la
+même tige, de la longueur d&#39;un pié environ. La <i>fourche</i> sert à ôter les rubans de la baignoire, &amp; les mettre 
+dans la manne. <i>Voyez ces mots</i>.
+</p>
+<p>
+Il y a une autre <i>fourche</i> qui ne differe de la premiere,
+que parce qu&#39;elle est bien plus petite ; ce qui la
+fait appeller <i>fourchette ;</i> elle sert à régaler les rubans.
+<i>Voyez</i> <sc><ref target="head:Régaler" type="search">Régaler</ref> <i>&amp;</i> <ref target="head:Rubans" type="search">Rubans</ref></sc>, <i>&amp; l&#39;article</i> <sc><ref target="head:Blanchir" type="search">Blanchir</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29840" id="53:260" vol="7">
+<index type="head" value="GONGRONE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Med." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GONGRONE</head>
+<p>
+GONGRONE, s. f. (<i>Med.</i>) <foreign lang="greek">γογγρώνη</foreign>, <i>gongrona</i>.
+Hippocrate (<i>lib. VI. epid. sect. üj. t. 14.</i>) &amp; Galien
+(<i>ibid. comment.</i>) se servent de ce mot pour désigner
+une sorte de tumeur dure, indolente, qui est saillante 
+&amp; arrondie comme celles qui se forment sur la
+surface des arbres, que les Grecs appellent <foreign lang="greek">γόγγρους</foreign>.
+Ce terme est particulierement appliqué aux tumeurs
+du cou, comme le goëtre, qu&#39;on appelle aussi <i>bronchocele. Diction</i>. de Castell. <i>Voyez</i> <sc><ref target="head:Bronchocele" type="search">Bronchocele</ref>,
+<ref target="head:Goetre" type="search">Goetre</ref></sc>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

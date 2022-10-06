@@ -1,0 +1,308 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29748" id="53:200" vol="7">
+<index type="head" value="GNOSTIQUES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclés." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.m.pl." />
+<head>GNOSTIQUES</head>
+<p>
+GNOSTIQUES, s. m. pl. (<i>Hist. ecclés.</i>) anciens
+hérétiques qui ont été fameux dès les premiers commencemens 
+du Christianisme, principalement dans
+l&#39;orient.
+</p>
+<p>
+Ce mot <i>gnostique</i> vient du latin <i>gnosticus</i>, &amp; du
+grec <foreign lang="greek">γνωστικὸς</foreign>, qui signifie <i>savant, éclairé, illuminé,
+spirituel</i>, de <foreign lang="greek">γινώσκω</foreign>, <i>je connois</i>.
+</p>
+<p>
+Ce mot <i>gnostique</i>, qui signifie <i>savant</i>, avoit été
+adopté par ceux de cette secte, comme s&#39;ils avoient
+eux seuls la véritable connoissance du Christianisme.
+Sur ce principe, ils regardoient les autres chrétiens
+comme des gens simples &amp; grossiers qui expliquoient
+les livres sacrés d&#39;une maniere basse &amp; trop littérale.
+</p>
+<p>
+C&#39;étoient d&#39;abord des philosophes qui s&#39;étoient
+formé une théologie particuliere sur la philosophie
+de Pythagore &amp; de Platon, à laquelle ils avoient accommodé 
+les interprétations de l&#39;Ecriture.
+</p>
+<p>
+Mais ce nom de <i>gnostique</i> devint dans la suite un
+nom générique que l&#39;on donna à plusieurs hérétiques
+du premier siecle, qui différent entre eux sur certaines<gap type="hyphenpb" />
+<pb n="7:727" facs="V7/ENC_7-727.jpeg" />
+<milestone unit="column" n="1" />
+circonstances, étoient néanmoins d&#39;accord sur
+les principes : tels furent les Valentiniens, les Simoniens, les Carpocratiens, les Nicolaïtes, &amp; autres
+hérétiques.
+</p>
+<p>
+Quelquefois c&#39;est un nom particulier que l&#39;on donne 
+aux successeurs des premiers Nicolaïtes &amp; des premiers 
+Carpocratiens qui parurent dans le second siecle,
+&amp; quitterent le nom des auteurs de leur secte.
+<i>Voyez</i> <sc><ref target="head:Carpocratiens" type="search">Carpocratiens</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Ceux qui voudront apprendre à fond leur doctrine 
+&amp; leurs visions, n&#39;ont qu&#39;à consulter S. Irénée,
+Tertullien, Clément d&#39;Alexandrie, Origene, &amp; S.
+Epiphane, &amp; sur-tout le premier, qui a rapporté au
+long leurs sentimens qu&#39;il réfute en même tems.
+Quoique S. Irénée parle plus en détail des Valentiniens que des autres <i>Gnostiques</i>, on trouve cependant 
+dans ses ouvrages les principes généraux sur
+lesquels ces hérétiques établissoient leurs fausses opinions,
+&amp; la méthode qu&#39;ils suivoient en expliquant
+l&#39;Ecriture ; il les accuse d&#39;avoir introduit dans la religion 
+de vaines &amp; ridicules généalogies, c&#39;est-à-dire
+de certaines émanations ou processions divines, qui
+n&#39;ont d&#39;autre fondement que leur imagination. <i>Voy.</i>
+<sc><ref target="head:Eons" type="search">Eons</ref></sc>.
+</p>
+<p>
+En effet les <i>Gnostiques</i> avoüoient que ces émanations n&#39;étoient point expliquées clairement dans les
+livres sacrés ; mais ils disoient en même tems que
+J. C. les y avoit indiquées mystiquement sous des
+paraboles à ceux qui pouvoient les comprendre.
+</p>
+<p>
+Ils n&#39;appuyoient pas seulement sur les évangiles &amp;
+sur les épitres de S. Paul leur fausse théologie, mais
+encore sur la loi de Moïse &amp; sur les prophetes. Comme
+il y a dans ces derniers plusieurs paraboles ou allégories 
+qui peuvent être interprétées différemment,
+ils s&#39;en servoient avec adresse pour cacher plus facilement 
+l&#39;ambiguité de leurs interprétations.
+</p>
+<p>
+Ils faisoient grand fond sur le commencement de
+l&#39;évangile de S. Jean, où ils prétendoient trouver
+une partie de leurs émanations, parce qu&#39;il y est parlé 
+du Verbe, de la vie, de la lumiere, &amp; de plusieurs
+autres choses qu&#39;ils expliquoient selon leurs idées:
+ils distinguoient aussi trois sortes d&#39;hommes, le matériel,
+l&#39;animal, &amp; le spirituel. Ils divisoient pareillement 
+la nature en trois sortes d&#39;êtres, en hylique
+ou matériel, en psychique ou animal, &amp; en pneumatique 
+ou spirituel.
+</p>
+<p>
+Les premiers hommes, qui étoient matériels &amp;
+incapables de connoissance, périssoient selon le corps
+&amp; selon l&#39;ame ; les spirituels, au contraire, tels que
+se disoient les <i>Gnostiques</i>, étoient tous sauvés naturellement,
+sans qu&#39;il en pérît aucun. Les psychiques
+ou animaux, qui tenoient le milieu entre les deux
+ordres, pouvoient se sauver ou se damner, selon les
+bonnes ou mauvaises actions qu&#39;ils faisoient.
+</p>
+<p>
+Le nom de <i>Gnostique</i> se prend quelquefois en bonne 
+part dans les anciens écrivains ecclésiastiques,
+principalement dans Clément d&#39;Alexandrie, qui décrit 
+en la personne de son <i>gnostique</i>, les qualités d&#39;un
+parfait chrétien, dans le septieme livre de ses <i>stromates</i>, où il prétend qu&#39;il n&#39;y a que le <i>gnostique</i> ou
+l&#39;homme savant qui ait une véritable religion ; il assûre 
+que s&#39;il se pouvoit faire que la connoissance de
+Dieu fût séparée du salut éternel, le <i>gnostique</i> ne se
+feroit pas un scrupule de préférer la connoissance ;
+&amp; que quand même Dieu lui promettroit l&#39;impunité
+s&#39;il agissoit contre ses commandemens, ou lui offroit
+le ciel à ces conditions, il ne voudroit pas l&#39;accepter 
+à ce prix, ni changer de conduite.
+</p>
+<p>
+C&#39;est en ce sens qu&#39;il oppose les <i>Gnostiques</i> aux hérétiques 
+de ce nom, assûrant que le vrai <i>gnostique</i> a
+vieilli dans l&#39;étude de l&#39;Ecriture-sainte, &amp; qu&#39;il garde
+la doctrine orthodoxe des apôtres &amp; de l&#39;Eglise ; au
+lieu que les faux <i>gnostiques</i> abandonnent les traditions<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+apostoliques, s&#39;imaginant être plus habiles que
+les apôtres.
+</p>
+<p>
+Le nom de <i>gnostique</i>, qui est si beau dans sa vraie
+étymologie, est devenu infame par les desordres auxquels 
+s&#39;abandonnerent ceux qui se disoient <i>gnostiques</i>,
+comme nous avons vû de nos jours le quiétisme &amp; le
+piétisme décrié &amp; condamné à cause des desordres
+de ceux de cette secte. <i>Voyez</i> <sc><ref target="head:Quiétisme" type="search">Quiétisme</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Ce que le Chambers vient de dire des faux <i>gnostiques</i>, d&#39;après le Trévoux, étant trop général pour
+donner au lecteur une idée bien distincte de leur doctrine 
+&amp; de leurs moeurs, il est bon d&#39;ajoûter que
+quoique les <i>Gnostiques</i> composassent différentes sectes,
+ils convenoient pourtant presque tous sur certains 
+chefs dont voici les principaux. 1°. Ils admettoient 
+tous une production chimérique d&#39;éons qui
+composoient une même divinité, &amp; ils ne varioient
+que sur le nombre ; les uns le réduisant à huit, &amp;
+les autres en comptant jusqu&#39;à trente. 2°. Ils attribuoient 
+la création &amp; le gouvernement du monde
+visible à ces éons, &amp; non pas au dieu souverain. 3°.
+Ils croyoient que la loi de Moyse, les prophéties, &amp;
+généralement toutes les lois, étoient l&#39;ouvrage du
+créateur de ce monde qu&#39;ils distinguoient du souverain
+ou de la collection des éons qui composoit la divinité.
+4°. Ils enseignoient que le Christ envoyé d&#39;en-haut
+pour sauver les hommes, n&#39;avoit pas pris une véritable 
+chair ni souffert véritablement, mais seulement
+en apparence ; ce qui les avoit fait appeller <i>docetes</i>.
+</p>
+<p>
+Leurs principes les conduisoient tous au déréglement 
+&amp; au libertinage ; ils enseignoient qu&#39;il étoit
+permis &amp; même loüable de s&#39;abandonner aux plaisirs 
+de la chair ; ils se nourrissoient de viandes délicieuses 
+&amp; de vins exquis, se baignoient &amp; se parfumoient 
+le corps avec une extrème sensualité: souvent
+ils faisoient leurs prieres entierement nuds, comme
+pour marque de liberté. Les femmes étoient communes 
+entre eux ; &amp; quand ils recevoient un étranger
+qui étoit de leur secte, d&#39;abord ils lui faisoient la
+meilleure chere qu&#39;il leur étoit possible ; après le repas,
+le mari lui offroit lui-même sa femme, &amp; cette
+infamie se couvroit du beau nom de <i>charité</i>. Ils nommoient 
+aussi leurs assemblées <i>agapes</i>, où l&#39;on dit
+qu&#39;après les excès de bouche, ils éteignoient la lumiere,
+&amp; suivoient indifféremment tous leurs desirs:
+toutefois ils empêchoient la génération autant qu&#39;ils
+pouvoient ; on les accusoit même de faire avorter les
+femmes, de piler un enfant nouveau né dans un mortier,
+&amp; d&#39;en manger les membres ensanglantés ; d&#39;offrir 
+une eucharistie infame, &amp; de commettre plusieurs 
+autres abominations sacrileges dont on trouve
+le détail dans S. Epiphane, qui avoit vû en Egypte
+des restes de ces sectes ; car elles s&#39;étoient répandues 
+en diverses contrées, &amp; subsisterent jusqu&#39;au
+jv. siecle.
+</p>
+<p>
+Les noms que l&#39;on donnoit aux <i>Gnostiques</i> ont été
+fort différens &amp; presque tous relatifs ou à leurs dogmes 
+ou à la dépravation de leurs moeurs. Les plus anciens 
+appellés <i>eutuchiles</i> ou <i>eutuchites</i>, étoient disciples 
+des Simoniens, dont il est parlé dans le <i>VII. livre
+des stromates</i> de Clément Alexandrin, &amp; dans l&#39;<i>apologie</i> de Pamphile pour Origene, où il est dit qu&#39;ils
+opposoient le nom de l&#39;évangile à celui de la loi &amp;
+des prophetes, &amp; qu&#39;ils vouloient que J. C. fût fils,
+non du Dieu auteur de l&#39;ancien Testament, mais d&#39;un
+autre dieu inconnu. On appelloit aussi les Gnostiques
+<i>barbelonites, phibionites, borborites, stratiotiques, zachéens,
+coddiens, lévites</i>, ou <i>lévitiques ;</i> ces derniers
+sur-tout commettoient entre eux les plus infames
+abominations.
+</p>
+<p>
+Ils avoient plusieurs ouvrages apocryphes sur lesquels 
+ils fondoient leurs impiétés, entr&#39;autres le livre 
+<i>des révélations</i>, ou l&#39;<i>apocalypse d&#39;Adam ;</i> l&#39;<i>histoire
+de Noria, femme de Noé ;</i> quelques livres supposés
+<pb n="7:728" facs="V7/ENC_7-728.jpeg" />
+<milestone unit="column" n="1" />
+sous le nom de Seth ; la <i>prophétie de Bahuba</i> ; l&#39;<i>évangile de perfection</i>, qui contenoit quantité d&#39;impuretés ; 
+l&#39;<i>évangile d&#39;Eve</i>, remplie de rêveries &amp; de visions ; 
+l&#39;<i>accouchement &amp; les interrogations de Marie</i>,
+dont S. Epiphane rapporte quelques passages pleins
+de fictions &amp; d&#39;infamies ; l&#39;<i>évangile de Philippe</i>, &amp; divers 
+autres évangiles qu&#39;ils attribuoient aux apôtres
+pour accréditer leurs erreurs. Dupin, <i>bibliotheq. ecclésiast.
+des auteurs des trois premiers siecles</i>. Fleury,
+<i>histoire ecclésiastique, liv. III. n°. 20. pp. 333 &amp; 334</i>.
+(<i>G</i>)
+<center>
+</center>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

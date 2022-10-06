@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28218" id="50:49" vol="7">
+<index type="head" value="FRANCHISE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. &amp; Morale." />
+<index type="normclass" value="Histoire | Morale" />
+<index type="englishclass" value="History | Ethics" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="s.f." />
+<head>FRANCHISE</head>
+<p>
+FRANCHISE, s. f. (<i>Hist. &amp; Morale.</i>) mot qui
+donne toûjours une idée de liberté dans quelque sens
+<pb n="7:284" facs="V7/ENC_7-284.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;on le prenne ; mot venu des Francs, qui étoient
+libres : il est si ancien, que lorsque le Cid assiégea &amp;
+prit Tolede dans l&#39;onzieme siecle, on donna des <i>franchies</i> ou <i>franchises</i> aux François qui étoient venus à
+cette expédition, &amp; qui s&#39;établirent à Tolede. Toutes les villes murées avoient des <i>franchises</i>, des libertés,
+des priviléges jusque dans la plus grande
+anarchie du pouvoir féodal. Dans tous les pays d&#39;états,
+le souverain juroit à son avenement de garder
+leurs <i>franchises</i>.
+</p>
+<p>
+Ce nom qui a été donné généralement aux droits
+des peuples, aux immunités, aux asyles, a été plus
+particulierement affecté aux quartiers des ambassadeurs 
+à Rome ; c&#39;étoit un terrein autour de leurs palais ; 
+&amp; ce terrein étoit plus ou moins grand, selon 
+la volonté de l&#39;ambassadeur : tout ce terrein étoit
+un asyle aux criminels ; on ne pouvoit les y poursuivre : cette <i>franchise</i> fut restreinte sous Innocent
+XI. à l&#39;enceinte des palais. Les églises &amp; les couvens
+en Italie ont la même <i>franchise</i>, &amp; ne l&#39;ont point dans
+les autres états. Il y a dans Paris plusieurs lieux de
+<i>franchises</i>, où les débiteurs ne peuvent être saisis
+pour leurs dettes par la justice ordinaire, &amp; où les
+ouvriers peuvent exercer leurs métiers sans être passés 
+maîtres. Les ouvriers ont cette <i>franchise</i> dans le
+faubourg S. Antoine ; mais ce n&#39;est pas un asyle,
+comme le temple.
+</p>
+<p>
+Cette <i>franchise</i>, qui exprime originairement la liberté 
+d&#39;une nation, d&#39;une ville, d&#39;un corps, a bientôt 
+après signifié <i>la liberté</i> d&#39;un discours d&#39;un conseil
+qu&#39;on donne, d&#39;un procédé dans une affaire : mais il
+y a une grande nuance entre <i>parler avec franchise</i>, &amp;
+<i>parler avec liberté</i>. Dans un discours à son supérieur,
+la liberté est une hardiesse ou mesurée ou trop forte ;
+la <i>franchise</i> se tient plus dans les justes bornes, &amp; est
+accompagnée de candeur. Dire son avis avec liberté,
+c&#39;est ne pas craindre ; le dire avec <i>franchise</i>, c&#39;est
+n&#39;écouter que son coeur. Agir avec liberté, c&#39;est agir
+avec indépendance ; procéder avec <i>franchise</i>, c&#39;est
+se conduire ouvertement &amp; noblement. Parler avec
+trop de liberté, c&#39;est marquer de l&#39;audace ; parler
+avec trop de <i>franchise</i>, c&#39;est trop ouvrir son coeur.
+<i>Article de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30193" id="54:84:6" vol="7">
+<index type="head" value="Grattoir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Chauderonnier;" />
+<index type="normclass" value="Chauderonnerie" />
+<index type="englishclass" value="Brazier" />
+<index type="generatedclass" value="Doreur" />
+<index type="pos" value="NA" />
+<head>Grattoir</head>
+<p>
+<sc>Grattoir</sc>, <i>terme de Chauderonnier ;</i> le <i>grattoir</i> ordinaire 
+des Chauderonniers ne differe guere de celui
+du Monnoyeur, mais il est emmanché d&#39;un plus long
+manche pour pouvoir atteindre au fond des marmites,
+coquemarts, &amp; autres ustensiles de cuisine,
+qu&#39;ils nettoyent &amp; grattent avec cet instrument qui
+est d&#39;acier, pour les mettre en etat d&#39;être étamés.
+</p>
+<p>
+Ils en ont encore deux autres outre celui-là; l&#39;un
+qui est fait en croissant, pour gratter l&#39;équerre des
+chauderons, marmites, &amp; autres ouvrages enfoncés ; 
+l&#39;autre qui est fort court &amp; en forme de couteau,
+sert à en gratter les bords. Ces deux sortes de
+<i>grattoirs</i> ont aussi des manches de bois ; mais avec
+cette différence, que les manches des <i>grattoirs</i> en couteau 
+sont toûjours très-courts, &amp; que les <i>grattoirs</i> en
+croissant en ont de diverses longueurs proportionnées 
+à la profondeur des pieces qu&#39;on veut gratter.
+<i>Voyez les <ref target="XPL:5386" type="platelink">Planches du Chauderonnier</ref></i>. A la partie supérieure 
+du manche est le <i>grattoir</i> en croissant ; la
+partie inférieure est le <i>grattoir</i> à deux biseaux. Ces
+sortes d&#39;outils sont d&#39;acier trempé.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

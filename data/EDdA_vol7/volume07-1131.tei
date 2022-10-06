@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28585" id="50:252" vol="7">
+<index type="head" value="FUREUR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. &amp; Moral." />
+<index type="normclass" value="Grammaire | Morale" />
+<index type="englishclass" value="Grammar | Ethics" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.f." />
+<head>FUREUR</head>
+<p>
+* FUREUR, s. f. (<i>Gramm. &amp; Moral.</i>) il se dit au
+singulier des passions violentes : c&#39;en est le degré extreme ; 
+<i>il aime à la fureur</i>. Mais il est propre à la colere.
+Au plurier, l&#39;acception du terme change un
+peu. Il paroit marquer plutôt les effets de la passion
+que son degré; exemple, <i>les fureurs de la jalousie,
+les fureurs d&#39;Oreste</i>. On dit par métaphore que <i>la mer
+entre en fureur ;</i> c&#39;est lorsqu&#39;on voit ses eaux s&#39;agiter,
+se gonfler, &amp; qu&#39;on les entend mugir au loin. Quand
+on dit <i>la fureur des vents</i>, on les regarde comme des
+êtres animés &amp; violens. Il y a une <i>fureur</i> particuliere 
+qu&#39;on appelle <i>fureur poétique ;</i> c&#39;est l&#39;enthousiasme,
+<i>voyez</i> <sc><ref target="head:Enthousiasme" type="search">Enthousiasme</ref></sc>. Il semble que l&#39;artiste devroit 
+concevoir cette <i>fureur</i> avec d&#39;autant plus de
+force &amp; de facilité, que son génie est moins contraint
+par les regles. Cela supposé, l&#39;homme de génie qui
+converse, deviendroit plus aisément enthousiaste
+que l&#39;orateur qui écrit, &amp; celui-ci plus aisément encore 
+que le poëte qui compose. Le musicien qui tient
+un instrument, &amp; qui le fait résonner sous ses doigts,
+seroit plus voisin de cette espece d&#39;ivresse, que le
+peintre qui est devant une toile muette. Mais l&#39;enthousiasme 
+n&#39;appartient pas également à tous ces genres,
+&amp; c&#39;est la raison pour laquelle la chose n&#39;est pas
+comme on croiroit d&#39;abord qu&#39;elle doit être. Il est
+plus essentiel au musicien d&#39;être enthousiaste qu&#39;au 
+poéte, au poëte qu&#39;au peintre, au peintre qu&#39;à
+l&#39;orateur, &amp; à l&#39;orateur qu&#39;à l&#39;homme qui converse.
+L&#39;homme qui converse ne doit pas être froid, mais
+il doit être tranquille.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

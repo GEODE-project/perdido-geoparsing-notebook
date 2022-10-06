@@ -1,0 +1,151 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29927" id="53:317:9" vol="7">
+<index type="head" value="Gouge" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége, Maréchallerie." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Gouge</head>
+<p>
+<sc>Gouge</sc>, (<i>Manége, Maréchallerie.</i>) ciseau recourbé 
+dans sa longueur &amp; en forme de gouttiere,
+semi-cylindrique à son extrémité, de telle sorte que
+son tranchant présenté perpendiculairement sur un
+plan, y trace une demi-circonférence de cercle de
+quatre, cinq, ou six lignes de diametre. Cet instrument,
+qui doit être emmanché commodément, n&#39;a
+qu&#39;un biseau, lequel se trouve en-dehors ; sa longueur 
+est communément d&#39;environ 7 à 8 pouces.
+</p>
+<p>
+Il est d&#39;un usage indispensable dans la Chirurgie
+vétérinaire, &amp; sert principalement à pratiquer des
+ouvertures à la sole, dans les cas où il est essentiel
+de s&#39;instruire de l&#39;état des parties que cette portion
+de l&#39;ongle dérobe à nos yeux, &amp; où il importe de
+donner issue à des matieres épanchées &amp; suppurées,
+qui par leur séjour altéreroient &amp; corromproient
+inévitablement l&#39;aponévrose, les tendons, <i>&amp;c.</i>
+</p>
+<p>
+Il est encore une autre espece de <i>gouge</i> qui ne differe 
+point de celles dont nombre d&#39;artisans s&#39;aident
+dans leur métier ; les Maréchaux s&#39;en servent très indiscretement 
+dans le leur. Ils l&#39;employent lorsqu&#39;il s&#39;agit d&#39;abattre &amp; de détruire les inégalités des
+dents molaires, qui sont telles dans les vieux chevaux,
+qu&#39;elles blessent la langue, &amp; souvent la face
+intérieure des jouës ; &amp; que ces mêmes chevaux ne
+pouvant broyer parfaitement les alimens, n&#39;en tirent 
+que le suc, &amp; font ce que nous exprimons en
+disant <i>qu&#39;ils font grenier</i> ou <i>magazin</i>. Ces ouvriers
+<milestone unit="column" n="2" />
+imprudens appuient d&#39;une main pour cet effet le
+tranchant de cet outil contre ces apretés, très-mala-propos nommées <i>surdens</i> par tous les écrivains,
+&amp; frappent de l&#39;autre sur son manche à coups de
+marteau, aux risques d&#39;ebranler la tête &amp; la machoire 
+de l&#39;animal, de susciter une sorte de commotion,
+&amp; d&#39;offenser les parties postérieures de la bouche,
+&amp; même celles de l&#39;arriere-bouche si la <i>gouge</i> glissoit 
+&amp; se dévoyoit, ou si la pointe de la dent cédoit
+trop aisément à l&#39;action qui doit en assûrer la chûte.
+</p>
+<p>
+On a substitué à cette pratique grossiere, &amp; dont
+on a reconnu les inconvéniens &amp; les dangers, celle
+de faire mâcher au cheval une lime d&#39;acier, que
+quelques-uns appellent <i>rape</i>, &amp; d&#39;autres <i>carreau</i>, de
+maniere que cette derniere <i>gouge</i> est aujourd&#39;hui rejettée,
+&amp; n&#39;est plus regardée comme un instrument
+utile &amp; nécessaire.
+</p>
+<p>
+Quelques-uns s&#39;en servent néanmoins encore dans
+la fameuse opération du rossignol ou du sifflet. <i>Voyez</i>
+<sc><ref target="head:Pousse" type="search">Pousse</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

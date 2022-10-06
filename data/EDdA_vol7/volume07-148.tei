@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27601" id="48:61" vol="7">
+<index type="head" value="FONDIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Commerce." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="s.f." />
+<head>FONDIQUE</head>
+<p>
+FONDIQUE, s. f. (<i>Commerce.</i>) maison commune 
+où les Marchands s&#39;assemblent pour leur commerce,
+&amp; où ils déposent l&#39;argent &amp; les marchandises
+de leur compagnie.
+</p>
+<p>
+Les auteurs du Dictionnaire de Trévoux disent
+que ce mot vient de <i>fundus</i>, qui signifioit autrefois
+<i>une bourse</i>, &amp; que c&#39;est de-là qu&#39;on dit encore à-présent <i>la bourse d&#39;Anvers, la bourse d&#39;Amsterdam</i>.
+</p>
+<p>
+Mais quelque vraissemblable que soit cette étymologie, il est certain que dans l&#39;usage présent, <i>fondique</i> n&#39;a plus précisément la même signification, &amp;
+qu&#39;il signifie simplement <i>un magasin</i> ou <i>dépôt</i> pour
+les marchandises étrangeres, encore ne se dit-il guere 
+que des dépôts des douanes d&#39;Espagne &amp; de Portugal, ou de celles que les Espagnols ont dans l&#39;Amérique, &amp; les Portugais dans l&#39;Orient. <i>Dictionn. de
+Commer. Trév. &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

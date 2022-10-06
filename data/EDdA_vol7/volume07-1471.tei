@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28925" id="51:194" vol="7">
+<index type="head" value="GANACHE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Maréchallerie." />
+<index type="normclass" value="Maréchallerie" />
+<index type="englishclass" value="Farrier&#39;s art" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="s.f." />
+<head>GANACHE</head>
+<p>
+GANACHE, s. f. (<i>Maréchallerie.</i>) On appelle en
+général de ce nom l&#39;os qui compose la mâchoire
+postérieure. Cet os est partagé en deux branches
+dans le poulain. Dans le cheval elles sont tellement
+unies, qu&#39;il ne reste qu&#39;une legere trace de leur jonction ; 
+trace que l&#39;on observe à la partie inférieure,
+&amp; qui forme la symphise du menton. L&#39;espace qu&#39;elles 
+laissent entr&#39;elles contient intérieurement un canal 
+dans lequel la langue est logée, &amp; extérieurement 
+un autre canal nommé proprement l&#39;<i>auge</i>.
+</p>
+<p>
+Celui-ci doit être tel, qu&#39;il puisse admettre &amp; recevoir 
+une portion de l&#39;encolure, dans le moment
+où l&#39;animal est déterminé à se placer. S&#39;il n&#39;est point
+assez évidé, si supérieurement les deux branches
+sont trop rapprochées, si elles ont trop de volume
+<milestone unit="column" n="2" />
+&amp; trop de rondeur aux angles de la mâchoire, ce
+qui rend d&#39;ailleurs la <i>ganache</i> quarrée, &amp; la tête difforme 
+&amp; pesante ; il est fort à craindre que l&#39;animal
+ne se ramene point &amp; porte constamment au vent.
+</p>
+<p>
+Il importe donc d&#39;examiner attentivement la conformation 
+de cette partie, lorsque l&#39;on achete un
+cheval, &amp; de rechercher encore dans le canal exterieur,
+si les glandes maxillaires &amp; sublinguales ne
+sont point sensibles au tact, c&#39;est-à-dire si elles sont
+non-appercevables &amp; dans leur état naturel. Lorsqu&#39;elles se manifestent aux doigts, elles sont gorgées
+d&#39;une lymphe épaissie ; &amp; selon qu&#39;elles sont plus ou
+moins dures, plus ou moins grosses, plus ou moins
+adhérentes ou mobiles, &amp; que le cheval est plus ou
+moins âgé, elles présagent des maladies plus ou
+moins dangereuses &amp; plus ou moins funestes. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

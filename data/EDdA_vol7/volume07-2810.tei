@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30264" id="55:1" vol="7">
+<index type="head" value="GRECQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Relieurs" />
+<index type="normclass" value="Relieur" />
+<index type="englishclass" value="Bookbinder" />
+<index type="generatedclass" value="Relieur" />
+<index type="pos" value="s.f." />
+<head>GRECQUE</head>
+<p>
+GRECQUE, s. f. les <i>Relieurs</i> appellent <i>grecque</i>,
+une scie à main dont les dents sont toutes droites ;
+ils s&#39;en servent pour faire une entaille au-haut &amp; au-bas 
+des livres pliés &amp; battus avant de les mettre entre 
+les mains de la couturiere, afin qu&#39;elle y fasse rentrer 
+la chaînette du fil avec lequel elle coud le livre.
+</p>
+<p>
+Ils se servent aussi de cet outil dans la reliure, qui
+a pris de-là son nom, <i>reliure à la grecque</i>. Dans cette 
+reliure, ils scient le dos à tous les endroits des
+nerfs, afin qu&#39;ils rentrent tous, &amp; que le dos soit plat
+au lieu d&#39;être à nerfs. Cette façon de coudre les livres 
+nous vient d&#39;Italie. On en use dans les reliures
+en vélin dont le dos de la peau est séparé du livre,
+quoique fortifié. De la <i>grecque</i> on a fait le verbe
+<i>grecquer</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

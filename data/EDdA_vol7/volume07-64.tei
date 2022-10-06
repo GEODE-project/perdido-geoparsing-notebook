@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27517" id="48:33" vol="7">
+<index type="head" value="FOLIUM de Descartes, ou simplement FOLIUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géométrie." />
+<index type="normclass" value="Géométrie" />
+<index type="englishclass" value="Geometry" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.m." />
+<head>FOLIUM</head>
+<p>
+<i>FOLIUM de Descartes</i>, ou simplement <i>FOLIUM</i>, s. m. (<i>Géométrie.</i>) nom latin, &amp; qui signifie 
+<i>feuille</i>. On appelle ainsi une courbe du second
+genre ou ligne du troisieme ordre <i>K A O D R</i>, représentée 
+<i><ref target="XPL:4712" type="platelink">fig. 45</ref>. Analys.</i> &amp; dont la partie <i>AOD</i>
+ressemble à-peu-près à une feuille, ce qui lui a fait
+donner le nom de <i>folium</i>.
+</p>
+<p>
+Soient les coordonnées <i>AB, x, BC</i> ou <i>BD, y</i>,
+l&#39;équation de cette courbe sera <i>x</i><sup>3</sup>+<i>y</i><sup>3</sup>=<i>axy ;</i> les
+axes <i>AB, AF</i>, touchant la courbe en <i>A.</i> Pour donner 
+à cette équation une forme plus commode, qui
+fasse découvrir aisément la figure de la courbe, je
+divise en deux également l&#39;angle <i>FAB</i> par la ligne
+<i>AO</i>, &amp; j&#39;imagine les nouvelles coordonnées rectangles 
+<i>AP, z</i> &amp; <i>PC, u</i>, j&#39;aurai, comme il est très aisé 
+de le prouver, <gap type="formula" /> (<i>voyez</i>
+<sc><ref target="head:Transformation des Axes" type="search">Transformation des Axes</ref></sc>); &amp; faisant la substitution,
+il vient <gap type="formula" />
+pour l&#39;équation de la courbe rapportée aux axes
+<i>AO, GAM</i> perpendiculaires l&#39;un à l&#39;autre. D&#39;où
+l&#39;on voit, 1°. que si <i>z</i> est infiniment petite, on a <gap type="formula" />
+&amp; qu&#39;ainsi la courbe coupe de part &amp; d&#39;autre 
+l&#39;axe <i>AO</i> sous un angle de 45<sup>d</sup>. 2°. que <i>u</i> a toûjours 
+deux valeurs égales, &amp; qu&#39;ainsi les deux parties 
+de la courbe sont égales &amp; semblables des deux
+côtés de l&#39;axe <i>AO:</i> 3°. que si <gap type="formula" />  ;
+&amp; que si <gap type="formula" />, on a <i>u</i> imaginaire ; qu&#39;ainsi faisant
+<gap type="formula" />, la courbe ne va pas au-delà du point
+<i>O</i>, du côté des <i>z</i> positives : 4°. que si <gap type="formula" />,
+<i>u</i> est infinie ; &amp; que si <i>z</i> est <gap type="formula" />, <i>u</i> est imaginaire.
+Donc prenant <gap type="formula" />, &amp; menant 
+<i>KNR</i> perpendiculaire à <i>AN</i>, cette ligne <i>KNR</i>
+sera asymptote de la courbe. <i>Voyez</i> <sc><ref target="head:Asymptote" type="search">Asymptote</ref></sc>.
+</p>
+<p>
+Cette courbe est aussi quarrable. Pour le prouver 
+de la maniere la plus simple, je reprends l&#39;équation 
+<i>x</i><sup>3</sup>+<i>y</i><sup>3</sup>=<i>axy</i>, &amp; je fais <i>y=xz</i>, j&#39;aurai
+<i>ydx</i> élément de l&#39;aire de la courbe = <i>xzdx</i>, dont
+l&#39;intégrale est <i>xxz</i>/2-∫(xxdz)/2. Or <i>y</i>=<i>xz</i> donne x
+=<i>(az)</i>/(1+<i>z</i><sup>3</sup>) &amp; <i>(xxdz)=(aazzdz)</i>/(1+<i>z</i><sup>3</sup>)<sup>2</sup>, dont l&#39;intégrale est
+aisée à trouver. Car soit 1+<i>z</i><sup>3</sup>=<i>u</i><sup>3</sup>, on aura <i>zzdz
+=uudu ;</i> &amp; <i>(aazzdz)</i>/(1+<i>z</i><sup>3</sup>)<sup>2</sup>=<i>(aadu)</i>/<i>u</i><sup>4</sup>, dont l&#39;intégrale est
+fort simple. <i>Voy.</i> <sc><ref target="head:Integral" type="search">Integral</ref> <i>&amp;</i> <ref target="head:Transformation" type="search">Transformation</ref></sc>.
+Donc, <i>&amp;c.</i>
+</p>
+<p>
+M. de l&#39;Hopital, <i>analyse des infiniment petits, sect</i>.
+2. donne une méthode de trouver les asymptotes
+de cette courbe par les tangentes. <i>Voyez</i> <sc><ref target="head:Tangente" type="search">Tangente</ref></sc>, <i>&amp;c.</i> (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

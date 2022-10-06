@@ -1,0 +1,161 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30486" id="55:95:7" vol="7">
+<index type="head" value="Gros d&#39;Haleine" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchall." />
+<index type="normclass" value="Maréchallerie | Manège" />
+<index type="englishclass" value="Farrier&#39;s art | Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Gros d&#39;Haleine</head>
+<p>
+<sc>Gros d&#39;Haleine</sc>, (<i>Manége &amp; Maréchall.</i>) cheval 
+qui souffle considérablement dans l&#39;action &amp; dans
+le travail, &amp; dont le flanc néanmoins n&#39;est nullement 
+altéré dans le repos, ni plus agité qu&#39;il ne doit
+l&#39;être naturellement ensuite d&#39;une course violente.
+Communément il fournit avec autant de vigueur
+que si l&#39;on ne pouvoit pas lui reprocher cette incommodité,
+plus disgracieuse pour le cavalier qui le
+monte que préjudiciable au service dont l&#39;animal lui
+peut être.
+</p>
+<p>
+Nous l&#39;attribuons en général à un défaut de conformation : dans ces sortes de chevaux en effet les côtes 
+sont ordinairement plates &amp; serrées, &amp; la capacité 
+du thorax trop peu vaste pour permettre une
+grande dilatation des poumons ; or ce viscere se trouvant 
+gêné dans son expansion &amp; dans son jeu, il n&#39;est
+pas étonnant que l&#39;animal soit obligé d&#39;inspirer &amp;
+d&#39;expirer plus fréquemment, sur-tout dans des momens 
+où l&#39;action des muscles hâte &amp; accélere plus ou
+moins la marche circulaire, &amp; où le cheval est machinalement 
+obligé de faire de continuels efforts pour
+faciliter le cours du sang dans des canaux qu&#39;il ne
+sauroit parcourir avec promptitude &amp; avec aisance,
+dès que l&#39;extension n&#39;est pas telle qu&#39;elle puisse en favoriser 
+le passage.
+</p>
+<p>
+Souvent aussi l&#39;animal est <i>gros d&#39;haleine</i>, attendu
+l&#39;étroitesse de la glotte, de la trachée artere, &amp; principalement 
+des nasaux, dont il est d&#39;autant plus essentiel 
+que le diametre soit considérable, que la plus
+grande quantité de l&#39;air inspiré &amp; expiré enfile spécialement 
+leurs cavités ; c&#39;est ce qu&#39;il est très-aisé
+d&#39;observer dans les tems froids &amp; rigoureux ; on voit
+en effet alors que l&#39;espece de nuage résultant des vapeurs 
+condensées des poumons, sort &amp; s&#39;échappe
+en plus grande partie par cette voie que par la bouche ; 
+d&#39;où l&#39;on doit juger de l&#39;inconvénient du resserrement 
+du double canal qui forme les fosses nasales,
+&amp; de la nécessité de sa largeur &amp; de son évasure, pour l&#39;accomplissement d&#39;une respiration libre
+&amp; parfaite.
+</p>
+<p>
+L&#39;impossibilité de remédier à un vice qui reconnoît 
+de pareilles causes, est sensible ; mais le cheval
+n&#39;en étant pas moins utile, pourquoi nous plaindrions-nous de notre impuissance? Nous devons cependant 
+faire attention à ce qu&#39;il ne provienne pas
+d&#39;un polype (<i>voyez</i> <sc><ref target="head:Polype" type="search">Polype</ref></sc>), ou de la viscosité de
+l&#39;humeur bronchiale ; ce qui n&#39;est pas extraordinaire
+dans des chevaux <i>gros d&#39;haleine</i>, qui font entendre
+un rallement produit presque toûjours par les différentes 
+collisions de l&#39;air contre les matieres visqueuses 
+qui tapissent les canaux aériens : dans ce dernier
+cas, le flanc de l&#39;animal n&#39;est point aussi tranquille,
+&amp; il est fort à craindre qu&#39;il ne devienne poussif, si
+l&#39;on n&#39;a recours promptement aux médicamens incisifs,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+atténuans, &amp; fondans, tels que la poudre du
+lierre terrestre, de racine de meum, d&#39;énula campana,
+d&#39;iris de Florence, de cloportes, d&#39;éthiops minéral,
+d&#39;acier, ou de <i>plumbum ustum, &amp;c.</i> qu&#39;il est
+très-à-propos de lui donner exactement tous les matins 
+&amp; à jeun dans une jointée d&#39;avoine. <i>Voyez</i>
+<sc><ref target="head:Pousse" type="search">Pousse</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,151 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29740" id="53:194" vol="7">
+<index type="head" value="GNIDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GNIDE</head>
+<p>
+GNIDE, <i>Cnidus</i>, (<i>Géog. anc.</i>) c&#39;étoit anciennement 
+une ville considerable de la Doride, contrée
+<pb n="7:724" facs="V7/ENC_7-724.jpeg" />
+<milestone unit="column" n="1" />
+de la Carie dans l&#39;Asie mineure, sur un promontoire 
+fort avancé, qu&#39;on appelloit <i>Triopum ;</i> présentement 
+<i>Capocrio</i>. Outre les fêtes d&#39;Appollon &amp; de
+Neptune qu&#39;on y célebroit avec la derniere magnificence,
+on rendoit à <i>Gnide</i> un culte particulier à
+Venus, surnommée <i>Gnidienne ;</i> c&#39;étoit-là qu&#39;on
+voyoit la statue de cette déesse, ouvrage de la main
+de Praxitelle, qui seul, dit Pline, annoblissoit la ville
+de <i>Gnide</i>. Les curieux faisoient exprès le voyage de
+la Doride pour considérer de leurs propres yeux ce
+chef-d&#39;oeuvre de l&#39;art. Nicomede avoit tant d&#39;envie
+de le posséder, qu&#39;il voulut en donner de quoi payer
+les dettes immenses que cette ville avoit contractées ; 
+elle le refusa, parce que cette seule statue faisoit 
+sa gloire &amp; son trésor.
+</p>
+<p>
+Horace n&#39;a pas oublié de célebrer le culte que
+Vénus recevoit à <i>Gnide:</i>
+<lg>
+<i>Quoe</i> Cnidon
+<i>Fulgentesque tenet Cycladas, &amp; Paphon
+Junctis visit oloribus.
+Lib. III. od. xxviij.</i>
+</lg>
+</p>
+<p>
+<blockquote> 
+« Réunissons nos voix pour chanter la déesse qui
+est »
+</blockquote>
+adorée à <i>Gnide</i>, qui tient sous son empire les
+brillantes Cyclades, &amp; qui sur un char trainé par
+des cygnes visite tous les ans l&#39;île de Paphos.
+</p>
+<p>
+<i>Gnide</i> n&#39;est à présent qu&#39;un village qui est encore
+nommé <i>Cnido</i>, &amp; dont il reste une grande quantité
+de ruines vers le cap de Crio en Natolie. Les habitans 
+du lieu ne se doutent pas même de l&#39;origine de
+ces ruines ; encore moins savent ils que leur territoire 
+a produit autrefois un Ctésias medecin &amp; historien,
+qui avoit composé en XIII. livres une belle
+histoire des Assyriens &amp; des Perses, dont Eusebe &amp;
+Photius nous ont conservé quelques fragmens. Ils
+ne connoissent pas davantage Eudoxe de <i>Gnide</i> qui
+mourut 350 ans avant Jesus-Christ, qui fut astronome,
+géometre, &amp;, ce qui vaut bien mieux, le législateur 
+de sa patrie. Le spectacle de l&#39;univers ne
+nous présente que des pays-devenus barbares, ou
+d&#39;autres qui sortent de la barbarie. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

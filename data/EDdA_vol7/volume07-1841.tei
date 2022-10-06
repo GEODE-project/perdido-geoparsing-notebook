@@ -1,0 +1,336 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29295" id="52:114" vol="7">
+<index type="head" value="GENDARME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod. &amp; Art milit." />
+<index type="normclass" value="Histoire moderne | Art militaire" />
+<index type="englishclass" value="Modern history | Military Arts" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="s.m." />
+<head>GENDARME</head>
+<p>
+GENDARME, s. m. (<i>Hist. mod.</i> &amp; <i>Art milit.</i>)
+c&#39;étoit autrefois un cavalier armé de toutes pieces,
+c&#39;est-à-dire qui avoit pour armes défensives le casque,
+la cuirasse, &amp; toutes les autres armures nécessaires 
+pour couvrir toutes les parties du corps. Le
+cheval du <i>gendarme</i> avoit la tête &amp; les flancs aussi
+<milestone unit="column" n="2" />
+couverts d&#39;armes défensives. Les cavaliers armés de
+cette maniere, furent d&#39;abord appellés <i>hommes d&#39;armes</i>, &amp; ensuite <i>gendarmes. Voyez</i> <sc><ref target="head:Homme d&#39;armes" type="search">Homme d&#39;armes</ref></sc>.
+</p>
+<p>
+<blockquote> 
+« De tout tems les hommes d&#39;armes ou <i>gendarmes</i>, dit le P. Daniel, ont été regardés comme la
+plus noble partie de la milice françoise. Depuis
+l&#39;institution des compagnies d&#39;ordonnance par
+Charles VII. les grands seigneurs, les maréchaux
+de France, les connétables, les princes du sang,
+se sont fait honneur de commander ces sortes de
+compagnies ; &amp; dans la suite les rois mêmes ont
+voulu en avoir une dont ils se faisoient les capitaines ».
+</blockquote>
+<i>Hist. de la milice franç. tom. II. pag. 182</i>.
+</p>
+<p>
+Le poids considerable des armes du <i>gendarme</i> qui
+le rendoit propre à soûtenir un choc &amp; à combattre
+de pié ferme, ne lui permettoit pas de poursuivre
+l&#39;ennemi lorsqu&#39;il étoit rompu ; il y avoit pour y suppléer 
+une autre espece de cavalerie plus legerement
+armée, qu&#39;on appelloit par cette raison <i>cavalerie legere</i>.
+</p>
+<p>
+Quoique cette différente maniere d&#39;armer la cavalerie 
+ait été totalement abolie sous le renge de
+Louis XIV. on a conservé néanmoins le nom de
+<i>gendarmerie</i> à plusieurs corps qui avoient autrefois
+l&#39;armure du <i>gendarme ;</i> &amp; l&#39;on a appellé <i>cavalerie legere</i>, tous les autres corps de la cavalerie.
+</p>
+<p>
+Le corps de la gendarmerie de France est divisé
+en troupes particulieres, appellées <i>compagnies</i>.
+</p>
+<p>
+Les compagnies sont de deux sortes : les unes sont
+destinées à la garde du roi, &amp; elles forment le corps
+qu&#39;on appelle <i>la maison du roi ;</i> les autres, qui n&#39;ont
+pas le même objet, retiennent l&#39;ancien nom de <i>gendarmerie</i>, ou de <i>compagnies d&#39;ordonnance</i>.
+</p>
+<p>
+Les compagnies du corps de la <i>gendarmerie</i> qui
+composent la maison du roi, sont les quatre compagnies 
+des gardes-du-corps, celle des <i>gendarmes de la
+garde</i>, celle des chevau-legers, &amp; les deux compagnies 
+de mousquetaires. La compagnie des grenadiers-à-cheval est toûjours à la suite de ce corps,
+mais elle n&#39;en fait pas partie.
+</p>
+<p>
+Dans l&#39;usage ordinaire, lorsqu&#39;on veut exprimer
+un maître ou un cavalier des <i>gendarmes</i> de la maison 
+du roi, on lui donne le titre de <i>gendarme de la
+garde:</i> on se sert simplement de celui de <i>gendarme</i>
+pour tous les maîtres des compagnies d&#39;ordonnance.
+</p>
+<p>
+La compagnie des <i>gendarmes de la garde</i> avoit autrefois 
+le premier rang dans la maison du roi. Les
+gardes-du-corps obtinrent ensuite ce privilége vers
+l&#39;an 1665.
+<blockquote> 
+« Sa majesté étant à Vincennes, dit le P.
+Daniel, fit une revûe des troupes de sa maison, où
+les <i>gendarmes</i> qui avoient toûjours eû la droite sur
+les gardes-du-corps, eurent ordre de passer à la
+gauche. La volonté du roi, &amp; la grande ancienneté 
+des quatre compagnies des gardes du roi, en
+comparaison des autres compagnies de la maison
+du roi, furent alors &amp; ont été depuis, leur titre de
+préséance ».
+</blockquote>
+<i>Hist. de la milice franç. t. II. p. 190</i>.
+</p>
+<p>
+Le même auteur prétend que c&#39;est le roi Louis
+XIII. qui à son avenement à la couronne, voulant
+donner à la compagnie des <i>gendarmes</i> une marque
+particuliere de confiance, la mit dans le corps de
+troupes destinées à sa garde.
+</p>
+<p>
+Cette compagnie est de deux cents maîtres ; on
+l&#39;augmente quelquefois jusqu&#39;à deux cents quarante
+en tems de guerre. C&#39;est le roi qui en est capitaine.
+Le commandant a le titre de <i>capitaine-lieutenant</i>,
+comme l&#39;ont tous les autres commandans des compagnies 
+qui composent le corps de la <i>gendarmerie</i> de
+France.
+</p>
+<p>
+Les <i>gendarmes de la garde</i> ont, après le commandant,
+deux officiers supérieurs qui ont le titre de <i>capitaines-sous-lieutenans</i>. Ils ont de plus trois officiers,
+qui ont chacun le titre d&#39;<i>enseigne</i>, &amp; trois autres qui
+ont celui de <i>guidon</i>.
+<pb n="7:548" facs="V7/ENC_7-548.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Il y a dix maréchaux-des-logis dans cette compagnie,
+parmi lesquels on en choisit deux pour remplir
+les fonctions de major, sous le titre d&#39;<i>aides-major</i>.
+</p>
+<p>
+Les deux sous-lieutenans des <i>gendarmes de la garde</i>
+ont, en qualité de capitaines-sous-lieutenans, la préséance 
+&amp; le commandement dans le service de la
+maison du roi, sur les lieutenans des gardes-du-corps : c&#39;est un privilége que n&#39;ont point les autres
+sous-lieutenans des compagnies de la maison du roi.
+</p>
+<p>
+La compagnie des <i>gendarmes de la garde</i> est divisée 
+en quatre brigades. Il y en a une de service chaque 
+quartier chez le Roi. Cette compagnie a rang
+immédiatement après les gardes-du-corps. A l&#39;armée,
+son camp ferme la gauche de celui de la maison 
+du roi.
+</p>
+<p>
+Il y a quatre étendarts dans cette compagnie, savoir 
+un à chaque brigade. Ils sont de satin blanc relevé 
+en broderie d&#39;or. Leurs devises sont des foudres
+qui tombent du ciel, avec ces mots pour ame, <i>quo
+jubet iratus Jupiter</i>. Ces étendarts sont déposés dans
+la ruelle du lit de Sa Majesté; la compagnie les envoye 
+prendre par un détachement lorsqu&#39;elle en a
+besoin, &amp; on les reporte au même lieu escortés par
+un pareil détachement.
+</p>
+<p>
+La compagnie des chevau-legers de la garde du
+roi joüit de ce même privilége, pour le dépôt de ses
+étendarts.
+</p>
+<p>
+L&#39;uniforme des <i>gendarmes de la garde</i> est d&#39;écarlate
+avec des galons d&#39;or sur toutes les tailles ; les paremens 
+de l&#39;habit sont de velours noir. Il y a quatre
+trompettes &amp; un tymballier à la suite de la compagnie.
+</p>
+<p>
+Les <i>gendarmes de la garde</i>, ainsi que les autres
+maîtres de la maison du roi, ont d&#39;abord le grade de
+lieutenant de cavalerie ; après quinze ans de service
+ils obtiennent celui de capitaine de cavalerie. <i>Voyez</i>
+<sc><ref target="head:Gardes-du-Corps" type="search">Gardes-du-Corps</ref></sc>.
+</p>
+<p>
+Les compagnies d&#39;ordonnance auxquelles on donne 
+en particulier le nom de <i>gendarmerie</i>, sont au nombre 
+de seize, qui forment huit escadrons.
+</p>
+<p>
+Les quatre premieres compagnies sont, 1°. les gendarmes 
+écossois, 2°. les gendarmes anglois, 3°. les
+gendarmes bourguignons, 4°. les gendarmes flamands ; 
+ces quatre premieres compagnies sont celles
+du roi.
+</p>
+<p>
+Les autres compagnies portent le nom des princes
+qui les commandent. Les gendarmes de la reine,
+les chevau-legers de la reine ; les gendarmes de M.
+le dauphin, les chevau-legers de M. le dauphin ; les
+gendarmes de Bourgogne, les chevau-legers de Bourgogne, <i>&amp;c.</i> Chaque compagnie de gendarmes ou de
+chevau-legers est divisée en deux brigades ; le capitaine-lieutenant en entretient une, &amp; le sous-lieutenant l&#39;autre. Outre ces deux officiers il y a dans les
+compagnies des <i>gendarmes</i> pour troisieme &amp; quatrieme 
+officier un enseigne &amp; un guidon ; &amp; dans les
+compagnies de chevau-legers un premier cornette
+&amp; un second cornette.
+</p>
+<p>
+Les gendarmes &amp; les chevau-legers sont armés
+comme la cavalerie. Ils sont habillés de rouge, avec
+quelques galons d&#39;argent, &amp; ils ont des bandoulieres 
+qui distinguent les compagnies.
+</p>
+<p>
+Les capitaines-lieutenans des gendarmes ont rang
+de mestre-de-camp, aussi-bien que tous les sous-lieutenans, l&#39;enseigne &amp; le guidon des écossois. Ce rang
+a été fixé par une ordonnance du premier Mars
+1718, laquelle accorde aussi aux enseignes &amp; guidons 
+des autres compagnies, le rang de lieutenant-colonel.
+Les maréchaux-des-logis de ce corps ont
+rang parmi les capitaines de cavalerie ; mais ils ne
+montent point aux charges supérieures de leurs compagnies.
+Tous les emplois, jusqu&#39;à ceux des guidons
+compris, se vendent avec l&#39;agrément &amp; la permission 
+du roi.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La compagnie des gendarmes écossois est très-ancienne ; elle etoit sur pié dès le tems de Charles VII.
+Elle étoit autrefois composée d&#39;écossois ; mais il y
+a du tems qu&#39;elle ne l&#39;est plus que de françois, comme 
+les autres compagnies. Il lui reste encore pour
+priviléges particuliers, celui d&#39;avoir rang avant les
+deux compagnies de mousquetaires : elle monte la
+garde à cheval chez le roi avant ces deux compagnies,
+lorsque sa majesté est à l&#39;armée ou en voyage.
+</p>
+<p>
+La <i>gendarmerie</i> forme à la guerre huit escadrons ;
+les huit premieres compagnies sont les premieres
+de chaque escadron, &amp; les huit dernieres achevent
+chaque escadron.
+</p>
+<p>
+Toutes les compagnies de la maison du roi &amp; de
+la <i>gendarmerie</i> sont subordonnées au commandant
+de la cavalerie, mais elles font corps entr&#39;elles : elles 
+ont un même commandant, qui a sous lui deux
+brigadiers ; savoir, l&#39;un pour la maison du roi, &amp;
+l&#39;autre pour la <i>gendarmerie</i>. A l&#39;armée la maison du
+roi &amp; la <i>gendarmerie</i> campent ensemble. La <i>gendarmerie</i> est à la gauche des <i>gendarmes de la garde</i> ; son
+camp en est seulement separé par un intervalle de
+vingt ou vingt-cinq toises.
+</p>
+<p>
+La <i>gendarmerie</i> a la droite sur tous les régimens de
+cavalerie de l&#39;armée.
+<blockquote> 
+« C&#39;est le corps, comme le dit
+le P. Daniel, le plus distingué après la maison du
+roi. Les quatre officiers supérieurs des compagnies
+sont toûjours des personnes de naissance. Ce corps
+s&#39;est souvent signalé &amp; a beaucoup contribué au
+gain des batailles, comme à Senef, à Cassel, à la
+Marsaille, à Spire, &amp; sur-tout il s&#39;acquit beaucoup
+de gloire à la journée de Fleurus »
+</blockquote>
+<i>Hist. de la milice 
+franç. tome II. page 233</i>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

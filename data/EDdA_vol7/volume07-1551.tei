@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29005" id="51:235:12" vol="7">
+<index type="head" value="Gardes-françoises" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="shortauth" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Gardes-françoises</head>
+<p>
+<sc>Gardes-françoises</sc> ; c&#39;est un régiment d&#39;infanterie 
+créé par Charles IX. en 1563, composé de trente-trois compagnies divisées en six bataillons. Tout
+le corps est commandé par un colonel ; chaque compagnie 
+par un capitaine, qui a sous lui un lieutenant,
+un sous-lieutenant, un enseigne, &amp; quatre sergens,
+à l&#39;exception de la colonelle, où l&#39;on compte trois
+lieutenans, autant de sous-lieutenans, deux enseignes,
+six sergens : chaque bataillon a outre cela son
+commandant, son major, &amp; ses aides-majors. Les
+<i>gardes-françoises</i> tiennent toûjours la droite sur les
+<i>gardes</i>-suisses ; &amp; leurs officiers portent le hausse-coldoré ;
+<pb n="7:485" facs="V7/ENC_7-485.jpeg" />
+<milestone unit="column" n="1" />
+au lieu que ceux des <i>gardes</i>-suisses le portent
+d&#39;argent. Ils ont aussi leur juge particulier, qu&#39;on
+nomme le <i>prevôt des bandes</i>. Leur uniforme est bleu,
+paremens rouges, avec des agrémens blancs, leurs
+drapeaux bleus traversés d&#39;une croix blanche &amp; parsemés 
+de fleurs-de-lis d&#39;or. Plusieurs compagnies montent 
+la <i>garde</i> chez le roi, &amp; sont relevées par autant
+d&#39;autres au bout de quatre jours. Ils gardent les bâtimens 
+extérieurs du louvre, les cours &amp; avant cours,
+où ils se rangent en haie, lorsque le roi ou la reine
+doivent sortir ; ils restent dehors jusqu&#39;à la rentrée
+du roi ou de la reine ; les tambours battent au champ
+pendant leur passage. Ils appellent pour les enfans
+de France, &amp; ils rendent le même honneur à leur
+colonel. On les employe aussi à différentes <i>gardes</i>
+dans Paris, où ils sont logés dans les fauxbourgs, &amp;
+ont divers corp-de-<i>garde ;</i> &amp; lorsque le roi n&#39;est pas
+à Versailles, ils fournissent toûjours un certain nombre 
+d&#39;hommes pour la <i>garde</i> de la reine &amp; des enfans
+de France.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

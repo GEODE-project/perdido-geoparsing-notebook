@@ -1,0 +1,237 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30384" id="55:31" vol="7">
+<index type="head" value="GRENOUILLETTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.f." />
+<head>GRENOUILLETTE</head>
+<p>
+GRENOUILLETTE, s. f. <i>terme de Chirurgie</i>, tumeur 
+qui se forme sous la langue par l&#39;amas de la
+salive dans ses reservoirs. Tous ceux qui ont parlé
+de cette maladie avant la découverte des organes qui
+servent à la secrétion de la salive, n&#39;ont pû avoir
+des idées précises sur la nature de cette tumeur : on
+croit que Celse en parle dans le <i>xij. chap. du VII.
+liv.</i> qui a pour titre, <i>de abscessu sub linguâ</i>. Ambroise
+Paré dit que la <i>grenouillette</i> est formée de matiere
+pituiteuse, froide, humide, grosse &amp; visqueuse, tombant 
+du cerveau sur la langue. Fabrice d&#39;Aquapendente
+met cette tumeur au nombre des enkistées, &amp;
+ajoûte qu&#39;elle est de la nature du melliceris ; Dionis
+est aussi de ce sentiment, &amp; il estime que la <i>grenouillette</i>
+tient un peu de la nature des loupes. Munnick
+instruit par les découvertes de l&#39;anatomie moderne,
+ne s&#39;est pas mépris sur la nature de cette maladie ; il
+dit positivement qu&#39;elle vient d&#39;une salive trop acre
+&amp; trop épaisse, laquelle ne pouvant sortir par les
+canaux salivaires inférieurs, s&#39;amasse sous la langue
+&amp; y produit une tumeur. Une idée si conforme à la
+raison &amp; à la nature des choses, n&#39;a pas été suivie par
+M. Heister ; il a emprunté d&#39;Aquapendente tout ce
+qu&#39;il dit sur la <i>grenouillette ;</i> &amp; M. Col de Villars, medecin 
+de Paris, dans son <i>cours de Chirurgie</i>, dicté aux
+écoles de Medecine, dit que la ranule est causée par
+le séjour &amp; l&#39;épaississement de la lymphe qui s&#39;accumule 
+sous la membrane dont les veines ranules sont
+couvertes. Enfin M. de la Faye, dans ses notes sur
+Dionis, reconnoit deux especes de <i>grenouillette</i>, les
+unes rondes placées sous la langue, qu&#39;il dit produites 
+par la dilatation du canal excrétoire de la glande
+sublinguale, les autres sont plus longues que rondes,
+placées à la partie latérale de la langue, &amp; formées,
+dit-il, par la dilatation du canal excrétoire de la
+glande maxillaire inférieure ; il ajoûte que la salive
+est la cause matérielle de ces tumeurs, par son épaississement &amp; l&#39;atonie du canal. Voilà le précis des
+diverses opinions qu&#39;on a eues sur la nature &amp; le siége 
+de la <i>grenouillette</i>.
+</p>
+<p>
+Ce n&#39;est point une maladie rare, il n&#39;y a point de
+praticien qui n&#39;ait eu occasion de voir un grand
+nombre de tumeurs de cette espece : quand elles ne
+sont pas invétérées, la liqueur qui en sort ressemble
+parfaitement par sa couleur &amp; sa consistance, à du
+blanc d&#39;oeuf ; la matiere est plus épaisse si elle a séjourné 
+plus long-tems ; elle devient quelquefois plâtreuse,
+&amp; peut même acquérir une dureté pierreuse.
+Il sembleroit donc plus naturel de penser que l&#39;épaississement 
+de la salive n&#39;est point la cause de la <i>grenouillette</i>, puisque l&#39;épaississement de cette humeur
+est l&#39;effet de son séjour. Cette maladie vient de la
+disposition viciée des solides ; elle dépend de l&#39;oblitération 
+du canal excréteur : en effet on guérit toûjours 
+ces tumeurs sans avoir recours à aucun moyen
+capable de délayer la salive, &amp; de changer le vice
+qu&#39;on suppose dans cette humeur ; c&#39;est une maladie
+purement locale ; l&#39;atonie du canal ne retiendroit pas
+la salive ; &amp; l&#39;on n&#39;a jamais obtenu la guérison de
+cette maladie que par le moyen d&#39;un trou fistuleux
+resté pour l&#39;excrétion de la salive dans un des points
+de l&#39;ouverture qu&#39;on a faite pour l&#39;évacuation de la
+<milestone unit="column" n="2" />
+matiere renfermée dans la tumeur. J&#39;en ai ouvert
+plusieurs ; &amp; il est presque toùjours arrivé, lorsque
+l&#39;incision n&#39;avoit pas assez d&#39;étendue, que les levres
+de la plaie se réunissoient, &amp; la tumeur se reproduisoit 
+quelque tems après : les anciens ont fait la même
+observation. C&#39;est la raison pour laquelle Paré préfere
+le cautere actuel à la lancette, dans ces sortes de cas.
+Dionis dit aussi qu&#39;il a vû des <i>grenouillettes</i> qui revenoient,
+parce qu&#39;on s&#39;étoit contenté d&#39;une simple
+ouverture avec la lancette. Pour prévenir cet inconvénient,
+il prescrit de tremper dans un mêlange de
+miel rosat &amp; d&#39;esprit de vitriol, un petit linge attaché
+au bout d&#39;un brin de balai, avec lequel on frottera
+rudement le dedans du kiste, pour le faire exfolier
+ou se consumer. Il n&#39;y a point d&#39;auteur qui ne semble
+regretter que la situation de la tumeur ne permette
+pas la dissection totale du kiste. Les succès que Fabrice d&#39;Aquapendente a eus en incisant seulement la
+tumeur dans toute son étendue, ne lui ont point ôté
+cette prévention ; &amp; M. Heister conseilleroit l&#39;extirpation,
+si la nature des parties voisines qu&#39;on pourroit 
+blesser, n&#39;y apportoit, dit-il, le plus grand obstacle ; 
+mais si ce prétendu kiste, si cette poche n&#39;est
+autre chose que la glande même ou son canal excréteur 
+dilaté par la rétention de l&#39;humeur salivaire, on
+conviendra qu&#39;il seroit dangereux d&#39;irriter le fond
+de la tumeur, pour en détruire les parois, au défaut
+de l&#39;extirpation qu&#39;on estime nécessaire, &amp; qu&#39;on est
+fâché de ne pas trouver possible. Toutes les fois
+qu&#39;on a fait une assez grande incision qui a permis
+l&#39;affaissement des levres de la plaie, il n&#39;y a point de
+récidive : Munnick recommande expressément cette
+incision ; &amp; Rossius met la petite ouverture qu&#39;on
+fait dans ce cas, au nombre des fautes principales
+qu&#39;on peut commettre dans la méthode de traiter
+cette maladie, &amp; d&#39;où dépend le renouvellement de
+la tumeur. Il ne faut pas dissimuler qu&#39;il recommande 
+aussi la destruction du kiste : mais pour parvenir à
+ce but, il ne propose que des remedes astringens &amp;
+dessicatifs, dont l&#39;effet est borné à donner du ressort
+aux parties qui ont souffert une trop grande extension,
+&amp; à les réduire, autant qu&#39;il est possible, à leur
+état naturel : c&#39;est donc par pure prévention que cet
+auteur croyoit dissoudre &amp; consumer insensiblement
+le kiste avec des remedes de cette espece.
+</p>
+<p>
+Les tumeurs salivaires sont les glandes même, &amp;
+leurs tuyaux excrétoires dilatés par la matiere de
+l&#39;excrétion retenue. Ainsi le nom de <i>tumeur enkistée</i>
+ne convient qu&#39;improprement à la <i>grenouillette</i>, au moins 
+est-il certain que si l&#39;on appelle ces sortes de
+dilatations, <i>tumeurs enkistées</i>, elles ne sont pas du
+genre de celles dont on doive détruire &amp; extirper le
+kiste ; c&#39;est bien assez de les ouvrir dans toute leur
+longueur, l&#39;on peut même retrancher les levres de
+l&#39;incision, dans le cas où ces bords seroient tuméfiés,
+durs, ou incapables de se rétablir à-peu-près dans
+l&#39;état naturel, à cause de la grande extension que
+ces parties auroient soufferte par le volume considérable 
+de la tumeur. J&#39;ai observé que la guérison radicale 
+dépendoit toûjours d&#39;un trou fistuleux qui restoit 
+pour l&#39;excrétion de la salive ; &amp; lorsqu&#39;il se trouve 
+inférieurement derriere les dents incisives, il y
+a dans certains mouvemens de la langue, une éjaculation de salive très incommode. On peut prévenir 
+cet inconvénient, puisque pour la guérison parfaite,
+il suffit de procurer à l&#39;humeur salivaire retenue 
+une issue qui ne puisse pas se consolider ; il semble 
+que la perforation de la tumeur avec le cautere
+actuel, comme Paré l&#39;avoit proposée, seroit un
+moyen aussi efficace que l&#39;incision, mais moins douloureux,
+&amp; préférable en ce que l&#39;on seroit assûré
+de former l&#39;ouverture de la tumeur pour l&#39;excrétion
+permanente de la salive, dans la partie la plus éloignée du devant de la bouche ; &amp; de mettre les malades<gap type="hyphenpb" />
+<pb n="7:945" facs="V7/ENC_7-945.jpeg" />
+<milestone unit="column" n="1" />
+à l&#39;abri de l&#39;incommodité de baver continuellement,
+ou d&#39;éjaculer de la salive sur les personnes
+à qui ils parlent. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

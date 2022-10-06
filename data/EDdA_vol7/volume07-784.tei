@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28238" id="50:65" vol="7">
+<index type="head" value="FRAPPER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Escrime" />
+<index type="pos" value="v.act." />
+<head>FRAPPER</head>
+<p>
+* FRAPPER, v. act. <i>voyez ses principales acceptions:</i> c&#39;est, au simple, donner un coup, soit avec
+la main, soit avec un instrument ; <i>il m a frappé rudement:</i> au figuré, imprimer dans l&#39;esprit la crainte,
+la terreur, ou quelqu&#39;autre passion, par la force de
+l&#39;éloquence ; <i>son discours m&#39;a frappé</i>. Les Mariniers
+<i>frappent</i> une manoeuvre, <i>voyez</i> <sc><ref target="head:Frapper" type="search">Frapper</ref></sc>, (<i>Marine</i>.)
+On est <i>frappé</i> d&#39;une maladie ; les Chasseurs <i>frappent</i>
+à route, pour remettre les chiens sur la voie ; aux
+brisées, quand ils sont au lieu du lancer. On marque
+les monnoies au balancier, cependant on a retenu
+l&#39;ancien mot de <i>frapper. Voyez</i> <sc><ref target="head:Frapper" type="search">Frapper</ref></sc>, (<i>Monnoyage</i>.) On <i>frappe</i> une étoffe. <i>Voyez</i> <sc><ref target="head:Frapper" type="search">Frapper</ref></sc>, (<i>Manuf. soit en laine, soie en soie</i>. On <i>frappe</i> sur l&#39;enclume,
+<i>&amp;c</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

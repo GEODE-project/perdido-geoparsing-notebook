@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30661" id="55:223:1" vol="7">
+<index type="head" value="Gui" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Med. &amp; Mat. med." />
+<index type="normclass" value="Médecine | Matière médicale" />
+<index type="englishclass" value="Medicine | Materia medica" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Gui</head>
+<p>
+<sc>Gui</sc>, (<i>Med. &amp; Mat. med.</i>) Si le <i>gui</i> touche la curiosité 
+des Botanistes, je ne lui connois aucun point
+de vûe qui puisse intéresser le medecin. Il est vrai
+que cette plante parasite passoit autrefois pour une
+panacée ; mais ces préjugés émanés de la superstition 
+gauloise, doivent cesser aujourd&#39;hui. Cependant on n&#39;ignore pas les grandes vertus que quelques 
+auteurs continuent de lui affigner ; les uns le
+louent pour chasser la fievre quarte, pour provoquer<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les regles, pour tuer les vers des enfans ; &amp;
+d&#39;autres le recommandent dans plusieurs remedes externes,
+emplâtres &amp; onguens, pour mûrir ou pour
+résoudre les tumeurs.
+</p>
+<p>
+Je sai qu&#39;un docteur anglois nommé <i>Colbatch</i>, a
+fait un discours sur cette plante, dans lequel il a
+transcrit les merveilles que Pline, Galien &amp; Dioscoride lui ont attribuées ; il la vante comme eux dans
+toutes les especes de convulsions, dans le vertige,
+l&#39;apoplexie, la paralysie ; &amp; pour comble de ridicule,
+il donne la préférence au <i>gui</i> du noisetier sur celui
+du chêne. On retrouve toutes ces sotises dans d&#39;autres 
+ouvrages ; mais l&#39;entiere inutilité du <i>gui</i> en Medecine, &amp; du plus beau <i>gui</i> de chêne qui soit au
+monde, n&#39;en est pas moins constatée par l&#39;expérience ; 
+&amp; dans le fond d&#39;où tireroit-il son mérite, que
+des arbres dont il se nourrit?
+</p>
+<p>
+Il y a même en particulier du danger à craindre
+dans l&#39;usage des baies du <i>gui ;</i> leur acreté, leur amertume 
+&amp; leur glutinosité, les font regarder comme
+une espece de poison. L&#39;on prétend qu&#39;employés intérieurement,
+elles purgent par le bas avec violence,
+&amp; causent une grande inflammation dans l&#39;estomac 
+&amp; les intestins. On comprend sans peine que
+l&#39;acreté, la figure &amp; la glu de ces baies, sont très propres 
+à produire les mauvais effets dont on les accuse,
+en s&#39;attachant fortement aux visceres &amp; en les
+irritant : c&#39;est néanmoins à l&#39;expérience à décider.
+Mais au cas qu&#39;on eût fait usage de ces baies en quelque 
+quantité, soit par malheur ou par des conseils
+imprudens, un bon &amp; simple remede seroit d&#39;avaler
+peu-à-peu une grande abondance d&#39;eau tiede, pour
+laver insensiblement cette glu, &amp; faciliter par ce
+moyen l&#39;expulsion des baies hors du corps.
+</p>
+<p>
+On composoit jadis avec les baies de <i>gui</i> le <i>viscum
+aucupum</i>, ou la glu des oiseleurs ; mais présentement
+on a abandonné cet usage. On fait la bonne glu avec
+l&#39;écorce de houx. <i>Voyez</i> <sc><ref target="head:Glu" type="search">Glu</ref></sc>. (<i>D. J</i>.)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

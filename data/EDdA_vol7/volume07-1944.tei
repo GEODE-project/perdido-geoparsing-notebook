@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29398" id="52:163:2" vol="7">
+<index type="head" value="Gentiane, (petite) ou Gentiane-croisette" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. médicale." />
+<index type="normclass" value="Matière médicale" />
+<index type="englishclass" value="Materia medica" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Gentiane</head>
+<p>
+<sc>Gentiane</sc>, (<i>petite</i>) <i>ou</i> <sc>Gentiane-croisette</sc>,
+(<i>Mat. médicale.</i>) La racine de <i>petite gentiane</i> est très estimée 
+par les modernes, dit Ray, contre la peste
+&amp; la morsure des animaux venimeux. Mathiole assûre 
+que cette racine étant pilée &amp; appliquée sur le
+bas-ventre en forme de cataplasme, est un remede
+éprouvé contre les vers des intestins ; &amp; que la plante 
+fraîche pilée ou séchée, &amp; pulverisée, est d&#39;une
+grande efficacité contre les ulceres écroüelleux.
+</p>
+<p>
+Cette plante est absolument inusitée parmi nous.
+</p>
+<p>
+<i>Usage chirurgical de la racine de gentiane</i>. C&#39;est un
+fort bon dilatant pour aggrandir un ulcere fistuleux,
+&amp; en entretenir l&#39;ouverture. <i>Voyez</i> <sc><ref target="head:Dilatans" type="search">Dilatans</ref> <i>&amp;</i> <ref target="head:Dilatation" type="search">Dilatation</ref></sc>. Pour completer sommairement ces
+articles, nous devons remarquer que la dilatation
+des sinus fistuleux convient principalement à ceux
+qui sont environnés de toutes parts de parties respectables,
+telles que sont les nerfs, les gros vaisseaux,
+les tendons, les ligamens, <i>&amp;c.</i> Le seul moyen
+de conserver une ouverture nécessaire contre les
+progrès de la réunion, est l&#39;usage des dilatans. On
+dilate, &amp; l&#39;on entretient une ouverture dilatée, pour
+deux vûes générales ; 1°. pour attendre une exfoliation 
+ou un corps étranger, dont l&#39;extraction ou la
+sortie se doivent différer ; 2°. pour conserver dans
+certains cas une issue aux écoulemens, &amp; une entrée
+aux secours nécessaires à la cure. Ce sont ordinairement 
+des cannules qui remplissent cette seconde vûe.
+La racine de <i>gentiane</i> s&#39;employe particulierement
+pour écarter &amp; forcer, pour ainsi dire, la plaie ou
+l&#39;ulcere à devenir plus large. Elle n&#39;a pas l&#39;inconvénient 
+de l&#39;éponge préparée, qui acquiert dans un
+sinus où on l&#39;a mise, cinq ou six fois autant de volume 
+qu&#39;elle en avoit en l&#39;y mettant ; &amp; comme elle
+se gonfle plus où elle trouve moins de résistance, on
+a quelquefois beaucoup de peine à la retirer. La racine 
+de <i>gentiane</i> introduite dans une plaie, se gonfle,
+à la vérité; mais elle ne peut pas acquérir un si grand
+volume, capable de mettre trop de disproportion.
+Elle mérite d&#39;ailleurs des préférences sur l&#39;éponge
+préparée, parce qu&#39;elle a une qualité détersive &amp;
+antiputride ; elle détruit les chairs fongueuses &amp; calleuses.
+La poudre de racine de <i>gentiane</i> mise sur les
+fontanelles ou cauteres dont la suppuration se tarit,
+ranime les chairs, &amp; produit de nouveau une exudation 
+purulente ; on peut en former des boules en
+forme de pois, pour mettre dans le creux de ces ulceres 
+artificiels. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,251 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29985" id="53:348:1" vol="7">
+<index type="head" value="Goutte-rose" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine" />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medecine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Goutte-rose</head>
+<p>
+<sc>Goutte-rose</sc>, <i>gutta rosacca, gutta rosea, rubedo
+maculosa</i>, (<i>Medecine.</i>) c&#39;est l&#39;espece de maladie de la
+peau que les Arabes désignent sous le nom d&#39;<i>albedsamen</i> ou d&#39;<i>alguasen</i>, ou selon d&#39;autres, d&#39;<i>albuttizaga:</i>
+les Grecs n&#39;en font pas mention.
+<pb n="7:779" facs="V7/ENC_7-779.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les symptomes caractéristiques de cette maladie
+sont des taches rouges chargées de pustules, de tubercules 
+de couleur de feu, répandus sur le visage
+&amp; particulierement sur le nez &amp; les joues, à l&#39;entour,
+ressemblantes à des <i>gouttes</i> de quelque liqueur rouge.
+Quelquefois la rougeur est si étendue &amp; si vive,
+qu&#39;elle donne au visage une couleur de cuivre de rosette ; 
+ce qui sans doute a fait aussi appeller cette maladie 
+<i>couperose</i>, nom formé de <i>cuprum roseum ;</i> d&#39;où
+l&#39;on dit d&#39;un visage chargé de boutons rouges, bien
+enluminé, qu&#39;il est <i>couperosé</i>.
+</p>
+<p>
+Ces tubercules sont quelquefois si nombreux, si
+gros, &amp; la peau du visage &amp; sur-tout du nez, en est
+si hérissée, si renflée, qu&#39;ils en rendent la surface
+très-inégale &amp; fort tuméfiée ; en sorte que ceux qui
+sont ainsi affectés en deviennent défigurés, méconnoissables ; 
+&amp; souvent même hideux à voir. Sennert
+fait mention d&#39;un homme dont le nez avoit pris un si
+grand volume, par l&#39;effet de cette maladie, qu&#39;il lui
+couvroit presque les yeux &amp; l&#39;empêchoit de voir
+devant lui : cette incommodité devint si considérable,
+qu&#39;il fut obligé de s&#39;y faire faire des incisions,
+pour en enlever une partie.
+</p>
+<p>
+Quelques auteurs, tels que Florentin, <i>serm. vij.
+tr. 6. summ. 2. cap. xv.</i> distinguent trois degrés de
+cette maladie, qui sont 1°. la rougeur simple contre
+nature, sans pustules ni ulceres : 2°. la rougeur avec
+des boutons, des pustules : 3°. la rougeur plus foncée 
+avec de petites tumeurs ulcérées, corrodées, &amp;
+comme chancreuses, parce qu&#39;elles s&#39;étendent &amp; sont
+rébelles aux remedes ; ce qui les a fait quelquefois
+confondre avec le <i>noli me tangere</i>.
+</p>
+<p>
+Cette maladie doit le plus communément son origine 
+aux excès de vin, de liqueurs vineuses, spiritueuses ; 
+ce qui a fait dire à Turner, qu&#39;elle est <i>la
+brillante &amp; éclatante enseigne des ivrognes:</i> ainsi les
+grands buveurs sont le plus sujets à la <i>goutte-rose ;</i>
+mais ils ne sont pas les seuls : car on voit quelquefois 
+des personnes très-sobres qui ont le desagrément
+d&#39;en être attaquées par un vice dans les humeurs ou
+de la peau seulement, analogue à celui des intempérans,
+mais provenant de quelque autre cause, qui
+produit les mêmes effets, qui rend le sang échauffé,
+bilieux, acre, comme il est par l&#39;effet du trop grand
+usage des boissons fermentées : en sorte que l&#39;agitation 
+des humeurs qui en résulte &amp; qui les détermine
+avec plus de force vers l&#39;habitude du corps en général,
+donne lieu à l&#39;engorgement des vaisseaux cutanés 
+du visage ; attendu qu&#39;ils sont plus délicats, d&#39;un
+tissu moins compact que ceux des autres parties de
+la peau, &amp; qu&#39;en conséquence les humeurs en forcent 
+plus aisément le ressort &amp; en sont reportées
+plus difficilement dans le torrent de la circulation:
+d&#39;où s&#39;ensuit que les vaisseaux sanguins dilatés outre
+mesure, laissent pénétrer des globules rouges avec
+une sérosité bilieuse, dans les vaisseaux lymphatiques,
+qui deviennent ainsi le siége d&#39;une sorte de legere inflammation 
+habituelle, par erreur de lieu, qui se résout 
+&amp; se renouvelle continuellement dans la <i>goutte-rose</i> du premier degré; qui forme des tubercules lorsque 
+les glandes sont le siége de l&#39;engorgement, &amp;
+produit ainsi la <i>goutte-rose</i> du second degré; &amp; qui
+dans celle du troisieme degré ne pouvant se résoudre
+parfaitement, &amp; se trouvant jointe à un caractere
+rongeant, dartreux, donne lieu à des exulcérations
+dans les pustules ; ce qui forme le symptome le plus
+fâcheux.
+</p>
+<p>
+La <i>goutte-rose</i> parvenue à ce dernier état est presque 
+incurable, parce qu&#39;il est très-difficile de corriger 
+le vice dominant dans les humeurs, &amp; particulierement 
+celui de la partie affectée. Il n&#39;est pas moins
+difficile de guérir la <i>goutte-rose</i> du second degré, quoique 
+de moins mauvaise qualité: à quoi contribue
+principalement la difficulté de faire changer de régime<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+aux personnes qui ont contracté cette maladie par
+un penchant invétéré à l&#39;ivrognerie. Par ces différentes 
+raisons, ceux qui ont le visage bien bourgeonné,
+meurent ordinairement avec cette indisposition,
+même dans un âge très-avancé, attendu que cette
+maladie n&#39;est point dangereuse par elle même, tant
+qu&#39;elle est bornée à n&#39;être qu&#39;un vice topique.
+</p>
+<p>
+La <i>goutte-rose</i> commençante, qui n&#39;a pas encore
+beaucoup infecté la peau, peut être guérie moyennant 
+les remedes internes &amp; le régime convenable,
+qui doivent être les mêmes que ceux qui ont été
+prescrits dans la curation de la dartre, de l&#39;érésypele
+&amp; de la gale. Il faut seulement observer, par rapport 
+à ceux qui par l&#39;excès des boissons fermentées
+ont contracté le vice du sang &amp; de la peau du visage
+qui constitue la <i>goutte-rose</i>, qu&#39;il ne faut corriger le
+vice à cet égard, qu&#39;avec beaucoup de prudence,
+parce que le passage d&#39;un usage continuel de liqueurs
+échauffantes à un régime rafraîchissant, tempérant,
+pourroit, s&#39;il étoit trop prompt, trop peu ménagé,
+causer de grands desordres dans l&#39;économie animale.
+</p>
+<p>
+Quant aux remedes topiques, on peut consulter
+Sennert, Turner, qui en proposent un grand nombre : on remarque en général qu&#39;ils recommandent
+ceux qui sont adoucissans, legerement résolutifs &amp;
+discussifs dans les deux premiers degrés de la <i>goutte-rose</i>,
+&amp; ceux qui sont détersifs &amp; obtundans, lorsqu&#39;elle est accompagnée d&#39;ulceres acrimonieux : ce
+sont en effet les indications qui se présentent à remplir 
+dans les deux cas dont il s&#39;agit : on employe ces
+différens topiques avec les précautions convenables,
+sous forme de lotion, de liniment, d&#39;onguent, ou de
+pommade.
+</p>
+<p>
+La décoction de son dans le vinaigre &amp; l&#39;eau-rose,
+est un bon remede dans la rougeur simple du visage ;
+on vante beaucoup aussi dans ce cas, l&#39;huile de myrrhe 
+par défaillance, le mucilage de psyllium mêlé
+avec les fleurs de soufre, <i>&amp;c. Voyez</i> <sc><ref target="head:Cosmétique" type="search">Cosmétique</ref></sc>.
+</p>
+<p>
+Si la maladie est rébelle &amp; les tubercules durs ;
+après avoir fait usage des émolliens, résolutifs, on
+passera aux linimens faits avec le cérat de blanc de
+baleine, ou le cérat blanc de Bates.
+</p>
+<p>
+Les tubercules suppurés doivent être ouverts pour
+donner issue à la matiere, &amp; on panse les pustules
+avec l&#39;emplâtre de céruse &amp; de dyachylum blanc,
+à quoi on ajoûte un peu de précipité blanc ou de
+mercure doux, pour les plus rébelles ; au lieu qu&#39;on
+se borne à toucher celles qui paroissent benignes, avec
+un noüet de sel de Saturne, d&#39;alun brûlé, &amp; de sel
+prunelle trempé dans les eaux de frai de grenouille
+&amp; de nénuphar : les noüets de sublimé doux peuvent
+aussi être exprimés sur les pustules.
+</p>
+<p>
+Au surplus, le traitement de l&#39;érésypele avec excoriation,
+&amp; des dartres, convient aussi à tous
+égards dans ce cas-ci. <i>V.</i> <sc><ref target="head:Érésypele" type="search">Érésypele</ref>, <ref target="head:Dartre" type="search">Dartre</ref></sc>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

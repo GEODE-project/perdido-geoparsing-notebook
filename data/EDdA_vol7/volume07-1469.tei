@@ -1,0 +1,776 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28923" id="51:192" vol="7">
+<index type="head" value="GAMME, GAMM&#39;UT ou GAMMA-UT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Rousseau &amp; d&#39;Alembert &amp; Brosses" />
+<index type="shortauth" value="Rousseau &amp; d&#39;Alembert &amp; Brosses" />
+<index type="kafnum" value="118 &amp; 2 &amp; 27" />
+<index type="kafauth" value="Rousseau, Jean-Jacques (1712-1778) &amp; Alembert, Jean Le Rond d&#39; (1717-1783) &amp; Brosses, Charles de (1709-1777)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Musique" />
+<index type="normclass" value="Musique" />
+<index type="englishclass" value="Music" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="s.f." />
+<head>GAMME</head>
+<p>
+GAMME, s. f. GAMM&#39;UT <i>ou</i> GAMMA-UT, est
+<i>en Musique</i> une table ou échelle inventée par Guy
+Aretin, sur laquelle on apprend à nommer &amp; à entonner 
+juste les degrés de l&#39;octave par les six notes de musique 
+<i>ut, ré, mi, fa, sol, la</i>, suivant toutes les différentes 
+dispositions qu&#39;on peut leur donner ; ce qui
+s&#39;appelle <i>solfier</i>.
+</p>
+<p>
+La <i>gamme</i> a aussi été nommée <i>main harmonique</i>,
+parce que Guy employa d&#39;abord la figure d&#39;une
+main, sur les différens doigts de laquelle il rangea
+ses notes, pour montrer le rapport de ses hexacordes 
+avec les tétracordes des Grecs. Cette mair. a été
+en usage pour apprendre à nommer les notes, jusqu&#39;à l&#39;invention du <i>si</i>, qui a aboli chez tous les
+muances, &amp; par conséquent la main harmonique
+qui sert à les expliquer.
+</p>
+<p>
+Guy Aretin ayant, selon l&#39;opinion commune,
+ajoûté au diagramme des Grecs un tétracorde à l&#39;aigu 
+&amp; une corde au grave ; ou plûtôt, selon Meibomius, ayant par ces additions rétabli ce diagramme
+dans son ancienne étendue, il appella cette corde
+grave, <i>hypoproslambanomenos</i>, &amp; la marqua par le r
+des Grecs ; &amp; comme cette lettre se trouve à la tête
+de l&#39;échelle, en commençant par les sons graves,
+solon la méthode des anciens, elle a fait donner à
+cette échelle le nom barbare de <i>gamme</i>.
+</p>
+<p>
+Cette <i>gamme</i> donc, dans toute son étendue, étoit
+composee de vingt cordes ou notes, c&#39;est-à-dire de
+deux octaves &amp; d&#39;une sixte majeure. Ces cordes
+étoient représentées par des lettres &amp; par des syllabes.
+Les lettres designoient invariablement chacune
+une corde déterminee de l&#39;échelle, comme elles font
+encore aujourd&#39;hui ; mais comme il n&#39;y avoit que
+sept lettres, &amp; qu&#39;il falloit recommencer d&#39;octave
+en octave, on distinguoit ces octaves par les figures
+des lettres. La premiere octave se marquoit par des
+lettres majuseules, de cette maniere, r. A. B. <i>&amp;c.</i> la
+seconde par des caracteres ordinaires, g, a, b, <i>&amp;c.</i>
+&amp; la sixte surnuméraire se désignoit par des lettres
+doubles, gg, aa, bb, <i>&amp;c.</i>
+</p>
+<p>
+Pour les syllabes, elles ne représentoient que les
+noms qu&#39;il falloit donner aux notes en les chantant:
+or comme il n&#39;y avoit que six noms pour sept notes,
+<milestone unit="column" n="2" />
+c&#39;étoit une nécessité qu&#39;au-moins un même nom fût
+donné à deux différentes notes, ensorte que ces deux
+notes <i>mi, fa</i>, ou <i>la, fa</i>, tombassent sur les semi-tons ; 
+par conséquent dès qu&#39;il se présentoit un dièse
+ou un bémol qui amenoit un nouveau semi-ton, c&#39;étoit 
+encore des noms à changer ; ce qui faisoit donner,
+non-seulement le même nom à différentes notes,
+mais différens noms à la même note, selon le
+progrès du chant ; &amp; c&#39;est-là ce qu&#39;on appelloit <i>les
+muances</i>.
+</p>
+<p>
+On apprenoit donc ces muances par la <i>gamme</i>. A
+la gauche de chaque degré on voyoit une lettre qui
+indiquoit la corde précise qui appartenoit à ce degré: à la droite, dans les cases, on trouvoit les différens 
+noms que cette même note devoit porter en
+montant ou en descendant par béquarre ou par bémol,
+selon le progrès.
+</p>
+<p>
+Les difficultés de cette méthode ont fait faire en
+divers tems des changemens à la <i>gamme</i>. La <i><ref target="XPL:5220" type="platelink">figure 10</ref>.
+<ref target="XPL:5221" type="platelink">Pl. I</ref>. Musiq.</i> représente cette <i>gamme</i>, telle qu&#39;elle est
+aujourd&#39;hui en usage en Angleterre. C&#39;est à-peu-près la même chose en Allemagne &amp; en Italie, si ce
+n&#39;est que chez les uns on trouve à la derniere place
+la colonne de béquarre qui est ici la premiere, ou
+quelqu&#39;autre legere différence aussi peu importante.
+</p>
+<p>
+Pour se servir de cette échelle, si l&#39;on veut chanter 
+au naturel, on applique <i>ut</i> à G ou à r de la premiere 
+colonne, le long de laquelle on monte jusqu&#39;au <i>la ;</i> après quoi passant à droite dans la colonne
+du bénaturel, on nomme <i>fa:</i> on monte au <i>la</i> de la
+même colonne, puis on retourne dans la précédente
+à <i>mi</i>, &amp; ainsi de suite. Ou bien on peut commencer
+par <i>ut</i> au C de la seconde colonne ; arrivé au <i>la</i>,
+passer à <i>mi</i> dans la premiere colonne, puis repasser
+dans l&#39;autre colonne au <i>fa</i>. Par ce moyen une de ces
+transitions forme toûjours un semi-ton ; savoir <i>la, fa</i>,
+&amp; l&#39;autre toûjours un ton, <i>la, mi</i>. Par bémol on
+peut commencer à l&#39;<i>ut</i> en C ou F, &amp; faire les transitions 
+de la même maniere, <i>&amp;c.</i>
+</p>
+<p>
+En descendant par béquarre, ou quitte l&#39;<i>ut</i> de la
+colonne du milieu, pour passer au <i>mi</i> de celle par
+béquarre, ou au <i>fa</i> de celle par bemol ; puis descendant 
+jusqu&#39;à l&#39;<i>ut</i> de cette nouvelle colonne, on en
+sort par <i>fa</i> de gauche à droite, par <i>mi</i> de droite à
+gauche, <i>&amp;c.</i> Les Anglois n&#39;employent pas toutes ces
+syllabes, mais seulement les quatre premieres, <i>ut,
+ré, mi, fa ;</i> changeant ainsi de colonne de quatre en
+quatre notes, par une méthode semblable à celle
+que je viens d&#39;expliquer, si ce n&#39;est qu&#39;au lieu de <i>la,
+fa</i>, &amp; de <i>la, mi</i>, ils muent par <i>fa, ut</i>, &amp; par <i>mi, ut</i>.
+</p>
+<p>
+Toutes ces <i>gammes</i> sont toûjours de véritables
+tortures pour ceux qui veulent s&#39;en servir pour apprendre 
+à chanter. La <i>gamme</i> françoise, qu&#39;on a aussi
+appellée <i>gamme</i> du <i>si</i>, est incomparablement plus
+aisée ; elle consiste en une simple échelle de sept degrés 
+sur deux colonnes, outre celle des lettres. <i>Voyez
+<ref target="XPL:5222" type="platelink">fig. 2</ref>. <ref target="XPL:5223" type="platelink">Planche I</ref>.</i>
+</p>
+<p>
+La premiere colonne à gauche est pour chanter
+par bémol, c&#39;est-à-dire avec un bémol à la clé, la
+seconde, pour chanter au naturel. Voilà tout le mystere 
+de notre <i>gamme</i>.
+</p>
+<p>
+Aujourd&#39;hui que les musiciens françois chantent
+tout au naturel, ils n&#39;ont que faire de <i>gamme ; C-solut, ut</i> &amp; <i>C</i> ne sont pour eux que la même chose:
+mais dans le système de Guy <i>ut</i> est une chose, &amp; <i>C</i>
+en est une autre fort différente ; &amp; quand il a donné
+à chaque note une syllabe &amp; une lettre, il n&#39;en a pas
+prétendu faire des synonymes. (<i>S</i>)
+</p>
+<p>
+Nous joindrons à cet article quelques observations.
+Les sons, ou, ce qui revient au même, les cordes
+des instrumens chez les Grecs, n&#39;étoient à la rigueur,
+selon M. Burette, qu&#39;au nombre de quinze,
+dont l&#39;assemblage formoit tout le système de l&#39;ancienne 
+musique. Ce grand système se partageoit naturellement<gap type="hyphenpb" />
+<pb n="7:462" facs="V7/ENC_7-462.jpeg" />
+<milestone unit="column" n="1" />
+en quatre petits systèmes ou tétracordes
+composés chacun de quatre sons ou cordes, qui faisoient 
+l&#39;étendue d&#39;une quarte.
+</p>
+<p>
+La quatrieme corde du premier tétracorde étoit
+la premiere du second, &amp; la quatrieme corde du
+troisieme étoit la premiere du quatrieme ; mais le
+second &amp; le troisieme n&#39;avoient point de corde commune.
+Chaque corde étoit désignée par un nom particulier ; 
+ces noms étant très-difficiles à retenir,
+nous y substituerons ceux qui leur répondent dans
+la musique d&#39;aujourd&#39;hui. Les quatre tétracordes
+dont il s&#39;agit étoient les suivans, en montant du
+grave à l&#39;aigu.
+<lg>
+</lg></p>
+<p>
+1<sup>er</sup> tétracorde, ou le plus grave, <i>si, ut, ré, mi</i>.
+Second, <i>mi, fa, sol, la</i>.
+Troisieme, <i>si, ut, ré, mi</i>.
+Quatrieme, <i>mi, fa, sol, la</i>.
+Ce qui fait en tout quatorze sons. Pour avoir le quinzieme 
+son &amp; compléter les deux octaves, on ajoûtoit 
+un son <i>la</i> au-dessous du <i>si</i> du premier tétracorde.
+<i>Voyez</i> <sc><ref target="head:Proslambanomene" type="search">Proslambanomene</ref></sc>.
+</p>
+<p>
+Il y avoit une seconde maniere d&#39;entonner le troisieme 
+tétracorde ; c&#39;étoit de lui substituer celui-ci, <i>la,
+si<gap />, ut, ré</i>, qui avoit son premier son <i>la</i> commun
+avec le tétracorde précédent, &amp; qui donnoit au système 
+un <i>si<gap /></i> de plus, &amp; par conséquent une seizieme
+corde.
+</p>
+<p>
+Les noms de chacune des cordes du système étant
+longs &amp; embarrassans, ne pouvoient servir pour ce
+que nous appelions <i>solfier</i>. Pour y suppléer, les
+Grecs désignoient les quatre cordes de chaque tétracorde,
+en montant du grave à l&#39;aigu, par ces quatre
+monosyllabes, <i>té, ta, té, tô</i>. Voyez <i>les mémoires de
+M.</i> Burette, <i>dans le recueil de l&#39;acad. des Belles-Lettr</i>.
+Par-là on voit aisément la différence du système des
+Grecs &amp; de celui de Guy.
+</p>
+<p>
+On sait que les notes <i>ut, ré, mi</i>, &amp;c. de la <i>gamme
+de Guy</i>, sont prites des trois premiers vers de l&#39;hymne
+de S. Jean ; mais on ne sait pas précisément quelle
+raison a déterminé Guy à ce choix. Il est certain
+que dans cette hymne, telle qu&#39;on la chante aujourd&#39;hui, les syllabes <i>ré, mi, fa</i>, &amp;c. n&#39;ont point, par
+rapport à la premiere syllabe <i>ut</i>, les sons qu&#39;elles
+ont dans la <i>gamme</i>. Ainsi ce n&#39;est point cette raison
+qui a déterminé Guy, à-moins qu&#39;on ne veuille dire
+qu&#39;alors le chant de l&#39;hymne étoit différent de celui
+qu&#39;elle a aujourd&#39;hui, ce qu&#39;on ne peut ni prouver,
+ni nier.
+</p>
+<p>
+Il n&#39;est pas inutile de remarquer que la <i>gamme</i> est
+une des inventions dûes aux siecles d&#39;ignorance ; Guy
+vivoit en 1009. Il publia sur son système une lettre
+dans laquelle il dit : <i>j&#39;espere que ceux qui viendront après
+nous prieront Dieu pour la rémission de nos péchés, puisqu&#39;on apprendra maintenant en un an, ce qu&#39;on pouvoit
+à peine apprendre en dix</i>. On a vû par ce qui précede,
+que celui qui a inventé la <i>gamme</i> françoise <i>ut, ré,
+mi, fa, sol, la, si, ut</i>, appellée <i>gamme du si</i>, étoit
+encore plus en droit de se flater de la reconnoissance
+de la postérité, puisque la <i>gamme</i> de Guy a été par
+ce moyen très-simplifiée. (<i>O</i>)
+</p>
+<p>
+Nous joindrons à ces remarques un écrit que M.
+le président de Brosses, correspondant-honoraire de
+l&#39;académie royale des Belies-Lettres, a bien voulu
+nous communiquer sur la <i>gamme</i> de Guy d&#39;Arezzo.
+Il y examine par quelle suite d&#39;idées ce musicien est
+parvenu à la former, &amp; ses successeurs à la perfectionner.
+</p>
+<p>
+<blockquote> 
+« Les Grecs, dit-il, marquoient les caracteres
+de leur Musique par une grande quantité de lettres 
+&amp; de figures différentes, que les Latins réduisirent 
+depuis aux quinze premieres lettres de l&#39;alphabet,
+dont ils formerent une tablature. Mais
+quoique le <i>gamma</i> fût une de ces lettres, il est douteux 
+que les Latins se soient jamais servi du mot
+<milestone unit="column" n="2" />
+<i>gamma</i>, comme le dit M. Saverien, pour nommer
+leur tablature : il faut s&#39;en tenir à ce qu&#39;il ajoûte dans
+la suite, sur le tems où ce mot fut en usage. Guy
+d&#39;Arezzo forma, vers le commencement de l&#39;onzieme 
+siecle, un nouveau système de Musique:
+alors on se servoit de l&#39;ancien système des Grecs,
+autrefois composé de deux tétracordes conjoints,
+représentés par des lettres, &amp; égaux à ceux-ci, <i>si,
+ut, ré, mi ; mi, fa, fol, la</i>, dans lesquels on peut
+remarquer que tous deux commencent par une
+tierce mineure, &amp; qui plus est par un intervalle
+de sémi-ton : ou plûtôt tout deux sont de vrais
+tricordes du mode majeur, comprenant chacun
+une tierce majeure, au-dessous de laquelle les
+Grecs avoient savamment ajoûté la note sensible
+du ton, qui représente à son octave la septieme du
+même ton, c&#39;est à-dire la principale dissonnance du
+ton. Il y a grande apparence que Guy d&#39;Arezzo, lorsqu&#39;il commença de concevoir son nouveau système,
+ayant égard à ce que les deux tétracordes des
+Grecs commençoient par deux tierces mineures,
+composa le sien de deux tricordes disjoints faisant
+chacun une tierce mineure ; &amp; qu&#39;il les exprima de
+la maniere suivante, par les six premieres lettres
+de l&#39;alphabet latin, <i>a, b, c ; d, e, f</i>, équivalentes à
+<i>la, si, ut ; ré, mi, fa</i>. Dans la suite, il conçut l&#39;echelle 
+diatonique de six sons, commençant par une
+tierce majeure, telle que nous l&#39;avons aujourd&#39;hui,
+&amp; mit pour les trois premieres notes de son échelle, <i>c, d, e</i>, qui seules laissant entre chacune l&#39;intervalle 
+d&#39;un ton entier, lui donnoient la tierce
+majeure.
+</blockquote></p>
+<p>
+Je ne doute pas que ce ne soit le sens du premier
+vers de l&#39;hymne de saint Jean.
+<lg>
+</lg></p>
+<p>
+<i>Ut queant laxis resonare fibris</i>,
+qui a déterminé l&#39;auteur à tirer de cette strophe
+le nom de ces six cordes qu&#39;il vouloit faire sonner
+à vuide, <i>resonare laxis fibris</i>. C&#39;est donc ici la cause
+occasionnelle de l&#39;étymologie déjà connue des six
+premiers sons de la <i>gamme</i>.
+</p>
+<p>
+Pour imiter &amp; perfectionner les deux tétracordes 
+grecs, on ajoûta à l&#39;échelle des six tons précédens,
+une septieme note, que l&#39;on nomma <i>si</i>, &amp; l&#39;octave 
+ou répetition du premier ton, nommé de même,
+<i>ut</i>. De cette sorte, l&#39;échelle diatonique se trouva 
+contenir une octave complette, dirigée selon la
+plus grande conformité avec la voix humaine, qui
+ne peut facilement faire trois tons entiers de suite,
+tels que seroient <i>ut, ré, mi, fa # ;</i> mais qui après
+deux tons entiers, aime à se reposer par l&#39;intonation 
+succédante d&#39;un sémi-ton ; ainsi <i>ut, ré, mi, fa,
+&amp;c.</i> Cette échelle est en même tems composée de
+deux tétracordes disjoints &amp; à-peu-près pareils,
+<i>ut, ré, mi, fa ; sol, la, si, ut</i>. En suivant toûjours
+la méthode des Grecs usitée de son tems (car les
+inventeurs mêmes travaillent d&#39;exemple), Guy
+d&#39;Arezzo joignit aux syllabes qu&#39;il prenoit pour
+noms des sons, les lettres <i>A, B, C, D, E, F</i>, qui
+les nommoient ci-devant : mais <i>A</i> représentoit <i>la</i>,
+premiere note de ses deux tricordes, &amp; non pas <i>ut</i>,
+premiere note de son échelle d&#39;octave : tellement
+que pour nommer les tons, en joignant la lettre à
+la syllabe, &amp; y ajoûtant entre deux le nom de la
+dominante du ton qui en marque toute la modulation 
+&amp; les subséquences, on a dit, en suivant l&#39;ordre 
+des tricordes, <i>A mi la, B fa si, C sol ut, D la
+ré, E si mi, F ut fa</i>. De-là viennent aussi ces anciennes 
+expressions familieres aux Musiciens, <i>le
+premier en A mi la ; le quint en E si mi</i>. Il manquoit
+une lettre au septieme ton ; l&#39;inventeur, suivant
+son plan, prit la septieme de l&#39;alphabet latin <i>G</i>,
+qu&#39;il écrivit en grec <foreign lang="greek">γ</foreign>, <i>gamma</i>, quoique le <foreign lang="greek">γ</foreign> se
+trouve la troisieme de l&#39;alphabet grec : de cette
+<pb n="7:463" facs="V7/ENC_7-463.jpeg" />
+<milestone unit="column" n="1" />
+maniere, le septieme ton fut nommé <i>G ré sol ;</i> &amp; le
+caractere grec plus singulier dans la tablature que
+les caracteres vulgaires, donna le nom de <i>gamma</i>
+à toute l&#39;échelle diatonique. Pour imiter toûjours
+l&#39;ancienne méthode greque, dont le tétracorde
+commençoit par un sémi-ton ou note sensible, l&#39;inventeur 
+baissa d&#39;un demi-ton l&#39;intervalle <i>A, B</i> de
+son premier tricorde <i>A, B, C ;</i> ensorte qu&#39;au lieu
+d&#39;un ton entre <i>A</i> &amp; <i>B</i>, &amp; d&#39;un demi-ton entre <i>B</i> &amp;
+<i>C</i>, il se trouva un demi-ton entre <i>A</i> &amp; <i>B</i>, &amp; un
+ton complet entre <i>B</i> &amp; <i>C:</i> pour avertir de ce changement,
+il joignit un signe particulier au <i>B ;</i> &amp;
+comme le son du <i>B</i> devenoit par-là plus doux &amp;
+plus mou, on nomma ce signe <i>B mol:</i> or le <i>B</i> étant
+le <i>si</i>, de-là vient que le premier <i>bémol</i> en Musique
+se pose sur le <i>si</i>. Usant du même artifice sur son second 
+tricorde, quand il voulut le faire commencer 
+comme le grec, il baissa d&#39;un demi-ton l&#39;intervalle 
+du <i>ré</i> au <i>mi:</i> de-là vient que le second <i>bémol</i>
+en Musique se pose sur le <i>mi:</i> s&#39;il voulut remettre
+son premier tricorde <i>A, B, C</i>, dans le premier
+état naturel où il l&#39;avoit composé, il joignit au <i>B</i>
+un signe quarré angulaire à-peu-près de cette figure 
+♮, pour avertir que l&#39;intervalle d&#39;<i>A</i> à <i>B</i> étoit
+d&#39;un ton dur &amp; entier ; &amp; ce signe fut nommé <i>B
+quarre</i>. Il s&#39;étoit occupé sur ses tricordes mineurs
+de l&#39;abaissement des sons qui convient au mode
+mineur : revenant à son échelle d&#39;octave modulée
+selon le mode majeur, il s&#39;occupa de l&#39;élévation
+des sons convenable à ce mode ; il éleva d&#39;un demi-ton de plus le premier intervalle de sémi-ton qui
+se trouve dans l&#39;ordre de son échelle, c&#39;est-à-dire
+celui du <i>mi</i> au <i>fa ;</i> &amp; en fit autant sur le second intervalle 
+semblable, c&#39;est-à-dire sur celui du <i>si</i> à l&#39;<i>ut:</i>
+de-là vient que dans la Musique le premier dièse se
+pose sur le <i>fa</i>, &amp; le second sur l&#39;<i>ut</i>. Cette expérience 
+dut lui paroitre très-heureuse, &amp; d&#39;autant plus
+conforme à la suite des sons dans la nature, que le
+<i>fa ⨳</i> annonçoit la modulation du <i>sol</i>, dont il est
+la note sensible ; &amp; qu&#39;en effet, la modulation de
+<i>sol</i> est engendrée dans les corps sonores par la modulation 
+d&#39;<i>ut</i>, dont <i>sol</i> est la note dominante. L&#39;inventeur, pour avertir qu&#39;il vouloit mettre l&#39;intervalle 
+d&#39;un ton entier entre <i>mi</i> &amp; <i>fa</i>, joignit au <i>fa</i>
+un signe quarré ⨳, de figure à-peu-près semblable
+au <i>béquarre</i>, parce que l&#39;effet des deux signes étoit
+le même : on appella ce signe <i>dièse</i>, du mot grec
+<foreign lang="greek">δίησις</foreign>, <i>division</i>, parce qu&#39;il divisoit en deux l&#39;intervalle 
+du ton entre <i>fa</i> &amp; <i>sol ;</i> &amp; parce que dans les
+instrumens grecs, entre deux cordes formant entre 
+elles un intervalle d&#39;un ton, ou en mettoit un
+autre qui les séparoit, &amp; formoit le sémi-ton intermédiaire.
+L&#39;échelle diatonique ainsi formée avec
+adjonction de deux dièses par <i>ut, ré, mi, fa ⨳, sol,
+la, si, ut #</i>, est suivie progressivement par l&#39;échelle 
+suivante, <i>ré, mi, fa ⨳, sol, la, si, ut ⨳, ré</i>, entierement 
+semblable dans l&#39;ordre de ses intervalles
+à l&#39;échelle naturelle de l&#39;octave <i>ut</i>, sans aucun dièse.
+Or en continuant de procéder selon le mode majeur,
+en élevant le premier intervalle de sémi-ton qui se
+rencontre dans la nouvelle octave <i>ré</i> entre <i>fa ⨳</i> &amp;
+<i>sol</i>, pour la rendre pareille en intervalle à l&#39;octave
+<i>ut</i> avec deux dièses, il en résulte <i>ré, mi, fa ⨳, sol ⨳,
+la, si, ut ⨳, ré ⨳:</i> de-là vient que dans la Musique
+le troisieme dièse se pose sur le <i>sol</i>, &amp; le quatrieme
+sur le <i>ré.</i>
+</p>
+<p>
+Guy d&#39;Arezzo s&#39;appercevant que les sept lettres
+ou les sept syllabes dont il se servoit pour tracer
+les sons musicaux au-dessus des paroles, n&#39;exprimoient 
+qu&#39;une octave, &amp; ne distinguoient pas si le
+son étoit d&#39;une octave plus basse ou plus aiguë que
+la moyenne, s&#39;avisa d&#39;un troisieme expédient plus
+commode, à ce qu&#39;il lui parut, que les lettres ou
+les syllabes ; ce fut de tracer sur le papier de longues<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+raies paralleles, probablement pour imiter la
+figure des cordes tendues de la lyre, qu&#39;il fut forcé 
+de disposer horisontalement, non verticalement ; 
+sans quoi, il n&#39;auroit pû y joindre avec facilité 
+l&#39;écriture des paroles chantées, qui parmi
+nous est horisontale &amp; non verticale. Il traça donc
+plusieurs lignes les unes sur les autres, représentant
+les degrés &amp; les intervalles des sons plus ou moins
+aigus ; il figura sur les lignes &amp; les entre-lignes de
+petites notes noires, chaque ligne &amp; entre-ligne
+immédiats représentant l&#39;intervalle d&#39;un demi ton.
+D&#39;autres musiciens ont depuis distingue la vîtesse
+ou la lenteur du chant, &amp; fixé la duree intrinseque
+de chaque note, en traçant les notes blanches,
+noires, à queue, crochues, doublement crochues,
+<i>&amp;c.</i> d&#39;autres ont ensuite inventé divers autres signes,
+pour représenter les tremblemens &amp; les renflemens 
+du son, le tems, la mesure à deux, trois,
+&amp; quatre gestes, les silences, <i>&amp;c.</i> ces derniers s&#39;appellent 
+<i>pauses</i> &amp; <i>soupirs</i>, parce qu&#39;ils donnent au
+chanteur le tems de se reposer, de respirer, &amp; de
+reprendre haleine. Quant aux clés placées au commencement 
+de chaque ligne, soit qu&#39;on les y voye
+seules, soit qu&#39;elles soient accompagnées de dièses
+&amp; de bémols, elles ouvrent l&#39;intelligence de la modulation 
+traitée dans l&#39;air : elles montrent tout-d&#39;un-coup quelle est l&#39;octave employée dans cet air ; si
+c&#39;est la basse, la moyenne, ou l&#39;aiguë; &amp; par-là
+elles font voir à portée de quel genre de voix l&#39;air
+est composé. Nous répétons la clé au commencement 
+de chaque ligne : mais les Italiens se contentent 
+de la figurer une fois pour toutes au commencement 
+de la premiere ligne. Il y a sept clés, c&#39;est-à 
+-dire autant que de sons dans l&#39;échelle diatonique : dans la regle, les sept clés devroient porter
+le nom des sept sons, &amp; chacune se trouver posée
+au commencement de la ligne sur la place de la tonique 
+de l&#39;air qu&#39;elle indique. Mais comme les clés
+ont été introduites moins encore pour montrer le
+ton final &amp; principal de l&#39;air, que pour indiquer si
+l&#39;air est grave, moyen, ou aigu ; &amp; comme l&#39;inventeur 
+ne considéroit alors que son échelle naturelle 
+de l&#39;octave <i>ut</i>, il n&#39;a donné que trois noms
+aux clés, sçavoir, <i>fa, ut, sol ;</i> parce que dans cette
+échelle de son octave <i>ut</i>, la note tonique, c&#39;est à-dire le son principal, final, &amp; moyen, est <i>ut</i>, ayant
+pour dominante aiguë <i>sol</i>, &amp; pour sous dominante
+grave <i>fa</i>. Sur ce principe, il s&#39;est déterminé à indiquer 
+le chant grave par la cle de <i>fa ;</i> le chant
+moyen, par la clé d&#39;<i>ut ;</i> le chant aigu, par la clé de
+<i>sol</i>. Cette observation étoit très-heureuse de la part
+de l&#39;inventeur, soit qu&#39;il y ait été conduit par force
+de génie, ou par hasard ; car elle indiquoit en même 
+tems tout le plan de l&#39;harmonie, tant consonnante 
+que dissonnante. Elle s&#39;est trouvée d&#39;accord
+avec le fameux principe de la basse fondamentale
+par quintes, découvert depuis par le célebre Rameau, &amp; qui sert de base à sa profonde théorie. Un
+chant, dit ce savant homme, composé du ton <i>ut</i> &amp;
+de ses deux quintes <i>fa</i> &amp; <i>sol</i>, l&#39;une au-dessous, l&#39;autre 
+au-dessus, donne le chant ou la suite des quintes 
+<i>fa, ut, sol</i>, que j&#39;appelle <i>basse fondamentale</i> d&#39;<i>ut</i>
+par quintes. Les trois sons qui forment cette basse
+&amp; les harmoniques de chacun de ces trois sons,
+composent tout le mode majeur d&#39;<i>ut</i>, &amp; en même
+tems toute la <i>gamme</i> diatonique inventée par Guy
+d&#39;Arezzo, comme nous le verrons encore mieux
+ci-après.
+</p>
+<p>
+Telle est la suite des procédés &amp; des idées qu&#39;a
+eu dans la tête l&#39;inventeur de notre <i>gamme</i>, en réformant 
+la méthode greque. Ces procédés sont si connexes,
+si bien liés, si dépendans les uns des autres,
+qu&#39;on ne peut douter qu&#39;il n&#39;ait eu de telles pensées
+dans l&#39;esprit, &amp; à-peu-près dans le même ordre que
+<pb n="7:464" facs="V7/ENC_7-464.jpeg" />
+<milestone unit="column" n="1" />
+je viens de les décrire. C&#39;est ainsi qu&#39;un soigneux
+examen des noms imposés aux choses, en nous apprenant 
+la cause de leur imposition, nous fait remonter 
+aux choses mêmes ; nous donne lieu de pénétrer 
+leurs causes &amp; leurs effets ; nous remet sur
+les voies des premiers principes des Arts &amp; de leurs
+progrès successifs ; nous fait suivre les opérations
+de l&#39;inventeur à la trace des termes appellatifs,
+qu&#39;il a mis en usage.
+</p>
+<p>
+Au reste, notre méthode d&#39;usage actuel inventée 
+par Guy d&#39;Arezzo, de tracer la Musique sur le
+papier par des notes noires disposées sur les lignes
+&amp; les entre-lignes de cinq raies, quoique très-ingénieuse, n&#39;est pas fort bonne : elle est compliquée
+de figures embarrassantes &amp; nombreuses. On sent
+assez que, soit que l&#39;on se servît de raies, de notes,
+de lettres, de chiffres, ou des sept couleurs, il seroit 
+facile d&#39;inventer dix méthodes différentes d&#39;écrire 
+les chants, plus simples, plus courtes, &amp; plus
+commodes, sur-tout pour la musique vocale : car
+l&#39;instrumentale plus chargée de chants, présenteroit
+peut-être un peu plus de difficulté. L&#39;ancienne tablature 
+greque par lettres étoit, p. ex. meilleure que la
+nôtre. Mais à quoi serviroit d&#39;introduire une nouvelle 
+méthode plus parfaite, aujourd&#39;hui que nous
+avons tant d&#39;ouvrages célebres imprimés selon l&#39;ancienne?
+On ne supprimera pas tout ce que nous
+avons de Musique gravée, imprimée, manuscrite,
+pour le publier de nouveau sur une nouvelle tablature.
+Ainsi la nouvelle introduction auroit le plus
+grand inconvénient qu&#39;elle puisse avoir ; c&#39;est celui
+de ne pas abolir l&#39;ancienne, &amp; de ne procurer aux
+hommes qu&#39;un travail de plus. Il faudroit que ceux
+qui savent lire notre Musique apprîssent à lire une
+seconde fois ; &amp; que ceux à qui l&#39;on enseigneroit à
+lire selon la nouvelle réforme, apprîssent aussi l&#39;ancienne 
+maniere, pour pouvoir joüir des ouvrages
+écrits avec nos figures actuelles. Ceci soit dit en
+passant, pour tous les projets de cette espece tendant 
+à introduire une réforme sur des choses où il
+n&#39;est pas possible de supprimer les grands établissemens déjà faits sur l&#39;ancien pié ».
+</p>
+<p>
+Nous avons donné au <i>mot</i> <sc>Échelle</sc>, la comparaison 
+de la <i>gamme</i> ou échelle diatonique des Grecs avec
+notre <i>gamme</i> moderne. Nous avons fait voir comment
+ces <i>gammes</i> se formoient par le moyen des sons <i>fa,
+ut, sol</i>, &amp; de leurs harmoniques : ces trois sons sont
+le fondement des deux <i>gammes</i>, par la raison suivante.
+Le son <i>ut</i> fait résonner sa douzieme au-dessus <i>sol</i>, &amp;
+fait frémir sa douzieme au-dessous <i>fa. Voyez</i> <sc><ref target="head:Fondamental" type="search">Fondamental</ref></sc>. Or au lieu des douziemes, on peut prendre
+ici les quintes, qui en sont les octaves ou répliques.
+<i>Voyez</i> <sc><ref target="head:Octave" type="search">Octave</ref> <i>&amp;</i> <ref target="head:Réplique" type="search">Réplique</ref></sc>. Ainsi on peut aller
+indifféremment du son <i>ut</i> à ses deux quintes <i>sol</i> &amp; <i>fa</i>,
+quoiqu&#39;avec un peu plus de prédilection pour <i>sol</i>, &amp;
+révenir de même de <i>fa</i> &amp; de <i>sol</i> à <i>ut</i>. Ces trois sons
+forment la basse fondamentale la plus simple du mode 
+d&#39;<i>ut</i> (<i>Voyez</i> <sc><ref target="head:Mode" type="search">Mode</ref></sc>); &amp; ces trois sons avec leurs
+harmoniques, c&#39;est-à-dire leurs tierces majeures &amp;
+leurs quintes (<i>Voyez</i> <sc><ref target="head:Fondamental" type="search">Fondamental</ref></sc>), composent
+toute la <i>gamme</i> d&#39;<i>ut</i>.
+</p>
+<p>
+Le son fondamental <i>ut</i> renfermant en lui-même sa
+tierce majeure &amp; sa quinte (<i>Voyez</i> <sc><ref target="head:Fondamental" type="search">Fondamental</ref></sc>),
+il s&#39;ensuit que le chant le plus naturel en partant d&#39;<i>ut</i>,
+est <i>ut, mi, sol, ut:</i> mais le chant diatonique le plus
+naturel, c&#39;est-à-dire celui qui procede par les moindres 
+degrés naturels à la voix, est celui de la <i>gamme</i>,
+soit des anciens, soit des modernes.
+</p>
+<p>
+Nous avons vû au <i>mot</i> <sc>Échelle</sc>, que pour former
+la basse fondamentale de notre <i>gamme</i> moderne, il
+faut ou répéter deux fois le son <i>sol</i> dans cette <i>gamme</i>  ;
+ou, ce qui revient au même, faire porter à ce seul son
+deux notes de basse fondamentale, savoir <i>ut</i> &amp; <i>sol ;</i>
+ou en faisant porter à chaque note de la <i>gamme</i> une
+<milestone unit="column" n="2" />
+seule note de basse, introduire dans la basse des accords 
+de septieme, savoir, <i>sol, si, ré, fa</i>, &amp; <i>ré, fa,
+la, ut ;</i> &amp; dans tous les cas, introduire dans la basse
+la note <i>ré</i>, &amp; par conséquent, le mode de <i>sol. Voyez</i>
+<sc><ref target="head:Mode" type="search">Mode</ref></sc>. C&#39;est cette introduction du mode de <i>sol</i> dans
+la basse fondamentale, qui fait que les trois tons <i>fa,
+sol, la, si</i>, peuvent se succéder immédiatement dans
+notre <i>gamme ;</i> ce qui n&#39;a pas lieu dans celle des Grecs,
+parce que sa basse fondamentale ne porte &amp; ne peut
+porter que les sons <i>fa, ut, sol</i>. De plus on ne peut
+entonner facilement ces trois tons qu&#39;à la saveur
+d&#39;un repos exprimé ou sous-entendu après le son <i>fa ;</i>
+ensorte que ces trois tons <i>fa, fol, la, si</i>, sont censés
+appartenir à deux tétracordes différens. La difficulté
+d&#39;entonner naturellement trois tons de suite, vient
+donc de ce qu&#39;on ne le peut faire sans changer de
+mode.
+</p>
+<p>
+Pour former la <i>gamme</i> du mode mineur, il faut dans
+la <i>gamme</i> des Grecs, substituer des tierces mineures
+au lieu des tierces majeures que portent les sons de
+la basse fondamentale. Prenons pour exemple cette
+basse fondamentale <i>ré, la, mi</i>, du mode mineur de
+<i>la ;</i> il faudra faire porter le <i>fa</i> &amp; l&#39;<i>ut</i> au <i>ré</i> &amp; au <i>la</i>,
+au lieu du <i>fa</i> dièse &amp; de l&#39;<i>ut</i> dièse, qu&#39;ils porteroient
+si le mode étoit majeur. A l&#39;égard de la dominante
+<i>mi</i> (<i>Voyez</i> <sc><ref target="head:Dominante" type="search">Dominante</ref></sc>), elle portera toûjours la
+tierce majeure <i>sol</i> dièse, lorsque ce <i>sol</i> montera au
+<i>la:</i> on en dira la raison, d&#39;après M. Rameau, au <i>mot</i>
+<sc><ref target="head:Note sensible" type="search">Note sensible</ref></sc> ; &amp; on peut, en attendant, la voir
+dans nos <i>élémens de Musique, art. 77</i>. Ainsi la <i>gamme</i>
+des Grecs, dans le mode mineur de <i>la</i>, est
+<i>sol #, la, si, ut, ré, mi, fa</i>.
+Mais dans le même mode mineur de <i>la</i>, la <i>gamme</i>
+des modernes sera
+<i>la, si, ut, ré, mi, fa #, sol #, la</i>,
+dans laquelle le <i>mi</i> porte ou est censé porter deux
+notes de basse fondamentale, <i>la, mi</i>, &amp; dans laquelle 
+le <i>fa</i> est dièse, parce qu&#39;il est quinte du <i>si</i> de
+la basse ; la basse fondamentale de cette <i>gamme</i> etant
+<i>la, mi, la, ré, la, mi, si, mi, la</i>.
+</p>
+<p>
+Ainsi la <i>gamme</i> des modernes dans le mode mineur,
+differe encore plus de celle des Grecs, que dans le
+mode majeur, puisqu&#39;il se trouve dans celle-là un
+<i>fa #</i>, qui n&#39;est point &amp; ne doit point être dans celle-ci.
+</p>
+<p>
+La <i>gamme</i> du mode majeur en descendant, est la
+même qu&#39;en montant ; &amp; nous avons vû, au <i>mot</i>
+<sc>Échelle</sc>, quelle est alors la basse fondamentale de
+cette <i>gamme:</i> on peut encore lui donner celle-ci.
+<i>ut, sol, ré, sol, ut, fa, ut, sol, ut</i>,
+qui est la même (renversée) que la basse fondamentale 
+de la <i>gamme</i> en montant, &amp; dans laquelle le son
+<i>sol</i> de la <i>gamme</i> porte à-la-fois les deux sons <i>sol, ut</i>,
+de la basse. Au moyen de cette basse, qui est la même,
+soit que la <i>gamme</i> monte, soit qu&#39;elle descende,
+on peut expliquer un fait qui seroit peut-être difficile
+à expliquer autrement, sçavoir pourquoi la <i>gamme</i>
+s&#39;entonne aussi naturellement en descendant qu&#39;en
+montant.
+</p>
+<p>
+La difficulté est plus grande pour la <i>gamme</i> du mode 
+mineur ; car on sait que cette <i>gamme</i> n&#39;est pas la
+même en descendant qu&#39;en montant : la <i>gamme</i> de <i>la</i>
+mineur, par exemple, est en montant, comme on
+l&#39;a déjà vû,
+<i>la, si, ut, ré, mi, fa #, sol #, la ;</i>
+&amp; cette <i>gamme</i> en descendant, est,
+<i>la, sol, fa, mi, ré, ut, si, la</i>,
+qui n&#39;a plus ni <i>sol</i> ni <i>fa</i> dièse. La basse fondamentale
+de cette <i>gamme</i> est fort difficile à trouver : car le <i>sol</i>
+ne peut porter que <i>mi</i>, &amp; le <i>fa</i> que <i>ré:</i> or deux sons
+<i>mi, ré</i>, immédiatement consécutifs, sont exclus par
+les regles de la basse fondamentale. <i>Voy.</i> 
+<sc><ref target="head:Basse fondamentale" type="search">Basse fondamentale</ref>, <ref target="head:Harmonie," type="search">Harmonie,</ref> <i>&amp;</i> <ref target="head:Mode" type="search">Mode</ref></sc>
+ M. Rameau
+détermine cette basse, en retanchant de l&#39;échelle
+le son <i>sol</i>, en cette sorte:
+<pb n="7:465" facs="V7/ENC_7-465.jpeg" />
+<milestone unit="column" n="1" />
+<i>la, fa, mi, ré, ut, si, la</i>,
+dont la basse fondamentale est
+<i>la, ré, la, ré, la, mi, la</i>.
+</p>
+<p>
+C&#39;est ce qu&#39;on peut dire de plus plausible là-dessus ;
+&amp; c&#39;est aussi ce que nous avons dit, d&#39;après M. Rameau, dans nos <i>élémens de Musique:</i> mais on doit
+avoüer que cette solution ne satisfait pas pleinement,
+puisqu&#39;il faut, ou ne point faire porter d&#39;harmonie à
+<i>sol</i>, ou anéantir l&#39;ordre diatonique de la <i>gamme</i>  ;
+deux partis dont chacun a ses inconvéniens. Cet
+aveu donnera lieu à une autre observation que nous
+avons quelque droit de faire, ayant eu l&#39;honneur
+d&#39;être du nombre des juges de M. Rameau dans l&#39;académie 
+des Sciences, &amp; ensuite ses interpretes auprès 
+du public ; c&#39;est que cette compagnie n&#39;a jamais
+prétendu approuver le systeme de Musique de M.
+Rameau, comme renfermant une science <i>démontrée</i> <sup><ref type="note" target="n11" n="*" /></sup>, mais seulement comme un systeme beaucoup 
+mieux fonde, plus clair, plus simple, mieux lié,
+&amp; plus étendu qu&#39;aucun de ceux qui avoient précédé; 
+mérite d&#39;autant plus grand, qu&#39;il est le seul auquel
+on puisse prétendre dans cette matiere, où il ne paroît 
+pas possible de s&#39;élever jusqu&#39;à la démonstration.
+Tout le systeme de M. Rameau est appuyé sur la résonnance 
+du corps sonore : mais les conséquences
+qu&#39;on tire de cette résonnance n&#39;ont point &amp; ne sauroient 
+avoir l&#39;évidence des théorèmes d&#39;Euclide ; elles 
+n&#39;ont pas même toutes un egal degré de force &amp;
+de liaison avec l&#39;expérience fondamentale. <i>Voyez</i>
+<sc><ref target="head:Harmonie" type="search">Harmonie</ref>, <ref target="head:Note sensible" type="search">Note sensible</ref>, <ref target="head:Mode mineur" type="search">Mode mineur</ref>, <ref target="head:Septieme" type="search">Septieme</ref></sc>, <i>&amp;c.</i> Aussi M. Rameau dit-il très-bien au
+sujet de la dissonnance, qui est une branche étendue
+de la Musique:
+<blockquote> 
+« c&#39;est justement parce que la dissonnance 
+n&#39;est pas naturelle à l&#39;harmonie, quoique
+l&#39;oreille l&#39;adopte, que pour satisfaire la raison sur
+ce point, <i>autant qu&#39;il est possible</i>, on ne sauroit
+trop multiplier les rapports, les <i>analogies</i>, les <i>convenances</i>, même les métamorphoses, s&#39;il y en a ».
+</blockquote>
+D&#39;où il s&#39;ensuit, qu&#39;il ne range sa théorie musicale
+que dans la classe des probabilités. C&#39;est aussi uniquement 
+comme un systeme très-supérieur aux autres,
+que nous avons expliqué cette théorie dans un ouvrage 
+particulier ; très-disposés en même tems à recevoir 
+tout ce qui pourra nous venir de bon d&#39;ailleurs.
+<i>Voyez</i> <sc><ref target="head:Fondamental" type="search">Fondamental</ref></sc>.
+</p>
+<p>
+Sur les différences de la <i>gamme</i> des Grecs dans les
+genres diatonique, chromatique, &amp; enharmonique,
+<i>voyez</i> <sc><ref target="head:Genre" type="search">Genre</ref></sc>. (<i>O</i>)
+</p>
+<div2 type="notes">
+<note id="n11">
+* <i>N. B.</i> La <i>démonstration du principe de l&#39;harmonie</i>, par M. Rameau, ne portoit point ce titre quand elle a été présentée à
+l&#39;académie, &amp; n&#39;a point aussi été annoncée lous ce titre dans
+le rapport qui en a été fait.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30763" id="55:302" vol="7">
+<index type="head" value="GUTTETE, (Poudre de) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharmacie &amp; Mat. méd." />
+<index type="normclass" value="Matière médicale | Pharmacie" />
+<index type="englishclass" value="Materia medica | Pharmaceuticals" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="NA" />
+<head>GUTTETE</head>
+<p>
+GUTTETE, (<sc>Poudre de</sc>) selon la pharmacopée 
+de Paris, (<i>Pharmacie &amp; Mat. méd.</i>) Prenez du
+bois de gui de chéne, de racines de Fraxinelle, de
+racines de pivoine male &amp; de sa semence, de chacun 
+demi-once ; de semences d&#39;aroche deux gros ;
+de crane humain trois gros ; de corail rouge préparé
+deux gros ; de cornes de pie d&#39;elan demi-once ; de
+feuilles d&#39;or un scrupule : faites du tout une poudre
+très-fine.
+</p>
+<p>
+Cette poudre passe pour un grand antispasmodique,
+&amp; pour un specisique éprouvé contre l&#39;epilepsie.
+On la donne à la dose d&#39;un scrupule, d&#39;un demi-gros 
+ou d&#39;un gros dans une liqueur appropriée, &amp;
+on la continue pendant long-tems. On pourroit sans
+inconvenient la prendre à une dose beaucoup plus
+considerable. <i>Voyez</i> <sc><ref target="head:Epilepsie" type="search">Epilepsie</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

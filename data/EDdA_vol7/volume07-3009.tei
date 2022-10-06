@@ -1,0 +1,152 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30463" id="55:80" vol="7">
+<index type="head" value="GRISONS, (les) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. " />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GRISONS</head>
+<p>
+GRISONS, (<sc>les</sc>) <i>Géog.</i> peuple des Alpes que les
+anciens historiens nomment <i>Rhoeti ;</i> ils doivent leur
+origine à des colonies que les Toscans envoyerent
+au-delà de l&#39;Appennin. Le pays qu&#39;occupent les <i>Grisons</i> modernes a pour bornes au nord les comtés de
+Tirol &amp; de Sargans, à l&#39;occident les cantons de Glaris &amp; d&#39;Uri, au midi le comté de Chiavenne &amp; la
+Valteline, &amp; à l&#39;orient le Tirol encore &amp; le comté
+de Bormio.
+</p>
+<p>
+Il est partagé en trois parties qu&#39;on appelle <i>ligues</i>,
+en allemand <i>bunt</i>, savoir la ligue Grise, la ligue de
+la Caddée, &amp; la ligue des dix communautés ; les
+deux premieres sont au midi, &amp; la troisieme au nord:
+ce sont comme trois cantons, dont chacun a son gouvernement 
+à part, &amp; qui réunis forment un corps
+de république dans lequel réside l&#39;autorité souveraine.
+La longueur du pays appartenant à ce corps de
+république, est d&#39;environ trente-cinq lieues du nord
+au sud : on a donné aux habitans le nom de <i>Grisons</i>,
+parce que les premiers qui dans le quinzieme siecle
+se liguerent pour secoüer le joug de ceux qui les opprimoient,
+portoient des habits grossiers d&#39;une étoffe
+grise qu&#39;ils fabriquoient chez eux.
+</p>
+<p>
+Ils reçurent le Calvinisme en 1524, &amp; contracterent 
+des alliances avec les Suisses en différens tems ;
+mais en 1602, les trois ligues ensemble s&#39;allierent
+avec la ville de Berne, &amp; en 1707 elles renouvellerent 
+une alliance solennelle avec Zurich &amp; quelques-uns 
+des cantons voisins. Quoique les trois ligues
+soient mêlées de protestans &amp; de catholiques, le
+nombre des premiers l&#39;emporte de beaucoup sur celui 
+des derniers, qui dépendent pour le spirituel de
+l&#39;évêché de Coire &amp; de l&#39;abbé de Dissentis.
+</p>
+<p>
+Le gouvernement temporel est démocratique, le
+peuple élit ses magistrats &amp; officiers ; &amp; tous ceux
+qui ont atteint l&#39;âge de seize ans, ont droit de suffrage.
+Les affaires qui regardent le corps de l&#39;état se
+terminent dans des dietes générales composées des
+députés de chaque ligue qui s&#39;assemblent aussi souvent 
+que la nécessité le demande. Les affaires particulieres 
+de chaque ligue se traitent dans les dietes
+provinciales.
+</p>
+<p>
+Le comté de Bormio, celui de Chiavenne, &amp; la
+Valteline, possédés par les <i>Grisons</i>, ne sont proprement 
+qu&#39;une vallée très-étroite qui s&#39;étend au pié
+des Alpes Rhétiques, mais qui peut avoir vingt lieues
+de longueur. L&#39;Adda qui sort du mont Braulio arrose
+cette vallée dans toute son étendue, lui fait beaucoup 
+de bien, &amp; quelquefois beaucoup de mal par
+ses inondations. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

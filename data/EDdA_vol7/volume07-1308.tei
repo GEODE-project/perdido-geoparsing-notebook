@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28762" id="51:82:1" vol="7">
+<index type="head" value="Gagner le vent, Gagner le dessus de" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="NA" />
+<head>Gagner le vent, Gagner le dessus de</head>
+<p>
+<sc>Gagner le vent, Gagner le dessus de
+vent</sc>, (<i>Marine.</i>) c&#39;est prendre l&#39;avantage du vent sur
+son ennemi ; ce qui se fait en courant plusieurs bordées,
+en changeant promptement de bord, lorsque
+le vent a donné, &amp; en faisant bien gouverner. <i>Voyez</i>
+<sc><ref target="head:Vent" type="search">Vent</ref></sc>.
+</p>
+<p>
+<i>Gagner au vent, monter au vent</i>, c&#39;est lorsqu&#39;un
+vaisseau qui etoit sous le vent se trouve au vent par
+la bonne manoeuvre qu&#39;il a faite.
+</p>
+<p>
+<i>Gagner sur un vaisseau</i>, c&#39;est lorsqu&#39;on cingle mieux
+que lui, &amp; que l&#39;on s&#39;en est approché ou qu&#39;on l&#39;a
+dépassé. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

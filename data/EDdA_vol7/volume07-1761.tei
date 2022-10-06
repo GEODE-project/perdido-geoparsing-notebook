@@ -1,0 +1,317 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29215" id="52:54" vol="7">
+<index type="head" value="GAULOIS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="s.m." />
+<head>GAULOIS</head>
+<p>
+GAULOIS, s. m. (<i>Hist. anc.</i>) habitans de l&#39;ancienne 
+Gaule. Ceux qui ont cherché curieusement
+l&#39;étymologie du mot, ont commencé par perdre leur
+tems &amp; leurs peines. L&#39;un tire cette étymologie du
+grec, l&#39;autre du cimbrique, &amp; un troisieme la trouve
+dans l&#39;ancien breton. Cluvier est venu jusqu&#39;à se persuader 
+que <i>Gallus</i> dérive du celtique <i>Gallen</i>, qu&#39;on
+dit encore en allemand, &amp; qu&#39;on écrit <i>Wallen</i>, qui
+signifie <i>voyager</i> ; &amp; là-dessus il suppose qu&#39;on donna
+ce nom aux <i>Gaulois</i> lorsqu&#39;ils sortirent de leur pays,
+&amp; qu&#39;ils s&#39;emparerent d&#39;une partie de la Germanie,
+de l&#39;Italie &amp; de la Grece. César moins savant que
+Cluvier dit simplement, <i>qui ipsorum linguâ</i> celtae,
+<i>nostrâ</i> Galli <i>appellantur</i>.
+</p>
+<p>
+Mais ce n&#39;est pas à l&#39;étymologie du mot que se
+borne ici notre ignorance, c&#39;est à tout ce qui concerne 
+les <i>Gaulois ;</i> nous ne savons rien par nous-mêmes 
+de l&#39;état de l&#39;ancienne Gaule, de l&#39;origine
+de ses peuples, de leur religion, de leurs moeurs
+&amp; de leur gouvernement : le peu qu&#39;on en connoît
+se recueille de quelques passages échappés, comme
+par hasard, à des historiens de la Grece &amp; de Rome.
+Si nous assûrons qu&#39;il y a eu des <i>Gaulois</i> voisins des
+Alpes, qui joints aux habitans de ces montagnes,
+se sont une fois établis sur les bords du Tesin &amp; de
+l&#39;Eridan ; si nous savons que d&#39;autres <i>Gaulois</i> vinrent 
+jusqu&#39;à Rome l&#39;année 363 de sa fondation, &amp;
+qu&#39;ils assiégerent le capitole, ce sont les historiens
+romains qui nous l&#39;ont appris. Si nous savons encore 
+que de nouveaux <i>Gaulois</i>, environ cent ans
+après, entrerent dans la Thessalie, dans la Macédoine, &amp; passerent sur le rivage du Pont-Euxin, ce
+sont les historiens grecs qui le racontent, sans nous
+dire même quels étoient ces <i>Gaulois</i>, &amp; quelle route 
+ils prirent : en un mot il en reste dans notre pays
+aucun vestige de ces émigrations qui ressemblent si
+fort à celles des Tartares ; elles prouvent seulement
+que la nation celtique étoit très-nombreuse, qu&#39;elle
+quitta par sa multitude un pays qui ne pouvoit pas
+la nourrir, &amp; chercha pour subsister des terres plus
+fertiles, suivant la remarque de Plutarque : je ne le
+cite guere que sur ce point ; car ce qu&#39;il nous débite
+d&#39;ailleurs sur les premiers <i>Gaulois</i> qui se jetterent
+en Italie, &amp; sur leurs descendans qui assiegerent Rome, est chargé d&#39;exagérations, d&#39;anachronismes ou
+<milestone unit="column" n="2" />
+d&#39;anecdotes populaires ; ainsi nous devons nous borner 
+aux témoignages de Tite-Live &amp; de César.
+</p>
+<p>
+Ce fut, selon Tite-Live, <i>liv. V. chap. xxxjv.</i> sous
+le regne de l&#39;ancien Tarquin, l&#39;an de Rome 165,
+qu&#39;une grande quantité de <i>Gaulois</i> transalpins passerent 
+les monts, sous la conduite de Bellovese &amp; de
+Sigovese, deux neveux d&#39;Ambigate chef de cette
+partie de la nation. Les deux freres tirerent au sort
+les pays où ils se porteroient ; le fort envoya au-delà du Rhin Sigovese, qui prenant son chemin par la
+forêt Hercinienne, s&#39;ouvrit un passage par la force
+des armes, &amp; s&#39;empara de la Boheme &amp; des provinces 
+voisines. Bellovese eut pour son partage l&#39;Italie ;
+ce dernier prit avec lui tout ce qu&#39;il y avoit de trop
+chez les Bituriges, les Arverniens, les Sénonois, les
+Eduens, les Ambarres, les Carnutes &amp; les Aulerques qui voulurent tenter fortune ; il passa les Alpes
+avec cette multitude de différens <i>Gaulois</i>, qui ayant
+vaincu les Toscans assez près du Tesin, se fixerent
+dans cet endroit, &amp; y bâtirent une ville qu&#39;ils nommerent 
+<i>Milan</i>.
+</p>
+<p>
+Quelque tems après une autre bande de Cenomans conduits par un chef nommé <i>Elitovius</i>, marchant 
+sur les traces déja frayées, passa les Alpes
+par le même chemin, &amp; fut aidée des troupes du
+même Bellovese qui avoit amené les premiers <i>Gaulois</i> dans le Milanès ; ces derniers venus s&#39;arrêterent 
+dans le Bressan &amp; dans le Véronois. Quelques
+auteurs leur attribuent l&#39;origine &amp; la fondation de
+Vérone, Padoue, Bresse, &amp; autres villes de ces belles 
+contrées qui subsistent encore aujourd&#39;hui.
+</p>
+<p>
+A la suite de ces deux émigrations se fit celle des
+Boyens &amp; des Lingons qui vinrent par le grand Saint-Bernard, &amp; qui trouvant occupé tout l&#39;espace qui
+est entre les Alpes &amp; le Pô, passerent ce fleuve,
+chasserent les Ombriens, de même que les Etrusques, &amp; se tinrent néanmoins aux bords de l&#39;Apennin. Les Sénonois qui leur succéderent se placerent
+depuis le Montoné jusqu&#39;à l&#39;Esino.
+</p>
+<p>
+Environ deux cents ans après les premiers établissemens des <i>Gaulois</i> cisalpins, ils attirerent les transalpins,
+&amp; leur donnerent entrée sur les terres de
+Rome ; tous ensemble marcherent à la capitale dont
+ils se rendirent les maîtres l&#39;an 363 de sa fondation,
+&amp; n&#39;en firent qu&#39;un monceau de ruines. Sans Manlius le capitole auroit été pris, &amp; sans Camille on
+alloit leur payer de grandes contributions ; on pesoit
+déja l&#39;or quand il parut à la tête des troupes du sénat:
+<blockquote> 
+« Remportez cet or au capitole, dit-il aux députés ; 
+&amp; vous <i>Gaulois</i>, ajoûta-t-il, retirez-vous
+avec vos poids &amp; vos balances ; ce n&#39;est qu&#39;avec
+du fer que les Romains doivent recouvrer leur
+pays ».
+</blockquote>
+A ces mots on prit les armes de part &amp;
+d&#39;autre ; Camille défit Brennus &amp; ses <i>Gaulois</i>, qui
+furent la plûpart tués sur la place, ou dans la suite
+par les habitans des villages prochains.
+</p>
+<p>
+Une nouvelle nuée de <i>Gaulois</i> rassemblés des
+bords de la mer Adriatique, s&#39;avança vers Rome
+l&#39;an 386 de sa fondation, pour venger cette défaite 
+de leurs compatriotes ; mais la victoire des romains 
+ne fut ni difficile ni douteuse sous ce même
+Camille élevé pour la cinquieme fois à la dictature.
+Il périt un grand nombre de <i>Gaulois</i> sur le champ de
+bataille ; &amp; le reste dispersé par la fuite, &amp; sans se
+pouvoir rallier, fut assommé par les paysans.
+</p>
+<p>
+L&#39;on vit encore l&#39;an 404 de Rome une armée de
+<i>Gaulois</i> se répandre sur les terres des Romains pour
+les ravager ; mais au combat particulier d&#39;un de leurs
+chefs vaincu par Valerius surnommé <i>Corvus</i>, succéda 
+le combat général qui eut les mêmes revers pour
+l&#39;armée gauloise.
+</p>
+<p>
+Depuis cette derniere époque, les <i>Gaulois</i> ne firent 
+que de foibles &amp; stériles efforts pour s&#39;opposer
+à l&#39;accroissement des Romains ; ceux-ci après les
+<pb n="7:529" facs="V7/ENC_7-529.jpeg" />
+<milestone unit="column" n="1" />
+avoir éloignés de leur territoire, leur enleverent Picenum, le Milanès, le Bressan, le Véronois &amp; la
+Marche d&#39;Ancone. Si les succès d&#39;Annibal ranimerent 
+les espérances des <i>Gaulois</i>, ils furent bientôt
+contraints de les abandonner, &amp; de partager pour
+toûjours le sort de cet allié: Rome maîtresse de Carthage porta ses armes en orient &amp; en occident, &amp;
+au milieu de ses triomphes subjugua toute la Gaule ;
+Jules-César eut l&#39;honneur d&#39;en consommer la conquête.
+</p>
+<p>
+Il est vrai cependant que les <i>Gaulois</i> furent d&#39;abord 
+les ennemis les plus redoutables de Rome, &amp;
+qu&#39;ils soutinrent opiniâtrément les guerres les plus
+vives contre les Romains. L&#39;amour de la gloire, le
+mépris de la mort, l&#39;obstination pour vaincre, étoient
+les mêmes chez les deux peuples ; mais indépendamment 
+des progrès rapides &amp; merveilleux que les Romains firent dans l&#39;art de la guerre, les armes étoient
+bien différentes ; le bouclier des <i>Gaulois</i> étoit petit,
+&amp; leur épée mauvaise, aussi succomberent-ils sans
+cesse ; &amp; ce qu&#39;il y a de surprenant, c&#39;est que ces
+peuples que les Romains rencontrerent dans presque 
+tous les lieux &amp; dans presque tous les tems,
+se laisserent détruire les uns après les autres, sans
+jamais connoître, chercher &amp; prévenir la cause de
+leurs malheurs. Ils ne songerent point à se réunir
+pour leur défense mutuelle, &amp; à se regarder comme
+formant une nation dont les intérêts étoient inséparables.
+</p>
+<p>
+Enfin, la seule chose qui ait subsisté de tous les peuples 
+<i>Gaulois</i> qui furent soûmis après leur établissement en Italie, c&#39;est la conservation des noms de leur
+divers pays que nous reconnoissons encore. Par exemple,
+nous voyons assez clairement que les Bituriges
+habitoient le Berry, les Arverniens l&#39;Auvergne, les
+Sénonois Sens, Auxerre, &amp; autres endroits voisins
+jusqu&#39;à Paris ; les Eduens la Bourgogne, les Ambarres les environs de Châlons-sur-Saone, les Carnutes le pays Chartrain, les Aulerques une portion de
+la Bretagne, les Insubriens un canton de la Bourgogne, les Saliens la Provence, les Cénomans le
+Maine, les Salluviens le long du Rhône, les Boïens
+le Bourbonnois, les Lingons le pays de Langres, &amp;
+les Vénetes le canton de Vannes en Bretagne.
+</p>
+<p>
+Mais tous ces divers peuples étoient au si barbares 
+les uns que les autres ; la colonie des Grecs qui
+fonda Marseille six cents ans avant l&#39;erc vulgaire,
+ne put ni polir ses voisins, ni étendre sa langue au-delà 
+du territoire de la ville. Les dialectes du langage 
+celtique étoient affreux ; l&#39;empereur Julien sous
+qui ce langage se parloit encore, dit qu&#39;il ressembloit 
+au croassement des corbeaux.
+</p>
+<p>
+On ignore jusqu&#39;aux noms des dieux que se forgerent 
+les <i>Gaulois</i> ; &amp; si César donne à leurs divinités 
+les noms qu&#39;on leur donnoit à Rome, ce n&#39;est
+sans doute que parce qu&#39;il avoit remarqué dans quelques-unes, quelque attribut ou quelque symbole ressemblant 
+à ceux des dieux de son pays ; car dans le
+fond, les divinités des anciens <i>Gaulois</i> devoient
+être bien inconnues, soit aux Grecs, soit aux Romains, puisque Lucien dans un de ses dialogues fait
+dire à Mercure, qu&#39;il ne sait comment s&#39;y prendre
+pour inviter les dieux des <i>Gaulois</i> à se trouver à
+l&#39;assemblée des autres dieux, parce qu&#39;ignorant leur
+langue, ii ne peut ni les entendre, ni se faire entendre 
+d&#39;eux. Il est vrai que depuis la conquête des
+Gaules par les Romains, tous les dieux d&#39;Athènes
+&amp; de Rome s&#39;y introduisirent insensiblement, &amp; prirent 
+la place des anciens dieux du pays, ou du-moins
+se confondirent avec eux ; mais ce ne fut-là qu&#39;un
+accroissement de superstitions.
+</p>
+<p>
+Les moeurs des <i>Gaulois</i> du tems de César, étoient
+la barbarie même ; ils faisoient voeu, s&#39;ils réchappoient 
+d&#39;une dangereuse maladie, d&#39;un péril éminent,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+d&#39;une bataille douteuse, d&#39;immoler à leurs divinités 
+tutélaires, des victimes humaines, persuadés 
+qu&#39;on ne pouvoit obtenir des dieux la vie d&#39;un
+homme, que par la mort d&#39;un autre. Ils avoient des
+sacrifices publics de ce genre, dont les Drüides
+qui gouvernoient la nation, étoient les ministres ;
+ces sacrificateurs brûloient des hommes dans de
+grandes &amp; hideuses statues d&#39;ozier faites exprès. Les
+drüidesses plongeoient des couteaux dans le coeur
+des prisonniers, &amp; jugeoient de l&#39;avenir par la maniere 
+dont le sang couloit : de grandes pierres un
+peu creuses qu&#39;on a trouvées sur les confins de la
+Germanie &amp; de la Gaule, sont, à ce qu&#39;on prétend,
+les autels où l&#39;on faisoit ces sacrifices. Si cela est,
+voilà tous les monumens qui nous restent des <i>Gaulois</i>. Il faut, comme le dit M. de Voltaire, détourner 
+les yeux de ces tems horribles qui font la honte
+de la nature. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

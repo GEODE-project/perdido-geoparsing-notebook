@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30150" id="54:68:3" vol="7">
+<index type="head" value="Grappe de Raisin" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Peinture." />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="NA" />
+<head>Grappe de Raisin</head>
+<p>
+<sc>Grappe de Raisin</sc>, (<i>Peinture.</i>) C&#39;est au célebre
+Titien que l&#39;art de la Peinture doit le principe caché
+sous l&#39;emblème de la <i>grappe de raisin</i>. Ce savant peintre,
+le premier coloriste peut-être qui ait existé, en
+refléchissant sur l&#39;accord du clair obscur &amp; de la couleur,
+avoit observé cette harmonie, qui est le but
+où doivent tendre principalement ceux qui s&#39;occupent 
+à imiter la nature. Il avoit remarqué que la dégradation 
+des couleurs &amp; les différens effets de la
+lumiere &amp; de l&#39;ombre produisent dans un petit espace,
+à l&#39;égard des grains qui composent une <i>grappe
+de raisin</i>, ce qu&#39;ils produisent dans un plus vaste
+champ sur les corps qui sont offerts continuellement
+à nos yeux. Il se servoit de cet objet de comparaison 
+pour développer ses idées, &amp; pour rendre plus
+frappantes les instructions qu&#39;il donnoit à ses éleves.
+Dans ces instructions il faisoit vraissemblablement
+remarquer aux jeunes artistes que chaque grain en
+particulier est l&#39;objet d&#39;une dégradation de couleur,
+d&#39;une diminution de lumiere, &amp; d&#39;une progression
+d&#39;ombre extrèmement combinées, à cause de la forme 
+ronde du grain de raisin qui ne permet pas que
+la lumiere frappe également deux points de cette
+surface. Il observoit ensuite que cette combinaison
+si variée dans chaque grain est tellement subordonnée 
+à une combinaison générale, qu&#39;il en résulte, a
+l&#39;égard de toute la <i>grappe</i> regardée comme un seul
+corps, un effet semblable à celui que produit un grain
+lorsqu&#39;il est examiné en particulier. De ces observations 
+tirées de l&#39;exemple d&#39;une <i>grappe de raisin</i>, il entroit 
+sans doute dans des détails sur l&#39;accord &amp; l&#39;union 
+des grouppes, &amp; sur l&#39;harmonie du coloris &amp; du
+clair obscur, qu&#39;il seroit bien à souhaiter qu&#39;il nous
+eût transmis. Nous en trouvons, il est vrai, l&#39;application 
+dans ses ouvrages ; mais il faut avoir déjà fait
+un chemin considérable dans l&#39;art de la Peinture par
+le raisonnement &amp; par l&#39;observation, pour être en
+état d&#39;entendre ces leçons pratiques, &amp; de lire dans
+les tableaux des grands maîtres. Rien n&#39;est aussi commun 
+&amp; aussi juste que le conseil qu&#39;on donne aux
+artistes qui commencent leur carriere, lorsqu&#39;on leur
+dit : <i>voyez les ouvrages des Titiens, des Raphaëls, des
+Wandik</i>. Ils obéissent sans doute ; mais s&#39;il en est beaucoup 
+qui regardent, il en est fort peu qui ayent l&#39;avantage 
+de voir. <i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

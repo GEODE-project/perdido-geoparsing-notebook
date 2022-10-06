@@ -1,0 +1,153 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28995" id="51:235:2" vol="7">
+<index type="head" value="Garde, (la) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc. " />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>Garde</head>
+<p>
+<sc>Garde</sc>, (<sc>la</sc>) <i>Hist. anc</i>. elle se faisoit jour &amp; nuit
+chez les Romains ; &amp; les vingt-quatre heures se divisoient 
+en huit <i>gardes</i>.
+</p>
+<p>
+Premierement, le consul étoit gardé par sa cohorte 
+ordinaire ; puis chaque corps posoit la <i>garde</i> autour 
+de son logement : en outre on posoit trois <i>gardes</i>,
+l&#39;une au logis du questeur, &amp; les deux autres au logis
+des deux lieutenans du consul.
+</p>
+<p>
+Les tergiducteurs ou chefs de la queue conduisoient
+les <i>gardes</i>, lesquelles tiroient au sort à qui commenceroit : les premiers à qui étoit échû de commencer,
+étoient menés au tribun en exercice, lequel distribuoit 
+l&#39;ordre de la <i>garde</i>, &amp; donnoit outre cela à
+chaque <i>garde</i> une petite tablette avec une marque ;
+toutes les <i>gardes</i> ensuite se posoient de la même façon.
+</p>
+<p>
+Les rondes se faisoient par la cavalerie, dont le
+chef en ordonnoit quatre pour le jour &amp; quatre
+pour la nuit. Les premiers alloient prendre l&#39;ordre
+du tribun, qui leur donnoit par écrit quelle <i>garde</i> ils
+devoient visiter.
+</p>
+<p>
+Le changement &amp; visite des <i>gardes</i> se faisoit huit
+fois en vingt-quatre heures, au son de la trompette ;
+&amp; c&#39;étoit le premier centurion des Triaires qui avoit
+charge de les faire marcher au besoin.
+</p>
+<p>
+Quand la trompette les avertissoit, les 4 mentionnés
+tiroient au sort, &amp; celui à qui il échéoit de commercer 
+prenoit avec lui des camarades pour l&#39;accompagner.
+Si en faisant la ronde, il trouvoit les <i>gardes</i> en
+bon état, il retiroit seulement la marque que le tribun 
+avoit donnée, &amp; la lui rapportoit le matin : mais
+s&#39;il trouvoit la <i>garde</i> abandonnée, quelques sentinelles 
+endormies, ou autre desordre, il en faisoit son
+rapport au tribun, avec ses témoins ; &amp; aussi tôt on
+assembloit le conseil pour vérifier la faute, &amp; chatier
+le coupable selon qu&#39;il le méritoit.
+</p>
+<p>
+Les vélites faisoient la <i>garde</i> autour du retranchement,
+par le dehors, par le dedans, &amp; aux portes.
+</p>
+<p>
+L&#39;on ne trouve point dans les auteurs le nombre
+des corps-de-<i>garde</i> des Romains ; la maniere dont ils
+posoient leurs sentinelles autour du camp ; &amp; combien 
+on avoit de journées franches de la <i>garde</i>.
+(<i>D. J.</i>)
+<pb n="7:483" facs="V7/ENC_7-483.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

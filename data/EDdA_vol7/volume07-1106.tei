@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28560" id="50:233:9" vol="7">
+<index type="head" value="Funérailles des Misilimakinaks" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Funérailles</head>
+<p>
+<sc>Funérailles</sc> <i>des Misilimakinaks</i>. Il y a d&#39;autres
+sauvages de l&#39;Amérique qui n&#39;enterrent point leurs
+morts, mais qui les brûlent ; il y en a même, divisés
+en ce qu&#39;ils nomment <i>familles</i>, parmi lesquelles est la
+prérogative attachée à telle famille uniquement, de
+pouvoir brûler ses morts, tandis que les autres familles 
+sont obligées de les enterrer : c&#39;est ce qu&#39;on voit
+chez les Misilimakinaks, peuple sauvage de l&#39;Amerique septentrionale de la Nouvelle-France, où la seule 
+famille du grand Lievre joüit du privilége de brûler 
+ses cadavres ; dans les deux autres familles qui
+forment cette nation, quand quelqu&#39;un de ses capitaines 
+est décédé, on prepare un vaste cercueil, où
+après avoir couché le corps vêtu de ses plus beaux
+habits, on y renferme avec lui sa couverture, son fusil,
+sa provision de poudre &amp; de plomb, son arc, ses
+fleches, sa chaudiere, son plat, son casse-tête, son
+calumet, sa boîte de vermillon, son miroir, &amp; tous
+les présens qui lui ont été donnés à sa mort ; ils s&#39;imaginent 
+qu&#39;avec ce cortége, il fera plus aisément
+le voyage dans l&#39;autre monde, &amp; qu&#39;il sera meux
+reçû des plus grands capitaines de la nation, qui le
+conduiront avec eux dans un lieu de délices. Pendant
+que tout cet attirail s&#39;ajuste dans le cercueil, les parens 
+du mort assistent à cette cérémonie en chantant
+d&#39;un ton lugubre, &amp; en remuant en cadence un bâton
+où ils ont attaché plusieurs petites sonnettes. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

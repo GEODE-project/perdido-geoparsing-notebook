@@ -1,0 +1,395 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30502" id="55:103:1" vol="7">
+<index type="head" value="Grossesse (maladies dépendantes de la)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Grossesse</head>
+<p>
+<sc>Grossesse</sc> (<i>maladies dépendantes de la</i>). Les femmes 
+enceintes sont sujettes à des desordres plus ou
+moins considérables dans l&#39;économie animale, qui
+ne proviennent absolument que des changemens qu&#39;y
+occasionne la <i>grossesse</i>.
+</p>
+<p>
+La plûpart des lésions de fonctions qu&#39;elles éprouvent dans les commencemens, dans les premiers
+mois, ne doivent être attribuées qu&#39;à la suppression
+du flux menstruel, à la pléthore, qui résulte de ce
+que cette évacuation n&#39;a pas lieu comme auparavant,
+à cause que les effets de la conception ont excité 
+une sorte d&#39;érétisme dans la matrice, qui en a
+fermé l&#39;orifice &amp; resserré tous les pores, par lesquels
+se faisoit l&#39;excrétion du sang utérin ; d&#39;où s&#39;ensuit le
+reflux dans la masse des humeurs, de la portion surabondante 
+de ce sang qui auroit été évacuée : reflux
+qui subsiste tant que le foetus &amp; ses dépendances contenues 
+dans la matrice ne sont pas suffisans pour consumer,
+pour employer à leur accroissement cette
+portion de la masse des humeurs qui est destinée à en
+fournir les matériaux.
+</p>
+<p>
+Les indispositions qui surviennent dans des tems
+plus avancés de la <i>grossesse</i>, proviennent du volume
+&amp; de la masse du foetus &amp; de ses dépendances, qui
+en distendant la matrice, en pressant les parties ambiantes,
+en opérant sur elles, gênent leurs fonctions,
+y font obstacle au cours des humeurs, y causent des
+dérangemens qui se communiquent souvent à toute
+la machine, soit en augmentant le renversement d&#39;équilibre 
+dans les fluides, soit en augmentant la sensibilité,
+l&#39;irritabilité des solides qui en sont susceptibles 
+par la communication de proche en proche, de
+ces qualités que possede plus éminemment la matrice,
+à-proportion qu&#39;elle souffre une plus grande
+distension dans ses parois.
+</p>
+<p>
+Ainsi les maladies de la <i>grossesse</i> commençante &amp;
+de ses premiers tems, sont les nausées, les vomissemens,
+le dégoût ou la dépravation de l&#39;appétit, les
+défaillances, les vertiges, les douleurs que la plûpart 
+des femmes ressentent alors aux reins, aux aînes,
+aux mammelles, la pesanteur, la lassitude, la
+difficulté de respirer, &amp; souvent des dispositions aux
+fausses-couches, des symptomes qui en sont les
+avant-coureurs. Et comme toutes ces lésions sont
+les effets d&#39;une même cause, c&#39;est-à-dire du reflux
+dans la masse des humeurs, du sang surabondant
+dans la matrice, on réussit ordinairement à y remédier<gap type="hyphenpb" />
+<pb n="7:965" facs="V7/ENC_7-965.jpeg" />
+<milestone unit="column" n="1" />
+par la saignée, qui fait cesser cette cause, en
+faisant cesser la pléthore.
+</p>
+<p>
+Mais ce moyen dou être employé avec beaucoup
+de prudence, parce que selon l&#39;observation d&#39;Hippocrate, <i>aph. 31. lib. V.</i> une saignée faite mal-à-propos, peut causer l&#39;avortement. Ainsi on ne doit
+y avoir recours que pour les femmes d&#39;un assez bon
+tempérament, qui sont sujettes à avoir leurs regles
+abondamment ou plus long-tems que d&#39;autres ; qui
+menent une vie sédentaire, &amp; se nourrissent bien.
+Si elles sont fort incommodées pendant le cours de
+leurs <i>grossesses</i>, on peut leur tirer du sang par intervalles 
+jusqu&#39;à cinq ou six fois : pour celles qui le
+sont moins, trois fois suffisent ; savoir, dans le second 
+mois, dans le cinquieme, &amp; dans le neuvieme.
+On a cependant vû des cas, selon Mauriceau, <i>de
+praegnant morb. lib. I. cap. xj.</i> où on a été obligé d&#39;y
+revenir jusqu&#39;à dix fois. Cet auteur rapporte même
+avoir vu une femme qu&#39;on fut obligé de saigner jusqu&#39;à quarante-huit fois, pour 
+l&#39;empécher d&#39;être suffoquée,
+sans que l&#39;accouchement qui suivit, en fût
+moins heureux &amp; moins à terme ; mais de pareils
+exemples sont très-rares. Le plus grand nombre de
+femmes enceintes n&#39;a pas besoin de beaucoup de
+saignées ; elles sont très-dangereuses à celles qui,
+étant d&#39;un temperament délicat, font peu de sang.
+Elles sont inutiles à celles qui sont robustes &amp; font
+beaucoup d&#39;exercice, comme les femmes de la campagne.
+</p>
+<p>
+Il est beaucoup de femmes à qui il suffit de prescrire 
+la diete, ou au moins de retrancher de la nourriture 
+ordinaire ; de faire faire un peu plus d&#39;exercice 
+qu&#39;à l&#39;ordinaire, avec ménagement ; de faire
+user de quelques boissons délayantes ; pour qu&#39;elles
+se délivrent de la plûpart des incommodités de la
+<i>grossesse</i>. En général, lorsqu&#39;elles ne sont pas urgentes,
+on doit toûjours tenter ces derniers movens,
+avant d&#39;en venir à la saignée. On éprouve aussi très souvent 
+selon Boerhaave, de bons effets de l&#39;usage
+des remedes cardiaques legerement aromatiques,
+unis à de doux anti-hystériques, ou de celui des boissons 
+acidules, comme la limonade, les ptisanes nitreuses,
+lorsque les differens accidens de la <i>grossesse</i>
+sont accompagnés de foiblesse ou d&#39;ardeurs d&#39;entrailles.
+</p>
+<p>
+On doit être aussi très-reservé dans l&#39;usage des
+purgatifs pour le cas dont il s&#39;agit. Les émétiques
+sur tout, par les violentes secousses qu&#39;ils occasionnent,
+sont très-dangereux, &amp; peuvent causer des
+avortemens : l&#39;experience prouve cependant qu&#39;ils
+sont très-peu sûrs pour les procurer à dessein : mais
+le tempérament &amp; la disposition actuelle du sujet décident 
+toûjours de l&#39;effet qu&#39;on a lieu d&#39;attendre de
+pareils moyens. Les vomitifs &amp; les purgatifs doux
+peuvent être employés sans danger à l&#39;égard des femmes 
+qui ont beaucoup de facilité à être évacuées
+par le haut &amp; par le bas. Elles peuvent par-là se décharger 
+de la surabondance d&#39;humeurs qui refluent
+sur-tout dans les vaisseaux de l&#39;estomac, qui en distendent 
+les fibres nerveuses, &amp; y excitent le sentiment 
+de nausée ou les efforts qui font le vomissement ; 
+&amp; les purgatifs en dégorgeant de même les
+intestins, sont cesser les coliques ou les cours de
+ventre, qui incommodent souvent les femmes grosses : mais les purgatifs forts sont absolument à éviter, parce qu&#39;en irritant trop les intestins, ils peuvent 
+par communication exciter des mouvemens
+convulsifs dans la matrice, qui pourroient procurer
+l&#39;avortement, principalement dans les premiers tems,
+&amp; sur la fin de la <i>grossesse</i>.
+</p>
+<p>
+Il n&#39;y a pas moins d&#39;attention à faire concernant
+l&#39;usage des narcotiques, qui peuvent aussi produire
+des effets fâcheux par le relachement général qu&#39;ils
+procurent dans le genre nerveux ; relâchement qui,
+<milestone unit="column" n="2" />
+comme il peut favoriser un accouchement trop douloureux,
+peut de même contribuer à l&#39;exclusion du
+foetus dans tous les tems de la <i>grossesse</i>. Ainsi ce ne
+peut être qu&#39;après avoir inutilement employé les saignées,
+(si elles sont praticables) pour calmer les
+douleurs qui surviennent dans cet état, que l&#39;on peut
+recourir aux préparations d&#39;opium, avec tout le ménagement 
+possible. On ne peut guere indiquer de cas
+où ces remedes puissent être employés avec plus de
+sureté &amp; de succès, selon Horstius, <i>lib. X. observ. 3.</i>
+que lorsque les femmes grosses sont affectées de violentes 
+douleurs rhumatismales, qui causent des insomnies 
+opiniâtres, pourvû qu&#39;ils ne soient pas contre-indiqués d&#39;ailleurs.
+</p>
+<p>
+En général, on ne doit s&#39;obstiner à combattre aucun 
+des symptomes des maladies dépendantes de la
+<i>grossesse</i>, qu&#39;entant que les forces ne suffisent pas
+pour les soûtenir ; qu&#39;il y a danger qu&#39;il ne survienne
+une fausse couche. <i>Voyez</i> <sc><ref target="head:Fausse-Couche" type="search">Fausse-Couche</ref></sc>. Ceci
+soit dit des vomissemens, des flux-de-ventre, &amp; même 
+des hémorrhagies quelconques ; à plus forte raison,
+de toute autre accident de moindre consequence.
+</p>
+<p>
+Il faut s&#39;appliquer à bien distinguer les douleurs
+des reins, des lombes, qui sont causées par la <i>grossesse</i>,
+d&#39;avec celles qui pourroient être occasionnées par
+des calculs, des pierres contenues dans les voies
+urinaires. <i>Voyez</i> <sc><ref target="head:Calcul" type="search">Calcul</ref>, <ref target="head:Pierre" type="search">Pierre</ref></sc>. Dans ce dernier
+cas, on ne pou roit faire usage des bains qu&#39;avec
+beaucoup de précaution, parce qu&#39;ils operent des
+effets, d&#39;où peuvent aisément résulter de fausses couches,
+sur-tout les bains chauds. Il y a des exemples
+qui prouvent que les bains de riviere, pris dans la
+saison convenable, même dans les commencemens
+de la <i>grossesse</i>, ne sont point nuisibles à cet etat.
+</p>
+<p>
+Les maladies qui surviennent aux femmes enceintes 
+dans le milieu, &amp; vers la fin de leur <i>grossesse</i>,
+sont principalement la difficulté d&#39;uriner, la retention 
+ou le vice oppose, qui est l&#39;incontinence d&#39;urine,
+la frequente envie de rendre cette humeur excrémentitielle,
+la constipation ou la dejection difficile,
+les hémorrhoïdes, les varices, l&#39;enflure des
+pies, des jambes, des levres de la vulve, la disposition 
+à faire des chûtes, &amp; autres approchantes. Toutes ces lesions dependent d&#39;une seule &amp; même cause,
+ci-devant mentionnée, qui est le volume &amp; le poids
+de la matrice, qui comprime la vessie contre les os
+du bassin, y forme un etranglement qui exige de
+grands efforts de la part des fibres musculaires de ce
+reservoir de l&#39;urine, pour surmonter l&#39;obstacle qu&#39;il
+trouve à se vuider du liquide qu&#39;il contient, ce qui
+établit la difficulté d&#39;uriner ; ou la pression de la vessie 
+forme un empêchement qu&#39;elle ne peut pas vaincre,
+ce qui donne lieu à la retention d&#39;urine ; ou l&#39;urine 
+ne peut etre retenue qu&#39;en petite quantite, à
+cause de cette pression qui laisse peu de capacité au
+reservoir, ce qui oblige à une frequente évacuation. La matrice comprimant aussi le rectum contre
+l&#39;os sacrum, empêche qu&#39;il ne se remplisse de matieres 
+fécales, fait séjourner ces matieres dans les parties 
+supérieures des gros boyaux où elles se dessechent ; 
+ce qui fournit différentes causes de la constipation 
+&amp; de la dejection difficile. Cette même compression 
+de la matrice portant sur les veines hémorrhoïdales,
+empêche le libre retour du sang qu&#39;elles
+contiennent, qui dilate ses vaisseaux, y cause des
+distensions douloureuses, ou les rompt &amp; se fait
+issue en s&#39;évacuant, &amp; les veines iliaques étant aussi
+comprimées par la même cause, il en résulte une
+gêne, un obstacle dans le retour du sang des extrémités 
+inferieures, qui donne beu aussi à la dilatation
+forcée des rameaux veineux les moins forts, tels
+que ceux qui ne sont point soûtenus par l&#39;action des
+muscles, ceux qui ne sont recouverts que de la peau ;
+<pb n="7:966" facs="V7/ENC_7-966.jpeg" />
+<milestone unit="column" n="1" />
+ce qui produit des varices aux piés ; aux jambes.
+<i>Voyez</i> <sc><ref target="head:Varice" type="search">Varice</ref></sc>. Et les principaux vaisseaux qui rapportent 
+la lymphe de ces mêmes parties, soit qu&#39;ils
+ne puissent pas se vuider aisément dans les veines
+engorgées, ou qu&#39;ils soient aussi comprimées à leur
+passage par le bassin pour se rendre au reservoir, deviennent 
+aussi engorgés eux-mêmes ; ensorte que la
+surabondance de la liqueur qu&#39;ils contiennent, venant 
+à refluer dans le tissu cellulaire, en augmente
+le volume ; d&#39;où les enflures des piés &amp; des jambes,
+qui s&#39;étendent quelquefois jusqu&#39;aux cuisses de proche 
+en proche. Et par la même raison le tissu cellulaire 
+des bords du vagin s&#39;enfle aussi très-souvent,
+vers la fin de la <i>grossesse</i> sur-tout, où la cause de
+l&#39;engorgement des vaisseaux produit des effets plus
+étendus. Pour ce qui est de la disposition qu&#39;ont les
+femmes grosses à faire des chûtes, on peut l&#39;attribuer 
+encore à la compression des muscles psoas &amp;
+iliaques, qui gêne la flexion des cuisses : mais la
+principale cause est le volume, le poids du ventre,
+qui dispose le corps à se porter aisément hors de son
+centre de gravité.
+</p>
+<p>
+La compression que produit la matrice &amp; son
+poids, étant la cause générale &amp; commune de tous
+ces symptomes, ou de toutes ces différentes lésions,
+cette cause n&#39;est pas de nature à pouvoir être détruite ; 
+elle ne peut cesser que par l&#39;exclusion du foetus,
+qui ne laisse à la matrice que son volume &amp; son
+poids ordinaire : ainsi on ne peut apporter à ces
+maux-là d&#39;autres remedes que des palliatifs. <i>Voyez</i>
+<sc><ref target="head:Urinaires" type="search">Urinaires</ref></sc>, (<i>maladies des voies</i>) 
+<sc><ref target="head:Constipation" type="search">Constipation</ref>, <ref target="head:Déjection" type="search">Déjection</ref>, <ref target="head:Hémorrhoïdes" type="search">Hémorrhoïdes</ref>, <ref target="head:Varice" type="search">Varice</ref>, <ref target="head:OEdème" type="search">OEdème</ref></sc> ), attendu qu&#39;il n&#39;y a rien de particulier à observer 
+par rapport à ces remedes employés dans le cas
+de <i>grossesse</i>.
+</p>
+<p>
+Pour ce qui est de la disposition à faire des chûtes,
+qui est ordinaire aux femmes grosses, surtout dans les
+derniers tems de la <i>grossesse</i> où le ventre a le plus de
+volume &amp; de poids ; comme cette disposition, outre
+les causes mentionnées, dépend beaucoup aussi de ce
+qu&#39;elles ne peuvent pas voir leurs piés en marchant,
+ni par conséquent où elles les posent, d&#39;autant plus
+qu&#39;elles sont obligées de porter le corps en-arriere
+pour conserver l&#39;équilibre de gravitation entre les
+parties du corps étant debout : lorsque les choses en
+sont venues à ce point-là, il n&#39;y a pas d&#39;autre moyen
+d&#39;éviter les chûtes, qui sont très-dangereuses dans
+cet état pour la mere &amp; pour l&#39;enfant, que de ne jamais 
+marcher sans être appuyé sur quelqu&#39;un qui
+conduise ou soûtienne la femme <i>grosse</i>, &amp; regle, pour
+ainsi dire, ses pas. Si le ventre par son volume &amp; par
+son poids tombe sur les cuisses, &amp; contribue à empêcher 
+de marcher, on peut prendre le parti de le
+suspendre par des bandages appropriés, qui soient
+arrêtés fixes derriere les reins.
+</p>
+<p>
+Les maladies tant aiguës que chroniques, qui ne
+dépendent pas de la <i>grossesse</i> essentiellement, doivent
+être traitées comme dans les autres sujets, avec attention 
+de n&#39;employer aucun remede qui puisse être
+contre-indiqué par l&#39;état de <i>grossesse</i>, sans y avoir
+eu égard, sans avoir bien pesé, lorsqu&#39;on se détermine 
+à en faire de contraires à cet état, les inconvéniens,
+le danger de part &amp; d&#39;autre, &amp; sans y avoir
+été forcé par l&#39;urgence du cas. C&#39;est d&#39;après ces précautions 
+que l&#39;on doit traiter les maladies inflammatoires,
+les fievres violentes, les hydropisies, la
+phthisie, la vérole même dans les femmes grosses,
+que l&#39;expérience a appris être susceptibles de faire
+usage de toute sorte de remedes, avec les ménagemens 
+convenables ; ce qu&#39;il seroit trop long d&#39;établir
+ici avec un certain détail. Ce qui a été ébauché du
+régime des femmes grosses, &amp; ce qui vient d&#39;être dit
+du traitement des maladies propres à la <i>grossesse</i>, peut
+suffire pour servir de regle à l&#39;égard de toutes autres
+<milestone unit="column" n="2" />
+maladies dans cet état : mais pour suppléer à ce qui
+manque ici, on ne peut trop recourir aux ouvrages
+où il est traité, <i>ex professo</i>, des maladies des femmes
+grosses ; tels que ceux de Varandaeus, de Sennert,
+Etmuller, Mauriceau, <i>&amp;c.</i> On trouve aussi bien des
+choses intéressantes à ce sujet dans les oeuvres d&#39;Hoffman, <i>passim:</i> la continuation bren attendue du commentaire 
+des aphorismes de Boerhaave, par l&#39;illustre
+baron Wanswieten, premier medecin de la cour impériale,
+ne laissera sans doute rien à desirer en traitant 
+de cette matiere en son lieu. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

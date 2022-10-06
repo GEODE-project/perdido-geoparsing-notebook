@@ -1,0 +1,228 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29058" id="51:235:65" vol="7">
+<index type="head" value="Gardes des Sceaux des Chancelleries établies près les Cours" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gardes des Sceaux des Chancelleries</head>
+<p>
+<sc>Gardes des Sceaux des Chancelleries
+établies près les Cours</sc>, sont les officiers qui
+sont chargés de la garde du petit sceau, dont on use
+dans ces chancelleries.
+</p>
+<p>
+La <i>garde</i> du petit sceau aussi-bien que du grand,
+appartient naturellement au chancelier ou au <i>garde
+des sceaux</i> de France, lorsque la <i>garde des sceaux</i> est
+séparée de l&#39;office de chancelier.
+</p>
+<p>
+En l&#39;absence du chancelier ou du <i>garde des sceaux</i>
+de France, s&#39;il y en a un, la <i>garde des petits sceaux
+des chancelleries établies près les cours souveraines</i>, appartient 
+aux maîtres des requêtes, lorsqu&#39;ils se trouvent 
+dans la ville où la chancellerie est établie.
+</p>
+<p>
+A Paris, c&#39;est toûjours un maître des requêtes qui
+tient le sceau en la chancellerie du palais : c&#39;est pourquoi 
+il n&#39;y a poin : de <i>garde des sceaux</i>. Mais comme
+ces magistrats ne résident point ordinairement dans
+les autres villes de province où il y a de semblables
+chancelleries, nos rois ont établi un officier dans chacune 
+de ces chancelleries, pour garder les sceaux en
+l&#39;absence des maîtres des requêtes ; &amp; ce sont ces officiers 
+auxquels le nom de <i>garde des sceaux</i> de ces chancelleries 
+est propre.
+</p>
+<p>
+Il y a eu de ces officiers aussi-tôt que l&#39;on a établi
+des chancelleries particulieres dans les provinces.
+</p>
+<p>
+Il y en avoit un en la chancellerie de Toulouse
+dès 1490, suivant l&#39;ordonnance de Charles VIII. du
+mois de Décembre de ladite année, où il est nommé
+<i>garde-scel</i>.
+</p>
+<p>
+Les autres <i>gardes des sceaux</i> ont été établis à mesure 
+que l&#39;on a établi chaque chancellerie près des
+parlemens, conseils supérieurs, cours des aides, <i>&amp;c</i>.
+</p>
+<p>
+Dans celles de Navarre, de Bretagne, de Dauphiné, &amp; de Normandie, ils ont pris la place des chanceliers 
+particuliers de ces chancelleries, qui ont été
+supprimés.
+</p>
+<p>
+Ils furent tous supprimés par un édit du mois de
+Février 1561, portant que le sceau de ces chancelleries 
+seroit tenu par le pius ancien conseiller, chacun 
+en son rang, par semaine ou par mois ; ils ont
+depuis été rétablis par différens édits. Dans les parlemens 
+semestres, tels que celui de Bretagne &amp; celui
+de Metz, il a été créé un second <i>garde-des-sceaux</i>, pour
+servir l&#39;un &amp; l&#39;autre par semestre ; ce qui a été étendu
+à toutes les chancelleries près des cours qui sont semestres,
+par un édit du mois de Juin 1715.
+</p>
+<p>
+En quelques endroits ces offices furent unis à un
+office de conseiller de la cour près de laquelle est établie la chancellerie, ou ne peuvent être possédées
+que par un conseiller.
+</p>
+<p>
+Par exemple, la déclaration du roi du 20 Ianvier
+1704, ordonna que l&#39;office de <i>garde-scel</i> du conseil
+supérieur d&#39;Alsace seroit possédé par un conseiller de
+ce conseil.
+</p>
+<p>
+L&#39;édit du mois d&#39;Octobre suivant supprima les titres 
+&amp; fonctions des <i>gardes-scels des chancelleries</i>, unis
+aux offices des conseillers des cours supérieures, &amp;
+créa un office de <i>garde scel</i> en chacune des chancelleries 
+établies près desdites cours.
+<pb n="7:508" facs="V7/ENC_7-508.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+La déclaration du 31 Mars 1705 ordonna que les
+sceaux de ces chancelleries près les cours, seroient
+remis aux officiers nommés par M. le chancelier, jusqu&#39;à ce que les offices de <i>gardes-scels</i> créés par édit
+du mois d&#39;Octobre 1704, fussent remplis.
+</p>
+<p>
+Dans quelques villes où il y a deux chancelleries,
+une près le parlement &amp; une autre près la cour des
+aides, comme à Rouen &amp; à Bordeaux, il y a ordinairement 
+un <i>garde des sceaux</i> en chaque chancellerie.
+Cependant l&#39;édit du mois de Juin 1704 a attribué
+au <i>garde-scel</i> de la chancellerie près le parlement de
+Roüen, les fonctions de <i>garde-scel</i> de celle près la
+cour des aides de la même ville, &amp; a desuni cet office
+de <i>garde-scel</i> de la chancellerie près ladite cour des
+aides, de l&#39;office de conseiller en icelle.
+</p>
+<p>
+Quand un maître des requêtes arrive dans une
+ville où il y a chancellerie, le <i>garde des sceaux</i> est
+tenu de lui porter les sceaux ; &amp; l&#39;audiencier, contrôleur,
+ou commis, la clé.
+</p>
+<p>
+Le maître des requêtes ou le <i>garde des sceaux</i> qui
+tient le sceau, ne peut sceller que les lettres qui s&#39;expédient 
+ordinairement dans ces chancelleries ; ils ne
+peuvent sceller aucunes rémissions, si ce n&#39;est pour
+homicides involontaires, &amp; pour ceux qui sont commis 
+dans une légitime défense de la vie, &amp; quand
+l&#39;impétrant aura couru risque de la perdre. <i>Voyez</i>
+<sc><ref target="head:Chancelleries près les Cours" type="search">Chancelleries près les Cours</ref></sc>
+</p>
+<p>
+Le <i>garde des sceaux</i> est chargé de tenir la main au
+sceau &amp; à la taxe des lettres, &amp; de pourvoir aux
+contestations qui peuvent survenir pendant la tenue
+du sceau, ou à l&#39;occasion d&#39;icelui : il peut rendre en
+cette matiere des ordonnances &amp; jugemens, sauf
+l&#39;appel devant M. le chancelier ou devant M. le <i>garde
+des sceaux</i> de France, lorsqu&#39;il y en a un.
+</p>
+<p>
+L&#39;édit du mois de Juin 1715 attribue aux <i>gardes
+des sceaux des chancelleries près les cours</i>, la noblesse
+au premier degré, droit de <i>committimus</i>, exemption
+de logement de gens de guerre, tutele, curatelle,
+guet &amp; garde, &amp; de droits seigneuriaux dans la mouvance 
+du roi. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

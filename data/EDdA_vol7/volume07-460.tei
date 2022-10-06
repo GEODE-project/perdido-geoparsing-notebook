@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27914" id="49:108:2" vol="7">
+<index type="head" value="Fougere" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Agriculture." />
+<index type="normclass" value="Agriculture" />
+<index type="englishclass" value="Agriculture" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fougere</head>
+<p>
+<sc>Fougere</sc>, (<i>Agriculture.</i>) la <i>fougere femelle</i> commune 
+est pour les laboureurs une mauvaise herbe,
+qui leur nuit beaucoup, &amp; qui est très-difficile à détruire 
+quand elle a trouvé un terrein favorable pour
+s&#39;y enraciner : car souvent elle pénetre par ses racines 
+jusqu&#39;à 8 piés de profondeur ; &amp; traçant au long
+&amp; au large, elle s&#39;éleve ensuite sur la surface de la
+terre, &amp; envoye de nouvelles <i>fougeres</i> à une grande
+distance. Quand cette plante pullule dans les pacages,
+la meilleure maniere de la faire périr est de
+faucher l&#39;herbe trois fois l&#39;année, au commencement
+du printems, en Mai, &amp; en Août. Les moutons que
+l&#39;on met dans un endroit où il y a beaucoup de <i>fougere</i>, la détruisent assez promptement ; en partie par
+leur fumier &amp; leur urine, &amp; en partie en marchant
+dessus. Mais la <i>fougere</i> qu&#39;on coupe quand elle est en
+sêve, &amp; qu&#39;on laisse ensuite pourrir sur la terre, est
+une bonne marne pour lui servir de fumier, &amp; pour
+l&#39;engraisser considérablement. Les arbres plantes
+dans des lieux où la <i>fougere</i> croît, réussissent très bien,
+même dans un sable chaud ; la raison est, que
+la <i>fougere</i> sert d&#39;abri aux racines, &amp; les conserve humides 
+&amp; fraîches. Enfin on répand de la cendre de
+<i>fougere</i> sur les terres pour les rendre plus fertiles.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

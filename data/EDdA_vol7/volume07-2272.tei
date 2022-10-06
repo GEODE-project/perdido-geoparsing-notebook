@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29726" id="53:182" vol="7">
+<index type="head" value="GLOUTON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Zoolog" />
+<index type="normclass" value="Histoire naturelle | Zoologie" />
+<index type="englishclass" value="Natural history. Zoology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GLOUTON</head>
+<p>
+GLOUTON, s. m. <i>gulo</i>, (<i>Hist. nat. Zoolog</i>) animal 
+quadrupede qui se trouve dans les grandes forêts 
+de Laponie, de Dalekarlie &amp; des autres pays
+du nord ; on lui a donné le nom de <i>glouton</i>, parce
+qu&#39;il a une très-grande voracité. Il devore les cadavres,
+&amp; s&#39;en remplit au point que son ventre paroît
+enflé: on dit qu&#39;alors il se serre entre deux arbres ou
+entre deux rochers, pour rendre par la bouche &amp;
+par l&#39;anus en même tems les alimens qu&#39;il a pris ;
+ensuite il revient à la charogne, &amp; se remplit de
+nouveau. Il tire les cadavres de la terre, ce qui fait
+croire que cet animal est l&#39;hyaene des anciens ; il est
+plus long, un peu plus haut &amp; beaucoup plus gros
+qu&#39;un loup ; il a la queue un peu plus courte ; sa
+couleur est noirâtre, les poils ne different de ceux
+du renard qu&#39;en ce qu&#39;ils sont plus fins &amp; plus doux ;
+aussi sa peau est fort chere en Suede. Olaüs-Magnus
+dit que le <i>glouton</i> est gros comme un grand chien,
+qu&#39;il a les oreilles ou la face du chat, &amp; la queue
+comme celle du renard, mais plus courte &amp; plus
+touffue. La chair du <i>glouton</i> est très-mauvaise, &amp;
+ses ongles sont fort dangereux. Charleton, <i>pag. 15</i>.
+Appoll, megal. <i>Hist. gulonis</i>. (<i>I</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

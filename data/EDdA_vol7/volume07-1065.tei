@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28519" id="50:214" vol="7">
+<index type="head" value="FULGURITE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>FULGURITE</head>
+<p>
+* FULGURITE, <i>fulguritum</i>, (<i>Hist. anc.</i>) c&#39;est
+ainsi que les Latins appelloient les lieux ou les objets
+frappés de la foudre, <i>quasi fulgure ictum, ;</i> ils étoient
+sacrés par accident : on ne pouvoit plus les employer
+à des usages profanes. On y élevoit un autel sur lequel 
+on sacrifioit des brebis de deux ans, ce qui faisoit 
+encore appeller le lieu frappé de la foudre, du
+nom de <i>bidental</i>. Les grecs plaçoient sur cet autel
+une urne ouverte dans laquelle ils renfermoient les
+restes des choses que la foudre avoit noircies ou brûlées ; 
+coûtume que les Romains adopterent : les augures 
+étoient chargés de cette fonction. Quant à la
+purification des arbres foudroyés, elle étoit commise 
+à des hommes particuliers connus sous le nom de
+<i>strufertarii</i>. On ne brûloit point à l&#39;ordinaire les corps
+de ceux qui avoient péri par la foudre. La loi de
+Numa ordonnoit qu&#39;ils fussent enterrés sur le lieu
+même de l&#39;accident : fouler aux piés leur sépulture,
+étoit sinon un crime, du-moins un acte irreligieux
+pour lequel il y avoit des expiations &amp; lustrations
+prescrites. <i>Voyez</i> <sc><ref target="head:Expiation" type="search">Expiation</ref> <i>&amp;</i> <ref target="head:Lustration" type="search">Lustration</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

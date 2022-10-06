@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29756" id="53:206" vol="7">
+<index type="head" value="GOBELINS (les)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. des Arts" />
+<index type="normclass" value="Histoire des arts" />
+<index type="englishclass" value="History of the arts" />
+<index type="generatedclass" value="Pêche" />
+<index type="pos" value="NA" />
+<head>GOBELINS</head>
+<p>
+GOBELINS (<sc>les</sc>) <i>Hist. des Arts ;</i> lieu particulier
+du faubourg S. Marceau à Paris, où coule la petite
+riviere de Bievre : ce lieu est ainsi nommé de Gilles
+<i>Gobelin</i>, teinturier en laine, qui mit en usage sous le
+regne de François I. l&#39;art de teindre la belle écarlate, appellée depuis <i>écarlate des Gobelins</i>. Jans,
+fameux tapissier de Bruges, exécuta les premieres
+tapisseries de haute &amp; basse lisse qu&#39;on y ait fabriquées : mais Louis XIV. a tait bâtir dans ce lieu un
+<pb n="7:729" facs="V7/ENC_7-729.jpeg" />
+<milestone unit="column" n="1" />
+hôtel nommé l&#39;<i>hôtel des Gobelins</i>, qui est destiné aux
+manufactures royales. On y loge aussi des artistes &amp;
+des ouvriers qui travaillent ordinairement pour le
+roi, sous la direction du sur intendant des bâtimens.
+C&#39;est-là que se font les plus belles tapisseries de
+l&#39;Europe, qu&#39;on nomme <i>tapisseries des Gobelins</i>. Les
+grands peintres du royaume sont chargés de composer 
+les cartons de ces tapisseries. <i>Voyez à l&#39;article</i>
+<sc><ref target="head:Tapisserie" type="search">Tapisserie</ref></sc>, l&#39;explication de ce travail. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

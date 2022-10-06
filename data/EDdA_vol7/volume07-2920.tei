@@ -1,0 +1,262 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30374" id="55:26" vol="7">
+<index type="head" value="GRENETIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>GRENETIER</head>
+<p>
+GRENETIER, s. m. (<i>Jurisprud.</i>) c&#39;est un officier
+royal préposé à un grenier à sel, sur lequel il a inspection 
+pour recevoir le sel que l&#39;on envoye dans ce
+grenier, juger de la bonté de ce sel, de la quantité
+qu&#39;il en faut pour les paroisses qui sont dans l&#39;arrondissement 
+de ce grenier, &amp; d&#39;en faire la distribution à
+ceux auxquels il est destiné. C&#39;est aussi un des officiers
+qui exercent la jurisdiction établie pour ce grenier à
+sel, où ils jugent en premiere instance, &amp; même dans
+certains cas en dernier ressort, les differends qui sur
+viennent par rapport au transport, distribution, &amp;
+débit du sel.
+</p>
+<p>
+Philippe de Valois ayant établi le 20 Mars 1342
+des greniers ou gabelles de sel, nomma trois maitres
+des requêtes clercs, &amp; quatre autres personnes pour
+être maîtres, souverains commissaires-conducteurs
+&amp; exécuteurs des greniers &amp; gabelles ; leur donnant
+pouvoir d&#39;établir dans tous les endroits du royaume
+où ils jugeroient à propos, des commissaires, <i>grenetiers</i>, gabelliers, clercs, &amp; autres officiers ; de leur
+faire donner des gages convenables, &amp; de les destituer 
+à leur volonté. Ainsi les <i>grenetiers</i> sont aussi anciens 
+que les greniers à sel.
+</p>
+<p>
+Ce même prince, par une ordonnance du 29 Mars
+1346 touchant le fait des eaux &amp; forêts, dit, article
+39:
+<blockquote> 
+« si nos <i>grenetiers</i> ont besoin de bois pour la reparation<gap type="hyphenpb" />
+<pb n="7:941" facs="V7/ENC_7-941.jpeg" />
+<milestone unit="column" n="1" />
+de nos châteaux, ils ne le pourront prendre 
+dans nos forêrs, fors que par la main desdits
+maîtres ».
+</blockquote>
+Il sembleroit par-là que les <i>grenetiers</i> fussent 
+alors chargés de la réparation des maisons royales,
+ce qui paroît pourtant bien étrange à leur fonction.
+Mais on soupçonne qu&#39;au lieu de <i>grenetiers</i>, il
+pouvoit y avoir <i>gruyers ;</i> ce qui est d&#39;autant plus probable,
+que cette ordonnance supprime les gruyers,
+&amp; leur ôte tout pouvoir sur les bois.
+</p>
+<p>
+Une instruction faite en 1360 par le grand-conseil
+du roi, sur la maniere de lever l&#39;aide ordonnée pour
+la délivrance du roi Jean, porte que le <i>grenetier</i> commis 
+à chaque grenier à sel payeroit aux marchands
+le sel qui se trouveroit dans le lieu, &amp; qu&#39;il le revendroit 
+au profit du roi, le quint denier de plus ; on
+voit par-là que les <i>grenetiers</i> faisoient alors l&#39;office de
+receveur des gabelles. Dans la suite ces deux fonctions 
+furent séparées ; on ne laissa au <i>grenetier</i> que
+l&#39;inspection sur le grenier à sel, &amp; la jurisdiction.
+</p>
+<p>
+Les <i>grenetiers</i> furent compris dans la défense que
+Charles V. fit le 13 Novembre 1372 à certains officiers 
+de se mêler d&#39;aucun fait de marchandise.
+</p>
+<p>
+Le 6 Décembre suivant il leur ordonna de remettre 
+tous les mois le produit de leurs greniers au receveur 
+du diocèse où leur grenier étoit établi.
+</p>
+<p>
+Les généraux des aides avoient le pouvoir de les
+nommer, &amp; à l&#39;exclusion de tous autres juges, celui
+de les punir, s&#39;ils commettoient quelque malversation 
+dans l&#39;exercice de leurs fonctions ; on envoyoit
+quelquefois dans les provinces des réformateurs pour
+punir ceux d&#39;entre ces officiers &amp; autres préposés à
+la levée des aides qui avoient malversé.
+</p>
+<p>
+L&#39;ordonnance de Charles VI. du premier Mars
+1388, autorise les thrésoriers de France à voir les
+états des <i>grenetiers</i>, receveurs, &amp; vicomtes des aides
+avant la reddition de leurs comptes, toutes les fois
+que bon leur semblera, &amp; lorsqu&#39;ils étoient mandés
+à la chambre pour aller compter, s&#39;ils ne s&#39;y rendoient 
+pas au jour qui leur étoit assigné, ils étoient
+sujets à l&#39;amende pour cause de leur desobéissance,
+suivant une autre ordonnance de la même année.
+</p>
+<p>
+Il fut aussi enjoint dans le même tems aux <i>grenetiers</i>
+d&#39;exercer leur office en personne, &amp; non par des lieutenans.
+</p>
+<p>
+On leur donna des contrôleurs pour tenir un double 
+registre de leur recette &amp; dépense.
+</p>
+<p>
+On ne voit point rien jusque-là qui fasse mention
+que les <i>grenetiers</i> fissent des actes de jurisdiction. Il y
+a néanmoins apparence qu&#39;ils en avoient déjà quelqu&#39;un. En effet, dans une instruction donnée par
+Charies VI. au mois de Juillet 1388, il est dit que
+si quelqu&#39;officier des aides est battu ou injurié, information 
+en sera faite par les élus ou <i>grenetiers</i>, ou par
+celui ou ceux qu&#39;ils y commettront ; que ceux qui seront 
+trouvés coupables, seront punis ; que si pour ce
+faire les élus ou <i>grenetiers</i>, ou leurs commis ont besoin 
+de conseil ou de force, ils appelleront les baillis
+&amp; juges du pays, &amp; le peuple, si besoin est, &amp; que
+de tels cas les élus &amp; <i>grenetiers</i> auront la connoissance,
+punition, ou correction ; ou que si bon leur semble,
+ils la renvoyeront à Paris devant les généraux
+des aides, lesquels pourront les évoquer, &amp; prendre
+connoissance, quand même les élus &amp; <i>grenetiers</i> ne
+la leur auroient pas renvoyée.
+</p>
+<p>
+Il est encore dit que toutes manieres de gens menans 
+&amp; conduisans sel non gabellé, à port d&#39;armes ou
+autrement, seroient par les <i>grenetiers</i> &amp; contrôleurs,
+&amp; par toutes justices où ils viendroient &amp; passeroient,
+pris &amp; punis de corps &amp; de biens, selon que le cas le
+requerroit ; que si les <i>grenetiers</i>, contrôleurs, ou autres 
+gens de justice demandoient aide pour le roi,
+chacun seroit tenu de leur aider, sur peine d&#39;amende
+arbitraire.
+</p>
+<p>
+Les anciennes ordonnances concernant la jurisdiction<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+des <i>grenetiers</i> &amp; contrôleurs, furent renouvellées 
+par celle de Louis XII. du 24 Juin 1500,
+qui leur attribue la connoissance de toutes causes,
+querelles, débats, rébellions, injures, outrages,
+battures, meurtres, exactions, concussions, fraudes,
+fautes, &amp; de tous excès, crimes, délits, maléfices,
+faussetés, procès, &amp; matieres procédant du fait des
+gabelles, quart de sel, fournissement des greniers à
+sel, circonstances &amp; dépendances en premiere instance,
+jusqu&#39;à condamnation &amp; exécution corporelle,
+sauf l&#39;appel aux généraux des aides, appellés depuis 
+<i>cour des aides</i>.
+</p>
+<p>
+Les commissions de <i>grenetier</i> &amp; de contrôleur furent 
+érigées par François I. en titre d&#39;office ; &amp; le sel
+devenant par la suite un objet de plus en plus important 
+pour la finance qui en revient au roi, Henri II.
+créa des <i>grenetiers</i> &amp; contrôleurs alternatifs, afin que
+pendant que les uns seroient en exercice pour la distribution 
+&amp; vente du sel, &amp; pour rendre la justice,
+les autres fissent la recherche dans les paroisses de
+l&#39;étendue de leur grenier.
+</p>
+<p>
+Ces <i>grenetiers</i> &amp; contrôleurs alternatifs furent depuis 
+supprimés en 1555, &amp; rétablis en 1572. En 1615
+on en créa de triennaux, pour exercer avec l&#39;ancien
+&amp; l&#39;alternatif, chacun de trois années l&#39;une. Il y a eu
+depuis différentes suppressions &amp; réunions de ces <i>grenetiers</i> alternatifs &amp; triennaux.
+</p>
+<p>
+Anciennement le <i>grenetier</i> étoit le premier officier
+du grenier à sel ; mais depuis la création des présidens,
+dont l&#39;époque est de 1629, il n&#39;est plus que le
+second officier du tribunal. <i>Voyez</i> Chenu, <i>des offices
+de France, tit. de la gabelle</i>, &amp; <i>aux mots</i> 
+<sc><ref target="head:Gabelles" type="search">Gabelles</ref>, <ref target="head:Grenier a Sel" type="search">Grenier a Sel</ref>, <i>&amp;</i> <ref target="head:Sel" type="search">Sel</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

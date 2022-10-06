@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29692" id="53:161" vol="7">
+<index type="head" value="GLOBE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Géométrie" />
+<index type="normclass" value="Géométrie" />
+<index type="englishclass" value="Geometry" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="NA" />
+<head>GLOBE</head>
+<p>
+GLOBE, <i>en terme de Géométrie</i>, est un corps rond
+ou sphérique, appellé plus communément <i>sphere.
+Voyez</i> <sc><ref target="head:Sphere" type="search">Sphere</ref></sc>. Au reste le mot <i>sphere</i>, entant qu&#39;il
+signifie un <i>globe</i>, ne s&#39;employe guere qu&#39;en Géométrie : dans les autres sciences, comme la Physique,
+la Méchanique, <i>&amp;c.</i> on dit <i>globe</i> plûtôt que <i>sphere</i>,
+lorsqu&#39;on veut exprimer un corps parfaitement &amp; également rond en tout sens.
+</p>
+<p>
+On regarde la terre &amp; l&#39;eau comme formant ensemble 
+un <i>globe</i> que nous appellons le <i>globe terrestre</i>,
+&amp; que les Latins ont exprimé plus proprement par
+<i>orbis terraqueus. Voyez</i> <sc><ref target="head:Terraqué" type="search">Terraqué</ref></sc>.
+</p>
+<p>
+Cette supposition ne sauroit être fort éloignée de
+la vérité: car quoique les mesures des degrés nous
+apprennent que la terre n&#39;est pas parfaitement ronde,
+cependant la figure qu&#39;elle a est assez peu éloignée de la figure sphérique, pour qu&#39;on puisse la regarder 
+comme telle. <i>Voyez</i> <sc><ref target="head:Globe" type="search">Globe</ref></sc>, (<i>Astronom. &amp;
+Géog.</i>) (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

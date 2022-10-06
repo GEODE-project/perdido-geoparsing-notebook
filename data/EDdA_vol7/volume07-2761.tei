@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30215" id="54:89" vol="7">
+<index type="head" value="GRAVELINES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GRAVELINES</head>
+<p>
+GRAVELINES, (<i>Géogr.</i>) les Flamands l&#39;appellent 
+<i>Grevelingen</i>, en latin moderne <i>Gravaringa</i>, ville
+forte des Pays-Bas dans la Flandre françoise, sur la
+frontiere de l&#39;Artois. Théodoric comte de Flandres
+la fit bâtir vers l&#39;an 1160, &amp; la nomma <i>Nieuport.
+Voyez</i> de Valois, <i>notit. gall. page 266</i>. Les fortifications<gap type="hyphenpb" />
+<pb n="7:866" facs="V7/ENC_7-866.jpeg" />
+<milestone unit="column" n="1" />
+sont du chevalier de Ville &amp; du maréchal de
+Vauban. Les Anglois prirent <i>Gravelines</i> en 1383, &amp;
+les François en 1644: l&#39;archiduc Léopold la reprit
+en 1652, &amp; le maréchal de la Ferté en 1658. Elle
+fut cédée à la France par le traité des Pyrénées ; elle
+est dans un terrein marécageux sur l&#39;Aa, près de la
+mer, à 5 lieues O. de Calais, 6 S. O. de Dunkerque, 16 S. O. de Gand. <i>Long.</i> suivant Cassini, <i>15</i><sup>d</sup>.
+<i>39&#39;. 5&#39;&#39;. latit. 50</i><sup>d</sup>. <i>58&#39;. 40&#39;&#39;</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

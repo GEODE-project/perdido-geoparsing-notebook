@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28144" id="50:36:2" vol="7">
+<index type="head" value="Fraisoir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Luth." />
+<index type="normclass" value="Lutherie" />
+<index type="englishclass" value="Stringed instrument-making" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="NA" />
+<head>Fraisoir</head>
+<p>
+<sc>* Fraisoir</sc>, (<i>Luth.</i>) c&#39;est le même que celui des
+autres ouvriers en fer ; il sert aussi à élargir l&#39;entrée
+d&#39;un trou où l&#39;on veut noyer un clou, une vis. Il y en
+a de quartes, d&#39;autres à un plus grand nombre de
+<milestone unit="column" n="2" />
+pans, de cannelés, de taillés en lime, <i>&amp;c.</i> celui qui
+se termine en cône, soit qu&#39;il soit à facettes, soit qu&#39;il
+ait été taillé en lime, s&#39;appelle <i>fraisoir à têtes perdues ;</i>
+il est monté sur une boîte, comme le foret ; &amp; l&#39;on
+s&#39;en sert à l&#39;arson &amp; à la palette, ainsi que du foret.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Foret" type="search">Foret</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29525" id="53:35" vol="7">
+<index type="head" value="GHIABER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="s.m." />
+<head>GHIABER</head>
+<p>
+GHIABER, s. m. (<i>Hist. mod.</i>) nom que l&#39;on donne
+en Perse aux idolatres de ce pays, qui ont retenu
+l&#39;ancienne religion de ceux qui adoroient le feu. Ils
+y sont en grand nombre, &amp; occupent un des fauxbourgs 
+d&#39;Ispahan tout entier. On les appelle aussi
+<i>atech perest</i>, c&#39;est-à-dire <i>adorateurs du feu</i>. Il y a un
+proverbe persan qui dit : <i>quoiqu&#39;un ghiaber alume &amp;
+adore le feu cent ans durant, s&#39;il y tombe une fois, il ne
+laisse pas que de se brûler</i>. D&#39;Herbelot, <i>biblioth. orient</i>.
+Ricaut, <i>de l&#39;Emp. ottom</i>.
+</p>
+<p>
+Ces <i>Ghiabers</i> paroissent être les mêmes que ceux
+que nous nommons <i>Gaures</i> ou <i>Guebres. Voyez</i> <sc><ref target="head:Guebres" type="search">Guebres</ref> <i>&amp;</i> <ref target="head:Gaures" type="search">Gaures</ref></sc>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

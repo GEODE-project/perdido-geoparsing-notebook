@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27764" id="49:46:6" vol="7">
+<index type="head" value="Forme exécutoire" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Forme exécutoire</head>
+<p>
+<sc>Forme exécutoire</sc>, est celle qui donne aux
+actes l&#39;exécution parée, <i>paratam executionem</i>, c&#39;est-à-dire le droit de les mettre directement à exécution
+par voie de contrainte, sans être obligé d&#39;obtenir
+pour cet effet aucun jugement ni commission.
+</p>
+<p>
+Les jugemens &amp; les contrats sont les seuls actes
+que l&#39;on mette en <i>forme exécutoire</i>.
+</p>
+<p>
+Cette <i>forme</i> consiste à être expédiés en parchemin,
+&amp; intitulés du nom du juge ; &amp; si c&#39;est un arrêt, du
+nom du roi. Cette expédition est ce que l&#39;on appelle
+la <i>grosse d&#39;un acte</i>.
+</p>
+<p>
+L&#39;usage n&#39;est pourtant pas par-tout uniforme à ce
+sujet ; &amp; il y a des pays où la <i>forme exécutoire</i> est différente : par exemple, dans quelques endroits on ne
+met point les sentences en grosse ni en parchemin,
+c&#39;est la premiere expédition en papier qui est exécutoire.
+Dans d&#39;autres les grosses des contrats sont
+intitulées du nom du roi, comme les arrêts.
+</p>
+<p>
+Mettre un acte en <i>forme</i>, c&#39;est le mettre en <i>forme
+exécutoire</i>.
+</p>
+<p>
+Quand les actes sont revêtus de cette <i>forme</i>, on
+peut directement en vertu de ces actes faire un commandement,
+&amp; ensuite saisir &amp; exécuter, saisir réellement,
+même procéder par emprisonnement, si
+c&#39;est un cas où la contrainte par corps ait lieu. <i>Voy.</i>
+<sc><ref target="head:Exécution parée" type="search">Exécution parée</ref>, <ref target="head:Exécutoire," type="search">Exécutoire,</ref> <i>&amp;</i> <ref target="head:Grosse" type="search">Grosse</ref></sc>
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

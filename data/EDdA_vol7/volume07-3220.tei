@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30674" id="55:233:1" vol="7">
+<index type="head" value="Guides" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Guides</head>
+<p>
+<sc>Guides</sc>, (<i>Art milit.</i>) ce sont à la guerre, des gens
+du pays choisis pour conduire l&#39;armée &amp; les détachemens 
+dans la marche.
+</p>
+<p>
+On forme dans les armées des compagnies de <i>guides ;</i> elles sont commandées par un officier auquel on
+donne le nom de <i>capitaine des guides</i>.
+<blockquote> 
+« Les <i>guides</i>, dit
+Montecuculli, sont dans une armée comme les
+yeux dans le corps ; on doit les bien garder, se les
+attacher par la récompense, par l&#39;espérance, &amp;
+par la crainte du châtiment ».
+</blockquote>
+Il observe qu&#39;on
+leur fait quelquefois donner des ôtages pour gages
+de leur fidélité. L&#39;emploi de capitaine des <i>guides</i> demande 
+beaucoup d&#39;habileté &amp; de pénétration : cet
+officier doit absolument savoir la langue du pays où
+l&#39;on fait la guerre, &amp; ne rien négliger pour se procurer 
+des <i>guides</i> sûrs &amp; intelligens. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

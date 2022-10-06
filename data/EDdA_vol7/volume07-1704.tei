@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29158" id="52:7:1" vol="7">
+<index type="head" value="Garou, Thymélée de Montpellier, Trentanel" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. médic." />
+<index type="normclass" value="Matière médicale" />
+<index type="englishclass" value="Materia medica" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Garou, Thymélée de Montpellier, Trentanel</head>
+<p>
+<sc>Garou, Thymélée de Montpellier, Trentanel</sc>, (<i>Mat. médie.</i>) les anciens medecins se servoient,
+pour purger les sérosités, des feuilles de cette
+plante &amp; de ses fruits, qui étoient connus sous le
+nom de <i>granum chidium</i>, selon plusieurs auteurs ; car
+d&#39;autres pensent que ces grains étoient les baies de
+lauréole. <i>Voyez</i> <sc><ref target="head:Lauréole" type="search">Lauréole</ref></sc>.
+</p>
+<p>
+Ce purgatif est si violent, qu&#39;on a fait sagement de
+le bannir de l&#39;usage de la Medecine, du-moins pour
+l&#39;intérieur. Ce seroit un fort mauvais raisonnement,
+&amp; dont on se trouveroit très-mal ; de se rassûrer contre 
+le danger que nous annonçons ici, parce qu&#39;on
+sauroit que les perdrix &amp; quantité d&#39;autres oiseaux
+sont très friands de ce fruit, &amp; qu&#39;ils n&#39;en sont point
+incommodés : l&#39;analogie des animaux ne prouve rien
+sur le fait des poisons. <i>Voyez</i> <sc><ref target="head:Poison" type="search">Poison</ref></sc>.
+</p>
+<p>
+La racine de cette plante prise intérieurement, est
+un poison mortel, selon Camérarius ; on s&#39;en sert
+quelquefois extérieurement, lorsqu&#39;elle est seche,
+pour faire couler les sérosités dans les migraines &amp;
+dans les fluxions sur les yeux. Dans ces cas, on perce
+l&#39;oreille, &amp; on y passe un petit morceau de cette racine ; 
+mais l&#39;emplâtre épipastique ordinaire préparé
+avec les cantharides, appliqué derriere l&#39;oreille ou
+à la nuque du cou, fournit un secours de la même
+classe, plus efficace &amp; moins dangereux. <i>Voyez</i> <sc><ref target="head:Vésicatoire" type="search">Vésicatoire</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

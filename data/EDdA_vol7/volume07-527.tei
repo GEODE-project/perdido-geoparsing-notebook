@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27981" id="49:133:1" vol="7">
+<index type="head" value="Fourché" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Rubanier" />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Rubanier" />
+<index type="pos" value="s.m." />
+<head>Fourche</head>
+<p>
+<sc>* Fourche</sc>, s. m. (<i>Rubanier.</i>) se dit d&#39;un patron
+symmétrique dont les deux côtés se ressemblent si
+parfaitement en tout, qu&#39;on est obligé de n&#39;en passer
+que la moitié. Supposons qu&#39;un patron soit de 80 rames 
+de large, on n&#39;en passera que quarante, parce
+que cette quarantieme s&#39;attachera à deux lissettes ;
+de façon que ces deux lissettes étant levées par la
+même rame, doivent nécessairement produire le même 
+effet que si toutes les rames étoient passées. Un
+exemple éclaircira ceci. Il est bien sûr que la premiere 
+rame du patron levant &amp; sa propre lissette, &amp;
+la quatre-vingtieme lissette que devroit lever la quatre-vingtieme rame, l&#39;effet de ces deux lissettes doit
+produire la même chose que si elles étoient levées
+chacune par leur propre rame : ainsi des autres. On
+voit que la quarantieme rame portera avec sa lissette,
+la lissette de la quarante-unieme rame, en rétrogradant 
+toûjours. Ces lissettes ainsi attachées doubles à
+chaque rame passée, sont mises sur les différentes
+brochettes d&#39;un rateau, qui est attaché lui-même au
+porte-rames de devant. Ce double emploi est d&#39;une
+grande ressource, en ce qu&#39;il épargne du tems pour le
+passage des rames, &amp; fait éviter l&#39;embarras que toutes 
+les rames produiroient dans les hautes lisses, si
+elles y étoient toutes passées.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

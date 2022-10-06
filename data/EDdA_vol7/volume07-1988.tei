@@ -1,0 +1,205 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29442" id="52:188" vol="7">
+<index type="head" value="GÉORGIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GÉORGIE</head>
+<p>
+GÉORGIE, (<i>Géog.</i>) pays d&#39;Asie qui fait partie
+de la Perse entre la mer Noire &amp; la mer Caspienne.
+</p>
+<p>
+La <i>Géorgie</i> est bornée au nord par la Circassie,
+à l&#39;orient par le Daghestan &amp; le Schirvan, au midi
+par l&#39;Arménie, &amp; au couchant par la mer Noire.
+Elle comprend la Colchide &amp; l&#39;Ibérie des anciens,
+tandis que le Daghestan &amp; le Schirvan forment à-peu-près l&#39;ancienne Albanie.
+</p>
+<p>
+Elle est divisée par les montagnes en deux parties:<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+l&#39;une orientale où sont les royaumes de Caket
+au nord, &amp; de Carduel au midi ; l&#39;autre occidentale 
+qui comprend au nord les Abcasses, la Mingrélie, l&#39;Imirete &amp; le Guriel ; tout ce pays est nommé
+<i>Gurgistan</i> par les orientaux. La riviere de Kur le traverse,
+&amp; elle porte bateau, ce qui n&#39;est pas commun 
+aux rivieres de Perse. Téfslis capitale de la <i>Georgie</i>, est au 83<sup>d</sup>. de <i>long</i>. &amp; au 43<sup>d</sup>. de <i>lat</i>.
+</p>
+<p>
+Cette vaste région pour la possession ou la protection 
+de laquelle les Persans &amp; les Turcs ont si
+long-tems combattu, &amp; qui est enfin restée aux premiers,
+fait un état des plus fertiles de l&#39;Asie. Il n&#39;en
+est guere de plus abondant, ni où le bétail, le gibier,
+le poisson, la volaille, les fruits, les vins soient
+plus délicieux.
+</p>
+<p>
+Les vins du pays, sur-tout ceux de Téflis, se transportent 
+en Arménie, en Médie &amp; jusqu&#39;à Ispahan,
+où ils sont réservés pour la table du Sophi.
+</p>
+<p>
+La soie s&#39;y recueille en quantité; mais les Géorgiens qui la savent mal apprêter, &amp; qui n&#39;ont guere
+de manufactures chez eux pour l&#39;employer, la portent 
+chez leurs voisins, &amp; en font un grand négoce
+en plusieurs endroits de Turquie, sur-tout à Arzeron
+&amp; aux environs.
+</p>
+<p>
+Les seigneurs &amp; les peres étant maîtres en <i>Géorgie</i> de la liberté &amp; de la vie, ceux-ci de leurs enfans,
+&amp; ceux-là de leurs vassaux ; le commerce des esclaves 
+y est très-considérable, &amp; il sort chaque année
+plusieurs milliers de ces malheureux de l&#39;un &amp; de
+l&#39;autre sexe avant l&#39;âge de puberté, lesquels pour
+ainsi dire, se partagent entre les Turcs &amp; les Persans qui en remplissent leurs 
+serrails.
+</p>
+<p>
+C&#39;est particulierement parmi les jeunes filles de
+cette nation (dont le sang est si beau qu&#39;on n&#39;y voit
+aucun visage qui soit laid), que les rois &amp; les seigneurs
+de Perse choississent ce grand nombre de concubines,
+dont les orientaux se font honneur. Il y a même
+des défenses très-expresses d&#39;en trafiquer ailleurs
+qu&#39;on Perse ; les filles <i>georgiennes</i> étant, si l&#39;on peut
+parler ainsi, regardées comme une marchandise de
+contrebande qu&#39;il n&#39;est pas permis de faire sortir hors
+du pays.
+</p>
+<p>
+Il faut remarquer que de tout tems on a fait ce
+commerce ; on y vendoit autrefois les beaux garçons
+aux Grecs. Ils sont, dit Strabon, plus grands &amp; plus
+beaux que les autres hommes, &amp; les géorgiennes
+plus grandes &amp; plus belles que les autres femmes.
+Le sang de <i>Géorgie</i> est le plus beau du monde, dit
+Chardin : la nature, ajoûte-t-il, a répandu sur la plûpart 
+des femmes des graces qu&#39;on ne voit point ailleurs ; 
+&amp; l&#39;on ne trouve en aucun lieu ni de plus jolis 
+visages, ni de plus fines tailles que celles des géorgiennes ; 
+mais, continue-t-il, leur impudicité est
+excessive.
+</p>
+<p>
+On voit en <i>Géorgie</i> des Grecs, des Juifs, des
+Turcs, des Persans, des Indiens, des Tartares &amp;
+des Européens. Les Arméniens y sont presqu&#39;en aussi
+grand nombre que les naturels même. Souverainement méprisés ils remplissent les petites charges,
+font la plus considérable partie du commerce de
+<i>Géorgie</i>, &amp; s&#39;enrichissent aux dépens du pays.
+</p>
+<p>
+Quoique les moeurs &amp; les coûtumes des <i>Géorgiens</i> soient un mélange de celles de la plûpart des
+peuples qui les environnent, ils ont en particulier
+cet étrange usage, que les gens de qualité y exercent
+l&#39;emploi de bourreau ; bien loin qu&#39;il soit réputé infame 
+en <i>Géorgie</i>, comme dans le reste du monde,
+c&#39;est un titre glorieux pour les familles.
+</p>
+<p>
+Les maisons des grands &amp; les lieux publics sont construits 
+sur le modcle des édifices de Perse, mais la
+plûpart des églises sont bâties sur le haut des montagnes,
+en des lieux presqu&#39;inaccessibles ; on les salue 
+de loin, &amp; on n&#39;y va presque jamais : cependant
+il y a plusieurs évêques en <i>Géorgie</i>, un archevêque,
+<pb n="7:641" facs="V7/ENC_7-641.jpeg" />
+<milestone unit="column" n="1" />
+un patriarche ; &amp; c&#39;est le viceroi, autrement dit <i>gorel</i>, nommé par le sophi, &amp; toûjours mahométan de
+religion, qui remplit les prélatures.
+</p>
+<p>
+Voilà le précis de ce que j&#39;ai lû de plus curieux
+sur la <i>Géorgie</i> dans Chardin, Tavernier, Thévenot,
+Tournefort &amp; la Motraye, &amp; ce précis m&#39;a paru digne 
+d&#39;avoir ici sa place. (<i>D J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

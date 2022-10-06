@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29431" id="52:182" vol="7">
+<index type="head" value="GÉOMÉTRAL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Opt." />
+<index type="normclass" value="Optique" />
+<index type="englishclass" value="Optics" />
+<index type="generatedclass" value="Perspective" />
+<index type="pos" value="adject" />
+<head>GÉOMÉTRAL</head>
+<p>
+GÉOMÉTRAL, adj. (<i>Opt.</i>) On appelle ainsi la représentation 
+d&#39;un objet faite de maniere que les parties 
+de cet objet y ayent entre elles le même rapport
+qu&#39;elles ont réellement dans l&#39;objet tel qu&#39;il est ; à la
+différence des représentations en <i>perspective</i>, où les parties 
+de l&#39;objet sont représentées dans le tableau avec
+les proportions que la perspective leur donne. <i>Voyez</i>
+<sc><ref target="head:Perspective" type="search">Perspective</ref></sc>. Il est clair par cette définition qu&#39;il
+n&#39;est possible de représenter <i>géométralement</i> que des
+<pb n="7:627" facs="V7/ENC_7-627.jpeg" />
+<milestone unit="column" n="1" />
+surfaces planes, comme la base ou le frontispice d&#39;un
+bâtiment ; &amp; cette représentation retombe dans le
+cas des projections orthographiques. <i>Voyez</i> <sc><ref target="head:Plan géométral" type="search">Plan
+géométral</ref></sc>, <i>au mot</i> 
+<sc><ref target="head:Plan" type="search">Plan</ref>, <ref target="head:Orthographique" type="search">Orthographique</ref>, <i>&amp;</i> <ref target="head:Projection" type="search">Projection</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

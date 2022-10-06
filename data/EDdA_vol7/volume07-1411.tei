@@ -1,0 +1,134 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28865" id="51:145" vol="7">
+<index type="head" value="GALET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat." />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GALET</head>
+<p>
+GALET, s. m. (<i>Hist. nat.</i>) c&#39;est un caillou de mer
+&amp; de riviere, ordinairement rond ou plat, &amp; fort
+poli, qu&#39;on trouve sur la greve, sur-tout dans les
+ports &amp; havres, &amp; souvent en si grande abondance,
+qu&#39;ils les gâtent &amp; les comblent, à cause que la mer
+les pousse d&#39;un côté &amp; le courant de l&#39;autre.
+</p>
+<p>
+Il est aisé de comprendre que la figure &amp; le poli
+des <i>galets</i> leur viennent d&#39;avoir été long-tems battus,
+agites par les flots, &amp; usés les uns contre les autres ;
+mais il s&#39;en trouve aussi dans les terres, les vallées,
+&amp; les montagnes. Un physicien assûre que les montagnes 
+de Bonneil, de Broye, &amp; du Quesnoy, situées
+a environ 18 lieues de la mer, sont remplies de ces
+sortes de cailloux. Il s&#39;en trouve aussi une très-grande quantite en Dauphiné, <i>&amp;c.</i>
+</p>
+<p>
+Parmi les <i>galets</i> qu&#39;on rencontre dans les terres,
+il s&#39;en voit plusieurs qui ont une surface inégale, irreguliere,
+&amp; hérissée de pointes ; &amp; de plus cette surface 
+est une espece d&#39;écorce, différente du reste de
+leur substance. Il paroit que c&#39;est-là leur état naturel,
+ear une cause étrangere ne peut guere les avoir revêtus 
+de cette écorce, au contraire elle peut les en
+avoir dépouillés ; &amp; cette cause pourroit être un
+frottement long &amp; violent. Il est d&#39;ailleurs probable
+que ces sortes de <i>galets</i> sont de la même espece que
+les cailloux qui ont une pareille écorce, assez épaisse, &amp; toute de craie ; mais nous n&#39;avons garde d&#39;insister 
+sur de telles conjectures, quoique rapportées
+dans l&#39;<i>histoire de l&#39;académie des Sciences, année 1707</i>.
+</p>
+<p>
+On pretend que parmi les <i>galets</i> que la mer roule
+sur les côtes de Normandie, il y en a quelques-uns,
+dans lesquels on trouve d&#39;assez beaux crystaux de
+différentes couleurs. Cet article de Lithologie n&#39;est
+pas encore épuisé. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

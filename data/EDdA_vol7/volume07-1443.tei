@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28897" id="51:172" vol="7">
+<index type="head" value="GALLON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Comm." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="s.m." />
+<head>GALLON</head>
+<p>
+GALLON, s. m. (<i>Comm.</i>) mesure des liquides en
+Angleterre ; le <i>gallon</i> contient huit pintes de Londres, ce qui revient à quatre pintes mesure de Paris:
+<i>63 gallons</i> font le muid ou la barrique ; 126 la pipe,
+&amp; 252 le tonneau. Les <i>gallons</i> pour le vin sont d&#39;un
+cinquieme plus petits que ceux qui servent à l&#39;aile
+ou à la bierre ; ensorte que quatre <i>gallons</i> de l&#39;une
+ou de l&#39;autre de ces liqueurs en font cinq de vin. Les
+<i>63 gallons</i> anglois font douze steckannes hollandoises ; 
+l&#39;huile se vend aussi au <i>gallon</i> à Londres, le
+<i>gallon</i> pesant environ sept livres &amp; demie. Dans la
+province de Cornoüailles, c&#39;est au <i>gallon</i> que les
+Etamiers mesurent leur étain noir, c&#39;est-à-dire la
+pierre de mine réduite en poudre. Le <i>gallon</i> en cette
+occasion est une espece de boisseau : un pié cube
+d&#39;étain noir fait deux <i>gallons</i>. Cette sorte de <i>gallon</i>
+dont on se sert pour les grains, graines, légumes,
+&amp; autres corps solides, est plus grand que le <i>gallon</i>
+de vin, mais plus petit que celui de l&#39;aile &amp; de la
+bierre. Ce dont il surpasse le premier est comme de
+33 à 27, &amp; ce qu&#39;il a de moins que le second, est
+comme de 33 à 35; il pese environ huit livres poids
+de troy. Deux de ces <i>gallons</i> font un peck ou picotin ; 
+quatre pecks font un boisseau, quatre boisseaux 
+un comb ou carnok, deux carnoks une quarte,
+&amp; dix quartes un lest qui tient cinq mille cent-vingt 
+pintes, ou autant de livres pesant poids de
+troy. M. Chambers remarque sur la continence
+des différentes sortes de <i>gallons</i>, que le <i>gallon</i> de vin
+contient 231 pouces cubiques, &amp; huit livres aver
+<pb n="7:452" facs="V7/ENC_7-452.jpeg" />
+<milestone unit="column" n="1" />
+du poids d&#39;eau pure : que le <i>gallon</i> de bierre &amp; d&#39;aile
+contient 282 pouces cubiques, &amp; que le <i>gallon</i> de
+grain &amp; de farine contient 272 pouces cubiques, &amp;
+neuf livres treize onces d&#39;eau commune.
+</p>
+<p>
+<i>Gallon</i> se dit encore en quelques lieux de France,
+mais particulierement en Normandie, du côté de
+Caen, d&#39;une mesure des liqueurs contenant deux
+pots ou la moitié d&#39;un septier. Ce <i>gallon</i> n&#39;est guere
+différent de celui d&#39;Angleterre, &amp; il y a même de
+l&#39;apparence qu&#39;il y a passé de Normandie avec Guillaume le Conquérant. <i>Voyez l&#39;article précédent. Gallon</i>, boîte ou petit boisseau qui sert en Touraine
+pour mettre les prunes seches qu&#39;on appelle <i>pruneaux</i>. On n&#39;y met ordinairement que ceux qui sont
+les plus beaux, &amp; qui sont l&#39;élite de ses fruits secs.
+<i>Voyez</i> <sc><ref target="head:Pruneau" type="search">Pruneau</ref></sc>. <i>Gallon</i>. Les Epiciers appellent
+aussi <i>gallons</i>, certaines boîtes rondes &amp; peintes de
+diverses couleurs qui viennent de Flandres, dans
+lesquelles ils enferment plusieurs sortes de marchandises,
+sur-tout les drogues &amp; épiceries. Chaque <i>gallon</i> a un cartouche ou etiquette, qui marque en gros
+caracteres la drogue ou marchandises qui y sont.
+<i>Dictionn. de Commerce &amp; de Chambers</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

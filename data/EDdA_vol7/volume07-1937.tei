@@ -1,0 +1,472 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29391" id="52:161:5" vol="7">
+<index type="head" value="Gens du Roi" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gens du Roi</head>
+<p>
+<sc>Gens du Roi</sc>, (<i>Jurisprud.</i>) est un terme générique 
+qui dans une signification étendue comprend tous
+les officiers du roi, soit de judicature, de finance, ou
+même d&#39;épée.
+</p>
+<p>
+Par exemple, le roi en parlant des officiers de son
+parlement, les qualifie de <i>nos gens tenant la cour de
+Parlement</i>.
+</p>
+<p>
+Dans une ordonnance de Philippe de Valois, du
+mois de Juin 1338, on voit que ce prince donne à
+des trésoriers des troupes les titre de <i>gentes nostroe</i>.
+</p>
+<p>
+Charles VI. dans des lettres du mois de Juin 1394,
+en parlant des juges royaux de Provins, les appelle les
+<i>gens du roi ;</i> &amp; dans d&#39;autres lettres du mois de Janvier 1395, il désigne même par les termes de <i>gentes regias</i>, les officiers de la sénéchaussée de Carcassonne.
+</p>
+<p>
+Ces exemples suffisent pour donner une idée des
+différentes significations de ces termes, <i>gens du roi</i>.
+</p>
+<p>
+Ce titre paroît venir du latin <i>agentes nostri</i>, qui
+étoit le titre que les empereurs, &amp; après eux nos
+rois, donnoient aux ducs &amp; aux comtes, dont l&#39;office 
+s&#39;appelloit <i>agere comitatum</i>.
+</p>
+<p>
+Du mot <i>agentes</i> on a fait par abbréviation <i>gentes
+regis</i>, &amp; en françois <i>gens du roi</i>.
+</p>
+<p>
+Dans l&#39;usage présent &amp; le plus ordinaire, on n&#39;entend 
+communément par les termes de <i>gens du roi</i>,
+que ceux qui sont chargés des intérêts du roi &amp; du
+ministere public dans un siége royal, tels que les
+<milestone unit="column" n="2" />
+avocats &amp; procureurs généraux dans les cours souveraines,
+les avocats &amp; procureurs du roi dans les
+bailliages &amp; sénéchaussées, &amp; autres siéges royaux.
+</p>
+<p>
+Les substituts des procureurs généraux &amp; des procureurs 
+du roi, sont aussi compris sous le terme de
+<i>gens du roi</i>, comme les substituant en certaines occasions.
+</p>
+<p>
+La fonction des <i>gens du roi</i> n&#39;est pas seulement de
+défendre les intérêts du roi, mais aussi de veiller à
+tout ce qui intéresse l&#39;église, les hôpitaux, les communautés,
+les mineurs, &amp; en général tout ce qui concerne 
+la police &amp; le public ; c&#39;est pourquoi on les désigne 
+quelquefois sous le titre de <i>ministere public</i>, lequel 
+néanmoins n&#39;est pas propre aux <i>gens du roi</i>, leur
+étant commun avec les avocats &amp; procureurs fiscaux,
+lesquels dans les justices seigneuriales, défendent 
+les intérêts du seigneur comme les <i>gens du roi</i>
+défendent ceux du roi dans les jurisdictions royales,
+&amp; ont au surplus les mêmes fonctions que les <i>gens du
+roi</i> pour ce qui concerne l&#39;église, les hôpitaux, les
+communautés, les mineurs, la police, &amp; le public.
+</p>
+<p>
+A la rentrée des tribunaux royaux, les <i>gens du roi</i>
+font ordinairement une harangue ; ce sont eux aussi
+qui sont chargés de faire le discours des mercuriales.
+</p>
+<p>
+Ils portent la parole aux audiences dans toutes les
+causes tant civiles que criminelles, dans lesquelles
+le roi, l&#39;église, ou le public, sont intéressés : dans
+quelques siéges il est aussi d&#39;usage de leur communiquer 
+les causes des mineurs.
+</p>
+<p>
+Ils donnent des conclusions par écrit dans toutes
+les affaires civiles de même nature qui sont appointées,
+&amp; dans toutes les affaires criminelles.
+</p>
+<p>
+Ils font aussi d&#39;office des plaintes &amp; requisitions,
+lorsque le cas y échet.
+</p>
+<p>
+Les fonctions que les <i>gens du roi</i> exercent étoient
+remplies chez les Romains par différens officiers.
+</p>
+<p>
+Il y avoit d&#39;abord dans la ville deux magistrats,
+l&#39;un appellé <i>comes sacrarum largitionum ;</i> l&#39;autre appellé 
+<i>comes rei privatae</i>, qui étoient chacun dans
+leur district, comme les procureurs généraux de l&#39;empereur.
+</p>
+<p>
+Les lois romaines font aussi mention qu&#39;il y avoit
+un avocat du fisc dans le tribunal souverain du prefet 
+du prétoire, qui étoit le premier magistrat de l&#39;empire : dans la suite, les affaires s&#39;étant multipliées,
+on lui donna un collegue.
+</p>
+<p>
+Il y avoit aussi un avocat du fisc auprès du premier 
+magistrat de chaque province.
+</p>
+<p>
+La fonction de ces avocats du fisc étoit d&#39;intervenir 
+dans toutes les causes où il s&#39;agissoit des revenus
+de l&#39;empereur, de son thrésor, de son domaine, &amp;
+autres affaires semblables ; les juges ne les pouvoient
+décider sans avoir auparavant oüi l&#39;avocat du fisc:
+celui-ci étoit tellement obligé de veiller aux intérêts
+du prince, que si quelque droit se perdoit par sa
+faute, il en étoit responsable.
+</p>
+<p>
+Il y avoit aussi dans chacune des principales villes
+de l&#39;empire un officier appellé <i>procurator Caesaris ;</i> ses
+fonctions consistoient non-seulement à veiller à la
+conservation du domaine &amp; des revenus du prince ;
+mais il étoit aussi juge des causes qui s&#39;élevoient à ce
+sujet entre le prince &amp; ses sujets, à l&#39;exception des
+causes criminelles &amp; des questions d&#39;état de personnes,
+dont il ne connoissoit point, à-moins que le pré
+sident ne lui en donnât la commission.
+</p>
+<p>
+Les avocats du fisc ni les procureurs du prince
+n&#39;étoient pas chargés de la protection des veuves,
+des orphelins, &amp; des pauvres ; on nommoit d&#39;office
+à ces sortes de personnes dans les occasions un avocat 
+qui prenoit leur défense ; &amp; lorsque c&#39;étoient des
+pauvres, l&#39;avocat étoit payé aux dépens du public.
+</p>
+<p>
+Le même ordre étoit établi dans les Gaules par les
+Romains, lorsque nos rois en firent la conquête : mais
+suivant les capitulaires, il paroît qu&#39;il y eut quelque
+<pb n="7:601" facs="V7/ENC_7-601.jpeg" />
+<milestone unit="column" n="1" />
+changement. En effet, il n&#39;y est point fait mention
+qu&#39;il y eût alors des avocats du roi ou du fisc en titre
+d&#39;office ; il paroit que tous les avocats en faisoient
+les fonctions. Lorsque les églises &amp; personnes ecclésiastiques 
+avoient besoin d&#39;un defenseur, le roi leur
+donnoit un de ces avocats.
+</p>
+<p>
+Pour ce qui est des procureurs du roi, il y en avoit
+dès les commencemens de la monarchie ; les anciennes 
+chartes &amp; les capitulaires en font mention sous
+les différens titres de <i>actores, dominici actores fisci, actores 
+publici, actores vel procuratores reipublicoe</i>.
+</p>
+<p>
+Il est souvent parlé dans les registres <i>olim</i>, de <i>gentes regis ; gentibus d. regis pro d. rege multa proponentibus:</i> mais il ne paroît pas que l&#39;on entendit par-là un
+procureur &amp; des avocats du roi qui fussent attachés
+au parlement ; on y voit au contraire que toutes les
+sois qu&#39;il étoit question de s&#39;opposer ou plaider pour
+le roi, ce sont toûjours le prevôt de Paris ou les baillifs 
+royaux qui portent la parole pour les affaires qui
+intéressoient le roi, dans le territoire de chacun de
+ces officiers : c&#39;est de là que le prevôt de Paris &amp; les
+baillifs &amp; sénéchaux ont encore une séance marquée
+en la grand&#39;chambre du parlement, que l&#39;on appelle
+<i>le banc des baillis &amp; sené haux</i>, lequel est couvert de
+fleurs de-lis. C&#39;est peut-être aussi par un reste de cet
+ancien usage, que l&#39;officier qui fait les fonctions du
+ministere public à l&#39;échevinage de Dunkerque, s&#39;appelle 
+encore <i>grand bailli</i>.
+</p>
+<p>
+On ne trouve aucune preuve qu&#39;il y cût des avocats 
+&amp; procureurs du roi en titre au parlement, avant
+1302: il paroît pourtant difficile de penser que le roi
+n&#39;eût pas des-lors des officiers chargés de défendre
+ses droits, spécialement pour le parlement, vû que
+le roi d&#39;Angleterre, comme duc de Guienne, le comte 
+de Flandres, le roi de Sicile, <i>&amp;c.</i> en avoient en titre.
+Il est dit dans un arrêt de 1283, que le procureur
+du roi de Sicile parla, <i>procurator regis Sicilioe:</i> mais
+celui qui parla pour le roi Philippe III. n&#39;est pas désigné 
+autrement que par ces mots : <i>verum parte d. Philippi regis ....... adjiciens pars regis</i>, &amp;c.
+</p>
+<p>
+Ce qui fait encore croire que le roi avoit dès-lors
+des <i>gens</i> chargés de ses intérêts au parlement, est qu&#39;il
+avoit dès-lors des procureurs &amp; quelquefois aussi des
+avocats dans les bailliages, comme au châtelet. Un
+arrêt de 1265 juge que les avocats du roi ne sont justiciables 
+que de sa cour, tant qu&#39;ils seront chargés de
+ce ministere. L&#39;ordonnance de 1302 parle des procureurs 
+du roi dans les bailliages &amp; sénéchaussées ; elle
+leur ordonne de faire dans chaque cause le serment
+ordinaire, qu&#39;ils la croyent bonne, &amp; leur défend
+d&#39;eire procureurs dans aucune affaire de particuliers ;
+il y est même dejà parlé de leurs substituts.
+</p>
+<p>
+Jean le Bossu &amp; Jean Pastoureau remplissoient les
+fonctions d&#39;avocats du roi au parlement, des 1301,
+avant même que le parlement fût sédentaire à Paris.
+</p>
+<p>
+Ce n&#39;est qu&#39;en 1308 qu&#39;on trouve pour la premiere
+fois un procureur du roi parlant pour sa majesté au
+parlement : encore n&#39;est-il pas certain que ce fût un
+magistrat attaché au parlement ; il paroît même
+qu&#39;en ces occasions c&#39;étoit le procureur du roi de tel
+ou tel bailliage, qui venoit au parlement défendre
+les droits du roi conjointement avec le bailli du lieu.
+On voit dans les <i>olim</i>, les baillis &amp; sénéchaux, &amp; le
+prevôt de Paris continuer de parler pour le roi, jusqu&#39;en 1319 où finissent ces registres : une ordonnance 
+de cette année les charge même expressément de
+cette fonction.
+</p>
+<p>
+Une lettre de Philippe le Bel à l&#39;archevêque de
+Sens fait mention du procureur du roi au parlement,
+qu&#39;elle qualifie <i>catholicum juris conditorem</i>.
+</p>
+<p>
+Cependant l&#39;ordonnance de 1319 dont on a déjà
+parlé, semble supposer qu&#39;il n&#39;y avoit point alors de
+procureur du roi au parlement ; peut-être avoit-il été
+supprimé avec les autres procureurs du roi : car le
+<milestone unit="column" n="2" />
+roi y ordonne qu&#39;il y ait en son parlement une personne 
+qui ait cure de faire délivrer &amp; avancer les propres 
+causes du roi, &amp; qu&#39;il puisse être de son conseil
+avec ses avocats ; ce qui confirme qu&#39;il y avoit dèslors 
+des avocats du roi ; mais il paroît qu&#39;ils n&#39;étoient 
+que pour conseiller : &amp; supposé qu&#39;il y eût un
+procureur du roi attaché au parlement, ceux des
+bailliages, les baillis &amp; sénéchaux &amp; le prevôt de
+Paris parloient comme lui pour le roi, chacun dans
+les affaires de leur territoire qui l&#39;intéressoient.
+</p>
+<p>
+Depuis ce tems, on trouve des preuves non équivoques qu&#39;il y avoit deux avocats &amp; un procureur
+du roi au parlement. Philippe le Bel en parlant de ces
+trois magistrats, les nommoit ordinairement <i>gentes
+nostras</i>, c&#39;est-à-dire les <i>gens du roi ;</i> titre qui est demeuré 
+aux avocats &amp; procureurs généraux des cours
+souveraines, &amp; qui est aussi commun aux avocats &amp;
+procureurs du roi des bailliages &amp; autres siéges
+royaux.
+</p>
+<p>
+Avant la vénalité des charges, ces sortes d&#39;officiers 
+étoient choisis dans l&#39;ordre des avocats ; &amp; présentement 
+il faut encore qu&#39;ils ayent prêté le serment
+d&#39;avocat, avant de pouvoir posséder un office d&#39;avocat 
+ou procureur du roi.
+</p>
+<p>
+Les <i>gens du roi</i> dans les cours souveraines sont les
+avocats généraux &amp; le procureur général, lequel a
+rang &amp; séance après le premier avocat général : il
+n&#39;y a pas de même des <i>gens du roi</i> au conseil, à cause
+que le roi est présent ou réputé présent. L&#39;inspecteur du domaine donne son avis, &amp; fait des requisitoires 
+lorsqu&#39;il y échet dans les matieres domaniales.
+</p>
+<p>
+Dans les siéges royaux insérieurs, il y a ordinairement 
+un avocat du roi ; dans certains siéges il y en
+a plusieurs ; il y a dans tous un procureur du roi,
+qui a rang &amp; séance après le premier avocat du roi.
+</p>
+<p>
+L&#39;habillement des <i>gens du roi</i> est le bonnet quarré
+&amp; le rabat, la robe à longues manches, la soutane,
+&amp; le chaperon herminé de même que les avocats.
+</p>
+<p>
+Les <i>gens du roi</i> des parlemens, cours des aydes &amp;
+cours des monnoies, c&#39;est-à-dire les avocats &amp; procureurs 
+généraux, portent la robe rouge dans les cérémonies : cette prérogative ne paroît point leur
+avoir été accordée par aucun titre particulier ; elle
+paroît une suite du droit que les avocats au parlement 
+ont pareillement de porter la robe rouge, ainsi
+qu&#39;on le dira en son lieu ; les avocats &amp; procureurs
+du roi de quelques présidiaux joüissent aussi du même 
+honneur ; ce qui dépend des titres &amp; de la possession.
+</p>
+<p>
+La place des <i>gens du roi</i> est ordinairement à la tête
+du barreau ; les avocats géneraux du parlement se
+placent encore au premier barreau dans les petites
+audiences ; à l&#39;égard de celles qui se tiennent sur les
+hauts siéges, le procureur général se mettoit de tout
+tems sur le banc qui est au-dessous des présidens &amp;
+des conseillers-clercs : les avocats généraux se plaçoient 
+autrefois à ces audiences sur le banc des baillis 
+&amp; sénéchaux ; ce n&#39;est que depuis 1589 qu&#39;ils se
+placent sur le banc au-dessous des présidens &amp; des
+conseillers-clercs : ce changement fut fait pour la
+commodité du premier président de Verdun, <i>qui tardè
+audiebat</i>. Dans les cérémonies, ils marchent à la suite
+du tribunal, &amp; sont précédés d&#39;un ou deux huissiers.
+</p>
+<p>
+Lorsque les <i>gens du roi</i> portent la parole, ils sont
+debout &amp; couverts, les deux mains gantées. Tous
+ceux qui ont séance après celui d&#39;entre eux qui porte
+la parole, se tiennent aussi debout &amp; couverts pendant 
+tout le tems qu&#39;il parle.
+</p>
+<p>
+Ils ont le privilége de ne pouvoir être interrompus 
+par les parties ni par les avocats contre lesquels
+ils plaident.
+</p>
+<p>
+Le 21 Février 1721, M. l&#39;avocat général parlant
+dans l&#39;affaire du duc de la Force qui étoit présent, celui-ci l&#39;interrompit ; M. l&#39;avocat général dit qu&#39;il ne
+<pb n="7:602" facs="V7/ENC_7-602.jpeg" />
+<milestone unit="column" n="1" />
+pouvoit être interrompu par qui que ce soit que par
+M. le premier président.
+</p>
+<p>
+Il n&#39;est pas d&#39;usage que les juges interrompent la
+plaidoirie des <i>gens du roi</i>, quoique l&#39;heure à laquelle
+l&#39;audience finit ordinairement vienne à sonner ; mais
+il y a des exemples que dans de grandes affaires les
+<i>gens du roi</i> ont eux-mêmes partagé leur plaidoirie en
+plusieurs audiences.
+</p>
+<p>
+Dans les affaires où le ministere public est appellant 
+ou demandeur, l&#39;avocat de l&#39;intimé ou du défendeur 
+a la replique sur les <i>gens du roi:</i> mais il est aussi
+d&#39;usage que ceux-ci ont la replique en dernier.
+</p>
+<p>
+On dit communément que les <i>gens du roi</i> sont solidaires,
+c&#39;est-à-dire qu&#39;ils agissent &amp; parlent toûjours 
+en nom collectif ; ils sont présumés se concerter 
+entre eux pour les conclusions qu&#39;ils doivent
+prendre.
+</p>
+<p>
+Il y a néanmoins des exemples que dans la même affaire 
+un des <i>gens du roi</i> n&#39;a pas suivi les mêmes principes 
+que son collegue, &amp; s&#39;est fait recevoir opposant
+à un arrêt rendu sur les conclusions des <i>gens du roi</i>.
+Le procureur général ou procureur du roi peut lui-même 
+se faire recevoir opposant à un jugement rendu 
+sur ses conclusions.
+</p>
+<p>
+Le ministere des <i>gens du roi</i> est purement gratuit ;
+excepté que dans les affaires civiles appointées, &amp;
+dans les affaires criminelles où il y a une partie civile,
+leurs substituts ont des épices pour les conclusions.
+</p>
+<p>
+On n&#39;adjuge jamais de dépens ni de dommages &amp;
+intérêts aux <i>gens du roi</i> ; mais on ne les condamne
+aussi jamais à aucune amende, dépens, ni dommages
+&amp; interêts.
+</p>
+<p>
+Les <i>gens du roi</i> de chaque siége ont un parquet ou
+chambre, dans lequel les avocats &amp; procureurs vont
+leur communiquer les causes où ils doivent porter la
+parole : c&#39;est aussi dans ce même lieu que l&#39;on plaide
+devant eux les affaires qui doivent être vuidées par
+leur avis : les substituts y rapportent aussi au procureur 
+général ou au procureur du roi, si c&#39;est dans un
+siége inférieur, les affaires civiles &amp; criminelles qui
+leur sont distribuées. <i>V.</i> 
+<sc><ref target="head:Communication des Gens du Roi" type="search">Communication des Gens du Roi</ref>, <i>&amp;</i> <ref target="head:Parquet des Gens du Roi" type="search">Parquet des Gens du Roi</ref></sc>.
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

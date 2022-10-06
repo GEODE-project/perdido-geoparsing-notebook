@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27928" id="49:112" vol="7">
+<index type="head" value="FOUILLER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="dans l&#39;art militaire" />
+<index type="normclass" value="Art Militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>FOUILLER</head>
+<p>
+FOUILLER, se dit, <i>dans l&#39;art militaire</i>, d&#39;une recherche 
+exacte faite dans une ville, un village, ou un
+bois dans lequel une armée ou un détachement de
+troupes doit passer, pour examiner s&#39;il n&#39;y a pas
+d&#39;ennemis. Tout commandant de troupes prudent
+&amp; expérimenté ne s&#39;engage jamais dans aucun lieu
+couvert, sans l&#39;avoir fait reconnoitre &amp; <i>fouiller</i> auparavant.
+Les bois se <i>fouillent</i> en les parcourant
+exactement, en visitant les lieux creux &amp; les ravins
+qui peuvent s&#39;y trouver, &amp; où l&#39;ennemi pourroit se
+cacher. Pour les villages, on visite les maisons, les
+caves, les greniers, les granges, &amp; enfin tous les
+lieux propres à le dérober à la vûe. On ne doit pas
+se contenter d&#39;entrer simplement dans les granges &amp;
+les greniers, il faut culebuter une partie du fourrage
+qui y est renfermé, &amp; donner dedans des coups de
+bayonnette ou de hallebarde, afin de s&#39;assûrer qu&#39;il
+n&#39;y a personne de caché. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

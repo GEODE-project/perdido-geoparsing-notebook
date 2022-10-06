@@ -1,0 +1,188 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27506" id="48:25:1" vol="7">
+<index type="head" value="Fol, &amp; depuis Fou" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littérat. mod." />
+<index type="normclass" value="Littérature moderne" />
+<index type="englishclass" value="Modern literature" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>Fol</head>
+<p>
+<sc>Fol</sc>, <i>&amp; depuis</i> <sc>Fou</sc>, (<i>Littérat. mod.</i>) bouffon de
+cour entretenu aux dépens du prince.
+</p>
+<p>
+L&#39;usage des rois d&#39;avoir des <i>fous</i> ou des bouffons à
+leur cour, pour les divertir par leurs bons mots, leurs
+gestes, leurs plaisanteries, ou leurs impertinences:
+cet usage, dis-je, tout ridicule qu&#39;il est, remonte assez 
+haut dans l&#39;histoire moderne.
+</p>
+<p>
+Au commencement du neuvieme siecle, l&#39;empereur 
+Théophile avoit pour <i>fou</i> un nommé <i>Daudery</i>,
+qui par son indiscrétion pensa causer les plus cuisans
+chagrins à l&#39;impératrice Théodora. Il s&#39;avisa d&#39;entrer
+un jour brusquement dans le cabinet de cette princesse,
+lorsqu&#39;elle faisoit ses prieres devant un oratoire 
+orné de très-belles images qu&#39;elle gardoit en
+grand secret, pour éviter que l&#39;empereur qui étoit
+lconoclaste, en eût connoissance. Daudery, qui
+n&#39;avoit jamais vû d&#39;images, lui demanda vivement
+ce que c&#39;étoit : à quoi Théodora répondit que c&#39;étoit 
+des poupées qu&#39;elle préparoit pour donner à ses
+filles : sur cela Daudery vint dire au dîner de l&#39;empereur<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+pereur, qu&#39;il avoit trouvé l&#39;impératrice occupée à
+baiser les plus jolies poupées du monde. Théodora
+eut bien de la peine à se tirer de ce mauvais pas:
+mais elle fit si bien châtier le <i>fou</i> de l&#39;empereur, qu&#39;elle 
+le corrigea pour jamais de parler de tout ce qui
+pourroit la regarder.
+</p>
+<p>
+Après l&#39;expédition des croisades, on vit la mode
+d&#39;avoir des <i>fous</i> s&#39;établir dans toutes les cours de
+l&#39;Europe, dans celles d&#39;Italie, d&#39;Allemagne, d&#39;Angleterre, &amp; de France. Ici les princes du bon air voulurent 
+avoir des <i>fous</i> à leur suite, qui leur servissent
+de joüet &amp; d&#39;amusement. Là les grandes maisons se
+procuroient un <i>fol</i> qu&#39;on habilloit ridiculement, afin
+que l&#39;héritier présomptif eût occasion de se divertir de
+ses discours ou de ses bévûes. En Italie, Nicolas III.
+marquis d&#39;Est &amp; de Ferrare, avoit à sa cour un <i>fou</i>
+ou bouffon nommé <i>Gonelle</i>, qui devint célebre par
+ses reparties.
+</p>
+<p>
+En France, on poussa la chose plus loin que partout 
+ailleurs : car l&#39;emploi de <i>fou</i> à la cour y fut érigé en titre d&#39;office particulier. On conserve dans les
+archives de Troies en Champagne une lettre de Charles V. qui écrivit au maire &amp; aux échevins, que son
+<i>fou</i> étant mort, ils eussent à lui envoyer un autre <i>fou</i>,
+suivant la coûtume. A S. Maurice de Senlis, on lit
+cette épitaphe:
+<blockquote> 
+« Cy gist Thévenin de Saint-Légier,
+<i>fou</i> du roi notre sire, qui trépassa le premier Juillet
+1374: priez Dieu pour l&#39;ame de ly ».
+</blockquote>
+</p>
+<p>
+Le <i>fou</i> de François I. nommé <i>Triboulet</i>, disoit que
+Charles-Quint étoit plus <i>fou</i> que lui de passer par la
+France pour aller aux Pays-bas ; mais, lui dit François I. <i>Si je le laisse passer! En ce cas</i>, dit Triboulet,
+<i>j&#39;effacerai son nom de mes tablettes, &amp; j&#39;y mettrai le
+vôtre</i>. Cependant Charles-Quint avoit raison de ne
+pas hésiter, en se rendant dans les Pays-Bas, de passer 
+en France sur l&#39;invitation d&#39;un monarque, qui
+après la bataille de Pavie, mandoit à la duchesse
+d&#39;Angouleme : <i>tout est perdu, hormis l&#39;honneur</i>.
+</p>
+<p>
+Le dernier <i>fou</i> de cour dont il soit parlé dans notre
+histoire, est le fameux l&#39;Angely, que M. le Prince
+amena des Pays-Bas, &amp; qu&#39;il se fit un plaisir de donner 
+à Louis XIV. Mais l&#39;Angely étoit un <i>fou</i> plein
+d&#39;esprit, qui trouva le secret de plaire aux uns, de se
+faire craindre des autres, &amp; d&#39;amasser par cette
+adresse une somme de vingt-cinq mille écus de ce
+tems-là. On sait à ce sujet les deux vers de Despréaux,
+&amp; le bon mot de Marigny, qui étant un jour au diner
+du roi, dit à quelqu&#39;un, en voyant l&#39;Angely qui amusoit 
+Louis XIV. par ses bons mots:
+<blockquote> 
+« De tous nous
+autres <i>fous</i> qui avons suivi M. le Prince, il n&#39;y a
+que l&#39;Angely qui ait fait fortune ».
+</blockquote>
+Cependant les
+railleries piquantes de l&#39;Angely le firent à la fin chasser 
+de la cour ; &amp; depuis, cette espece de <i>fous</i> n&#39;y a
+plus paru. L&#39;Angely disoit qu&#39;il n&#39;alloit pas au sermon,
+<i>parce qu&#39;il n&#39;aimoit pas le brailler, &amp; qu&#39;il n&#39;entendoit 
+pas le raisonner</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

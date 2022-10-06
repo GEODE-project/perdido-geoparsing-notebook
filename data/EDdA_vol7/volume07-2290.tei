@@ -1,0 +1,264 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29744" id="53:197" vol="7">
+<index type="head" value="GNOMONIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ordre encyclopéd. Entend. Rais. Philosoph. Science de la Nat. Mathémat. mixtes, Astronom. Gnomoniq." />
+<index type="normclass" value="Gnomonique" />
+<index type="englishclass" value="Gnomonics" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="s.f." />
+<head>GNOMONIQUE</head>
+<p>
+GNOMONIQUE, s. f. (<i>Ordre encyclopéd. Entend.
+Rais. Philosoph. Science de la Nat. Mathémat. mixtes,
+Astronom. Gnomoniq.</i>) c&#39;est l&#39;art de tracer des cadrans
+au soleil, à la lune, &amp; aux étoiles, mais principalement 
+des cadrans solaires, sur un plan donné ou sur
+la surface d&#39;un corps donné quelconque. <i>Voyez</i> <sc><ref target="head:Cadran" type="search">Cadran</ref></sc>.
+</p>
+<p>
+Les Grecs &amp; les Latins donnoient à cet art les
+noms de <i>Gnomonica</i> &amp; <i>Sciaterica</i>, dont le premier
+vient de <foreign lang="greek">γνώμων</foreign>, <i>gnomon</i>, &amp; le second de <foreign lang="greek">σκιὰ</foreign>, <i>ombre</i>, à cause qu&#39;ils distinguoient les heures par l&#39;ombre 
+d&#39;un gnomon. <i>Voyez</i> <sc><ref target="head:Gnomon" type="search">Gnomon</ref></sc>. Quelques-uns
+l&#39;appellent <i>Photosciaterica</i>, de <foreign lang="greek">φῶς</foreign>, <i>lumiere</i>, &amp; <foreign lang="greek">σκιὰ</foreign>,
+<i>ombre</i>, parce que c&#39;est quelquefois la lumiere même
+du soleil qui marque les heures ; comme quand le cadran 
+au lieu d&#39;un stile porte une plaque percée d&#39;un
+<milestone unit="column" n="2" />
+trou. Enfin il est appellé par d&#39;autres <i>horographia</i>,
+parce que c&#39;est proprement l&#39;art d&#39;écrire sur un
+plan donné, l&#39;heure qu&#39;il est. D&#39;autres enfin le nomment 
+<i>Horologio-graphia</i>, parce que les cadrans s&#39;appelloient 
+autrefois <i>horologium ;</i> nom que nous avons
+depuis transporté aux pendules d&#39;Horlogerie.
+</p>
+<p>
+On ne sauroit douter de l&#39;antiquité des cadrans ;
+quelques-uns en attribuent l&#39;invention à Anaximene
+de Milet &amp; d&#39;autres à Thalès. Vitruve fait mention
+d&#39;un cadran que l&#39;ancien historien Berose de Chaldée, construisit sur un plan réclinant, presque parallele 
+à l&#39;équinoctial ou équateur. Le disque d&#39;Aristarque étoit un cadran horisontal avec son limbe relevé
+tout-autour, afin d&#39;empêcher les ombres de s&#39;étendre
+trop loin.
+</p>
+<p>
+Les cadrans ne furent connus des Romains que
+fort tard : le premier cadran solaire qui parut à Rome, fut, suivant Pline, construit par Papirius Cursor, vers l&#39;an 400 de la fondation de cette ville. Pline
+dit qu&#39;avant cette époque il n&#39;est fait mention d&#39;autre
+calcul de tems que de celui qui se tiroit du lever &amp;
+du coucher du soleil : ce cadran, selon quelques-uns,
+fut placé au temple de Quirinus, ou près de ce temple ; 
+selon d&#39;autres, dans le capitole ; selon d&#39;autres
+enfin, près le temple de Diane sur le mont Aventin ;
+mais il alloit mal. Trente ans après, Valérius Messala étant consul, apporta de Sicile un autre cadran,
+qu&#39;il éleva sur un pilier proche les <i>rostra</i>, ou tribune
+aux harangues : mais comme il n&#39;étoit pas fait pour
+la latitude de ce lieu, il n&#39;étoit pas possible qu&#39;il marquât 
+l&#39;heure véritable. On s&#39;en servit pendant 99
+ans, jusqu&#39;à ce que le censeur L. Philippus en fit
+construire un autre plus exact.
+</p>
+<p>
+Il paroit qu&#39;il y a eu des cadrans chez les Juifs
+beaucoup plûtôt que chez les nations dont nous venons 
+de parler ; témoin le cadran d&#39;Achaz, qui commença 
+à régner 400 ans avant Alexandre, &amp; 12 ans
+après la fondation de Rome : Isaïe en parle au <i>chap.
+xxxviij. v. 8.</i> peut-être, au reste, ce cadran n&#39;étoit-il 
+qu&#39;un simple méridien. Quoi qu&#39;il en soit, la rétrogradation 
+de l&#39;ombre du soleil sur ce cadran d&#39;Achaz,
+est un miracle bien surprenant, qu&#39;il faut croire sans
+l&#39;expliquer.
+</p>
+<p>
+On a trouvé dans les ruines d&#39;Herculanum un
+cadran solaire portatif. Ce cadran est rond &amp; garni
+d&#39;un manche, au bout duquel est un anneau qui servoit 
+sans doute à suspendre le cadran par-tout où
+l&#39;on vouloit. Tout l&#39;instrument est de métal &amp; un
+peu convexe par ses deux surfaces : il y a d&#39;un côté
+un stilet un peu long &amp; dentelé, qui fait environ la
+quatrieme partie du diametre de cet instrument.
+L&#39;une des deux superficies, qu&#39;on peut regarder comme 
+la surface supérieure, est toute couverte d&#39;argent,
+&amp; divisée par douze lignes paralleles qui forment autant 
+de petits quarrés un peu creux ; les six derniers
+quarrés, qui sent terminés par la partie inférieure de
+la circonférence du cercle, sont disposés comme on
+va voir, &amp; contiennent les caracteres suivans, qui
+sont les lettres initiales du nom de chaque mois.
+</p>
+<p>
+<gap type="table" />
+</p>
+<p>
+La façon dont sont disposés ces mois, est remarquable 
+en ce qu&#39;elle est en boustrophédon. <i>Voyez ce
+mot</i>. On pourroit croire que cette disposition des mois
+sur le cadran vient de ce que dans les mois qui sont
+l&#39;un au-dessus de l&#39;autre, par exemple, en Avril &amp;
+Septembre, le soleil se trouve à-peu-près à la même
+hauteur dans certains jours correspondans : mais en
+ce cas, le cadran ne seroit pas fort exact à cet égard ;
+car cette correspondance n&#39;a guere lieu que dans les
+deux premieres moitiés de chacun de ces mois:
+<pb n="7:726" facs="V7/ENC_7-726.jpeg" />
+<milestone unit="column" n="1" />
+dans les quinze derniers jours d&#39;Avril, le soleil est
+beaucoup plus haut que dans les quinze derniers de
+Septembre ; il en est ainsi des autres mois.
+</p>
+<p>
+La <i>Gnomonique</i> est entierement fondée sur le mouvement 
+des corps célestes, &amp; principalement sur
+celui du soleil, ou plûtôt sur le mouvement journalier 
+de la terre : de sorte qu&#39;il est nécessaire d&#39;avoir
+appris les élémens des sphériques &amp; l&#39;astronomie
+sphérique, avant que de s&#39;appliquer à la théorie de
+la <i>Gnomonique</i>.
+</p>
+<p>
+Clavius est le premier parmi les modernes, qui
+ait fait un traité exprès sur la <i>Gnomonique ;</i> il en démontre 
+toutes les opérations suivant la méthode rigoureuse 
+des anciens géometres, mais d&#39;une maniere
+assez compliquée. Déchales &amp; Ozanam ont donné des
+méthodes beaucoup plus aisées dans leur <i>cours de
+Mathématiques</i>, aussi-bien que Wolf dans ses <i>élémens</i>.
+M. Picard a donné une nouvelle méthode de faire de
+grands cadrans, en calculant les angles que doivent
+former entre-elles les lignes horaires ; &amp; M. de la
+Hire, dans sa <i>Gnomonique</i> imprimée en 1683, donne
+une méthode géométrique de tracer des lignes horairaires 
+au moyen de certains points déterminés par
+observation. Welperus en 1625, publia sa <i>Gnomonique</i>, dans laquelle il expose une maniere de tracer les
+cadrans de la premiere espece, c&#39;est-à-dire qui ne
+sont ni inclinans ni réclinans : cette méthode étoit
+fondée sur un principe fort aisé. Ce même principe
+est expliqué au long par Sébastien Munster, dans ses
+<i>rudimenta mathematica</i>, publiés en 1651. Sturmius en
+1672, publia une nouvelle édition de la <i>Gnomonique</i>
+de Welperus, à laquelle il ajoûta une seconde partie
+en entier sur les cadrans inclinans &amp; réclinans, <i>&amp;c.</i>
+En 1708 on réimprima ce même ouvrage avec les additions 
+de Sturmius ; &amp; on y ajoûta une quatrieme
+partie qui contient les méthodes de MM. Picard &amp;
+de la Hire, pour tracer de grands cadrans ; ce qui compose 
+un des meilleurs ouvrages &amp; des plus complets
+que nous ayons sur cette matiere. <i>Wolf</i> &amp; <i>Chambers</i>.
+</p>
+<p>
+M. Rivard, professeur de Philosophie en l&#39;université 
+de Paris, &amp; M. Deparcieux, membre des académies 
+royales des Sciences de Paris, de Berlin, &amp; de
+Montpellier, nous ont donné chacun presque dans le
+même tems, en 1741, un <i>traité de Gnomonique:</i> ces
+deux ouvrages peuvent être fort utiles à ceux qui
+voudront apprendre facilement les principes de cette
+science. On peut aussi consulter Bion, dans ses <i>usages
+des instrumens de Mathématique</i>.
+</p>
+<p>
+Comme nous avons donné au <i>mot</i> <sc>Cadran</sc> la méthode 
+de tracer les cadrans, qui est le principal objet
+de la <i>Gnomonique</i>, nous n&#39;en dirons pas ici davantage : nous nous contenterons d&#39;observer que de tous
+les cadrans, le cadran horisontal est celui qu&#39;on peut
+tracer le plus facilement &amp; le plus exactement, mais
+que le cadran vertical a un avantage, c&#39;est que les
+lignes y sont moins sujettes à être effacées par les
+pluies, à cause de la position verticale du mur du
+cadran ; quoique d&#39;un autre côté la déclinaison du
+mur rende la construction de ces sortes de cadrans
+plus difficile que celle des cadrans horisontaux. <i>Voy.</i>
+<sc><ref target="head:Déclinaison" type="search">Déclinaison</ref></sc>. Les cadrans équinoctiaux ou paralleles 
+à l&#39;équateur, peuvent aussi avoir leur utilité,
+&amp; sont d&#39;une description plus simple que tous les autres ; 
+toute la difficulté se réduit à bien placer le
+plan du cadran. A l&#39;égard des autres cadrans, ils
+sont plus curieux qu&#39;utiles.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

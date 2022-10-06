@@ -1,0 +1,159 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27594" id="48:58" vol="7">
+<index type="head" value="FONDERIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métallurgie &amp; Minéralogie." />
+<index type="normclass" value="Minéralogie | Métallurgie" />
+<index type="englishclass" value="Mineralogy | Metallurgy" />
+<index type="generatedclass" value="Fonderie" />
+<index type="pos" value="s.f." />
+<head>FONDERIE</head>
+<p>
+FONDERIE, s. f. (<i>Métallurgie &amp; Minéralogie.</i>) On
+nomme <i>fonderie</i> dans les travaux des mines, le bâtiment 
+dans lequel se font toutes les opérations pour
+fondre, purifier, &amp; raffiner les métaux. La <i>fonderie</i>
+est ordinairement un grand hangard ou bâtiment de
+bois ou de mâçonnerie, couvert de tuile, sous lequel 
+sont placés les différens fourneaux, &amp; les autres
+choses nécessaires pour l&#39;exploitation de mines. La
+grandeur du bâtiment doit être proportionnée à la
+quantité de mine qui doit y être exploitée, &amp; à celle 
+de bois &amp; de charbons qui est nécessaire pour cette 
+exploitation, qu&#39;il convient de mettre à couvert
+dans la <i>fonderie</i> même. Cet avis, quelque peu important 
+qu&#39;il paroisse, est bon à suivre, sur-tout en France, où J&#39;on n&#39;est que trop disposé à faire dans les commencemens 
+d&#39;un établissement, de grandes dépenses,
+sans être assûré si le succès répondra aux espérances
+qu&#39;on a formées.
+</p>
+<p>
+Pour que la situation d&#39;une <i>fonderie</i> soit avantageuse,
+il faut, autant que cela est possible, qu&#39;elle
+soit proche de la mine, afin d&#39;éviter aux cessionnaires 
+les frais du transport. Il faut pour la même raison
+qu&#39;elle soit à portée d&#39;une forêt, afin d&#39;avoir commodément 
+du bois &amp; du charbon. Il est à-propos de
+placer, autant qu&#39;on peut, la <i>fonderie</i> de façon que
+le vent emporte facilement la fumée qui s&#39;en éleve,
+&amp; qui, si elle étoit rabattue, pourroit nuire à la santé 
+des ouvriers, &amp; même quelquefois les faire périr,
+attendu que souvent elle est dangereuse par les
+parties arsénicales dont elle est remplie. C&#39;est à quoi
+il faut sur tout avoir égard, lorsqu&#39;il s&#39;agira d&#39;exploiter 
+des mines de plomb, d&#39;étain, de cobalt, <i>&amp;c.</i> Ainsi avant que de construire une <i>fonderie</i>, il convient
+d&#39;observer les vents qui regnent dans l&#39;endroit où
+l&#39;on veut la placer. Il est encore très-important que
+la <i>fonderie</i> soit à portée d&#39;une riviere, d&#39;un ruisseau,
+ou d&#39;un étang, parce que l&#39;eau est absolument nécessaire 
+pour faire aller les soufflets. Il seroit à souhaiter 
+même que cette eau ne gelât poine en hyver ;
+parce qu&#39;alors on est obligé de cesser le travail : rien
+ne seroit plus avantageux pour cela que le voisinage
+d&#39;une source d&#39;eau chaude.
+</p>
+<p>
+Il faut avoir soin de construire la <i>fonderie</i> dans un
+endroit sec, parce que l&#39;humidité est très-nuisible aux
+travaux qui se font dans les fourneaux qui peuvent
+en être endommagés malgré les évents &amp; soupiraux
+qu&#39;on pourroit faire. Pour remedier à ces inconvéniens,
+on aura soin que les fourneaux dans lesquels
+on grillera la mine, si elle a besoin d&#39;être grillée,
+soient très-proches de la <i>fonderie</i>, afin de ne pas multiplier 
+les voyages &amp; transports inutiles. Il en doit
+être de même du boccard, c&#39;est-à-dire de l&#39;endroit où
+sont les pilons qui servent à écraser la mine, &amp; des lavoirs 
+où on la sépare des parties terreuses &amp; pierreuses 
+qui peuvent y être attachées. Ceux qui voudront
+un plus grand détail sur les <i>fonderies</i>, pourront consulter 
+le second volume du <i>traité de la fonte des mines</i> de
+Schlutter, publié par M. Hellot de l&#39;académie royale 
+des Sciences de Paris. <i>Voyez les articles</i> 
+<sc><ref target="head:Grillages" type="search">Grillages</ref>, <ref target="head:Lavoir" type="search">Lavoir</ref>, <ref target="head:Boccard" type="search">Boccard</ref>, <ref target="head:Mine" type="search">Mine</ref>, <ref target="head:Métallurgie" type="search">Métallurgie</ref></sc>
+<i>&amp;c.</i> (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

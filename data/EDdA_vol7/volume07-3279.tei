@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30733" id="55:274" vol="7">
+<index type="head" value="GUIPUSCOA, (le) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr. " />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GUIPUSCOA</head>
+<p>
+GUIPUSCOA, (<sc>le</sc>) <i>Géogr</i>. petite province septentrionale 
+d&#39;Espagne, bornée à l&#39;est par les Basques, au nord par l&#39;Océan, à l&#39;oüest par la Biscaie,
+au sud par la Navarre. Le pays abonde en tout, excepté 
+en froment : Tolosa en est la capitale.
+</p>
+<p>
+Ignace de Loyola, fondateur des Jésuites, naquit
+dans la province de <i>Guipuscoa</i> en 1491, &amp; mourut à
+Rome en 1556, âgé de soixante-cinq ans ; sa vie est
+bien singuliere. Né avec un esprit romanesque, entêté 
+de livres de chevalerie, il commença par être
+page à la cour de Ferdinand, roi d&#39;Espagne, embrassa 
+le parti des armes, fut blessé au siége de Pampelune en 1521, &amp; se dévoüa dans sa convalescence à la
+mortification. On sait la suite de ses avantures, la maniere 
+dont il s&#39;arma chevalier de la Vierge, son projet 
+de combattre un Maure qui avoit parlé peu respectueusement 
+de celle dont il étoit chevalier ; le parti 
+qu&#39;il suivit d&#39;abandonner la chose à la décision de
+son cheval, qui prit un autre chemin que celui du
+Maure ; ses premieres études de latin faites à Salamanque à l&#39;âge de trente-trois ans ; son emprisonnement 
+par l&#39;inquisition ; la continuation de ses études à Paris où il fit sa philosophie au collége de sainte-Barbe, &amp; sa théologie aux Jacobins ; son voyage
+à Rome en 1537 avec des Espagnols &amp; des François
+qu&#39;il s&#39;associa pour former une congrégation ; la
+confirmation de son institut par Paul III. &amp; enfin sa
+nomination en qualité de premier général de son ordre.
+Le pape Grégoire XV. a canonisé Ignace de
+Loyola en 1622: le P. Bouhours a donné sa vie dans
+laquelle il le compare à César ; on fait plus de cas de
+celle du P. Maffei écrite en latin ; c&#39;est peut-être le
+meilleur livre du jésuite italien, &amp; le moindre du jésuite 
+françois. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

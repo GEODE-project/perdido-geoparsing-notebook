@@ -1,0 +1,949 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27572" id="48:52:3" vol="7">
+<index type="head" value="Basse fondamentale" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Basse fondamentale</head>
+<p>
+<sc>Basse fondamentale</sc>. On a déjà vû au <i>mot</i>
+<sc>Basse</sc> sa définition ; elle ne renferme que les accords 
+fondamentaux dont nous venons de parler,
+&amp; qui sont au nombre de dix ; savoir les cinq accords 
+de septieme, l&#39;accord de sixte superflue, les
+deux accords parfaits, &amp; les deux accords de sous-dominante.
+On a vû dans le même article qui vient
+d&#39;être cité, les principales regles sur lesquelles on
+doit former la <i>basse fondamentale</i>, &amp; on peut les voir
+expliquées plus en détail, d&#39;après M. Rameau, dans
+<i>mes Elémens de Musique</i>. On trouvera <i>au mot</i> <sc><ref target="head:Septieme diminuée" type="search">Septieme diminuée</ref></sc> les regles particulieres de cet accord.
+</p>
+<p>
+Mais on nous permettra de faire ici aux Musiciens
+une question : pourquoi n&#39;a-t-on employé jusqu&#39;ici
+dans la <i>basse fondamentale</i> que les dix sortes d&#39;accords
+dont nous venons de parler? Nous avons vû avec
+quel succès les Italiens font usage de l&#39;accord de sixte 
+superflue, que la basse fondamentale ne paroît
+pas donner ; nous avons vû comment on a introduit
+dans cette même basse les différens accords de septieme : est-il bien certain qu&#39;on ne puisse employer
+dans la <i>basse fondamentale</i> que ces accords, &amp; dans
+la basse continue que leurs dérivés? L&#39;oreille est
+ici le vrai juge, ou plûtôt le seul ; tout ce qu&#39;elle
+nous présentera comme bon, devra sans doute ou
+pourra du moins être employé quelquefois avec
+succès : ce sera ensuite à la théorie à chercher l&#39;origine 
+des nouveaux accords, ou si elle n&#39;y réussit pas,
+à ne point lui en donner d&#39;autres qu&#39;eux-mêmes. Je
+crains que la plûpart des Musiciens, les uns aveuglés 
+par la routine, les autres prévenus par des systèmes,
+n&#39;ayent pas tiré de l&#39;harmonie tout le parti
+qu&#39;ils auroient pû, &amp; qu&#39;ils n&#39;ayent exclu une infinité 
+d&#39;accords qui pourroient en bien des occasions
+produire de bons effets. Pour ne parler ici que d&#39;un
+petit nombre de ces accords ; par quelle raison n&#39;employe-t-on jamais dans l&#39;harmonie les accords <i>ut mi
+sol</i> # <i>ut, ut mi sol</i> # <i>si</i>, dont le premier n&#39;a proprement
+aucune dissonance, le second n&#39;en contient qu&#39;une,
+comme l&#39;accord usité <i>ut mi sol si?</i> N&#39;y a-t-il point
+d&#39;occasions où de pareils accords ne puissent être
+employés, ne fût-ce que par licence, car on sait
+combien les licences sont fréquentes en Musique?
+Et pour n&#39;en donner ici qu&#39;un seul exemple analogue 
+à l&#39;objet dont il s&#39;agit, M. Rameau n&#39;a-t-il pas
+fait chanter dans un air de trompette des Fêtes de
+l&#39;hymen, <i>pag. 233.</i> les deux parties supérieures à la
+tierce majeure l&#39;une de l&#39;autre, quoique deux tierces 
+majeures de suite, &amp; à plus forte raison une
+suite de tierces majeures, soient interdites par lui-même?
+Pourquoi donc ne pourroit on pas quelquefois 
+faire entendre dans un même accord deux tierces 
+majeures ensemble? &amp; cela ne se pratique-t-il
+pas en effet dans l&#39;accord <i>ut mi sol</i> # <i>si ré</i>, nommé
+<i>de quinte superflue</i>, &amp; qui étant pratiqué dans l&#39;harmonie,
+semble autoriser à plus forte raison les deux
+dont nous venons de parler? Si ces accords ne peuvent 
+entrer dans la <i>basse fondamentale</i>, ne pourroient-ils 
+pas au moins entrer dans la basse continue? Si
+<pb n="7:59" facs="V7/ENC_7-59.jpeg" />
+<milestone unit="column" n="1" />
+l&#39;oreille les jugeoit trop durs en les rendant complets,
+ne pourroit-on pas les adoucir par le retranchement 
+de quelques sons, pourvû qu&#39;on laissât toûjours 
+subsister le <i>sol</i> #, qui constitue la différence
+essentielle entre ces accords, &amp; les mêmes accords
+tels qu&#39;on les employe d&#39;ordinaire en y mettant le
+<i>sol</i> au lieu de <i>sol</i> #? Ce n&#39;est pas tout. Imaginons
+cette liste d&#39;accords, terminés tous ou par l&#39;octave
+ou la septieme majeure, &amp; dont les trois premiers
+sons forment des tierces.
+<lg>
+</lg></p>
+<p>
+<i>ut mi sol # ut.
+ut mi sol # si.
+ut mi b sol si.
+ut mi b sol b ut.
+ut mi b sol b si</i>.
+Pourquoi ces accords, dont aucun, excepté le dernier,
+ne renferme pas plus d&#39;une ou de deux dissonances,
+sont-ils proscrits de l&#39;harmonie? Est-il bien
+certain par l&#39;expérience (car encore une fois l&#39;expérience 
+est ici le grand juge) qu&#39;aucun d&#39;eux ne puisse
+être employé en aucune occasion, en les considérant
+<i>soit en eux-mêmes, soit par rapport à ceux qui peuvent
+les précéder ou les suivre?</i> Je ne parle point d&#39;une infinité 
+d&#39;autres accords, sur lesquels je pourrois faire
+une question semblable ; accords qu&#39;il est aisé de
+former par des combinaisons qu&#39;on peut varier en
+un grand nombre de manieres, qui ne doivent être
+ni admis, ni aussi rejettés sans épreuve, &amp; sur lesquels 
+on n&#39;en a peut-être jamais fait aucune : tels
+que ceux-ci.
+<lg>
+</lg></p>
+<p>
+<i>ut mi sol # si b.
+ut mi b sol # ut.
+ut mi b sol # si.
+ut mi b sol # si b.
+ut mi sol la b.
+ut mi sol # la.
+ut mi b sol # la.
+ut mi sol b si.
+ut mi sol b la b.</i> &amp;c. &amp;c.
+</p>
+<p>
+Il est aisé de voir qu&#39;on peut rendre cette liste
+beaucoup plus longue.
+</p>
+<p>
+Je sens toute mon insuffisance pour décider de pareilles 
+questions : mais je desirerois que quelque musicien 
+consommé (&amp; sur-tout, je le répete, non-prévenu d&#39;aucun système) voulût bien s&#39;appliquer à
+l&#39;examen que je propose. Dira-t-on que ces accords 
+n&#39;ont point d&#39;origine dans la <i>basse fondamentale?
+</i> C&#39;est ce qu&#39;il faudroit examiner. Si l&#39;accord de
+sixte superflue n&#39;en a point, pourquoi ceux-ci en
+auroient-ils? &amp; si cet accord en a, pourquoi ceux-ci
+ne pourroient-ils pas en avoir? Ne pourroit-on pas
+par exemple trouver une origine à l&#39;accord <i>ut mi sol</i>
+# <i>ut</i>, fondée sur ce que la corde <i>mi</i> doit faire résonner 
+sa dix-septieme majeure double octave de <i>sol</i> #,
+&amp; faire frémir sa dix-sept<sup>me</sup> majeure en descendant,
+double octave d&#39;<i>ut?</i> &amp; ainsi du reste? Quoi qu&#39;il en
+soit, &amp; pour le dire en passant, il se présente ici une
+question bien digne d&#39;être proposée à ceux qui prétendent 
+expliquer la raison physique du sentiment
+de l&#39;harmonie : pourquoi l&#39;accord <i>ut mi sol</i> # <i>ut</i>,
+quoiqu&#39;il soit proprement sans dissonances, est-il dur
+à l&#39;oreille, comme il est aisé de s&#39;en assûrer? Par quelle 
+fatalité arrive-t-il que des accords, qui nous
+flateroient étant séparés, nous paroissent peu agréables 
+étant réunis? Je l&#39;ignore, &amp; je crois que c&#39;est la
+meilleure réponse. Passons maintenant à quelques
+autres remarques, relatives à la <i>basse fondamentale</i>.
+</p>
+<p>
+La basse continue, qui forme ce qu&#39;on appelle <i>accompagnement</i>, n&#39;est proprement que le renversement 
+de la <i>basse fondamentale</i>, &amp; contient beaucoup
+d&#39;autres accords, tous dérivés des fondamentaux:
+<milestone unit="column" n="2" />
+ainsi l&#39;accompagnement représente vraiment la <i>basse
+fondamentale</i>, puisqu&#39;il n&#39;en est qu&#39;un renversement
+&amp; pour ainsi dire une espece de modification. Mais
+est-il vrai, comme le prétendent quelques musiciens,
+que l&#39;accompagnement représente le corps sonore?
+La question se réduit à savoir si la <i>basse fondamentale</i>
+représente le corps sonore. Or de tous les accords
+employés dans la <i>basse fondamentale</i>, il n&#39;y en a qu&#39;un
+seul qui représente vraiment le corps sonore ; savoir
+l&#39;accord parfait majeur ; encore ne représente-t-il
+véritablement &amp; exactement le corps sonore, que
+quand cet accord contient la douzieme &amp; la dix-septieme majeure ; parce que le corps sonore ne sait
+entendre que ces deux sons, sans y comprendre son
+octave. Tous les autres accords, soit consonans,
+soit dissonans, sont absolument l&#39;ouvrage de l&#39;art,
+&amp; d&#39;autant plus l&#39;ouvrage de l&#39;art, qu&#39;ils renferment
+plus de dissonances. On doit donc, ce me semble,
+rejetter ce principe, que l&#39;accompagnement représente 
+le corps sonore, &amp; regarder au-moins comme
+douteuses des regles qu&#39;on appuieroit sur ce seul fondement : par exemple, que dans l&#39;accompagnement
+on doit completer tous les accords, même ceux qui
+renfermant le plus de dissonances, comme les accords
+par supposition, seroient les plus durs à l&#39;oreille. M.
+Rameau a déduit sans doute avec vraissemblance de la
+résonnance du corps sonore, les principales regles
+de l&#39;harmonie ; mais la plûpart de ces regles sont
+uniquement l&#39;ouvrage de la réflexion qui a tiré de
+cette résonnance des conclusions plus ou moins directes,
+plus ou moins détournées, plus ou moins rigoureuses 
+(<i>V.</i> <sc><ref target="head:Gamme" type="search">Gamme</ref></sc>), &amp; nullement l&#39;ouvrage de
+la nature : ainsi ce seroit parler très-incorrectement,
+pour ne rien dire de plus, que de prétendre que l&#39;accompagnement 
+représente le corps sonore, sur-tout
+quand l&#39;accord est chargé de dissonances. Dira-t-on
+qu&#39;il y a des corps qui en résonnant, produisent des
+sons dissonans avec le principal, comme l&#39;avance
+M. Daniel Bernoulli, dans les mémoires de l&#39;acad.
+de Berlin 1753. <i>pag. 153?</i> En supposant même la vérité 
+de cette expérience, que nous n&#39;avons point
+faite, nos adversaires n&#39;en pourroient tirer aucune
+conclusion, puisque cette expérience iroit à infirmer
+toute la théorie sur laquelle la <i>basse fondamentale</i> est
+appuyée. Aussi M. Daniel Bernoulli prétend-il dans
+le même endroit déjà cité, qu&#39;on ne peut tirer de la
+résonnance du corps sonore aucune théorie musicale.
+Je crois cependant cette conclusion trop précipitée : car en général les corps sonores rendent très sensiblement 
+la douzieme &amp; la dix-septieme, comme
+M. Daniel Bernoulli en convient lui-même au même 
+endroit. S&#39;il y a des exceptions à cette regle (ce
+que nous n&#39;avons pas vérifié), elles sont apparemment 
+fort rares, &amp; viennent sans doute de quelque
+structure particuliere des corps, qui les empêche de
+pouvoir être véritablement regardés comme des
+corps sonores. Le son d&#39;une pincette, par exemple,
+peut renfermer beaucoup de sons discordans : mais
+aussi le son d&#39;une pincette n&#39;est guere un son harmonique 
+&amp; musical ; c&#39;est plûtôt un bruit sourd qu&#39;un
+son. D&#39;ailleurs M. Rameau, à l&#39;oreille duquel on
+peut bien s&#39;en rapporter sur ce sujet, nous dit dans
+la <i>génération harmonique, p. 17.</i> que si on frappe une
+pincette, on n&#39;y apperçoit d&#39;abord qu&#39;une confusion
+de sons qui empêche d&#39;en distinguer aucun ; mais
+que les plus aigus venant à s&#39;éteindre insensiblement
+à mesure que la résonnance diminue, alors le son le
+plus pur, celui du corps total, commence à s&#39;emparer 
+de l&#39;oreille, qui distingue encore avec lui sa
+douzieme &amp; sa dix-septieme.
+</p>
+<p>
+La question <i>si l&#39;accompagnement représente le corps
+sonore</i>, produit naturellement celle ci, <i>si la mélodie
+est suggérée par l&#39;harmonie</i>. Voici quelques réflexions
+sur ce sujet.
+<pb n="7:60" facs="V7/ENC_7-60.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+1°. Quel parti qu&#39;on prenne sur la question proposée,
+nous croyons (&amp; sans doute il n&#39;y aura pas
+là-dessus deux avis) que l&#39;expression de la mélodie
+dépend en grande partie de l&#39;harmonie qui y est
+jointe, &amp; qu&#39;un même chant nous affectera différemment,
+suivant la différence des basses qu&#39;on y
+adaptera : sur quoi <i>voyez la suite de cet article</i>. M. Rameau a prouvé que ce chant <i>sol ut</i> peut avoir vingt
+<i>basses fondamentales</i> différentes, &amp; par conséquent
+un nombre beaucoup plus grand de basses continues.
+</p>
+<p>
+2°. Il paroît que le chant diatonique de la gamme
+<i>ut ré mi fa sol la si ut</i>, nous est suggéré par la <i>basse
+fondamentale</i>, ainsi que je l&#39;ai expliqué, d&#39;après M.
+Rameau, dans mes <i>Elémens de Musique</i>. En effet c&#39;est
+une vérité d&#39;expérience, que quand nous voulons
+monter ou descendre on partant de <i>ut</i> par les moindres 
+degrés naturels à la voix, nous entonnons naturellement 
+&amp; sans maître cette gamme, soit en
+montant, soit en descendant : or pourquoi la voix se
+porte-t-elle naturellement &amp; d&#39;elle-même à l&#39;intonnation 
+de ces intervalles? Il me semble que l&#39;on ne
+sauroit en donner une raison plausible, qu&#39;en regardant 
+ce chant de la gamme comme suggéré par la
+<i>basse fondamentale</i>. Cela paroît encore plus sensible
+dans la gamme des Grecs, <i>si ut ré mi fa sol la</i>. Cette
+gamme a une <i>basse fondamentale</i> encore plus simple
+que la nôtre ; &amp; il paroît que les Grecs en disposant
+ainsi leur gamme, en avoient senti la <i>basse fondamentale</i> sans l&#39;avoir peut-être suffisamment developpée : du moins il ne nous en reste rien dans leurs
+écrits. <i>Voyez</i> sur tout cela <i>mes Elémens de Musique,
+art. 45. &amp; 47.</i> &amp; l&#39;<i>article</i> <sc><ref target="head:Gamme" type="search">Gamme</ref></sc>. Les consonances
+altérées qui se trouvent dans ces deux gammes, &amp;
+dont l&#39;oreille n&#39;est point choquée, parce que les consonances 
+avec la <i>basse fondamentale</i> sont parfaitement
+justes, semblent prouver que la <i>basse fondamentale</i> est
+en effet le vrai guide secret de l&#39;oreille dans l&#39;intonation 
+de ces gammes. Il est vrai qu&#39;on pourroit nous
+faire ici une difficulté. La gamme des Grecs, nous
+dira-t-on, a une <i>basse fondamentale</i> plus simple que
+la nôtre : pourquoi la nôtre nous paroît-elle plus
+facile à entonner que celle des Grecs? Celle-ci commence 
+par un semi-ton ; au lieu que l&#39;intonation
+naturelle semble nous porter à monter d&#39;abord d&#39;un
+ton, comme nous le faisons dans notre gamme. Je
+répons que la gamme des Grecs est à la verité mieux
+disposée que la nôtre pour la simplicite de la basse ;
+mais que la nôtre est disposée plus naturellement par
+la facilité de l&#39;intonation. Notre gamme commence
+par le son fondamental <i>ut</i>, &amp; c&#39;est en effet par ce son
+qu&#39;il faut commencer ; c&#39;est celui d&#39;où dépendent
+tous les autres, &amp; pour ainsi dire, qui les renferme:
+au contraire la gamme des Grecs, ni la <i>basse fondamentale</i> de cette gamme, ne commencent point par
+<i>ut ;</i> mais c&#39;est de ce <i>ut</i> qu&#39;il faut partir pour diriger
+l&#39;intonation, soit en montant, soit en descendant.
+Or en montant depuis <i>ut</i>, l&#39;intonation dans la gamme 
+même des Grecs donne <i>ut ré mi fa sol la ;</i> &amp; il
+est si vrai que le son fondamental <i>ut</i> est ici le vrai
+guide secret de l&#39;oreille, que si, avant d&#39;entonner <i>ut</i>,
+on veut y monter en passant par le ton de la gamme
+le plus immédiatement voisin de cet <i>ut</i>, on ne peut
+y parvenir que par le son <i>si</i> &amp; par le semi-ton <i>si
+ut</i>. Or pour passer du <i>si</i> à l&#39;<i>ut</i> par ce demi-ton, il
+faut nécessairement que l&#39;oreille soit déjà préoccupée 
+du mode d&#39;<i>ut</i>, sans quoi on entonneroit <i>si ut
+#</i>, &amp; on seroit dans un autre mode. Ce n&#39;est pas
+tout ; en montant diatoniquement depuis <i>ut</i>, on entonne 
+naturellement &amp; facilement les six notes, <i>ut,
+ré, mi, fa, sol, la ;</i> c&#39;étoient même ces six notes
+seules qui composoient la gamme de Gui d&#39;Arezzo.
+Si on veut aller plus loin, on commence à rencontrer 
+un peu de difficulté dans l&#39;intonation du <i>si</i>
+<milestone unit="column" n="2" />
+qui doit suivre le <i>la:</i> cette difficulté, comme l&#39;a
+remarqué M. Rameau, vient des trois tons de suite,
+<i>fa, sol, la, si ;</i> &amp; si on veut l&#39;éviter, on ne le peut
+qu&#39;en faisant ou en supposant une espece de repos
+entre le son <i>fa</i> &amp; le son <i>sol</i>, &amp; en partant du <i>sol</i> pour
+recommencer une autre demi-gamme <i>sol la si ut</i>,
+toute semblable à <i>ut ré mi fa</i>, &amp; qui est réellement
+dans un autre mode. <i>Voyez</i> <sc><ref target="head:Mode" type="search">Mode</ref> <i>&amp;</i> <ref target="head:Gamme" type="search">Gamme</ref></sc>. Or
+cette difficulté d&#39;entonner trois tons de suite sans
+un repos exprimé ou sousentendu du <i>fa</i> au <i>sol</i>, s&#39;explique 
+naturellement, comme nous le ferons voir au
+<i>mot</i> <sc><ref target="head:Gamme" type="search">Gamme</ref></sc>, en ayant recours à la <i>basse fondamentale</i> naturelle de notre échelle diatonique. Tout semble 
+donc concourir à prouver que cette basse est la
+vraie boussole de l&#39;oreille dans le chant de notre
+gamme, &amp; le guide secret qui nous suggere ce
+chant.
+</p>
+<p>
+3°. Dans tout autre chant que celui de la gamme,
+comme ce chant sera absolument arbitraire,
+puisque les intervalles, soit en montant, soit en descendant,
+y sont au gré de celui qui chante, on pourroit 
+être moins porté à croire que ce chant soit suggéré 
+par la <i>basse fondamentale</i>, que les Musiciens même 
+ont quelquefois peine à trouver. Cependant on
+doit faire ici trois observations. La premiere, c&#39;est
+que dans la mélodie on ne peut pas aller indifféremment,
+&amp; par toutes sortes d&#39;intervalles, d&#39;un
+son à un autre quelconque ; il y a des intervalles qui
+rendroient le chant dur, escarpé &amp; peu naturel : or
+ces intervalles sont précisément ceux qu&#39;une bonne
+<i>basse fondamentale</i> proscrit. Tout chant paroît donc
+avoir un guide secret dans la <i>basse fondamentale</i>. La
+seconde observation, c&#39;est qu&#39;il n&#39;est pas rare de voir
+des personnes qui n&#39;ont aucune connoissance en musique,
+mais qui ont naturellement de l&#39;oreille, trouver 
+d&#39;elles-mêmes la basse d&#39;un chant qu&#39;elles entendent,
+&amp; accompagner ce chant sans préparation:
+n&#39;est-ce pas une preuve que le fondement de ce chant
+est dans la basse, &amp; qu&#39;une oreille sensible l&#39;y démêle?
+La troisieme observation consistera à demander
+aux Musiciens si un chant est susceptible de plusieurs
+basses également bonnes. S&#39;il y en a plusieurs, il est
+difficile de soûtenir que la mélodie est toûjours suggérée 
+par l&#39;harmonie, du-moins dans les cas où la
+basse ne sera pas unique. Mais s&#39;il n&#39;y a qu&#39;une
+seule de toutes les basses possibles qui convienne
+parfaitement au chant, comme on peut avoir d&#39;assez
+bonnes raisons de le croire, ne peut-on pas penser
+que cette basse est la <i>basse fondamentale</i> qui a suggéré 
+le chant? Il me semble que cette question sur laquelle 
+je n&#39;ose prononcer absolument, mais que tout
+musicien habile &amp; impartial doit être en état de décider,
+peut conduire à la solution exacte de la question 
+proposée.
+</p>
+<p>
+Peut-être quelques musiciens prétendront-ils que
+ces deux questions sont fort différentes, &amp; qu&#39;il
+pourroit n&#39;y avoir qu&#39;une bonne basse possible à un
+chant, sans que le chant fût suggéré par cette basse ;
+mais pour leur repondre, je les prierai d&#39;écouter
+avec attention un chant agréable dont la basse est
+bien faite, tel que celui d&#39;un grand nombre de
+beaux airs italiens ; de remarquer en l&#39;écoutant,
+combien la basse paroît favorable à ce chant pour
+en faire sortir toute la beauté, &amp; d&#39;observer qu&#39;elle
+ne paroît faire avec le chant qu&#39;un même corps ;
+ensorte que l&#39;oreille qui écoute le chant est forcée
+d&#39;écouter aussi la basse, même sans aucune connoissance 
+en Musique, ni aucune habitude d&#39;en entendre : je les prierois enfin de faire attention que cette
+basse paroit contenir tout le fond &amp;, pour ainsi dire,
+tout le vrai dessein du chant, que le dessus ne fait
+que développer ; &amp; je crois qu&#39;ils conviendront en
+consequence, qu&#39;on peut regarder un chant qui n&#39;a
+qu&#39;une basse, comme étant suggéré par cette basse.
+<pb n="7:61" facs="V7/ENC_7-61.jpeg" />
+<milestone unit="column" n="1" />
+Je dirai plus : si, comme je le crois, il y a un grand
+nombre de chants qui n&#39;ont qu&#39;une seule bonne <i>basse
+fondamentale</i> possible, &amp; si, comme je le crois encore,
+ce sont les plus agréables, peut-être en devra-t-on conclure que tout chant qui paroîtra également
+susceptible de plusieurs basses, est un chant de pure
+fantaisie, un chant métif, si on peut parler ainsi.
+</p>
+<p>
+Mais dans la crainte d&#39;avancer sur cette matiere
+des opinions qui pourroient paroître hasardées, je
+m&#39;en tiens à la simple question que j&#39;ai faite, &amp; j&#39;invite 
+nos célebres artistes à nous apprendre si un même 
+chant peut avoir plusieurs basses également bonnes.
+S&#39;ils s&#39;accordent sur la négative, il restera encore 
+à expliquer pourquoi cette <i>basse fondamentale</i>
+(la seule vraiment convenable au chant, &amp; qu&#39;on
+peut regarder comme l&#39;ayant suggéré), pourquoi,
+dis-je, cette basse échappe souvent à tant de musiciens 
+qui lui en substituent une mauvaise? On pourra 
+répondre que c&#39;est saute d&#39;attention à ce guide
+secret, qui les a conduits, sans qu&#39;ils s&#39;en apperçussent,
+dans la composition de la mélodie. Si cette réponse 
+ne satisfait pas entierement, la difficulté sera
+à-peu-près la même pour ceux qui nieroient que
+l&#39;harmonie suggere la mélodie. En effet dans la supposition 
+présente qu&#39;un chant donné n&#39;admet qu&#39;une 
+seule bonne basse, il faut nécessairement de
+deux choses l&#39;une, ou que le chant suggere la basse,
+ou que la basse suggere le chant ; &amp; dans les deux
+cas il sera également embarrassant d&#39;expliquer pourquoi 
+un musicien ne rencontre pas toûjours la véritable 
+basse.
+</p>
+<p>
+La question que nous venons de proposer sur la
+multiplicité des basses, n&#39;est pas décidée par ce que
+nous avons dit plus haut d&#39;après M. Rameau, que le
+chant <i>sol ut</i> peut avoir vingt <i>basses fondamentales</i> différentes : car ceux qui croiroient qu&#39;un chant ne
+peut avoir qu&#39;une seule <i>basse fondamentale</i> qui soit
+bonne, pourroient dire que de ces vingt <i>basses fondamentales</i> il n&#39;y en a qu&#39;une qui convienne au chant
+<i>sol ut, relativement à ce qui précede &amp; à ce qui suit</i>.
+Mais, pourroit-on ajoûter, si l&#39;on n&#39;avoit que ce seul
+chant <i>sol ut</i>, quelle seroit la vraie <i>basse fondamentale</i>
+parmi ces vingt? C&#39;est encore un probleme que je
+laisse à décider aux Musiciens, &amp; dont la solution ne
+me paroît pas aisée. La vraie <i>basse fondamentale</i> est-elle 
+toûjours la plus simple de toutes les basses possibles,
+&amp; quelle est cette basse la plus simple? quelles 
+sont les regles par lesquelles on peut la déterminer 
+(car ce mot <i>simple</i> est bien vague)? En conséquence 
+n&#39;est-ce pas s&#39;écarter de la nature, que de
+joindre à un chant une basse différente de celle qu&#39;il
+présente naturellement, pour donner à ce chant par
+le moyen de la nouvelle basse, une expression singuliere 
+&amp; détournée? Voilà des questions dignes d&#39;exercer 
+les habiles artistes. Nous nous contentons encore 
+de les proposer, sans entreprendre de les résoudre.
+</p>
+<p>
+Au reste, soit que l&#39;harmonie suggere ou non la
+mélodie, il est certain au moins qu&#39;elle est le fondement 
+de l&#39;harmonie dans ce sens qu&#39;il n&#39;y a point
+de bonne mélodie, lorsqu&#39;elle n&#39;est pas susceptible
+d&#39;une harmonie réguliere. <i>Voy.</i> <sc><ref target="head:Harmonie" type="search">Harmonie</ref>, <ref target="head:Liaison" type="search">Liaison</ref></sc>, <i>&amp;c.</i> M. Serre, dans son essai sur les principes
+de l&#39;harmonie, <i>Paris 1753</i>, nous assûre tenir du célebre 
+Geminiani le fait suivant : que lorsque ce
+grand musicien a quelque <i>adagio</i> touchant à composer,
+il ne touche jamais son violon ni aucun autre 
+instrument ; mais qu&#39;il conçoit &amp; écrit d&#39;abord
+une suite d&#39;accords ; qu&#39;il ne commence jamais par
+une simple succession de sons, par une simple mélodie ; 
+&amp; que s&#39;il y a une partie qui dans l&#39;ordre de ses
+conceptions ait le pas sur les autres, c&#39;est bien plûtôt 
+celle de la basse que toute autre ; &amp; M. Rameau
+remarque que l&#39;on a dit sort à-propos, qu&#39;<i>une basse</i>
+<milestone unit="column" n="2" />
+<i>bien chantante nous annonce une belle musique</i>. On
+peut remarquer en passant par ce que nous venons
+de rapporter de M. Geminiani, que non-seulement
+il regarde la mélodie comme ayant son principe
+dans une bonne harmonie, mais qu&#39;il paroit même
+la regarder comme suggérée par cette harmonie.
+Une pareille autorité donneroit beaucoup de poids
+à cette opinion, si en matiere de science l&#39;autorité
+étoit un moyen de décider. D&#39;un autre côté il me
+paroît difficile, je l&#39;avoue, de produire une musique 
+de génie &amp; d&#39;enthousiasme, en commençant
+ainsi par la basse.
+</p>
+<p>
+Mais parce que la mélodie a son fondement dans
+l&#39;harmonie, faut-il avec certains auteurs modernes
+donner tout à l&#39;harmonie, &amp; préférer son effet à celui 
+de la mélodie? Il s&#39;en faut bien que je le pense:
+pour une oreille que l&#39;harmonie affecte, il y en a
+cent que la mélodie touche préférablement ; c&#39;est
+une vérité d&#39;expérience incontestable. Ceux qui
+soûtiendroient le contraire, s&#39;exposeroient à tomber 
+dans le défaut qui n&#39;est que trop ordinaire à nos
+musiciens françois, de tout sacrifier à l&#39;harmonie,
+de croire relever un chant trivial par une basse
+fort travaillée &amp; fort peu naturelle, &amp; de s&#39;imaginer,
+en entassant parties sur parties, avoir fait de
+l&#39;harmonie, lorsqu&#39;ils n&#39;ont fait que du bruit. Sans
+doute une basse bien faite soûtient &amp; nourrit agréablement 
+un chant ; alors, comme nous l&#39;avons déjà
+dit, l&#39;oreille la moins exercée qui les entend en même 
+tems, est forcée de faire une égale attention à
+l&#39;un &amp; à l&#39;autre, &amp; son plaisir continue d&#39;être un,
+parce que son attention, quoique portée sur différens 
+objets, est toûjours une : c&#39;est ce qui fait surtout 
+le charme de la bonne musique italienne ; &amp;
+c&#39;est-là cette unité de mélodie dont M. Rousseau a
+si bien établi la nécessité dans la lettre sur la Musique françoise. C&#39;est avec la même raison qu&#39;il a
+dit au <i>mot</i> <sc>Accompagnement</sc>: <i>Les Italiens ne
+veulent pas qu&#39;on entende rien dans l&#39;accompagnement,
+dans la basse, qui puisse distraire l&#39;oreille de l&#39;objet principal,
+&amp; ils sont dans l&#39;opinion que l&#39;attention s&#39;évanoüit 
+en se partageant</i>. Il en conclut très-bien, qu&#39;il
+y a beaucoup de choix à faire dans les sons qui
+forment l&#39;accompagnement, précisément par cette
+raison, que l&#39;attention ne doit pas s&#39;y porter : en effet 
+parmi les différens sons que l&#39;accompagnement
+doit fournir en supposant la basse bien faite, il faut
+du choix pour déterminer ceux qui s&#39;incorporent
+tellement avec le chant, que l&#39;oreille en sente l&#39;effet 
+sans être pour cela distraite du chant, &amp; qu&#39;au
+contraire l&#39;agrément du chant en augmente. L&#39;harmonie sert donc à nourrir un beau chant ; mais il
+ne s&#39;ensuit pas que tout l&#39;agrément de ce chant soit
+dans l&#39;harmonie. Pour se convaincre bien évidemment du contraire, il n&#39;y a qu&#39;à joüer sur un clavecin 
+la basse du chant bien chiffrée, mais denuée
+de son dessus ; on verra combien le plaisir sera diminué,
+quoique le dessus soit réellement contenu dans
+cette basse. Concluons donc contre l&#39;opinion que
+nous combattons, que l&#39;expérience lui est absolument 
+contraire ; &amp; en convenant d&#39;ailleurs des
+grands effets de l&#39;harmonie dans certains cas, reconnoissons 
+la mélodie dans la plûpart comme l&#39;objet 
+principal qui flate l&#39;oreille. Préférer les effets de
+l&#39;harmonie à ceux de la mélodie, sous ce prétexte
+que l&#39;une est le fondement de l&#39;autre, c&#39;est à peu-près
+comme si on vouloit soûtenir que les fondemens d&#39;une 
+maison sont l&#39;endroit le plus agréable à habiter,
+parce que tout l&#39;édifice porte dessus.
+</p>
+<p>
+Nous prions le lecteur de regarder ce que nous
+venons dire sur l&#39;harmonie &amp; sur la mélodie, comme 
+un supplément au dernier chapitre du premier
+livre de nos Elémens de Musique ; supplément qui
+nous a paru nécessaire pour démêler ce qu&#39;il peut
+<pb n="7:62" facs="V7/ENC_7-62.jpeg" />
+<milestone unit="column" n="1" />
+y avoir de problématique dans la question, <i>si la mélodie 
+est suggérée par l&#39;harmonie?</i>
+</p>
+<p>
+Que dirons-nous de ce qu&#39;on a avancé dans ces
+derniers tems, que la Géométrie est fondée sur la
+résonnance du corps sonore ; parce que la Géométrie est, dit-on, fondée sur les proportions, &amp;
+que le corps sonore les engendre toutes? Les Géometres nous sauroient mauvais gré de refuter sérieusement 
+de pareilles assertions : nous nous permettrons 
+seulement de dire ici, que la considération
+des proportions &amp; des progressions est entierement
+inutile à la théorie de l&#39;art musical : je pense l&#39;avoir
+suffisamment prouvé par mes élémens même de Musique, où j&#39;ai donné, ce me semble, une theorie
+de l&#39;harmonie assez bien déduite, suivant les principes 
+de M. Rameau, sans y avoir fait aucun usage
+des proportions ni des progressions. En effet, quand
+les rapports de l&#39;octave, de la quinte, de la tierce,
+<i>&amp;c.</i> seroient tout autres qu&#39;ils ne sont ; quand ces
+rapports ne formeroient aucune progression ; quand
+on n&#39;y remarqueroit aucune loi ; quand ils seroient
+incommensurables, soit en eux-mêmes, soit entre eux,
+la résonnance du corps sonore, qui produit la
+douzieme &amp; la dix-septieme majeures, &amp; qui fait
+frémir la douzieme &amp; la dix-septieme majeures au-dessous 
+de lui, suffiroit pour fonder tout le systeme
+de l&#39;harmonie. M Rousseau a très-bien prouvé, au
+<i>mot</i> <sc>Consonance</sc>, que la considération des rapports 
+est tout-à-fait illusoire pour rendre raison du
+plaisir que nous font les accords consonans ; la considération 
+des proportions n&#39;est pas moins inutile
+dans la théorie de la Musique. Les géometres qui ont
+voulu introduire le calcul dans cette derniere science,
+ont eu grand tort de chercher dans une source
+tout-à-fait étrangere, la cause du plaisir que la Musique nous procure ; le calcul peut à la vérité faciliter 
+l&#39;intelligence de certains points de la théorie,
+comme des rapports entre les tons de la gamme, &amp;
+du tempérament ; mais ce qu&#39;il faut de calcul pour
+traiter ces deux points est si simple &amp;, pour tout
+dire, si peu de chose, que rien ne mérite moins d&#39;étalage.
+Combien donc doit-on desapprouver quelques 
+musiciens qui entassent dans leurs écrits chiffres 
+sur chiffres, &amp; croyent tout cet appareil nécessaire 
+à l&#39;art? La fureur de donner à leurs productions 
+un faux air scientifique, qui n&#39;en impose qu&#39;aux
+ignorans, les a fait tomber dans ce défaut, qui ne
+sert qu&#39;à rendre leurs traités beaucoup moins bons
+&amp; beaucoup plus obscurs. Je crois qu&#39;en qualité de
+géometre, on me pardonnera de protester ici (si je
+puis m&#39;exprimer de la sorte) contre cet abus ridicule
+de la Géométrie dans la Musique, comme j&#39;ai déjà
+reclamé ailleurs contre l&#39;abus de la même science
+dans la Physique, dans la Métaphysique, <i>&amp;c. Voyez</i>
+<sc><ref target="head:Application" type="search">Application</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Qu&#39;il me soit encore permis d&#39;ajoûter (car une
+vérité qu&#39;on a dite, conduit bien-tôt &amp; comme nécessairement 
+à une autre) que les explications &amp; les
+raisonnemens physiques ne sont pas plus utiles à la
+théorie de l&#39;art musical, ou plûtôt le sont encore
+moins que les calculs géométriques. Nous savons,
+par exemple, &amp; nous le disons ici par l&#39;intérêt que
+nous prenons aux ouvrages de M. Rameau, que cet
+artiste célebre se reproche avec raison d&#39;avoir mêlé
+dans le premier chapitre de sa Génération harmonique,
+aux expériences lumineuses qui font la base de
+son système, l&#39;hypothèse physique dont nous avons
+parlé sur la differente élasticité des parties de l&#39;air,
+par le moyen de laquelle il prétend expliquer ces
+expériences ; hypothèse purement conjecturale, &amp;
+d&#39;ailleurs insuffisante pour rendre raison des phénomenes.
+Ceux qui ont les premiers proposé cette hypothèse 
+(car M. Rameau convient qu&#39;il n&#39;en est pas
+l&#39;auteur), ont pû la donner comme une opinion ;
+<milestone unit="column" n="2" />
+mais jamais on n&#39;a dû en faire la base d&#39;un traité de
+l&#39;harmonie. Des faits, &amp; point de verbiage ; voilà la
+grande regle en Physique comme en Histoire.
+</p>
+<p>
+Tenons-nous-en donc aux faits ; &amp; pour finir ce
+long article par quelque chose qui intéresse véritablement 
+les artistes &amp; les amateurs, entretenons ici
+nos lecteurs d&#39;une belle expérience du célebre M.
+Tartini, qui a rapport à la <i>basse fondamentale</i>.
+</p>
+<p>
+Voici cette experience telle qu&#39;elle est rapportée
+par l&#39;auteur même, dans son ouvrage qui a pour titre,
+<i>Trattato di Musica, secundo la vera scienza dell&#39;- armonia</i>, 
+imprimé à Padoue 1754; ouvrage qui n&#39;est
+pas également lumineux par-tout, mais qui contient
+d&#39;excellentes choses, &amp; dont nous pourrons faire
+usage dans la suite pour enrichir plusieurs articles
+de l&#39;Encyclopédie.
+</p>
+<p>
+Etant donnés à-la-fois (c&#39;est M. Tartini qui parle)
+deux sons produits par un même instrument capable
+de tenue, c&#39;est-à-dire qui puisse faire durer &amp; soûtenir 
+le son, comme trompette, hautbois, violon,
+cor-de-chasse, <i>&amp;c.</i> ces deux sons en produiront un
+troisieme très-sensible. Ainsi, qu&#39;on tire en même
+tems d&#39;un violon deux sons forts &amp; soûtenus en tel
+rapport l&#39;un à l&#39;autre qu&#39;on voudra, ces deux sons
+en produiront un troisieme, que nous assignerons
+tout-à-l&#39;heure. La même chose aura lieu, si au lieu
+de tirer les deux sons à-la-fois d&#39;un même violon, on
+les tire séparément de deux violons éloignés l&#39;un de
+l&#39;autre de cinq ou six pas ; placé dans l&#39;intervalle des
+deux violons, on entendra le troisieme son, &amp; on
+l&#39;entendra d&#39;autant mieux, qu&#39;on sera plus près du
+milieu de cet intervalle, &amp; d&#39;autant moins, qu&#39;on
+se rapprochera davantage d&#39;un des deux violons.
+La même expérience aura lieu, &amp; même plus sensiblement 
+encore, si on se sert de hautbois au lieu
+de violons. Voici maintenant quel est ce troisieme
+son dans tous les cas.
+</p>
+<p>
+Deux sons à l&#39;unisson ou à l&#39;octave, ne donnent
+point de troisieme son.
+</p>
+<p>
+Deux sons à la quinte, comme <i>ut sol</i>, donnent
+pour troisieme son l&#39;unisson <i>ut</i> du son le plus grave.
+Cet unisson se distingue difficilement, mais il se distingue.
+</p>
+<p>
+Deux sons à la quarte, comme <i>ut, fa</i>, donnent la
+quinte <i>fa</i> au-dessous du son le plus grave <i>ut</i>.
+</p>
+<p>
+Deux sons à la tierce majeure, comme <i>ut, mi</i>,
+donnent l&#39;octave <i>ut</i> au-dessous du son le plus grave
+<i>ut</i>.
+</p>
+<p>
+Deux sons à la tierce mineure, comme <i>ut #, mi</i>,
+donnent la dixieme majeure <i>la</i>, au-dessous du son
+le plus grave <i>ut #</i>.
+</p>
+<p>
+Deux sons à l&#39;intervalle d&#39;un ton majeur, <i>ut ré</i>,
+donnent la double octave au-dessous du son le plus
+grave <i>ut</i>.
+</p>
+<p>
+Deux sons à l&#39;intervalle d&#39;un ton mineur, <i>ré, mi</i>,
+donnent l&#39;<i>ut</i> qui est à la seizieme au-dessous du son
+le plus grave <i>ré</i>.
+</p>
+<p>
+Deux sons à l&#39;intervalle d&#39;un semi-ton majeur,
+<i>si, ut</i>, donnent l&#39;<i>ut</i> à la triple octave au-dessous du
+son le plus aigu <i>ut</i>.
+</p>
+<p>
+Deux sons à l&#39;intervalle d&#39;un demi-ton mineur,
+<i>sol, sol #</i>, donnent l&#39;<i>ut</i> qui est à la vingt-sixieme au-dessous 
+du son le plus grave <i>sol</i>.
+</p>
+<p>
+La tierce majeure renversée en sixte mineure,
+donne le même troisieme son qu&#39;auparavant. Ainsi
+on a vû ci-dessus que la tierce majeure <i>ut mi</i> donnoit 
+l&#39;octave au-dessous d&#39;<i>ut</i>. La sixte mineure <i>mi ut</i>,
+dans laquelle <i>ut</i> est monté à l&#39;octave, <i>mi</i> restant sur
+le même degré, donnera donc la double octave au-dessous 
+de ce dernier <i>ut</i>.
+</p>
+<p>
+La tierce mineure renversée en sixte majeure,
+donne le même son qu&#39;auparavant, mais une octave 
+plus haut : la tierce mineure <i>ut</i> # <i>mi</i> donne,
+comme on l&#39;a vû, le <i>la</i> qui est à la douzieme au-dessous<gap type="hyphenpb" />
+<pb n="7:63" facs="V7/ENC_7-63.jpeg" />
+<milestone unit="column" n="1" />
+de <i>mi ;</i> laissez <i>mi</i> sur le même degré, &amp; substituez 
+à l&#39;<i>ut</i> # son octave à l&#39;aigu pour avoir la sixte
+majeure <i>mi ut</i> #; le troisieme son sera <i>la</i>, quinte
+au-dessous de <i>mi</i>, c&#39;est-à-dire une octave plus haut
+que le <i>la</i> du premier cas.
+</p>
+<p>
+M. Tartini ajoûte que le troisieme son résultant
+de la quarte, des deux tierces, des deux sixtes, soit
+majeures, soit mineures, est le plus facile à distinguer ; 
+parce que ce son est toûjours plus grave qu&#39;aucun 
+des deux qui le produisent : que le troisieme son
+produit par la quinte se distingue plus difficilement,
+parce qu&#39;il est à l&#39;unisson du son le plus grave ; qu&#39;il
+se distingue plus difficilement dans les tons majeurs
+&amp; mineurs, parce que ces tons différant peu l&#39;un de
+l&#39;autre, l&#39;intonation les confond aisément, &amp; très difficilement 
+dans les demi-tons majeurs &amp; mineurs,
+à cause de la grande difficulté de les distinguer dans
+l&#39;intonation. Cependant la petite différence de 80
+à 81 qui est entre le ton majeur &amp; le ton mineur
+(<i>Voyez</i> <sc><ref target="head:Comma" type="search">Comma</ref></sc>), &amp; celle de 125 à 128 qui est entre 
+le demi-ton majeur &amp; le mineur (<i>Voyez</i> <sc><ref target="head:Apotome" type="search">Apotome</ref> <i>&amp;</i> <ref target="head:Enharmonique" type="search">Enharmonique</ref></sc>), produisent, comme
+on l&#39;a vû, un troisieme son fort différent dans les
+deux cas.
+</p>
+<p>
+M. Tartini ne nous apprend point quel son résulte 
+du triton &amp; de la fausse quinte. Nous invitons 
+les Musiciens à le chercher. Mais l&#39;auteur observe 
+qu&#39;à l&#39;exception de l&#39;unisson &amp; de l&#39;octave, il
+n&#39;est point d&#39;intervalle commensurable ou non, appréciable 
+ou non, réductible ou non aux intervalles 
+connus, qui ne produise un troisieme son, lequel 
+sera aussi commensurable ou non, appréciable
+ou non. réductible ou non aux intervalles connus,
+mais qui sera toûjours très-aisé à distinguer des deux
+autres.
+</p>
+<p>
+Il faut de plus que les intervalles dont on a parlé
+ci-dessus, soient parfaitement justes pour produire
+le troisieme son qui leur a été assigné; car pour peu
+qu&#39;on altere l&#39;intervalle, le troisieme son change:
+par exemple, l&#39;intervalle de <i>sol</i> à <i>si b</i> n&#39;étant point
+une tierce mineure juste, ne produira point pour
+troisieme son la douzieme <i>mi b</i>, au-dessous de <i>si b</i>,
+mais la quatorzieme <i>ut</i> au-dessous ; &amp; ainsi des autres.
+</p>
+<p>
+M. Tartini, après avoir rapporté ces différentes
+expériences, suppose un chant compose de deux
+parties ; il trouve par le moyen des deux sons qui
+se répondent en même tems, le troisieme son qui
+en resulte : ce troisieme son, dit-il, est la vraie
+basse du chant, &amp; toute autre basse sera un <i>paralogisme ;</i> expression énergique &amp; remarquable.
+</p>
+<p>
+Il remarque aussi une conséquence assez singuliere
+qui suit de ses expériences : soient les sons <i>ut, sol,
+ut, mi, sol</i>, en cette progression, 1/2, 1/3, 1/4, 1/5, 1/6, le
+son troisieme résultant de deux sons consécutifs quelconques 
+de cette progression, sera toûjours le son
+le plus bas, <i>ut</i> ou 1/2: c&#39;est une suite des expériences 
+qu&#39;on vient de rapporter. Si on continue la progression 
+1/6, 1/7, 1/8, 1/9, 1/10, on verra par ces mêmes
+expériences que 1/8, 1/9 qui forment le ton majeur,
+&amp; 1/9, 1/10 qui forment le ton mineur (<i>Voyez</i> <sc><ref target="head:Ton" type="search">Ton</ref></sc> <i>&amp;</i>
+mes <i>Elémens de Musique</i>), donnent aussi le même
+<i>ut</i> ou 1/2 que les sont précédens ont donné. Par les
+mêmes expériences, 1/15, 1/16 qui forment le demi-ton
+majeur, donnent 1/2 ou le son <i>ut ;</i> &amp; enfin 1/24, 1/25
+qui forment le demi-ton mineur, donnent encore
+1/2 ou le son <i>ut</i>. En général soit imaginée cette suite
+de sons en montant, &amp; soit mise au-dessous de
+chaque son sa valeur par rapport au premier que
+je nommerai 1/2,
+<gap type="score" />
+<i>Ut sol ut mi sol ut ré mi sol si ut sol sol</i> #
+1/2 1/3 1/4 1/5 1/6 1/8 1/9 1/10 1/12 1/13 1/16 1/24 1/25 ;
+Deux sons voisins quelconques de cette suite, dont
+le dénominateur ne différera que de l&#39;unité, rendront<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+toûjours pour troisieme son le son grave 1/2,
+suivant les expériences de M. Tartini.
+</p>
+<p>
+Or de-là ce grand musicien conclut, soit par pure
+analogie, soit qu&#39;en effet (ce qu&#39;il ne nous dit pas)
+il ait poussé sur ce sujet l&#39;expérience plus loin ; il
+conclut, dis-je, que si on complete cette suite &amp;
+qu&#39;on l&#39;étende à l&#39;infini en cette sorte,
+1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/9, 1/10, 1/11, 1/12, 1/13, <i>&amp;c.</i> 1/100 <i>&amp;c.</i>
+deux sons voisins quelconques de cette suite rendront
+toûjours le son <i>ut ;</i> ce qui paroît en effet assez probable.
+</p>
+<p>
+Nous avons crû devoir nous presser de faire part
+à nos lecteurs d&#39;une si belle expérience, qui jusqu&#39;à
+présent est à-peu-près tout ce que nous connoissons
+de l&#39;ouvrage de M. Tartini. Nous tâcherons d&#39;extraire 
+du reste de son livre pour les <i>mots</i> 
+<sc><ref target="head:Harmonie" type="search">Harmonie</ref>, <ref target="head:Mélodie" type="search">Mélodie</ref>, <ref target="head:Mode" type="search">Mode</ref></sc>
+, <i>&amp;c.</i> &amp; autres semblables,
+ce que nous y trouverons de plus remarquable &amp; de
+plus utile. Nous nous bornerons ici à une observation.
+</p>
+<p>
+L&#39;expérience qu&#39;on vient de voir, donne la basse
+qui doit résulter de deux dessus quelconques ; mais
+elle ne donne pas, du-moins directement, celle qu&#39;il
+faut joindre à un dessus seul : cependant ne pourroit-on pas en tirer quelque parti pour la solution
+de ce dernier problème? Il s&#39;ensuit d&#39;abord, ce me
+semble, de l&#39;expérience qu&#39;on vient de rapporter,
+que si on a fait un second dessus à un chant quelconque,
+&amp; que la basse jointe à ces deux dessus,
+suivant les regles de M. Tartini, produise un tout
+desagréable à l&#39;oreille, c&#39;est une marque évidente
+que le second dessus a été mal fait. Cela posé, quand
+on aura fait un premier dessus quelconque, &amp; qu&#39;on
+lui aura donné une basse, cette basse doit nécessairement 
+par les regles de M. Tartini, donner le second
+dessus, qu&#39;il faut joindre au premier. Or ce second
+dessus étant ainsi fait, si les trois parties forment un
+ensemble desagréable, c&#39;est une marque que la basse
+étoit mal faite.
+</p>
+<p>
+Au reste nous devons avertir ici que dans l&#39;ouvrage 
+de M. Serre, intitulé <i>Essai sur les principes de
+l&#39;harmonie, Paris 1753</i>, il est fait mention de cette
+expérience de M. Tartini, comme d&#39;une chose dont
+plusieurs musiciens reconnoissent la vérité: l&#39;auteur
+ajoûte même qu&#39;on peut faire avec deux belles voix
+de femme, cette expérience que M. Tartini dit n&#39;avoir 
+faite que sur des instrumens ; mais M. Serre ne
+parle que du troisieme son produit par la tierce majeure,
+&amp; de celui que produit la tierce mineure. Il y
+a même cette différence entre M. Tartini &amp; M. Serre, que selon le premier les deux sons d&#39;une tierce
+majeure, comme <i>ut mi</i>, produisent l&#39;octave <i>ut</i> au-dessous 
+de <i>ut ;</i> &amp; selon le second, c&#39;est la double octave : de même selon le premier, les deux sons d&#39;une
+tierce mineure <i>la ut</i>, produisent la dixieme majeure <i>fa</i>
+au-dessous de <i>la ;</i> &amp; selon le second, c&#39;est la dix-septieme majeure au-dessous de <i>la</i>, ou l&#39;octave au-dessous de la dixieme <i>fa</i>. M. Serre ne parle point du
+troisieme son produit par deux autres sons quelconques,
+&amp; paroît d&#39;ailleurs n&#39;avoir fait aucun usage
+de cette expérience.
+</p>
+<p>
+Je finirai ici cet article, que je prie les artistes de
+lire &amp; de juger dans le même esprit dans lequel je l&#39;ai
+composé. Je serois très-flaté qu&#39;ils y trouvassent des
+vûes utiles pour le progrès de la théorie &amp; de la pratique 
+de l&#39;art. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

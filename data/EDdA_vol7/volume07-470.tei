@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27924" id="49:110:2" vol="7">
+<index type="head" value="Fougue" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Artificier." />
+<index type="normclass" value="Artificier" />
+<index type="englishclass" value="Fireworks" />
+<index type="generatedclass" value="Artificier" />
+<index type="pos" value="NA" />
+<head>Fougue</head>
+<p>
+<sc>Fougue</sc>, (<i>Artificier.</i>) les Artificiers appellent
+ainsi des serpenteaux un peu plus gros que les lardons,
+qui ont un effet plus varié, changeant subitement de
+vitesse &amp; de direction. <i>Voyez</i> <sc><ref target="head:Lardon" type="search">Lardon</ref></sc>.
+</p>
+<p>
+Ces variétés peuvent être causées de plusieurs
+manieres ; 1°. par un changement de composition,
+en mettant alternativement une charge de matiere vive 
+&amp; une de lente, en les foulant également.
+</p>
+<p>
+2°. En foulant la même matiere inégalement, &amp;
+donnant plus de coups de maillets sur l&#39;une que sur
+l&#39;autre.
+</p>
+<p>
+3°. En donnant du passage au feu dans une charge,
+&amp; non point à l&#39;autre ; ce qui se fait en mettant 
+un pouce, par exemple, de charge massive, &amp;
+ensuite une autre charge bien foulée &amp; percée d&#39;un
+petit trou au milieu, avec une meche de vilbrequin:
+le feu s&#39;insinuant dans le trou, pousse la <i>fougue</i>, &amp;
+trouvant le massif, qu&#39;il ne peut pénétrer que successivement,
+perd son mouvement, puis le reprend ; &amp;
+ainsi de suite.
+</p>
+<p>
+On voit que par ce moyen, en variant la longueur
+des parties percées &amp; des massives, on peut varier
+l&#39;action du feu comme l&#39;on veut, &amp; finir par un pétard,
+comme aux serpenteaux. La composition de
+cette espece de serpenteaux doit être un peu plus foible,
+c&#39;est-à-dire plus mêlée de charbon que celle des
+petits, parce que les trous augmentent le feu par son
+extension sur une plus grande quantité de matiere.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

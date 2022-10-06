@@ -1,0 +1,173 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29888" id="53:292" vol="7">
+<index type="head" value="GORTYNE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GORTYNE</head>
+<p>
+GORTYNE, (<i>Géog. anc.</i>) ancienne ville de l&#39;île
+de Crete, au milieu des terres, selon Ptolomée. M.
+de Tournefort après avoir été visiter ses ruines, en
+a joint l&#39;histoire à la description : <i>Lisez-la</i> dans ses
+voyages.
+</p>
+<p>
+L&#39;origine de <i>Gortyne</i> est aussi obscure que celle de
+la plûpart des autres villes du monde : on sait seulement 
+que <i>Gortyne</i> avoit partagé l&#39;empire de l&#39;île de
+Crete, avant que les Romains s&#39;en fussent emparés.
+</p>
+<p>
+Les ruines de cette ville qui sont à six milles du
+mont Ida, prouvent encore qu&#39;elle a dû être sa magnificence,
+puisqu&#39;on ne découvre de tous côtés que
+chapiteaux &amp; architraves, qui sont peut-être des
+débris de ce fameux temple de Diane, où Annibal
+après la défaite d&#39;Antiochus, fit semblant de cacher
+ses thrésors : on y voyoit encore dans le siecle passé
+plusieurs colonnes de jaspe rouge, semblable au jaspe 
+de Cone en Languedoc, &amp; plusieurs autres semblables 
+au campan employé à Versailles : mais comment 
+regarder ces objets précieux sans quelque peine?<gap type="hyphenpb" />
+<pb n="7:747" facs="V7/ENC_7-747.jpeg" />
+<milestone unit="column" n="1" />
+On laboure, on seme, on fait paître des troupeaux 
+au milieu des restes d&#39;une prodigieuse quantité
+de marbre, de jaspe &amp; de granite, travaillés avec
+le plus grand soin : au lieu de ces grands hommes
+qui avoient fait élever de si beaux édifices, on ne
+voit que de pauvres bergers. En parcourant tant de
+pays, autrefois le séjour des Arts, aujourd&#39;hui celui
+de la barbarie, on se rappelle à chaque pas l&#39;<i>Et campos 
+ubi Troja fuit</i>.
+</p>
+<p>
+A l&#39;extrémité de la ville, entre le septentrion &amp;
+le couchant, tout près d&#39;un ruisseau, qui sans doute
+est le fleuve Lethé, lequel au rapport de Strabon &amp;
+de Solin, se répandoit dans les rues de <i>Gortyne</i>, se
+trouvent encore d&#39;assez beaux restes d&#39;un temple du
+Paganisme.
+</p>
+<p>
+Théophraste, Varron &amp; Pline parlent d&#39;une platane 
+qui se voyoit à <i>Gortyne</i>, &amp; qui ne perdoit ses
+feuilles qu&#39;à-mesure que les nouvelles poussoient.
+Peut-être en trouveroit-on encore quelqu&#39;un de cette
+espece parmi ceux qui naissent en grand nombre le
+long du ruisseau Lethé, qu&#39;Europe remonta jusqu&#39;à
+<i>Gortyne</i> sur le dos d&#39;un taureau. Ce platane toûjours
+verd, parut autrefois si singulier aux Grecs, qu&#39;ils
+publierent que les premieres amours de Jupiter &amp;
+d&#39;Europe s&#39;étoient passées sous ses feuillages.
+</p>
+<p>
+Cette avanture, quoique fabuleuse, donna vraissemblablement 
+occasion aux habitans de <i>Gortyne</i> de
+frapper une médaille, qui est dans le cabinet du roi.
+On y voit d&#39;un côté Europe assez triste, assise sur un
+arbre moitié platane, moitié palmier, au pié duquel
+est une aigle à qui elle tourne le dos. La même princesse 
+est représentée de l&#39;autre côté assise sur un taureau,
+entouré d&#39;une bordure de feuilles de laurier.
+Antoine Augustin archevêque de Taragone (<i>dial. 1.</i>),
+parle d&#39;un semblable type. Pline dit que l&#39;on tâcha
+de multiplier dans l&#39;île l&#39;espece de ce platane ; mais
+qu&#39;elle dégénéra, c&#39;est-à-dire que les nouveaux piés
+perdirent leurs feuilles en hyver, de même que les
+communs.
+</p>
+<p>
+Nous avons encore des médailles de <i>Gortyne</i> frappées 
+aux têtes de Germanicus, de Caligula, de Trajan, d&#39;Aérien, dont peut-être la plus belle est dans
+le cabinet du roi. Elle marque qu&#39;on s&#39;assembloit à
+<i>Gortyne</i> pour y célebrer les jeux en l&#39;honneur d&#39;Adrien. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

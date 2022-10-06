@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30600" id="55:182" vol="7">
+<index type="head" value="GUAZZO" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Peinture." />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="NA" />
+<head>GUAZZO</head>
+<p>
+GUAZZO, (<i>Peinture.</i>) c&#39;est le nom que les Italiens
+donnent à la peinture en détrempe
+</p>
+<p>
+On a quelque raison de croire que ce genre de
+peinture est le premier qui ait été pratiqué, parce
+que toutes sortes de couleurs s&#39;y peuvent employer,
+&amp; qu&#39;il ne faut que de l&#39;eau avec un peu de gomme
+ou de colle pour les détremper &amp; les fixer. On peint
+à <i>guazzo</i> sur des murs de plâtre, sur des bois, sur
+des peaux, sur des toiles, sur du papier fort ; son plus
+grand usage est consacré pour les éventails &amp; les décorations 
+de théatre ; cependant il est assez indifférent 
+sur quel fond en l&#39;employe, pourvû que ce fond
+ne soit pas gras, &amp; que ce ne soit point sur un enduit
+frais, où il entre de la chaux, comme sont les enduits
+pour la peinture à fresque. Elle a cela de commun
+avec cette derniere, que les clairs en sont très-vifs ;
+&amp; elle a de plus, que les bruns en ressortent mieux.
+Un avantage particulier de la peinture à <i>guazzo</i>,
+c&#39;est qu&#39;étant exposé à quelque lumiere que ce soit,
+elle produit son effet ; &amp; plus le jour est grand, plus
+elle paroît éclatante. Elle dure long-tems à couvert
+dans un lieu sec, &amp; ses couleurs ne changent point
+tant que le fond subsiste. Enfin elle est à l&#39;abri des
+vernis, des frottemens, &amp; autres supercheries des
+brocanteurs ; mais malgré toutes ces prérogatives,
+la peinture à <i>guazzo</i> doit céder le pas à la peinture à
+l&#39;huile, qui a les avantages admirables d&#39;être plus
+douce, d&#39;imiter mieux le naturel, de marquer plus
+fortement les ombres, de pouvoir se remanier, &amp; de
+conserver son effet d&#39;assez près comme de loin. <i>Voy.</i>
+<sc><ref target="head:Peinture" type="search">Peinture</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

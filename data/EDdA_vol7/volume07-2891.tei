@@ -1,0 +1,111 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30345" id="55:14:2" vol="7">
+<index type="head" value="Gremil rampant" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="NA" />
+<head>Gremil rampant</head>
+<p>
+<sc>Gremil rampant</sc>, (<i>Botan.</i>) plante connue des
+Botanistes sous le nom de <i>lithospermum minùs repens
+latifolium</i>, C. B. P. 258. J. R. H. 137. Sa racine est
+ligneuse, tortueuse, noire. Ses tiges sont nombreuses,
+grêles, longues, noirâtres, rudes, velues, couchées 
+pour la plus grande partie sur terre, &amp; poussant 
+quelques fibres par intervalles. Ses feuilles sont
+longues d&#39;environ deux pouces, large d&#39;un demi-pouce,
+terminées en pointe, d&#39;un verd foncé, noirâtres,
+rudes &amp; velues. Ses fleurs sont bleues, placées 
+au sommet des rameaux en grand nombre ; il
+leur succede des graines dures, blanches, de la grosseur 
+de celles de l&#39;orobe. La tige qui porte les fleurs
+est droite &amp; garnie de longues feuilles d&#39;un verd
+pâle. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

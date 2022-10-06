@@ -1,0 +1,565 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27581" id="48:56:1" vol="7">
+<index type="head" value="Fondation" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Turgot5" />
+<index type="shortauth" value="Turgot" />
+<index type="kafnum" value="130" />
+<index type="kafauth" value="Turgot, Anne-Robert-Jacques, baron de L&#39;Aune (1727-1781)" />
+<index type="attribution" value="attributed" />
+<index type="class" value="Politique &amp; Droit naturel." />
+<index type="normclass" value="Politique | Droit naturel" />
+<index type="englishclass" value="Political science | Natural law" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="NA" />
+<head>Fondation</head>
+<p>
+<sc>Fondation</sc>, (<i>Politique &amp; Droit naturel.</i>) Les
+mots <i>fonder, fondement, fondation</i>, s&#39;appliquent à
+tout établissement durable &amp; permanent, par une
+métaphore bien naturelle, puisque le nom même
+d&#39;<i>établissement</i> est appuyé precisément sur la même
+métaphore. Dans ce sens on dit, <i>la fondation d&#39;un
+empire, d&#39;une république</i>. Mais nous ne parlerons
+point dans cet article de ces grands objets : ce que
+nous pourrions en dire, tient aux principes primitifs
+du Droit politique, à la premiere institution des gouvernemens 
+parmi les hommes. <i>Voyez</i> 
+<sc><ref target="head:Gouvernement" type="search">Gouvernement</ref>, <ref target="head:Conquète," type="search">Conquète,</ref> <i>&amp;</i> <ref target="head:Législation" type="search">Législation</ref></sc>
+. On dit aussi
+<i>fonder une secte. V.</i> <sc><ref target="head:Secte" type="search">Secte</ref></sc>. Enfin on dit <i>fonder une académie,
+un collége, un hôpital, un couvent, des messes,
+des prix à distribuer, des jeux publics</i>, &amp;c. <i>Fonder</i> dans
+ce sens, c&#39;est assigner un fond ou une somme d&#39;argent,
+pour être employée à perpétuité à remplir
+l&#39;objet que le fondateur s&#39;est proposé, soit que cet
+objet regarde le culte divin ou l&#39;utilité publique,
+soit qu&#39;il se borne à satisfaire la vanité du fondateur,
+motif souvent l&#39;unique véritable, lors même que les
+deux autres lui servent de voile.
+</p>
+<p>
+Les formalités nécessaires pour transporter à des
+personnes chargées de remplir les intentions du fondateur 
+la propriété ou l&#39;usage des fonds que celui
+ci y a destinés ; les précautions à prendre pour assûrer 
+l&#39;exécution perpetuelle de l&#39;engagement contracté 
+par ces personnes ; les dédommagemens dûs
+à ceux que ce transport de propriété peut intéresser,
+comme, par exemple, au suzerain privé
+pour jamais des droits qu&#39;il percevoit sur le fond
+donne à chaque mutation de propriétaire ; les bornes 
+que la politique a sagement voulu mettre à l&#39;excessive 
+multiplication de ces libéralités indiscretes ;
+enfin differentes circonstances essentielles ou accessoires 
+aux <i>fondations</i>, ont donné lieu à différentes
+lois, dont le détail n&#39;appartient point à cet article,
+&amp; sur lesquelies nous renvoyons aux <i>articles</i> <sc><ref target="head:Fondation" type="search">Fondation</ref></sc>, (<i>Jurispr.</i>) <sc><ref target="head:Main-morte" type="search">Main-morte</ref>, <ref target="head:Amortissement" type="search">Amortissement</ref></sc>, <i>&amp;c.</i> Noire but n&#39;est dans celui-ci que d&#39;examiner 
+l&#39;utilité des <i>fondations</i> en général par rapport
+au bien public, ou plûtôt d&#39;en montrer les inconvéniens : puissent les considérations suivantes concourir 
+avec l&#39;esprit philosophique du siecle, à dégoûter
+des <i>fondations</i> nouvelles, &amp; à détruire un reste de
+respect superstitieux pour les anciennes!
+</p>
+<p>
+1°. Un fondateur est un homme qui veut éterniser l&#39;effet de ses volontés : or quand on lui supposeroit 
+toûjours les intentions les plus pures, combien
+n&#39;a-t-on pas de raisons de se defier de ses lumieres?
+combien n&#39;est-il pas aisé de faire le mal en voulant
+fire le bien? Prévoir avec certitude si un établissement produira l&#39;effet qu&#39;on s&#39;en est promis, &amp; n&#39;en
+<pb n="7:73" facs="V7/ENC_7-73.jpeg" />
+<milestone unit="column" n="1" />
+aura pas un tout contraire ; démêler à-travers l&#39;illusion 
+d&#39;un bien prochain &amp; apparent, les maux réels
+qu&#39;un long enchainement de causes ignorées amenera 
+à sa suite ; connoître les véritables plaies de la
+société, remonter à leurs causes ; distinguer les remedes 
+des palliatifs ; se défendre enfin des prestiges de
+la séduction ; porter un regard sévere &amp; tranquille
+sur un projet au milieu de cette atmosphere de gloire,
+dont les éloges d&#39;un public aveugle &amp; notre propre
+enthousiasme nous le montrent environné: ce seroit
+l&#39;effort du plus profond génie, &amp; peut-être la politique 
+n&#39;est-elle pas encore assez avancée de nos jours
+pour y réussir. Souvent on présentera à quelques
+particuliers des secours contre un mal dont la cause
+est générale ; &amp; quelquefois le remede même qu&#39;on
+voudra opposer à l&#39;effet, augmentera l&#39;influence de
+la cause. Nous avons un exemple frappant de cette
+espece de mal-adresse, dans quelques maisons destinées 
+à servir d&#39;asyle aux femmes repenties. Il faut
+faire preuve de debauche pour y entrer. Je sais bien
+que cette précaution a dû être imaginée pour empêcher 
+que la <i>fondation</i> ne soit détournée à d&#39;autres objets : mais cela seul ne prouve-t-il pas que ce n&#39;étoit
+pas par de pareils etablissemens étrangers aux véritables 
+causes du libertinage, qu&#39;il falloit le combattre?
+Ce que je dis du libertinage, est vrai de la pauvreté.
+Le pauvre a des droits incontestables sur l&#39;abondance 
+du riche ; l&#39;humanité, la religion nous sont
+également un devoir de soulager nos semblables dans
+le malheur : c&#39;est pour accomplir ces devoirs indispensables,
+que tant d&#39;etablissemens de charite ont
+été élevés dans le monde chrétien pour soulager des
+besoins de toute espece ; que des pauvres sans nombre 
+sont rassemblés dans des hôpitaux, nourris à la
+porte des couvens par des distributions journalieres.
+Qu&#39;est-il arrivé? c&#39;est que précisément dans les pays
+où ces ressources gratuites sont les plus abondantes,
+comme en Espagne &amp; dans quelques parties de l&#39;Italie, la misere est plus commune &amp; plas générale
+qu&#39;ailleurs. La raison en est bien simple, &amp; mille
+voyageurs l&#39;ont remarquée. Faire vivre gratuitement 
+un grand nombre d&#39;hommes, c&#39;est soudoyer
+l&#39;oisiveté &amp; tous les desordres qui en sont la suite ;
+c&#39;est rendre la condition du faineant préférable à
+celle de l&#39;homme qui travaille ; c&#39;est par conséquent
+diminuer pour l&#39;état la somme du travail &amp; des productions 
+de la terre, dont une partie devient necessairement 
+inculte : de-là les disettes fréquentes,
+l&#39;augmentation de la misere, &amp; la dépopulation qui
+en est la suite ; la race des citoyens industrieux est
+remplacée par une populace vile, composée de
+mendians vagabonds &amp; livrés à toutes sortes de crimes.
+Pour sentir l&#39;abus de ces aumônes mal dirigées,
+qu&#39;on suppose un état si bien administre, qu&#39;il
+ne s&#39;y trouve aucun pauvre (chose possible sans doute,
+pour tout état qui a des colonies à peupler, <i>voy.</i>
+<sc><ref target="head:Mendicité" type="search">Mendicité</ref></sc>.); l&#39;établissement d&#39;un secours gratuit
+pour un certain nombre d&#39;hommes y créeroit tout-aussi-tôt
+des pauvres, c&#39;est-à-dire donneroit à autant
+d&#39;hommes un intérêt de le devenir, en abandonnant
+leurs occupations : d&#39;où résulteroient un vuide dans
+le travail &amp; la richesse de l&#39;état, une augmentation
+du poids des charges publiques sur la tête de l&#39;homme 
+industrieux, &amp; tous les desordres que nous remarquons 
+dans la constitution presente des sociétés.
+C&#39;est ainsi que les vertus les plus pures peuvent
+tromper ceux qui se livrent sans précaution à tout
+ce qu&#39;elles leur inspirent : mais si des desseins pieux
+&amp; respectables démentent toutes les espérances
+qu&#39;on en avoit conçûes, que faudra-t-il penser de
+toutes ces <i>fondations</i> qui n&#39;ont eu de motif &amp; d&#39;objet 
+véritable que la satisfaction d&#39;une vanité frivole,
+&amp; qui sont sans doute les plus nombreux? Je ne craindrai 
+point de dire que si on comparoit les avantages
+<milestone unit="column" n="2" />
+&amp; les inconvéniens de toutes les <i>fondations</i> qui existent 
+aujourd&#39;hui en Europe, il n&#39;y en auroit peut-être
+pas une qui soûtînt l&#39;examen d&#39;une politique
+éclairée.
+</p>
+<p>
+2°. Mais de quelque utilité que puisse être une
+<i>fondation</i>, elle porte dans elle-même un vice irremédiable,
+&amp; qu&#39;elle tient de sa nature, l&#39;impossibilité 
+d&#39;en maintenir l&#39;exécution. Les fondateurs s&#39;abusent 
+bien grossierement, s&#39;ils imaginent que leur
+zele se communiquera de siecle en siècle aux personnes 
+chargées d&#39;en perpétuer les effets. Quand elles
+en auroient été animées quelque tems, il n&#39;est point
+de corps qui n&#39;ait à la longue perdu l&#39;esprit de sa
+premiere origine. Il n&#39;est point de sentiment qui ne
+s&#39;amortisse par l&#39;habitude même &amp; la familiarité
+avec les objets qui l&#39;excitent. Quels mouvemens
+confus d&#39;horreur, de tristesse, d&#39;attendrissement sur
+l&#39;humanité, de pitié pour les malheureux qui souffrent,
+n&#39;éprouve pas tout homme qui entre pour la
+premiere fois dans une salle d&#39;hôpital! Eh bien qu&#39;il
+ouvre les yeux &amp; qu&#39;il voye : dans ce lieu même,
+au milieu de toutes les miseres humaines rassemblées,
+les ministres destines à les secourir se promenent 
+d&#39;un air inattentif &amp; distrait ; ils vont machinalement 
+&amp; sans intérêt distribuer de malade en malade 
+des alimens &amp; des remedes prescrits quelquefois
+avec une négligence meurtriere ; lem ame se prête à
+des conversations indifférentes, &amp; peut-être aux
+idees les plus gaies &amp; les plus folles ; la vanité, l&#39;envie,
+la haine, toutes les passions, regnent-là comme
+ailleurs, s&#39;occupent de leur objet, le poursuivent ; &amp;
+les gémissemens, les cris aigus de la douleur ne les
+detournent pas davantage, que le murmure d&#39;un
+ruisseau n&#39;interromproit une conversation animée.
+On a peine à le concevoir ; mais on a vû le même lit
+être à-la-fois le lit de la moit &amp; le lit de la debauche.
+<i>Voyez</i> <sc><ref target="head:Hopital" type="search">Hopital</ref></sc>. Tels sont les effets de l&#39;habitude 
+par rapport aux objets les plus capables d&#39;émouvoir 
+le coeur humain. Voilà pourquoi aucun enthousiasme 
+ne se soùtient ; &amp; comment sans enthousiasme,
+les ministres de la <i>fondation</i> la rempliront-ils 
+toùjours avec la même exactitude? Quel interêt
+balancera en eux la paresse, ce poids attaché à la nature 
+humaine, qui tend sans cesse à nous retenir dans
+l&#39;inaction! Les précautions même que le fondateur a
+prises pour leur assurer un revenu constant, les dispensent 
+de le mériter. Fondera t il des surveillans, des
+inspecteurs. pour faire executer les conditions de la
+<i>fondation?</i> Il en sera de ces inspecteurs comme de
+tous ceux qu&#39;on établit pour maintenir quelque regle 
+que ce soit. Si l&#39;obstacle qui s&#39;oppose à l&#39;exécution 
+de la regle vient de la paresse, la même paresse
+les empêchera d&#39;y veiller ; si c&#39;est un intérêt pécuniaire,
+ils pourront aisément en partager le profit.
+<i>Voyez</i> <sc><ref target="head:Inspecteurs" type="search">Inspecteurs</ref></sc>. Les surveillans eux-mêmes
+auroient donc besoin d&#39;être surveillés, &amp; où s&#39;arrêteroit 
+cette progression ridicule? Il est vrai qu&#39;on a
+obligé les chanoines à être assidus aux offices, en
+réduisant presque tout leur revenu à des distributions 
+manuelles ; mais ce moyen ne peut obliger qu&#39;à
+une assistance purement corporelle : &amp; de quelle utilité 
+peut il être pour tous les autres objets bien plus
+importans des <i>fondations?</i> Aussi presque toutes les
+<i>fondations</i> anciennes ont-elles dégénéré de leur institution 
+primitive : alors le même esprit qui avoit
+fait naître les premieres. en a fait etablir de nouvelles 
+sur le même plan, ou sur un plan différent ; lesquelles,
+après avoir degénéré à leur tour, sont aussi
+remplacées de la même maniere. Les mesures sont
+ordinaitement si bien prises par les fondateurs, pour
+mettre leurs établissemens à l&#39;abri des innovations
+extérieures, qu&#39;on trouve ordinairement plus aisé,
+&amp; sans doute aussi plus honorable, de fonder de
+nouveaux établissemens, que de réformer les anciens ;<gap type="hyphenpb" />
+<pb n="7:74" facs="V7/ENC_7-74.jpeg" />
+<milestone unit="column" n="1" />
+mais par ces doubles &amp; triples emplois, le
+nombre des bouches inutiles dans la société, &amp; la
+somme des fonds tirés de la circulation générale,
+s&#39;augmentent continuellement.
+</p>
+<p>
+Certaines <i>fondations</i> cessent encore d&#39;être exécutées 
+par une raison différente, &amp; par le seul laps du
+tems : ce sont les <i>fondations</i> faites en argent &amp; en
+rentes. On sait que toute espece de rente a perdu à
+la longue presque toute sa valeur, par deux principes.
+Le premier est l&#39;augmentation graduelle &amp; successive 
+de la valeur numéraire du marc d&#39;argent,
+qui fait que celui qui recevoit dans l&#39;origine une livre 
+valant douze onces d&#39;argent, ne reçoit plus aujourd&#39;hui, en vertu du même titre, qu&#39;une de nos
+livres, qui ne vaut pas la soixante-treizieme partie
+de ces douze onces. Le second principe est l&#39;accroissement 
+de la masse d&#39;argent, qui fait qu&#39;on ne peut
+aujourd&#39;hui se procurer qu&#39;avec trois onces d&#39;argent,
+ce qu&#39;on avoit pour une once seule avant que
+l&#39;Amérique fût découverte. Il n&#39;y auroit pas grand
+inconvénient à cela, si ces <i>fondations</i> étoient entierement 
+anéanties ; mais le corps de la <i>fondation</i> n&#39;en
+subsiste pas moins, seulement les conditions n&#39;en
+sont plus remplies : par exemple, si les revenus d&#39;un
+hôpital souffrent cette diminution, on supprimera
+les lits des malades, &amp; l&#39;on se contentera de pourvoir 
+à l&#39;entretien des chapelains.
+</p>
+<p>
+3°. Je veux supposer qu&#39;une <i>fondation</i> ait eu dans
+son origine une utilité incontestable ; qu&#39;on ait pris
+des précautions suffisantes pour empêcher que la paresse 
+&amp; la négligence ne la fassent dégénérer ; que la
+nature des fonds les mette à l&#39;abri des révolutions du
+tems sur les richesses publiques ; l&#39;immutabilité que
+les fondateurs ont cherché à lui donner est encore un
+inconvenient considérable, parce que le tems amene 
+de nouvelles révolutions, qui font disparoître l&#39;utilité 
+dont elle pouvoit être dans son origine, &amp; qui
+peuvent même la rendre nuisible. La société n&#39;a pas
+toûjours les mêmes besoins ; la nature &amp; la distribution
+des propriétés, la division entre les différens ordres 
+du peuple, les opinions, les moeurs, les occupations 
+générales de la nation ou de ses différentes portions,
+le climat même, les maladies, &amp; les autres accidens 
+de la vie humaine, éprouvent une variation
+continuelle : de nouveaux besoins naissent ; d&#39;autres
+cessent de se faire sentir ; la proportion de ceux qui
+demeurent change de jour en jour dans la société, &amp;
+avec eux disparoît ou diminue l&#39;utilité des <i>fondations</i>
+destinées à y subvenir. Les guerres de Palestine ont
+donné lieu à des <i>fondations</i> sans nombre, dont l&#39;utilité 
+a cessé avec ces guerres. Sans parler des ordres
+de religieux militaires, l&#39;Europe est encore couverte 
+de maladreries, quoique depuis long-tems l&#39;on n&#39;y
+connoisse plus la lepre. La plûpart de ces établissemens survivent long-tems à leur utilité: premierement,
+parce qu&#39;il y a toûjours des hommes qui en
+profitent, &amp; qui sont intéressés à les maintenir : secondement,
+parce que lors même qu&#39;on est bien convaincu 
+de leur inutilité, on est très-long-tems à prendre 
+le parti de les détruire, à se décider soit sur les
+mesures &amp; les formalités nécessaires pour abattre ces
+grands édifices affermis depuis tant de siecles, &amp; qui
+souvent tiennent à d&#39;autres bâtimens qu&#39;on craint d&#39;ébranler,
+soit sur l&#39;usage ou le partage qu&#39;on fera de
+leurs débris : troisiemement parce qu&#39;on est très-longtems à se convaincre de leur inutilité, ensorte qu&#39;ils
+ont quelquefois le tems de devenir nuisibles avant
+qu&#39;on ait soupçonné qu&#39;ils sont inutiles.
+</p>
+<p>
+Il y a tout à présumer qu&#39;une <i>fondation</i>, quelque
+utile qu&#39;elle paroisse, deviendra un jour au-moins
+inutile, peut-être nuisible, &amp; le sera long-tems : n&#39;en
+est-ce pas assez pour arrêter tout fondateur qui se
+propose un autre but que celui de satisfaire sa vanité?
+</p>
+<p>
+4°. Je n&#39;ai rien dit encore du luxe, des édifices, &amp;
+<milestone unit="column" n="2" />
+du faste qui environne les grandes <i>fondations:</i> ce seroit 
+quelquefois évaluer bien favorablement leur utilité,
+que de l&#39;estimer la centieme partie de la dépense.
+</p>
+<p>
+5°. Malheur à moi, si mon objet pouvoit être, en
+présentant ces considerations, de concentrer l&#39;homme 
+dans son seul intérêt ; de le rendre insensible au
+malheur &amp; au bien-être de ses semblables ; d&#39;eteindre
+en lui l&#39;esprit de citoyen ; &amp; de substituer une prudence 
+oisive &amp; basse à la noble passion d&#39;être utile aux
+hommes! Je veux que l&#39;humanité, que la passion du
+bien public, procurent aux hommes les mêmes biens
+que la vanité des fondateurs, mais plus sûrement,
+plus complettement, à moins de frais, &amp; sans le mélange 
+des inconveniens dont je me suis plaint. Parmi
+les différens besoins de la société qu&#39;on voudroit remplir 
+par la voie des établissemens durables ou des <i>fondations</i>, distinguons-en deux sortes ; les uns appartiennent 
+à la société entiere, &amp; ne sont que le résultat 
+des intérêts de chacune de ses parties en particulier : tels sont les besoins généraux de l&#39;humanite, la
+nourriture pour tous les hommes ; les bonnes moeurs
+&amp; l&#39;éducation des enfans, pour toutes les familles ;
+&amp; cet intérêt est plus ou moins pressant pour les différens 
+besoins : car un homme sent plus vivement le
+besoin de nourriture, que l&#39;intérêt qu&#39;il a de donner
+à ses enfans une bonne éducation. Il ne faut pas beaucoup 
+de reflexion pour se convaincre que cette premiere 
+espece de besoins de la société n&#39;est point de
+nature à être remplie par des <i>fondations</i>, ni par aucun 
+autre moyen gratuit ; &amp; qu&#39;à cet égard, le bien
+général doit être le résultat des efforts de chaque particulier 
+pour son propre intérêt. Tout homme sain
+doit se procurer sa subsistance par son travail ; parce
+que s&#39;il étoit nourri sans travailler, il le seroit aux dépens 
+de ceux qui travaillent. Ce que l&#39;état doit à
+chacun de ses membres, c&#39;est la destruction de obstacles 
+qui les gêneroient dans leur industrie, ou qui
+les troubleroient dans la joüissance des produits qui
+en sont la récompense. Si ces obstacles subsistent, les
+bienfaits particuliers ne diminueront point la pauvreté 
+générale, parce que la cause restera toute entiere.
+De même, toutes les familles doivent l&#39;éducation 
+aux enfans qui y naissent : elles y sont toutes intéressées 
+immédiatement ; &amp; ce n&#39;est que des efforts
+de chacune en particulier que peut naître la perfection 
+générale de l&#39;éducation. Si vous vous amusez à
+fonder des maîtres &amp; des bourses dans des colléges,
+l&#39;utilité ne s&#39;en fera sentir qu&#39;à un petit nombre
+d&#39;hommes favorisés au hasard, &amp; qui peut-être n&#39;auront 
+point les talens nécessaires pour en profiter : ce
+ne sera pour toute la nation qu&#39;une goutte d&#39;eau répandue 
+sur une vaste mer ; &amp; vous aurez fait à très grands 
+frais de très-petites choses. Et puis faut-il accoûtumer 
+les hommes à tout demander, à tout recevoir,
+à ne rien devoir à eux-mêmes? Cette espece
+de mendicité qui s&#39;étend dans toutes les conditions,
+dégrade un peuple, &amp; substitue à toutes les passions
+hautes un caractere de bassesse &amp; d&#39;intrigue. Les hommes 
+sont-ils puissamment intéressés au bien que vous
+voulez leur procurer? laissez-les faire : voilà le grand,
+l&#39;unique principe. Vous paroissent-ils s&#39;y porter avec
+moins d&#39;ardeur que vous ne desireriez? augmentez
+leur intérêt. Vous voulez perfectionner l&#39;éducation ;
+proposez des prix à l&#39;émulation des peres &amp; des enfans : mais que ces prix soient offerts à quiconque peut
+les mériter, du-moins dans chaque ordre de citoyens ;
+que les emplois &amp; les places en tout genre deviennent
+la récompense du mérite, &amp; la perspective assûrée
+du travail ; &amp; vous verrez l&#39;émulation s&#39;allumer à-la-fois dans le sein de toutes les familles : bien-tôt votre 
+nation s&#39;élevera au-dessus d&#39;elle-même, vous aurez 
+éclairé son esprit ; vous lui aurez donné des
+moeurs ; vous aurez fait de grandes choses ; &amp; il ne
+<pb n="7:75" facs="V7/ENC_7-75.jpeg" />
+<milestone unit="column" n="1" />
+vous en aura pas tant coûté que pour fonder un collége.
+</p>
+<p>
+L&#39;autre classe de besoins publics auxquels on a
+voulu subvenir par des <i>fondations</i>, comprend ceux
+qu&#39;on peut regarder comme accidentels ; qui bornés
+à certains lieux &amp; à certains tems, entrent moins immédiatement 
+dans le système de l&#39;administration générale,
+&amp; peuvent demander des secours particuliers.
+Il s&#39;agira de remédier aux maux d&#39;une disette, d&#39;une
+épidémie ; de pourvoir à l&#39;entretien de quelques
+vieillards, de quelques orphelins, à la conservation
+des enfans exposés ; de faire ou d&#39;entretenir des travaux 
+utiles à la commodité ou à la salubrité d&#39;une
+ville ; de perfectionner l&#39;agriculture ou quelques arts
+languissans dans un canton ; de récompenser des services 
+rendus par un citoyen à la ville dont il est
+membre ; d&#39;y attirer des hommes célebres par leurs
+talens, <i>&amp;c.</i> Or il s&#39;en faut beaucoup que la voie des
+établissemens publics &amp; des <i>fondations</i> soit la meilleure 
+pour procurer aux hommes tous ces biens dans
+la plus grande étendue possible. L&#39;emploi libre des revenus 
+d&#39;une communauté, ou la contribution de tous
+ses membres dans les cas où le besoin seroit pressant
+&amp; général ; une association libre &amp; des souscriptions
+volontaires de quelques citoyens généreux, dans les
+cas où l&#39;intérêt sera moins prochain &amp; moins universellement 
+senti ; voilà dequoi remplir parfaitement
+toute sorte de vûes vraiment utiles ; &amp; cette méthode
+aura sur celle des <i>fondations</i> cet avantage inestimable,
+qu&#39;elle n&#39;est sujette à aucun abus important. Comme
+la contribution de chacun est entierement volontaire,
+il est impossible que les fonds soient détournés de leur
+destination ; s&#39;ils l&#39;étoient, la source en tariroit aussitôt : il n&#39;y a point d&#39;argent perdu en frais inutiles, en
+luxe, &amp; en bâtimens. C&#39;est une société du même genre
+que celles qui se font dans le commerce, avec cette
+différence qu&#39;elle n&#39;a pour objet que le bien public ;
+&amp; comme les fonds ne sont employés que sous les
+yeux des actionnaires, ils sont à portée de veiller à
+ce qu&#39;ils soient employés de la maniere la plus avantageuse.
+Les ressources ne sont point éternelles pour
+des besoins passagers : le secours n&#39;est jamais appliqué 
+qu&#39;à la partie de la société qui souffre, à la branche 
+du Commerce qui languit. Le besoin cesse-t-il?
+la libéralité cesse ; &amp; son cours se tourne vers d&#39;autres 
+besoins. Il n&#39;y a jamais de doubles ni de triples
+emplois ; parce que l&#39;utilité actuelle reconnue est toûjours 
+ce qui détermine la générosité des bienfaiteurs
+publics : enfin cette méthode ne retire aucun fond
+de la circulation générale ; les terres ne sont point
+irrévocablement possédées par des mains paresseuses ; 
+&amp; leurs productions, sous la main d&#39;un propriétaire 
+actif, n&#39;ont de bornes que celles de leur propre
+fécondité. Qu&#39;on ne dise point que ce sont-là des idées
+chimériques : l&#39;Angleterre, l&#39;Ecosse, &amp; l&#39;Irlande sont
+remplies de pareilles sociétés, &amp; en ressentent depuis 
+plusieurs années les heureux effets. Ce qui a lieu
+en Angleterre peut avoir lieu en France : &amp; quoi qu&#39;on 
+en dise, les Anglois n&#39;ont pas le droit exclusif d&#39;être 
+citoyens. Nous avons même déjà dans quelques
+provinces des exemples de ces associations qui en
+prouvent la possibilité. Je citerai en particulier la ville 
+de Bayeux, dont les habitans se sont cottisés librement,
+pour bannir entierement de leur ville la mendicité; 
+&amp; y ont réussi, en fournissant du travail à
+tous les mendians valides, &amp; des aumônes à ceux qui
+ne le sont pas. Ce bel exemple mérite d&#39;être proposé
+à l&#39;émulation de toutes nos villes : rien ne sera si aisé,
+quand on le voudra bien, que de tourner vers
+des objets d&#39;une utilité générale &amp; certaine, l&#39;émulation 
+&amp; le goût d&#39;une nation aussi sensible à l&#39;honneur 
+que la nôtre, &amp; aussi facile à se plier à toutes
+les impressions que le gouvernement voudra &amp; saura
+lui donner.
+<milestone unit="column" n="2" />
+</p>
+<p>
+6°. Ces réflexions doivent faire applaudir aux sages 
+restrictions que le Roi a mises par son édit de 1749
+à la liberté de faire des <i>fondations</i> nouvelles. Ajoûtons qu&#39;elles ne doivent laisser aucun doute sur le
+droit incontestable qu&#39;ont le gouvernement dans l&#39;ordre 
+civil ; le gouvernement &amp; l&#39;Eglise dans l&#39;ordre
+de la religion, de disposer des <i>fondations</i> anciennes,
+d&#39;en diriger les fonds à de nouveaux objets, ou mieux
+encore de les supprimer tout-à-fait. L&#39;utilité publique
+est la loi suprème, &amp; ne doit être balancée ni par un
+respect superstitieux pour ce qu&#39;on appelle l&#39;<i>intention des fondateurs</i>, comme si des particuliers ignorans 
+&amp; bornés avoient eu le droit d&#39;enchaîner à
+leurs volontés capricieuses les générations qui n&#39;étoient 
+point encore ; ni par la crainte de blesser les
+droits prétendus de certains corps, comme si les
+corps particuliers avoient quelques droits vis-à-vis
+l&#39;état. Les citoyens ont des droits, &amp; des droits sacrés 
+pour le corps même de la société; ils existent indépendamment 
+d&#39;elle ; ils en sont les élémens nécessaires ; 
+&amp; ils n&#39;y entrent que pour se mettre, avec
+tous leurs droits, sous la protection de ces mêmes lois
+auxquelles ils sacrifient leur liberté. Mais les corps
+particuliers n&#39;existent point par eux-mêmes ni pour
+eux ; ils ont été formés pour la société; &amp; ils doivent
+cesser d&#39;être au moment qu&#39;ils cessent d&#39;être utiles.
+Concluons qu&#39;aucun ouvrage des hommes n&#39;est fait
+pour l&#39;immortalité; puisque les <i>fondations</i> toûjours
+multipliées par la vanité, absorberoient à la longue
+tous les fonds &amp; toutes les propriétés particulieres, il
+faut bien qu&#39;on puisse à la fin les détruire. Si tous les
+hommes qui ont vécu avoient eu un tombeau, il auroit 
+bien fallu pour trouver des terres à cultiver,
+renverser ces monumens stériles, &amp; remuer les cendres 
+des morts pour nourrir les vivans.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29430" id="52:181" vol="7">
+<index type="head" value="GÉOMANTIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Divination" />
+<index type="pos" value="s.f." />
+<head>GÉOMANTIE</head>
+<p>
+GÉOMANTIE, s. f. (<i>Hist. anc.</i>) espece <i>de divination</i> par la terre ; de <foreign lang="greek">γῆ</foreign>, <i>terre</i>, &amp; de <foreign lang="greek">μαντεία</foreign>, <i>divination</i>.
+Eile consistoit tantôt à tracer par terre des lignes
+ou des cercles par la rencontre desquels on s&#39;imaginoit 
+deviner ce qu&#39;on desiroit d&#39;apprendre, tantôt 
+en faisant au hasard par terre plusieurs points
+sans garder aucun ordre ; les figures que le hasard
+formoit alors fondoient le présage qu&#39;on tiroit pour
+l&#39;avenir ; tantôt en observant les fentes &amp; les crevasses 
+qui se font naturellement à la terre, d&#39;où sortoient,
+disoit-on, des exhalaisons prophétiques comme 
+de l&#39;antre de Delphes.
+</p>
+<p>
+D&#39;autres prétendent que la <i>géomantie</i> consiste à
+marquer au hasard sur le papier plusieurs petits points
+sans les compter, &amp; que les figures qui se rencontrent 
+à l&#39;extrémité des lignes servent à former le jugement 
+qu&#39;on veut porter sur l&#39;avenir, &amp; à décider
+de l&#39;évenement de toute question proposée. Ils ajoûtent 
+qu&#39;elle a conservé son ancien nom de <i>géomantie</i>
+qui fait allusion à la terre, parce que dans l&#39;origine
+on se servoit de petits caillous qu&#39;on jettoit au hasard 
+sur la terre, au lieu que maintenant on se sert
+de points.
+</p>
+<p>
+Polydore Virgile définit la <i>géomantie</i> une divination 
+par le moyen des fentes &amp; des crevasses qui se
+font sur la surface de la terre, &amp; il croit que les mages 
+des Perses en ont été les inventeurs : <i>de invent.
+rerum. lib. I. cap. xxiij</i>.
+</p>
+<p>
+Olivier de Malmesbury, Gerard de Cremone,
+Barthelemy de Parme &amp; Gaspard Peucer ont écrit
+des traités sur la <i>géomantie</i>. Corneille Agrippa avoit
+aussi travaillé sur la même matiere ; mais il écrivit
+depuis pour convenir que rien n&#39;étoit plus vain &amp;
+plus trompeur que cette prétendue science. Delrio,
+<i>disq. mag. lib. IV. cap. 2. quest. vij sect. 3 p. 562</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30735" id="55:275:1" vol="7">
+<index type="head" value="Guirlandes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="dans la Marine" />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="NA" />
+<head>Guirlandes</head>
+<p>
+<sc>Guirlandes</sc>, <i>dans la Marine</i>, sont de grosses
+pieces de bois courbes, ou à fausse équerre, qu&#39;on
+place à différentes hauteurs du vaisseau ; de façon
+qu&#39;elles croisent à angle droit l&#39;étrave &amp; les alonges
+d&#39;écubiers, étant solidement attachées à toutes ces
+pieces par des clous &amp; des chevilles, qu&#39;on frappe
+par le dehors du vaisseau ; de sorte qu&#39;elles percent
+les bordages, les alonges d&#39;écubiers, &amp; toute l&#39;épaisseur 
+des <i>guirlandes</i>, &amp; sont clavetées sur virole
+en-dedans. <i>Voyez, <ref target="XPL:5511" type="platelink">Planche IV</ref>. de Marine, <ref target="XPL:5512" type="platelink">fig. 1</ref>.</i> les
+<i>guirlandes, cotées 36.</i>
+</p>
+<p>
+On en met ordinairement quatre ou cinq au fond
+de cale, depuis le bout de la carlingue jusqu&#39;au premier 
+pont, dont les bordages reposent dans une rablure 
+pratiquée sur celle qui est la plus élevée. Entre le premier &amp; le second pont on en met deux ;
+une immédiatement sous les écubiers, &amp; l&#39;autre sous
+le second pont, sur laquelle repose quelquefois le
+mât de beaupré, &amp; aboutissent les bordages de ce
+pont. <i>Voyez la figure citée ci-dessus</i>.
+</p>
+<p>
+La partie convexe des <i>guirlandes</i> se gabarie convenablement 
+pour la place où on se propose de la
+mettre, c&#39;est-à-dire qu&#39;on lui fait prendre exactement 
+la figure que le vaisseau a intérieurement en-avant,
+à la hauteur où doit être placée la <i>guirlande</i>  ;
+ce qui fait que les branches des <i>guirlandes</i> font un
+angle d&#39;autant plus ouvert, qu&#39;elles sont plus élevées au-dessus de la quille, &amp; que celles d&#39;en-bas
+sont figurées presque comme les fourcats.
+</p>
+<p>
+Il n&#39;est pas nécessaire que la partie concave des
+<i>guirlandes</i> ait une forme réguliere ; les constructeurs
+laissent quelquefois à leur collet toute l&#39;épaisseur que
+ces pieces peuvent porter. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

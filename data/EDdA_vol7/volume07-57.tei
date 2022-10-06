@@ -1,0 +1,159 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27510" id="48:27:1" vol="7">
+<index type="head" value="Folie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Folie</head>
+<p>
+<sc>Folie</sc>, (<i>Medecine.</i>) est une espece de lésion dans
+les fonctions animales ; cette maladie de l&#39;esprit est
+si connue de tout le monde, qu&#39;il n&#39;est aucun des plus
+fameux <i>nosographes</i> qui ait cru devoir en donner une
+idée précise, une définition bien distincte ; il n&#39;en est
+traité expressément nulle part. <i>Voyez les oeuvres</i> de
+Sennert, de Riviere, d&#39;Etmuller, d&#39;Hoffman, de
+Boerhaave, <i>&amp;c.</i>
+</p>
+<p>
+Comme la <i>folie</i> consiste dans une sorte d&#39;égarement 
+de la raison, dans une dépravation de la faculté
+pensante (dont l&#39;abolition est ce qu&#39;on appelle <i>démence, voyez</i> <sc><ref target="head:Démence" type="search">Démence</ref></sc>); dépravation qui a lieu
+avec différentes modifications dans le délire, dans
+la mélancolie, dans la manie : on a confondu la
+<i>folie</i> avec l&#39;une ou l&#39;autre de ces maladies, mais plus
+communément avec la derniere de ces trois ; parce
+que la <i>folie</i> est comme le prélude de la manie, &amp; a
+essentiellement plus de rapport avec elle, qu&#39;avec
+aucune autre : de maniere cependant que la <i>folie</i> peut
+avoir lieu &amp; subsister pendant long-tems, pendant
+toute la vie même, sans être jamais suivie de la manie 
+proprement dite.
+</p>
+<p>
+L&#39;erreur de l&#39;entendement qui juge mal durant la
+veille de choses sur lesquelles tout le monde pense
+de la même maniere, est le genre de ces trois maladies.
+On donne ordinairement à ce genre le nom de
+<i>délire ;</i> quoiqu&#39;on appelle aussi de ce nom une de ses
+especes, dans laquelle l&#39;erreur dont il vient d&#39;être
+fait mention, est de peu de durée, &amp; forme un symptome 
+de fievre, de maladie aiguë, qui, lorsqu&#39;il
+porte à la fureur, est appellé <i>phrenesie. Voyez</i> 
+<sc><ref target="head:Délire" type="search">Délire</ref>, <ref target="head:Fievre" type="search">Fievre</ref>, <ref target="head:Phrénésie" type="search">Phrénésie</ref></sc>
+</p>
+<p>
+La <i>folie</i> est aussi distinguée de la mélancolie, en
+ce que le délire dans celle-ci rend les malades inquiets,
+ne roule que sur un seul objet, ou sur un petit 
+nombre d&#39;objets le plus souvent tristes, &amp; n&#39;est
+pas universel ; au lieu qu&#39;il a cette derniere qualité,
+&amp; qu&#39;il est sans inquiétude &amp; sans tristesse dans la
+<i>folie</i> &amp; dans la manie ; que dans celle-là par conséquent 
+le malade est tranquille &amp; s&#39;occupe de toute
+sorte d&#39;objets indifféremment avec la même extravagance,
+&amp; que dans la manie le délire est accompagné 
+d&#39;audace, de fureur, toûjours sans fievre essentielle,
+ce qui distingue la manie de la phrénésie:
+&amp; si la fureur dans celle-là est portée à l&#39;extreme, on
+lui donne le nom de <i>rage</i>.
+</p>
+<p>
+Ainsi la <i>folie</i> est à la manie par la modération de
+ses effets, ce que la rage est à la manie par l&#39;intensité
+de la violence des symptomes qui la caractérisent.
+On est donc fondé à renvoyer à <i>l&#39;article</i> <sc><ref target="head:Manie" type="search">Manie</ref></sc>,
+tout ce qu&#39;il y a à dire de ces trois sortes de delire
+sans fievre, entre lesquels on ne doit distinguer la
+<i>folie</i>, que parce qu&#39;elle est sans violence, sans fureur,
+qui se trouvent toûjours plus ou moins dans les deux
+autres especes ; on peut voir aussi-bien des choses
+qui ont rapport à toutes les trois dans <i>l&#39;article</i> <sc><ref target="head:Mélancolie" type="search">Mélancolie</ref></sc>. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

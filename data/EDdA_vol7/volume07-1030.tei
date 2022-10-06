@@ -1,0 +1,175 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28484" id="50:191:1" vol="7">
+<index type="head" value="Fruit" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Daubenton &amp; d&#39;Argenville" />
+<index type="shortauth" value="Daubenton &amp; d&#39;Argenville" />
+<index type="kafnum" value="33 &amp; 6" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800) &amp; Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fruit</head>
+<p>
+<sc>Fruit</sc>, (<i>Botan.</i>) M. Linnaeus distingue dans les
+<i>fruits</i> trois parties principales, qui sont le péricarpe,
+la semence, &amp; le receptacle.
+</p>
+<p>
+Le péricarpe, <i>pericarpium</i>, est formé par le germe ; 
+il grossit &amp; il renferme les petites semences ou
+graines, mais il ne se trouve pas dans tous les <i>fruits</i>.
+Il y a huit especes de péricarpes : savoir la capsule,
+la coque, la silique, la gousse, le <i>fruit</i> à noyau, la
+pomme ou le <i>fruit</i> à pepin, la baie, &amp; le cone. La
+capsule, <i>capsula</i>, est composée de plusieurs panneaux
+secs &amp; élastiques, qui s&#39;ouvrent le plus souvent par
+leur sommité lorsqu&#39;ils sont mûrs, &amp; qui renferment
+des graines dans une seule loge ou dans plusieurs ;
+d&#39;où viennent les dénominations des capsules uniloculaires
+&amp; multiloculaires. La coque, <i>conceptaculum</i>,
+ne differe de la capsule qu&#39;en ce que ses panneaux
+sont mous. La silique, <i>siliqua</i>, est composée de deux
+panneaux qui s&#39;ouvrent d&#39;un bout à l&#39;autre, &amp; qui
+sont séparés par une cloison membraneuse à laquelle
+les petites semences sont attachées chacune par un
+cordon ombilical. La gousse, <i>legumen</i>, est un péricarpe 
+oblong a deux cosses assemblées en-dessus &amp;
+en-dessous par une suture longitudinale ; les semences 
+sont attachées alternativement au limbe supérieur 
+de chacune de ces cosses. Le <i>fruit</i> à noyau,
+<i>drupa</i>, est composé d&#39;une pulpe charnue, molle &amp;
+succulente, qui renferme un noyau. La pomme ou
+<i>fruit</i> à pepin, <i>pomum</i>, a une pulpe charnue, au milieu 
+de laquelle les semences se trouvent dans des enveloppes 
+membraneuses. La baie, <i>bacca</i>, a une pulpe 
+succulente qui renferme les semences. Le cone,
+<i>strobilus</i>, est composé de plusieurs écailles appliquées
+les unes contre les autres, &amp; contournées par le haut.
+</p>
+<p>
+Il y a deux sortes de semences, la graine &amp; la
+noix. La noix, <i>nux</i>, est presqu&#39;aussi dure qu&#39;un os,
+&amp; renferme la véritable semence. La graine, <i>semen</i>,
+est le corps de la semence ; elle a différentes figures,
+&amp; on voit des graines qui ont une couronne. La couronne,
+<i>corona</i>, est simple, ou disposée en aigrette.
+L&#39;aigrette, <i>pappus</i>, est composée de rayons simples
+ou de rayons branchus comme une plume. Ces
+rayons simples ou branchus tiennent à un pédicule,
+ou sortent immédiatement de la graine.
+</p>
+<p>
+Le receptacle ou placenta, <i>receptaculum</i>, est la
+partie qui soûtient la fleur ou le <i>fruit</i>, ou tous les
+deux ensemble ; il y en a de différentes figures. <i>Florae par. Prodromus, pag. 44. &amp; suiv</i>. (<i>I</i>)
+</p>
+<p>
+<i>Maniere d&#39;avoir de beaux fruits</i>, (<i>Jard.</i>) Pour avoir
+de beaux <i>fruits</i>, il faut detacher d&#39;un arbre quelques
+boutons lorsqu&#39;ils ne font que noüer ; le mois de
+Mai est le vrai tems de cette opération pour les pêches 
+&amp; abricots ; &amp; celui de Juin &amp; de Juillet pour
+les poires d&#39;hyver &amp; d&#39;automne. On les détache du
+trochet où il y en a plusieurs, en les coupant avec
+des ciseaux par le milieu de la queue, &amp; sur-tout
+ceux qui sont serrés, comme les plus sujets à se pourrir.
+Les poires d&#39;été, telles que la robine, la cassolette,
+le rousselet, ne se détachent point ; elles ne se
+nuisent point l&#39;une à l&#39;autre, ainsi que les prunes,
+parce qu&#39;elles sont médiocrement grosses ; quand le
+<i>fruit</i> est presque mûr, ôtez des feuilles tout-autour
+pour lui donner de la couleur &amp; le faire mûrir. Cette
+pratique usitée à l&#39;égard des pêchers, convient aussi
+à plusieurs poires, telles que le bon chrétien d&#39;hyver,
+l&#39;inconnue chéneau, <i>&amp;c.</i>
+</p>
+<p>
+Plusieurs se servent d&#39;une seringue faite en arrosoir 
+à pomme, pour leur jetter de l&#39;eau, ou les frottent 
+dans le grand soleil, ce qui certainement leur
+donne de la couleur, mais diminue leur bonté, à ce
+qu&#39;on prétend. (<i>K</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

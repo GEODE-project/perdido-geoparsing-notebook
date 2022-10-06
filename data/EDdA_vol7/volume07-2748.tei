@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30202" id="54:84:15" vol="7">
+<index type="head" value="Grattoir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="outil de Potier d&#39;étain" />
+<index type="normclass" value="Potier d&#39;étain" />
+<index type="englishclass" value="Pewterer" />
+<index type="generatedclass" value="Potier d&#39;étain" />
+<index type="pos" value="NA" />
+<head>Grattoir</head>
+<p>
+<sc>Grattoir</sc>, <i>outil de Potier d&#39;étain ;</i> il y en a de
+plusieurs sortes. Le <i>grattoir</i> à deux mains est plat
+comme une pleine de tourneur. L&#39;acier couvre la
+planche ; ainsi il a un taillant de chaque côté, parce
+qu&#39;il est émoulu en biseau comme les crochets, &amp;
+il a un manche de bois à chaque bout. Il sert à gratter 
+presque tout ce qui se repare à la main. <i>Voyez</i>
+<sc><ref target="head:Reparer" type="search">Reparer</ref></sc>.
+</p>
+<p>
+Il y a d&#39;autres <i>grattoirs</i> qu&#39;on nomme <i>grattoirs sous
+bras</i>, qui servent à différens ouvrages, tant à reparer 
+qu&#39;à tourner. Ils ont différentes formes, mais ils
+n&#39;ont qu&#39;un manche de bois dans lequel on les fait
+tenir. <i>Voyez les <ref target="XPL:5396" type="platelink">Planches du Potier d&#39;étain</ref></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

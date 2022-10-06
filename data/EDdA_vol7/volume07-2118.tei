@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29572" id="53:77:2" vol="7">
+<index type="head" value="Gingembre, (racine de) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Comm." />
+<index type="normclass" value="Commerce" />
+<index type="englishclass" value="Commerce" />
+<index type="generatedclass" value="Matiere médicale" />
+<index type="pos" value="NA" />
+<head>Gingembre</head>
+<p>
+<sc>Gingembre</sc>, (<i>racine de</i>) <i>Comm</i>. Il n&#39;est pas possible 
+de calculer la quantité de <i>gingembre</i> dont les Indes fournissent l&#39;Europe chaque année, par ce que
+les vaisseaux marchands qui viennent de nos colonies<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+en apportent sans cesse, soit en nature, soit
+confit.
+</p>
+<p>
+Le <i>gingembre</i> qu&#39;on confit dans les colonies pour
+le débit ordinaire, est brun, &amp; le sirop noir ; mais
+on est parvenu dans les îles à faire une excellente
+confiture de <i>gingembre</i> pour les gens aisés &amp; les officiers 
+de Marine, qui en consomment beaucoup sur
+mer. Voici la maniere dont on y réussit ; &amp; c&#39;est
+une très-bonne méthode pour ôter l&#39;âcreté mordicante 
+&amp; nuisible de toutes sortes de racines.
+</p>
+<p>
+On cueille celle-ci avant sa maturité, lorsqu&#39;elle
+est jeune &amp; tendre. On la ratisse pour enlever la premiere 
+pellicule ; ensuite on la coupe par tranches
+qu&#39;on fait macérer dans plusieurs eaux pendant une
+dixaine de jours pour ôter leur âcreté; &amp; l&#39;on change
+ces eaux toutes les douze heures. Après cette préparation,
+on fait bouillir les racines à grande eau
+pendant une bonne demi-heure ; quand on les a tirées 
+de cette eau, &amp; qu&#39;elles ont été bien égouttées,
+on les met dans un sirop foible, clarifié, tout
+chaud ; &amp; on les laisse dans ce sirop pendant vingt-quatre 
+heures. On les fait égoutter une seconde fois,
+&amp; on les remet dans un nouveau sirop plus fort pendant 
+le même espace de tems ; enfin on les replonge
+dans un troisieme sirop bien clarifié, où on les laisse
+à demeure, si l&#39;on veut les conserver liquides, &amp;
+d&#39;où on les tire, si l&#39;on veut les mettre à sec, pour
+en composer des marmelades &amp; des pâtes. Le <i>gingembre</i> confit de cette maniere est d&#39;une couleur d&#39;ambre,
+claire, transparente, tendre sous la dent, &amp;
+sans âcreté mordicante ; le sirop en est blanc &amp;
+agréable.
+</p>
+<p>
+Le prix du <i>gingembre</i> en nature est à Amsterdam
+depuis huit jusqu&#39;à douze florins la livre ; le prix du
+<i>gingembre</i> confit depuis quatorze jusqu&#39;à vingt florins.
+L&#39;Allemagne &amp; le Nord consomment beaucoup
+de l&#39;un &amp; de l&#39;autre <i>gingembre</i>. Nos Epiciers achetent 
+volontiers le <i>gingembre</i> en nature, dont ils composent 
+une sorte d&#39;épices qu&#39;ils nomment <i>épice blanche:</i> mais les colporteurs ne vendent guere de poivre 
+où il n&#39;y ait une partie de <i>gingembre</i> mêlée ; &amp;
+c&#39;est de-là que vient le bas prix auquel ils le donnent.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

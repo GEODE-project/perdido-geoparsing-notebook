@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29787" id="53:228" vol="7">
+<index type="head" value="GOKOKF" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. du Japon." />
+<index type="normclass" value="Histoire naturelle du Japon" />
+<index type="englishclass" value="Natural history of Japan" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GOKOKF</head>
+<p>
+GOKOKF, (<i>Hist. nat. du Japon.</i>) ce mot est un
+terme générique de la langue du Japon, qui signifie
+<i>les cinq fruits de la terre</i>, dont les Japonois se nourrissent.
+Kaempfer nous apprend que le <i>gokokf</i> renferme,
+1°. le kome ou le riz qui est chez eux préférable 
+à celui des indes ; 2°. l&#39;omugi qui est notre
+orge ; 3°. le koomugi qui est notre froment ; 4°. le
+daïd-sec, c&#39;est-à-dire les féves de daid, espece de
+féves de la grosseur des pois de Turquie, &amp; qui
+croissent de la même maniere que les lupins. On
+trouvera la figure &amp; la description de la plante qui
+portes ces féves, dans les <i>Aménités exotiques</i> de notre 
+auteur, <i>pag. 839.</i> 5°. le sod-su ou féves-so ; elles 
+croissent aussi comme les lupins, sont blanches
+&amp; ressemblent aux lentilles ; c&#39;est selon que ces cinq
+fruits abondent en quantite &amp; en qualité qu&#39;on estime 
+au Japon la valeur des terres, la fertilité de
+l&#39;année, &amp; la richesse des possesseurs ; ils font les
+principaux mets des habitans, &amp; suppléent au défaut 
+de la viande que la religion leur défend de manger.
+On comprend aussi quelquefois improprement
+sous le nom de <i>gokokf</i>, le millet, toutes sortes de
+blé &amp; de légumes. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

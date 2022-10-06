@@ -1,0 +1,158 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27776" id="49:46:18" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchall." />
+<index type="normclass" value="Maréchallerie | Manège" />
+<index type="englishclass" value="Farrier&#39;s art | Horsemanship" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>Forme</sc>, (<i>Manége &amp; Maréchall.</i>) tumeur calleuse,
+indolente, de la nature de celle qui dans l&#39;homme
+est connue sous le nom de <i>ganglion</i>. Son siége est
+fixé dans les ligamens même de l&#39;articulation du pié
+ou de la couronne, avec le pâturon ; aussi se montre-t-elle toûjours sur un des côtés, ou sur les deux côtés
+de cette derniere partie, soit qu&#39;elle attaque le devant,
+soit qu&#39;elle attaque le derriere de l&#39;animal.
+</p>
+<p>
+Les causes en sont ordinairement externes ; elle
+peut être l&#39;effet d&#39;une constitution, d&#39;une piquûre:
+elle est le plus souvent la suite des efforts, auxquels
+le cheval a été contraint dans des courses violentes,
+ou en maniant à des airs qui exigent beaucoup de
+force. Tout ce qui peut insulter les fibres ligamenteuses 
+en les tirant, en les alongeant, en les meurtrissant,
+en les dilacérant, doit nécessairement produire 
+ou une dilatation, ou une obstruction des vaisseaux 
+qui charrient la lymphe dans ces ligamens,
+ou une extravasion de cette humeur : de-là une tumeur 
+legere &amp; molle dans son origine, mais qui
+augmente insensiblement en volume &amp; en consistance 
+au point d&#39;offenser d&#39;une part les ligamens en les
+gênant, &amp; de rendre de l&#39;autre la circulation difficile 
+dans les vaisseaux qui l&#39;avoisinent : c&#39;est ainsi
+que le desséchement de l&#39;ongle &amp; la claudication,
+deviennent des accidens inséparables de cette maladie.
+</p>
+<p>
+On la reconnoît à la présence de la tumeur, &amp; le
+signe univoque est l&#39;indépendance totale de cette
+même tumeur qui ne tient en aucune façon au tégument,
+sous lequel elle est située.
+</p>
+<p>
+Je ne proposerai pour la détruire ni l&#39;opération
+de dessoler, ni l&#39;application inutile d&#39;un cautere actuel,
+dort l&#39;effet ne s&#39;étend pas au-delà de la peau ;
+j&#39;indiquerai des topiques capables de la résoudre,
+tels que la pommade mercurielle, que l&#39;on doit faire
+succéder à des frictions seches. On peut encore,
+après avoir froissé la tumeur &amp; l&#39;avoir fortement
+comprimée sous le doigt, dans l&#39;intentior de briser
+l&#39;humeur qui la forme, y placer un emplâtre d&#39;onguent 
+de <i>vigo</i> au triple de mercure, ou du diabotanum 
+mercurisé, &amp; recouvrir le tout d&#39;une plaque de
+plomb, que l&#39;on assujettira sur la partie par le moyen
+d&#39;un bandage. Il est même à-propos, lorsque la tumeur 
+est très-considérable, de la battre avec une petite 
+palette de bois avant de tenter de la dissiper par
+ces résolutifs, que l&#39;on employera toûjours avec succès,
+sur-tout s&#39;ils sont accompagnés des médicamens
+internes, qui peuvent atténuer &amp; liquéfier la lymphe.
+Ces médicamens sont le <i>crocus metallorum</i>, donné 
+à la dose d&#39;une once chaque jour ; l&#39;aquila alba,
+à la dose d&#39;une dragme &amp; plas ; la poudre de vipere,
+<i>&amp;c.</i> Si les frictions, les frotemens, les compressions 
+occasionnent une inflammation, on ne continuera 
+pas les applications des emplâtres prescrits ;
+on recourra à des topiques émolliens, qui seront suivis 
+de l&#39;usage de ces mêmes emplâtres, lorsque la
+partie cessera d&#39;être enflammée. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

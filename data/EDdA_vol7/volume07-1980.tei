@@ -1,0 +1,397 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29434" id="52:184:1" vol="7">
+<index type="head" value="Géométrie souterreine" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>Géométrie souterreine</head>
+<p>
+<sc>* Géométrie souterreine</sc> ; ce n&#39;est autre
+chose que l&#39;application de la Géométrie élémentaire
+à plusieurs problèmes particuliers de l&#39;exploitation
+des mines. Cette application a trois objets principaux.
+La dimension des filons, leur inclinaison à
+l&#39;horison, &amp; leur direction relative aux points cardinaux 
+du monde, forment le premier ; la distance
+à mesurer d&#39;un point quelconque d&#39;une galerie à un
+point quelconque de la surface ou de l&#39;intérieur de
+la terre, ou réciproquement la distance à mesurer
+d&#39;un point quelconque de la surface ou de l&#39;intérieur
+de la terre à un point quelconque d&#39;une galerie, est
+le second ; la description ichnographique, orthographique 
+&amp; scénographique d&#39;une mine, est le troisieme.
+</p>
+<p>
+Déterminer les espaces dans lesquels il est permis
+à un particulier de chercher de la mine ; arriver aux
+galeries par le plus court chemin ; marquer la voie
+par laquelle il convient d&#39;éloigner les eaux ; tracer
+la tête, la queue, l&#39;étendue, la rencontre des veines
+&amp; des filons métalliques ; faire circuler l&#39;air dans les
+profondeurs de la terre, en attirer les vapeurs nuisibles ; 
+telles sont les fonctions principales d&#39;un conducteur 
+de mines, &amp; les plus grandes difficultés de
+son art. <i>Voyez les articles</i> <sc><ref target="head:Mine" type="search">Mine</ref>, <ref target="head:Mineur" type="search">Mineur</ref></sc>.
+</p>
+<p>
+La <i>Géométrie soûterreine</i> a abandonné l&#39;ancienne
+division de la circonférence en 360 parties ; elle y
+en a substitué une qui lui est plus commode, de la
+circonférence en 24 heures, &amp; de chaque heure en 8
+parties. La circonférence n&#39;ayant par ce moyen que
+192 parties, chacune de ces parties devient sensible 
+sur un cercle qui n&#39;auroit qu&#39;un doigt ou qu&#39;un
+doigt &amp; demi de diametre ; la pointe de l&#39;aiguille aimantée,
+si c&#39;est une boussole, la montre plus distinctement,
+&amp; cela est important dans le fond des entrailles 
+de la terre, où l&#39;on n&#39;est éclairé qu&#39;à la lueur
+des lumieres artificielles.
+</p>
+<p>
+La circonférence du cercle de la <i>Géométrie soûterreine</i> a donc 192 parties ou degrés, la demi-circonférence 96, &amp; le quart de la circonférence 48 degrés 
+ou 6 heures. Les 6 heures qu&#39;une des extrémités
+de la méridienne partage en deux, s&#39;appellent <i>heures
+septentrionales</i> ou <i>méridionales</i>, selon l&#39;extrémité &amp; sa
+direction. Les 6 heures que la linge qui coupe perpendiculairement 
+la méridienne, &amp; qui passe par le
+centre du cercle, divise en deux parties égales, s&#39;appellent 
+aussi, selon l&#39;extrémité &amp; la direction de
+cette ligne, <i>heures orientales</i> ou <i>occidentales</i>.
+</p>
+<p>
+L&#39;ouverture perpendiculaire <i>AB</i> (<i>voyez la <ref target="XPL:5275" type="platelink">Planche
+soûterr</ref>. parmi celles de Minéralog.</i>) poussée de la surface 
+de la terre à une galerie qui sert à introduire l&#39;air,
+de passage aux ouvriers, &amp; de sortie au minerai,
+s&#39;appelle <i>une burre</i> ou <i>un puits</i>. On établit en <i>A</i> la machine 
+connue sous le nom de <i>chevre</i> ou de <i>treuil. Voy.</i>
+<sc><ref target="head:Chevre" type="search">Chevre</ref></sc>, <i>&amp;c.</i> La largeur de la burre ou du puits est
+proportionnée à son usage ; elle varie selon que le
+puits ne sert que de passage aux ouvriers, ou qu&#39;il
+sert en même tems de sortie aux minerais. Dans le
+premier cas, sa largeur est d&#39;une demi-perche métallique ; 
+dans le second il est de la même dimension,
+mais sa longueur est d&#39;une perche entiere.
+</p>
+<p>
+On entend en général par une <i>galerie</i>, une caverne
+<milestone unit="column" n="2" />
+artificielle pratiquée dans les entrailles de la terret
+il est important d&#39;en connoître l&#39;obliquité, les sinuosités,
+les directions. On lui donne le nom d&#39;<i>ascendante</i>
+ou de <i>descendante</i>, lorsque supposant une ligne horisontale 
+tracée au point d&#39;où on la considere, elle
+s&#39;éleve au-dessus ou descend au-dessous de cette ligne ; 
+d&#39;où l&#39;on voit que cette dénomination d&#39;<i>ascendante</i> &amp; de <i>descendante</i> n&#39;étant relative qu&#39;au point
+où le mineur est placé, &amp; ce point pouvant variet
+d&#39;un moment à l&#39;autre, une galerie peut d&#39;un moment 
+à l&#39;autre prendre le nom d&#39;<i>ascendante</i> de descendante 
+qu&#39;elle étoit, &amp; réciproquement.
+</p>
+<p>
+L&#39;aune ou la perche métallique est divisée en 8
+parties ou piés, chaque huitieme partie ou chaque
+pié en dix doigts, &amp; chaque doigt en dix lignes,
+scrupules ou minutes : ainsi la perche métallique a
+800 lignes, minutes ou scrupules. Il est bon de remarquer 
+qu&#39;elle n&#39;est pas la même par tout. Ce nombre 
+4, 5&#39;, 7&#39;&#39;, 9&#39;&#39;&#39;signifie 4 aunes, 5 piés, 7 doigts,
+9 scrupules.
+</p>
+<p>
+Cela supposé, voici quelques exemples des regles 
+d&#39;Arithmétique relatives à ces mesures.
+</p>
+<p>
+Soit à ajoûter 18, 7&#39;, 1&#39;&#39;, 6&#39;&#39;&#39;avec 9, 3&#39;, 5&#39;&#39;, 8&#39;&#39;&#39;,
+vous direz : 8 &amp; 6 font 14; je pose 4 &amp; je retiens 1:
+5 &amp; 1 de retenu font 6, &amp; 1 font 7&#39;&#39;; 3 &amp; 7 font 10&#39;,
+ou dix piés. Mais dix piés sont une aune &amp; 2 piés:
+je pose donc 2&#39;; je retiens 1, qui avec les nombres
+9 &amp; 18 donne 28&#39;ou 2 aunes. La somme est donc 28,
+2&#39;, 7&#39;&#39;, 4&#39;&#39;&#39;.
+</p>
+<p>
+Soit à soustraire 18, 7&#39;, 1&#39;&#39;, 6&#39;&#39;&#39;de 28, 2&#39;, 7&#39;&#39;, 4&#39;&#39;&#39;, je
+dis 6 de 14, reste 4, &amp; j&#39;écris 4&#39;&#39;&#39;; 2 de 7, reste 5, &amp;
+j&#39;écris 5&#39;&#39;; 7 de 2 ne se peut. Il faut ajoûter au 2 une
+unité; mais que vaut cette unité? une aune ou huit
+piés : ainsi je dis, 7 de 10, reste 3, &amp; j&#39;écris 3&#39;; 19
+de 28, reste 9, &amp; j&#39;écris 9: le reste est donc 9, 3&#39;,
+5&#39;&#39;, 8&#39;&#39;&#39;.
+</p>
+<p>
+Soit à multiplier 4, 5&#39;, 7&#39;&#39;, 9&#39;&#39;&#39;par 6, je dis : 6 fois
+9 font 54; je pose 4&#39;&#39;&#39;&amp; je retiens 5&#39;&#39;: 6 fois 7 font
+42, &amp; 5 de retenus font 47; je pose 7&#39;&#39;&amp; retiens 4&#39;:
+6 fois 5 font 30, &amp; 4 de retenus font 34, ou 4 aunes
+de huit piés &amp; deux piés ; donc je pose 2&#39;&amp; retiens
+4. 6 fois 4 font 24, &amp; 4 de retenus font 28: le prot
+duit est donc 28, 2&#39;, 7&#39;&#39;, 4&#39;&#39;&#39;.
+</p>
+<p>
+La division se fait en opérant sur la plus grande
+espece possible, si cela se peut ; &amp; si cela ne se peut
+pas, en réduisant cette grande espece à l&#39;espece
+suivante, &amp; opérant ensuite. Ainsi, soit à diviser 
+28, 2&#39;, 7&#39;&#39;, 4&#39;&#39;&#39;par 8, je dis : en 28 combien de
+fois 8? 3 fois, &amp; j&#39;écris 3 au quotient ; il reste au
+dividende 4, ou 4 aunes de chacune 8 piés ou 32&#39;,
+qui avec 2&#39;font 34&#39;. Je dis donc : en 34 combien de
+fois 8? 4 fois, &amp; j&#39;écris 4&#39;au quotient, Il reste au
+dividende 2&#39;, ou 2 piés de chacun 10 doigts, c&#39;est-à-dire 20&#39;&#39;, qui font avec 7&#39;&#39;, 27&#39;&#39;; &amp; je dis : en 27&#39;&#39;
+combien de fois 8? 3 fois : j&#39;écris 3&#39;&#39;au quotient.
+Il reste au dividende 3&#39;&#39;ou 30 minutes, qui avec 4&#39;&#39;&#39;
+font 34&#39;&#39;&#39;. Je dis : en 34 combien de fois 8? 4; j&#39;ecris 
+4&#39;&#39;&#39;au quotient. Il reste 2&#39;&#39;&#39;au dividende : j&#39;ai
+donc pour quotient 3, 4&#39;, 3&#39;&#39;, 4&#39;&#39;&#39;, avec la fraction
+2/3&#39;&#39;&#39;.
+</p>
+<p>
+Lorsqu&#39;on s&#39;est familiarisé avec l&#39;arithmétique du
+mineur, il faut connoître ses instrumens. Le premier
+est un niveau qu&#39;on voit <i><ref target="XPL:5276" type="platelink">Planche de Géomét</ref>. soûterr.
+<ref target="XPL:5277" type="platelink">fig. 1</ref>.</i> c&#39;est un demi-cercle de laiton, mince, divisé
+en degrés, demi-degrés, &amp; même quart de degrés.
+Il a deux crochets, <i>K, H</i>, au moyen desquels on
+l&#39;accroche sur la corde du genou, <i><ref target="XPL:5278" type="platelink">fig. 5</ref></i>. Du centre
+de ce niveau pend un plomb <i>L</i>, tenu par un fil ou
+<pb n="7:639" facs="V7/ENC_7-639.jpeg" />
+<milestone unit="column" n="1" />
+un crin. Ce fil indique l&#39;inclinaison à l&#39;horison du fil
+ou de la ligne <i>KI</i> du genou, <i><ref target="XPL:5279" type="platelink">figure 5</ref></i>.
+</p>
+<p>
+Le second est une boussole qu&#39;on voit <i>même <ref target="XPL:5280" type="platelink">Planche, figure 2</ref></i>. Elle est composée d&#39;un grand anneau
+de cuivre <i>CEDF</i> à deux crochets <i>A, B</i>, dont l&#39;usage 
+est le même que des crochets <i>KH</i> du niveau
+qu&#39;on voit <i><ref target="XPL:5281" type="platelink">figure 1</ref></i>. Dans ce premier anneau on en a
+adapté un second, <i>CLDG</i>, plus leger, &amp; dont le
+plan coupe à angles droits le plan du premier. Entre
+ces deux anneaux est suspendue une boîte de boussole 
+mobile sur des pivots en <i>L</i> &amp; en <i>G</i>. Le tour de
+cette boussole est divisé en 24 parties qu&#39;on appelle
+<i>heures</i> (nous avons expliqué plus haut ce que c&#39;est
+qu&#39;une heure), &amp; chaque heure en 8 minut. Le nord
+est en <i>E</i>, le sud en <i>F</i>, l&#39;est en <i>G</i>, &amp; l&#39;oüest en <i>L</i>. Ces
+deux derniers points sont marqués en sens contraire
+de ce qu&#39;ils sont ordinairement dans les autres boussoles.
+La boîte de la boussole étant mobile sur. les pivots 
+<i>L, G</i>, quelle que soit la position des anneaux
+entre lesquels elle est retenue, elle gardera toûjours 
+son parallelisme à l&#39;horison. Cet instrument indiquera 
+commodément la position des filons &amp; des
+galeries, relativement aux points cardinaux du
+monde. Dans l&#39;usage, on place toûjours la ligne méridienne 
+dans le milieu de la galerie, le septentrion
+selon sa direction ; &amp; ce sont les écarts de l&#39;aiguille
+aimantée de la ligne méridienne qui indiquent les
+écarts de la direction de la galerie, des points cardinaux 
+du monde. Si donc la galerie est dirigée vers
+l&#39;orient, c&#39;est-à-dire si sa direction s&#39;écarte à droite
+de la ligne méridienne, la pointe de l&#39;aiguille aimantée 
+tournera vers la gauche de la quantité de
+cet écart, &amp; sa pointe marquera à gauche l&#39;heure
+orientale. Voilà la raison pour laquelle dans la boussole 
+du mineur on a transposé les points d&#39;orient &amp;
+d&#39;occident, des lieux qu&#39;ils occupent dans la boussole 
+ordinaire. On voit, <i><ref target="XPL:5282" type="platelink">figure 3</ref>. même <ref target="XPL:5283" type="platelink">Planche</ref></i>, le
+cadran de la boussole divisé en heures &amp; en minutes.
+</p>
+<p>
+Le troisieme, qu&#39;on voit <i><ref target="XPL:5284" type="platelink">figure 6</ref>.</i> est un trace-ligne.
+C&#39;est une petite boîte de bois d&#39;ébene, de boüis
+ou d&#39;ivoire, de forme rectangulaire, garnie de deux
+pinnules <i>RR</i>, dans la concavité de laquelle on place
+la boussole de la <i><ref target="XPL:5285" type="platelink">figure 2</ref>.</i> en la séparant de ses anneaux : la méridienne doit coïncider avec les pinnules.
+La longueur <i>AC</i> de cet instrument est de 6 à
+7 pouces, &amp; sa largeur <i>CD</i> de 4. Les pinnules peuvent 
+se rabattre sur le plan de l&#39;instrument ; il sert à
+rapporter ou sur le papier ou sur le terrein, les directions 
+trouvées par le moyen du second instrument.
+</p>
+<p>
+La seule chose qu&#39;il y ait à observer dans l&#39;usage
+de ces instrumens, c&#39;est la variation de l&#39;aiguille aimantée 
+dans différens lieux, &amp; dans le même lieu
+en différens tems. Cette variation oblige quelquefois 
+à des corrections d&#39;autant plus nécessaires, que
+les galeries où les angles ont été pris sont plus longues,
+plus éloignées les unes des autres. Il n&#39;est pas
+non plus inutile de savoir que le froid gênant le mouvement 
+de l&#39;aiguille, il est à-propos en hyver, avant
+que de descendre l&#39;instrument dans la mine, de l&#39;avoir 
+échauffé dans une étuve. Les autres causes d&#39;erreur,
+tels que le voisinage du fer, qui occasionneroient 
+des erreurs, sont assez connues.
+</p>
+<p>
+Le quatrieme instrument est le genou. <i>Voyez cet
+instrument, même <ref target="XPL:5286" type="platelink">Planche, fig</ref>. 5</i>. C&#39;est une regle de
+bois <i>AE</i>, avec ses deux pinnules <i>BC</i>, à fenêtres &amp;
+à fente. Les fenêtres sont divisées par un fil vertical, &amp;
+un autre horisontal. La fente a un petit trou rond, par
+lequel on regarde pour pointer la croisée des fils sur
+l&#39;objet qu&#39;on veut. Les deux mires doivent être exactement 
+paralleles. <i>KI</i> est un fil de laiton appuyé sur
+deux chevalets, retenu d&#39;un bout par une boucle, &amp;
+placé de l&#39;autre sur une cheville. Comme ce fil <i>KI</i> doit
+toûjours être parallele aux lignes de mire, il leur
+<milestone unit="column" n="2" />
+faut un certain degré de tension, qu&#39;on lui donne
+avec la cheville <i>E. FF</i> est un boulon à tête, terminé
+par une vis ; c&#39;est autour de ce boulon que le genou
+est mobile dans le sens vertical. La boite du boulon
+est adhérente à une douille <i>GH</i>, dans laquelle on
+fait entrer le pié de l&#39;instrument ; par ce moyen le
+genou est mobile horisontalement. C&#39;est sur le fil
+qu&#39;on suspend, comme nous l&#39;avons dit, les instrumens 
+représentés <i><ref target="XPL:5287" type="platelink">fig. 1</ref>.</i> &amp; <i><ref target="XPL:5288" type="platelink">fig. 2</ref></i>.
+</p>
+<p>
+On peut encore, pour plus de commodité, ajoûter 
+à ces instrumens le secours de quelques autres ;
+mais les précédens sont les plus importans, &amp; suffisent.
+</p>
+<p>
+On n&#39;a proprement à résoudre dans toute cette
+<i>Géométrie</i>, que des triangles rectilignes. Son premier
+théorème consiste à trouver par le niveau d&#39;inclinaison 
+l&#39;angle aigu <i>C</i>, dans un triangle rectangle en <i>B</i>.
+Le fil <i>A i</i> marque la perpendiculaire, &amp; l&#39;arc <i>Hi</i>
+donne la quantité de cet angle. Les inconnues du
+reste de ce triangle se découvriront par le moyen
+des tables des sinus, &amp; par les regles de la Trigonométrie.
+</p>
+<p>
+Si l&#39;on propose de donner les dimensions d&#39;une
+mine où l&#39;aiguille aimantée n&#39;est point troublée par
+le voisinage d&#39;une mine de fer, l&#39;ingénieur mesure sa
+profondeur, y descend avec ses instrumens, la parcourt ; 
+prend les distances qui lui sont nécessaires,
+&amp; les angles dont il a besoin, &amp; porte ces choses sur
+des feuilles de papier. Il s&#39;est d&#39;abord établi une
+échelle ; par ce moyen il acheve son travail, ou
+dans la mine même, ou quand il en est sorti. Si la
+mine est une mine de fer, son travail n&#39;est pas plus
+difficile ; il sait quels sont les instrumens dont il ne
+doit pas se servir, &amp; notre <i><ref target="XPL:5289" type="platelink">figure 8</ref>.</i> lui montre les
+triangles qu&#39;il a à prendre &amp; à résoudre. A-t-il une
+ligne droite à tracer dans un endroit impratiquable?
+il n&#39;a qu&#39;à jetter les yeux sur notre <i><ref target="XPL:5290" type="platelink">fig. 9</ref></i>. La <i><ref target="XPL:5291" type="platelink">fig. 10</ref>.</i>
+lui indiquera la maniere de trouver quel point de la
+surface de la terre correspond à un point donné dessous ; 
+la <i><ref target="XPL:5292" type="platelink">fig. 11</ref>.</i> la maniere de tracer une ligne droite
+sur une surface inclinée &amp; inégale ; la <i><ref target="XPL:5293" type="platelink">fig. 12</ref>.</i> comment 
+il s&#39;y prendra pour tracer la ligne qui communique 
+d&#39;une mine à une autre ; la <i><ref target="XPL:5294" type="platelink">fig. 13</ref>.</i> la maniere
+de pénétrer d&#39;un point de la surface de la terre à un
+lieu donné de la mine ; la <i><ref target="XPL:5295" type="platelink">fig. 14</ref>.</i> comment il déterminera 
+le point de la mine qui correspond verticalement 
+à un point donné dessus ; enfin la <i><ref target="XPL:5296" type="platelink">figure 15</ref>.</i>
+les opérations qui doivent se faire à la surface du
+terrein, pour la résolution de la plûpart des problèmes.
+</p>
+<p>
+C&#39;est à ces problèmes que se réduit toute la <i>Géométrie soûterreine ;</i> d&#39;où l&#39;on voit qu&#39;elle n&#39;est autre
+chose, comme nous l&#39;avons dit plus haut, qu&#39;une
+application de la Trigonométrie à quelques cas particuliers ; 
+&amp; qu&#39;elle n&#39;exige que la connoissance des
+instrumens que nous avons décrits, &amp; de ceux dont
+l&#39;ingénieur &amp; l&#39;arpenteur font usage. Celui qui en
+voudra savoir davantage là-dessus, peut consulter
+les <i>institutions</i> de Weidler, l&#39;ouvrage d&#39;Agricola sur
+la Métallurgie, Erasme Reinhold, Beyer, Raigtel,
+Sturmius, Jugel, &amp; de Oppel. Ces auteurs sont tous
+allemands. On conçoit aisément que la <i>Géométrie
+soûterreine</i> a dû prendre naissance en Allemagne, où
+les hommes ont ou principalement des intérêts à discuter 
+dans les entrailles de la terre.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

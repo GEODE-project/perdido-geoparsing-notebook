@@ -1,0 +1,209 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27835" id="49:75" vol="7">
+<index type="head" value="FORTUNE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Morale" />
+<index type="normclass" value="Morale" />
+<index type="englishclass" value="Ethics" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="s.m." />
+<head>FORTUNE</head>
+<p>
+FORTUNE, s. m. (<i>Morale</i>) ce mot a différentes
+acceptions en notre langue : il signifie ou <i>la suite des
+évenemens qui rendent les hommes heureux ou malheureux</i>, &amp; c&#39;est l&#39;acception la plus générale ; ou <i>un
+état d&#39;opulence</i>, &amp; c&#39;est en ce sens qu&#39;on dit <i>faire fortune,
+avoir de la fortune</i>. Enfin lorsque ce mot est
+joint au mot <i>bon</i>, il désigne les faveurs du sexe ; <i>aller en bonne fortune, avoir des bonnes fortunes</i> (&amp; non
+pas, pour le dire en passant, <i>de bonnes fortunes</i>, parce 
+que <i>bonne fortune</i> est traité ici comme un seul
+mot). L&#39;objet de cette derniere acception est trop
+peu sérieux pour obtenir place dans un ouvrage tel
+que le nôtre ; ce qui regarde le mot <i>fortune</i> pris dans
+le premier sens, a été suffisamment approfondi au
+<pb n="7:206" facs="V7/ENC_7-206.jpeg" />
+<milestone unit="column" n="1" />
+<i>mot</i> <sc><ref target="head:Fatalité" type="search">Fatalité</ref></sc> ; nous nous bornerons donc à dire
+ici quelque chose sur le mot <i>fortune</i>, pris dans la seconde 
+acception.
+</p>
+<p>
+Il y a des moyens vils de <i>faire fortune</i>, c&#39;est-à-dire
+d&#39;acquérir des richesses ; il y en a de criminels, il y
+en a d&#39;honnêtes.
+</p>
+<p>
+Les moyens vils consistent en général dans le talent 
+méprisable de faire bassement sa cour ; ce talent 
+se réduit, comme le disoit autrefois un prince
+de beaucoup d&#39;esprit, à savoir être auprès des grands
+<i>sans humeur &amp; sans honneur</i>. Il faut cependant observer 
+que les moyens vils de parvenir à l&#39;opulence,
+cessent en quelque maniere de l&#39;être lorsqu&#39;on ne les
+employe qu&#39;à se procurer l&#39;étroit nécessaire. Tout est
+permis, excepté le crime, pour sortir d&#39;un état de
+misere profonde ; de-là vient qu&#39;il est souvent plus
+facile de s&#39;enrichir, en partant de l&#39;indigence absolue,
+qu&#39;en partant d&#39;une <i>fortune</i> étroite &amp; bornée.
+La nécessité de se délivrer de l&#39;indigence, rendant
+presque tous les moyens excusables, familiarise insensiblement 
+avec ces moyens ; il en coûte moins
+ensuite pour les faire servir à l&#39;augmentation de sa
+<i>fortune</i>.
+</p>
+<p>
+Les moyens de s&#39;enrichir peuvent être <i>criminels</i>
+en morale, quoique permis par les lois ; il est contre
+le droit naturel &amp; contre l&#39;humanité que des millions
+d&#39;hommes soient privés du nécessaire comme ils le
+sont dans certains pays, pour nourrir le luxe scandaleux 
+d&#39;un petit nombre de citoyens oisifs. Une injustice 
+si criante &amp; si cruelle ne peut être autorisée
+par le motif de fournir des ressources à l&#39;état dans
+des tems difficiles. Multiplier les malheureux pour
+augmenter les ressources, c&#39;est se couper un bras
+pour donner plus de nourriture à l&#39;autre. Cette inégalité 
+monstrueuse entre la <i>fortune</i> des hommes, qui
+fait que les uns périssent d&#39;indigence, tandis que les
+autres regorgent de superflu, étoit un des principaux 
+argumens des Epicuriens contre la providence,
+&amp; devoit paroitre sans réplique à des philosophes 
+privés des lumieres de l&#39;évangile. Les hommes
+engraissés de la substance publique, n&#39;ont qu&#39;un
+moyen de réconcilier leur opulence avec la morale,
+c&#39;est de rendre abondamment à l&#39;indigence ce
+qu&#39;ils lui ont enlevé, suppose même que la morale
+soit parfaitement à couvert, quand on donne aux
+uns ce dont on a privé les autres. Mais pour l&#39;ordinaire 
+ceux qui ont causé la misere du peuple, croyent
+s&#39;acquitter en la plaignant, ou même se dispensent
+de la plaindre.
+</p>
+<p>
+Les moyens honnêtes de faire <i>fortune</i>, sont ceux
+qui viennent du talent &amp; de l&#39;industrie ; à la tête de
+ces moyens, on doit placer le Commerce. Quelle
+différence pour le sage entre la <i>fortune</i> d&#39;un courtisan 
+faite à force de bassesses &amp; d&#39;intrigues, &amp; celle
+d&#39;un négociant qui ne doit son opulence qu&#39;à lui-même,
+&amp; qui par cette opulence procure le bien de
+l&#39;état! C&#39;est une étrange barbarie dans nos moeurs,
+&amp; en même tems une contradiction bien ridicule, que
+le commerce, c&#39;est-à-dire la maniere la plus noble
+de s&#39;enrichir, soit regardé par les nobles avec mépris,
+&amp; qu&#39;il serve néanmoins à acheter la noblesse.
+Mais ce qui met le comble à la contradiction &amp; à
+la barbarie, est qu&#39;on puisse se procurer la noblesse
+avec des richesses acquises par toutes sortes de voies.
+<i>Voyez</i> <sc><ref target="head:Noblesse" type="search">Noblesse</ref></sc>.
+</p>
+<p>
+Un moyen sûr de faire <i>fortune</i>, c&#39;est d&#39;être continuellement 
+occupé de cet objet, &amp; de n&#39;être pas
+scrupuleux sur le choix des routes qui peuvent y conduire. 
+On demandoit à Newton comment il avoit pû
+trouver le système du monde : <i>c&#39;est</i>, disoit ce grand
+philosophe, <i>pour y avoir pensé sans cesse</i>. A plus forte
+raison reussira-t-on par cette opiniâtreté dans des entreprises 
+moins difficiles, sur-tout quand on sera résolu 
+d&#39;employer toutes sortes de voies. L&#39;esprit d&#39;intrigue<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; de manége est donc bien méprisable, puisque 
+c&#39;est l&#39;esprit de tous ceux qui voudront l&#39;avoir,
+&amp; de ceux qui n&#39;en ont point d&#39;autre. Il ne faut d&#39;autre 
+talent pour faire <i>fortune</i>, que la résolution bien
+déterminée de la faire, de la patience, &amp; de l&#39;audace.
+Disons plus : les moyens honnétes de s&#39;enrichir,
+quoiqu&#39;ils supposent quelques difficultés réelles
+à vaincre, n&#39;en presentent pas toujours autant qu&#39;on
+pourroit le penser. On sait l&#39;histoire de ce philosophe,
+à qui ses ennemis reprochoient de ne mépriser
+les richesses, que pour n&#39;avoir pas l&#39;esprit d&#39;en acquérir.
+Il se mit dans le commerce, s&#39;y enrichit en
+un an, distribua son gain à ses amis, &amp; se remit ensuite 
+à philosopher. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

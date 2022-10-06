@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27885" id="49:97:3" vol="7">
+<index type="head" value="Fou" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jeu." />
+<index type="normclass" value="Jeu" />
+<index type="englishclass" value="Game" />
+<index type="generatedclass" value="Jeu" />
+<index type="pos" value="NA" />
+<head>Fou</head>
+<p>
+<sc>* Fou</sc>, (<i>Jeu.</i>) aux échets. Il y a deux pieces qu&#39;on
+appelle de ce nom, presque égales aux chevaliers,
+mais de meilleur service à la fin du jeu qu&#39;au commencement.
+Les <i>fous</i> sont toûjours placés immédiatement 
+après le roi à droite, &amp; après la dame à gauche.
+Le <i>fou</i> qui occupe la case noire, ne marche qu&#39;obliquement, <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; toûjours sur les cases noires. Celui
+qui est sur les blanches, y marche toûjours aussi de
+biais. Les <i>fous</i> vont tous deux aussi loin qu&#39;ils peuvent 
+aller, c&#39;est-à-dire tant qu&#39;ils rencontrent des
+cases vuides. S&#39;il se trouve une piece ennemie sur
+leur chemin, ils peuvent la prendre ; alors ils se mettent 
+à la place de la piece prise.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

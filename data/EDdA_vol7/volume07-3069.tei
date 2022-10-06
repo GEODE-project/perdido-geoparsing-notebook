@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30523" id="55:114" vol="7">
+<index type="head" value="GROUGROU" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Romain" />
+<index type="shortauth" value="Le Romain" />
+<index type="kafnum" value="73" />
+<index type="kafauth" value="Le Romain, or Romain, Jean-Baptiste-Pierre (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. bot." />
+<index type="normclass" value="Histoire naturelle | Botanique" />
+<index type="englishclass" value="Natural history. Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GROUGROU</head>
+<p>
+GROUGROU, s. m. (<i>Hist. nat. bot.</i>) c&#39;est une
+des especes de palmier qui croissent en Amérique.
+Le <i>grougrou</i> ne s&#39;éleve pas si haut que le palmier franc ;
+&amp; quoiqu&#39;il soit garni d&#39;épines longues de quatre à
+cinq pouces, menues comme des aiguilles à tricoter,
+&amp; extrèmement polies, il ne faut pas pour cela le
+confondre avec le palmier épineux. Son fruit vient
+par grappes ; il est de la grosseur d&#39;une balle de paume,
+&amp; renferme un petit cocos plus gros qu&#39;une
+aveline, noir, poli, &amp; très-dur ; au-dedans duquel
+est une substance blanchâtre, coriace, insipide, &amp;
+très-indigeste. Cependant les Negres en mangent
+beaucoup ; les Sauvages en font une huile qui renaît 
+en peu de tems, &amp; dont ils se frottent le corps ;
+le chou qui provient de cet arbre est bien meilleur
+que celui du palmier franc, mais moins délicieux
+que celui du palmier épineux.
+</p>
+<p>
+De toutes les îles françoises, celle qui abonde le
+<pb n="7:970" facs="V7/ENC_7-970.jpeg" />
+<milestone unit="column" n="1" />
+plus en <i>grougrou</i>, c&#39;est la Grenade ; il y a des montagnes 
+qui en sont toutes couvertes. <i>Article de M. <sc>le
+Romain</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

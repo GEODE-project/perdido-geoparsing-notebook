@@ -1,0 +1,174 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29494" id="53:9" vol="7">
+<index type="head" value="GERYON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythologie." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="s.m." />
+<head>GERYON</head>
+<p>
+GERYON, s. m. (<i>Mythologie.</i>) il est fameux dans
+la Fable ; c&#39;étoit le plus fort de tous les hommes, dit
+Hésiode, <i>v. 98.</i>
+</p>
+<p>
+Il avoit trois têtes, <foreign lang="greek">τρικάρηνον</foreign>, &amp; trois corps, à ce
+que prétend Virgile après Euripide:
+<lg>
+</lg></p>
+<p>
+. . . . . . . <i>Et forma tricorporis umbrae</i>.
+</p>
+<p>
+On ne convient pas trop du lieu où il faisoit sa demeure ; 
+selon quelques-uns c&#39;étoit en Grece ; selon le
+plus grand nombre, en Espagne ; selon d&#39;autres auteurs,
+dans les iles de Majorque, de Minorque, &amp;
+d&#39;Ivice : mais selon Hésiode, le plus ancien des écrivains qui ait parlé de <i>Géryon</i>, c&#39;étoit dans l&#39;île d&#39;Enrythie, qu&#39;on appelloit aussi l&#39;île de <i>Gades</i>, aujourd&#39;hui l&#39;île de Cadix.
+</p>
+<p>
+Quoi qu&#39;il en soit, il avoit de nombreux troupeaux<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+gardés par un pâtre appellé <i>Eurythion</i>, &amp;
+par le chien Orthus, frere de Cerbere, qui par cette
+raison aura son article dans l&#39;<i>Encyclopédie</i>.
+</p>
+<p>
+Hercule, pour obéir aux ordres d&#39;Eurysthée, passa
+dans les états de <i>Géryon</i>, tua le chien, le pâtre, &amp;
+le maître, &amp; emmena les troupeaux à Tirynthe.
+</p>
+<p>
+Plusieurs auteurs prétendent que ce qui a donné
+lieu aux Poetes d&#39;attribuer trois corps &amp; trois têtes
+à <i>Géryon</i>, vient de ce que ses états étoient composés
+de trois provinces &amp; de trois îles ; d&#39;autres croyent
+que ces trois têtes étoient trois vaillans amis qui
+lui étoient également attachés, &amp; qui s&#39;opposerent
+à Hercule ; d&#39;autres enfin nous disent que c&#39;est parce
+que <i>Géryon</i> étoit l&#39;ainé de deux freres &amp; que tous trois
+étoient si unis entre eux, qu&#39;ils sembloient n&#39;avoir
+qu&#39;une ame, mais qui, malgré leur union, surent tous
+trois défaits par Hercule.
+</p>
+<p>
+Si l&#39;on souhaite en savoir davantage sur <i>Géryon</i>,
+que l&#39;on consulte Hésiode dans sa <i>théogonie</i>, &amp; l&#39;on
+apprendra que ce roi monstrueux eut pour pere
+Chrysaor, &amp; pour ayeule la tête de Méduse : voici
+comme ce poëte conte la chose. Aptès que Persée
+eut coupé la tête de la Gorgone, il fut tout surpris
+d&#39;en voir éclorre un géant armé d&#39;une épée, qu&#39;on
+appella par cette raison <i>Chrysaor</i>, &amp; un cheval aîlé
+qui fut Pégase. Or dans la suite Chrysaor devint sensible 
+aux charmes de Callirrhoë, fille de l&#39;Océan ; &amp;
+de cet amour naquit <i>Géryon</i>.
+</p>
+<p>
+Il résulte de-là que <i>Géryon</i> étoit petit-fils de la tête 
+de Méduse, fils de Chrysaor, &amp; neveu de Pégase.
+</p>
+<p> 
+Cette généalogie ouvre un beau champ aux conjectures 
+de ceux qui sont persuadés que les anciens
+poëtes ont entendu finesse à tout, &amp; que sous leurs
+fictions les plus absurdes ils ont caché d&#39;importantes
+vérités : en tout cas, ils les ont si bien cachées, que
+les plus habiles mythologues ne les découvriront jamais.
+Je n&#39;ajoûte plus qu&#39;un mot historique.
+</p>
+<p>
+Il y avoit autrefois en Italie près de Padoue un oracle 
+de <i>Géryon</i>, dont parle Suétone dans la vie de Tibere ; cet empereur le consulta en allant en Illyrie,
+&amp; Cluvier en conclud que <i>Géryon</i> avoit aussi un temple 
+dans ce lieu-là, par la raison qu&#39;il n&#39;y avoit point
+d&#39;oracle de quelqu&#39;un sans un temple en son honneur.
+On peut consulter l&#39;<i>Ital. antiq.</i> de ce savant,
+<i>lib. II. cap. xviij.</i> (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

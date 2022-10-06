@@ -1,0 +1,223 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29781" id="53:222" vol="7">
+<index type="head" value="GOETRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>GOETRE</head>
+<p>
+GOETRE, s. m. <i>terme de Chirurgie</i>, quelques-uns
+écrivent <i>goitre</i> ou <i>gouetre ;</i> c&#39;est une tumeur indolente,
+mobile &amp; sans changement de couleur à la
+peau, qui vient au-devant de la gorge. Les Savoyards
+&amp; tous les habitans des montagnes sont fort sujets
+à cette maladie ; on attribue cette endémie aux eaux
+&amp; neiges fondues &amp; de sources froides qu&#39;ils sont
+obligés de boire.
+</p>
+<p>
+Le mot <i>goëtre</i> est formé par corruption du latin
+<i>guttur</i>, gorge ; plusieurs autres ont confondu mal-à-<milestone unit="column" n="2" />
+propos le <i>goëtre</i> avec une autre maladie de la gorge,
+nommée <i>bronchocele. Voyez</i> <sc><ref target="head:Bronchocele" type="search">Bronchocele</ref></sc>.
+</p>
+<p>
+Le <i>goëtre</i> est formé par une congestion de sucs
+lymphatiques ; &amp; l&#39;on tient que le signe de cette tumeur 
+est dans la glande thyroïdienne. Il y a bien
+plus d&#39;apparence que l&#39;engorgement de l&#39;humeur se
+fait dans le tissu cellulaire, puisqu&#39;on voit aux habitans 
+des Alpes &amp; des Pyrénées ces tumeurs très considérables,
+molles &amp; pendantes sur la poitrine.
+Il y a, dit-on, des villages entiers où personne n&#39;en
+est exempt, &amp; où les hommes &amp; les femmes disputent 
+entr&#39;eux de beauté, suivant la disposition plus
+ou moins réguliere du <i>goëtre</i> qu&#39;ils portent.
+</p>
+<p>
+Il y en a de différentes especes ; quelquefois la
+tumeur est enkistée, &amp; contient une matiere plus ou
+moins épaisse, qui ressemble par sa consistance à du
+miel ou à du suif ; dans d&#39;autres personnes la tumeur
+est sarcomateuse, &amp; présente une masse charnue qui
+a la consistance d&#39;une glande tuméfiée, sans être devenue 
+skirrheuse.
+</p>
+<p>
+Ces différens caracteres font connoître que les
+moyens curatifs ne doivent point être les mêmes
+dans tous les cas. Lorsque la tumeur est enkistée,
+&amp; qu&#39;on y sent de la fluctuation, si elle n&#39;est encore
+qu&#39;obscure, il ne faut pas se presser de faire l&#39;ouverture ; 
+les émolliens &amp; les maturatifs pourront avec
+le tems favoriser une plus parfaite dissolution de
+l&#39;humeur : on pourra alors obtenir par une simple
+ouverture à la partie déclive, un dégorgement complet 
+de la matiere contenue, &amp; la guérison se fera
+aisément. La tumeur étant affaissée, les parois du
+kiste peuvent se réunir très-solidement, s&#39;il ne reste
+point de vûe organique, ou que celui qui reste soit
+si peu de chose que le tems puisse le dissiper <i>Voyez</i>
+<sc><ref target="head:Enkisté" type="search">Enkisté</ref></sc>.
+</p>
+<p>
+La nature a quelquefois opéré ces sortes de guérisons 
+sans le secours de l&#39;art, au moyen d&#39;une petite 
+ouverture faite par la peau usée &amp; émincée.
+C&#39;est la mollesse &amp; la fluctuation de la tumeur qui
+feront raisonnablement présumer qu&#39;on peut se contenter 
+d&#39;ouvrir ces tumeurs. La suppuration se soûtient 
+quelquefois plusieurs années pour mettre les
+choses en cet état : elle se fait sourdement &amp; très lentement ; 
+mais elle est quelquefois si complette,
+qu&#39;un seul coup de trois-quarts suffit pour les vuider,
+&amp; donner occasion à la nature d&#39;opérer la réunion.
+</p>
+<p>
+M. d&#39;Eucery maître en Chirurgie à Cavaillon, a
+communiqué à l&#39;académie royale de Chirurgie plusieurs 
+observations de cures radicales de <i>goêtre</i> d&#39;un
+volume considérable, obtenues en ouvrant ces tumeurs 
+des deux côtés, &amp; faisant ensuite suppurer
+l&#39;intérieur par le moyen d&#39;un séton ou bandelette de
+linge effilé, chargée des remedes convenables.
+</p>
+<p>
+Si le <i>goëtre</i> est sans fluctuation, il faut tâcher de
+donner de la fluidité à l&#39;humeur, par les remedes
+délayans &amp; fondans pris intérieurement ; &amp; pour
+l&#39;usage des discussifs &amp; résolutifs extérieurs que nous
+avons indiqués dans la cure des tumeurs scrophuleuses.
+<i>Voyez</i> <sc><ref target="head:Ecrouelles" type="search">Ecrouelles</ref></sc>. Dionis recommande l&#39;emplâtre 
+diabotanum, &amp; dit que si la tumeur ne se résout 
+pas, il faut en faire l&#39;extirpation : c&#39;est le précepte 
+de Celse, suivi par Aquapendente. Mais si
+l&#39;on fait attention à la nature de la tumeur qui est
+indolente, on trouve peu de malades qui veulent
+souffrir cette opération, lorsque la tumeur sera d&#39;un
+petit volume ; &amp; lorsqu&#39;elle en aura acquis un plus
+considérable, il faudra que le chirurgien examine
+bien attentivement si l&#39;extirpation est possible : j&#39;en
+ai peu vû que l&#39;on eût pû extirper sans un péril manifeste 
+de la vie. L&#39;importance &amp; la quantité immense 
+des vaisseaux qui arrosent ou qui avoisinent
+les parties où sont situées ces tumeurs, défendent
+au chirurgien de les emporter ; mais elles ne sont
+pas toûjours incurables, &amp; hors de la portée des secours<gap type="hyphenpb" />
+<pb n="7:731" facs="V7/ENC_7-731.jpeg" />
+<milestone unit="column" n="1" />
+de l&#39;art, quoiqu&#39;elles ne soient ni dans le cas
+d&#39;être simplement ouvertes ni extirpées entierement.
+S&#39;il n&#39;y a aucune disposition skirrheuse qui puisse
+craindre que la tumeur dégénere en carcinome, on
+peut l&#39;attaquer dans un endroit d&#39;élection avec la
+pierre à cautere, &amp; lorsque la premiere escarre sera
+tombée, continuez à l&#39;entamer peu-à peu avec prudence 
+par des applications réitérées d&#39;un caustique
+convenable jusque dans son centre, pour y causer
+une déperdition de substance, au moyen de laquelle 
+les remedes fondans extérieurs qui avoient été
+inefficaces lorsque la tumeur étoit entiere, produisent 
+un dégorgement considérable qui conduit à la
+fonte de la tumeur &amp; à la guérison. Le choix du
+caustique n&#39;est point une chose indifférente ; il ne
+faut pas qu&#39;il soit irritant, &amp; qu&#39;il crispe les solides.
+On fait des merveilles avec le beurre d&#39;antimoine:
+c&#39;est un caustique putréfiant ; mais il doit être administré 
+avec bien de la circonspection. On en porte
+quelques gouttes avec un tuyau de plume, ou une
+petite boule de charpie ou de coton : on panse ensuite 
+avec les remedes qui sont propres à procurer
+la séparation des escarres. <i>Voyez</i> dans le <i>premier volume</i> des pieces qui ont concouru pour le prix de
+l&#39;academie royale de Chirurgie, le <i>mémoire</i> de feu
+M. Medalon sur la différence des tumeurs qu&#39;il faut
+extirper ou ouvrir, &amp; sur le choix du cautere ou
+de l&#39;instrument tranchant dans ces différens cas. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

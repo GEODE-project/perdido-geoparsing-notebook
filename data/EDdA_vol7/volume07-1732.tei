@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29186" id="52:32" vol="7">
+<index type="head" value="GATEAU" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Pâtisserie" />
+<index type="normclass" value="Pâtisserie" />
+<index type="englishclass" value="Cakemaking" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GATEAU</head>
+<p>
+GATEAU, s. m. (<i>Pâtisserie</i>) c&#39;est un morceau de
+pâte façonné &amp; cuit au sour sans autre appareil. Il y
+en a d&#39;une infinité de façons, selon les differens ingrédiens 
+qu&#39;on unit à la pate, ou dont on fait même des
+<i>gâteaux</i> en entier : tels sont les <i>gâteaux</i> d&#39;amandes,
+faits d&#39;amandes, de sucre &amp; d&#39;oeufs ; les <i>gâteaux</i> de
+Compiegne, qui ne different des <i>gâteaux</i> d&#39;amandes
+que par un levain particulier ajoûté aux autres ingrédiens,
+<i>&amp;c.</i> Les <i>gâteaux</i> prennent aussi des noms
+différens de la maniere dont ils sont travaillés ; ainsi
+il y a des <i>gâteaux</i> feuilletés, ou dont la pâte extrèmement 
+pliée &amp; repliée sur elle-même, se sépare en
+cuisant, &amp; se met en feuillets menus &amp; legers ; les
+<i>gâteaux</i> à la reine, <i>&amp;c.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

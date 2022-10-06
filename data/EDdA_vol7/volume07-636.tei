@@ -1,0 +1,651 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28090" id="50:24" vol="7">
+<index type="head" value="FRACTURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.f." />
+<head>FRACTURE</head>
+<p>
+FRACTURE, s. f. <i>terme de Chirurgie</i>, solution de
+continuité, ou division faite subitement dans les os,
+par la violence de quelque cause extérieure contondante.
+On appelle <i>plaies de l&#39;os</i>, les divisions qui y
+sont faites par instrument tranchant.
+</p>
+<p>
+Les <i>fractures</i> sont transversales, obliques, ou longitudinales.
+Les praticiens n&#39;admettent point la <i>fracture</i> simple de l&#39;os, suivant sa longueur ; parce qu&#39;il
+n&#39;y a aucun coup capable de fendre l&#39;os en long,
+qui ne puisse le rompre de-travers avec bien plus de
+facilité. On trouve néanmoins, à la suite des plaies
+d&#39;armes à feu, les os fendus suivant leur longueur,
+jusque dans les articulations : mais ces exemples ne
+prouvent point la possibilité de la <i>fracture</i> longitudinale 
+simple.
+</p>
+<p>
+Presque toutes les <i>fractures</i> ont des figures differentes.
+Les <i>fractures</i> en-travers sont avec des inégalités : ou bien les os sont cassés net, comme une rave:
+quelquefois un des bouts de l&#39;os cassé est seulement
+éclaté, &amp; forme une espece de bec qui ressemble à
+celui d&#39;une flûte. Les <i>fractures</i> obliques sont de deux
+sortes : les unes sont obliques dans toute leur étendue ; &amp; d&#39;autres sont transversales pendant quelques
+lignes, &amp; obliques dans le reste de leur étendue. Il
+y a des <i>fractures</i> dans lesquelles les os sont brisés en
+plusieurs éclats ; il n&#39;est pas possible de rien déterminer 
+sur leurs figures, qui peuvent être variées à l&#39;infini.
+</p>
+<p>
+Les <i>fractures</i> different entre elles par l&#39;éloignement
+des pieces fracturées : l&#39;écartement est plus considérable 
+dans les unes que dans les autres ; &amp; il y en a
+sans déplacement. Les os peuvent être déplacés suivant 
+leur longueur, quand les bouts chevauchent les
+uns sur les autres ; ou bien ils sont déplacés suivant
+leur épaisseur : il arrive même souvent, dans le dérangement 
+transversal, que les bouts sont portés en
+sens contraire, sans cesser de se toucher par quelques
+points des surfaces de la <i>fracture</i>.
+</p>
+<p>
+Par rapport aux accidens, les <i>fractures</i> sont divisées 
+en simples, en composées, &amp; en compliquées.
+La <i>fracture</i> est simple, lorsqu&#39;il n&#39;y a qu&#39;un seul os de
+rompu, sans autre accident contraire à l&#39;indication
+curative générale, qui consiste dans la réunion des
+parties divisées. La <i>fracture</i> est composée, lorsqu&#39;il y
+a en même tems deux ou trois os de cassés dans la
+partie, sans cependant qu&#39;il y ait d&#39;accidens. La <i>fracture</i> compliquée est celle qui est accompagnée de maladies 
+ou d&#39;accidens qui multiplient les indications,
+&amp; demandent qu&#39;on employe différens remedes, ou
+qu&#39;on fasse des opérations différentes pour parvenir
+à leur guérison : comme sont les luxations, les plaies,
+les apostèmes accompagnés de fievre, de douleur,
+de convulsion, <i>&amp;c.</i> Parmi ces accidens, il v
+en a qui exigent des secours plus prompts que la
+<i>fracture</i>. Si la plaie qui complique une <i>fracture</i> l&#39;étoit
+elle-même d&#39;hémorrhagie, il faudroit commencer
+par arrêter le sang, dont l&#39;effusion forme l&#39;accident
+le plus pressant. Quand il se rencontre en même tems
+<i>fracture</i> &amp; luxation, celle-ci doit être réduite la pre
+miere ; à-moins que la <i>fracture</i> voisine de l&#39;articulation,
+un gonflement considérable, ou autres circonstances 
+ne le permettent pas. Pour peu qu&#39;il y ait d&#39;inconvéniens 
+à réduire préliminairement la luxation,
+on donnera les premiers soins à la <i>fracture</i>: car on
+peut réussir dans la réduction d&#39;une luxation ancienne.
+<i>Voyez</i> <sc><ref target="head:Luxation" type="search">Luxation</ref></sc>.
+</p>
+<p>
+On distingue encore les <i>fractures</i> en complettes &amp;
+en incomplettes. La <i>fracture</i> est complette, lorsque
+l&#39;os est entierement cassé; &amp; incomplette, lorsque
+sa continuité est conservés en partie, au moyen de
+<pb n="7:267" facs="V7/ENC_7-267.jpeg" />
+<milestone unit="column" n="1" />
+quelque portion osseuse qui n&#39;a point souffert de division : cela ne se rencontre qu&#39;aux os du crane, des
+hanches, aux omoplates. Cela peut cependant arriver 
+aux os longs, dans les enfans très-jeunes ou rachitiques ; 
+ou aux adultes, dans le cas des plaies d&#39;armes 
+à feu, qui peuvent écorner un os. Un chirurgien
+qui donneroit pour preuve de la <i>fracture</i> incomplette
+une observation dans laquelle le malade, pansé comme 
+d&#39;une contusion considérable, feroit quelque
+mouvement violent, à la suite duquel la <i>fracture</i> se
+manifesteroit ; ce chirurgien, dis-je, paroîtroit plûtôt 
+avoir méconnu une <i>fracture</i> complette sans déplacement 
+primitif des pieces osseuses, qu&#39;il ne persuaderoit 
+la <i>fracture</i> totale de l&#39;os, par le mouvement
+violent qui auroit, selon lui, achevé de rompre les
+fibres osseuses, que le coup ou la chûte auroient d&#39;abord 
+épargnées.
+</p>
+<p>
+Les coups, les chûtes, les violens efforts, de quelque 
+nature qu&#39;ils soient, sont les causes les plus ordinaires 
+des <i>fractures</i>. On appelle <i>fractures</i> de cause
+interne celles qui se font à l&#39;occasion d&#39;une cause
+très-legere, à cause des dispositions internes qui rendent 
+les os très-fragiles : telles sont la carie, l&#39;exostose,
+la mollesse, &amp; autres états contre nature, qui dépendent 
+de diverses dépravations de la lymphe &amp; du
+sang, comme la vérole, le scorbut, le virus écroüelleux, le levain cancereux.
+</p>
+<p>
+Les signes des <i>fractures</i> sont la douleur, l&#39;impuissance 
+du membre, sa mauvaise configuration, &amp; le
+craquement des pieces fracturées, connu sous le nom
+de <i>crépitation</i>. Tous ces signes séparément pris, peuvent 
+être équivoques : la douleur &amp; l&#39;impuissance
+étant les effets ordinaires de beaucoup d&#39;autres maladies,
+ne prouvent rien en elles-mêmes. La mauvaise 
+configuration du membre est souvent un vice
+originaire de conformation ; &amp; l&#39;on sait qu&#39;il y a des
+<i>fractures</i> sans difformité apparente. Enfin les tumeurs
+emphysémateuses font ressentir une espece de craquement 
+quand on les presse, &amp; qui pourroit en imposer 
+à ceux qui n&#39;y feroient pas grande attention.
+Un chirurgien qui demande si la difformité qu&#39;il apperçoit 
+à un membre confronté avec la partie same,
+est naturelle, ne peut guere se tromper à la simple
+vûe sur une <i>fracture</i> simple sans gonflement : il y a
+même fort peu de cas où cette question ne devînt
+ridicule. Si la mauvaise configuration du membre
+n&#39;est pas assez manifeste pour faire appercevoir qu&#39;il
+y a <i>fracture</i>, on pourra la reconnoître par le moyen
+du toucher, en sentant les inégalités que font les pieces 
+d&#39;os déplacées. Il faut pour cet effet que le malade 
+soit assujetti par quelqu&#39;un de fort ; de crainte
+qu&#39;abandonné à lui-même, la douleur ne lui fît faire 
+des mouvemens qui pourroient devenir très-nuisibles. Pour mieux reconnoître les inégalités des pieces 
+fracturées, on choisira les endroits où l&#39;os cassé
+est le moins couvert de muscles ; &amp; glissant les doigts
+d&#39;un bout à l&#39;autre, l&#39;on suivra l&#39;une des faces ou des
+crêtes de l&#39;os dans toute sa longueur. On aura encore
+attention, afin de ménager la sensibilité, de ne toucher 
+qu&#39;avec beaucoup de douceur &amp; de circonspection 
+les endroits où l&#39;on sent des esquilles ou pointes
+d&#39;os s&#39;élever &amp; faire tumeur : car en poussant durement 
+les parties sensibles contre les pointes &amp; les
+tranchans des os, on feroit un supplice d&#39;un examen
+salutaire. La crépitation ou le bruit que font les
+bouts de l&#39;os casse, en se froissant l&#39;un l&#39;autre lorsqu&#39;on remue le membre, est un des principaux signes 
+des <i>fractures</i>. Pour faire avec moins de douleur
+cette épreuve presque toûjours nécessaire, il faut faire 
+tenir fixement la partie supérieure du membre cassé; 
+afin qu&#39;en remuant doucement la partie inférieure,
+elle puisse occasionner une legere crépitation : le
+chirurgien la sent par l&#39;ébranlement que le choc ou
+le froissement des os fracturés communique à ses
+<milestone unit="column" n="2" />
+mains. Il n&#39;est pas nécessaire que l&#39;air extérieur soit
+mû au point d&#39;ébranler les oreilles.
+</p>
+<p>
+Le prognostic des <i>fractures</i> se tire de leur nature &amp;
+différences de leurs symptômes, &amp; les accidens qui
+les compliquent. Les <i>fractures</i> obliques, celles qui
+sont en flûte, celles où il y a plusieurs pieces éclatées, sont plus fâcheuses que les <i>fractures</i> transversales,
+non-seulement parce que les pointes &amp; les tranchans 
+des os peuvent blesser les chairs, &amp; en conséquence 
+produire plusieurs accidens, mais encore
+parce qu&#39;il est plus difficile de contenir ces <i>fractures</i>
+exactement réduites. Les vices intérieurs qui accompagnent 
+les <i>fractures</i>, les rendent dangereuses, parce
+que le suc osseux n&#39;a pas toûjours alors les dispositions 
+requises pour la formation du cal. <i>Voyez</i> <sc><ref target="head:Calus" type="search">Calus</ref></sc>. Le plus ou moins d&#39;écartement des pieces osseuses,
+&amp; les différens accidens qui compliquent les
+<i>fractures</i>, rendent la cure plus ou moins facile.
+</p>
+<p>
+La cure des <i>fractures</i> consiste premierement à réduire 
+l&#39;os fracturé dans sa situation naturelle ; secondement 
+à l&#39;y retenir, moyennant les appareils convenables ; 
+troisiemement à corriger les accidens, &amp;
+à prévenir ceux qui pourroient arriver.
+</p>
+<p>
+La difficulté de réduire les <i>fractures</i>, ne vient que
+de ce que les bouts de l&#39;os se touchent par les côtés:
+il faut donc, pour lever cet obstacle, faire des extensions 
+suffisantes. <i>Voyez</i> <sc><ref target="head:Extension" type="search">Extension</ref></sc>. Leur degré
+doit être mesuré sur l&#39;étendue du déplacement, &amp;
+sur la force des muscles qui tirent les bouts de l&#39;os
+fracturé, &amp; qui les tiennent éloignés. Les mains seules 
+ne sont pas toûjours suffisantes pour faire les extensions 
+&amp; centre-extensions nécessaires : il faut avoir
+recours aux laqs appliqués avec méthode. <i>Voyez</i>
+<sc><ref target="head:Laqs" type="search">Laqs</ref></sc>. Il y a des cas où un seul aide fait en même
+tems l&#39;extension &amp; la contre-extension : la <i>fracture</i> de
+la clavicule en donne un exemple. Le blessé doit
+être assis sur un tabouret d&#39;une hauteur convenable ;
+un aide placé par-derriere appuye du genou entre
+les deux épaules, &amp; tire le moignon de chacune en-arriere.
+Le chirurgien qui opere travaille pendant ce
+tems à l&#39;exacte réduction des bouts de l&#39;os. Il faut
+voir le détail de toutes les manoeuvres particulieres
+pour la réduction de chaque os, dans les livres de
+l&#39;art, &amp; principalement dans le <i>traité des maladies
+des os, par</i> M.Petit. Dans toutes les <i>fractures</i>, lorsque 
+les extensions nécessaires sont faites, on travaille 
+à replacer les pieces d&#39;os dans leur situation naturelle : c&#39;est ce qu&#39;on appelle <i>faire la conformation</i>.
+</p>
+<p>
+La seconde intention, dans la cure des <i>fractures</i>,
+est de maintenir l&#39;os réduit ; ce qui se fait par l&#39;appareil 
+&amp; par la situation. L&#39;appareil est différent suivant 
+la partie fracturée, &amp; selon l&#39;espece de <i>fracture</i>.
+</p>
+<p>
+Dans les <i>fractures</i> simples des grands os des extrémités,
+qui sont la cuisse &amp; la jambe, le bras &amp; l&#39;avant-bras, on applique d&#39;abord sur la partie une
+compresse simple fendue à deux ou à quatre chefs.
+<i><ref target="XPL:5139" type="platelink">Pl. II</ref>. Chir. <ref target="XPL:5140" type="platelink">fig. 18</ref> &amp; 13.</i> cette compresse doit être
+trempée dans une liqueur résolutive, telle que l&#39;eau-de-vie camphrée ; non-seulement pour l&#39;effet du médicament,
+mais aussi afin qu&#39;elle s&#39;applique plus exactement 
+sur la partie, sans y faire aucun pli. On se
+sert ensuite d&#39;une bande roulée à un chef, trempée
+dans la même liqueur : on commence par faire trois
+tours égaux de cette bande sur le lieu de la <i>fracture</i>,
+&amp; l&#39;on continue de l&#39;employer en doloires sur la par
+tie en remontant jusqu&#39;à l&#39;attache des muscles qui la
+font mouvoir. <i>Voyez</i> <sc><ref target="head:Doloire" type="search">Doloire</ref></sc>. Après cette premiere 
+bande, on en applique une seconde d&#39;une longueur 
+convenable à son usage, qui est de faire d&#39;abord
+deux circonvolutions égales sur l&#39;endroit fracturé: on
+continue les circonvolutions jusqu&#39;en bas de la partie 
+fracturée, &amp; l&#39;on remonte vers le haut par des
+doloires. Les différens tours de bande ne doivent laisser 
+à découvert qu&#39;une quatrieme partie du tour précédent, <gap type="hyphenpb" />
+<pb n="7:268" facs="V7/ENC_7-268.jpeg" />
+<milestone unit="column" n="1" />
+afin que la <i>fracture</i> soit plus exactement contenue.
+Le bandage trop lâche ne contient point, laisse
+aux muscles la dangereuse facilité de se contracter ;
+le calus est difforme ; &amp; le membre peut se consolider 
+dans une direction qui ne seroit pas naturelle:
+d&#39;un autre côté, le bandage trop serré, lorsqu&#39;il l&#39;est
+avec excès, attire la gangrene ; &amp; sans l&#39;être au point
+de causer cet accident formidable, il peut l&#39;être encore 
+trop, &amp; mettre obstacle à la libre circulation des
+liqueurs ; d&#39;où résultera le manque de nourriture &amp;
+l&#39;atrophie.
+</p>
+<p>
+L&#39;inégalité des membres dans l&#39;étendue de leur
+longueur, oblige en appliquant les bandes, de faire
+avec art des renversés ; sans quoi, il y auroit des
+godets, dont l&#39;inconvénient est de ne pas faire une
+compression égale, &amp; de laisser des inégalités capables 
+de blesser la partie par la compression qui résulte
+de l&#39;application des autres pieces de l&#39;appareil.
+</p>
+<p>
+Les deux premieres bandes appliquées, on met les
+compresses longuettes, <i><ref target="XPL:5141" type="platelink">Pl. II</ref>. <ref target="XPL:5142" type="platelink">fig. 17</ref>.</i> suivant les regles 
+que nous avons exposées au <i>mot</i> <sc>Éclisse</sc>. Dans
+le pansement de la jambe fracturée, quelques praticiens 
+remplissent le bas, depuis le défaut du mollet
+jusqu&#39;aux malléoles, par l&#39;application d&#39;une compresse 
+graduée inégale, <i><ref target="XPL:5143" type="platelink">Pl. XXXI</ref>. <ref target="XPL:5144" type="platelink">fig. 11</ref>.</i> d&#39;autres
+préferent de donner plus d&#39;épaisseur à l&#39;extrémité inférieure 
+des longuettes ; ce qui se fait en repliant de
+la longueur qu&#39;on le juge convenable, le linge simple,
+avant de faire les plis suivant la largeur, qui déterminent 
+celle qu&#39;on veut donner à chacune des
+compresses longuettes. On les maintient par une
+troisieme bande, dont les circonvolutions peuvent
+être faites en doloires plus larges, pour ménager la
+longueur de la bande. On peut contenir tout cet appareil 
+entre deux gouttieres de fer-blanc ou de carton,
+liées avec des rubans de fil. On applique ensuite 
+l&#39;écharpe pour l&#39;extrémité supérieure, <i>voyez</i>
+<sc><ref target="head:Echarpe" type="search">Echarpe</ref></sc> ; &amp; des fanons dans les <i>fractures</i> de l&#39;extrémité 
+inférieure, <i>voy.</i> <sc><ref target="head:Fanons" type="search">Fanons</ref></sc>. Une legere tuméfaction,
+sans douleur ni rougeur, qu&#39;on apperçoit au-dessus 
+&amp; au-dessous du bandage, marque qu&#39;il n&#39;est
+ni trop ni trop peu serré.
+</p>
+<p>
+Lorsque l&#39;appareil convenable est appliqué, il y a
+des précautions à prendre pour la commodité du
+blessé: il est à-propos d&#39;insister un peu sur ces commodités,
+que tout le monde doit être bien-aise de
+connoître, &amp; que peu de gens sont à-portée de rechercher 
+dans les livres de l&#39;art.
+</p>
+<p>
+Nous avons dit au <i>mot</i> <sc>Echarpe</sc>, ce qui concerne 
+l&#39;extrémité supérieure. Lorsque dans les premiers
+jours les malades sont obligés de garder le lit, il faut
+que le membre soit placé sans gêne dans une direction 
+qui tienne tous les muscles relâchés, &amp; sur un
+oreiller mollet. La jambe sera un peu élévée du côté 
+du pié, pour favoriser le retour du sang ; elle sera 
+appuyée sûrement &amp; mollement : on la posera
+sur un oreiller égal, appuyé sur un matelas qui lui-même 
+doit être fort égal. Pour cet effet, le lit doit
+être garni de matelas seulement, sans lit de plume ;
+&amp; même il est bon de mettre entre le premier &amp; le
+second matelas, une planche qui occupe depuis le
+pié jusque par-delà la hanche. Mais comme la nécessité 
+d&#39;être couché deviendroit à la longue insupportable,
+si l&#39;on ne prenoit des précautions pour en diminuer 
+la gêne autant qu&#39;il est possible ; on fait attacher 
+au plancher une corde qui passe à-travers le ciel
+du lit, &amp; qui descende à la portée de la main du malade : cette corde lui est très-utile pour se remuer facilement,
+&amp; satisfaire à ses différens besoins. On attache 
+au pié du lit une planche qui doit être stable, &amp;
+sur laquelle on a fait cloüer un billot garni d&#39;un matelas 
+ou coussin : ce billot est un des plus grands
+soulagemens qu&#39;on puisse procurer au malade ; il lui
+sert à appuyer le pié sain pour se soûlever, avec
+<milestone unit="column" n="2" />
+l&#39;aide de la corde, dans ses besoins, &amp; pour se relever
+de-tems-en-tems, lorsqu&#39;il glisse vers le bas du lit. Le
+chirurgien peut prévenir cet inconvénient, en donnant 
+ses soins à la construction du lit ; il doit même
+aider à le faire convenablement pour le bien de son
+malade.
+</p>
+<p>
+Pour éviter que le croupion ne s&#39;écorche, M. Petit
+conseille de percer le premier matelas, afin de pouvoir 
+passer commodément un bassin entre le premier
+&amp; le second matelas, lorsque le blessé veut aller à la
+selle. Dans ce cas le drap de dessous doit être fendu ou
+composé de deux pieces qu&#39;on puisse écarter au besoin,
+à l&#39;endroit des fesses : faute de cette précaution,
+le croupion s&#39;écorche ; &amp; alors il faut l&#39;examiner 
+souvent, &amp; bassiner cette partie avec de l&#39;eau
+vulnéraire, ou de l&#39;eau-de-vie camphrée, pour prévenir 
+la mortification : on remédiera à cet accident
+par l&#39;application de l&#39;onguent de stirax.
+</p>
+<p>
+Dans les <i>fractures</i> compliquées, la nécessité de panser 
+souvent les blessés exigeroit de trop grands mouvemens 
+dans l&#39;usage des bandes roulées ; &amp; ces mouvemens 
+seroient un grand obstacle à la réunion, qui
+demande un repos parfait, autant qu&#39;il est possible de
+le procurer. On se sert alors du bandage à dix-huit
+chefs. <i>Voyez</i> sa description au <i>mot</i> <sc><ref target="head:Bandage" type="search">Bandage</ref></sc> ; &amp; sa
+figure, <i><ref target="XPL:5145" type="platelink">Pl. XXXI</ref>. <ref target="XPL:5146" type="platelink">fig. 10</ref></i>. Ce n&#39;est pas seulement
+dans la <i>fracture</i> de la jambe, mais dans toutes celles
+des extrémités avec complication, qu&#39;on doit s&#39;en
+servir : on l&#39;applique même dans les cas où il n&#39;y a
+point de plaie. Dans les grandes contusions, par ex.
+quand il n&#39;y auroit point de nécessité d&#39;inciser, pour
+donner issue au sang extravasé, on employe le bandage 
+à dix-huit chefs dans les premiers tems, &amp; on
+revient ensuite au bandage roulé. On est alors dans
+le cas de lever souvent l&#39;appareil contre la regle génêrale,
+pour observer ce qui se passe ; &amp; aussi afin
+de serrer le bandage à proportion que le sang se résout,
+&amp; que la partie se dégonfle.
+</p>
+<p>
+Les <i>fractures</i> avec plaie sont plus ou moins fâcheuses 
+suivant la nature de la plaie &amp; de ses accidens.
+C&#39;est quelquefois la même cause qui fracture l&#39;os,
+qui fait la plaie ; comme une roue de carrosse, une
+balle de mousquet, un éclat de bombe, <i>&amp;c.</i> Les os
+même qui sont cassés peuvent déchirer les muscles 
+&amp; percer la peau ; ces plaies sont avec plus ou
+moins de contusion, &amp; peuvent être compliquées
+d&#39;hémorrhagie, de corps étrangers, <i>&amp;c</i>.
+</p>
+<p>
+Les anciens se servoient dans ces sortes de cas, d&#39;un
+bandage fenêtré, qui leur permettoit de panser la
+plaie sans toucher au reste de l&#39;appareil. Suivant Paul
+d&#39;AEgine &amp; Gui de Chauliac, on peut se servir des
+bandes roulées, dans le traitement des <i>fractures</i> compliquées 
+avec plaie, avec le soin de ne couvrir des
+circonvolutions de la bande que les parties circonvoisines 
+de la plaie ; celle-ci demeurant à nud &amp; à
+découvert, afin de la pouvoir panser tous les jours,
+&amp; d&#39;y appliquer les médicamens convenables, sans
+lever les bandes ni toucher à la <i>fracture</i>. Ambroise
+Paré desapprouve fort ce bandage : si la plaie n&#39;est
+pas comprimée convenablement, les humeurs y seront 
+envoyées, dit-il, des parties circonvoisines
+pressées ; &amp; il y surviendra bien-tôt inflammation &amp;
+gangrene. Jacques de Marque, célebre chirurgien de
+Paris, mort en 1622, &amp; qui nous a laissé un excellent 
+<i>traité des bandages</i>, qu&#39;aucun écrivain sur la même 
+matiere n&#39;a pû rendre inutile, a disserté très-doctement sur les inconvéniens reconus dans l&#39;usage de
+ce bandage fenêtré; il rappelle le précepte de Paré,
+qui veut que l&#39;on se serve d&#39;une bande en deux ou
+trois doubles, en façon de compresse qui ne fasse
+qu&#39;une seule révolution ; c&#39;est cette compresse en trois
+doubles, fendue pour en faire trois chefs de chaque
+côté, qui forme notre bandage à dix-huit chefs si recommandée 
+dans la pratique. Il comprime également
+<pb n="7:269" facs="V7/ENC_7-269.jpeg" />
+<milestone unit="column" n="1" />
+soute la partie ; &amp; l&#39;on peut, sans la remuer, réitérer
+les pansemens autant qu&#39;il est nécessaire ; Guillemeau
+en est l&#39;inventeur : mais Jacques de Marque, qui a
+écrit depuis ce savant chirurgien, digne éleve du
+grand Paré, a encore perfectionné ce bandage, tant
+dans son usage que dans sa construction.
+</p>
+<p>
+Chaque compresse donne six chefs ; ce qui ne convient,
+dit-il, qu&#39;aux <i>fractures</i> qui sont au milieu d&#39;un
+membre ; &amp; dans ce cas, on peut arrêter les chefs
+supérieurs &amp; inférieurs, se contentant de lever à chaque 
+pansement les chefs du milieu, pour découvrir
+la plaie. Si la <i>fracture</i> étoit proche de l&#39;articulation,
+il suffiroit que chaque piece de linge fût fendue de
+chaque côté pour faire quatre chefs ; à-moins qu&#39;en
+se servant du bandage avec des compresses à six chefs,
+on n&#39;attachât les chefs supérieurs ou inférieurs, au-dessus 
+ou au-dessous de l&#39;articulation : c&#39;est-à-dire,
+qu&#39;en se servant du bandage à dix-huit chefs pour
+une <i>fracture</i> avec plaie à la partie inférieure de la
+cuisse, les six chefs inférieurs seroient employés au-dessous 
+du genou ; ou les six chefs supérieurs au-dessus du genou, dans l&#39;application qu&#39;on feroit de ce
+bandage pour une <i>fracture</i> compliquée à la partie supérieure 
+de la jambe ; ce qui me paroîtroit fort utile.
+M. Petit décrit le pansement &amp; l&#39;appareil des <i>fractures</i> compliquées, de la maniere suivante. On mettra
+sur la plaire couverte des plumaceaux, une compresse
+en quatre doubles, pour empêcher que les matieres
+purulentes ne gâtent le reste de l&#39;appareil ; puis deux
+compresses longuettes assez épaisses, une de chaque
+côté: &amp; au lieu du bandage à dix-huit chefs cousus
+ensemble, on peut appliquer plusieurs bouts de bande 
+séparés. lesquels feront le même effet que le bandage 
+ordinaire, &amp; auront l&#39;avantage de pouvoir être
+changes séparément, suivant le besoin. Pour maintenir 
+ce bandage, on peut se servir des gouttieres de fer
+blanc, liées avec trois laqs ou rubans de fil : on mettra 
+ensuite le membre dans la situation convenable.
+</p>
+<p>
+M.Petit a corrigé les fanons pour les <i>fractures</i> compliquées 
+de plaie à la partie postérieure du membre ;
+il faisoit envelopper les torches de paille dans deux
+morceaux de toile séparés, de façon qu&#39;elle manquât
+dans l&#39;endroit de la plaie. Cet intervalle peut contribuer 
+à la facilité des pansemens, puisqu&#39;on peut, à
+l&#39;aide de ces fanons, soûlever le membre &amp; panser la
+plaie, après qu&#39;on l&#39;a mise à découvert des compresses.
+</p>
+<p>
+Dans les <i>fractures</i> compliquées de la cuisse, M.
+Petit recommande que le premier matelas soit partagé 
+en plusieurs pieces qui puissent s&#39;ajuster ensemble,
+&amp; se séparer au besoin. Une grande piece s&#39;étend 
+depuis le milieu des fesses jusqu&#39;au chevet : le
+reste est partage en quatre, deux de chaque côté.
+L&#39;une, du côte malade, doit commencer où finit la
+premiere, &amp; s&#39;étendre quatre travers de doigt au-dessous 
+de la <i>fracture</i>: l&#39;autre piece du même côté,
+commence où finit celle-ci, &amp; s&#39;étend jusqu&#39;au pié
+du lit. Les deux autres pieces du matelas sur lequel
+appuie le côte sain, seront partagées de même, à la
+différence qu&#39;elles soient plus larges ; le lit étant partagé 
+de maniere qu&#39;un tiers de sa largeur seulement
+fournit les portions qui soùtiennent le côté malade.
+Chacune de ces quatre portions de matelas est enveloppée 
+de toile ; ce qui sert de drap, sans en avoir
+l&#39;inconvénient, &amp; sans pouvoir former de plis capables 
+d&#39;incommoder : on peut aussi changer facilement 
+ces toiles, pour raison de propreté. La partie
+supérieure du matelas, recouverte d&#39;une alaise ou
+petit drap, n&#39;a aucune communication avec les pieces
+inférieures.
+</p>
+<p>
+Voici les commodités qu&#39;on tire de ces différentes
+pieces de matelas détachées. Quand on veut donner
+le bassin au malade, on ôte la piece du milieu, qui
+est du côté sain. Une partie de la cuisse &amp; de la fesse
+<milestone unit="column" n="2" />
+portent alors à faux ; &amp; l&#39;espace qu&#39;occcupoit la portion 
+de matelas ôtée, fait place au bassin qu&#39;on présente 
+au malade, &amp; qu&#39;on retire aisément lorsqu&#39;il a
+été à la selle. Pour pouvoir remettre aisément cette
+portion du matelas, il faut y avoir fait coudre deux
+sangles étroites, ou deux rubans tire-bottes, qui passent 
+sous la pareille portion de matelas du côté malade.
+Ces sangles sont tirées par quelqu&#39;un, de maniere
+à ne point changer de place, ni remuer la portion du
+matelas sur laquelle appuie la cuisse fracturée. Le
+malade pourra aussi recevoir facilement un lavement,
+si l&#39;on ôte les deux portions inférieures qui
+soûtiennent le côté sain.
+</p>
+<p>
+Pour panser le blessé, on tire la piece du matelas
+qui est dessous la <i>fracture</i> ; &amp; l&#39;on a la liberté de passer
+les mains de tous côtés pour lever l&#39;appareil, &amp; le
+rappliquer, sans risque d&#39;ébranler la <i>fracture</i>.
+</p>
+<p>
+A l&#39;égard de la <i>fracture</i> compliquée de la jambe,
+M.Petit a imaginé un moyen particulier dont nous
+avons donné la description au <i>mot</i> <sc>Boîte</sc>. Cette boîte 
+a une planchette qui soûtient la plante du pié, &amp;
+qui empêche le poids des couvertures sur la jambe
+fracturée. Dans les <i>fractures</i> simples, on est obligé 
+de metere une semelle de bois garnie de linge
+pour servir de point d&#39;appui à la plante du pié. Un
+ruban de fil embrasse cette semelle, &amp; y est fixé par
+son milieu. Les deux chefs se croisent sur le coup-de-pié, &amp; sont attachés aux fanons par des épingles.
+On jette ensuite ces rubans alternativement de côté
+&amp; d&#39;autre, en les croisant également pour former
+des losanges jusqu&#39;au haut de la partie. On les fixe
+aux fanons par des épingles, avant que de faire les
+renversés, pour passer les chefs d&#39;un côté à l&#39;autre.
+On met la partie sur un oreiller mollet, de façon que
+le talon n&#39;appuie point ; sans quoi, il y surviendroit
+inflammation &amp; gangrene.
+</p>
+<p>
+Au moyen de l&#39;archet ou arceau, qui est une espece 
+de demi-cercle, ou demi-caisse de tambour, on
+fait un logement à la jambe &amp; au pié, qui les met à
+l&#39;abri du poids du drap &amp; des couvertures du lit,
+<i><ref target="XPL:5147" type="platelink">Pl. IV</ref>. <ref target="XPL:5148" type="platelink">fig. 2</ref>.</i> En hyver, pour entretenir la chaleur
+du pié, on est obligé de le garnir de serviettes &amp; autres 
+linges chauds, pour suppléer au défaut de l&#39;application 
+des couvertures.
+</p>
+<p>
+Après avoir mis la partie en situation, il faut s&#39;attacher 
+à remplir la troisieme indication de la cure des
+<i>fractures</i> ; laquelle consiste à prévenir les accidens, &amp;
+à les combattre, s&#39;ils surviennent. Dans les <i>fractures</i>
+simples, il suffit de faire quelques saignées pour procurer 
+la résolution du sang épanché dans l&#39;intérieur
+aux environs des bouts de l&#39;os cassé. On fait des fomentations 
+résolutives &amp; spiritueuses, &amp; l&#39;on fait
+observer un régime convenable pendant quelques
+jours. Les <i>fractures</i> compliquées exigent des attentions 
+plus suivies &amp; diversifiées, suivant les circonstances.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Chirurgie" type="search">Chirurgie</ref></sc>.
+</p>
+<p>
+Au <i>mot</i> <sc>Flabellation</sc>, nous avons démontré la
+nécessité d&#39;empêcher le prurit, en donnant de l&#39;air
+à la partie blessée.
+</p>
+<p>
+On doit continuer l&#39;appareil sur les parties fracturées,
+jusqu&#39;à la parfaite consolidation des pieces osseuses : elle se fait plûtôt ou plûtard, suivant la nature 
+différentielle de chaque os. Il y a des précautions 
+à prendre pour mouvoir la partie dans ses articulations ; 
+de crainte que restant long-tems dans l&#39;inaction,
+la synovie ne vînt à s&#39;épaissir ; ce qui donneroit 
+lieu à l&#39;anchylose. <i>Voyez</i> <sc><ref target="head:Anchylose" type="search">Anchylose</ref></sc>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

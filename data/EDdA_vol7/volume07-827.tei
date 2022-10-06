@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28281" id="50:90:2" vol="7">
+<index type="head" value="Frégate" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Ornith." />
+<index type="normclass" value="Histoire naturelle | Ornithologie" />
+<index type="englishclass" value="Natural history. Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Frégate</head>
+<p>
+<sc>Frégate</sc>, (<i>Hist. nat. Ornith.</i>) oiseau des Antilles
+ainsi appellé, parce que son vol est très-rapide. Il n&#39;a
+pas le corps plus gros qu&#39;une poule ; mais il est très charnu.
+Les plumes du mâle sont noires comme celles 
+du corbeau ; lorsqu&#39;il est vieux, il a sous la gorge
+une grande crête rouge comme celle d&#39;un coq. La femelle 
+n&#39;en a point ; ses plumes sont blanches sous le
+ventre. Le cou est mediocrement long, &amp; la tête petite.
+Les yeux sont gros, noirs, &amp; aussi perçans que
+ceux de l&#39;aigle ; le bec est de couleur noire, long de
+six à sept pouces, assez gros, droit dans la plus grande
+partie de sa longueur, &amp; crochu à l&#39;extremité; les
+pattes sont fort courtes, &amp; les serres ressemblent à
+celles du vautour, mais elles sont noires. Cet oiseau
+a sept à huit piés d&#39;envergure : aussi on prétend qu&#39;il
+s&#39;éloigne des terres de plus de trois cents lieues:
+quoiqu&#39;il s&#39;éleve quelquefois à une grande hauteur,
+il apperçoit toûjours les poissons volans qui s&#39;elevent
+au-dessus de l&#39;eau pour se sauver des dorades, alors
+les <i>frégates</i> s&#39;abaissent précipitamment jusqu&#39;à une
+certaine distance de la surface de la mer, &amp; enlevent
+les poissons volans dans leur bec, ou dans leurs serres.
+On a donné le nom d&#39;<i>islette des frégates</i>, à une ile
+dans le petit cul-de-sac de la Guadeloupe, parce qu&#39;on
+y trouvoit beaucoup de ces oiseaux qui venoient des
+environs pour passer la nuit dans cette île, &amp; pour
+y faire leur nid : mais on les a obligé de la deserter
+en leur donnant la chasse, pour avoir de leur graisse,
+que l&#39;on regarde dans les Indes comme un souverain
+remede contre la sciatique. On les frappe avec de
+longs bâtons, lorsqu&#39;elles sont sur leur nid, &amp; elles
+tombent à demi-étourdies. On a vû dans une de ces
+chasses, que les <i>frégates</i> qui prenoient leur essor étant
+épouvantées, rejettoient chacune deux ou trois poissons 
+grands comme des harengs, en partie digérés.
+<i>Hist. nat. des Ant.</i> par le P. du Tertre, <i>tom. II</i>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29590" id="53:91" vol="7">
+<index type="head" value="GIRAUMON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Romain" />
+<index type="shortauth" value="Le Romain" />
+<index type="kafnum" value="73" />
+<index type="kafauth" value="Le Romain, or Romain, Jean-Baptiste-Pierre (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Bot. exotiq." />
+<index type="normclass" value="Histoire naturelle | Botanique exotique" />
+<index type="englishclass" value="Natural history. Exotic botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GIRAUMON</head>
+<p>
+GIRAUMON, s. m. (<i>Hist. nat. Bot. exotiq.</i>) fruit
+d&#39;un très-grand usage dans les pays chauds de l&#39;Amérique ; il est communément plus gros qu&#39;un melon ;
+sa couleur extérieure est verte, mouchetée inégalement,
+d&#39;un verd beaucoup plus pâle. La chair de
+ce fruit est jaune, renfermant intérieurement des
+semences plates, &amp; semblables à celles de la citrouille.
+</p>
+<p>
+Il y a des <i>giraumons</i> qui sentent un peu le musc,
+&amp; qui pour cela n&#39;en sont pas moins bons. Les uns
+&amp; les autres ne different pas beaucoup de la citrouille,
+si ce n&#39;est que leur chair est plus ferme &amp; d&#39;un
+goût plus relevé; on en mange dans la soupe avec du
+lait, ou bien fricassé avec du beurre.
+</p>
+<p>
+La tige qui produit le <i>giraumon</i> est verte, rude
+au toucher, ainsi que les feuilles qui sont presque
+aussi larges qu&#39;une assiette, le tout rempant contre
+terre comme les melons &amp; les citrouilles : ainsi le dictionnaire 
+de Trévoux se trompe en appellant <i>arbre</i>
+cette plante rampante. <i>Article de 
+<sc>M. le Romain</sc>
+</i>.
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

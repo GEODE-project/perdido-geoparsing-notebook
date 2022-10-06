@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28285" id="50:93:1" vol="7">
+<index type="head" value="Frein de la Verge" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Anat. &amp; Chirurg." />
+<index type="normclass" value="Chirurgie | Anatomie" />
+<index type="englishclass" value="Surgery | Anatomy" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Frein de la Verge</head>
+<p>
+<sc>Frein de la Verge</sc>, (<i>Anat. &amp; Chirurg.</i>) c&#39;est
+ainsi qu&#39;on nomme le petit ligament cutané qui attache 
+le prépuce sous le gland. Sa structure paroît
+assez semblable à celle du filet de la langue ; mais
+outre qu&#39;il se gonfle &amp; se roidit, son extreme sensibilité 
+prouve qu&#39;il doit être revêtu de quantité de
+papilles nerveuses, &amp; peut-être meritetoit-il par
+ces raisons plus d&#39;attention de la part des Anatomistes,
+qu&#39;ils ne lui en ont donné jusqu&#39;à-présent:
+d&#39;ailleurs il est exposé à des jeux de la nature, qui
+demandent les remedes de la Chirurgie.
+</p>
+<p>
+Il est si court dans quelques personnes, qu&#39;on est
+forcé de le couper, pour mettre ces personnes en
+état de remplir le but du mariage : <i>hoc enim vinculum 
+si brevius fuerit, hypospadiaeos facit, dùm praeputit 
+depressionem impedit</i>, dit Riolan. Dans d&#39;autres
+personnes, le <i>frein</i> avance jusqu&#39;au conduit de l&#39;urine ; 
+de sorte que dans le tems de l&#39;imp ession violente
+des mouvemens de l&#39;amour, la verge roidie est tirée 
+en em-bas par cette bride, &amp; pliée très douloureusement 
+en forme d&#39;arc : ce second cas exige encore 
+la même opération ; elle doit être faite avec
+adresse, &amp; toutes les précautions nécessaires pour
+ne point blesser le gland : on évitera dans le traitement,
+la cohérence de la plaie avec le prépuce. Tyson remarque avoir été non-seulement obligé de couper 
+quelquefois le <i>frein</i> de la verge, parce qu&#39;il étoit
+trop court, ou parce qu&#39;il étoit trop long, mais aussi
+de faire la même chose dans d&#39;autres sujets, ensuite
+d&#39;une cicatrice que des chancres vénériens y avoient
+laissée. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28093" id="50:26" vol="7">
+<index type="head" value="FRAGILITÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physiq." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>FRAGILITÉ</head>
+<p>
+FRAGILITÉ, s. f. (<i>Physiq.</i>) qualité de certains
+corps par laquelle ils peuvent se briser aisément ; on
+appelle <i>fragiles</i>, les corps dont les parties se séparent
+facilement les unes des autres par le choc : ils different<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+des corps mous, en ce que dans ceux-ci les parties 
+se déplacent par le choc sans se séparer ni se rétablir ; 
+des corps élastiques, en ce que les parties se
+déplacent dans ces derniers pour se rétablir ensuite ;
+&amp; des corps durs, en ce que les parties ne se déplacent 
+pas dans les corps de cette derniere espece.
+Mais d&#39;où vient la fragilité de certains corps? on le
+sait aussi peu qu&#39;on sait d&#39;où vient la dureté, la fluidité,
+la mollesse, &amp; l&#39;élasticité de certains autres.
+<i>Voyez ces mots</i>.
+</p>
+<p>
+<i>Fragilité</i> se prend aussi au figuré: on dit, <i>une fortune 
+fragile ; la chair est fragile. Voyez l&#39;art. suiv</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

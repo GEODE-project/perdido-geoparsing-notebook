@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29788" id="53:229" vol="7">
+<index type="head" value="GOLCONDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GOLCONDE</head>
+<p>
+GOLCONDE, (<i>Géogr.</i>) royaume d&#39;Asie dans la
+presqu&#39;ile de l&#39;Inde, en-deçà du Gange ; il est borné
+au nord par la province de Bérar, au nord-est par
+la riviere de Narsepille qui le sépare du royaume
+d&#39;Orixa, au sud-est par le golfe de Bengale, &amp; au
+sud par la riviere de Coulour. La plus grande partie 
+des terres y est si fertile, qu&#39;on y fait deux
+récoltes de riz par an, &amp; quelquefois trois. Il est arrosé 
+de plusieurs rivieres, &amp; a deux ports très-avantageux, savoir Narsapour &amp; Mazulipatan ; son commerce 
+consiste en toiles de coton peintes, en botilles 
+fines, en riz &amp; en indigo ; mais ses fameuses
+mines de diamant sont sa plus grande richesse, &amp;
+celle-là même qui porta Aureng-zeb à conquérir le
+pays qui possédoit dans son sein des trésors si précieux.
+Depuis ce tems-là le royaume de <i>Golconde</i>
+fait partie des états du grand-mogol ; la ville de <i>Golconde</i> autrefois nommee <i>Bagnagar</i>, en est la capitale.
+La <i>longit.</i> de cette ville est par les <i>124</i><sup>d</sup> <i>40&#39;.
+lat. 19</i><sup>d</sup>. <i>40&#39;.</i> &amp; selon le pere Noël, seulement <i>17</i><sup>d</sup>.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

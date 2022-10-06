@@ -1,0 +1,178 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27629" id="48:72:6" vol="7">
+<index type="head" value="Fontaine de feu" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Artificier." />
+<index type="normclass" value="Artificier" />
+<index type="englishclass" value="Fireworks" />
+<index type="generatedclass" value="Artificier" />
+<index type="pos" value="NA" />
+<head>Fontaine de feu</head>
+<p>
+<sc>Fontaine de feu</sc>, (<i>Artificier.</i>) Si l&#39;on varie un
+peu la couleur du feu de l&#39;artifice appellé <i>pot à aigrette</i>, &amp; sa figure extérieure, par différens arrangemens,
+on en forme des apparences de <i>fontaines de
+feu</i>. Pour changer sa couleur, il n&#39;y a qu&#39;à substituer
+de la limaille de cuivre ou de la poudre qu&#39;on trouve 
+chez les Epingliers : elle donne à ce feu une couleur 
+verdâtre différente de celle de la limaille de fer,
+qu&#39;on met dans les aigrettes.
+</p>
+<p>
+A l&#39;égard du changement de la figure extérieure,
+&amp; de l&#39;arrangement des cartouches pour représenter
+des jets, des gerbes, ou des cascades, il n&#39;y a qu&#39;à
+imiter l&#39;arrangement des tuyaux de plomb qui produisent 
+toutes les différences des <i>fontaines</i>, par une
+semblable position des cartouches remplis de ces
+compositions, qui ne produisent que des étincelles
+sans flamme, comme sont celles où dominent les
+charbons de bois dur un peu grossierement pilés, la
+limaille de fer ou de cuivre, sans matieres onctueuses 
+ou huileuses. En effet, il n&#39;y a point tant d&#39;opposition 
+entre l&#39;apparence du feu &amp; de l&#39;eau, qu&#39;on se
+l&#39;imagine du premier : car les gouttes d&#39;eau des jets
+saillans éclairés par le Soleil ou quelque lumiere qui
+s&#39;y réfléchit, ne ressemblent pas mal à des étincelles.
+Il ne s&#39;agit donc pour représenter une gerbe d&#39;eau,
+que de rassembler plusieurs cartouches pleins de matieres 
+combustibles de cette matiere, &amp; de les allumer 
+en même tems.
+</p>
+<p>
+Si l&#39;on range ces tuyaux en deux lignes paralleles,
+posés en situation un peu inclinée entre eux, ils
+produiront, lorsqu&#39;ils seront allumés, l&#39;effet d&#39;un berceau 
+d&#39;eau tel qu&#39;on en voit à Versailles, sous lequel
+on pourra passer sans se brûler, pour peu qu&#39;ils soient
+éloignés.
+</p>
+<p>
+Si on les range comme les raies d&#39;une roue, du centre 
+à la circonférence sur le même plan, ils produiront 
+une apparence de Soleil.
+</p>
+<p>
+Si partant du même centre ils sont également inclinés 
+à l&#39;horison de bas en haut, ils formeront un
+cone droit semblable à une cloche de fer.
+</p>
+<p>
+Si on les range sur des formes pyramidales, ils
+formeront une pyramide de feu.
+</p>
+<p>
+Si on les couche horisontalement par lits d&#39;inégale
+<pb n="7:105" facs="V7/ENC_7-105.jpeg" />
+<milestone unit="column" n="1" />
+hauteur inégalement avancés, &amp; que la matiere dont
+ils sont pleins soit lente, ensorte que les étincelles
+retombent sans être poussées loin, leur feu représentera 
+une cascade.
+</p>
+<p>
+Si les dégorgemens sont des ouvertures larges &amp;
+plates, &amp; que les tuyaux se touchent, leur feu représentera 
+une nappe d&#39;eau dont le bassin pourra être
+figuré comme l&#39;on voudra, pour faire retomber les
+étincelles en rond ou de toute autre figure ; auquel
+cas les charbons qui les produisent doivent être grossierement 
+pilés pour retomber avant que d&#39;être consumés.
+Tous les tuyaux de ces artifices peuvent être
+faits de poterie de terre ordinaire, plûtôt que de toute 
+autre matiere ; parce qu&#39;ils peuvent être consumés
+par le feu, s&#39;ils sont de bois ; ils se fondroient, s&#39;ils
+étoient de plomb ou de fer, par l&#39;action du soufre &amp;
+du salpetre, qui sont des fondans ; &amp; ils coûteroient
+beaucoup, s&#39;ils étoient de cuivre.
+</p>
+<p>
+Au reste, on ne peut les faire bien longs ; 1°. parce 
+que le feu les feroit crever, ou s&#39;étoufferoit s&#39;il
+étoit trop éloigné de l&#39;embouchure de leur dégorgement ; 
+2°. il resteroit en partie caché dans la longueur 
+de son étendue ; 3°. enfin, on ne pourroit aisément 
+comprimer les matieres, lorsqu&#39;elles doivent
+être foulées.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

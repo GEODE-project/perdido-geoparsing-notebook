@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30361" id="55:16:5" vol="7">
+<index type="head" value="Grenadier Postiche" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Durival" />
+<index type="shortauth" value="Durival" />
+<index type="kafnum" value="44" />
+<index type="kafauth" value="Durival, Jean Luton (1725-1810)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Grenadier Postiche</head>
+<p>
+<sc>Grenadier Postiche</sc>, soldat choisi pour entrer 
+aux <i>grenadiers</i>, avec lesquels, en attendant, il
+fait le service, quand la troupe n&#39;est pas complette.
+Dans l&#39;infanterie françoise, le choix de ces soldats
+se fait à tour de rôle sur toutes les compagnies de
+fusiliers de chaque bataillon, auxquelles néanmoins
+ils restent attachés, jusqu&#39;à leur réception aux <i>grenadiers</i>. Voyez <i>ci-devant</i> <sc><ref target="head:Grenadier" type="search">Grenadier</ref></sc>.
+</p>
+<p>
+Lorsqu&#39;ils obtiennent ce grade, le capitaine des
+<i>grenadiers</i> paye 25 liv. pour chacun aux capitaines
+des compagnies dont ils ont été tirés, &amp; rend en
+outre l&#39;habit &amp; les armes.
+</p>
+<p>
+Les soldats destinés aux <i>grenadiers</i> ne peuvent être
+pris dans le nombre des hautes-payes des compagnies.
+Si une compagnie en tour de fournir un homme 
+aux <i>grenadiers</i>, ne peut pas en présenter de qualité 
+convenable au service de cette troupe, il est
+fourni par la compagnie qui suit immédiatement ;
+mais dans ce cas le capitaine de cette derniere compagnie 
+est autorisé à prendre dans la premiere un
+soldat à son choix ; &amp; le capitaine est en outre obligé
+de lui payer une indemnité réglée.
+</p>
+<p>
+Dans les milices, les <i>grenadiers postiches</i> forment
+une compagnie particuliere établie dans chaque bataillon 
+par ordonnance du 28 Janvier 1746. La compagnie 
+des <i>grenadiers postiches</i> fournit à celle des <i>grenadiers</i> les remplacemens qui y sont nécessaires, &amp;
+tire elle-même ceux dont elle a besoin de toutes les
+compagnies de fusiliers du bataillon. Pendant la guerre,
+ces deux troupes sont détachées des bataillons ;
+&amp; de plusieurs réunies ensemble, on forme les régimens 
+de <i>grenadiers</i> royaux. <i>Voyez ci-après</i> <sc><ref target="head:Grenadiers Royaux" type="search">Grenadiers Royaux</ref></sc>. <i>Article de M. <sc>Durival</sc> le jeune</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

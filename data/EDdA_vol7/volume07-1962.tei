@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29416" id="52:169" vol="7">
+<index type="head" value="GENUFLEXION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. eccl." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="s.f." />
+<head>GENUFLEXION</head>
+<p>
+GENUFLEXION, s. f. (<i>Hist. eccl.</i>) fléchissement
+de genoux.
+</p>
+<p>
+Rosweid, dans son <i>onomasticon</i>, prétend que la
+<i>génuflexion</i> dans la priere est un usage très-ancien
+dans l&#39;Eglise, &amp; même dans l&#39;ancien Testament ;
+que cet usage s&#39;observoit toute l&#39;année, excepté le
+dimanche, &amp; que pendant le tems qui est depuis
+Pâques jusqu&#39;à la Pentecôte, elle étoit défendue par
+le concile de Nicée.
+</p>
+<p>
+D&#39;autres ont prétendu que cette différence venoit
+des apôtres, comme cela paroît par S. Irénée &amp;
+Tertullien. L&#39;église d&#39;Ethiopie qui est scrupuleuse
+ment attachée aux anciennes coûtumes, a retenu
+celle de ne point réciter le service divin à genoux.
+</p>
+<p>
+Les Russes regardent comme une chose indécente
+de prier Dieu à genoux. Les Juifs prient toûjours
+debout. Rosweid tire les raisons de la défense de
+ne point faire de <i>génuflexion</i> le dimanche, de S. Basile, de S. Athanase &amp; de S. Justin.
+</p>
+<p>
+Baronius prétend que la <i>génuflexion</i> n&#39;étoit point
+établie l&#39;an 58 de Jesus-Christ, à cause de ce qu&#39;on
+lit de S. Paul dans les <i>Actes xx. 36:</i> mais d&#39;autres
+ont crû qu&#39;on n&#39;en pouvoit rien conclure.
+</p>
+<p>
+Le même auteur remarque que les Saints avoient
+porté si loin l&#39;exercice de la <i>génuflexion</i>, que quelques 
+uns en avoient usé le plancher à l&#39;endroit où
+ils se mettoient ; &amp; S. Jérôme dit que S. Jacques
+avoit par-là contracté une dureté aux genoux égale
+à celle des chameaux. Eusebe l&#39;assûre de S. Jacques
+de Jérusalem. <i>Dict. de Trévoux &amp; Chambers</i>.
+</p>
+<p>
+Bingham, dans <i>ses antiquités ecclésiastiques</i>, prouve 
+fort bien ce que prétend Rosweid, qu&#39;à l&#39;exception 
+des dimanches &amp; du tems depuis Pâques jusqu&#39;à la Pentecôte, les fideles prioient toûjours à
+genoux, &amp; principalement les jours de station, c&#39;est-à-dire les jours de jeûne. Il cite sur ce sujet plusieurs
+peres &amp; conciles ; entr&#39;autres le troisieme concile de
+Tours, qui s&#39;exprime de la sorte : <i>Sciendum est quod
+exceptis diebus dominicis &amp; illis solemnitatibus quibus
+universalis ecclesia ob recordationem dominicae resurrectionis 
+solet stando orare, fixis in terrâ genibus, suppliciter 
+clementiam Dei nobis profuturam nostrorumque
+criminum indulgentiam deposcendum est</i>. Bingham,
+<i>orig. ecclesiastiq. tom. V. lib. XIII. ch. viij. §. 4.</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

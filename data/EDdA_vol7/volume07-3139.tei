@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30593" id="55:176" vol="7">
+<index type="head" value="GUATIMALA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GUATIMALA</head>
+<p>
+GUATIMALA, (<i>Géog.</i>) province considerable de
+l&#39;Amérique septentrionale, dans la nouvelle Espagne.<gap type="hyphenpb" />
+<pb n="7:978" facs="V7/ENC_7-978.jpeg" />
+<milestone unit="column" n="1" />
+Elle embrasse 12 autres provinces, &amp; abonde
+en cacao. Les Indiens qui l&#39;habitent sous la domination 
+espagnole, sont grossiers, &amp; la plûpart prosessent 
+la religion chrétienne, à laquelle ils mêlent mille
+superstitions ; ils aiment extrèmement la danse &amp; les
+boissons qui peuvent enivrer, couchent sur des ais
+ou des roseaux liés ensemble, un peu élevés de terre,
+posés dessus une natte, &amp; un petit billot de bois
+leur sert de chevet ; ils ne portent ni bas ni souliers,
+ni chemises ; leur unique vêtement consiste en une
+espece de surplis, qui pend depuis les épaules jusqu&#39;
+au-dessous de la ceinture, avec des manches ouvertes 
+qui leur couvrent la moitié du bras. <i>Guatimala</i>
+est la capitale de la province. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

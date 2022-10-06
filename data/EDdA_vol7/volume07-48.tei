@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27501" id="48:21" vol="7">
+<index type="head" value="FOIRIAO ou FOQUEUX" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="NA" />
+<head>FOIRIAO ou FOQUEUX</head>
+<p>
+* FOIRIAO <i>ou</i> FOQUEUX, (<i>Hist. mod.</i>) nom
+d&#39;une secte de la religion des Japonois, ainsi appellée
+d&#39;un livre de leur doctrine qui porte ce nom. L&#39;auteur de la secte fut un homme saint appellé <i>Xaca</i>, qui
+persuada à ces peuples que les cinq mots inintelligibles,
+<i>nama, mio, foren, qui, quio</i>, contenoient un
+mystere profond, avoient des vertus singulieres, &amp;
+qu&#39;il suffisoit de les prononcer &amp; d&#39;y croire, pour être
+sauvé. C&#39;est en vain que nos missionnaires leur prêcherent 
+que ce dogme renversoit toute la Morale,
+encourageoit les hommes au crime, &amp; qu&#39;il n&#39;y avoit
+rien qu&#39;on ne fût tenté de faire, quand on croyoit
+pouvoir tout expier à si peu de frais ; d&#39;ailleurs, que
+<pb n="7:42" facs="V7/ENC_7-42.jpeg" />
+<milestone unit="column" n="1" />
+ces mots étoient vuides de sens ; que ne rappellant
+aucune idée, ou ne rappellant que des idées qu&#39;il
+leur étoit défendu d&#39;avoir sous peine d&#39;hérésie, on
+faisoit dépendre leur salut éternel du caprice des
+dieux ; &amp; qu&#39;il vaudroit autant qu&#39;ils eussent attaché
+leur sort à venir à la croyance d&#39;une proposition conçûe 
+dans une langue tout-à-fait étrangere. Ils répondirent 
+qu&#39;ils n&#39;avoient garde de s&#39;ériger en scrutateurs
+de la volonté des dieux ; que Xaca étoit un homme
+saint ; &amp; que leur ayant promis un bonheur infiniment
+au-dessus de ce que l&#39;homme pouvoit jamais mériter
+par lui-même, il étoit juste qu&#39;il en exigeât toutes les
+sortes de sacrifices dont il étoit capable : qu&#39;après
+avoir immolé les passions de leur coeur, il ne leur
+restoit plus que de faire un holocauste des lumieres
+de leur esprit ; que Xaca en avoit donné l&#39;exemple au
+monde ; qu&#39;ils avoient embrassé sa loi, avec une pleine 
+confiance dans la vérité de ses promesses ; &amp; qu&#39;ils
+mourroient mille fois plûtôt que de renoncer au <i>nama, mio, foren, qui, quio</i>. Xaca est représenté avec
+trois têtes : il s&#39;appelle aussi <i>fotage</i> ou <i>le seigneur</i>. Voy.
+<i>les cérémonies superstitieuses &amp; le dictionnaire de Moréry</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

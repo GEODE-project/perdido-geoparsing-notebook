@@ -1,0 +1,351 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29324" id="52:129" vol="7">
+<index type="head" value="GÉNÉRIQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Douchet &amp; Beauzée" />
+<index type="shortauth" value="Douchet &amp; Beauzée" />
+<index type="kafnum" value="40 &amp; 12" />
+<index type="kafauth" value="Douchet, Jacques-Philippe-Augustin (?-?) &amp; Beauzée, Nicolas (1717-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="adject" />
+<head>GÉNÉRIQUE</head>
+<p>
+GÉNÉRIQUE, adj. Les noms établis pour présenter 
+à l&#39;esprit des idées générales, pour exprimer des
+attributs qui conviennent à plusieurs especes ou à
+plusieurs individus, sont nommés <i>appellatifs</i> par le
+commun des Grammairiens. Quelques-uns trouvant
+cette dénomination peu expressive, peu conforme à
+l&#39;idée qu&#39;elle caractérise, en ont substitué une autre,
+qu&#39;ils ont cru plus vraie &amp; plus analogue ; c&#39;est celle
+de <i>génériques</i> ; &amp; il faut convenir que si cette derniere 
+dénomination n&#39;est pas la plus convenable, la
+premiere, quand on l&#39;a introduite, devoit le paroître 
+encore moins. Autant qu&#39;il est possible, l&#39;étymologie 
+des dénominations doit indiquer la nature des
+choses nommées : c&#39;est un principe qu&#39;on ne doit
+point perdre de vûe, quand la découverte d&#39;un objet
+nouveau exige qu&#39;on lui assigne une dénomination
+nouvelle ; mais une nomenclature déjà établie doit
+être respectée &amp; conservée, à-moins qu&#39;elle ne soit
+absolument contraire au but même de son institution : en la conservant, on doit l&#39;expliquer par de
+bonnes définitions ; en la réformant, il faut en montrer 
+le vice, &amp; ne pas tomber dans un autre, comme
+a fait M. l&#39;abbé Girard, lorsqu&#39;à la nomenclature ordinaire 
+des différentes especes de noms, il en a substitué 
+une toute nouvelle.
+</p>
+<p>
+Les noms se divisent communément en <i>appellatifs</i>
+&amp; en <i>propres</i>, &amp; il semble que ces deux especes soient
+suffisantes aux besoins de la Grammaire ; cependant,
+soit pour lui fournir plus de ressources, soit pour entrer 
+dans les vûes de la Métaphysique, on soûdivise
+encore les noms appellatifs en noms <i>génériques</i> ou de
+genre, &amp; en noms <i>spécifiques</i> ou d&#39;espece.
+<blockquote> 
+« Les premiers,
+pour employer les propres termes de M. du
+Marsais, conviennent à tous les individus ou êtres
+particuliers de différentes especes ; par exemple,
+<i>arbre</i> convient à tous les <i>noyers</i>, à tous les <i>orangers</i>,
+à tous les <i>oliviers</i>, &amp;c. Les derniers ne conviennent 
+qu&#39;aux individus d&#39;une seule espece ; tels sont
+<i>noyer, olivier, oranger</i>, &amp;c.».
+</blockquote>
+<i>Voyez</i> <sc><ref target="head:Appellatif" type="search">Appellatif</ref></sc>.
+</p>
+<p>
+M. l&#39;abbé Girard, <i>tom. I. disc. v. pag. 219.</i> partage 
+les noms en deux classes, l&#39;une des <i>génériques</i>,
+&amp; l&#39;autre des <i>inviduels ;</i> c&#39;est la même division générale 
+que nous venons de présenter sous d&#39;autres
+expressions. Ensuite il soûdivise les <i>génériques</i> en <i>appellatifs, abstractifs</i> &amp; <i>actionnels</i>, selon qu&#39;ils servent,
+dit-il, à dénommer des substances, des modes, ou
+des actions. Mais on peut remarquer d&#39;abord que le
+mot <i>appellatif</i> n&#39;est pas appliqué ici plus heureusement 
+que dans le système ordinaire, &amp; que l&#39;auteur
+ne fait que déroger à l&#39;usage, sans le corriger. D&#39;autre part, la soûdivision de l&#39;académicien n&#39;est ni ne
+peut être grammaticale, &amp; elle devoit l&#39;être dans
+son livre. La diversité des objets peut fonder, si
+l&#39;on veut, une division philosophique ; mais une division 
+grammaticale doit porter sur la diversité des
+services d&#39;une même sorte de mots ; &amp; cette diversité 
+de service dépend, non de la nature des objets,
+<pb n="7:575" facs="V7/ENC_7-575.jpeg" />
+<milestone unit="column" n="1" />
+mais de la maniere dont les mots les expriment. Ainsi
+la division des noms <i>appellatifs</i> en <i>génériques</i> &amp; <i>spécifiques</i>, peut être regardée comme grammaticale,
+en ce que les noms <i>génériques</i> conviennent aux individus 
+de plusieurs especes, &amp; que les noms spécifiques 
+qui leur sont subordonnés, ne conviennent,
+comme on l&#39;a déjà dit, qu&#39;aux individus d&#39;une seule
+espece ; ce qui constitue deux manieres d&#39;exprimer
+bien différentes : <i>animal</i> convient à tous les individus,
+hommes &amp; brutes ; <i>homme</i> ne convient qu&#39;aux
+individus de l&#39;espece humaine.
+</p>
+<p>
+Si l&#39;on avoit appellé <i>communs</i> les noms auxquels
+on a donné la dénomination d&#39;<i>appellatifs</i>, on auroit
+peut-être rendu plus sensible tout-à-la-fois &amp; leur
+nature intrinseque &amp; leur opposition aux noms <i>propres:</i> mais nous croyons devoir nous en tenir aux
+dénominations ordinaires, les mêmes que M. du
+Marsais paroît avoir adoptées ; parce qu&#39;elles sont autorisées 
+par un usage, qui au fond n&#39;a rien de contraire 
+aux vûes légitimes de la Grammaire, &amp; que de
+plus elles sont en quelque sorte l&#39;expression abrégée
+de la génération de nos idées, &amp; des effets merveilleux 
+de l&#39;abstraction dans l&#39;entendement humain.
+<i>Voyez</i> <sc><ref target="head:Abstraction" type="search">Abstraction</ref></sc>.
+</p>
+<p>
+On peut voir <i>au mot</i> <sc><ref target="head:Appellatif" type="search">Appellatif</ref></sc> une sorte de tableau raccourci 
+de cette génération d&#39;idées qui sert de
+fondement à la division des mots ; mais elle est amplement 
+développée <i>au mot</i> <sc><ref target="head:Article" type="search">Article</ref></sc>, <i>t. I. p. 722</i>.
+</p>
+<p>
+Nous y ajoûterons quelques observations qui
+nous ont paru intéressantes, parce qu&#39;elles regardent
+la signification des noms appelletifs, &amp; qu&#39;elles peuvent 
+même produire d&#39;heureux effets, si, comme
+nous le présumons, on les juge applicables au système 
+de l&#39;éducation.
+</p>
+<p>
+On peut remonter de l&#39;individu au genre suprême,
+ou descendre du genre suprême à l&#39;individu, en
+passant par tous les dégrés différenciels intermédiaires : <i>Médor, chien, animal, substance, être</i>, voilà la
+gradation ascendante ; <i>être, substance, animal, chien,
+Médor</i>, c&#39;est la gradation descendante. L&#39;idée de <i>Médor</i> renferme nécessairement plus d&#39;attributs que l&#39;idée 
+spécifique de <i>chien ;</i> parce que tous les attributs de
+l&#39;espece conviennent à l&#39;individu, qui a de plus son
+suppôt particulier, ses qualités exclusivement propres 
+&amp; incommunicables à tout autre. Par une raison 
+semblable &amp; que l&#39;on peut appliquer à chaque
+dégré de cette progression, l&#39;idée de <i>chien</i> renferme
+plus d&#39;attributs que l&#39;idée générique d&#39;<i>animal</i>, parce
+que tous les attributs du genre conviennent à l&#39;espece,
+&amp; que l&#39;espece a de plus ses propriétés différencielles 
+&amp; caractéristiques, incommunicables aux autres 
+especes comprises sous le même genre.
+</p>
+<p>
+La gradation ascendante de l&#39;individu à l&#39;espece,
+de l&#39;espece au genre prochain, de celui-ci au genre
+plus éloigné, &amp; successivement jusqu&#39;au genre suprême,
+est donc une véritable décomposition d&#39;idées
+que l&#39;on simplifie par le secours de l&#39;abstraction, pour
+les mettre en quelque sorte plus à la portée de l&#39;esprit ; 
+c&#39;est la méthode d&#39;analyse.
+</p>
+<p>
+La gradation descendante du genre suprême à l&#39;espece 
+prochaine, de celle-ci à l&#39;espece plus éloignée,
+&amp; successivement jusqu&#39;aux individus, est au contraire 
+une veritable composition d&#39;idées que l&#39;on réunit 
+par la réflexion, pour les rapprocher davantage
+de la verité &amp; de la nature ; c&#39;est la méthode de synthèse.
+</p>
+<p>
+Ces deux méthodes opposées peuvent être d&#39;une
+grande utilité dans des mains habiles, pour donner
+aux jeunes gens l&#39;esprit d&#39;ordre, de précision, &amp;
+d&#39;observation.
+</p>
+<p>
+Montrez-leur plusieurs individus ; &amp; en leur faisant
+remarquer ce que chacun d&#39;eux a de propre, ce qui
+l&#39;individualise, pour ainsi dire, faites-leur observer
+en même tems ce qu&#39;il a de commun avec les autres,
+<milestone unit="column" n="2" />
+ce qui le fixe dans la même espece ; &amp; nommez-leur
+cette espece, en les avertissant que quand on désigne
+les êtres par cette sorte de nom, l&#39;esprit ne porte son
+attention que sur les attributs communs à toute l&#39;espece,
+&amp; qu&#39;il tire en quelque sorte hors de l&#39;idée totale 
+de l&#39;individu, les idées singulieres qui lui sont
+propres, pour ne considérer que celles qui lui sont
+communes avec les autres. Amenez-les ensuite à la
+comparaison de plusieurs especes, &amp; des propriétés
+qui les distinguent les unes des autres, qui les spécifient ; 
+mais n&#39;oubliez pas les propriétés qui leur sont
+communes, qui les réunissent sous un point de vûe
+unique, qui les constituent dans un même genre ; &amp;
+nommez-leur ce genre, en y appliquant les mêmes
+observations que vous aurez faites sur l&#39;espece ; savoir 
+que l&#39;idée de genre est encore plus simplifiée,
+qu&#39;on en a séparé les idées différencielles de chaque
+espece, pour ne plus envisager que les idées communes 
+à toutes les especes comprises sous le même genre.
+Continuez de même aussi loin que vous pourrez,
+en faisant remarquer avec soin toutes les abstractions
+qu&#39;il faut faire successivement, pour s&#39;élever par dégrés 
+aux idées les plus générales. N&#39;en demeurez pas
+là; faites retourner vos éleves sur leurs pas ; qu&#39;à l&#39;idée 
+du genre suprême ils ajoûtent les idées différencielles 
+constitutives des especes qui lui sont immédiatement 
+subordonnées ; qu&#39;ils recommencent la
+même opération de degrés en degrés, pour descendre 
+insensiblement jusqu&#39;aux individus, les seuls êtres
+qui existent réellement dans la nature.
+</p>
+<p>
+En les exerçant ainsi à ramener, par l&#39;analyse, la
+pluralité des individus à l&#39;unité de l&#39;espece &amp; la
+pluralité des especes à l&#39;unité du genre, &amp; à distinguer,
+par la synthese, dans l&#39;unite du genre la pluralité 
+des especes &amp; dans l&#39;unité de l&#39;espece la pluralité 
+des individus ; ces idées deviendront insensiblement 
+précises &amp; distinctes, &amp; les élémens des connoissances 
+&amp; du langage se trouveront disposes de
+la maniere la plus méthodique. Quel préjugé pour la
+facilité de concevoir &amp; de s&#39;exprimer, pour la netteté 
+du discernement, la justesse du jugement, &amp; la
+solidité du raisonnement!
+</p>
+<p>
+Seroit-il impossible, pour l&#39;exécution des vûes que
+nous proposons ici, de construire un dictionnaire où
+les mots seroient rangés par ordre de matieres? Les
+matieres y seroient divisées par genres, &amp; chaque
+genre seroit suivi de ses especes : le genre une fois
+défini, il suffiroit ensuite d&#39;indiquer les idées différencielles 
+qui constituent les especes. Il y a lieu de
+croire que ce dictionnaire philosophique, en apprenant 
+des mots, apprendroit en même tems des choses,
+&amp; d&#39;une maniere d&#39;autant plus utile, qu&#39;elle seroit 
+plus analogue aux procédés de l&#39;esprit humain.
+</p>
+<p>
+Quoi qu&#39;il en soit, il résulte des principes que
+nous venons de présenter sur la composition &amp; la
+décomposition des idées, que les noms qui les expriment 
+ont une signification plus ou moins déterminée,
+selon qu&#39;ils s&#39;éloignent plus ou moins du genre
+suprême ; parce que les idées abstraites que l&#39;esprit
+se forme ainsi, deviennent plus simples, &amp; par-là
+plus générales, plus vagues &amp; applicables à un plus
+grand nombre d&#39;individus ; les noms plus ou moins
+<i>génériques</i> qui en sont les expressions, portent donc
+aussi l&#39;empreinte de ces divers degrés d&#39;indétermination : la plus grande indétermination est celle du
+nom le plus <i>générique</i>, du genre suprême ; elle diminue 
+par dégrés dans les noms des especes inférieures,
+à mesure qu&#39;elles s&#39;approchent de l&#39;individu, &amp; disparoît 
+entierement dans les noms propres qui ont
+tous un sens déterminé.
+</p>
+<p>
+On tire cependant les noms appellatifs de leur indétermination,
+pour en faire des applications précises.
+Les moyens abrégés qu&#39;on employe à cette fin
+dans le discours, sont quelquefois des équivalens de
+<pb n="7:576" facs="V7/ENC_7-576.jpeg" />
+<milestone unit="column" n="1" />
+noms propres qui n&#39;existent pas ou qu&#39;on ignore ;
+<i>cette pierre, mon chapeau, cet homme</i>. D&#39;autres fois
+on supplée par cet artifice à une énumération ennuyeuse 
+&amp; impossible de noms propres ; <i>les philosophes 
+de l&#39;antiquité</i>, au lieu du long étalage des noms
+de tous ceux qui dans les premiers siecles ont fait
+profession de philosophie.
+</p>
+<p>
+Il y a diverses manieres de restreindre la signification 
+d&#39;un nom <i>générique:</i> ici c&#39;est l&#39;apposition d&#39;un
+autre nom, <i>le prophete roi:</i> là c&#39;est un autre nom lié
+au premier par une préposition, ou sous une terminaison 
+choisie à dessein ; <i>la crainte du supplice, metus 
+supplicii:</i> dans une occasion c&#39;est un adjectif mis
+en concordance avec le nom ; <i>un homme savant,
+vir doctus:</i> dans une autre c&#39;est une phrase incidente
+ajoûtée au nom ; <i>la loi qui nous soûmet aux puissances:</i> souvent plusieurs de ces moyens sont combinés
+&amp; employés tout-à-la-fois. C&#39;est ainsi que l&#39;esprit humain 
+a su trouver des richesses dans le sein même de
+l&#39;indigence, &amp; assujettir les termes les plus vagues
+aux expressions les plus précises. (<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

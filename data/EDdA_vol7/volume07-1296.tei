@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28750" id="51:74" vol="7">
+<index type="head" value="GAGERIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f." />
+<head>GAGERIE</head>
+<p>
+GAGERIE, s. f. (<i>Jurisprud.</i>) est une simple saisie
+&amp; arrêt de meubles, sans déplacement ni transport.
+</p>
+<p>
+Cette saisie se fait ordinairement pour cause privilégiée,
+sans qu&#39;il y ait obligation par écrit ni condamnation.
+</p>
+<p>
+L&#39;effet de cette saisie est que les meubles sont mis
+sous la main de la justice pour la sûreté du créancier.
+</p>
+<p>
+Le saisi doit donner gardien solvable, ou se charger 
+lui-même comme dépositaire des biens de justice,
+autrement l&#39;huissier pourroit enlever les meubles ; 
+mais la vente ne peut en être faite qu&#39;en vertu
+d&#39;un jugement qui l&#39;ordonne.
+</p>
+<p>
+Le seigneur censier peut, suivant <i>l&#39;article 186</i> de
+la coûtume de Paris, procéder par simple <i>gagerie</i> sur
+les meubles étant dans les maisons de la ville &amp; banlieue 
+de Paris, faute du payement du cens, &amp; pour
+trois années dudit cens, &amp; au-dessous.
+</p>
+<p>
+L&#39;<i>article 161</i> de la même coûtume permet au propriétaire 
+d&#39;une maison donnée à loyer, de procéder
+par voie de <i>gagerie</i> pour les termes à lui dûs sur les
+meubles étant dans cette maison.
+</p>
+<p>
+Anciennement on procédoit par voie de <i>gagerie</i>,
+sans que l&#39;ordonnance du juge fût nécessaire en aucun 
+cas ; mais cet abus fut reformé par un arrêt de
+l&#39;an 1389.
+</p>
+<p>
+Il n&#39;est pas besoin d&#39;ordonnance du juge pour user
+de simple <i>gagerie</i>, lorsque le bail est passé devant notaire ; 
+mais il en faut une, lorsque le bail est sous
+seing-privé ou qu&#39;il n&#39;y en a point.
+</p>
+<p>
+On peut aussi user de <i>gagerie</i>, suivant l&#39;<i>article
+163.</i> pour trois années seulement d&#39;arrérages d&#39;une
+rente fonciere dûe sur une maison sise en la ville
+&amp; fauxbourgs de Paris, sur les meubles étant dans
+cette maison appartenans au détenteur &amp; débiteur
+de la rente.
+</p>
+<p>
+Enfin le droit que l&#39;<i>article 173</i> de la même coûtume 
+accorde aux bourgeois de Paris d&#39;arrêter les biens
+de leurs débiteurs forains trouvés en la ville, est
+encore une <i>saisie-gagerie</i> qui se peut faire, quoiqu&#39;il
+n&#39;y ait point de titre ; mais il faut aussi une permission 
+du juge. <i>Voyez ci-devant</i> 
+<sc><ref target="head:Gager," type="search">Gager,</ref> <i>&amp;</i> <ref target="head:Saisie-Gagerie" type="search">Saisie-Gagerie</ref></sc>
+. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

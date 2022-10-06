@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28852" id="51:142:1" vol="7">
+<index type="head" value="Galerie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Fortification" />
+<index type="normclass" value="Fortifications" />
+<index type="englishclass" value="Fortifications" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="s.f." />
+<head>Galerie</head>
+<p>
+<sc>Galerie</sc>, s. f. <i>en terme de Fortification</i>, est une
+petite allée de charpente qu&#39;on fait pour passer un
+fossé, qui est couvert de grosses planches de bois,
+chargées de terre &amp; de gason.
+</p>
+<p>
+Les côtés de la <i>galerie</i> doivent être à l&#39;épreuve du
+mousquet ; ils sont composés d&#39;un double rang de
+planches, comme de plaques de fer pour résister aux
+pierres &amp; aux artifices dont l&#39;ennemi se sert. <i>Chamb</i>.
+</p>
+<p>
+On se servoit autrefois de ces <i>galeries</i> pour faciliter
+l&#39;approche du mineur à la face du bastion ; elles portoient 
+sur le fossé qu&#39;on avoit soin de combler auparavant 
+de barriques, de sacs à terre, &amp; de fascines,
+lorsqu&#39;il étoit plein d&#39;eau. Pendant ce comblement,
+on démontoit l&#39;artillerie des flancs opposés : cette
+<i>galerie</i> s&#39;appelloit aussi <i>traverse. Voyez</i> <sc><ref target="head:Traverse" type="search">Traverse</ref></sc>:
+elle n&#39;est plus d&#39;usage à présent. Le mineur parvient
+au corps de l&#39;ouvrage attaqué, ou par une <i>galerie</i>
+soûterreine qu&#39;il pratique sous le fossé lorsque la nature 
+du terrein le permet, ou à la faveur de l&#39;épaulement 
+qui couvre le passage du fossé. <i>Voyez</i> <sc><ref target="head:Passage du Fossé" type="search">Passage
+du Fossé</ref></sc>.
+</p>
+<p>
+On appelle encore <i>galerie</i> le conduit d&#39;une mine,
+c&#39;est-à-dire le chemin qu&#39;on pratique sous terre pour
+aller jusque sous le terrein des ouvrages qu&#39;on a
+dessein de faire sauter. <i>Voyez</i> 
+<sc><ref target="head:Mine" type="search">Mine</ref>, <ref target="head:Rameau" type="search">Rameau</ref>, <ref target="head:Araignée" type="search">Araignée</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Les assiégeans &amp; les assiégés poussent aussi des <i>galeries</i> sous terre pour éventer réciproquement leurs
+mines, &amp; les detruire après qu&#39;ils les ont trouvées.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,221 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27805" id="49:62:1" vol="7">
+<index type="head" value="Fort de Campagne" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="NA" />
+<head>Fort de Campagne</head>
+<p>
+<sc>Fort de Campagne</sc> ; c&#39;est une espece de grande
+redoute dont les côtés se flanquent réciproquement,
+&amp; qui ne se construit que pendant la guerre. On
+s&#39;en sert alors pour couvrir &amp; garder des postes ou
+des passages importans.
+</p>
+<p>
+Lorsque les <i>forts de campagne</i> sont triangulaires ou
+quarrés, &amp; qu&#39;ils sont ouverts d&#39;un côté, on leur
+donne le nom de <i>redoutes. Voyez</i> <sc><ref target="head:Redoute" type="search">Redoute</ref></sc>. Mais
+quand ils sont fermés de tous côtés, &amp; qu&#39;ils donnent 
+des feux croisés, c&#39;est alors qu&#39;ils portent proprement 
+le nom de <i>forts</i>.
+</p>
+<p>
+La grandeur des <i>forts de campagne</i> varie suivant
+l&#39;usage auquel on les destine ; mais leur ligne de défense 
+doit toûjours être plus petite que celle des villes 
+fortifiées. On peut la fixer entre 40 &amp; 60 toises
+au plus, ce qui est à-peu-près la plus grande longueur 
+que l&#39;on peut donner aux côtés de ces <i>forts</i>.
+Ils sont formés d&#39;un fossé de 10 ou 12 piés de profondeur 
+sur 15 ou 18 de largeur ; d&#39;un parapet de
+huit ou neuf piés d&#39;épaisseur &amp; de sept de hauteur,
+&amp; assez ordinairement d&#39;un chemin couvert, palissadé 
+lorsqu&#39;on a la commodité de le faire.
+</p>
+<p>
+Pour construire un <i>fort de campagne</i> triangulaire,
+décrivez d&#39;abord un triangle équilatéral. Divisez
+chacun de ses côtés en trois parties égales ; prolongez 
+une de ces parties au-delà du triangle, &amp; faites
+ce prolongement égal à cette partie. Tirez ensuite
+de son extrémité au sommet de l&#39;angle opposé au
+côté prolongé, la ligne de défense. Faites la gorge
+égale au tiers du côté, &amp; élevez le flanc de maniere
+qu&#39;il fasse un angle à-peu-près de 100 degrés, avec
+les deux autres tiers du même côté. Faites après cela 
+la même chose sur les autres côtés du triangle ;
+&amp; il sera fortifié par trois demi-bastions. Il y a des
+auteurs qui fortifient le triangle avec des bastions
+entiers ; mais les angles de ces bastions se trouvent
+alors si aigus, qu&#39;ils n&#39;ont aucune solidité.
+</p>
+<p>
+La fortification du quarré avec des demi-bastions
+se fait de la même maniere que celle du triangle ;
+excepté qu&#39;au lieu de diviser le côté en trois parties 
+égales, on le partage en quatre, &amp; que le prolongement 
+de chaque côté est pris du quart de ce
+côté, de même que la gorge du demi-bastion.
+</p>
+<p>
+Cette sorte de fortification donne des angles
+morts ou rentrans, qui ne sont pas défendus ; mais
+le peu d&#39;élévation des <i>forts de campagne</i> rend ces
+angles bien moins défectueux ou préjudiciables que
+dans les villes de guerre, parce que l&#39;espace qui
+n&#39;est pas défendu se trouve alors beaucoup plus
+petit.
+</p>
+<p>
+Parmi les <i>forts de campagne</i>, il y en a qu&#39;on nomme 
+<i>forts à étoile</i>, parce qu&#39;ils en ont à-peu-près la
+figure. Ils sont formés de quatre, cinq, ou six côtés
+qui donnent autant d&#39;angles saillans &amp; rentrans.
+</p>
+<p>
+Pour faire un <i>fort</i> en étoile qui soit exagonal ou
+qui ait six angles rentrans, il faut d&#39;abord décrire un
+triangle équilatéral, diviser chaque côté en trois
+parties égales des deux extrémités de la partie du
+milieu de chaque côté &amp; de son intervalle, décrire
+deux arcs qui se coupent dans un point en-dehors le
+triangle ; tirant de ce point des lignes aux centres de
+ces arcs, on aura le <i>fort</i> tracé.
+</p>
+<p>
+Si l&#39;on veut un <i>fort</i> pentagonal à étoile, on commencera 
+par décrire un pentagone de la grandeur
+qu&#39;on jugera nécessaire ; on divisera ensuite chaque
+côté en deux également, &amp; du point du milieu on
+élevera une perpendiculaire en-dedans le pentagone.
+On donnera à cette perpendiculaire le quart du
+côté; &amp; par son extrémité on tirera aux angles du
+pentagone des lignes qui formeront les angles rentrans 
+de ce polygone.
+<pb n="7:190" facs="V7/ENC_7-190.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Si l&#39;on trouve que cette construction donne les
+angles saillans trop aigus, on les augmentera en diminuant 
+un peu la grandeur de la perpendiculaire,
+qui peut être réduite à la cinquieme ou à la sixieme
+partie du côté du pentagone.
+</p>
+<p>
+On construira de la même maniere un quarré en
+étoile, en donnant environ la septieme ou la huitieme 
+partie du côté du quarré à la perpendiculaire
+élevée en-dedans sur le milieu de chaque côté.
+</p>
+<p>
+Si l&#39;on veut faire un <i>fort à étoile</i> à huit angles, il
+faut commencer par en construire un à quatre, de
+la maniere qu&#39;on vient de l&#39;enseigner ; ensuite, de
+l&#39;extrémité du tiers de chaque côté, pris de part &amp;
+d&#39;autre du sommet des angles rentrans, &amp; de l&#39;intervalle 
+de ces deux extrémités, décrire deux arcs
+qui se couperont dans un point ; tirant de ce point
+des lignes au centre de ces arcs, on aura l&#39;étoile à
+huit angles.
+</p>
+<p>
+Les angles rentrans des <i>forts à étoiles</i> ne sont pas
+propres à être défendus (<i>voyez</i> <sc><ref target="head:Angle mort" type="search">Angle mort</ref></sc>); &amp;
+cette considération a fait dire à quelques auteurs que
+ces <i>forts</i> étoient des cometes fatales à ceux qui les
+construisoient. Mais ce jugement est un peu rigoureux ; 
+car il est certain qu&#39;on peut s&#39;en servir assez
+avantageusement pour garder différens postes à la
+guerre. Ils étoient autrefois en usage dans les lignes
+de circonvallation ; on s&#39;en sert plus rarement aujourd&#39;hui. M. de Clairac dit dans son livre de <i>l&#39;ingénieur de campagne</i>, qu&#39;il en fit construire un de cette
+espece sur la Queich en 1743, qui fut approuvé. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,160 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28584" id="50:251" vol="7">
+<index type="head" value="FURETER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Roy (Charles Georges)" />
+<index type="shortauth" value="Le Roy (Charles Georges)" />
+<index type="kafnum" value="75" />
+<index type="kafauth" value="Le Roy, Charles-Georges (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chasse." />
+<index type="normclass" value="Chasse" />
+<index type="englishclass" value="Hunting" />
+<index type="generatedclass" value="Chasse" />
+<index type="pos" value="v.n." />
+<head>FURETER</head>
+<p>
+FURETER, v. n. (<i>Chasse.</i>) faire sortir les lapins de
+leur terrier par le moyen des furets. Il y a plusieurs
+manieres de <i>fureter</i>. Si on veut prendre indistinctement
+tous les lapins, on enferme le terrier avec des panneaux,
+à deux toises au-moins des gueules les plus
+éloignées ; on introduit des furets dans le terrier ; on
+a près de soi un chien sûr, attentif &amp; muet, &amp; on attend 
+en silence. Les lapins poursuivis par les furets
+sortent, &amp; se précipitent dans le panneau, dont les
+mailles les enveloppent. Le chien les y suit, les tue,
+&amp; revient à son maître. De cette maniere les lapins
+abandonnent le terrier presque sans résistance, parce 
+que l&#39;éloignement du panneau leur cache le danger.
+Mais on ne peut pas s&#39;en servir dans les garennes,
+où il est important de ménager les hases. <i>Voyez</i>
+<sc><ref target="head:Garenne" type="search">Garenne</ref></sc>.
+</p>
+<p>
+Alors au lieu d&#39;enfermer tout le terrier avec des
+panneaux, on adapte à chacune des gueules une
+bourse faite de filet, dont l&#39;ouverture est proportionnée 
+à celle de la gueule. Le lapin poursuivi se jette
+dans cette bourse avec un effort qui la referme, &amp;
+on le prend vivant. Ainsi on a l&#39;avantage de choisir
+les mâles pour les tuer, &amp; on peut laisser aller les
+femelles.
+</p>
+<p>
+Une troisieme maniere de <i>fureter</i>, qui n&#39;a guere
+pour objet que le plaisir, demande beaucoup d&#39;adresse 
+&amp; d&#39;habitude à tirer. Lorsqu&#39;on a introduit le furet 
+dans le terrier, on se place à portée, le visage
+tourné du côté du vent ; &amp; on tue à coups de fusil
+les lapins qui sortent avec une vîtesse extrème pour
+se dérober à la poursuite du furet.
+</p>
+<p>
+De quelque maniere qu&#39;on <i>surete</i>, les furets doivent 
+être emmuselés, assez pour qu&#39;ils ne puissent
+pas tuer les lapins qu&#39;ils chassent. Sans cela ils jouiroient 
+d&#39;abord, &amp; resteroient endormis dans le terrier.
+Mais il ne faut pas que la museliere les gêne au
+<pb n="7:377" facs="V7/ENC_7-377.jpeg" />
+<milestone unit="column" n="1" />
+point de les occuper. Leur ardeur en seroit ralentie,
+&amp; souvent ils ont besoin d&#39;opiniâtreté pour faire sortir 
+les lapins. Dans un grand terrier, un ou deux surets 
+se lassent inutilement ; il en faut souvent six, &amp;
+même plus, pour tourmenter les lapins &amp; les forcer.
+La fatigue rebute les furets &amp; les endort. Alors
+on a souvent de la peine à les reprendre. Quelques
+garenniers enfument le terrier avec de la paille, du
+soufre, de la poudre, <i>&amp;c.</i> pour les éveiller, ou les
+contraindre à sortir. Mais le plus sûr moyen de reprendre 
+son furet, c&#39;est de faire au milieu du terrier
+nn trou rond, d&#39;un pie &amp; demi de diametre, &amp; de
+deux à trois piés de profondeur. Ce trou doit être
+place de maniere qu&#39;il aboutisse par plusieurs passages 
+aux principales chambres du terrier. On place
+au fond un lit de foin, &amp; on se retire. Le furet qui
+est accoûtumé à coucher sur le foin rencontre ce lit,
+&amp; on l&#39;y retrouve presque toûjours endormi le lendemain 
+matin. <i>Article de M. <sc>le Roy</sc>, lieutenant des
+chasses du parc de Versailles</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

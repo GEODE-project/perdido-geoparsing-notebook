@@ -1,0 +1,838 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29377" id="52:160" vol="7">
+<index type="head" value="GENRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Grammaire" />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>GENRE</head>
+<p>
+GENRE, s. m. <i>terme de Grammaire. Genre</i> ou <i>classe</i>, dans l&#39;usage ordinaire, sont à-peu-près synonymes,
+&amp; signifient une collection d&#39;objets réunis sous
+un point de vûe qui leur est commun &amp; propre : il
+est assez naturel de croire que c&#39;est dans le même sens
+que le mot <i>genre</i> a été introduit d&#39;abord dans la Grammaire, &amp; qu&#39;on n&#39;a voulu marquer par ce mot qu&#39;- une<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+classe de noms réunis sous un point de vûe commun 
+qui leur est exclusivement propre. La distinction 
+des sexes semble avoir occasionné celle des <i>genres</i> pris dans ce sens, puisqu&#39;on a distingué le <i>genre</i>
+masculin &amp; le <i>genre</i> féminin, &amp; que ce sont les deux
+seuls membres de cette distribution dans presque toutes 
+les langues qui en ont fait usage. A s&#39;en tenir donc
+<pb n="7:590" facs="V7/ENC_7-590.jpeg" />
+<milestone unit="column" n="1" />
+rigoureusement à cette considération, les noms seuls
+des animaux devroient avoir un <i>genre ;</i> les noms des
+mâles seroient du <i>genre</i> masculin ; ceux des femelles,
+du <i>genre</i> féminin : les autres noms ou ne seroient d&#39;aucun 
+<i>genre</i> relatif au sexe, ou ce <i>genre</i> n&#39;auroit au sexe 
+qu&#39;un rapport d&#39;exclusion, &amp; alors le nom de
+<i>genre neutre</i> lui conviendroit assez : c&#39;est en effet sous
+ce nom que l&#39;on désigne le troisieme <i>genre</i>, dans les
+langues qui en ont admis trois.
+</p>
+<p>
+Mais il ne faut pas s&#39;imaginer que la distinction
+des sexes ait été le motif de cette distribution des
+noms ; elle n&#39;en a été tout-au-plus que le modele &amp;
+la regle jusqu&#39;à un certain point ; la preuve en est sensible.
+Il y a dans toutes les langues une infinité de
+noms ou masculins ou féminins, dont les objets n&#39;ont
+&amp; ne peuvent avoir aucun sexe, tels que les noms
+des êtres inanimés &amp; les noms abstraits qu&#39;il est si facile 
+&amp; si ordinaire de multiplier : mais la religion,
+les moeurs, &amp; le génie des différens peuples fondateurs 
+des langues, peuvent leur avoir fait appercevoir 
+dans ces objets des relations réelles ou feintes,
+prochaines ou éloignées, à l&#39;un ou à l&#39;autre des
+deux sexes ; &amp; cela aura suffi pour en rapporter les
+noms à l&#39;un des deux <i>genres</i>.
+</p>
+<p>
+Ainsi les Latins, par exemple, dont la religion fut
+décidée avant la langue, &amp; qui admettoient des
+dieux &amp; des déesses, avec la conformation, les foiblesses 
+&amp; les fureurs des sexes, n&#39;ont peut-être placé
+dans le <i>genre</i> masculin les noms communs &amp; les noms
+propres des vents, <i>ventus, Auster, Zephyrus</i>, &amp;c. ceux
+des fleuves, <i>fluvius, Garumna, Tiberis</i>, &amp;c. les noms
+<i>aer, ignis, sol</i>, &amp; une infinité d&#39;autres, que parce
+que leur mythologie faisoit présider des dieux à la
+manutention de ces êtres. Ce seroit apparemment
+par une raison contraire qu&#39;ils auroient rapporté au
+<i>genre</i> féminin les noms abstraits des passions, des vertus,
+des vices, des maladies, des sciences, <i>&amp;c.</i> parce 
+qu&#39;ils avoient érigé presque tous ces objets en autant 
+de déesses, ou qu&#39;ils les croyoient sous le gouvernement 
+immédiat de quelque divinité femelle.
+</p>
+<p>
+Les Romains qui furent laboureurs dès qu&#39;ils furent 
+en société politique, regarderent la terre &amp; ses
+parties comme autant de meres qui nourrissoient les
+hommes. Ce fut sans doute une raison d&#39;analogie
+pour déclarer féminins les noms des régions, des provinces,
+des iles, des villes, <i>&amp;c.</i>
+</p>
+<p>
+Des vûes particulieres fixerent les <i>genres</i> d&#39;une infinité 
+d&#39;autres noms. Les noms des arbres sauvages,
+<i>oleaster, pinaster</i>, &amp;c. furent regardés comme masculins,
+parce que semblables aux mâles, ils demeurent 
+en quelque sorte stériles, si on ne les allie avec
+quelque autre espece d&#39;arbres fruitiers. Ceux-ci au
+contraire portent en eux-mêmes leurs fruits comme
+des meres ; leurs noms dûrent être féminins. Les minéraux 
+&amp; les monstres sont produits &amp; ne produisent 
+rien ; les uns n&#39;ont point de sexe, les autres en
+ont en vain : de-là le <i>genre</i> neutre pour les noms <i>metallum, aurum, oes</i>, &amp;c. &amp; pour le nom <i>monstrum</i>,
+qui est en quelque sorte la dénomination commune
+des crimes <i>stuprum, furtum, mendacium</i>, &amp;c. parce
+qu&#39;on ne doit effectivement les envisager qu&#39;avec
+l&#39;horreur qui est dûe aux monstres, &amp; que ce sont
+de vrais monstres dans l&#39;ordre moral.
+</p>
+<p>
+D&#39;autres peuples qui auront envisagé les choses
+sous d&#39;autres aspects, auront réglé les <i>genres</i> d&#39;une
+maniere toute différente ; ce qui sera masculin dans
+une langue sera féminin dans une autre : mais décidés 
+par des considérations purement arbitraires, ils
+ne pourront tous établir pour leurs <i>genres</i> que des regles 
+sujettes à quantité d&#39;exceptions. Quelques noms
+seront d&#39;un <i>genre</i> par la raison du sexe, d&#39;autres à
+cause de leur terminaison, un grand nombre par pur
+caprice ; &amp; ce dernier principe de détermination se
+manifeste assez par la diversité des <i>genres</i> attribués à
+<milestone unit="column" n="2" />
+un même nom dans les divers âges de la même langue,
+&amp; souvent dans le même âge. <i>Alvus</i> en latin
+avoit été masculin dans l&#39;origine, &amp; devint ensuite
+féminin ; en françois <i>navire</i>, qui étoit autrefois féminin,
+est aujourd&#39;hui masculin ; <i>duché</i> est encore masculin 
+ou féminin.
+</p>
+<p>
+Ce seroit donc une peine inutile, dans quelque
+langue que ce fût, que de vouloir chercher ou établir des regles propres à faire connoître les <i>genres</i>
+des noms : il n&#39;y a que l&#39;usage qui puisse en donner la
+connoissance ; &amp; quand quelques-uns de nos grammairiens 
+ont suggéré comme un moyen de reconnoître 
+les <i>genres</i>, l&#39;application de l&#39;article <i>le</i> ou <i>la</i> au
+nom dont est question, ils n&#39;ont pas pris garde qu&#39;il
+falloit déjà connoître le <i>genre</i> de ces noms pour y appliquer 
+avec justesse l&#39;un ou l&#39;autre de ces deux articles.
+</p>
+<p>
+Mais ce qu&#39;il y a d&#39;utile à remarquer sur les <i>genres</i>, c&#39;est leur véritable destination dans l&#39;art de la
+parole, leur vraie fonction grammaticale, leur service 
+réel : car voilà ce qui doit en constituer la nature 
+&amp; en fixer la définition. Or un simple coup-d&#39;oeil sur les parties du discours assujetties à l&#39;influence 
+des <i>genres</i>, va nous en apprendre l&#39;usage, &amp; en
+même tems le vrai motif de leur institution.
+</p>
+<p>
+Les noms présentent à l&#39;esprit les idées des objets
+considérés comme étant ou pouvant être les sujets
+de diverses modifications, mais sans aucune attention 
+déterminée à ces modifications. Les modifications 
+elles-mêmes peuvent être les sujets d&#39;autres modifications ; 
+&amp; envisagées sous ce point de vûe, elles
+ont aussi leurs noms comme les substances.
+</p>
+<p>
+Les adjectifs présentent à l&#39;esprit la combinaison
+des modifications avec leurs sujets : mais en déterminant 
+précisément la modification renfermée dans leur
+valeur, ils n&#39;indiquent le sujet que d&#39;une maniere vague,
+qui leur laisse la liberté de s&#39;adapter aux noms
+de tous les objets susceptibles de la même modification : <i>un grand chapeau, une grande difficulté</i>, &amp;c.
+</p>
+<p>
+Pour rendre sensible par une application décidée,
+le rapport vague des adjectifs aux noms, on leur a
+donné dans presque toutes les langues les mêmes formes 
+accidentelles qu&#39;aux noms mêmes, afin de déterminer 
+par la concordance des terminaisons, la
+corrélation des uns &amp; des autres. Ainsi les adjectifs
+ont des nombres &amp; des cas comme les noms, &amp; sont
+comm&#39;eux assujettis à des déclinaisons, dans les langues 
+qui admettent cette maniere d&#39;exprimer les rapports 
+des mots. C&#39;est pour rendre la corrélation des
+noms &amp; des adjectifs plus palpable encore, qu&#39;on a
+introduit dans ces langues la concordance des <i>genres</i>,
+dont les adjectifs prennent les différentes livrées selon 
+l&#39;exigence des conjonctures &amp; l&#39;état des noms au
+service desquels ils sont assujettis.
+</p>
+<p>
+Les verbes servent aussi, à leur façon, pour présenter 
+à l&#39;esprit la combinaison des modifications
+avec leurs sujets ; ils en expriment avec précision
+telle ou telle modification ; ils n&#39;indiquent pareillement 
+le sujet que d&#39;une maniere vague qui leur laisse
+aussi la liberté de s&#39;adapter aux noms de tous les objets 
+susceptibles de la même modification : <i>Dieu veut,
+les rois veulent, nous voulons, vous voulez</i>, &amp;c.
+</p>
+<p>
+En introduisant donc dans les langues l&#39;usage des
+<i>genres</i>, on a pû revêtir les verbes de terminaisons
+relatives à cette distinction, afin d&#39;ôter à leur signification 
+l&#39;équivoque d&#39;une application douteuse au
+sujet auquel elle a rapport : c&#39;est une conséquence
+que les Orientaux ont sentie &amp; appliquée dans leurs
+langues, &amp; dont les Grecs, les Latins, &amp; nous-mêmes n&#39;avons fait usage qu&#39;à l&#39;égard des participes,
+apparemment parce qu&#39;ils rentrent dans l&#39;ordre des
+adjectifs.
+</p>
+<p>
+C&#39;est donc d&#39;après ces usages constatés, &amp; d&#39;après
+les observations précédentes, que nous croyons que,
+<pb n="7:591" facs="V7/ENC_7-591.jpeg" />
+<milestone unit="column" n="1" />
+par rapport aux noms, les <i>genres</i> ne sont que les différentes 
+classes dans lesquelles on les a rangés assez arbitrairement,
+pour servir à déterminer le choix des
+terminaisons des mots qui ont avec eux un rapport
+d&#39;identité; &amp; dans les mots qui ont avec eux ce rapport 
+d&#39;identité, les <i>genres</i> sont les diverses terminaisons 
+qu&#39;ils prennent dans le discours relativement à
+la classe des noms leurs corrélatifs. Ainsi parce qu&#39;il a
+plu à l&#39;usage de la langue latine, que le nom <i>vir</i> fût
+du <i>genre</i> masculin, que le nom <i>mulier</i> fût du <i>genre</i>
+féminin, &amp; que le nom <i>carmen</i> fût du <i>genre</i> neutre ;
+il faut que l&#39;adjectif prenne avec le premier la terminaison 
+masculine, <i>vir pius ;</i> avec le second, la terminaison 
+féminine, <i>mulier pia ;</i> &amp; avec le troisieme,
+la terminaison neutre, <i>carmen pium : pius, pia, pium</i>,
+c&#39;est le même mot sous trois terminaisons différentes,
+parce que c&#39;est la même idée rapportée à des objets
+dont les noms sont de trois <i>genres</i> différens.
+</p>
+<p>
+Il nous semble que cette distinction des noms &amp;
+des adjectifs est absolument nécessaire pour bien établir la nature &amp; l&#39;usage des <i>genres:</i> mais cette nécessité 
+ne prouve-t-elle pas que les noms &amp; les adjectifs
+sont deux especes de mots, deux parties d&#39;oraison
+réellement différentes? M. l&#39;abbé Fromant, dans son
+supplément aux <i>ch. ij. iij. &amp; jv. de la II. partie de la
+Grammaire générale</i>, décide nettement contre M.
+l&#39;abbé Girard, que <i>faire du substantif &amp; de l&#39;adjectif
+deux parties d&#39;oraison différentes, ce n&#39;est pas là poser 
+de vrais principes</i>. Ce n&#39;est pas ici le lieu de justifier 
+ce systeme ; mais nous ferons observer à M. Fromant, que M. du Marsais lui-même, dont il paroît
+admettre la doctrine sur les <i>genres</i>, a été contraint,
+comme nous, de distinguer entre substantif &amp; adjectif,
+pour <i>poser de vrais principes</i>, au-moins à cet
+égard. On ne manquera pas de répliquer que les substantifs 
+&amp; les adjectifs étant deux especes différentes
+de noms, il n&#39;est pas surprenant qu&#39;on distingue les
+uns des autres ; mais que cette distinction ne prouve
+point que ce soient deux parties d&#39;oraison différentes.
+</p>
+<p>
+<blockquote> 
+« Car, dit M. Fromant, comme tout adjectif uniquement 
+employé pour qualifier, est nécessairement 
+uni à son substantif, pour ne faire avec lui
+qu&#39;un seul &amp; même sujet du verbe, ou qu&#39;un seul &amp;
+même régime, soit du verbe soit de la préposition:
+comme on ne conçoit pas qu&#39;une substance puisse
+exister dans la nature sans être revêtue d&#39;un mode 
+ou d&#39;une propriété: comme la propriété est
+ce qui est conçû dans la substance, ce qui ne peut
+subsister sans elle, ce qui la détermine à être d&#39;une
+certaine façon, ce qui la fait nommer telle ; un
+grammairien vraiment logicien voit que l&#39;adjectif
+n&#39;est qu&#39;une même chose avec le substantif ; que
+par conséquent ils ne doivent faire qu&#39;une même
+partie d&#39;oraison ; que le nom est un mot générique
+qui a sous lui deux sortes de noms, savoir le substantif 
+&amp; l&#39;adjectif ».
+</blockquote>
+</p>
+<p>
+Un logicien attentif doit voir &amp; avoüer toutes
+les conséquences de ses principes ; mettons donc à
+l&#39;épreuve la fécondité de celui qu&#39;on avance ici.
+Tout verbe <i>est nécessairement uni à son sujet, pour ne
+faire avec lui qu&#39;un seul &amp; même tout ;</i> il exprime <i>une
+propriété que l&#39;on conçoit dans le sujet, qui ne peut subsister 
+sans le sujet, qui détermine le sujet à être d&#39;une certaine 
+façon, &amp; qui le fait nommer tel : un grammairien
+vraiment logicien doit donc voir que le verbe n&#39;est qu&#39;une
+même chose avec le sujet</i>. On l&#39;a vû en effet, puisque
+l&#39;un est toûjours en concordance avec l&#39;autre, &amp;
+sur le même principe qui fonde la concordance de
+l&#39;adjectif avec le substantif, le principe même d&#39;identité 
+approuvé par M. Fromant : <i>le verbe &amp; le substantif 
+ne doivent donc faire aussi qu&#39;une même partie
+d&#39;oraison</i>. Conséquence absurde qui dévoile ou la
+fausseté ou l&#39;abus du principe d&#39;où elle est déduite ;
+mais elle en est déduite par les mêmes voies que
+<milestone unit="column" n="2" />
+celle à laquelle nous l&#39;opposons, pour détruire, ou
+du-moins pour contre-balancer l&#39;une par l&#39;autre ; ce
+qui suffit actuellement pour la justification du parti
+que nous avons pris sur les <i>genres</i>. Nous renverrons
+à l&#39;<i>article</i> <sc><ref target="head:Nom" type="search">Nom</ref></sc>, les éclaircissemens nécessaires à la
+distinction des noms &amp; des adjectifs. Reprenons notre 
+matiere.
+</p>
+<p>
+C&#39;est à la grammaire particuliere de chaque langue,
+à faire connoître les terminaisons que le bon
+usage donne aux adjectifs, relativement aux <i>genres</i> des
+noms leurs corrélatifs ; &amp; c&#39;est de l&#39;habitude constante 
+de parler une langue qu&#39;il faut attendre la connoissance 
+sûre des <i>genres</i> auxquels elle rapporte les noms
+mêmes. Le plan qui nous est prescrit ne nous permet
+aucun détail sur ces deux objets. Cependant M. du
+Marsais a donné de bonnes observations sur les <i>genres</i> des adjectifs. <i>Voyez</i> <sc><ref target="head:Adjectif" type="search">Adjectif</ref></sc>. Nous allons seulement 
+faire quelques remarques générales sur les
+<i>genres</i> des noms &amp; des pronoms.
+</p>
+<p>
+Parmi les différens noms qui expriment des animaux 
+ou des êtres inanimés, il y en a un très-grand
+nombre qui sont d&#39;un <i>genre déterminé:</i> entre les noms
+des animaux, il s&#39;en trouve quelques-uns qui sont du
+<i>genre commun</i> d&#39;autres qui sont du <i>genre épicene:</i> &amp;
+parmi les noms des êtres inanimés, quelques-uns
+sont <i>douteux</i>, &amp; quelques autres <i>hétérogenes</i>. Voilà autant 
+de termes qu&#39;il convient d&#39;expliquer ici pour faciliter 
+l&#39;intelligence des grammaires particulieres où
+ils sont employés.
+</p>
+<p>
+I. Les noms d&#39;un <i>genre déterminé</i> sont ceux qui
+sont fixés déterminément &amp; immuablement, ou au
+<i>genre</i> masculin, comme <i>pater</i> &amp; <i>oculus</i>, ou au <i>genre</i>
+féminin, comme <i>soror</i> &amp; <i>mensa</i>, ou au <i>genre</i> neutre,
+comme <i>mare</i> &amp; <i>templum</i>.
+</p>
+<p>
+II. A l&#39;égard des noms d&#39;hommes &amp; d&#39;animaux,
+la justesse &amp; l&#39;analogie exigeroient que le rapport
+réel au sexe fût toûjours caractérisé ou par des mots
+différens, comme en latin <i>aries</i> &amp; <i>ovis</i>, &amp; en françois 
+<i>bélier</i> &amp; <i>brebis ;</i> ou par les différentes terminaisons 
+d&#39;un même mot, comme en latin <i>lupus</i> &amp; <i>lupa</i>,
+&amp; en françois <i>loup</i> &amp; <i>louve</i>. Cependant on trouve
+dans toutes les langues des noms, qui, sous la même
+terminaison, expriment tantôt le mâle &amp; tantôt la
+femelle, &amp; sont en conséquence tantôt du <i>genre</i> masculin,
+&amp; tantôt du <i>genre</i> féminin : ce sont ceux-là
+que l&#39;on dit être du <i>genre commun</i>, parce que ce sont
+des expressions communes aux deux sexes &amp; aux
+deux <i>genres</i>. Tels sont en latin <i>bos, sus</i>, &amp;c. on trouve 
+<i>bos mactatus</i> &amp; <i>bos nata, sus immundus</i> &amp; <i>sus pigra ;</i> tel est en françois le nom <i>enfant</i>, puisqu&#39;on dit
+en parlant d&#39;un garçon, <i>le bel enfant ;</i> &amp; en parlant
+d&#39;une fille, <i>la belle enfant, ma chere enfant</i>.
+</p>
+<p>
+On voit donc que quand on employe ces noms
+pour désigner le mâle, l&#39;adjectif corrélatif prend la
+terminaison masculine ; &amp; que quand on indique la
+femelle, l&#39;adjectif prend la terminaison féminine:
+mais la précision qu&#39;il semble qu&#39;on ait envisagée
+dans l&#39;institution des <i>genres</i> n&#39;auroit elle pas été plus
+grande encore, si on avoit donné aux adjectifs une
+terminaison relative au <i>genre</i> commun pour les occasions 
+où l&#39;on auroit indiqué l&#39;espece sans attention
+au sexe, comme quand on dit l&#39;<i>homme est mortel?</i> Il
+ne s&#39;agit ici ni du mâle ni de la femelle exclusivement,
+les deux sexes y sont compris.
+</p>
+<p>
+III. Il y a des noms qui sont invariablement du
+même <i>genre</i>, &amp; qui gardent constamment la même
+terminaison, quoiqu&#39;on les employe pour exprimer
+les individus des deux sexes. C&#39;est une autre espece
+d&#39;irrégularité, opposée encore à la précision qui a
+donné naissance à la distinction des <i>genres ;</i> &amp; cette
+irrégularité vient apparemment de ce que les caracteres 
+du sexe n&#39;étant pas, ou étant peu sensibles
+dans plusieurs animaux, on a décidé les <i>genre</i> de leurs
+noms, ou par un pur caprice, ou par quelque raison
+<pb n="7:592" facs="V7/ENC_7-592.jpeg" />
+<milestone unit="column" n="1" />
+de convenance. Tels sont en françois les noms <i>aigle</i> (<i><ref type="note" target="n20" n="a" /></i>), <i>renard</i>, qui sont toûjours masculins, &amp; les
+noms <i>tourterelle, chauve-souris</i>, qui sont toûjours
+féminins pour les deux sexes. En latin au contraire,
+&amp; ceci prouve bien l&#39;indépendance &amp; l&#39;empire de
+l&#39;usage, les noms correspondans <i>aquila</i> &amp; <i>vulpes</i> sont
+toûjours féminins ; <i>turtur</i> &amp; <i>vespertilio</i> sont toûjours
+masculins. Les Grammairiens disent que ces noms
+sont du <i>genre épicene</i>, mot grec composé de la préposition 
+<foreign lang="greek">ἐπὶ</foreign> <i>suprà</i>, &amp; du mot <foreign lang="greek">κοινὸς</foreign>, <i>communis:</i> les
+noms épicenes ont en effet comme les communs,
+l&#39;invariabilité de la terminaison, &amp; ils ont de plus
+celle du <i>genre</i> qui est unique pour les deux sexes.
+</p>
+<p>
+Il ne faut donc pas confondre le <i>genre commun</i> &amp;
+le <i>genre épicene</i>. Les noms du <i>genre commun</i> conviennent 
+au mâle &amp; à la femelle sans changement
+dans la terminaison ; mais on les rapporte ou au <i>genre</i> masculin, ou au <i>genre</i> féminin, selon la signification 
+qu&#39;on leur donne dans l&#39;occurrence : au <i>genre</i>
+masculin ils expriment le mâle, au <i>genre</i> féminin la
+femelle ; &amp; si on veut marquer l&#39;espece, on les rapporte 
+au masculin, comme au plus noble des deux
+<i>genres</i> compris dans l&#39;espece. Au contraire les noms
+du <i>genre épicene</i> ne changent ni de terminaison ni de
+<i>genre</i>, quelque sens qu&#39;on donne à leur signification ;
+<i>vulpes</i> au féminin signifie &amp; l&#39;espece, &amp; le mâle, &amp;
+la femelle.
+</p>
+<p>
+IV. Quant aux noms des êtres inanimés, on appelle 
+<i>douteux</i> ceux qui sous la même terminaison se
+rapportent tantôt à un <i>genre</i>, &amp; tantôt à un autre:
+<i>dies</i> &amp; <i>finis</i> sont tantôt masculins &amp; tantôt féminins ;
+<i>sal</i> est quelquefois masculin &amp; quelquefois neutre.
+Nous avons également des noms douteux dans notre 
+langue, comme <i>bronze, garde, duché, équivoque</i>, &amp;c.
+</p>
+<p>
+Ce n&#39;étoit pas l&#39;intention du premier usage de répandre 
+des doutes sur le <i>genre</i> de ces mots, quand il
+les a rapportés à différens <i>genres ;</i> ceux qui sont effectivement 
+douteux aujourd&#39;hui, &amp; que l&#39;on peut librement 
+rapporter à un <i>genre</i> ou à un autre, ne sont
+dans ce cas que parce qu&#39;on ignore les causes qui ont
+occasionné ce doute, ou qu&#39;on a perdu de vûe les
+idées accessoires qui originairement avoient été attachées 
+au choix du <i>genre</i>. L&#39;usage primitif n&#39;introduit 
+rien d&#39;inutile dans les langues ; &amp; de même qu&#39;il
+y a lieu de présumer qu&#39;il n&#39;a autorisé aucuns mots
+exactement synonymes, on peut conjecturer qu&#39;aucun 
+n&#39;est d&#39;un <i>genre</i> absolument <i>douteux</i>, ou que l&#39;origine 
+doit en être attribuée à quelque mal-entendu.
+</p>
+<p>
+En latin, par exemple, <i>dies</i> avoit deux sens différens 
+dans les deux <i>genres:</i> au féminin il signifioit <i>un
+tems indéfini ;</i> &amp; au masculin, <i>un tems déterminé, un
+jour</i>. Asconius s&#39;en explique ainsi : Dies <i>feminino</i> genere,
+<i>tempus, &amp; ideò diminutivè</i> diecula <i>dicitur breve tempus 
+&amp; mora:</i> dies <i>horarum duodecim</i> generis <i>masculini
+est, unde</i> hodie <i>dicimus, quasi</i> hoc die. En effet les composés 
+de <i>dies</i> pris dans ce dernier sens, sont tous masculins,
+<i>meridies, sesquidies</i>, &amp;c. &amp; c&#39;est dans le premier 
+sens que Juvenal a dit, <i>longa dies igitur quid
+contulit?</i> c&#39;est-à-dire <i>longum tempus ;</i> &amp; Virg. (xj.
+<i>AEneid.</i>) <i>Multa dies, variusque labor mutabilis aevi rettulit 
+in melius</i>. La méthode de Port-Royal remarque
+que l&#39;on confond quelquefois ces différences ; &amp; cela
+peut être vrai : mais nous devons observer en premier 
+lieu, que cette confusion est un abus si l&#39;usage
+constant de la langue ne l&#39;autorise : en second lieu,
+que les Poëtes sacrifient quelquefois la justesse à la
+commodité d&#39;une licence, ce qui amene insensiblement 
+l&#39;oubli des premieres vûes qu&#39;on s&#39;étoit proposées 
+dans l&#39;origine : en troisieme lieu, que les meilleurs<gap type="hypheneol" />
+<milestone unit="column" n="2" />
+écrivains ont égard autant qu&#39;ils peuvent à ces
+distinctions délicates si propres à enrichir une langue
+&amp; à en caractériser le génie : enfin que malgré leur
+attention, il peut quelquefois leur échapper des fautes,
+qui avec le tems font autorité, à cause du mérite 
+personnel de ceux à qui elles sont échappées.
+</p>
+<p>
+<i>Finis</i> au masculin exprime les extrémités, les bornes 
+d&#39;une chose étendue ; <i>redeuntes inde Ligurum extremo 
+fine</i> (Tite-Liv. <i>lib. XXXIII.</i>) Au féminin il
+désigne cessation d&#39;être ; <i>hoec finis Priami fatorum</i>.
+(Virg. <i>AEneid. ij.</i>)
+</p>
+<p>
+<i>Sal</i> au neutre est dans le sens propre, &amp; au masculin 
+il ne se prend guere que dans un sens figuré. On
+trouve dans l&#39;Eunuque de Térence, <i>qui habet salem
+qui in te est ;</i> &amp; Donat fait là-dessus la remarque suivante : <i>sal neutraliter, condimentum ; masculinum, pro
+sapientia</i>.
+</p>
+<p>
+En françois, <i>bronze</i> au masculin signifie <i>un ouvrage 
+de l&#39;art</i>, &amp; au féminin il en exprime la matiere. On
+dit <i>la garde du roi</i>, en parlant de la totalité de ceux qui
+sont actuellement postés pour garder sa personne, &amp;
+<i>un garde du roi</i>, en parlant d&#39;un militaire aggrégé à
+cette troupe particuliere de sa maison, qui prend son
+nom de cette honorable commission. <i>Duché</i> &amp; <i>Comté</i>
+n&#39;ont pas des différences si marquées ni si certaines
+dans les deux <i>genres ;</i> mais il est vraissemblable qu&#39;ils
+les ont eues, &amp; peut-être au masculin exprimoient-ils 
+<i>le</i> titre, &amp; au féminin, <i>la</i> terre qui en étoit décorée.
+</p>
+<p>
+Qui peut ignorer parmi nous que le mot <i>équivoque</i> est <i>douteux</i>, &amp; qui ne connoît ces vers de Despréaux?
+<lg>
+<i>Du langage françois bisarre hermaphrodite,
+De quel</i> genre <i>te faire</i> équivoque maudite,
+<i>Ou</i> maudit? <i>car sans peine aux rimeurs hazardeux,
+</i></lg></p>
+<p>
+L&#39;usage encor, je crois, laisse le choix des deux.
+Ces vers de Boileau rappellent le souvenir d&#39;une note 
+qui se trouve dans les éditions posthumes de ses
+oeuvres, sur le vers 91. du quatrieme chant de l&#39;art
+poétique : <i>que votre ame &amp; vos moeurs peintes dans vos
+ouvrages</i>, &amp;c. &amp; cette note est très-propre à confirmer 
+une observation que nous avons faite plus haut:
+on remarque donc que dans toutes les éditions l&#39;auteur 
+avoit mis <i>peints dans tous vos ouvrages</i>, attribuant 
+à <i>moeurs</i> le <i>genre</i> masculin ; &amp; que quand on
+lui fit appercevoir cette faute, il en convint sur le
+champ, &amp; s&#39;étonna fort qu&#39;elle eût échappé pendant 
+si long-tems à la critique de ses amis &amp; de ses
+ennemis. Cette faute qui avoit subsisté tant d&#39;années
+sans être apperçue, pouvoit l&#39;être encore plûtard, &amp;
+lorsqu&#39;il n&#39;auroit plus été tems de la corriger ; la juste
+célébrité de Boileau auroit pû en imposer ensuite à
+quelque jeune écrivain qui l&#39;auroit copié, pour l&#39;être
+ensuite lui-même par quelque autre, s&#39;il avoit acquis
+un certain poids dans la Littérature : &amp; voilà <i>moeurs</i>
+d&#39;un <i>genre douteux</i>, à l&#39;occasion d&#39;une faute contre
+laquelle il n&#39;y auroit eu d&#39;abord aucune réclamation,
+parce qu&#39;on ne l&#39;auroit pas apperçue à tems.
+</p>
+<p>
+V. La derniere classe des noms irréguliers dans le
+<i>genre</i>, est celle des <i>hétérogenes</i>. R. R. <foreign lang="greek">ἕτερος</foreign>, <i>autre</i>,
+&amp; <foreign lang="greek">γένος</foreign>, <i>genre</i>. Ce sont en effet ceux qui sont d&#39;un
+<i>genre</i> au singulier, &amp; d&#39;un autre au pluriel.
+</p>
+<p>
+En latin, les uns sont masculins au singulier, &amp;
+neutres au pluriel, comme <i>sibilus, tartarus</i>, plur.
+<i>sibila, tartara:</i> les autres au contraire neutres au
+singulier, sont masculins au pluriel, comme <i>coelum,
+elysium</i>, plur. <i>coeli, elysii</i>.
+</p>
+<p>
+Ceux-ci féminins au singulier sont neutres au pluriel,
+<i>carbasus, supellex ;</i> plur. <i>carbasa, suppellectilia:</i>
+ceux-là neutres au singulier, sont féminins au pluriel ; 
+<i>delicium, epulum ;</i> plur. <i>deliciae, epulae</i>.
+</p>
+<p>
+Enfin quelques-uns masculins au singulier, sont
+<pb n="7:593" facs="V7/ENC_7-593.jpeg" />
+<milestone unit="column" n="1" />
+masculins &amp; neutres au pluriel, ce qui les rend tout-à 
+-la-fois <i>hétérogenes</i> &amp; <i>douteux ; jocus, locus</i>, plur.
+<i>joci</i> &amp; <i>joca, loci</i> &amp; <i>loca:</i> quelques autres au contraire
+neutres au singulier, sont au pluriel neutres &amp; masculins ; 
+<i>fraenum, rastrum ;</i> plur. <i>fraena</i> &amp; <i>fraeni, rastra</i>
+&amp; <i>rastri</i>.
+</p>
+<p>
+<i>Balnaeum</i> neutre au singulier, est au pluriel neutre
+&amp; feminin ; <i>balnea</i> &amp; <i>balneae</i>.
+</p>
+<p>
+Cette sorte d&#39;irrégularité vient de ce que ces noms
+ont eu autrefois au singulier deux terminaisons différentes,
+relatives sans doute à deux <i>genres</i>, &amp; vraisemblablement 
+avec différentes idées accessoires
+dont la memoire s&#39;est insensiblement perdue ; ainsi
+nous connoissons encore la différence des noms féminins,
+<i>malus</i> pommier, <i>prunus</i> prunier, &amp; des
+noms neutres <i>malum</i> pomme, <i>prunum</i> prune ; mais
+nous n&#39;avons que des conjectures sur les différences
+des mots <i>acinus</i> &amp; <i>acinum, baculus</i> &amp; <i>baculum</i>.
+</p>
+<p>
+Il etoit naturel que les pronoms avec une signification 
+vague &amp; propre à remplacer celle de tout autre 
+nom, ne fussent attachés à aucun <i>genre</i> détermine,
+mais qu&#39;ils se rapportassent à celui du nom qu&#39;ils
+représentent dans le discours ; &amp; c&#39;est ce qui est arrivé: <i>ego</i> en latin, <i>je</i> en françois, sont masculins
+dans la bouche d&#39;un homme, &amp; féminins dans celle
+d&#39;une femme : <i>ille <sc>ego qui</sc> quondam</i>, &amp;c. <i>ast <sc>ego
+qu ae</sc> divûm incedo regina</i>, &amp;c. <i>je suis certain, je suis
+certaine</i>. L&#39;usage en a déterminé quelques-uns par
+des formes exclusivement propres à un <i>genre</i> distinct:
+<i>ille, a, ud ; il, elle</i>.
+</p>
+<p>
+<blockquote> 
+« <i>Ce</i> est souvent substantif, dit M. du Marsais,
+c&#39;est le <i>hoc</i> des latins ; alors, quoi qu&#39;en disent les
+grammairiens, <i>ce</i> est du <i>genre</i> neutre : car on ne
+peut pas dire qu&#39;il soit masculin ni qu&#39;il soit féminin ».
+</blockquote>
+</p>
+<p>
+<i>Ce</i> neutre en françois! qu&#39;est ce donc que les <i>genres?</i> Nous croyons avoir suffisamment établi la notion 
+que nous en avons donnée plus haut ; &amp; il en
+résulte très-clairement que la langue françoise
+n&#39;ayant accordé à ses adjectifs que deux terminaisons 
+relatives à la distinction des <i>genres</i>, elle n&#39;en
+admet en effet que deux, qui sont le masculin &amp; le
+féminin ; <i>un bon citoyen, une bonne mere</i>.
+</p>
+<p>
+<i>Ce</i> doit donc appartenir à l&#39;un de ces deux <i>genres ;</i>
+&amp; il est effectivement masculin, puisqu&#39;or donne la
+terminaison masculine aux adjectifs corrélatifs de <i>ce</i>,
+comme <i><sc>ce</sc> que j&#39;avance est <sc>certain</sc></i>. Quelles pouvoient 
+donc être les vûes de notre illustre auteur,
+quand il prétendoit qu&#39;on ne pouvoit pas dire de <i>ce</i>,
+qu&#39;il fût masculin ni qu&#39;il fût féminin? Si c&#39;est parce
+que c&#39;est le <i>hoc</i> des Latins, comme il semble l&#39;insinuer ; 
+disons donc aussi que <i>temple</i> est neutre, comme 
+<i>templum</i>, que <i>montagne</i> est masculin comme <i>mons</i>.
+L&#39;influence de la langue latine sur la nôtre, doit être
+la même dans tous les cas pareils, ou plûtôt elle est
+absolument nulle dans celui-ci.
+</p>
+<p>
+Nous osons espérer qu&#39;on pardonnera à notre
+amour pour la vérité cette observation critique,
+&amp; toutes les autres que nous pourrons avoir occasion 
+de faire par la suite, sur les articles de l&#39;habile
+grammairien qui nous a précédé: cette liberté est
+nécessaire à la perfection de cet ouvrage. Au surplus
+c&#39;est rendre une espece d&#39;hommage aux grands
+hommes que de critiquer leurs écrits : si la critique
+est mal fondée, elle ne leur sait aucun tort aux yeux
+du public qui en juge ; elle ne sert même qu&#39;à mettre
+le vrai dans un plus grand jour : si elle est solide,
+elle empêche la contagion de l&#39;exemple, qui est d&#39;autant
+plus dangereux, que les auteurs qui le donnent
+ont plus de mérite &amp; de poids ; mais dans l&#39;un &amp;
+dans l&#39;autre cas, c&#39;est un aveu de l&#39;estime que l&#39;on a
+bour eux ; il n&#39;y a que les écrivains médiocres qui
+puissent errer sans conséquence.
+</p>
+<p>
+Nous terminerions ici notre article des <i>genres</i>, si
+<milestone unit="column" n="2" />
+une remarque de M. Duclos, sur le <i>chap. v.</i> de la
+<i>ij. partie</i> de la <i>Grammaire générale</i>, n&#39;exigeoit encore
+de nous quelques réflexions.
+<blockquote> 
+« L&#39;institution ou la
+distinction des <i>genres</i>, dit cet illustre académicien,
+est une chose purement arbitraire, qui n&#39;est nullement 
+fondée en raison, qui ne paroit pas avoir le
+moindre avantage, &amp; qui a beaucoup d&#39;inconvéniens ».
+</blockquote>
+Il nous semble que cette décision peut recevoir 
+à certains égards quelques modifications.
+</p>
+<p>
+Les <i>genres</i> ne paroissent avoir été institués que
+pour rendre plus sensible la corrélation des noms &amp;
+des adjectifs ; &amp; quand il seroit vrai que la concordance 
+des nombres &amp; celle des cas, dans les langues
+qui en admettent, auroient suffi pour caractériser
+nettement ce rapport, l&#39;esprit ne peut qu&#39;être satisfait 
+de rencontrer dans la peinture des pensées un
+coup de pinceau qui lui donne pius de fidélité, qui
+la détermine plus sûrement, en un mot, qui éloigne plus infailliblement l&#39;équivoque. Cet accessoire
+étoit peut-être plus nécessaire encore dans les langues 
+où la construction n&#39;est assujettie à aucune loi
+méchanique, &amp; que M. l&#39;abbé Girard nomme <i>transpositives</i>. La corrélation de deux mots souvent très-éloignés,
+seroit quelquefois difficilement apperçue
+sans la concordance des <i>genres</i>, qui y produit d&#39;ailleurs,
+pour la satisfaction de l&#39;oreille, une grande
+variété dans les sons &amp; dans la quantité des syllabes.
+<i>Voyez</i> <sc><ref target="head:Quantité" type="search">Quantité</ref></sc>.
+</p>
+<p>
+Il peut donc y avoir quelqu&#39;exagération à dire
+que l&#39;institution des <i>genres</i> n&#39;est nullement fondée en
+raison, &amp; qu&#39;elle ne paroît pas avoir le moindre
+avantage ; elle est fondée sur l&#39;intention de produire
+les effets mêmes qui en sont la suite.
+</p>
+<p>
+Mais, dit-on, les Grecs &amp; les Latins avoient trois
+<i>genres ;</i> nous n&#39;en avons que deux, &amp; les Anglois n&#39;en
+ont point : c&#39;est donc une chose purement arbitraire.
+Il faut en convenir ; mais quelle conséquence ultérieure 
+tirera t-on de celle-ci? Dans les langues qui
+admettent des cas, il faudra raisonner de la même
+maniere contre leur institution, elle est aussi arbitraire 
+que celle des <i>genres:</i> les Arabes n&#39;ont que trois
+cas. les Allemands en ont quatre, les Grecs en ont
+cinq, les Latins six, &amp; les Arméniens jusqu&#39;à dix,
+tandis que les langues moderne, du midi de l&#39;Europe
+n&#39;en ont point.
+</p>
+<p>
+On repliquera peut-être que si nous n&#39;avons point
+de cas, nous en remplaçons le service par celui des
+prépositions (<i>voyez</i> <sc><ref target="head:Cas" type="search">Cas</ref> <i>&amp;</i> <ref target="head:Préposition" type="search">Préposition</ref></sc>), &amp; par
+l&#39;ordonnance respective des mots (<i>voyez</i> <sc><ref target="head:Construction" type="search">Construction</ref> <i>&amp;</i> <ref target="head:Régime" type="search">Régime</ref></sc>), mais on peut appliquer la même
+observation au service des <i>genres</i>, que les Anglois
+remplacent par la position, parce qu&#39;il est indispensable 
+de marquer la relation de l&#39;adjectif au nom.
+</p>
+<p>
+Il ne reste plus qu&#39;à objecter que de toutes les manieres 
+d&#39;indiquer la relation de l&#39;adjectif au nom, la
+maniere angloise est du moins la meilleure ; elle n&#39;a
+l&#39;embarras d&#39;aucune terminaison : ni <i>genres</i>, ni nombres,
+ni cas, ne viennent arrêter par des difficultés
+factices, les progrès des étrangers qui veulent apprendre 
+cette langue, ou même tendre des piéges
+aux nationaux, pour qui ces variétés arbitraires
+sont des occasions continuelles de fautes. Il faut
+avouer qu&#39;il y a bien de la vérité dans cette remarque,
+&amp; qu&#39;à parler en général, une langue débarrassée 
+de toutes les inflexions qui ne marquent que
+des rapports, seroit plus facile à apprendre que
+toute autre qui a adopté cette maniere ; mais il faut
+avouer aussi que les langues n&#39;ont point été instituées
+pour être apprises par les étrangers, mais pour être
+parlées dans la nation qui en fait usage ; que les fautes 
+des étrangers ne peuvent rien prouver contre une
+langue, &amp; que les erreurs des naturels sont encore
+dans le même cas, parce qu&#39;elles ne sont qu&#39;une
+suite ou d&#39;un défaut d&#39;éducation, ou d&#39;un défaut
+<pb n="7:594" facs="V7/ENC_7-594.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;attention : enfin, que reprocher à une langue un
+procédé qui lui est particulier, c&#39;est reprocher à la
+nation son génie, sa tournure d&#39;idées, sa maniere de
+concevoir, les circonstances où elle s&#39;est trouvée involontairement 
+dans les différens tems de sa durée ;
+toutes causes qui ont sur le langage une influence
+irrésistible.
+</p>
+<p>
+D&#39;ailleurs les vices qui paroissent tenir à l&#39;institution 
+même des <i>genres</i>, ne viennent souvent que d&#39;un
+emploi mal-entendu de cette institution.
+<blockquote> 
+« En féminisant 
+nos adjectifs, nous augmentons encore le
+nombre de nos <i>e</i> muets ».
+</blockquote>
+C&#39;est une pure maladresse.
+Ne pouvoit-on pas choisir un tout autre caractere?
+Ne pouvoit-on pas rappeller les terminaisons 
+des adjectifs masculins à certaines classes, &amp;
+varier autant les terminaisons féminines?
+</p>
+<p>
+Il est vrai que ces précautions, en corrigeant un
+vice, en laisseroient toûjours subsister un autre ; c&#39;est
+la difficulté de reconnoître le <i>genre</i> de chaque nom,
+parce que la distribution qui en a été faite est trop
+arbitraire pour être retenue par le raisonnement, &amp;
+que c&#39;est une affaire de pure mémoire. Mais ce n&#39;est
+encore ici qu&#39;une mal-adresse indépendante de la nature 
+intrinseque de l&#39;institution des <i>genres</i>. Tous les
+objets de nos pensées peuvent se réduire à différentes 
+classes : il y a les objets réels &amp; les abstraits ; les
+corporels &amp; les spirituels ; les animaux, les végétaux,
+&amp; les minéraux ; les naturels &amp; les artificiels,
+<i>&amp;c.</i> Il n&#39;y avoit qu&#39;à distinguer les noms de la même
+maniere, &amp; donner à leurs corrélatifs des terminaisons 
+adaptées à ces distinctions vraiment raisonnées ;
+les esprits éclairés auroient aisément saisi ces points
+de vûe ; &amp; le peuple n&#39;en auroit été embarrassé,
+que parce qu&#39;il est peuple, &amp; que tout est pour lui
+affaire de mémoire. (<i>E. R. M.</i>)
+</p>
+<div2 type="notes">
+<note id="20">
+(<i>a</i>) On dit cependant <i>l&#39;aigle romaine</i>, mais alors il n&#39;est pas
+question de l&#39;animal ; il s&#39;agit d&#39;une enseigne, &amp; peut-être y
+a-t-il ellipse ; <i>l&#39;aigle romaine</i>, au lieu de <i>l&#39;aigle</i> enseigne <i>romaine</i>.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

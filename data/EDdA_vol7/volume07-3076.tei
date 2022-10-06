@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30530" id="55:120" vol="7">
+<index type="head" value="GRUAU" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Gram." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Boulangerie" />
+<index type="pos" value="s.m." />
+<head>GRUAU</head>
+<p>
+GRUAU, s. m. (<i>Gram.</i>) farine d&#39;avoine ou d&#39;orge
+dont on a séparé le son, &amp; qu&#39;on a séchée au four ;
+on en fait de la bouillie ; on en prend au lait &amp; à l&#39;eau.
+C&#39;est un aliment fort sain. <i>Voyez</i> <sc><ref target="head:Farine" type="search">Farine</ref> <i>&amp;</i> <ref target="head:Farineux" type="search">Farineux</ref></sc>.
+</p>
+<p>
+Le <i>gruau</i> est encore une espece de farine grossiere,
+mêlée de son, &amp; qui dans le blé étoit voisine de
+l&#39;écorce. Il y a des <i>gruaux</i> fins &amp; des <i>gruaux</i> gros.
+</p>
+<p>
+Les <i>gruaux fins</i>, c&#39;est la farine au dessous de la
+blanche. Ces <i>gruaux</i> sont les meilleurs.
+</p>
+<p>
+Les <i>gruaux gros</i>, c&#39;est la farine au-dessous des
+<i>gruaux</i> fins.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

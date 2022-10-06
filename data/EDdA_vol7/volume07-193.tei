@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27647" id="48:84" vol="7">
+<index type="head" value="FONTS Baptismaux, ou simplement FONTS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théolog. &amp; Hist. Eccl." />
+<index type="normclass" value="Théologie | Histoire ecclésiastique" />
+<index type="englishclass" value="Theology | Ecclesiastical history" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="NA" />
+<head>FONTS</head>
+<p>
+FONTS <i>Baptismaux</i>, ou simplement FONTS, s.
+m. pl. (<i>Théolog. &amp; Hist. Eccl.</i>) c&#39;est un vaisseau de
+pierre ou de marbre, qui est à l&#39;entrée intérieure
+des églises paroissiales, où l&#39;on conserve l&#39;eau dont
+on se sert pour baptiser. <i>Voyez</i> <sc><ref target="head:Baptême" type="search">Baptême</ref></sc>.
+</p>
+<p>
+Les <i>fonts</i> baptismaux étoient autrefois la marque
+d&#39;une église paroissiale. <i>Voyez les articles</i> <sc><ref target="head:Paroisse" type="search">Paroisse</ref> <i>&amp;</i> <ref target="head:Église" type="search">Église</ref></sc>.
+</p>
+<p>
+Les <i>fonts</i> baptismaux sont aujourd&#39;hui auprès de
+<pb n="7:108" facs="V7/ENC_7-108.jpeg" />
+<milestone unit="column" n="1" />
+la porte en-dedans de l&#39;église, ou dans une chapelle
+de l&#39;église. Mais autrefois ils étoient dans un bâtiment 
+séparé, différent de la basilique, mais voisin:
+&amp; qu&#39;on nommoit <i>baptistere. Voyez</i> <sc><ref target="head:Baptistere" type="search">Baptistere</ref></sc>.
+</p>
+<p>
+Si l&#39;on en croit certains historiens, il étoit assez
+ordinaire dans les premiers siecles de l&#39;église, que
+les <i>fonts</i> baptismaux se remplissent miraculeusement
+à Pâques, qui étoit le tems où l&#39;on baptisoit le plus.
+Baronius rapporte divers exemples de ces <i>fonts</i> miraculeux 
+aux années <i>417. 554</i>. &amp; <i>555</i>.
+</p>
+<p>
+Possevin, évêque de Lilybée, qui écrivoit en 443,
+observe qu&#39;en 417, sous le Pontificat de Zozime, il
+y eut erreur par rapport au tems de la célébration
+de la fête de Pâques ; qu&#39;on la célebra le 22 de Mars,
+au lieu qu&#39;elle devoit l&#39;être le 22 d&#39;Avril, qu&#39;on la
+fit à Constantinople. Il ajoûte que Dieu fit voir cette
+erreur en un village, où les <i>fonts</i> qui avoient accoûtumé 
+de se remplir miraculeusement à Pâques, ne se
+trouverent pleins que la nuit du 22 d&#39;Avril ; mais
+cette histoire n&#39;est pas de foi. <i>Voyez</i> Tillemont, <i>Hist.
+eccles. tome X. pag. 678.</i> &amp; <i>679</i>. Gregoire de Tours,
+<i>pag. 320. 516. 746. 950. 1063. &amp; le Diction. de Trévoux. Chambers</i>.
+</p>
+<p>
+Dans l&#39;Eglise romaine on fait solemnellement
+deux fois l&#39;année la bénédiction des <i>fonts</i> baptismaux ;
+savoir la veille de Pâques, &amp; la veille de la Pentecôte. On bénit ces jours-là l&#39;eau destinée pour le baptême.
+Les cérémonies &amp; les oraisons qu&#39;on y employe,
+sont toutes relatives à l&#39;ancien usage de baptiser 
+en ces jours-là les Catéchumenes. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

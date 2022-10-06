@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29749" id="53:201" vol="7">
+<index type="head" value="GOA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GOA</head>
+<p>
+GOA, (<i>Géog.</i>) ville d&#39;Asie dans la presqu&#39;ile en-deçà 
+du Gange ; Alphonse d&#39;Albuquerque l&#39;enleva
+au roi de Décan en 1508, &amp; la conserva pour son
+maître en 1529: elle fut érigée en archevêché en
+1552, &amp; son archevêque eut le titre magnifique de
+<i>primat des Indes</i>.
+</p>
+<p>
+<i>Goa</i> étoit alors la clé du commerce d&#39;orient, &amp;
+l&#39;une des plus opulentes villes du monde : c&#39;étoit
+encore l&#39;endroit où il se vendoit le plus d&#39;esclaves,
+&amp; l&#39;on y trouvoit même à acheter les plus
+belles femmes de l&#39;Inde. Tout cela n&#39;a plus lieu ; il ne
+reste à <i>Goa</i> qu&#39;un viceroi, un inquisiteur, des moines,
+&amp; une dixaine de mille habitans de nations &amp;
+de religions différentes, tous réduits à une extreme
+misere ; mais l&#39;on y garde toûjours dans un superbe
+tombeau de l&#39;église des Jésuites, le corps de S. François Xavier, surnommé l&#39;<i>apôtre des Indes</i>. On sait
+que cet ami d&#39;Ignace de Loyola, né au pie des Pyrenées, se rendit à <i>Goa</i> le 6 Mai 1542, pour y prêcher
+l&#39;évangile, &amp; qu&#39;il mourut dans l&#39;ile de Sancian, à
+23 lieues des côtes de la Chine, le 2 Decembre 1552,
+âgé de quarante-six ans.
+</p>
+<p>
+La ville de <i>Goa</i> est sous la zone torride, dans une
+île de neuf lieues de tour, qui renferme plusieurs villages 
+sur la Mandoua, avec un port admirable &amp;
+quelques forteresses. <i>Long.</i> suivant le P. Noël &amp; Cassini, <i>91<sup>d</sup>. 16&#39;. 30&#39;&#39;.</i> &amp; suivant le P. Bouchet, <i>93<sup>d</sup>.
+55&#39;. latit. 15<sup>d</sup>. 31&#39;</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

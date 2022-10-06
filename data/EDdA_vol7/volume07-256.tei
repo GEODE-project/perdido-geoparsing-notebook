@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27710" id="49:15" vol="7">
+<index type="head" value="FORER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Arts méchan. en fer, en bois, en cuivre &amp; en métaux." />
+<index type="normclass" value="Méchanique" />
+<index type="englishclass" value="Mechanical arts" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="v.act." />
+<head>FORER</head>
+<p>
+* FORER, v. act. (<i>Arts méchan. en fer, en bois,
+en cuivre &amp; en métaux.</i>) c&#39;est percer un trou dans une
+piece. Pour <i>forer</i>, l&#39;ouvrier prend un foret (<i>Voyez
+l&#39;article</i> <sc><ref target="head:Foret" type="search">Foret</ref></sc>); il le choisit selon le trou &amp; la matiere 
+qu&#39;il doit percer. Il prend la palette (<i>Voyez l&#39;article</i> <sc><ref target="head:Pallette" type="search">Pallette</ref></sc>); il monte le foret sur l&#39;arson (<i>Voy.
+l&#39;article</i> <sc><ref target="head:Arson" type="search">Arson</ref></sc>); il place le bout arrondi du foret
+dans une des petites cavités pratiquées au morceau
+de fer qui occupe le milieu de la palette. Il appuie
+la pointe du foret contre la piece à percer, qui doit
+être arrêtée dans un étau. Il fait mouvoir ou tourner 
+sur lui-même le foret, dont il a soin de tremper
+de tems en tems la pointe dans l&#39;huile, pour empêcher 
+qu&#39;elle ne se détrempe, &amp; le trou se fait. Lorsqu&#39;il est sur le point d&#39;être achevé, ce qui se reconnoît 
+à une petite bosse ou lentille qui se forme au côté 
+de la piece opposé à celui que l&#39;on perce, l&#39;ouvrier
+tourne le foret moins vîte, &amp; le presse moins fort
+contre la piece : sans cette précaution, la pointe du
+foret venant à traverser la piece subitement &amp; avec
+violence, le foret pourroit être cassé.
+</p>
+<p>
+On appelle cette maniere de forer, <i>forer à la palette ;</i> mais on fore à la machine. Substituez à la palette 
+un morceau de fer coudé des bouts en équerre ;
+imaginez sur ces deux bouts coudés perpendiculairement,
+un foret arrêté &amp; mobile, précisément de la
+même maniere que l&#39;arbre d&#39;un tour ordinaire l&#39;est
+sur le tour ; faites passer la corde de l&#39;arson sur la
+boîte du foret ; faites tourner le foret, &amp; appliquez
+fortement la piece à percer contre la pointe du foret.
+</p>
+<p>
+Ainsi en forant à la palette, on presse le foret contre 
+la piece ; au contraire en forant à la machine, on
+presse la piece contre le foret. <i>Voyez, dans nos <ref target="XPL:4756" type="platelink">Planches de Serrurerie</ref>, une machine à forer</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

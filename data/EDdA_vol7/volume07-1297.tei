@@ -1,0 +1,194 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28751" id="51:75" vol="7">
+<index type="head" value="GAGEURE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Analyse des hasards." />
+<index type="normclass" value="Analyse des hasards" />
+<index type="englishclass" value="Calculus of probabilities" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.f." />
+<head>GAGEURE</head>
+<p>
+GAGEURE, s. f. (<i>Analyse des hasards.</i>) est la
+même chose que <i>pari</i>, qui est plus usité en cette rencontre.
+<i>Voyez</i> 
+<sc><ref target="head:Pari" type="search">Pari</ref>, <ref target="head:Jeu," type="search">Jeu,</ref> <i>&amp;</i> <ref target="head:Gageure" type="search">Gageure</ref></sc>
+ (<i>Jurisprud.</i>)
+</p>
+<p>
+Cet article nous fournit une occasion que nous
+cherchions d&#39;inserer ici de très-bonnes objections
+qui nous ont été faites sur ce que nous avons dit <i>au
+mot</i> <sc><ref target="head:Croix ou Pile" type="search">Croix ou Pile</ref></sc>, de la maniere de calculer l&#39;avantage 
+à ce jeu si commun. Nous prions le lecteur
+de vouloir bien d&#39;abord relire le commencement de
+cet <i>article</i> <sc><ref target="head:Croix ou Pile" type="search">Croix ou Pile</ref></sc>. Voici maintenant les objections 
+que nous venons d&#39;annoncer. Elles sont de
+M. Necker le fils, citoyen de Genève, professeur
+de Mathématiques en cette ville, correspondant de
+l&#39;académie royale des Sciences de Paris, &amp; auteur
+de l&#39;<i>article</i> <sc><ref target="head:Frottement" type="search">Frottement</ref></sc> ; nous les avons extraites
+d&#39;une de ses lettres.
+</p>
+<p>
+<blockquote> 
+« On demande la probabilité qu&#39;il y a d&#39;amener
+croix en deux coups. Vous dites qu&#39;il n&#39;y a que
+trois évenemens possibles, 1°. croix d&#39;abord, 2°.
+pile &amp; croix, 3°. pile &amp; pile ; &amp; comme de ces évenemens deux sont favorables &amp; un nuisible, vous
+concluez que la probabilité d&#39;amener croix en deux
+coups, est de deux contre un, Cette conclusion
+<pb n="7:421" facs="V7/ENC_7-421.jpeg" />
+<milestone unit="column" n="1" />
+suppose deux choses ; 1°. que cette énumération de
+tous les évenemens possibles est complette ; 2°.
+qu&#39;ils sont tous trois également possibles, <i>aequè proclives</i>, comme dit Bernoulli. Je conviens avec vous
+de la vérité du premier chef ; mais nous différons
+sur le second point. Je crois que la probabilité
+d&#39;amener croix d&#39;abord est double de celle d&#39;amener 
+pile &amp; croix ou pile &amp; pile. La preuve directe 
+que je crois en avoir, est celle-ci. Il est aussi
+facile d&#39;amener croix d&#39;abord que pile d&#39;abord ;
+mais il est bien plus probable qu&#39;on amenera pile
+d&#39;abord, que pile &amp; croix : car pour amener pile &amp;
+croix, il faut non-seulement amener pile d&#39;abord,
+mais après avoir amené pile, il faut ensuite amener 
+croix ; second évenement aussi difficile que le
+premier. S&#39;il étoit aussi facile d&#39;amener en deux
+coups pile &amp; pile que pile en un coup, il seroit
+par la même raison encore de la même facilité d&#39;amener 
+pile, pile, &amp; pile en trois coups, &amp; en général 
+d&#39;amener <i>n</i> coups ; cependant
+qui est-ce qui ne trouve pas incomparablement
+plus probable d&#39;amener pile en un coup, que d&#39;amener 
+pile cent fois de suite? Voici une autre façon 
+d&#39;envisager la chose. Ou j&#39;amenerai croix du
+premier coup, ou j&#39;amenerai pile. Si j&#39;amene
+croix, je gagne toute la mise de l&#39;autre ; si j&#39;amene
+pile, je ne perds ni ne gagne, parce qu&#39;ensuite au
+second jet j&#39;ai une espérance égale à la sienne.
+Donc, puisque j&#39;ai chance égale à avoir sa mise
+ou à n&#39;avoir rien, c&#39;est comme s&#39;il rachetoit tout
+son risque, en me donnant la moitié de sa mise. Or
+la moitié de sa mise qu&#39;il me donne, avec la mienne 
+que je rattrape, fait les 3/4 du tout, &amp; l&#39;autre
+moitié de sa mise qu&#39;il garde fait l&#39;autre quart du
+tout : j&#39;ai donc trois parts, &amp; lui une ; ma probabilité 
+de réussir étoit donc de 3 contre 1. Mais voici 
+quelque chose de plus décisif. Il suivroit de votre 
+façon, Monsieur, de compter les probabilités,
+qu&#39;on ne pourroit en aucun nombre de coups gager 
+avec parité d&#39;amener la face <i>A</i> d&#39;un dez à trois
+faces <i>A, B, C ;</i> car vous la trouverez toûjours de
+2<sup>n</sup>-1 contre 2<sup>n</sup>, <i>n</i> étant le nombre de coups dans
+lequel on entreprend d&#39;amener la face <i>A</i>. Voici en
+effet tous les cas possibles en quatre coups, par
+exemple:»
+</blockquote>
+<gap type="table" />
+</p>
+<p>
+Il est aisé de voir qu&#39;il y a ici 15 cas favorables
+&amp; 16 défavorables ; de façon qu&#39;il y a 2<sup>4</sup>-1 contre 
+2<sup>4</sup>, qu&#39;on amenera la face <i>A</i>. Il me paroît donc
+certain que le cas <i>A</i> ne peut pas être regardé comme
+n&#39;étant pas plus probable que le cas <i>B, C, B, B,</i> &amp;c.
+</p>
+<p>
+Ces objections, sur-tout la derniere, méritent sans
+doute beaucoup d&#39;attention. Cependant il me paroît 
+toûjours difficile de bien expliquer pourquoi
+&amp; comment l&#39;avantage peut être triple, lorsqu&#39;il n&#39;y
+a que deux coups favorables ; &amp; on conviendra du moins 
+que la méthode ordinaire par laquelle on estime 
+les probabilités dans ces sortes de jeux, est
+très-fautive, quand même on prétendroit que le
+résultat de cette méthode seroit exact ; c&#39;est ce que
+nous examinerons plus à fond aux <i>articles</i> 
+<sc><ref target="head:Jeu" type="search">Jeu</ref>, <ref target="head:Pari" type="search">Pari</ref>, <ref target="head:Probabilité" type="search">Probabilité</ref></sc>
+, <i>&amp;c.</i> (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

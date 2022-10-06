@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27753" id="49:42:1" vol="7">
+<index type="head" value="Formalites" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f.pl." />
+<head>Formalites</head>
+<p>
+<sc>Formalites</sc>, s. f. pl. (<i>Jurispr.</i>) sont de certaines 
+clauses ou certaines conditions, dont les actes
+doivent être revêtus pour être valables.
+</p>
+<p>
+Les actes sous seing privé ou devant notaires,
+entrevifs on à cause de mort, les procédures &amp; jugemens,
+sont chacun sujets à de certaines <i>formalites</i>.
+</p>
+<p>
+On en distingue de quatre sortes ; savoir celles
+qui habilitent la personne, comme l&#39;autorisation de
+la femme par son mari, &amp; le consentement du pere
+de familie dans l&#39;obligation que contracte le fils de
+familie ; celles qui servent à rendre l&#39;acte parfait,
+probant &amp; authentique, qu&#39;on appelle <i>formalités extérieures</i>, comme la signature des parties, des témoins 
+&amp; du notaire ; d&#39;autres aussi extérieures qui
+servent à assurer l&#39;exécution d&#39;un acte, lequel quoique 
+parfait d&#39;ailleurs, ne seroit pas exécuté sans ces
+<i>formalites</i>, comme sont l&#39;insinuation &amp; le contrôle:
+enfin il y en a d&#39;autres qui sont intérieures, ou de la
+substance de l&#39;acte, &amp; sans lesquelles on ne peut disposer 
+des biens, comme l&#39;institution d&#39;un héritier
+dans un testament en pays de droit écrit, l&#39;obligation 
+où sont les peres dans ces mêmes pays, de laisser 
+la légitime à leurs enfans à titre exprès d&#39;institution.
+</p>
+<p>
+Les <i>formalités</i> qui touchent la personne se reglent
+par la loi ou coutume du domicile : celles qui touchent 
+l&#39;acte se reglent par la loi du lieu où il est passé,
+suivant la maxime <i>locus regit actum:</i> celles qui
+touchent les biens se reglent par la loi du lieu où
+ils sont situés ; on peut mettre l&#39;insinuation dans
+cette derniere classe.
+</p>
+<p>
+Il y a des <i>formalités</i> essentielles &amp; de rigueur, dont
+l&#39;observation est prescrite par la loi à peine de nullité 
+de l&#39;acte, comme la signature des parties, des
+témoins &amp; du notaire.
+</p>
+<p>
+Mais il y a aussi d&#39;autres <i>formalités</i> ou formes qui,
+quoique suivies ordinairement, ne sont pas absolument 
+nécessaires, à peine de nullité; telles que sont
+la plûpart des clauses de style des greffiers, notaires,
+huissiers, qui peuvent être suppléées par d&#39;autres 
+termes équipolens, &amp; même quelques-unes être
+<milestone unit="column" n="2" />
+entierement omises sans que l&#39;acte en soit moins valable.
+<i>Voyez ci-après</i> <sc><ref target="head:Forme" type="search">Forme</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

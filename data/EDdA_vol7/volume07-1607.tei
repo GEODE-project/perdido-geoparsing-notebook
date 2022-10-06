@@ -1,0 +1,206 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29061" id="51:235:68" vol="7">
+<index type="head" value="Gardes-Scels des Jurisdictions royales et subalternes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gardes-Scels des Jurisdictions royales</head>
+<p>
+<sc>Gardes-Scels des Jurisdictions royales
+et subalternes</sc>, sont ceux qui ont la <i>garde</i> du
+petit scel dont les expéditions du tribunal doivent
+être scellées.
+</p>
+<p>
+Anciennement chaque juge avoit son sceau ou cachet 
+particulier, dont il scelloit lui-même tous les
+jugemens &amp; autres actes émanés de sa jurisdiction,
+&amp; même les contrats &amp; autres actes que l&#39;on vouloit
+mettre à exécution.
+</p>
+<p>
+Le châtelet de Paris fut le premier siége qui commença 
+à user du scel royal, du tems de S. Louis.
+</p>
+<p>
+Il y avoit dès-lors au châtelet un officier appellé
+<i>scelleur</i>, dont la fonction étoit d&#39;apposer le scel aux
+jugemens &amp; mandemens émanés du tribunal ; ce qui
+subsiste encore présentement.
+</p>
+<p>
+On donna aussi aux autres siéges royaux des sceaux
+aux armes du roi, pour sceller tous les jugemens &amp;
+autres actes passés dans le détroit de la jurisdiction.
+Mais Charles IX. étant informé que dans plusieurs
+jurisdictions royales les juges apposoient encore leurs
+sceaux, marques, cachets, ou signatures, au lieu du
+scel royal, ou bien les sceaux des villes, &amp; qu&#39;il se
+commettoit encore d&#39;autres abus, créa par édit du
+mois de Juin 1568, des <i>gardes des sceaux</i> dans toutes
+les jurisdictions royales, excepté dans les chancelleries 
+&amp; présidiaux, pour sceller tous les jugemens &amp;
+contrats que l&#39;on veut mettre à exécution.
+</p>
+<p>
+Cet édit fut interprété &amp; confirmé par plusieurs
+autres des 8 Février 1571, Mai &amp; Décembre 1639,
+Juin 1640, &amp; autres ; en conséquence desquels il fut
+<milestone unit="column" n="2" />
+établi des <i>gardes des sceaux</i> dans la plûpart des jurisdictions 
+royales.
+</p>
+<p>
+Depuis, par édit du mois de Novembre 1696,
+Louis XIV. supprima tous ces offices de <i>gardes-scels</i>,
+soit qu&#39;ils eussent été établis en conséquence des édits
+de Juin 1568 &amp; autres postérieurs, ou que lesdits offices 
+ou les titres &amp; fonctions d&#39;iceux, eussent été
+joints &amp; unis à d&#39;autres offices rétablis oû réunis au
+domaine du roi ; à l&#39;exception néanmoins des offices
+de <i>gardes-scels</i> créés depuis l&#39;année 1688: &amp; au lieu
+de ces offices de <i>gardes-scels</i> simplement, il créa par
+le même édit dans toutes les jurisdictions royales un
+conseiller du roi <i>garde-scel</i>, pour sceller tous les jugemens 
+&amp; autres expéditions, contrats &amp; actes des
+notaires &amp; tabellions royaux, qui furent joints &amp;
+attribués au <i>garde-scel</i>, avec attribution des mêmes
+fonctions, autorités, priviléges, droits, rang, séance,
+voix délibérative, part aux épices &amp; distribution 
+des procès, que les autres conseillers &amp; officiers
+des jurisdictions royales.
+</p>
+<p>
+Par une déclaration du 18 Juin 1697, les offices
+&amp; droits de <i>garde-scels</i> des contrats &amp; actes des notaires 
+&amp; tabellions royaux, furent desunis de ceux
+des sentences &amp; actes des jurisdictions royales, pour
+être vendus séparément. <i>Voyez</i> 
+<sc><ref target="head:Garde-Scel aux Contrats" type="search">Garde-Scel aux Contrats</ref></sc>.
+</p>
+<p>
+Enfin par une autre déclaration du 17 Décembre
+suivant, Louis XIV. rétablit tous les offices de <i>garde-scels</i>
+qui étoient établis avant l&#39;édit du mois de Novembre
+1696, dans les bailliages, sénéchaussées, vicomtés,
+prevôtés, vigueries, châtellenies, &amp; autres
+jurisdictions royales ordinaires, à l&#39;exception de ceux
+du châtelet &amp; des autres jurisdictions de la ville de
+Paris, pour laquelle l&#39;exécution de l&#39;édit de 1696 fut
+ordonnée.
+</p>
+<p>
+La même déclaration ordonna que les propriétaires 
+des anciens offices de <i>garde-scels</i> en joüiroient,
+comme ils faisoient avant l&#39;édit de 1696, sans être
+tenus d&#39;acquérir ni de se faire pourvoir, si bon ne leur
+sembloit, des offices de conseillers-<i>gardes-scels</i> créés
+par le même édit de 1696; desquels offices de conseillers 
+le roi se réserva de disposer comme il jugeroit à propos, avec faculté néanmoins aux propriétaires
+des anciens offices de <i>garde-scels</i>, aux compagnies,
+ou autres particuliers, d&#39;acquérir ces offices de conseillers.
+</p>
+<p>
+A l&#39;égard des jurisdictions des provinces &amp; généralités 
+où les offices &amp; droits de <i>garde-scels</i> n&#39;étoient
+pas rétablis avant l&#39;édit du mois de Novembre 1696,
+le roi par la déclaration du 17 Septembre 1697, unit
+aux corps des jurisdictions lesdits offices de conseillers-<i>garde-scels</i> créés par édit du mois de Novembre
+1696, avec faculté auxdites jurisdictions de joüir desdits 
+offices en commun, ou de les vendre, même les
+droits y attachés.
+</p>
+<p>
+Il a été défendu aux <i>gardes-scels des jurisdictions
+royales</i>, par plusieurs réglemens, &amp; notamment par
+une déclaration du 16 Mars 1576, de sceller aucun
+des actes qui sont du fait des chancelleries établies
+près des cours ou présidiaux. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

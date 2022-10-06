@@ -1,0 +1,113 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29148" id="52:4:2" vol="7">
+<index type="head" value="Garniture" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Bijoutier" />
+<index type="normclass" value="Bijoutier" />
+<index type="englishclass" value="Jeweller" />
+<index type="generatedclass" value="Bijoutier" />
+<index type="pos" value="NA" />
+<head>Garniture</head>
+<p>
+<sc>Garniture</sc>, <i>en terme de Bijoutier</i>, est une tabatiere 
+dont l&#39;encadrement seulement est d&#39;or : il y en
+a de deux sortes. La premiere se nomme <i>cage:</i> les
+moulures, fermetures, charnieres &amp; revétissement
+des coins sont d&#39;or ; &amp; les dessus, dessous &amp; bastes
+sont de cailloux, nacres, écailles, émaux, porcelaines,
+lacqs, ou autres choses qui ne sont point
+d&#39;or ; cette sorte de tabatiere forme le tableau encadré 
+sur ses six parties. <i>Voyez</i> <sc><ref target="head:Cage" type="search">Cage</ref></sc>. La seconde
+se nomme simplement <i>garniture</i> ou <i>garniture à cuvette</i>, parce que ce n&#39;est qu&#39;une fermeture garnie de
+sa charniere, surmontée d&#39;une moulare, &amp; qui encadre 
+deux morceaux de cailloux, porcelames ou
+émaux dont le dessous est taillé en cuvette ; quand
+ces sortes de cuvettes ne sont pas assez hautes pour
+former une tabatiere de hauteur raisonnable, on
+soude à la fermeture une demi-boîte d&#39;or, au bas
+de laquelle est attachée la sertissure qui doit encadrer 
+la cuvette ; dans le cas où ces cuvettes sont de
+hauteur desirée, la sertissure se trouve attachée au
+bas de la fermeture.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

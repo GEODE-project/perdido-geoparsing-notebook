@@ -1,0 +1,169 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29202" id="52:42" vol="7">
+<index type="head" value="GAUDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton &amp; Jaucourt" />
+<index type="shortauth" value="Daubenton &amp; Jaucourt" />
+<index type="kafnum" value="33 &amp; 60" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. bot." />
+<index type="normclass" value="Histoire naturelle | Botanique" />
+<index type="englishclass" value="Natural history. Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GAUDE</head>
+<p>
+GAUDE, s. f. <i>luteola</i>, (<i>Hist. nat. bot.</i>) genre de
+plante à fleur polypélate &amp; anomale, car elle est
+composée de plusieurs pétales différens les uns des
+autres ; il sort du calice un pistil qui devient un fruit
+presque rond, creux &amp; rempli de semences arrondies.
+Tournefort, <i>inst. rei herb. Voyez</i> <sc><ref target="head:Plante" type="search">Plante</ref></sc>. (<i>I</i>)
+</p>
+<p>
+La <i>gaude</i> ou la <i>luteola salicis folio</i> des Botanistes,
+Bauh. Tournef. Boerh. <i>&amp;c.</i> est le <i>reseda foliis simplicibus 
+lanceolatis integris</i>, de Linnaeus, <i>hort cliff. 212.</i>
+</p>
+<p>
+Sa racine est ordinairement grosse comme le petit
+doigt, quelquefois de la grosseur du pouce, simple,
+ligneuse, blanche, garnie d&#39;un très-petit nombre de
+fibres, d&#39;un goût âcre, approchant du cresson ; elle
+pousse des feuilles oblongues, étroites, lisses, entieres 
+&amp; sans crénelures, quelquefois un peu frisées ;
+il s&#39;éleve d&#39;entr&#39;elles des tiges à la hauteur de trois
+piés, rondes, dures, lisses, verdâtres, rameuses,
+revêtues de feuilles plus petites que celles d&#39;en-bas,
+&amp; garnies le long de leurs sommités de petites fleurs
+composées chacune de trois pétales inégaux, d&#39;une
+belle couleur jaune verdâtre. Quand ces fleurs sont
+passées, il leur succede des capsules presque rondes,
+terminées par trois pointes, renfermant plusieurs semences 
+menues, arrondies, noirâtres.
+</p>
+<p>
+Lacuna, Gesner, Honorius Bellus &amp; Dale, se sont
+persuadés que la <i>gaude</i> est le <i>strathium</i> des anciens ;
+mais vraissemblablement nous ignorerons toûjours
+ce que c&#39;étoit que leur <i>strathium</i> dont ils ont tant
+parlé, &amp; qu&#39;ils n&#39;ont point décrit. <i>Voyez</i> <sc><ref target="head:Strathium" type="search">Strathium</ref></sc>.
+</p>
+<p>
+La <i>gaude</i> fleurit en Mai, &amp; sa graine mûrit en Juin
+&amp; en Juillet. Cette plante croît d&#39;elle-même dans
+<milestone unit="column" n="2" />
+presque toutes les provinces du royaume, à cinq ou
+six lieues de Paris, &amp; particulierement à Pontoise:
+il paroît qu&#39;elle aime les lieux incultes, le long des
+chemins, les bords des champs, les murailles &amp; les
+décombres ; mais la <i>gaude</i> qu&#39;on cultive est bien
+meilleure que celle qui vient naturellement, &amp; on
+y donne beaucoup de soin à cause de son utilité
+pour la teinture, car on n&#39;en fait point d&#39;usage en
+Medecine.
+</p>
+<p>
+On la some claire au mois de Mars ou de Septembre, dans des terres legeres &amp; bien labourées, &amp;
+elle se trouve mûre au mois de Mai ou de Juillet ; il
+faut seulement la sarcler quand elle leve. Dans les
+pays chauds, comme en Languedoc, elle est souvent
+assez seche lorsqu&#39;on la recueille ; mais dans les pays
+tempérés, comme en Normandie, en Picardie &amp; en
+plusieurs autres lieux, il est essentiel de la faire sécher 
+exactement. Il faut encore observer de ne la
+point couper qu&#39;elle ne soit mûre, &amp; d&#39;empêcher
+qu&#39;elle ne se mouille quand elle est cueillie. En la
+cueillant, il faut la couper à fleur de terre.
+</p>
+<p>
+Les Teinturiers regardent la <i>gaude</i> la plus menue &amp;
+la plus roussette comme la meilleure ; ils la font bouillir 
+avec de l&#39;alun, pour teindre les laines &amp; les étoffes en couleur jaune &amp; en couleur verte ; savoir les
+blanches en jaune, &amp; en verd les étoffes qui ont été
+préalablement mises au bleu. Suivant les réglemens
+de France, les céladons, verd de pomme, verd de
+mer, verd naissant &amp; verd gai, doivent être alunés,
+ensuite gaudés avec <i>gaude</i> ou sarrelle, &amp; puis passés
+sur la cuve d&#39;inde. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

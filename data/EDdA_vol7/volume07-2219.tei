@@ -1,0 +1,199 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29673" id="53:145" vol="7">
+<index type="head" value="GLAUCOME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Aumont &amp; Louis" />
+<index type="shortauth" value="d&#39;Aumont &amp; Louis" />
+<index type="kafnum" value="8 &amp; 80" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800) &amp; Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.m." />
+<head>GLAUCOME</head>
+<p>
+GLAUCOME, s. m. (<i>Medecine.</i>) <foreign lang="greek">γλαύκωμα,</foreign>
+<pb n="7:705" facs="V7/ENC_7-705.jpeg" />
+<milestone unit="column" n="1" />
+<foreign lang="greek">γλαύκωσις</foreign>, <i>glaucoma</i>, de <foreign lang="greek">γλαυκὸς</foreign>, <i>glaucus</i>, qui signifie une
+couleur mêlée de verd &amp; de blanc, ou ce qu&#39;on appelle 
+<i>la couleur de mer ;</i> c&#39;est le nom d&#39;une maladie
+des yeux, sur le siége de laquelle les auteurs ne s&#39;accordent 
+point.
+</p>
+<p>
+Les uns prétendent que c&#39;est une lésion particuliere 
+du crystallin, qui consiste dans une sorte de dessechement 
+de cet organe : de ce nombre est Maître-Jan, avec la plûpart des anciens, qui regardent
+cette maladie comme une sorte de cataracte fausse.
+</p>
+<p>
+Les autres veulent que ce soit un vice du corps
+vitré, qui est devenu opaque de transparent qu&#39;il est
+naturellement : ensorte que l&#39;épaississement de l&#39;humeur 
+contenue dans les cellules de ce corps, le rend
+disposé à réfléchir les rayons de lumiere qui devroient 
+le traverser, pour porter leurs impressions
+sur la rétine ; &amp; de cette réflexion contre nature résulte 
+la couleur mentionnée, qui donne son nom à
+cette maladie.
+</p>
+<p>
+Ce dernier sentiment est adopté par la plûpart
+des modernes, tels qu Heister &amp; les plus savans oculistes 
+de nos jours : il paroit ne devoir être susceptible 
+de fournir aucun lieu de doute, si l&#39;on fait attention 
+que tous les auteurs tant anciens que modernes,
+se réunissant en ce point de regarder cette maladie
+comme incurable, sur-tout par les secours de la Chirurgie, ce jugement ne peut tomber que sur le corps
+vitré, qui ne peut point être enlevé: au lieu que dans
+quelque état que soit le crystallin, il semble qu&#39;on
+peut toûjours tenter de l&#39;abattre, ou mieux encore
+d&#39;en faire l&#39;extraction, &amp; de rétablir la vûe qui peut
+subsister sans lui, pourvû qu&#39;il n&#39;y ait point de communication 
+de ses lésions avec la partie du corps vitré 
+dans lequel il est enchâssé.
+</p>
+<p>
+D&#39;ailleurs le <i>glaucome</i> semble être toûjours facile à
+distinguer de la cataracte, en ce que la couleur contre 
+nature qui le caractérise, est réfléchie d&#39;une sur face 
+profonde, éloignée derriere la pupille : au lieu que
+les couleurs de la cataracte sont superficielles &amp; tout
+proche des bords de l&#39;uvée.
+</p>
+<p>
+Quoi qu&#39;il en soit, la maladie caractérisée par le
+symptome essentiel du <i>glaucome</i>, est presque toûjours
+une maladie incurable ; parce qu&#39;on s&#39;apperçoit rarement 
+de son commencement ; tems auquel on pourroit 
+combattre l&#39;épaississement qui se forme, par les
+fondans mercuriels &amp; les autres remedes appropriés,
+pour rendre la fluidité aux humeurs viciées ou les
+détourner de la partie affectée. <i>Voyez</i> 
+<sc><ref target="head:OEil" type="search">OEil</ref>, <ref target="head:Crystallin" type="search">Crystallin</ref>, <ref target="head:Vitré" type="search">Vitré</ref></sc>
+ (<sc><ref target="head:Corps-" type="search">Corps-</ref></sc>) (<i>d</i>)
+</p>
+<p>
+Ceux en qui cette maladie commence à se former,
+s&#39;imaginent voir les objets à-travers d&#39;un nuage ou
+de la fumée ; &amp; quand elle est entierement formée,
+ils n&#39;apperçoivent aucune lumiere, &amp; ne voyent plus
+rien.
+</p>
+<p>
+Les anciens qui pensoient que la cataracte n&#39;étoit
+qu&#39;une pellicule formée dans l&#39;humeur aqueuse, regardoient 
+le <i>glaucome</i> ou opacité du crystallin comme 
+une maladie incurable. Actuellement qu&#39;on a
+des connoissances positives sur le caractere de la cararacte,
+on donne le nom de <i>glaucome</i> à l&#39;induration
+contre nature &amp; à l&#39;opacité du corps vitré.
+</p>
+<p>
+Elle peut passer pour incurable dans les personnes
+âgées, &amp; même dans d&#39;autres circonstances elle est
+extrèmement difficile à guérir, les remedes externes
+n&#39;étant d&#39;aucune utilité, &amp; les internes n&#39;offrant pas
+de grandes ressources : ceux qui paroissent convenir
+le plus, sont ceux dont on se sert dans la goutte sereine.
+<i>Voyez</i> <sc><ref target="head:Goutte sereine" type="search">Goutte sereine</ref></sc>. Julius Caesar Claudinus, <i>consult. 74.</i> donne un remede pour le <i>glaucome</i>.
+</p>
+<p>
+Maître-Jan, dans son <i>traité des maladies de l&#39;oeil</i>,
+distingue ainsi le <i>glaucome</i> de la cataracte. Le <i>glaucome</i>, selon lui, est une altération toute particuliere du
+crystallin, par laquelle il se desseche, diminue de
+<milestone unit="column" n="2" />
+volume, change de couleur, &amp; perd sa transparence 
+en conservant sa figure naturelle &amp; devenant plus
+solide. Les signes qu&#39;il donne pour distinguer cette
+altération d&#39;avec la cataracte, sont fort équivoques ;
+ce qu&#39;il assûre le plus positivement, c&#39;est que dans le
+<i>glaucome</i> la membrane qui recouvre le crystallin n&#39;est
+point altérée ; de-là les cataractes luisantes lui sont
+très-suspectes, dans la crainte qu&#39;elles ne soient des
+<i>glaucomes</i> ou fausses cataractes, ou pour le moins
+qu&#39;elles n&#39;en participent. Cet auteur assûre que les
+<i>glaucomes</i> sont absolument incurables. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28504" id="50:203" vol="7">
+<index type="head" value="FUGALES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythol." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Antiquité romaine" />
+<index type="pos" value="NA" />
+<head>FUGALES</head>
+<p>
+* FUGALES, (<i>Mythol.</i>) fêtes des Romains, que
+quelques-uns confondent avec les <i>régifuges. Voyez</i>
+<sc><ref target="head:Régifuges" type="search">Régifuges</ref></sc>. Si cela est, les <i>fugales</i> furent instituées
+en mémoire de l&#39;expulsion des rois &amp; de l&#39;abolition
+du gouvernement monarchique ; &amp; elles se célebrerent 
+le 24 de Février, après les terminales. <i>Voyez</i>
+<sc><ref target="head:Terminales" type="search">Terminales</ref></sc>: mais cette opinion n&#39;est pas reçûe
+généralement. D&#39;autres font venir les <i>fugales</i> de la
+fuite que prenoit le <i>rex sacrorum</i> hors de la place publique 
+&amp; des comices, après qu&#39;il avoit fait son sacrifice.
+S. Augustin, le seul auteur qui ait parlé de <i>fugales</i>, dit que les cérémonies en étoient contraires à
+la pudeur &amp; à l&#39;honnêteté des moeurs ; ce qui a fait
+penser à Vivès, que c&#39;étoient les mêmes fêtes que
+les <i>populi-fuges</i>, qu&#39;on célébroit à l&#39;honneur de la
+déesse de la Réjoüissance, après quelque victoire
+remportée, &amp; dont on fait remonter la premiere institution 
+au tems de la défaite des Ficulnates, des Fidenates, &amp; des peuples voisins, qui avoient tenté de
+s&#39;emparer deRome, après que le peuple s&#39;en fut retiré.
+Cette entreprise est, à la vérité, la date de l&#39;institution
+des populi-fuges ; mais la retraite du peuple révolté
+en fut la cause, comme il est évident à la lecture de
+Varron. Quoi qu&#39;il en soit, la conjecture de Vivès,
+qui ne fait des <i>fugales</i> &amp; des <i>populi-fuges</i> qu&#39;une même
+institution, n&#39;en est pas moins vraissemblable.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

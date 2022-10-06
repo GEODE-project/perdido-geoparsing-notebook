@@ -1,0 +1,111 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29315" id="52:127" vol="7">
+<index type="head" value="GÉNÉRATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Géometrie" />
+<index type="normclass" value="Géométrie" />
+<index type="englishclass" value="Geometry" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.f." />
+<head>GÉNÉRATION</head>
+<p>
+GÉNÉRATION, s. f. <i>en Géometrie</i>, est la formation 
+qu&#39;on imagine d&#39;une ligne, d&#39;un plan, ou d&#39;un
+solide, par le mouvement d&#39;un point, d&#39;une ligne,
+ou d&#39;une surface. <i>Voyez</i> 
+<sc><ref target="head:Ligne" type="search">Ligne</ref>, <ref target="head:Point" type="search">Point</ref>, <ref target="head:Surface" type="search">Surface</ref></sc>
+Par exemple, on peut imaginer qu&#39;une sphere est
+formée par le mouvement d&#39;un demi-cercle autour
+de son diametre : on appelle pour lors ce diametre,
+<i>axe de révolution</i> ou <i>de rotation</i>. De même on peut regarder 
+un parallélogramme comme engendre par le
+mouvement d&#39;une ligne droite qui se meut toûjours
+parallelement à elle-même, &amp; dont tous les points
+se meuvent en ligne droite : dans ce dernier cas, la
+ligne suivant laquelle le mouvement se fait, s&#39;appelle
+quelquefois la <i>directrice. Voyez</i> <sc><ref target="head:Directrice" type="search">Directrice</ref> <i>&amp;</i> <ref target="head:Engendrer" type="search">Engendrer</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

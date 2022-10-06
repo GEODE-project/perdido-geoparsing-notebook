@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27565" id="48:50:21" vol="7">
+<index type="head" value="Fond d&#39;or ou Fond d&#39;argent" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Manufacture en soie" />
+<index type="pos" value="NA" />
+<head>Fond d&#39;or</head>
+<p>
+<sc>* Fond d&#39;or</sc> <i>ou</i> <sc>Fond d&#39;argent</sc>, étoffe de soie
+en or ou argent. Cette étoffe est un drap dont le <i>fond</i>
+est toûjours tout or ou tout argent : on en fait aussi à
+ramages en argent sur l&#39;or, &amp; à ramages en or sur les
+<i>fonds</i> d&#39;argent avec des nuances mêlées : il s&#39;en fabrique 
+aussi dont les desseins sont destinés à être tout
+or ou tout argent sans mélange d&#39;or avec l&#39;argent.
+</p>
+<p>
+Cette étoffe se fait avec deux chaînes ; l&#39;une pour
+le corps de l&#39;étoffe qui se travaille en gros-de-Tours:
+l&#39;autre, qu&#39;on appelle <i>poil</i>, &amp; qui sert à passer une
+soie avec laquelle on accompagne les dorures : ensuite,
+en faisant valoir ce même poil, on broche les dorures 
+&amp; les nuances, au moyen de l&#39;armure qu&#39;on
+a disposé selon qu&#39;il convient pour le dessein. Cette
+étoffe à Lyon est toûjours de onze vingt-quatriemes
+d&#39;aune. <i>Voyez</i> <sc><ref target="head:Étoffe de soie" type="search">Étoffe de soie</ref></sc>.
+</p>
+<p>
+Nous avons dit que les <i>fonds</i> d&#39;or se travailloient
+communément en gros-de-Tours ; mais il s&#39;en fait plus
+souvent en fond de satin. Cet ouvrage demande un
+grand détail tant pour l&#39;armure que pour le reste.
+<i>Voyez</i> ce détail à l&#39;<i>article</i> <sc><ref target="head:Brocard" type="search">Brocard</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

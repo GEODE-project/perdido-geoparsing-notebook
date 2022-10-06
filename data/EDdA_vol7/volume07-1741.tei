@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29195" id="52:36" vol="7">
+<index type="head" value="GAU, GO, GOW, ou GOU" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GAU, GO, GOW, ou GOU</head>
+<p>
+GAU, GO, GOW, <i>ou</i> GOU, (<i>Géog.</i>) canton ou
+contrée distinguée par ses propres bornes des cantons 
+ou contrées du voisinage, mais qui d&#39;ordinaire
+faisoit partie d&#39;un autre peuple. Ce que les Celtes,
+c&#39;est-à-dire les Gaulois, les Germains, appelloient
+<i>Gan, Go, Gow</i>, ou <i>Gou</i>, les Latins le nommoient
+<i>Pagi</i>, le peuple entier se nommoit <i>civitas</i>, &amp; se divisoit 
+<i>in pagos:</i> c&#39;est dans ce sens que Jules César dit
+que les Helvétiens étoient partagés <i>in quatuor pagos</i>,
+en quatre cantons.
+</p>
+<p>
+De ces <i>Gau, Go, Gow, Gou</i>, est venu la terminaison 
+à plusieurs noms géographiques : telle est par
+exemple l&#39;origine de la distinction établie en Frise,
+d&#39;Ostergo &amp; de Westergo, c&#39;est-à-dire le canton
+oriental &amp; le canton occidental. Il faut rapporter à la
+même origine le nom de <i>Rheingau</i>, donné au canton
+qui est entre Mayence &amp; Baccharach ; celui de <i>Brisgaw</i> que porte le canton situé entre le Rhin, la Soüabe &amp; la forêt Noire ; celui de <i>Sundgau</i>, qui signifie le
+pays situé entre le Rhin, l&#39;évêché de Bâle &amp; l&#39;Alsace, <i>&amp;c.</i> Remarquez que cette terminaison en <i>Gou</i>,
+ou <i>Gau</i>, est particuliere à l&#39;Allemagne &amp; aux pays
+dont la langue est un dialecte de l&#39;allemand.
+</p>
+<p>
+Ces <i>Gau</i> ou <i>Pagi</i> avoient anciennement leurs
+chefs, qui tous ensemble en choisissoient un d&#39;entre
+eux pour commander la nation. Les Francs &amp; les
+Allemands ayant établi chez eux l&#39;état monarchique
+&amp; héréditaire, conserverent l&#39;ancienne coûtume de
+donner à chaque canton un chef, mais avec de nouveaux 
+titres ; &amp; c&#39;est par cette raison qu&#39;avec le tems
+<pb n="7:524" facs="V7/ENC_7-524.jpeg" />
+<milestone unit="column" n="1" />
+cette premiere division a disparu dans beaucoup d&#39;endroits,
+quoique dans le fond elle ait été conservée
+sous d&#39;autres noms, comme de <i>duché</i>, de <i>comté</i>, &amp;c.
+<i>Voyez</i> <sc><ref target="head:Fief" type="search">Fief</ref></sc>, (<i>Droit politiq</i>.) (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

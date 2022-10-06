@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29049" id="51:235:56" vol="7">
+<index type="head" value="Gardes des Marchands et de certains Arts et Métiers" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gardes des Marchands et de certains</head>
+<p>
+<sc>Gardes des Marchands et de certains
+Arts et Métiers</sc>, sont des personnes choisies entre 
+les maitres dudit état, pour avoir la manutention 
+des statuts &amp; priviléges de leur corps. Chaque
+corps de marchands &amp; artisans a ses jures &amp; prépoposés,
+qui exercent à-peu-près les mêmes fonctions
+que les <i>gardes:</i> mais il n&#39;est pas permis à ces jurés de
+prendre le titre de <i>corps ;</i> cela n&#39;appartient qu&#39;aux
+préposés des six corps des marchands, &amp; à quelques 
+autres corps de marchands, qui ont ce privilége 
+par leurs statuts.
+</p>
+<p>
+Il est parlé des <i>gardes</i> &amp; jurés dans des ordonnances 
+fort anciennes ; ils sont nommés en latin <i>magistr &amp; custodes</i>, dans des lettres de Philippe-de-Valois
+de 1329; &amp; dans d&#39;autres lettres de Philippe VI. du
+mois de Mars 1355, pour les Parmentiers de Carcassonne, ils sont nommés <i>supra positi</i>.
+</p>
+<p>
+Les <i>gardes</i> font des visites annuelles chez tous les
+marchands &amp; maitres de leur état, pour voir si les
+statuts sont observés. Ils en font aussi en cas de contravention,
+chez ceux qui, sans qualité, s&#39;ingerent
+de ce qui appartient à l&#39;état, sur lequel ces <i>gardes</i>
+sont établis pour dresser les procès-verbaux de contravention.
+Ils se font assister d&#39;un huissier &amp; même
+quelquefois d&#39;un commissaire, lorsqu&#39;il s&#39;agit de faire
+ouverture des portes. <i>Voyez</i> <sc><ref target="head:Jurés" type="search">Jurés</ref> <i>&amp;</i> <ref target="head:Maîtres" type="search">Maîtres</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

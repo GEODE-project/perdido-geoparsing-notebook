@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29450" id="52:195:1" vol="7">
+<index type="head" value="Geranium sanguin" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan. &amp; Mat. méd." />
+<index type="normclass" value="Botanique | Matière médicale" />
+<index type="englishclass" value="Botany | Materia medica" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="NA" />
+<head>Geranium sanguin</head>
+<p>
+<sc>Geranium sanguin</sc>, (<i>Botan.</i> &amp; <i>Mat. méd.</i>) Le
+<i>geranium</i> ou <i>bec de grue</i> sanguin, à grande fleur, est
+d&#39;abord remarquable par une racine épaisse, rouge,
+garnie de plusieurs longues appendices, &amp; de quelques 
+fibres ; elle pousse tous les ans de nouvelles racines,
+qui non-seulement jettent des fibres de la
+même maniere, mais encore d&#39;autres racines grosses
+&amp; fermes : ses tiges sont nombreuses, hautes d&#39;une
+coudée, rougeâtres, velues, noüeuses, partagées
+en plusieurs branches.
+</p>
+<p>
+De chaque noeud naissent deux feuilles arrondies,
+divisées néanmoins en cinq lanieres, &amp; le plus souvent 
+en trois lobes, découpées presque jusqu&#39;à la
+queue ; elles sont velues, vertes au-dessus, blanchâtres 
+en-dessous, d&#39;une saveur astringente &amp; stiptique.
+</p>
+<p>
+Il sort de l&#39;extrémité des branches un pédicule
+oblong, qui porte une fleur plus grande que celles
+des autres <i>geranium</i>, presque semblable à celle du
+cyste mâle ; d&#39;une belle couleur rouge, composée
+de cinq pétales &amp; de dix étamines, portées les unes
+&amp; les autres sur un calice. Ce calice est composé de
+cinq petites feuilles garnies de nervûres, velues &amp;
+verdâtres.
+</p>
+<p>
+Quand ces fleurs sont passées, il leur succede
+des fruits en forme de bec à cinq angles, chargés à
+leur base de capsules renflées, contenant des graines
+qui s&#39;échappent quand elles sont mûres : alors leurs
+capsules se roulent &amp; se recoquillent de la base à la
+pointe du fruit.
+</p>
+<p>
+Le <i>geranium sanguin</i> se trouve souvent dans les
+forêts &amp; les buissons : on le cultive chez les curieux
+dans les jardins de Botanique. Les Medecins le substituent 
+au bec de grue ordinaire, ou à celui qu&#39;on nomme 
+<i>herbe à Robert</i>. Ses feuilles s&#39;employent dans les
+décoctions &amp; les bouillons vulnéraires astringens ;
+elles sont stiptiques &amp; un peu salées ; elles donnent,
+<pb n="7:642" facs="V7/ENC_7-642.jpeg" />
+<milestone unit="column" n="1" />
+de même que l&#39;alun, une vive couleur rouge au papier 
+bleu ; c&#39;est pourquoi l&#39;on présume que leur
+vertu vulnéraire dépend sur-tout d&#39;un sel alumineux
+mêlé avec beaucoup de soufre &amp; de terre, &amp; avec
+un peu de sel concret. En général, tous les <i>geranium</i>
+contiennent les mêmes principes, ce qui fait qu&#39;on
+les met au rang des plantes astringentes. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

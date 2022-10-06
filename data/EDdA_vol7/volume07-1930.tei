@@ -1,0 +1,446 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29384" id="52:160:7" vol="7">
+<index type="head" value="Genre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Rousseau &amp; d&#39;Alembert" />
+<index type="shortauth" value="Rousseau &amp; d&#39;Alembert" />
+<index type="kafnum" value="118 &amp; 2" />
+<index type="kafauth" value="Rousseau, Jean-Jacques (1712-1778) &amp; Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Musique" />
+<index type="normclass" value="Musique" />
+<index type="englishclass" value="Music" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Genre</head>
+<p>
+<sc>Genre</sc>, <i>en Musique</i>. On appelloit <i>genres</i> dans la musique 
+des Grecs, la maniere de partager le tétracorde
+ou l&#39;étendue de la quarte, c&#39;est-à-dire la maniere
+d&#39;accorder les quatre cordes qui la composoient.
+</p>
+<p>
+La bonne constitution de cet accord, c&#39;est-à-dire
+l&#39;établissement d&#39;un <i>genre</i> régulier, dépendoit des trois
+regles suivantes que je tire d&#39;Aristoxene ; la premiere 
+étoit que les deux cordes extrèmes du tétracorde 
+devoient toûjours rester immobiles, afin que
+leur intervalle fût toûjours celui d&#39;une quarte juste
+ou du diatessaron. Quant aux deux cordes moyennes,
+elles varioient à la vérité; mais l&#39;intervalle du
+<i><ref target="head:lichanos" type="search">lichanos</ref></i> à la <ref target="head:mése" type="search"><i>mése</i></ref> (voyez <i>ces mots</i>) ne devoit jamais 
+passer deux tons, ni diminuer au-delà d&#39;un ton ;
+de sorte qu&#39;on avoit précisément l&#39;espace d&#39;un ton
+pour varier l&#39;accord de lichanos, &amp; c&#39;est la seconde
+regle. La troisieme étoit que l&#39;intervalle de la parhypate 
+ou seconde corde à l&#39;hypate, ne passât jamais 
+celui de la même parhypate au lichanos.
+</p>
+<p>
+Comme en général cet accord pouvoit se diversifier 
+de trois façons, cela constituoit trois principaux 
+<i>genres</i>, qui étoient le diatonique, le chromatique 
+&amp; l&#39;enharmonique ; &amp; ces deux derniers <i>genres</i>
+où les deux premiers intervalles du tétracorde faisoient 
+toûjours ensemble une somme moindre que
+le troisieme intervalle, s&#39;appelloient à cause de cela
+<i>genres épais</i> ou <i>denses. Voyez</i> <sc><ref target="head:Epais" type="search">Epais</ref></sc>.
+</p>
+<p>
+Dans e diatonique la modulation précédoit par
+un semi-ton, un ton &amp; un autre ton, <i>mi, fa, sol,
+la ;</i> &amp; comme les tons y dominoient, de-là lui venoit 
+son nom. Le chromatique procédoit par deux
+semi-tons consécutifs, &amp; une tierce mineure ou un
+ton &amp; demi, <i>mi, fa, fa diése, la</i>. Cette modulation
+tenoit le milieu entre celles du diatonique &amp; de l&#39;enharmonique,
+y faisant pour ainsi dire sentir diverses
+nuances de sons, de même qu&#39;entre deux couleurs
+principales on introduit plusieurs nuances intermédiaires ;<gap type="hyphenpb" />
+<pb n="7:596" facs="V7/ENC_7-596.jpeg" />
+<milestone unit="column" n="1" />
+&amp; de-là vient qu&#39;on appelloit ce <i>genre chromatique</i> ou <i>coloré</i>. Dans l&#39;enharmonique la modulation
+procédoit par quart de ton, en divisant, selon la
+doctrine d&#39;Aristoxene, le semi-ton majeur en deux
+parties égales, &amp; un diton ou tierce majeure, comme 
+<i>mi, mi dièse</i> enharmonique, <i>fa</i> &amp; <i>la ;</i> ou bien,
+selon les Pythagoriciens, en divisant le semi-ton majeur 
+en deux intervalles inégaux qui formoient, l&#39;un
+le sémi-ton mineur, c&#39;est-à-dire notre <i>dièse</i> ordinaire,
+&amp; l&#39;autre le complément de ce même sémi-ton mineur 
+au sémi-ton majeur ; &amp; ensuite le diton comme
+ci-devant, <i>mi mi dièse</i> ordinaire, <i>fa, la.</i> Dans le
+premier cas les deux intervalles égaux du <i>mi</i> au <i>fa</i>,
+étoient tous deux enharmoniques ou d&#39;un quart de
+ton ; dans le second cas il n&#39;y avoit d&#39;enharmonique
+que le passage du <i>mi dièse</i> au <i>fa</i>, c&#39;est-à-dire, la différence 
+du sémi-ton mineur au sémi-ton majeur,
+laquelle est le <i>dièse</i> pythagorique dont le rapport est
+de 125 à 128. <i>Voyez</i> <sc><ref target="head:Dièse" type="search">Dièse</ref></sc>.
+</p>
+<p>
+Cette derniere division enharmonique du tétracorde,
+dont nul auteur moderne n&#39;a fait mention,
+semble confirmée par Euclide même, quoique Aristoxenien ; car dans son diagramme général des trois
+<i>genres</i>, il insere bien pour chaque <i>genre</i> un lichanos
+particulier, mais la parhypate y est la même pour
+tous les trois ; ce qui ne peut se faire que dans le système 
+des Pythagoriciens : comme donc cette modulation,
+dit M. Burette, se tenoit d&#39;abord très-serrée,
+ne parcourant que de petits intervalles, des intervalles 
+presqu&#39;insensibles ; on la nommoit <i>enharmonique</i>, comme qui diroit bien jointe, bien assemblée,
+<i>probè coagmentata</i>.
+</p>
+<p>
+Outre ces <i>genres</i> principaux, il y en avoit d&#39;autres
+qui résultoient tous des divers partages du tétracorde,
+ou des façons de l&#39;accorder différentes de celles
+dont on vient de parler. Aristoxene subdivise le <i>genre</i> chromatique en mol, hémiéolien &amp; tonique ; &amp; le
+<i>genre</i> diatonique en syntonique &amp; diatonique mol,
+dont il donne toutes les différences. Aristide-Quintilien fait mention de plusieurs autres <i>genres</i> particuliers,
+&amp; il en compte six qu&#39;il donne pour très-anciens ; savoir, le lydien, le dorien, le phrygien,
+l&#39;ionien, le mixolydien &amp; le syntonolydien Ces six
+<i>genres</i> qu&#39;il ne faut pas confondre avec les tons ou
+modes de même nom, différoient en étendue ; les uns
+n&#39;arrivoient pas à l&#39;octave, les autres la remplissoient,
+les autres excédoient : on en peut voir le détail dans
+le musicien grec.
+</p>
+<p>
+Nous avons comme les anciens le <i>genre</i> diatonique,
+le chromatique &amp; l&#39;enharmonique, mais sans
+aucunes subdivisions ; &amp; nous considérons ces <i>genres</i> sous des idées fort différentes de celles qu&#39;ils en
+avoient. C&#39;étoit pour eux autant de manieres particulieres 
+de conduire le chant sur certaines cordes
+prescrites ; pour nous ce sont autant de manieres de
+conduire le corps entier de l&#39;harmonie, qui forcent
+les parties à marcher par les intervalles prescrits par
+ces <i>genres ;</i> de sorte que le <i>genre</i> appartient encore
+plus à l&#39;harmonie qui l&#39;engendre, qu&#39;à la mélodie qui
+le fait sentir.
+</p>
+<p>
+Il faut encore remarquer que dans notre musique
+les <i>genres</i> sont presque toûjours mixtes ; c. à. d. que
+le diatonique entre pour beaucoup dans le chromatique,
+&amp; que l&#39;un &amp; l&#39;autre sont nécessairement mêlés 
+à l&#39;enharmonique. Tout cela vient encore des
+regles de l&#39;harmonie, qui ne pourroient souffrir une
+continuelle succession enharmonique ou chromatique,
+&amp; aussi de celles de la mélodie qui n&#39;en sauroit
+tirer de beaux chants ; il n&#39;en étoit pas de même des
+<i>genres</i> des anciens. Comme les tétracordes étoient
+également complets, quoique divisés différemment
+dans chacun des trois systèmes, si un <i>genre</i> eût pû
+emprunter de l&#39;autre d&#39;autres sons que ceux qui se
+trouvoient nécessairement communs entr&#39;eux, le
+<milestone unit="column" n="2" />
+tétracorde auroit eu plus de quatre cordes, &amp; toutes
+les regles de leur musique auroient été confondues.
+<i>Voyez</i> 
+<sc><ref target="head:Diatonique" type="search">Diatonique</ref>, <ref target="head:Chromatique" type="search">Chromatique</ref>, <ref target="head:Enharmonique" type="search">Enharmonique</ref></sc>
+. (<i>S</i>)
+</p>
+<p>
+Il est donc aisé de voir qu&#39;il y avoit dans le système
+de musique des Grecs des cordes communes à tous
+les <i>genres</i>, &amp; d&#39;autres qui changeoient d&#39;un <i>genre</i> à
+l&#39;autre ; par exemple, dans le premier tétracorde <i>si,
+ut, re, mi</i>, les cordes <i>si</i> &amp; <i>mi</i> se trouvoient dans tous
+les <i>genres</i>, &amp; les cordes <i>ut</i> &amp; <i>re</i> changeoient.
+</p>
+<p>
+Les communes à tous les systèmes s&#39;appelloient
+<i>cordes stabies</i> &amp; <i>immobiles</i>, les autres se nommoient
+<i>cordes mobiles:</i> de sorte que si l&#39;on traitoit séparément
+les trois <i>genres</i> sur des instrumens à cordes, il n&#39;y
+avoit autre chose à faire que de changer le degré
+de tension de chaque corde mobile ; au lieu que quand
+on exécutoit sur le même instrument un air composé 
+dans deux de ces <i>genres</i> à la fois ou dans tous les
+trois, il falloit multiplier les cordes selon le besoin
+qu&#39;on en avoit pour chaque <i>genre. Voyez les mém.
+de</i> M. Burette <i>dans le recueil de l&#39;académie des Belles-Lettres</i>.
+</p>
+<p>
+Il est possible de trouver la basse fondamentale
+dans le <i>genre</i> chromatique des Grecs ; ainsi <i>mi, fa,
+fa #, la</i>, a ou peut avoir pour basse <i>ut, sa, re, la</i>.
+Mais il n&#39;en est pas de même dans le <i>genre</i> enharmonique ; 
+car ce chant, <i>mi, mi</i> dièse enharmonique,
+<i>fa</i>, n&#39;a point de basse fondamentale naturelle,
+comme M. Rameau l&#39;a remarqué. <i>Voyez</i> <sc><ref target="head:Enharmonique" type="search">Enharmonique</ref></sc>. Aussi ce grand musicien paroît rejetter 
+le système enharmonique des Grecs, comme
+le croyant contraire à ses principes. Pour nous,
+nous nous contenterons d&#39;observer, 1°. que ce
+<i>genre</i> n&#39;étoit vraissemblablement employé qu&#39;à une
+expression extraordinaire &amp; détournée, &amp; que cette
+singularité d&#39;expression lui venoit sans doute de ce
+qu&#39;il n&#39;avoit point de basse fondamentale naturelle ;
+ce qui paroît appuyer le système de M. Rameau,
+bien loin de l&#39;infirmer. 2°. Qu&#39;il n&#39;est guere permis
+de douter, d&#39;après les livres anciens qui nous restent,
+que les Grecs n&#39;eussent en effet ce <i>genre ;</i> peut-être
+n&#39;étoit-il pratiqué que par les instrumens, sur
+lesquels il est évidemment pratiquable, quoique très difficile : aussi étoit-il abandonné dès le tems de Plutarque. Ce <i>genre</i> pouvoit produire sur les Grecs, eu
+égard à la sensibilité de leur oreille, plus d&#39;effet qu&#39;il
+n&#39;en produiroit sur nous, qui tenons de notre climat
+ces organes moins délicats. M. Rameau, il est vrai, 2
+prétendu depuis peu qu&#39;une nation n&#39;est pas plus favorisée 
+qu&#39;une autre du côté de l&#39;oreille ; mais l&#39;expérience 
+ne prouve-t-elle pas le contraire? &amp; sans
+sortir de notre pays, n&#39;y a-t-il pas une différence
+marquée à cet égard entre les françois des provinces
+méridionales, &amp; ceux qui sont plus vers le Nord?
+</p>
+<p>
+On a vû <i>au mot</i> <sc><ref target="head:Enharmonique" type="search">Enharmonique</ref></sc>, en quoi consiste 
+ou peut consister ce <i>genre</i> dans notre musique
+moderne. Il y en a proprement ou il peut y en avoir
+de trois sortes ; l&#39;<i>enharmonique</i> simple, qui est produit
+par le seul renversement de l&#39;accord de septieme diminuée 
+dans les modes mineurs, &amp; dans lequel, sans
+entendre le quart de ton, on sent son effet. Ce <i>genre</i>
+est évidemment possible, soit pour les instrumens,
+soit même pour les voix, puisqu&#39;il existe sans qu&#39;on
+soit obligé de faire les quarts de ton ; c&#39;est à l&#39;oreille
+à juger si son effet est agréable, ou du-moins assez
+supportable pour n&#39;être pas tout-à-fait rejetté, quoiqu&#39;il doive d&#39;ailleurs être employé rarement &amp; sobrement.
+Le second <i>genre</i> est le <i>diatonique enharmonique</i>, dans lequel le quart de ton a lieu réellement,
+puisque tous les semi-tons y sont majeurs ; &amp; le troisieme 
+est le <i>chromatique-enharmonique</i>, dans lequel
+le quart de ton a également lieu, puisque les semi-tons 
+y sont tous mineurs. Ce dernier <i>genre</i>, possible
+ou non, n&#39;a jamais été exécuté: M. Rameau assûre
+<pb n="7:597" facs="V7/ENC_7-597.jpeg" />
+<milestone unit="column" n="1" />
+que le diatonique-enharmonique peut l&#39;être, &amp; même 
+l&#39;a été par de bons musiciens ; mais M. le Vens,
+maître de musique de la métropole de Bordeaux,
+doute de ce fait dans un ouvrage publié en 1743.
+<blockquote> 
+« Il est vrai, dit-il, qu&#39;une des parties de symphonie 
+frappe le <i>la b</i> dans le tems que la haute-contre
+frappe le <i>sol</i> ⨳, &amp; ensuite <i>fa</i> avec <i>mi</i> ⨳. Si c&#39;est-là
+en quoi consiste le <i>genre</i> enharmonique, il est très aise 
+d&#39;en donner, &amp; toute la musique le deviendra,
+si l&#39;on veut, puisque tout consistera dans la maniere 
+de la copier. On me dira peut-être que réellement 
+il y a un quart de ton de <i>sol</i> ⨳ à <i>la</i> ♭, &amp; de
+<i>sa</i> à <i>mi</i> ⨳: j&#39;y consens ; mais qu&#39;en résulte-t-il, si
+les deux partis disent la même chose, à la faveur
+du tempérament qui a rapproché ces deux notes
+de si près, qu&#39;elles ne sont plus qu&#39;un seul &amp; même
+son ; &amp; si l&#39;intervalle du quart de ton existoit réellement,
+il n&#39;y a point d&#39;oreille assez forte pour résister 
+au tiraillement qu&#39;elle souffriroit dans cet instant »?
+</blockquote>
+Qu&#39;opposer à ce raisonnement? l&#39;expérience 
+contraire que M. Rameau assure avoir faite,
+&amp; sur laquelle c&#39;est aux connoisseurs à décider.
+</p>
+<p>
+L&#39;enharmonique du premier <i>genre</i>, où le quart de
+ton n&#39;a point lieu, &amp; où il se fait pour ainsi dire sentir 
+sans être entendu, a été employé par M. Rameau
+avec succès dans le premier monologue du quatrieme 
+acte de Dardanus ; &amp; nous croyons que le mélange 
+de ce <i>genre</i> avec le diatonique &amp; le chromatique,
+aideroit beaucoup à l&#39;expression, sur-tout dans
+les morceaux où il faudroit peindre quelque violente
+agitation de l&#39;ame. Quel effet, par exemple, le <i>genre</i>
+enharmonique sobrement ménagé &amp; mélé de chromatique,
+n&#39;eût-il pas produit dans le fameux monologue 
+d&#39;Armide, où le poete est si grand &amp; le musicien 
+si foible ; où le coeur d&#39;Armide fait tant de chemin,
+tandis que Lulli tourne froidement autour de
+la même modulation, sans s&#39;écarter des routes les
+plus communes &amp; les plus élémentaires? Aussi ce
+monologue est-il tout-à-la-fois une très-bonne leçon
+de composition pour les commençans, &amp; un.très mauvais modele pour les hommes de génie &amp; de
+goût. M. Rameau, il est vrai, a entrepris de la défendre 
+contre les coups qui lui ont été portés:
+<lg>
+</lg></p>
+<p>
+. . . . . . . <i>Si Pergama dextrâ
+Defendi possent, etiam hâc defensa fuissent</i>.
+Mais en changeant, comme il l&#39;a fait, la basse de
+Lulli en divers endroits, pour répondre aux plus
+fortes objections de M. Rousseau, en supposant dans
+cette basse mille choses <i>sousentendues</i> qui ne devroient 
+pas l&#39;être, &amp; auxquelles Lulli n&#39;a jamais
+pensé, il n&#39;a fait que montrer combien les objections
+étoient solides. D&#39;ailleurs, en se bornant à quelques
+changemens dans la basse de Lulli, croit-on avoir
+rechauffé ou pallié la froideur du monologue? Nous
+en appellons au propre témoignage de son célebre
+défenseur. Eût-il fait ainsi chanter Armide? eût-il
+fait marcher la basse d&#39;une maniere si pédestre &amp; si
+triviale? Qu&#39;il compare ce monologue avec la scene
+du second acte de Dardanus, &amp; il sentira la différence.
+Les beautés de Lulli sont à lui, ses fautes
+viennent de l&#39;état d&#39;enfance où la musique étoit de
+son tems ; excusons ces fautes, mais avoüons-les.
+</p>
+<p>
+La scene de Dardanus, que nous venons de citer,
+vient ici d&#39;autant plus à-propos, qu&#39;elle nous fournit
+un exemple du <i>genre chromatique</i> employé dans le
+chant &amp; dans la basse : nous voulons parler de cet
+endroit,
+<lg>
+</lg></p>
+<p>
+<i>Et s&#39;il étoit un coeur trop foible, trop sensible,
+Dans de funestes noeuds malgré lui retenu,
+Pourriez vous?</i> &amp;c.
+Le chant y procede en montant par semi-tons, ce
+qui amene nécessairement le demi-ton mineur dans
+<milestone unit="column" n="2" />
+la mélodie, &amp; par conséquent le <i>chromatique ;</i> la
+basse fondamentale, au premier vers, descend de
+tierce mineure de la tonique <i>sol</i> sur la dominante tonique 
+<i>mi</i>, &amp; remonte à la tonique <i>la</i> portant l&#39;accord 
+mineur, laquelle devient ensuite dominante
+tonique elle-même, c&#39;est-à-dire porte l&#39;accord majeur.
+<i>Voyez</i> <sc><ref target="head:Dominante" type="search">Dominante</ref></sc>. Cette dominante tonique
+remonte à sa tonique <i>ré</i>, qui dans le second vers descend 
+de tierce mineure sur la dominante tonique <i>si</i>,
+pour remonter de-là à la tonique <i>mi</i>. Or une marche
+de basse fondamentale dans laquelle la tonique qui
+porte l&#39;accord mineur, reste sur le même degré
+pour devenir dominante tonique, ou dans laquelle
+la basse descend de tierce d&#39;une tonique sur une dominante,
+produit nécessairement le chromatique par
+l&#39;effet de l&#39;harmonie. <i>Voyez</i> <sc><ref target="head:Chromatique" type="search">Chromatique</ref></sc>, <i>&amp; nos
+élémens de Musique</i>.
+</p>
+<p>
+Le <i>genre</i> chromatique qui procede par semi-tons 
+en montant, a été employé avec d&#39;autant plus
+de vérité dans ce morceau, qu&#39;il nous paroît représenter 
+parfaitement les tons de la nature. Un excellent 
+acteur rendroit infailliblement le second &amp; le
+troisieme vers comme ils sont notés, en élevant sa
+voix par semi-tons ; &amp; nous remarquerons que si on
+chantoit cet endroit comme on chante le récitatif
+italien, sans appuyer sur les sons, sans les filer, à-peu-près comme si on parloit ou on lisoit, en observant 
+seulement d&#39;entonner juste, on n&#39;appercevroit
+point de différer ce entre le chant de ce morceau &amp;
+une belle déclamation théatrale : voilà le modele
+d&#39;un bon récitatif.
+</p>
+<p>
+Je ne sai, pour le dire en passant, si la méthode de
+chanter notre récitatif à l&#39;italienne, seroit impraticable 
+sur notre théatre. Dans les récitatifs bien faits,
+elle n&#39;a point paru choquante à d&#39;excellens connoisseurs 
+devant lesquels j&#39;en ai fait essai ; ils l&#39;ont unanimement 
+préférée à la langueur insipide &amp; insupportable 
+de notre chant de l&#39;opéra, qui devient tous
+les jours plus traînant, plus froid, &amp; d&#39;un ennui
+plus mortel. Ce que je crois pouvoir assûrer, c&#39;est
+que quand le récitatif est bon, cette maniere de le
+chanter le fait ressembler beaucoup mieux à la déclamation.
+J&#39;ajoûte, par la même raison, que tout
+récitatif qui déplaira étant chanté de cette sorte, sera
+infailliblement mauvais ; ce sera une marque que
+l&#39;artiste n&#39;aura pas suivi les tons de la nature, qu&#39;il
+doit avoir toûjours présens. Ainsi un musicien veut-il 
+voir si son récitatif est bon? qu&#39;il l&#39;essaye en le
+chantant à l&#39;italienne ; &amp; s&#39;il lui déplaît en cet état,
+qu&#39;il en fasse un autre. On peut remarquer que les
+deux vers du monologue d&#39;Armide, que M. Rousseau trouve les moins mal déclamés,
+<lg>
+</lg></p>
+<p>
+<i>Est ce ainsi que je dois me venger aujourd&#39;hui?
+Ma colere s&#39;éteint quand j&#39;approche de lui</i>,
+sont en effet ceux qui, étant récités à l&#39;italienne,
+auroient moins l&#39;air de chant. Nous prions le lecteur
+de nous pardonner cette legere digression, dont une
+partie eût peut-être été mieux placée à <sc>Récitatif</sc>  ;
+mais on ne sauroit trop se hâter de dire des vérités
+utiles, &amp; de proposer des vûes qui peuvent contribuer 
+au progrès de l&#39;art. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28932" id="51:201" vol="7">
+<index type="head" value="GANGE, (le) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GANGE</head>
+<p>
+GANGE, (<sc>le</sc>) <i>Géogr.</i> la plus célebre riviere de
+l&#39;Asie ; elle prend sa source dans les montagnes du
+Caucase, aux confins des états du Mogol, traverse
+du septentrion au midi toute l&#39;Inde qu&#39;elle divise en
+Inde en-deçà &amp; Inde en-delà du <i>Gange ;</i> &amp; après avoir
+reçu plusieurs rivieres, elle se décharge dans le golfe
+de Bengale par plusieurs embouchures.
+</p>
+<p>
+Seleucus Nicanor est le premier qui ait pénétré
+jusqu&#39;au <i>Gange</i>, &amp; qui ait découvert le golfe de Bengale où se jette ce fleuve. Selon M. de Lisle, la source
+du <i>Gange</i> est vers le <i>96<sup>d</sup>. de longit</i>. &amp; le <i>35</i><sup>d</sup>. <i>45&#39;. de
+latit</i>. &amp; son embouchure occidentale vers le <i>106.
+de long</i>. &amp; le <i>21</i><sup>d</sup>. <i>15&#39;. de lat.</i> son embouchure orientale 
+est vers le <i>108</i><sup>d</sup>. <i>25&#39;</i>. &amp; par le <i>22. de latit</i>. Son
+cours, selon le calcul de Varenius, est de 3000 milles
+d&#39;Allemagne.
+</p>
+<p>
+Ses eaux sont très-belles, &amp; fournissent de l&#39;or
+&amp; des pierres précieuses ; les Indiens prétendent
+même qu&#39;elles ont une vertu sanctifiante, &amp; que
+ceux qui meurent sur ses bords doivent habiter,
+après leur décès, une région pleine de délices. Delà vient qu&#39;ils envoyent des lieux les plus reculés
+des urnes pleines de cendres de leurs morts, pour
+les jetter dans le <i>Gange</i>. Qu&#39;importe qu&#39;on vive
+bien ou mal, on fera jetter ses cendres dans le <i>Gange</i>, &amp; l&#39;on joüira d&#39;un bonheur infini.
+<blockquote> 
+« Toute religion 
+qui justifie par de telles pratiques, perd
+inutilement le plus grand ressort qui soit parmi les
+hommes ».
+</blockquote>
+Réflexion bien importante de l&#39;auteur
+de l&#39;esprit des lois. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

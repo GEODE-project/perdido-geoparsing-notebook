@@ -1,0 +1,710 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29643" id="53:124" vol="7">
+<index type="head" value="GLADIATEUR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littérat. Hist. rom." />
+<index type="normclass" value="Littérature | Histoire romaine" />
+<index type="englishclass" value="Literature. Roman history" />
+<index type="generatedclass" value="Littérature" />
+<index type="pos" value="NA" />
+<head>GLADIATEUR</head>
+<p>
+GLADIATEUR, subst. m. <i>gladiator</i>, (<i>Littérat.
+Hist. rom.</i>) celui qui pour le plaisir du peuple combattoit 
+en public sur l&#39;arene, de gré ou de force, contre 
+un autre homme ou contre une bête sauvage,
+avec une arme meurtriere, <i>cum gladio ;</i> &amp; c&#39;est de-là
+qu&#39;est venu le mot de <i>gladiateur</i>.
+</p>
+<p>
+Ce spectacle ne s&#39;introduisit point à Rome à la faveur 
+de la grossiereté des cinq premiers siecles qui
+<milestone unit="column" n="2" />
+s&#39;écoulerent immédiatement après sa fondation:
+quand les deux Brutus donnerent aux Romains le
+premier combat de <i>gladiateurs</i> qu&#39;ils eussent vû dans
+leur ville, les Romains étoient déjà civilisés ; mais
+loin que la politesse &amp; la mollesse des siecles suivans
+ayent dégoûté ce peuple des spectacles barbares de
+l&#39;amphithéatre, au contraire elles les en rendirent
+encore plus épris. Nous tâcherons de découvrir les
+raisons de ce genre de plaisir, après avoir rassemblé
+sous un point de vûe l&#39;histoire des <i>gladiateurs</i> trop
+hérissée d&#39;érudition, trop diffuse, &amp; trop peu liée
+dans la plûpart des ouvrages sur cette matiere.
+</p>
+<p>
+Les premiers combats de <i>gladiateurs</i> qu&#39;on s&#39;avisa
+de donner en l&#39;honneur des morts pour appaiser leurs
+manes, succederent à l&#39;horrible coûtume d&#39;immoler
+les captifs sur le tombeau de ceux qui avoient été
+tués pendant la guerre : ainsi dans Homere, Achille
+immole 12 jeunes troyens aux manes de Patrocle ;
+ainsi dans Virgile, le pieux Enée envoye des prisonniers 
+à Evandre pour les immoler sur le bûcher de son
+fils Pallas. Les Troyens croyoient que le sang devoit
+couler sur les tombeaux des morts pour les appaiser ;
+&amp; cette superstition étoit si grande chez ce peuple,
+que les femmes se faisoient elles mêmes des incisions
+pour en tirer du sang, dont elles arrosoient les sepulcres 
+des personnes qui leur étoient cheres. Au défaut
+de prisonniers, on sacrifioit quelquefois des esclaves.
+</p>
+<p>
+Les peuples en se polissant ayant reconnu l&#39;horreur
+de cette action, établirent, pour sauver la cruauté de
+ces massacres, que les esclaves &amp; les prisonniers de
+guerre dévoüés à la mort suivant la loi, se battroient
+les uns contre les autres, &amp; feroient de leur mieux
+pour sauver leur vie &amp; l&#39;ôter à leurs adversaires.
+Cet établissement leur parut moins barbare, parce
+que ceux qu&#39;il regardoit pouvoient, en se battant
+avec adresse, éviter la mort ; &amp; ne devoient à quelques 
+égards s&#39;en prendre qu&#39;à eux s&#39;ils ne l&#39;évitoient
+pas. Voilà l&#39;origine de l&#39;art des <i>gladiateurs</i>.
+</p>
+<p>
+Le premier spectacle de ces malheureux qui parut
+à Rome, fut l&#39;an de sa fondation 490, sous le consulat 
+d&#39;Appius Claudius &amp; de M. Fulvius. D&#39;abord
+on observa de ne l&#39;accorder qu&#39;aux pompes funebres
+des consuls &amp; des premiers magistrats de la république : insensiblement cet usage s&#39;étendit à des personnes 
+moins qualifiées ; enfin plusieurs simples particuliers 
+le stipulerent dans leur testament : &amp; pour tout
+dire, il y eut même des combats de <i>gladiateurs</i> aux
+funérailles des femmes.
+</p>
+<p>
+Dès qu&#39;on apperçut par l&#39;affluence du peuple, le
+plaisir qu&#39;il prenoit à ces sortes de spectacles, on apprit 
+aux <i>gladiateurs</i> à se battre ; on les forma, on les
+exerça ; &amp; la profession de les instruire devint un
+art étonnant dont il n&#39;y avoit jamais eu d&#39;exemple.
+</p>
+<p>
+On imagina de diversifier &amp; les armes &amp; les différens 
+genres de combats auxquels les <i>gladiateurs</i>
+étoient destinés. On en fit combattre sur des chariots,
+d&#39;autres à cheval, d&#39;autres les yeux bandés ; il y en
+avoit sans armes offensives ; il y en avoit qui étoient
+armés de pié en cap, &amp; d&#39;autres n&#39;avoient qu&#39;un bouclier 
+pour les couvrir. Les uns portoient pour armes
+une épée, un poignard, un coutelas ; d&#39;autres espadonnoient 
+avec deux épées, deux poignards, deux
+coutelas ; les uns n&#39;étoient que pour le matin, d&#39;autres 
+pour l&#39;après-midi : enfin on distingua chaque couple 
+de combattans par des noms dont il importe de
+donner la liste.
+</p>
+<p>
+1°. Les <i>gladiateurs</i> que j&#39;appelle sécuteurs, <i>secutores</i>, avoient pour armes une épée &amp; une espece de
+massue à bout plombé.
+</p>
+<p>
+2°. Les thraces, <i>thraces</i>, avoient une espece de
+coutelas ou cimeterre comme ceux de Thrace, d&#39;où
+venoit leur nom.
+</p>
+<p>
+3°. Les myrmillons, <i>myrmillones</i>, étoient armés
+d&#39;un bouclier &amp; d&#39;une faux, &amp; portoient un poission
+<pb n="7:695" facs="V7/ENC_7-695.jpeg" />
+<milestone unit="column" n="1" />
+sur le haut de leur casque. Les Romains leur avoient
+donné le sobriquet de <i>Gaulois</i>.
+</p>
+<p>
+4°. Les rétiaires, <i>retiarii</i>, portoient un trident
+d&#39;une main &amp; un filet de l&#39;autre ; ils combattoient
+en tunique, &amp; poursuivoient le myrmillon en lui
+criant:
+<blockquote> 
+« ce n&#39;est pas à toi, gaulois, à qui j&#39;en veux,
+c&#39;est à ton poisson ».
+</blockquote>
+<i>Non te peto, galle, sed piscem
+peto</i>.
+</p>
+<p>
+5°. Les hoplomaques, <i>hoplomachi</i>, étoient armés
+de toutes pieces, comme l&#39;indique leur nom grec.
+</p>
+<p>
+6°. Les provoqueurs, <i>provocatores</i>, adversaires des
+hoplomaques, étoient armés comme eux de toutes
+pieces.
+</p>
+<p>
+7°. Les dimacheres, <i>dimachaeri</i>, se battoient avec
+un poignard de chaque main.
+</p>
+<p>
+8°. Les essédaires, <i>essedarii</i>, combattoient toûjours
+sur des chariots.
+</p>
+<p>
+9°. Les andabates, <i>andabatae</i>, combattoient à
+cheval &amp; les yeux bandés, soit avec un bandeau,
+soit avec une armure de tête qui se rabattoit sur leur
+visage.
+</p>
+<p>
+10°. Les méridiens, <i>meridiani</i>, étoient ainsi nommés 
+parce qu&#39;ils entroient dans l&#39;arene sur le midi ;
+ils se battoient avec une espece de glaive contre ceux
+de leur même classe.
+</p>
+<p>
+11°. Les bestiaires, <i>bestiarii</i>, étoient des <i>gladiateurs</i> par état ou des braves qui combattoient contre 
+les bêtes féroces, pour montrer leur courage &amp;
+leur adresse, comme les toreros ou toréadors espagnols 
+de nos jours.
+</p>
+<p>
+12°. Les fiscaux, les césariens, ou les postulés,
+<i>fiscales, caesariani, postulatitii</i>, étoient ceux qu&#39;on
+entretenoit aux dépens du fisc ; ils prirent leur nom
+de <i>césariens</i>, parce qu&#39;ils étoient destinés pour les jeux
+où les empereurs assistoient ; &amp; comme ils étoient les
+plus braves &amp; les plus adroits de tous les <i>gladiateurs</i>,
+on les appella <i>postulés</i>, parce que le peuple les demandoit 
+très-souvent.
+</p>
+<p>
+On nommoit <i>catervarii</i> les <i>gladiateurs</i> qu&#39;on tiroit
+des diverses classes, &amp; qui se battoient en troupes
+plusieurs contre plusieurs.
+</p>
+<p>
+Je ne parlerai point de ceux qu&#39;on envoyoit quelquefois 
+chercher dans des festins de réjoüissance,
+parce qu&#39;ils ne se servoient point d&#39;armes meurtrieres,
+ils ne venoient que pour divertir les convives
+par l&#39;adresse &amp; l&#39;agilité qu&#39;ils faisoient paroître dans
+des combats simulés : je dirai seulement qu&#39;on les
+nommoit samnites, <i>samnites</i>, à cause qu&#39;ils s&#39;habilloient 
+à la maniere de cette nation.
+</p>
+<p>
+La même industrie qui forma les diverses classes
+de <i>gladiateurs</i>, en rendit l&#39;institution lucrative pour
+ceux qui les imaginerent ; on les appelloit lanistes,
+<i>lanistae:</i> on remettoit entre leurs mains les prisonniers,
+les criminels, &amp; les esclaves coupables. Ils y joignoient 
+d&#39;autres esclaves adroits, forts, &amp; robustes,
+qu&#39;ils achetoient pour les jeux, &amp; qu&#39;ils encourageoient 
+à se battre, par l&#39;espoir de la liberté; ils les
+dressoient, leur apprenoient à se bien servir de leurs
+armes, &amp; les exerçoient sans cesse à leurs combats
+respectifs, afin de les rendre intéressans pour les spectateurs : en quoi ils ne réussirent que trop.
+</p>
+<p>
+Outre les <i>gladiateurs</i> de ce genre, il y avoit quelquefois 
+des gens libres qui se loüoient pour cette escrime,
+soit par la dépravation des tems, soit par
+l&#39;extrème indigence, qui les portoit pour de l&#39;argent,
+à faire ce métier : tels etoient souvent des esclaves
+auparavant <i>gladiateurs</i>, &amp; qui avoient déjà obtenu
+l&#39;exemption &amp; la liberté. Les maîtres d&#39;escrime en
+loüant tous ces <i>gladiateurs</i> volontaires, les faisoient
+jurer qu&#39;ils combattroient jusqu&#39;à la mort.
+</p>
+<p>
+C&#39;étoit à ces maîtres qu&#39;on s&#39;adressoit lorsqu&#39;on
+vouloit donner les jeux de <i>gladiateurs ;</i> &amp; ils fournissoient 
+pour un prix convenu, la quantité de paires
+qu&#39;on desiroit, &amp; de différentes classes. Il arriva dans
+<milestone unit="column" n="2" />
+la suite des tems, que des premiers de la république
+curent à eux des <i>gladiateurs</i> en propre pour ce genre
+de spectacle, ou pour d&#39;autres motifs : Jules César
+étoit de ce nombre.
+</p>
+<p>
+Les édiles eurent d&#39;abord l&#39;intendance de ces jeux
+cruels ; ensuite les préteurs y présiderent : enfin Commode attribua cette inspection aux questeurs.
+</p>
+<p>
+Les empereurs, par goût ou pour gagner l&#39;amitié
+du peuple, faisoient représenter ces jeux le jour de
+leur naissance, dans les dédicaces des édifices publics,
+dans les triomphes, avant qu&#39;on partît pour
+la guerre, après quelque victoire, &amp; dans d&#39;autres occasions 
+solennelles, ou qu&#39;ils jugeoient à propos de
+rendre telles. Suétone rapporte que Tibere donna
+deux combats de <i>gladiateurs ;</i> l&#39;un en l&#39;honneur de son
+pere, &amp; l&#39;autre en l&#39;honneur de son ayeul Drusus.
+Le premier combat se donna dans la place publique,
+&amp; le second dans l&#39;amphithéatre, où cet empereur
+fit paroître des <i>gladiateurs</i> qui avoient eu leur congé,
+&amp; auxquels il promit cent mille sesterces de récompense,
+c&#39;est-à-dire environ vingt-quatre mille
+de nos livres, l&#39;argent à cinquante francs le marc.
+L&#39;empereur Claude limita d&#39;abord ces spectacles à
+certains termes fixes ; mais peu après il annulla lui-même 
+son ordonnance.
+</p>
+<p>
+Quelque tems avant le jour arrêté du combat,
+celui qui présidoit aux jeux en avertissoit le peuple
+par des affiches, où l&#39;on indiquoit les especes de <i>gladiateurs</i> qui devoient combattre, leurs noms, &amp; les
+marques qui les devoient distinguer ; car ils prenoient 
+chacun quelque marque particuliere, comme
+des plumes de paon ou d&#39;autres oiseaux.
+</p>
+<p>
+On spécifioit aussi le tems que dureroit le spectacle,
+&amp; combien il y auroit de paires différentes de
+<i>gladiateurs</i>, parce qu&#39;ils étoient toûjours par couples : on représentoit quelquefois tout cela par un
+tableau exposé dans la place publique.
+</p>
+<p>
+Le jour du spectacle on apportoit sur l&#39;arene de
+deux sortes d&#39;armes ; les premieres étoient des bâtons 
+noüeux, ou fleurets de bois nommés <i>rudes ;</i> &amp;
+les secondes étoient de véritables poignards, glaives,
+épées, coutelas, <i>&amp;c.</i> Les premieres armes
+s&#39;appelloient <i>arma lusoria</i>, armes courtoises ; les secondes,
+<i>arma decretoria</i>, armes décernées, parce
+qu&#39;elles se donnoient par decret du préteur, ou de
+celui qui faisoit la dépense du spectacle. Les <i>gladiateurs</i> commençoient par s&#39;escrimer des premieres armes,
+&amp; c&#39;étoit-là le prélude ; ensuite ils prenoient
+les secondes, avec lesquelles ils se battoient nuds
+ou en tunique. La premiere sorte de combat s&#39;appelloit 
+<i>praeludere</i>, joüer ; &amp; la seconde, <i>dimicare ad
+certum</i>, se battre à fer émoulu.
+</p>
+<p>
+Au premier sang du <i>gladiateur</i> qui couloit, on
+croit, <i>il est blessé ;</i> &amp; si dans le moment le blessé mettoit 
+bas les armes, c&#39;étoit un aveu qu&#39;il faisoit lui-même 
+de sa défaite : mais sa vie dépendoit des spectateurs 
+ou du président des jeux ; néanmoins si l&#39;empereur 
+survenoit dans cet instant, il lui donnoit sa
+grace, soit simplement, soit quelquefois avec la condition 
+que s&#39;il rechappoit de sa blessure, cette grace
+ne l&#39;exempteroit pas de combattre encore une autre
+fois.
+</p>
+<p>
+Dans le cours ordinaire des choses, c&#39;étoit le peuple 
+qui décidoit de la vie &amp; de la mort du <i>gladiateur</i>
+blessé: s&#39;il s&#39;étoit conduit avec adresse &amp; avec courage,
+sa grace lui étoit presque toûjours accordée ;
+mais s&#39;il s&#39;étoit comporté lâchement dans le combat,
+son arrêt de mort etoit rarement douteux. Le peuple
+ne faisoit que montrer sa main avec le pouce plié
+sous les doigts, pour indiquer qu&#39;il sauvoit la vie du
+<i>gladiateur ;</i> &amp; pour porter son arrêt de mort, il lui
+suffisoit de montrer sa main avec le pouce levé &amp; dirigé 
+contre le malheureux. Le <i>gladiateur</i> blessé connoissoit 
+si-bien que ce dernier signal étoit celui de sa
+<pb n="7:696" facs="V7/ENC_7-696.jpeg" />
+<milestone unit="column" n="1" />
+perte, qu&#39;il avoit coûtume, sitôt qu&#39;il l&#39;appercevoit,
+de présenter la gorge pour recevoir le coup mortel.
+Après qu&#39;il étoit expiré, on retiroit son corps de
+dessus l&#39;arene, afin de cacher cet objet défiguré à la
+vûe des spectateurs.
+</p>
+<p>
+Tout <i>gladiateur</i> qui avoit servi trois ans dans l&#39;arene,
+avoit son congé de droit ; &amp; même sans attendre 
+ces trois ans, lorsqu&#39;il donnoit en quelque
+occasion des marques extraordinaires de son adresse
+&amp; de son courage, le peuple lui faisoit donner ce
+congé sur le champ. En attendant, la récompense
+qu&#39;on accordoit aux <i>gladiateurs</i> victorieux, étoient
+une palme, une somme d&#39;argent, un prix quelquefois 
+considérable, &amp; l&#39;empereur Antonin confirma
+tous ces usages. Mais comme il arrivoit aux maîtres
+d&#39;escrime qui trafiquoient de <i>gladiateurs</i>, pour augmenter 
+leur gain, de faire encore combattre dans
+d&#39;autres spectacles ceux qui avoient déjà triomphé,
+à-moins que le peuple ne leur eût accordé l&#39;exemption 
+qu&#39;on appelloit en latin <i>missio</i>, Auguste ordonna
+pour réprimer cet abus des lanistes, qu&#39;on ne feroit
+plus combattre les <i>gladiateurs</i>, sans accorder à ceux
+qui seroient victorieux un congé absolu, pour ne
+plus combattre s&#39;ils ne le vouloient pas. Cependant
+pour obtenir l&#39;affranchissement il falloit au commencement 
+qu&#39;ils eussent été plusieurs fois vainqueurs ;
+dans la suite il devint ordinaire, en leur accordant
+l&#39;exemption, de leur donner aussi l&#39;affranchissement.
+</p>
+<p>
+Cet affranchissement qui tiroit les <i>gladiateurs</i> de
+l&#39;état de servitude, qui de plus leur permettoit de
+tester, mais qui ne leur procuroit pas la qualité de
+citoyen ; cet affranchissement, dis-je, se faisoit par
+le préteur, en leur mettant à la main un bâton
+noüeux comme un bâton d&#39;épine, le même qui servoit 
+d&#39;arme courtoise, &amp; qu&#39;on nommoit <i>rudis</i>.
+Ceux qui avoient obtenu ce bâton, étoient appellés
+rudiaires, <i>rudiarii</i>. On joignoit encore quelquefois
+à l&#39;affranchissement une recompense purement honoraire,
+pour témoignage de la bravoure du <i>gladiateur ;</i> c&#39;étoit une guirlande ou espece de couronne
+de fleurs entortillée de rubans de laine, qu&#39;on nommoit 
+<i>lemnisci</i>, qu&#39;il mettoit sur la tête, &amp; dont les
+bouts de ruban pendoient sur les épaules : de-là vient
+qu&#39;on appelloit <i>lemniscati</i> ceux qui portoient cette
+marque de distinction.
+</p>
+<p>
+Quoique ces gens-là fussent libres, qu&#39;on ne pût
+plus les obliger à combattre, &amp; qu&#39;ils fussent distingués 
+de leurs camarades par le bâton &amp; le bonnet
+couronné, néanmoins on en voyoit tous les jours
+qui pour de l&#39;argent retournoient dans l&#39;arene, &amp;
+s&#39;exposoient aux mêmes dangers dont ils étoient sortis 
+vainqueurs ; leur fureur pour les combats de l&#39;arene 
+égaloit la passion que le peuple y portoit.
+</p>
+<p>
+Quand on recevoit des <i>gladiateurs</i> dans la troupe,
+la cérémonie s&#39;en faisoit dans le temple d&#39;Hercule ;
+&amp; quand après avoir obtenu l&#39;exemption, la liberté
+&amp; le bâton, ils quittoient pour toûjours la profession
+de <i>gladiateur</i>, ils alloient offrir leurs armes au fils de
+Jupiter &amp; d&#39;Alcmene, comme à leur dieu tutélaire,
+&amp; les attachoient à la porte de son temple. C&#39;est
+pour cela qu&#39;encore aujourd&#39;hui on met pour enseigne 
+aux salles d&#39;armes, un bras armé d&#39;un fleuret.
+</p>
+<p>
+On employa souvent des <i>gladiateurs</i> dans les troupes ; 
+on le pratiqua dans les guerres civiles de la république 
+&amp; du triumvirat, &amp; l&#39;on continua cette pratique 
+sous le regne des empereurs. Othon allant combattre 
+Vitellius, enrôla deux mille <i>gladiateurs</i> dans
+son armée : on en entretenoit toûjours à ce dessein un
+grand nombre aux dépens du fisc. Sous Gordien III.
+on en comptoit jusqu&#39;à mille paires : Marc-Aurele
+les emmena tous dans la guerre contre les Marcomans ; &amp; le peuple romain les vit partir avec douleur,
+craignant que l&#39;empereur ne lui donnât plus
+des jeux qui lui étoient si chers.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Il y avoit déjà si long-tems qu&#39;on voyoit ce peuple 
+en faire ses délices, qu&#39;il fut défendu sous la république,
+par la loi tullienne, à tout citoyen qui
+briguoit les magistratures, de donner aucun spectacle 
+de <i>gladiateurs</i> au peuple, de peur que ceux qui
+employeroient ce moyen, ne gagnassent sa bienveillance 
+&amp; ses suffrages, au préjudice des autres postulans.
+</p>
+<p>
+Mais l&#39;inclination de plusieurs empereurs pour
+ces jeux sanguinaires, perdit l&#39;état en en multipliant
+l&#39;usage. Néron, au rapport de Suétone, fit paroître
+dans ces tragiques scenes des chevaliers &amp; des sénateurs 
+romains en grand nombre, qu&#39;il obligea de se
+battre les uns contre les autres, ou contre des bêtes
+sauvages : Dion assûre qu&#39;il se trouva même des gens
+assez infames dans ces deux ordres, pour s&#39;offrir à
+combattre sur l&#39;arene comme les <i>gladiateurs</i>, par une
+honteuse complaisance pour le prince. L&#39;empereur
+Commode fit plus, il exerça lui-même la gladiature
+contre des bêtes féroces.
+</p>
+<p>
+C&#39;est dans ce tems-là que cette fureur devint tellement 
+à la mode, qu&#39;on vit aussi les dames romaines 
+exercer volontairement cette indigne métier,
+&amp; combattre dans l&#39;amphithéatre les unes contre les
+autres, se glorifiant d&#39;y faire paroître leur adresse
+&amp; leur intrépidité: <i>nec virorum modo pugnas, sed &amp;
+feminarum</i>. . . . .
+</p>
+<p>
+Enfin, après l&#39;établissement de la religion chrétienne 
+&amp; le transport de l&#39;empire à Byzance, de nouveaux 
+changemens dans les usages commencerent à
+renaître ; des moeurs plus douces semblerent vouloir
+succéder. Je serois charmé d&#39;ajoûter, avec la foule
+des écrivains, que Constantin abolit les combats de
+<i>gladiateurs</i> en Orient ; mais je trouve seulement qu&#39;il
+défendit d&#39;y employer ceux qui étoient condamnés
+pour leurs forfaits, ordonnant au préfet du prétoire
+de les envoyer plûtôt travailler aux mines : son ordonnance 
+est datée du premier Octobre 325, à Béryle en Phénicie. Les empereurs Honorius &amp; Arcadius tenterent de faire perdre l&#39;usage de ces jeux en
+Occident ; mais ces affreux divertissemens ne finirent 
+en réalité qu&#39;avec l&#39;empire romain, lorsqu&#39;il
+s&#39;affaissa tout-à-coup par l&#39;invasion de Théodoric roi
+des Goths, vers l&#39;an 500 de Jesus-Christ.
+</p>
+<p>
+Ce n&#39;est pas toutefois la durée de ces jeux qui doit
+surprendre davantage, ce sont les recherches fines
+&amp; barbares auxquelles on les porta pendant tant de
+siecles, qui semblent incroyables. Non-seulement
+on rafina sur l&#39;art d&#39;instruire les <i>gladiateurs</i>, de les
+former, d&#39;animer leur courage, de les faire expirer,
+pour ainsi dire, de bonne grace ; on rafina même sur
+les instrumens meurtriers que ces malheureux devoient 
+mettre en oeuvre pour s&#39;entre-tuer. Ce n&#39;étoit 
+point au hasard qu&#39;on faisoit battre le <i>gladiateur</i>
+thrace contre le sécuteur, ou qu&#39;on armoit le rétiaire
+d&#39;une façon, &amp; le myrrmillon d&#39;une autre ; on cherchoit 
+entre les armes offensives &amp; défensives de ces
+quadrilles, une combinaison qui rendît leurs combats 
+plus tardifs &amp; plus affreux. En diversifiant leurs
+armes, on se proposoit de diversifier le genre de leur
+mort ; on les nourrissoit même avec des pâtes d&#39;orge
+&amp; des alimens propres à les entretenir dans l&#39;embonpoint,
+afin que le sang s&#39;écoulât plus lentement par
+les blessures qu&#39;ils recevoient, &amp; que les spectateurs
+pussent joüir aussi plus long-tems de leur agonie.
+</p>
+<p>
+Qu&#39;on ne pense point que ces spectateurs fussent
+la lie du peuple, tous les ordres les plus distingués
+de l&#39;empire assistoient à ces cruels amusemens ; les
+vestales elles-mêmes ne manquoient pas de s&#39;y trouver : elles y étoient placées avec éclat au premier
+degré de l&#39;amphithéatre. Il est bon de lire le tableau
+poétique que Prudence fait de cette pudeur qui colorant 
+leur front, se plaisoit dans le mouvement de
+l&#39;arene ; de ces regards sacrés avides de blessures ;
+<pb n="7:697" facs="V7/ENC_7-697.jpeg" />
+<milestone unit="column" n="1" />
+de ces ornemens si respectables que l&#39;on revêtoit pour
+jouir de la cruelle adresse des hommes ; de ces ames
+tendres qui s&#39;évanouissoient aux coups les plus sanglans,
+&amp; se réveilloient toutes les fois que le couteau
+se plongeoit dans la gorge d&#39;un malheureux ; enfin de
+la compassion de ces vierges timides, qui par un signe
+fatal décidoient des restes de la vie d&#39;un <i>gladiateur:</i>
+</p>
+<p>
+<lg>
+<i>. . . . . . . Pectusque jacentis
+Virgo modesta jubet converso pollice rumpi,
+Ne lateat pais ulla animae vitalibus imis
+Altius impresso dum palpitat ense secutor</i>.
+</lg>
+</p>
+<p>
+Il ne faut pas cependant que ce tableau pittoresque 
+joint aux autres détails historiques qu&#39;on a exposés 
+jusqu&#39;ici, nous inspire trop d&#39;horreur pour les
+Romains &amp; pour les Vestales ; il y avoit long-tems
+que les Romains blâmoient leur goût pour les spectacles 
+de l&#39;arene, il y avoit long-tems qu&#39;ils connoissoient 
+les affreux abus qui s&#39;y étoient glissés:
+l&#39;humanité n&#39;étoit point bannie de leur coeur à d&#39;autres 
+égards. Dans le tems même dont nous parlons,
+un homme passoit chez eux pour barbare, s&#39;il faisoit 
+marquer d&#39;un fer chaud son esclave qui avoit
+volé le linge de table ; action pour laquelle les lois
+de plusieurs pays chrétiens condamnent à mort nos
+domestiques, qui sont des hommes d&#39;une condition
+libre. D&#39;où vient donc, me dira-t-on, ce contraste
+bisarre dans leurs moeurs? d&#39;où vient ce plaisir extrème 
+qu&#39;ils trouvoient aux spectacles de l&#39;amphithéatre?
+Il venoit principalement, ce plaisir, d&#39;une
+espece de mouvement machinal que la raison réprime 
+mal, &amp; qui fait par-tout courir les hommes après
+les objets les plus propres à déchirer le coeur. Le
+peuple dans tous les pays va voir un spectacle des
+plus affreux, je veux dire le supplice d&#39;un autre homme,
+sur-tout si cet homme doit subir la rigueur des
+lois sur un échafaut par d&#39;horribles tourmens, l&#39;émotion 
+qu&#39;on éprouve à un tel spectacle, devient
+une espece de passion dont les mouvemens remuent
+l&#39;ame avec violence ; &amp; l&#39;on s&#39;y laisse entrainer,
+malgré les idées tristes &amp; importunes qui accompagnent 
+&amp; qui suivent ces mouvemens. Repassez, si
+vous le voulez, avec M. l&#39;abbé du Bos, qui a si bien
+prouvé cette vérité, l&#39;histoire de toutes les nations
+les plus policées, vous les verrez toutes se livrer à
+l&#39;attrait des spectacles barbares, dans le tems que la
+nature témoigne par un frémissement intérieur,
+qu&#39;elle se soûleve contre son propre plaisir.
+</p>
+<p>
+Les Grecs, que sans doute personne ne taxera de
+penchant à la cruauté, s&#39;accoûtumerent eux-mêmes
+au spectacle des <i>gladiateurs</i>, quoiqu&#39;ils n&#39;eussent
+point été familiarisés à ces horreurs dès l&#39;enfance.
+Sous le regne d&#39;Antiochus-Epiphane roi de Syrie,
+les Arts &amp; les Sciences faites pour corriger la férocité 
+de l&#39;homme, florissoient depuis long-tems dans
+dans tous les pays habités par les Grecs ; quelques
+usages pratiqués autrefois dans les jeux funebres,
+&amp; qui pouvoient ressembler aux combats des <i>gladiateurs</i>, y étoient abolis depuis plusieurs siecles.
+Antiochus qui vouloit par sa magnificence se concilier 
+la bienveillance des nations, fit venir de Rome à grands frais des <i>gladiateurs</i>, pour donner aux
+Grecs, amoureux de toutes les fêtes, ce spectacle
+nouveau. D&#39;abord, dit Tite-Live, l&#39;arene ne leur
+parut qu&#39;un objet d&#39;horreur. Antiochus ne se rebuta
+point, il fit combattre les champions seulement jusqu&#39;au sang. On regarda ces combats mitigés avec
+plaisir : bientôt on ne détourna plus les yeux des
+combats à toute outrance ; ensuite on s&#39;y accoûtuma
+insensiblement, aux dépens de l&#39;humanité. Il se forma 
+enfin des <i>gladiateurs</i> dans le pays, &amp; ces spectacles 
+devinrent encore des écoles pour les artistes:
+ce fut-là où Ctésilas étudia son <i>gladiateur</i> mourant,
+<milestone unit="column" n="2" />
+dans lequel on pouvoit voir ce qui lui restoit encore
+de vie.
+</p>
+<p>
+Nous avons pour voisin, ajoûte avec raison M.
+l&#39;abbé du Bos, un peuple tellement avare des souffrances 
+des hommes, qu&#39;il respecte encore l&#39;humanité 
+dans les plus grands scélérats ; tous les supplices
+dont il permet l&#39;usage, sont de ceux qui terminent
+les jours des plus grands criminels, sans leur faire
+souffrir d&#39;autre peine que la mort. Néanmoins ce
+peuple si respectueux envers l&#39;humanité, se plaît à
+voir les bêtes s&#39;entre-déchirer ; il a même rendu capables 
+de se tuer, ceux des animaux à qui la nature
+a voulu refuser des armes qui pussent faire des blessures 
+mortelles à leurs semblables : il leur fournit
+avec industrie des armes artificielles qui blessent facilement 
+à mort. <i>Voyez</i> <sc><ref target="head:Combat du Coq" type="search">Combat du Coq</ref></sc>, (<i>Encycl. supplém</i>.)
+</p>
+<p>
+Le peuple dont on parle, regarde toûjours avec
+tant de plaisir des hommes payés pour se battre jusqu&#39;à se faire des blessures dont le sang coule, qu&#39;on
+peut croire qu&#39;il auroit de véritables <i>gladiateurs</i> à la
+romaine, si la religion chrétienne qu&#39;il professe, ne
+défendoit absolument de verser le sang des hommes,
+hors le cas d&#39;une absolue nécessité.
+</p>
+<p>
+On peut assûrer la même chose d&#39;autres peuples
+polis, éclairés, &amp; qui font profession de la même
+religion ennemie du sang humain. Nous avons dans
+nos annales une preuve bien forte, pour montrer
+qu&#39;il est dans les spectacles cruels une espece d&#39;attrait.
+Les combats en champ-clos, entre deux ou
+plusieurs champions, ont été long-tems en usage
+parmi nous, &amp; les personnes les plus considérables
+de la nation y tiroient l&#39;épée, par un motif plus sérieux 
+que de divertir l&#39;assemblée ; c&#39;étoit pour s&#39;entre 
+-tuer : on accouroit cependant à ces combats,
+comme à des fêtes.
+</p>
+<p>
+Après tout, je ne dissimulerai point que les Romains n&#39;ayent été le peuple du monde qui a fait des
+jeux barbares son plus cher divertissement, &amp; tout
+ce que j&#39;al dit là-dessus ne le démontre que trop. Cicéron a eu tort, ce me semble, de ne condamner
+que les abus qui s&#39;y étoient glissés, &amp; d&#39;approuver
+le spectacle de l&#39;arene, lorsque les seuls criminels y
+combattoient en présence du peuple. Pour moi, je
+crains fort que ces jeux meurtriers n&#39;ayent entretenu 
+les Romains dans une certaine humeur sanguinaire 
+que Rome dévoila dès son origine, &amp; dont elle
+se fit une habitude par les guerres continuelles qu&#39;elle
+soûtint pendant plus de cinq cents ans.
+</p>
+<p>
+Concluons qu&#39;il faut proscrire, non-seulement
+par religion, mais par esprit philosophique, mais
+par amour de l&#39;humanité, tout jeu? tout spectacle
+qui pourroit insensiblement familiariser les hommes
+avec des principes opposés à la compassion.
+</p>
+<p>
+Ceux de la morale des Athéniens ne leur permirent 
+point d&#39;avoir d&#39;autres sentimens que des sentimens 
+d&#39;aversion pour le jeu des <i>gladiateurs:</i> jamais
+ils ne voulurent les admettre dans leur ville, malgré 
+l&#39;exemple des autres peuples de la Grece ; &amp;
+quelqu&#39;un s&#39;étant un jour avisé de proposer publiquement 
+ces jeux, afin, dit-il, qu&#39;Athenes ne le
+cede pas à Corinthe:
+<blockquote> 
+« Renversez donc auparavant,
+s&#39;écria un athénien avec vivacité, renversez l&#39;autel 
+que nos peres, il y a plus de mille ans, ont
+érigé à la Miséricorde ».
+</blockquote>
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

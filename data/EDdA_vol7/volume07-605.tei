@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28059" id="50:11:3" vol="7">
+<index type="head" value="Fourré" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Bijouterie &amp; Orfévrerie." />
+<index type="normclass" value="Orfévrerie |  | Bijoutier" />
+<index type="englishclass" value="Silversmithing |  | Jewellery" />
+<index type="generatedclass" value="Monnoie" />
+<index type="pos" value="NA" />
+<head>Fourré</head>
+<p>
+<sc>* Fourré</sc>, (<i>Bijouterie &amp; Orfévrerie.</i>) On dit qu&#39;un
+bijou est <i>fourré</i> ou garni, lorsqu&#39;il y a quelque corps
+étranger, de vil prix, &amp; non apparent, couvert &amp;
+dérobé par l&#39;émail, l&#39;or ou l&#39;argent. Les bijoux <i>fourrés</i> avoient d&#39;abord été proscrits par la cour des monnoies ; 
+mais sur la représentation du tort considérable 
+que cet arrêt faisoit au commerce de la nation,
+le conseil a révoqué l&#39;arrêt de la cour des monnoies,
+&amp; permis la fabrication des bijoux garnis, comme
+ouvrages où la considération de la matiere n&#39;étoit
+presque de nulle importance, en comparaison du
+prix de la façon.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

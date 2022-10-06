@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29667" id="53:139" vol="7">
+<index type="head" value="GLASCOW" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GLASCOW</head>
+<p>
+GLASCOW, <i>Glarona</i>, (<i>Géog.</i>) ville d&#39;Ecosse dans
+la province de Clydale, avec une célebre université; 
+elle étoit autrefois archi-épiscopale : la cathédrale 
+subsiste encore, &amp; c&#39;est un beau morceau d&#39;Architecture. On appelle Glascow <i>le paradis d&#39;Ecosse</i>. Il
+s&#39;y fait un grand commerce, à cause de son port &amp;
+de son havre ; elle est sur la Clyde, à quatre lieues
+S. O. de Dumbarton, quatorze O. d&#39;Edimbourg, six
+de Sterling, cent-quatorze N. O. de Londres. <i>Longit.
+13. 36. latit. 56. 20</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Cette ville a produit plusieurs gens éminens dans
+les Sciences ; je n&#39;en nommerai que deux qui se présentent 
+à ma mémoire, Cameron &amp; Spootswood. Le
+premier s&#39;est distingué par ses <i>remarques sur le nouveau
+testament</i>, qui sont également savantes &amp; judicieuses ;
+il mourut à Montauban vers l&#39;an 1625 à quarante-six 
+ans. Spootswood devint archevêque de Saint André, &amp; primat de toute l&#39;Ecosse : il couronna Charles I. en 1633, fut lord chancelier, &amp; mourut en
+1639, âgé de soixante-quatorze ans. On a de lui une
+<i>histoire ecclésiastique d&#39;Ecosse</i> fort estimée ; elle s&#39;étend
+depuis l&#39;an 203 de J. C. jusqu&#39;en 1624. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

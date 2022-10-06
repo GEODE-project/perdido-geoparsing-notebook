@@ -1,0 +1,167 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29213" id="52:52:1" vol="7">
+<index type="head" value="Gaule" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Manége" />
+<index type="normclass" value="Manège" />
+<index type="englishclass" value="Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="s.f." />
+<head>Gaule</head>
+<p>
+<sc>Gaule</sc>, s. f. (<i>Manége</i>) On appelle ainsi dans l&#39;école
+la branche de bouleau mince, legere &amp; effeuillée,
+dont la main droite de chaque cavalier est armée ;
+de-là la dénomination particuliere de main de la <i>gaule</i> pour designer cette même main.
+</p>
+<p>
+La <i>gaule</i> doit avoir quatre piés ou environ de longueur ; 
+lorsqu&#39;elle en a davantage, on s&#39;en sert moins
+commodément &amp; avec moins de grace.
+</p>
+<p>
+Les commençans sont assujettis à la tenir la pointe 
+en l&#39;air à la hauteur de leurs yeux, &amp; au-dessus
+de l&#39;oreille gauche du cheval ; les éleves avancés la
+tiennent de même, ou la pointe en bas &amp; le long
+de l&#39;épaule de l&#39;animal, ou la pointe en arriere au-dessus 
+de sa croupe, ou différemment, selon leur volonté,
+l&#39;usage qu&#39;ils se proposent d&#39;en faire, &amp; la plus
+grande facilité de leur action, relativement aux effets 
+qu&#39;elle peut produire. L&#39;habitude de la porter
+de la main droite dispose d&#39;ailleurs le cavalier à se
+servir ensuite de son épée avec liberté, &amp; à manier,
+quoique cette main en soit saisie, toûjours son cheval 
+avec aisance.
+</p>
+<p>
+Par le moyen de la <i>gaule</i>, tantôt nous prévenons
+les fautes, &amp; tantôt nous les corrigeons ; nous l&#39;employons 
+donc ou comme aide ou comme châtiment.
+Sion en frappe vigoureusement le cheval, on le punit
+par l&#39;impression douloureuse qui en résulte, tandis
+que des coups legers ne sont que des moyens de l&#39;inviter 
+avec douceur &amp; sans l&#39;étonner à des mouvemens 
+que l&#39;on desire de lui ; c&#39;est dans ce dernier
+sens que la <i>gaule</i> est véritablement une aide.
+</p>
+<p>
+Nous touchons de la <i>gaule</i> sur l&#39;épaule d&#39;un cheval 
+que nous voulons lever à courbettes, dont nous
+souhaitons tirer des pesades, qui dans les sauts se
+montre trop leger du derriere. Nous aidons le sauteur 
+qui s&#39;accroupit, qui balotte, qui n&#39;épare point,
+en adressant nos coups sur la place du trousse-queue ;
+nous sollicitons des croupades en les dirigeant au-dessus 
+des jarrets, <i>&amp;c.</i>
+<pb n="7:528" facs="V7/ENC_7-528.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le sens du toucher n&#39;est pas le seul que la <i>gaule</i>
+affecte, ses aides s&#39;impriment encore sur ceux de
+l&#39;oüie &amp; de la vûe : l&#39;action de la faire siffler en avant
+&amp; en arriere, ou d&#39;en frapper les murs, chasse le
+cheval en avant, &amp; l&#39;effraye même quelquefois trop,
+puisqu&#39;elle le détermine à fuir, sur-tout quand il n&#39;est
+pas accoûtumé ce bruit ; celle de la porter tantôt
+d&#39;un côté, tantôt d&#39;un autre, lui indique celui sur
+lequel il doit se mouvoir, soit dans les changemens,
+soit dans les contre-changemens de main de deux
+pistes, &amp; dans lesquels les hanches sont observées:
+mais on doit bannir des manéges bien réglés cette
+aide prétendue qui confirme les chevaux dans une
+mauvaise routine, &amp; qui est fort éloignée des principes 
+que les éleves doivent recevoir. Du reste,
+rien n&#39;est plus pitoyable que de voir des maîtres harceler 
+eux-mêmes sans cesse les chevaux avec la <i>gaule</i>, &amp; abuser misérablement d&#39;un moyen utile dans
+de certains cas, mais qui dans d&#39;autres est aussi desagréable 
+aux spectateurs que fatiguant pour l&#39;animal.
+</p>
+<p>
+<i>Gaule d&#39;écuyer</i>, est une <i>gaule</i> semblable à celle
+des éleves, à l&#39;exception qu&#39;elle est un peu plus forte,
+&amp; beaucoup plus longue ; le maître en fait usage
+sur les chevaux des piliers.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

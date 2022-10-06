@@ -1,0 +1,244 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29263" id="52:89:1" vol="7">
+<index type="head" value="Gelée blanche" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Ratte" />
+<index type="shortauth" value="Ratte" />
+<index type="kafnum" value="114" />
+<index type="kafauth" value="Ratte, Etienne-Hyacinthe de (1722-1805)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physique." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Gelée blanche</head>
+<p>
+<sc>Gelée blanche</sc>, (<i>Physique.</i>) c&#39;est le nom que
+l&#39;on donne à une multitude de petits glaçons fort
+menus qu&#39;on apperçoit le matin vers la fin de l&#39;autonne,
+en certains jours d&#39;hyver, quelquefois même
+dans le printems, sur le gazon, sur les toîts des bâtimens,
+<i>&amp;c.</i> où ils forment une couche, dont la blancheur 
+égale presque celle de la neige. La <i>gelée blanche</i>, lorsqu&#39;elle paroît, tient la place de l&#39;humidité,
+dont la rosée mouille en d&#39;autres tems la plûpart
+des corps terrestres. Il faut plus de froid pour la production 
+de la <i>gelée blanche</i>, que pour humecter la
+terre de rosée. A cela près, la disposition de l&#39;atmosphere 
+est absolument la même dans l&#39;un &amp; l&#39;autre 
+cas. La <i>gelée blanche</i> n&#39;est donc qu&#39;une rosée congelée.
+<i>Voyez</i> <sc><ref target="head:Rosée" type="search">Rosée</ref></sc>.
+</p>
+<p>
+Toutes les especes de rosée peuvent se réduire à
+deux, dont l&#39;une tombe de l&#39;air, &amp; l&#39;autre s&#39;eleve
+de la terre. Chacune de ces deux especes peut être
+changée en <i>gelee blanche</i>.
+</p>
+<p>
+Les particules d&#39;eau qui composent l&#39;une &amp; l&#39;autre 
+rosée, sont invisibles dans l&#39;atmosphere ; ou, si
+elles s&#39;y rendent sensibles, c&#39;est seulement sous la
+forme d&#39;un brouillard peu épais : en un mot elles
+sont dans l&#39;air en forme de vapeurs. Elles ne se réunissent 
+en gouttes sensibles que sur la surface des
+corps, qui attirent avec une certaine force l&#39;humidité 
+de l&#39;air. Or l&#39;eau réduite en vapeurs, soit visibles,
+soit invisibles, ne se gele point tant qu&#39;elle est
+dans cet état. C&#39;est une vérité constante par toutes
+les observations, &amp; qui doit passer pour un principe
+d&#39;experience. L&#39;eau, quand elle se convertit en neige
+ou en grêle, n&#39;est plus en état de vapeurs. <i>Voyez</i>
+<sc><ref target="head:Neige" type="search">Neige</ref> <i>&amp;</i> <ref target="head:Grêle" type="search">Grêle</ref></sc>. Il suit évidemment de-là que la
+rosée ne se gele point dans l&#39;air, mais sur la surface
+de la terre, &amp; de la plupart des corps terrestres,
+lorsqu&#39;elle y rencontre un froid suffisant pour la
+glacer.
+</p>
+<p>
+Une autre preuve que la rosée ne se gele point
+dans l&#39;air, c&#39;est que la <i>gelée blanche</i> adhere sensiblement 
+à la surface des corps sur lesquels on l&#39;apperçoit 
+le matin. Or la glace n&#39;adhere d&#39;une maniere
+sensible aux autres corps solides, que quand l&#39;eau
+dont elle est formée s&#39;est glacée sur ces corps mêmes,
+qu&#39;elle mouilloit auparavant. La neige &amp; la
+grele n&#39;adherent point aux corps sur lesquels elles
+tombent, lorsque ces corps sont bien secs, &amp; qu&#39;elles
+ne s&#39;y fondent point pour geler de nouveau. De
+Chales, <i>cursus mathemat. tome IV. de meteoris</i>.
+</p>
+<p>
+Ce que nous venons de dire, que la rosee se convertit 
+en <i>gelée blanche</i> sur la surface des corps terrestres,
+&amp; non dans l&#39;air, est reconnu de tous les
+Physiciens.
+</p>
+<p>
+On a donc de la <i>gelee blanche</i> toutes les fois que
+les petites gouttes d&#39;eau, dont la rosee couvre les
+corps solides par lesquels elle est attirée, trouvent
+sur la surface de ces corps un froid assez considérable 
+pour ôter à ces gouttelettes leur liquidité, &amp; les
+changer en autant de petits glaçons. Celles de ces
+differentes gouttes qui se sont formées les premieres,
+sont aussi les premieres à se geler. A celles-ci il
+en succede d&#39;autres qui se glacent de même, &amp; ainsi
+de suite. Toutes ces particules d&#39;eau très-deliées, &amp;
+qui, comme nous venons de le dire, se sont glacées
+separement, s&#39;unissent en un corps rare &amp; leger.
+<pb n="7:542" facs="V7/ENC_7-542.jpeg" />
+<milestone unit="column" n="1" />
+L&#39;arrangement qu&#39;elles prennent est sujet à plusieurs
+variétés, au-travers desquelles il est facile d&#39;appercevoir 
+quelque chose de constant. La <i>gelée blanche</i>
+est toûjours composée de plusieurs filets oblongs,
+diversement inclinés les uns par rapport aux autres,
+ce qu&#39;on observe dans toutes les autres congelations.
+</p>
+<p>
+Chacun des petits glaçons qui composent la <i>gelée
+blanche</i>, étant vû séparément au microscope, est
+transparent ; cependant la <i>gelée blanche</i> considérée
+en total ne l&#39;est point ; les intervalles très-peu réguliers 
+que laissent entr&#39;eux les petits glaçons qui se
+touchent par un petit nombre de points, donnent
+lieu à une forte réflexion de la lumiere : de-là l&#39;opacité 
+&amp; la blancheur. C&#39;est ainsi que le verre est
+blanc, quand il est pulvérisé. La blancheur de la
+neige dépend de la même cause. <i>Voyez</i> <sc><ref target="head:Neige" type="search">Neige</ref></sc>.
+</p>
+<p>
+Vers la fin de l&#39;autonne l&#39;atmosphere se refroidit ;
+bien-tôt ce refroidissement se communique à la terre,
+qui par-là acquiert la froideur nécessaire pour la
+formation de la <i>gelée blanche</i>. Pendant l&#39;hyver la terre
+est souvent froide au terme de la glace, &amp; au-dessous ; lorsque le tems s&#39;adoucit après quelques jours
+de <i>gelée</i>, la froideur de l&#39;air surpasse pendant quelque 
+tems celle de l&#39;atmosphere, parce que les corps
+plus denses s&#39;échauffent plus difficilement. Dans ces
+circonstances, si l&#39;air est chargé de particules d&#39;eau,
+on aura de la <i>gelée blanche</i>.
+</p>
+<p>
+La <i>gelée blanche</i> doit être mise, comme la rosée,
+au nombre des météores aqueux. <i>Voyez</i> <sc><ref target="head:Météore" type="search">Météore</ref></sc>.
+</p>
+<p>
+Les corps que la rosée ne mouille point, ne se
+couvrent point de <i>gelée blanche ;</i> ainsi on n&#39;en voit
+jamais sur les métaux polis ; au contraire elle est
+fort abondante sur le verre &amp; la porcelaine, sur
+les plantes, &amp; sur tous les autres corps qui attirent
+puissamment l&#39;humidité de l&#39;air. <i>Voyez dans le recueil
+de l&#39;académie des Sciences, année 1751. un excellent
+mémoire de M.</i> le Roy <i>docteur en Medecine, sur la suspension 
+de l&#39;eau dans l&#39;air &amp; sur la rosée. L&#39;article</i> <sc><ref target="head:Evaporation" type="search">Evaporation</ref></sc> <i>est du même auteur</i>.
+</p>
+<p>
+Dès que le soleil commence à faire sentir sa chaleur,
+la <i>gelée blanche</i> ne manque pas de se fondre &amp;
+de se dissiper. Lorsqu&#39;elle est fondue, elle se dissipe
+en deux manieres ; ou elle entre dans les terres arides 
+&amp; dans les corps poreux, qui ont de la disposition 
+à l&#39;absorber ; ou, ce qui est plus ordinaire, elle
+se réduit en vapeurs &amp; s&#39;éleve dans l&#39;air.
+</p>
+<p>
+La <i>gelée blanche</i> participe aux qualités souvent nuisibles 
+de la rosée qui a servi à la former. De plus,
+par le froid qui l&#39;accompagne, elle nuit à plusieurs
+plantes, sur-tout dans le printems, où les parties de
+la fructification qui alors commencent à paroître dans
+la plûpart des végétaux, sont fort tendres &amp; fort
+délicates. Dans la même saison un soleil vif &amp; ardent 
+succede tout-à-coup à la grande froideur du
+matin ; &amp; ce contraste, toutes proportions gardées,
+n&#39;est pas moins nuisible que celui que forme en hyver 
+un dégel considérable &amp; prompt après une forte
+<i>gelée. Voyez ci-devant</i> <sc><ref target="head:Gelée" type="search">Gelée</ref></sc>.
+</p>
+<p>
+La <i>gelée blanche</i> ne differe pas essentiellement de
+ce qu&#39;on appelle <i>givre</i> ou <i>frimat</i>. Voyez <i>ci-après</i> <sc><ref target="head:Givre" type="search">Givre</ref></sc>. <i>De Chales, Musschenbroek, Hamberger, Gersten</i>,
+&amp;c. <i>Article de M. <sc>de Ratte</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

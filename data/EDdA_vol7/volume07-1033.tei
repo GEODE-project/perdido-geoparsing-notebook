@@ -1,0 +1,161 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28487" id="50:191:4" vol="7">
+<index type="head" value="Fruits secs" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="NA" />
+<head>Fruits secs</head>
+<p>
+<sc>Fruits secs</sc>, (<i>Economie rustiq.</i>) c&#39;est le nom qu&#39;on 
+donne aux <i>fruits</i> à noyau &amp; à pepins, que l&#39;on
+fait sécher au four ou au soleil, comme prunes, cerises,
+pêches, abricots, poires, pommes, figues,
+&amp; raisins.
+</p>
+<p>
+Toutes sortes de prunes peuvent être séchées ; on
+les cueille dans leur entiere maturité, on les range
+sur des claies, on les met au four lorsque le pain en
+est tiré: on les tourne, on les change de place, &amp; on
+les serre après qu&#39;elles sont refroidies ; c&#39;est la même
+méthode par rapport aux cerises.
+</p>
+<p>
+Pour secher les pêches, on les cueille d&#39;ordinaire
+à l&#39;arbre, on les porte au four pour les amortir, ensuite 
+on les fend promptement avec un couteau : on
+en ôte le noyau, on les applatit sur une table, on les
+reporte au four ; &amp; lorsqu&#39;on juge qu&#39;elles sont assez
+séchées, on les retire, on les applatit encore, &amp; on les
+conserve dans un lieu sec.
+</p>
+<p>
+Pour les abricots, on les cueille lorsqu&#39;ils sont
+bien mûrs ; &amp; au lieu de les ouvrir comme les pêches 
+pour en ôter le noyau, on se contente de repousser 
+le noyau par l&#39;endroit de la queue, qui lui
+sert de sortie. Les abricots restant ainsi entiers, on
+les applatit seulement sans les ouvrir, &amp; on les seche 
+comme les pêches.
+</p>
+<p>
+Pour faire sécher les poires, on les coupe en quartiers,
+on les pelle, &amp; on les porte au four ; ou bien,
+sans qu&#39;il soit besoin de les couper, on les pelle entieres,
+observant d&#39;y laisser les queues : ensuite on les fait
+bouillir dans quelque vaisseau avec de l&#39;eau : alors on
+se sert de leur peau pour les tremper dans leur jus ; cela
+fait, on les tire de leur jus, puis on les met au four
+sur des claies, de la même maniere qu&#39;on se conduit
+pour les prunes.
+</p>
+<p>
+Les pommes, à la différence des poires, se sechent 
+sans être pelées, en les coupant par la moitié
+après leur avoir ôté le trognon ; on les fait bouillir
+afin d&#39;en tirer le jus, &amp; y tremper celles qu&#39;on destine 
+pour sécher.
+</p>
+<p>
+Les raisins secs, &amp; sur-tout les muscats, sont très agréables 
+à manger. On les met au four sur une claie
+pour les faire sécher, en prenant garde que la chaleur 
+du four ne soit trop âpre, &amp; en observant de
+tourner les raisins de tems en tems, afin qu&#39;ils sechent 
+également.
+</p>
+<p>
+Les figues dont on a parlé ailleurs, se sechent comme 
+les prunes. Le commerce de tous les <i>fruits secs</i> est
+considérable pour les pays chauds ; &amp; on comprend
+dans la liste des <i>fruits secs</i> les amandes, les avelines,
+les capres même, &amp; les olives, quoique ces deux derniers 
+se conservent dans de la saumure. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

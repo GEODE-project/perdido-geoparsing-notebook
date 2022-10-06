@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28844" id="51:138" vol="7">
+<index type="head" value="GALEOPSIS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton &amp; Jaucourt" />
+<index type="shortauth" value="Daubenton &amp; Jaucourt" />
+<index type="kafnum" value="33 &amp; 60" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. bot." />
+<index type="normclass" value="Histoire naturelle | Botanique" />
+<index type="englishclass" value="Natural history. Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GALEOPSIS</head>
+<p>
+GALEOPSIS, s. m. (<i>Hist. nat. bot.</i>) genre de plante à
+fleur monopétale &amp; labiée, qui a la levre supérieure
+concave comme une cuillere, &amp; l&#39;inférieure divisée
+en trois parties, dont celle du milieu est pointue ou
+obtuse, mais toûjours la plus grande. Le pistil sort
+du calice, &amp; est attaché à la partie postérieure de la
+fleur, &amp; entourée de quatre embryons, qui deviennent 
+des semences oblongues, &amp; renfermées dans
+une capsule en forme d&#39;entonnoir, &amp; divisée en cinq
+parties. Cette capsule vient du calice de la fleur.
+Tournefort, <i>inst. rei herb. Voyez</i> <sc><ref target="head:Plante" type="search">Plante</ref></sc>. (<i>I</i>)
+</p>
+<p>
+Le <i>galéopsis</i> a une odeur de bitume &amp; d&#39;huile fétide,
+un goût herbeux un peu salé &amp; astringent ; il ne
+teint pas le papier bleu, ce qui fait présumer que son
+sel est enveloppé dans une grande quantité de soufre
+&amp; de terre.
+</p>
+<p>
+Boerhaave compte quatorze especes de <i>galéopsis</i>,
+auxquelles il est inutile de nous arrêter. Il suffira de
+dire que les trois principales especes employées en
+Medecine sous ce nom, sont la grande ortie puante,
+la petite ortie puante, &amp; l&#39;ortie morte à fleurs jaunes.
+Le lecteur en trouvera la description au <i>mot</i>
+<sc>Ortie</sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

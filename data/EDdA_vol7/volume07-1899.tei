@@ -1,0 +1,436 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29353" id="52:146:1" vol="7">
+<index type="head" value="Génie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Saint-Lambert5" />
+<index type="shortauth" value="Saint-Lambert" />
+<index type="kafnum" value="120" />
+<index type="kafauth" value="Saint-Lambert, Jean-François de (1716-1803)" />
+<index type="attribution" value="attributed" />
+<index type="class" value="Philosophie &amp; Littér." />
+<index type="normclass" value="Philosophie | Littérature" />
+<index type="englishclass" value="Philosophy | Literature" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="NA" />
+<head>Génie</head>
+<p>
+<sc>Génie</sc>, (<i>Philosophie &amp; Littér.</i>) L&#39;étendue de l&#39;esprit,
+la force de l&#39;imagination, &amp; l&#39;activité de l&#39;ame,
+voilà le <i>génie</i>. De la maniere dont on reçoit ses idées
+dépend celle dont on se les rappelle. L&#39;homme jetté
+dans l&#39;univers reçoit avec des sensations plus ou
+moins vives, les idées de tous les êtres. La plûpart
+des hommes n&#39;éprouvent de sensations vives que par
+l&#39;impression des objets qui ont un rapport immédiat
+à leurs besoins, à leur goût, <i>&amp;c.</i> Tout ce qui est
+étranger à leurs passions, tout ce qui est sans analogie 
+à leur maniere d&#39;exister, ou n&#39;est point apperçû
+par eux, ou n&#39;en est vû qu&#39;un instant sans être senti,
+&amp; pour être à jamais oublié.
+</p>
+<p>
+L&#39;homme de <i>génie</i> est celui dont l&#39;ame plus étendue frappée par les sensations de tous les êtres, intéressée 
+à tout ce qui est dans la nature, ne reçoit pas
+une idée qu&#39;elle n&#39;éveille un sentiment, tout l&#39;anime
+&amp; tout s&#39;y conserve.
+</p>
+<p>
+Lorsque l&#39;ame a été affectée par l&#39;objet même, elle
+l&#39;est encore par le souvenir ; mais dans l&#39;homme de
+<i>génie</i>, l&#39;imagination va plus loin ; il se rappelle des
+idées avec un sentiment plus vif qu&#39;il ne les a reçûes,
+parce qu&#39;à ces idées mille autres se lient, plus
+propres à faire naître le sentiment.
+</p>
+<p>
+Le <i>génie</i> entouré des objets dont il s&#39;occupe ne se
+souvient pas, il voit ; il ne se borne pas à voir, il est
+ému : dans le silence &amp; l&#39;obscurité du cabinet, il joüit
+de cette campagne riante &amp; féconde ; il est glacé par
+le sifflement des vents ; il est brûlé par le soleil ; il est
+effrayé des tempêtes. L&#39;ame se plaît souvent dans ces
+affections momentanées ; elles lui donnent un plaisir
+qui lui est précieux ; elle se livre à tout ce qui peut
+l&#39;augmenter ; elle voudroit par des couleurs vraies,
+par des traits ineffaçables, donner un corps aux
+phantômes qui sont son ouvrage, qui la transportent
+ou qui l&#39;amusent.
+</p>
+<p>
+Veut-elle peindre quelques-uns de ces objets qui
+viennent l&#39;agiter? tantôt les êtres se dépouillent de
+leurs imperfections ; il ne se place dans ses tableaux
+<milestone unit="column" n="2" />
+que le sublime, l&#39;agréable ; alors le <i>génie</i> peint en beau:
+tantôt elle ne voit dans les évenemens les plus tragiques 
+que les circonstances les plus terribles ; &amp; le <i>génie</i> répand dans ce moment les couleurs les plus sombres,
+les expressions énergiques de la plainte &amp; de la
+douleur ; il anime la matiere, il colore la pensée:
+dans la chaleur de l&#39;enthousiasme, il ne dispose ni
+de la nature ni de la suite de ses idées ; il est transporté 
+dans la situation des personnages qu&#39;il fait agir ;
+il a pris leur caractere : s&#39;il éprouve dans le plus haut
+degré les passions héroïques, telles que la confiance
+d&#39;une grande ame que le sentiment de ses forces éleve
+au-dessus de tout danger, telles que l&#39;amour de la
+patrie porté jusqu&#39;à l&#39;oubli de soi-même, il produit
+le sublime, le <i>moi</i> de Médée, le <i>qu&#39;il mourût</i> du
+vieil Horace, le <i>je suis consul de Rome</i> de Brutus:
+transporté par d&#39;autres passions, il fait dire à Hermione, <i>qui te l&#39;a dit?</i> à Orosmane, <i>j&#39;étois aimé ;</i> à
+Thieste, <i>je reconnois mon frere</i>.
+</p>
+<p>
+Cette force de l&#39;enthousiasme inspire le mot propre 
+quand il a de l&#39;énergie ; souvent elle le fait sacrifier 
+à des figures hardies ; elle inspire l&#39;harmonie
+imitative, les images de toute espece, les signes les
+plus sensibles, &amp; les sons imitateurs, comme les mots
+qui caractérisent.
+</p>
+<p>
+L&#39;imagination prend des formes différentes ; elle
+les emprunte des différentes qualités qui forment le
+caractere de l&#39;ame. Quelques passions, la diversité
+des circonstances, certaines qualités de l&#39;esprit, donnent 
+un tour particulier à l&#39;imagination ; elle ne se
+rappelle pas avec sentiment toutes ses idées, parce
+qu&#39;il n&#39;y a pas toûjours des rapports entre elle &amp; les
+êtres.
+</p>
+<p>
+Le <i>génie</i> n&#39;est pas toûjours <i>génie ;</i> quelquefois il
+est plus aimable que sublime ; il sent &amp; peint moins
+dans les objets le beau que le gracieux ; il éprouve
+&amp; fait moins éprouver des transports qu&#39;une douce
+émotion.
+</p>
+<p>
+Quelquefois dans l&#39;homme de <i>génie</i> l&#39;imagination
+est gaie ; elle s&#39;occupe des legeres imperfections les
+hommes, des fautes &amp; des folies ordinaires ; le contraire 
+de l&#39;ordre n&#39;est pour elle que ridicule, mais
+d&#39;une maniere si nouvelle, qu&#39;il semble que ce soit
+le coup-d&#39;oeil de l&#39;homme de <i>génie</i> qui ait mis dans
+l&#39;objet le ridicule qu&#39;il ne fait qu&#39;y découvrir : l&#39;imagination 
+gaie d&#39;un <i>génie</i> étendu, aggrandit le champ
+du ridicule ; &amp; tandis que le vulgaire le voit &amp; le
+sent dans ce qui choque les usages établis, le <i>génie</i> le
+découvre &amp; le sent dans ce qui blesse l&#39;ordre universel.
+</p>
+<p>
+Le goût est souvent séparé du <i>génie</i>. Le <i>génie</i> est un
+pur don de la nature ; ce qu&#39;il produit est l&#39;ouvrage
+d&#39;un moment ; le goût est l&#39;ouvrage de l&#39;étude &amp; du
+tems ; il tient à la connoissance d&#39;une multitude de
+regles ou établies ou supposées ; il fait produire des
+beautés qui ne sont que de convention. Pour qu&#39;une
+chose soit belle selon les regles du goût, il faut qu&#39;elle
+soit élégante, finie, travaillée sans le paroître : pour
+être de <i>génie</i> il faut quelquefois qu&#39;elle soit négligée ;
+qu&#39;elle ait l&#39;air irrégulier, escarpé, sauvage. Le sublime 
+&amp; le <i>génie</i> brillent dans Shakespear comme des
+éclairs dans une longue nuit, &amp; Racine est toûjours
+beau : Homere est plein de <i>génie</i>, &amp; Virgile d&#39;élégance.
+</p>
+<p>
+Les regles &amp; les lois du goût donneroient des entraves 
+au <i>génie ;</i> il les brise pour voler au sublime, au
+pathétique, au grand. L&#39;amour de ce beau éternel qui
+caractérise la nature ; la passion de conformer ses tableaux 
+à je ne sais quel modele qu&#39;il a créé, &amp; d&#39;après 
+lequel il a les idées &amp; les sentimens du beau,
+sont le goût de l&#39;homme de <i>génie</i>. Le besoin d&#39;exprimer 
+les passions qui l&#39;agitent, est continuellement
+gêné par la Grammaire &amp; par l&#39;usage : souvent l&#39;idiome 
+dans lequel il écrit se refuse à l&#39;expression d&#39;une
+<pb n="7:583" facs="V7/ENC_7-583.jpeg" />
+<milestone unit="column" n="1" />
+image qui seroit sublime dans un autre idiome. Homere ne pouvoit trouver dans un seul dialecte les
+expressions nécessaires à son <i>génie ;</i> Milton viole à
+chaque instant les regles de sa langue, &amp; va chercher
+des expressions énergiques dans trois ou quatre idiomes 
+différens. Enfin la force &amp; l&#39;abondance, je ne
+sais quelle rudesse, l&#39;irrégularité, le sublime, le pathétique,
+voilà dans les arts le caractere du <i>génie ;</i> il
+ne touche pas foiblement, il ne plait pas sans étonner,
+il étonne encore par ses fautes.
+</p>
+<p>
+Dans la Philosophie, où il faut peut-être toûjours
+une attention scrupuleuse, une timidité, une habitude 
+de réflexion qui ne s&#39;accordent guere avec la
+chaleur de l&#39;imagination, &amp; moins encore avec la
+confiance que donne le <i>génie</i>, sa marche est distinguée 
+comme dans les arts ; il y répand fréquemment
+de brillantes erreurs ; ii y a quelquefois de grands succès.
+Il faut dans la Philosophie chercher le vrai avec
+ardeur &amp; l&#39;espérer avec patience. Il faut des hommes 
+qui puissent disposer de l&#39;ordre &amp; de la suite de
+leurs idées ; en suivre la chaîne pour conclure, ou
+l&#39;interrompre pour douter : il faut de la recherche,
+de la discussion, de la lenteur ; &amp; on n&#39;a ces qualités 
+ni dans le tumulte des passions, ni avec les fougues
+de l&#39;imagination. Elles sont le partage de l&#39;esprit
+étendu, maître de lui-même ; qui ne reçoit point une
+perception sans la comparer avec une perception ; qui
+cherche ce que divers objets ont de commun &amp; ce
+qui les distingue entre eux ; qui pour rapprocher des
+idées éloignées, fait parcourir pas à-pas un long intervalle ; 
+qui pour saisir les liaisons singulieres, délicates,
+fugitives de quelques idées voisines, ou leur
+opposition &amp; leur contraste, sait tirer un objet particulier 
+de la foule des objets de même espece ou
+d&#39;espece différente, poser le microscope sur un point
+imperceptible ; &amp; ne croit avoir bien vû qu&#39;après
+avoir regardé long-tems. Ce sont ces hommes qui
+vont d&#39;observations en observations à de justes conséquences,
+&amp; ne trouvent que des analogies naturelles : la curiosité est leur mobile ; l&#39;amour du vrai
+est leur passion ; le desir de le découvrir est en eux
+une volonté permanente qui les anime sans les échauffer, &amp; qui conduit leur marche que l&#39;expérience doit
+assûrer.
+</p>
+<p>
+Le <i>génie</i> est frappé de tout ; &amp; dès qu&#39;il n&#39;est point
+livré à ses pensées &amp; subjugué par l&#39;enthousiasme, il
+étudie, pour ainsi dire, sans s&#39;en appercevoir ; il est
+forcé par les impressions que les objets sont sur lui,
+à s&#39;enrichir sans cesse de connoissances qui ne lui ont
+rien coûté; il jette sur la nature des coups-d&#39;oeil généraux 
+&amp; perce ses abîmes. Il recueille dans son sein
+des germes qui y entrent imperceptiblement, &amp; qui
+produisent dans le tems des effets si surprenans, qu&#39;il
+est lui-même tenté de se croire inspiré: il a pourtant
+le goût de l&#39;observation ; mais il observe rapidement
+un grand espace, une multitude d&#39;êtres.
+</p>
+<p>
+Le mouvement, qui est son état naturel, est quelquefois 
+si doux qu&#39;à peine il l&#39;apperçoit : mais le plus
+souvent ce mouvement excite des tempêtes, &amp; le
+<i>génie</i> est plûtôt emporté par un torrent d&#39;idées, qu&#39;il
+ne suit librement de tranquilles réflexions. Dans
+l&#39;homme que l&#39;imagination domine, les idées se lient
+par les circonstances &amp; par le sentiment : il ne voit
+souvent des idées abstraites que dans leur rapport
+avec les idées sensibles. Il donne aux abstractions une
+existence indépendante de l&#39;esprit qui les a faites ; il
+réalise ses fantômes, son enthousiasme augmente au
+spectacle de ses créations, c&#39;est-à-dire de ses nouvelles 
+combinaisons, seules créations de l&#39;homme:
+emporté par la foule de ses pensées, livré à la facilité
+de les combiner, forcé de produire, il trouve mille
+preuves spécieuses, &amp; ne peut s&#39;assûrer d&#39;une seule ;
+il construit des édifices hardis que la raison n&#39;oseroit
+habiter, &amp; qui lui plaisent par leurs proportions &amp;
+<milestone unit="column" n="2" />
+non par leur solidité; il admire ses systèmes comme
+il admireroit le plan d&#39;un poëme ; &amp; il les adopte
+comme beaux, en croyant les aimer comme vrais.
+</p>
+<p>
+Le vrai ou le faux dans les productions philosophiques,
+ne sont point les caracteres distinctifs du
+<i>génie</i>.
+</p>
+<p>
+Il y bien peu d&#39;erreurs dans Locke &amp; trop peu de
+vérités dans milord Shafsterbury : le premier cependant 
+n&#39;est qu&#39;un esprit étendu, pénétrant, &amp; juste ; &amp;
+le second est un <i>génie</i> du premier ordre. Locke a vû ;
+Shafsterbury a créé, construit, édifié: nous devons
+à Locke de grandes vérités froidement apperçûes,
+méthodiquement suivies, séchement annoncées ; &amp;
+à Shafsterbury des systèmes brillans souvent peu fondés,
+pleins pourtant de vérités sublimes ; &amp; dans ses
+momens d&#39;erreur, il plaît &amp; persuade encore par les
+charmes de son éloquence.
+</p>
+<p>
+Le <i>génie</i> hâte cependant les progrès de la Philosophie par les découvertes les plus heureuses &amp; les
+moins attendues : il s&#39;éleve d&#39;un vol d&#39;aigle vers une
+vérité lumineuse, source de mille vérités auxquelles
+parviendra dans la suite en rampant la foule timide
+des sages observateurs. Mais à côté de cette vérité lumineuse,
+il placera les ouvrages de son imagination:
+incapable de marcher dans la carriere, &amp; de parcourir 
+successivement les intervalles, il part d&#39;un point
+&amp; s&#39;élance vers le but ; il tire un principe fécond des
+ténebres ; il est rare qu&#39;il suive la chaîne des conséquences ; 
+il est <i>prime-sautier</i>, pour me servir de l&#39;expression 
+de Montagne. Il imagine plus qu&#39;il n&#39;a vû ;
+il produit plus qu&#39;il ne découvre ; il entraîne plus
+qu&#39;il ne conduit : il anima les Platon, les Descartes,
+les Malebranche, les Bacon, les Leibnitz ; &amp; selon
+le plus ou le moins que l&#39;imagination domina dans
+ces grands hommes, il fit éclorre des systèmes brillans,
+ou découvrir de grandes vérités.
+</p>
+<p>
+Dans les sciences immenses &amp; non encore approfondies 
+du gouvernement, le <i>génie</i> a son caractere &amp;
+ses effets aussi faciles à reconnoître que dans les Arts
+&amp; dans la Philosophie : mais je doute que le <i>génie</i>,
+qui a si souvent pénétré de quelle maniere les hommes 
+dans certains tems devoient être conduits, soit
+lui même propre à les conduire. Certaines qualités
+de l&#39;esprit, comme certaines qualités du coeur, tiennent 
+à d&#39;autres, en excluent d&#39;autres. Tout dans les
+plus grands hommes annonce des inconvéniens ou
+des bornes.
+</p>
+<p>
+Le sang froid, cette qualité si nécessaire à ceux
+qui gouvernent, sans lequel on feroit rarement une
+application juste des moyens aux circonstances, sans
+lequel on seroit sujet aux inconséquences, sans lequel 
+on manqueroit de la présence d&#39;esprit ; le sang
+froid qui soumet l&#39;activité de l&#39;ame à la raison, &amp;
+qui préserve dans tous les évenemens, de la crainte,
+de l&#39;yvresse, de la précipitation, n&#39;est-il pas une qualité 
+qui ne peut exister dans les hommes que l&#39;imagination 
+maîtrise? cette qualité n&#39;est-elle pas absolument 
+opposée au <i>génie?</i> Il a sa source dans une extrème 
+sensibilité qui le rend susceptible d&#39;une foule d&#39;impressions 
+nouvelles par lesquelles il peut être détourné 
+du dessein principal, contraint de manquer au secret,
+de sortir des lois de la raison, &amp; de perdre par
+l&#39;inégalité de la conduite, l&#39;ascendant qu&#39;il auroit
+pris par la supériorité des lumieres. Les hommes de
+<i>génie</i> forcés de sentir, décidés par leurs goûts, par
+leurs répugnances, distraits par mille objets, devinant 
+trop, prévoyant peu, portant à l&#39;excès leurs desirs,
+leurs espérances, ajoûtant ou retranchant sans
+cesse à la réalité des êtres, me paroissent plus faits
+pour renverser ou pour fonder les états que pour les
+maintenir, &amp; pour rétablir l&#39;ordre que pour le suivre.
+</p>
+<p>
+Le <i>génie</i> dans les affaires n&#39;est pas plus captivé par
+les circonstances, par les lois &amp; par les usages, qu&#39;il
+ne l&#39;est dans les Beaux-Arts par les regles du goût,
+<pb n="7:584" facs="V7/ENC_7-584.jpeg" />
+<milestone unit="column" n="1" />
+&amp; dans la Philosophie par la méthode. Il y a des momens 
+où il sauve sa patrie, qu&#39;il perdroit dans la suite
+s&#39;il y conservoit du pouvoir. Les systèmes sont plus
+dangereux en Politique qu&#39;en Philosophie : l&#39;imagination 
+qui égare le philosophe ne lui fait faire que
+des erreurs ; l&#39;imagination qui égare l&#39;homme d&#39;état
+lui fait faire des fautes &amp; le malheur des hommes.
+</p>
+<p>
+Qu&#39;à la guerre donc &amp; dans le conseil le <i>génie</i>
+semblable à la divinité parcoure d&#39;un coup d&#39;oeil la
+multitude des possibles, voye le mieux &amp; l&#39;exécute ;
+mais qu&#39;il ne manie pas long-tems les affaires où il
+faut attention, combinaisons, persévérance : qu&#39;Alexandre &amp; Condé soient maîtres des évenemens, &amp;
+paroissent inspirés le jour d&#39;une bataille, dans ces instans 
+où manque le tems de délibérer, &amp; où il faut que
+la premiere des pensées soit la meilleure ; qu&#39;ils décident 
+dans ces momens où il faut voir d&#39;un coup-d&#39;oeil
+les rapports d&#39;une position &amp; d&#39;un mouvement avec
+ses forces, celles de son ennemi, &amp; le but qu&#39;on se
+propose : mais que Turenne &amp; Marlborough leur
+soient préférés quand il faudra diriger les opérations
+d&#39;une campagne entiere.
+</p>
+<p>
+Dans les Arts, dans les Sciences, dans les affaires,
+le <i>génie</i> semble changer la nature des choses ; son caractere 
+se répand sur tout ce qu&#39;il touche ; &amp; ses lumieres 
+s&#39;élançant au-delà du passé &amp; du présent,
+éclairent l&#39;avenir : il dévance son siecle qui ne peut
+le suivre ; il laisse loin de lui l&#39;esprit qui le critique
+avec raison, mais qui dans sa marche égale ne sort
+jamais de l&#39;uniformité de la nature. Il est mieux senti
+que connu par l&#39;homme qui veut le définir : ce seroit 
+à lui-même à parler de lui ; &amp; cet article que
+je n&#39;aurois pas dû faire, devroit être l&#39;ouvrage d&#39;un
+de ces hommes extraordinaires<sup><ref type="note" target="n19" n="*" /></sup> qui honore ce siecle,
+&amp; qui pour connoître le <i>génie</i> n&#39;auroit eu qu&#39;à
+regarder en lui-même.
+</p>
+<div2 type="notes">
+<note id="19">
+* M. de Voltaire, <i>par exemple</i>.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

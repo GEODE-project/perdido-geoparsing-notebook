@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27481" id="48:15:1" vol="7">
+<index type="head" value="Foible" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot3" />
+<index type="shortauth" value="Diderot (attribution uncertain)" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="attribution uncertain" />
+<index type="class" value="Morale." />
+<index type="normclass" value="Morale" />
+<index type="englishclass" value="Ethics" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="s.m." />
+<head>Foible</head>
+<p>
+<sc>Foible</sc>, s. m. (<i>Morale.</i>) il y a la même différence 
+entre les <i>foibles</i> &amp; les <i>foiblesses</i> qu&#39;entre la cause 
+&amp; l&#39;effet ; les <i>foibles</i> sont la cause, les <i>foiblesses</i>
+sont l&#39;effet. On entend par <i>foible</i> un penchant quelconque : le goût du plaisir est le <i>foible</i> des jeunes
+gens, le desir de plaire celui des femmes, l&#39;intérêt
+celui des vieillards, l&#39;amour de la louange celui de
+tout le genre humain. Il est des <i>foibles</i> qui viennent
+de l&#39;esprit, il en est qui viennent du coeur. Moins un
+peuple est éclairé, plus il est susceptible des <i>foibles</i>
+qui viennent de l&#39;esprit. Dans les tems de barbarie
+l&#39;amour du merveilleux, la crainte des sorciers, la
+foi aux présages, aux diseurs de bonne aventure,
+<i>&amp;c.</i> étoient des <i>foibles</i> fort communs. Plus une nation 
+est polie, plus elle est susceptible des <i>foibles</i> qui
+viennent du coeur, 1°. parce que faire des fautes
+sans le savoir, ce n&#39;est pas être <i>foible</i>, c&#39;est être ignorant ; 
+2°. parce que, à mesure que l&#39;esprit acquiert
+plus de lumieres, le coeur acquiert plus de sensibilité.
+Les femmes sont plus susceptibles des <i>foibles</i> de
+l&#39;esprit, parce que leur éducation est plus négligée,
+&amp; qu&#39;on leur laisse plus de préjugés ; elles sont aussi
+plus susceptibles des <i>foibles</i> du coeur, parce que leur
+ame est plus sensible. La dureté &amp; l&#39;insensibilité sont
+les exces contraires aux <i>foibles</i> du coeur, comme
+l&#39;esprit fort est l&#39;excès opposé aux <i>foibles</i> de l&#39;esprit.
+Il y a encore cette différence entre les <i>foibles</i> &amp; la
+<i>foiblesse</i>, qu&#39;un <i>foible</i> est un penchant qui peut être
+indifférent, au lieu que la <i>foiblesse</i> est toûjours repréhensible.
+<i>Voyez</i> <sc><ref target="head:Foiblesse" type="search">Foiblesse</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

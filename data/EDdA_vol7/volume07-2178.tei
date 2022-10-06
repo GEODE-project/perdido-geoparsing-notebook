@@ -1,0 +1,286 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29632" id="53:118" vol="7">
+<index type="head" value="GLACIAL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physiq." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="adject" />
+<head>GLACIAL</head>
+<p>
+GLACIAL, adj. (<i>Physiq.</i>) se dit de ce qui a rapport
+à la glace, &amp; sur-tout d&#39;un lieu qui abonde en glace ;
+ainsi nous appellons <i>mer glaciale</i> la partie de la mer
+du nord qui est pleine de glace. Les zones glacées ou
+froides sont appellées aussi quelquefois <i>zones glaciales.
+Voyez</i> 
+<sc><ref target="head:Froid" type="search">Froid</ref>, <ref target="head:Glace" type="search">Glace</ref> <i>&amp;</i> <ref target="head:Glacé" type="search">Glacé</ref></sc>
+</p>
+<p>
+Plusieurs anciens n&#39;ont pas cru que la mer pût se
+geler ; mais la mer Baltique &amp; la mer Blanche se
+gelent presque tous les ans, &amp; les mers plus septentrionales 
+se gelent tous les hyvers, Le Zuiderzée
+même se gele souvent en Hollande.
+</p>
+<p>
+Les fleuves du nord transportent dans les mers
+une prodigieuse quantité de glaçons, qui venant à
+s&#39;accumuler, forment ces masses énormes de glace
+si funestes aux voyageurs ; un des endroits de la mer
+<i>glaciale</i> où elles sont le plus abondantes, est le détroit 
+de Waigats qui est gelé en entier pendant la
+plus grande partie de l&#39;année ; ces glaces sont formées 
+des glaçons que le fleuve Oby transporte presque 
+continuellement. Elles s&#39;attachent le long des
+côtes, &amp; s&#39;élevent à une hauteur considérable des
+deux côtes du détroit : le milieu du détroit est l&#39;endroit 
+qui gele le dernier, &amp; où la glace est la moins
+élevée ; lorsque le vent cesse de venir du nord, &amp;
+qu&#39;il souffle dans la direction du détroit, la glace
+commence à fondre &amp; à se rompre dans le milieu ;
+ensuite il s&#39;en détache des côtes de grandes masses
+qui voyagent dans la haute mer.
+</p>
+<p>
+Les vaisseaux qui vont au Spitzberg pour la pêche 
+de la baleine, y arrivent au mois de Juillet, &amp;
+en partent vers le 15 d&#39;Août. On y trouve des morceaux 
+prodigieux de glaces épaisses de 60, 70 &amp; 80
+brasses ; il y a des endroits où il semble que la mer
+soit <i>glacée</i> jusqu&#39;au fond ; ces glaces qui sont élevées
+au-dessus du niveau de la mer, sont claires &amp; luisantes 
+comme du verre.
+</p>
+<p>
+Il y a aussi beaucoup de glaces dans les mers du
+Nord, de l&#39;Amérique, <i>&amp;c.</i> Robert Lade nous assûre
+que les montagnes de Frisland sont entierement couvertes 
+de neige, &amp; toutes les côtes de glace, comme
+d&#39;un boulevard qui ne permet pas d&#39;en approcher.
+<blockquote> 
+« Il est, dit-il, fort remarquable que dans cette mer
+on trouve des îles de glace de plus d&#39;une demi-lieue 
+de tour extrèmement élevées, &amp; qui ont 70
+ou 80 brasses de profondeur dans la mer ; cette
+glace qui est douce est peut-être formée dans les
+détroits des terres voisines, <i>&amp;c.</i> Ces îles ou montagnes 
+de glace sont si mobiles, que dans les tems
+orageux elles suivent la course d&#39;un vaisseau comme 
+si elles étoient entraînées dans le même sillon ;
+il y en a de si grosses que leur superficie au-dessus
+de l&#39;eau surpasse l&#39;extrémité des mâts des plus gros
+navires, <i>&amp;c.</i>»
+</blockquote>
+<i>Voyez la traduction des voyages de</i>
+Lade, <i>par</i> M. l&#39;abbé Prevost, <i>tome. II. page 305 &amp;
+suivant</i>.
+</p>
+<p>
+Voici un petit journal historique au sujet des glaces 
+de la nouvelle Zemble.
+<blockquote> 
+« Au Cap de Troost le
+tems fut si embrumé, qu&#39;il fallut amarrer le vaisseau 
+à un banc de glace qui avoit 36 brasses de
+profondeur dans l&#39;eau, &amp; environ 16 brasses au-dessus,
+si bien qu&#39;il avoit 52 brasses d&#39;épaisseur.
+</blockquote></p>
+<p>
+Le 10 Août les glaces s&#39;étant séparées, les glaçons 
+commencerent à flotter ; &amp; alors on remarqua 
+que le gros banc de glace auquel le vaisseau
+avoit été amarré, touchoit au fond, parce que
+<milestone unit="column" n="2" />
+tous les autres passoient au long, &amp; le heurtoient
+sans l&#39;ébranler ; on craignit donc de demeurer pris
+dans les glaces, &amp; on tâcha de sortir de ce parage,
+quoiqu&#39;en passant on trouvât déjà l&#39;eau prise,
+le vaisseau faisant craquer la glace bien loin autour 
+de lui : enfin on aborda un autre banc où
+l&#39;on porta vîte l&#39;ancre de toüe, &amp; l&#39;on s&#39;y amarra
+jusqu&#39;au soir.
+</p>
+<p>
+Après le repas pendant le premier quart, les
+glaces commencerent à se rompre avec un bruit si
+terrible, qu&#39;il n&#39;est pas possible de l&#39;exprimer. Le
+vaisseau avoit le cap au courant qui charrioit les
+glaçons, si bien qu&#39;il fallut filer du cable pour se
+retirer ; on compta plus de quatre cents gros bancs
+de glace qui enfonçoient de dix brasses dans l&#39;eau,
+&amp; paroissoient de la hauteur de deux brasses au-dessus.
+</p>
+<p>
+Ensuite on amarra le vaisseau à un autre banc
+qui enfonçoit de six grandes brasses, &amp; l&#39;on y
+mouilla en croupiere. Dès qu&#39;on y fut établi, on
+vit encôre un autre banc peu éloigné de cet endroit-là, dont le haut s&#39;élevoit en pointe tout de
+même que la pointe d&#39;un clocher, &amp; il touchoit
+le fond de la mer ; on s&#39;avança vers ce banc, &amp;
+l&#39;on trouva qu&#39;il avoit 20 brasses de haut dans
+l&#39;eau, &amp; à-peu-près 12 brasses au-dessus.
+</p>
+<p>
+Le 11 Août on nagea encore vers un autre banc
+qui avoit 18 brasses de profondeur, &amp; 10 brasses
+au-dessus de l&#39;eau.
+</p>
+<p>
+Le 21 les Hollandois entrerent assez avant dans
+le port des glaces, &amp; y demeurerent à l&#39;ancre pendant 
+la nuit ; le lendemain matin ils se retirerent,
+&amp; allerent amarrer leur bâtiment à un banc de glace
+sur lequel ils monterent, &amp; dont ils admirerent
+la figure comme une chose très-singuliere ; ce banc
+étoit couvert de terre sur le haut, &amp; on y trouva
+près de quarante oeufs ; la couleur n&#39;en étoit pas
+non plus comme celle de la glace, elle étoit d&#39;un
+bleu céleste. Ceux qui étoient là raisonnerent beaucoup 
+sur cet objet ; les uns disoient que c&#39;étoit un
+effet de la glace, &amp; les autres soûtenoient que c&#39;étoit 
+une terre gelée. Quoi qu&#39;il en fût, ce banc étoit
+extrèmement haut ; il avoit environ dix-huit brasses 
+sous l&#39;eau, &amp; dix brasses au-dessus.»
+<i>Pag. 46.</i>
+&amp;c. <i>tom. I. Voyage des Hollandois par le Nord</i>.
+</p>
+<p>
+Wafer rapporte que près de la terre de Feu il a
+rencontré plusieurs glaces flottantes très-élevées,
+qu&#39;il prit d&#39;abord pour des îles : quelques-unes, ditil,
+paroissoient avoir une lieue ou deux de long, &amp;
+la plus grosse de toutes lui parut avoir quatre ou cinq
+cents piés de haut. <i>Voyez</i> le <i>voyage</i> de Wafer imprimé 
+à la suite de ceux de Dampier, <i>tom. IV. pag.
+304</i>. Tout ceci est tiré de l&#39;<i>Hist. naturelle, générale
+&amp; particuliere, tome I</i>.
+</p>
+<p>
+Nous terminerons cet article par deux réflexions
+sur les mers <i>glaciales</i> du nord &amp; sur les mers <i>glaciales</i> du midi ; ces observations pourront être utiles
+aux navigateurs.
+</p>
+<p>
+On a cherché long-tems, &amp; l&#39;on cherche encore
+un passage aux Indes par les mers du nord ; mais
+dans la crainte d&#39;un trop grand froid si on s&#39;approchoit 
+trop du pole, on ne s&#39;est pas assez éloigné des
+terres, &amp; on a trouvé les mers fermées par les glaces.
+Il y a cependant apparence qu&#39;il y a moins de
+glace en plaine mer que près des côtes, parce que
+les glaces sont apportées principalement par les fleuves.
+Quelques relations assûrent d&#39;ailleurs que des
+Hollandois s&#39;étant fort approchés du pole, y avoient
+trouvé une mer ouverte &amp; tranquille, &amp; un air
+tempéré; ce qui n&#39;est peut-être pas impossible en
+été, à cause de la présence continuelle du soleil au
+pole boréal pendant six mois.
+</p>
+<p>
+La seconde observation regardé les mers <i>glaciales</i>
+de l&#39;hémisphere austral. Les glaces, comme l&#39;on sait,
+<pb n="7:689" facs="V7/ENC_7-689.jpeg" />
+<milestone unit="column" n="1" />
+commencent à paroître dans ces mers beaucoup plus
+près de l&#39;équateur ; il y en a vers le cinquantieme
+degré de latitude, même au solstice d&#39;été, qui arrive 
+en Décembre pour cette partie de la terre : on
+en a donné la raison au <i>mot</i> <sc>Chaleur</sc>. Ce sont ces
+glaces qui empêcherent en 1739 M. Lozier envoyé
+par la compagnie des Indes, de trouver les terres
+australes qu&#39;il cherchoit ; il y a apparence que six
+semaines ou deux mois plus tard elles ne lui auroient
+point fait d&#39;obstacle : car comme le plus grand chaud
+n&#39;arrive presque jamais dans nos climats au solstice
+d&#39;été, mais six semaines ou deux mois après (<i>Voyez</i>
+<sc><ref target="head:Chaleur" type="search">Chaleur</ref></sc>), il y a apparence qu&#39;il en est de même
+dans l&#39;autre hémisphere, &amp; qu&#39;en Février la plus
+grande partie des glaces de Janvier est fondue. <i>Voyez
+lettre sur le progrès des sciences</i> par M. de Maupertuis. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

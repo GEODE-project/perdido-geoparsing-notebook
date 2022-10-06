@@ -1,0 +1,588 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30241" id="54:102:4" vol="7">
+<index type="head" value="Gravure en couleurs, à l&#39;imitation de la Peinture" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Montdorge" />
+<index type="shortauth" value="Montdorge" />
+<index type="kafnum" value="91" />
+<index type="kafauth" value="Montdorge, Antoine Gautier de (1701?-1768)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>Gravure en couleurs, à l&#39;imitation de</head>
+<p>
+<sc>Gravure en couleurs, à l&#39;imitation de
+la Peinture</sc>. Cette maniere de graver est un art
+nouveau, dont la découverte est précieuse à d&#39;autres 
+arts ; Jacques Christophe le Plon, natif de
+Francfort, éleve de Carlo Marate, en est l&#39;inventeur:
+on doit placer l&#39;époque de cette invention entre
+1720 &amp; 1730; l&#39;Angleterre en a vû naître les premiers 
+essais ; à peine commençoient-ils à y réussir,
+que le Blon passa en France (c&#39;etoit en 1737); un rouleau 
+d&#39;épreuves échappées de l&#39;attelier de Londres,
+composoit alors tout son bien ; mais quelques amateurs 
+étonnés de l&#39;effet merveilleux de trois couleurs
+imprimees sur le papier, voulurent suivre des opérations 
+si singulieres, &amp; se réunirent pour mettre
+l&#39;inventeur en état de donner des leçons de son art ;
+les commencemens furent difficiles. Quand le Blon
+travailloit à Londres, c&#39;étoit au centre des graveurs
+en maniere noire ; &amp; cette maniere qui fait la base
+du nouvel art étoit totalement abandonnée en
+France.
+</p>
+<p>
+Les effets du nouveau genre de <i>gravure</i> sont les
+conséquences des principes que le Blon a établis
+dans un <i>traité du coloris ;</i> persuadé que les grands coloristes,
+que le Titien, Rubens, Vandeyk, avoient
+une maniere invariable de colorier, il entreprit de
+fonder en principes l&#39;harmonie du coloris, &amp; de la
+réduire en pratique méchanique par des regles sûres
+&amp; faciles : tel est le titre d&#39;un traité qu&#39;il a publié à
+Londres en anglois &amp; en françois : ce traité a été
+<milestone unit="column" n="2" />
+réimprimé &amp; fait partie d&#39;un livre intitulé l&#39;<i>art d&#39;imprimer 
+les tableaux, à Paris 1757</i>. Il est revêtu du
+certificat de M M. les commissaires qui furent nommés 
+par le roi pour être dépositaires des secrets de
+le Blon.
+</p>
+<p>
+C&#39;est en cherchant les regles du coloris, que j&#39;ai
+trouvé, dit l&#39;inventeur, la façon d&#39;imprimer les objets 
+avec leurs couleurs naturelles ; &amp; passant ensuite 
+à des instructions préliminaires, il jette les fondemens 
+de son art, en établissant que la Peinture peut
+représenter tous les objets visibles avec trois couleurs,
+savoir le jaune, le rouge, &amp; le bleu, puisque
+toutes les autres couleurs sont composées de ces trois
+primitives ; par ex. le jaune &amp; le rouge font l&#39;orangé; 
+le rouge &amp; le bleu font le pourpre, le violet ; le
+bleu &amp; le jaune font le verd. Les différens mélanges
+des trois couleurs primitives produisent toutes les
+nuances imaginables, &amp; lear réunion produit le
+noir : je ne parle ici que des couleurs matérielles,
+ajoûte-t-il, c&#39;est-à-dire des couleurs dont se servent 
+les Peintres ; car le mélange de toutes les couleurs 
+primitives impalpables ne produit pas le noir,
+mais précisément le contraire ; il produit le blanc.
+Le blanc est une concentration ou exces de lumiere ; 
+le noir est une privation ou défaut de lumiere.
+</p>
+<p>
+Trois couleurs, nous le répétons, donnent par
+leur mélange autant de teintes qu&#39;il en puisse naitre
+de la palette du plus habile peintre : mais on ne sauroit,
+en les imprimant l&#39;une après l&#39;autre, les fondre
+comme le pinceau les fond sur la toile : il faut donc
+que ces couleurs soient employées de façon que la
+premiere perce à-travers la seconde, &amp; la seconde
+à-travers la troisieme, afin que la transparence
+puisse suppléer à l&#39;effet du pinceau. Chacune de ces
+couleurs sera distribuée par le secours d&#39;une planche
+particuliere : ainsi trois p&#39;anches sont nécessaires
+pour imprimer une estampe à l&#39;imitation de la Peinture.
+</p>
+<p>
+<i>Préparation des planches</i>. Elles seront grainées
+comme les planches destinées à la maniere noire.
+<i>Voyez</i> 
+<sc><ref target="head:Gravure en maniere noire" type="search">Gravure en maniere noire</ref></sc>
+. Ces planches 
+doivent être entre elles de même épaisseur,
+bien unies, &amp; très-exactement d&#39;équerre à chaque
+angle ; unies, pour qu&#39;à l&#39;impression toute la superficie 
+soit également pressée ; &amp; d&#39;équerre, pour qu&#39;elles 
+se rapportent contour sur contour l&#39;une après
+l&#39;autre, quand elles imprimeront la même feuille de
+papier.
+</p>
+<p>
+La meilleure façon de rendre les planches exactement 
+égales entre elles, c&#39;est de faire des trous aux
+quatre coins, de les joindre l&#39;une sur l&#39;autre par quatre 
+rivures bien serrées ; de tracer le quarré sur les
+bords de la premiere ; de limer jusqu&#39;au trait en conservant 
+toûjours l&#39;équerre sur l&#39;épaisseur des quatre:
+limez enfin vos rivures, &amp; les planches en sortiront
+comme un cahier de papier sort de la coupe du relieur.
+</p>
+<p>
+On peut au lieu de rivure, serrer les planches avec
+de petits étaux qui changeront de place à mesure
+qu&#39;on limera les bords. C&#39;est à l&#39;artiste à consulter
+son adresse &amp; sa patience dans les différens moyens
+qu&#39;il employera pour les opérations méchaniques.
+</p>
+<p>
+<i>Moyen sûr pour calquer sur la planche grainée</i>. Il
+s&#39;agit à-présent de distribuer le tableau sur les trois
+planches ; &amp; pour que les contours sur chaque planche 
+se retrouvent précisément dans les endroits où
+ils doivent se rencontrer, voici de quel moyen on
+se sert. Prenez une de vos planches, couchez-la sur
+un carton épais plus grand de deux pouces en hauteur 
+&amp; en largeur, que la planche ; faites avec le canif 
+une ouverture bien perpendiculaire dans le carton,
+la planche elle-même servira de calibre ; &amp; dès
+que le carton sera coupé sur les quatre faces, il vous
+donnera un cadre de deux pouces. Ayez pour détacher<gap type="hyphenpb" />
+<pb n="7:900" facs="V7/ENC_7-900.jpeg" />
+<milestone unit="column" n="1" />
+ce cadre une lame bren acérée &amp; bien aiguisée
+avec un manche à pleine main : attendez-vous à trouver 
+de la résistance ; &amp; pour éviter d&#39;en trouver encore 
+plus, essayez sur différentes especes de carton
+celui qui se coupera le plus net &amp; le plus facilement ;
+sur-tout que le carton que vous choisirez soit bien
+sec, &amp; tout-au-moins aussi épais que la planche de
+cuivre. Vous avez aux quatre coins de celle qui fait
+votre calibre, quatre trous qui ont servi à assembler
+les autres planches pour les limer ; vous pourrez en
+profiter pour river encore le calibre avec le carton,
+par ce moyen les rendre fixes l&#39;un sur l&#39;autre, &amp; donner 
+plus de facilité à enlever le cadre.
+</p>
+<p>
+Il faudra, pour le garantir de l&#39;humidité qui le feroit 
+étendre, l&#39;enduire dessus &amp; dessous d&#39;une grosse
+couleur à l&#39;huile telle qu&#39;on l&#39;employe pour imprimer 
+les toiles de tableau.
+</p>
+<p>
+Le cadre de carton est ainsi préparé pour recevoir
+un voile qui sera cousu à points serrés sur ses bords
+intérieurs ; c&#39;est ce voile qui sert à porter avec précision 
+les contours. On le présentera donc sur l&#39;original 
+qu&#39;on va graver ; &amp; après avoir tracé au pinceau 
+avec du blanc à l&#39;huile sur le voile, on attendra
+que l&#39;huile soit seche pour repasser les mêmes traits
+avec du blanc beaucoup plus liquide que celui qui
+a seché; on enfermera la premiere planche dans le
+cadre de carton ; &amp; le blanc encore frais marquera
+sur la grainure tous les contours dont le voile est
+charge.
+</p>
+<p>
+On repassera du blanc liquide sur les traits du
+voile, pour calquer les autres planches : on sera certain 
+par ce moyen du rapport exact qu&#39;elles auront
+entre elles. Le blanc liquide qui doit calquer du voile
+au cuivre grainé, est un blanc à détrempe délayé
+dans l&#39;eau-de-vie avec un peu de fiel de boeuf, pour
+qu&#39;il morde mieux sur le trait à l&#39;huile : mais pour
+conserver ce trait, il est à-propos de prendre une
+plume &amp; de le repasser à l&#39;encre de la Chine ; car
+l&#39;encre ordinaire tient trop opiniâtrément dans les
+cavités de la grainure.
+</p>
+<p>
+<i>Gravure des planches</i>. Les instrumens dont on se
+sert pour ratisser la grainure, sont les mêmes que
+ceux qu&#39;on employe pour la maniere noire. <i>Voyez</i>
+<sc><ref target="head:Gravure en maniere noire" type="search">Gravure en maniere noire</ref></sc>
+</p>
+<p>
+<i>De l&#39;intention des trois planches</i>. La premiere planche 
+que l&#39;on ébauche est celle qui doit tirer en bleu,
+la seconde en jaune, &amp; la troisieme en rouge. Il faut
+avoir grande attention de ne pas trop approcher du
+trait qui arrête les contours, &amp; de réserver toûjours
+de la place pour se redresser quand on s&#39;appercevra
+par les épreuves que les planches ne s&#39;accordent pas
+parfaitement.
+</p>
+<p>
+On dirigera la <i>gravure</i> de façon que le blanc du
+papier, comme il a été dit, rende les luisans du tableau ; 
+la planche bleue rendra les tournans &amp; les
+fuyans ; la planche jaune donnera les couleurs tendres 
+&amp; les reflets ; enfin la planche rouge animera le
+tableau &amp; fortifiera les bruns jusqu&#39;au noir. Les trois
+planches concourent presque par-tout à faire les ombres,
+quelquefois deux planches suffisent, quelquefois 
+une seule.
+</p>
+<p>
+Quand il se trouve des ombres à rendre extrèmement 
+fortes, on met en oeuvre les hachures du burin.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Gravure au Burin" type="search">Gravure au Burin</ref></sc>. Il est aisé
+de juger que les effets viennent non-seulement de
+l&#39;union des couleurs, mais encore du plus ou du
+moins de profondeur dans les cavités du cuivre : le
+burin sera donc d&#39;un grand secours pour forcer les
+ombres ; &amp; qu&#39;on ne croye pas que ses hachures croisées 
+dans les ombres fassent dur : nous avons des tableaux 
+imprimés, où vûes d&#39;une certaine distance,
+elles rappellent tout le moëlleux du pinceau. Les ombres 
+extrèmement fortes obligent de caver le cuivre
+plus profondément que ne font les hachures ordinaires<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de la taille-douce : on se sert alors du ciseau
+pour avoir plus de facilité à creuser.
+</p>
+<p>
+<i>Pour établir l&#39;ensemble</i>. Dès qu&#39;on a gravé à-peu-près la planche bleue, on en tire quelques épreuves
+&amp; l&#39;on fait les corrections au pinceau : pour cela,
+mettez un peu de blanc à détrempe sur les parties
+de l&#39;épreuve qui paroissent trop colorées, &amp; un peu
+de bleu à détrempe sur les parties qui paroissent trop
+claires : puis en consultant cette épreuve corrigée,
+vous passerez encore le grattoir sur les parties du cuivre 
+trop fortes, par conséquent trop grainées, &amp; vous
+grainerez avec le petit berceau les parties qui paroîtront 
+trop claires, par conséquent trop grattées ;
+mais avec un peu d&#39;attention, on évite le cas d&#39;être
+obligé de regrainer. Cette premiere planche bleue
+approchant de sa perfection, vous fournira des épreuves qui serviront à conduire la planche jaune : voici
+comment.
+</p>
+<p>
+Examinez les draperies ou autres parties qui doivent 
+rester en bleu pur ; couvrez ces parties sur votre 
+épreuve bleue avec de la craie blanche, &amp; ratissez 
+la seconde planche de façon qu&#39;elle ne rende en
+jaune que ce que la craie laisse voir en bleu.
+</p>
+<p>
+Mais ce que rend la planche bleue n&#39;apporte pas
+tout ce que demande la planche jaune ; c&#39;est pourquoi 
+vous ajoûterez à détrempe sur cette épreuve
+bleue tout le jaune de l&#39;original, jaune pur, jaune
+paille, ou autre plus ou moins foncé. Si la planche
+bleue ne fournit rien sur le papier dans une partie
+où est placé, par exemple, le noeud jaune d&#39;une mante ; 
+vous peindrez ce noeud à détrempe jaune sur votre 
+épreuve bleue, afin qu&#39;en travaillant la seconde
+planche d&#39;après l&#39;épreuve de la premiere, vous lui
+fassiez porter en jaune tout ce que cette épreuve
+montrera de jaune &amp; de bleu.
+</p>
+<p>
+On travaille avec les mêmes précautions la troisieme 
+en rouge d&#39;après la seconde en jaune ; &amp; pour
+juger des effets de chaque planche, on en tire des
+épreuves en particulier, qui font des camayeux, mais
+tous imparfaits, parce qu&#39;il leur manque des parties
+qui ne peuvent se retrouver pour l&#39;ensemble, qu&#39;en
+unissant à l&#39;impression les trois couleurs sur la même
+feuille de papier. On jugera, quand elles seront réunies,
+des teintes, demi-teintes, de toutes les parties 
+enfin trop claires ou trop chargées de couleurs ;
+on passera, comme on l&#39;a déjà fait, le berceau sur
+les unes &amp; le grattoir sur les autres.
+</p>
+<p>
+C&#39;est ainsi que furent conduits les premiers ouvrages 
+dans ce genre, qu&#39;on vit paroître il y a vingt-cinq 
+ou trente ans en Angleterre. On devroit s&#39;en tenir 
+à cette façon d&#39;opérer : l&#39;inventeur cependant en a
+enseigné une plus expéditive dont il s&#39;est servi à
+Londres &amp; à Paris ; mais il ne s&#39;en servoit que malgré 
+lui, parce qu&#39;elle est moins triomphante pour le
+système des trois couleurs primitives.
+</p>
+<p>
+<i>Maniere plus prompte d&#39;opérer</i>. Quatre planches
+sont nécessaires pour opérer plus promptement : on
+charge d&#39;abord la premiere de tout le noir du tableau ; 
+&amp; pour rompre l&#39;uniformité qui tiendroit trop
+de la maniere noire, on ménage dans les autres planches,
+de la grainure qui puisse glacer sur ce noir. On
+aura attention de tenir les demi-teintes de cette premiere 
+planche un peu foibles, pour que son épreuve
+reçoive la couleur des autres planches sans les salir.
+</p>
+<p>
+Le papier étant donc chargé do noir, la seconde
+planche qui imprimera en bleu, puisqu&#39;on ne la forçoit 
+que pour aider à faire les ombres, doit être
+beaucoup moins forte de grainure qu&#39;elle ne l&#39;étoit
+en travaillant sur les premiers principes : de même
+la planche jaune &amp; la planche rouge qui servoient
+aussi à forcer les ombres, ne seront presque plus
+chargées que des parties qui devoient imprimer en
+jaune &amp; en rouge, &amp; de quelques autres parties encore<gap type="hyphenpb" />
+<pb n="7:901" facs="V7/ENC_7-901.jpeg" />
+<milestone unit="column" n="1" />
+qui glaceront pour fondre les couleurs, ou qui
+réunies en produiront d&#39;autres ; ainsi que le bleu &amp; le
+jaune produiront ensemble le verd ; le rouge &amp; le
+bleu produiront le pourpre, <i>&amp;c.</i>
+</p>
+<p>
+Le cuivre destiné pour la planche noire sera grainé 
+sur toute la superficie ; mais en traçant sur les autres,
+on pourra réserver de grandes places qui resteront 
+polies. Ainsi en s&#39;évitant la peine de les grainer,
+on s&#39;évitera encore celle qu&#39;on est obligé de
+prendre pour ratisser &amp; polir les places qui ne doivent 
+rien fournir à l&#39;impression.
+</p>
+<p>
+Quand on est une fois parvenu à se faire un modele,
+on est bien avancé: que j&#39;aye, par exemple, un
+portrait à graver ; il s&#39;y trouve, je suppose, cent
+teintes différentes ; l&#39;estampe en couleur d&#39;un saint-Pierre que j&#39;aurai conservee avec les cuivres qui
+l&#39;ont imprimée, va decider une partie de mes teintes,
+&amp; voici comment.
+</p>
+<p>
+Je veux colorer l&#39;écharpe du portrait ; cette écharpe me paroit par la confrontation, de la même teinte
+que la ceinture de mon S. Pierre anciennement imprimée ; 
+j&#39;examine les cuivres du S. Pierre, je reconnois 
+qu&#39;il y a tant de jaune, tant de rouge dans
+leur grainure : alors pour rendre l&#39;écharpe du portrait,
+je réserve en jaune &amp; en rouge autant de grainure 
+que mes anciens cuivres en ont pour la ceinture 
+du saint-Pierre.
+</p>
+<p>
+<i>Des cas particuliers qui peuvent exiger une cinquieme
+planche</i>. Il se rencontre dans quelques tableaux des
+transparens à rendre, qui demandent une planche
+extraordinaire ; des vitres dans l&#39;Architecture, des
+voiles dans les draperies, des nuées dans les ciels,
+<i>&amp;c.</i> le papier qui fait le clair de nos teintes, a été
+couvert de differentes couleurs, &amp; par conséquent
+ne peut plus fournir aux transparens, qui doivent
+être blancs ou blanchâtres, &amp; paroitre par-dessus
+toutes les couleurs. On sera donc obligé, pour faire
+sentir la transparence, d&#39;avoir recours à une cinquieme,
+ou plutôt à l&#39;un des quatre cuivres qui ont déjà
+travailié.
+</p>
+<p>
+Je cherche à rendre, je suppose, les vitres d&#39;un
+palais, la planche rouge n&#39;a rien fourni pour ce palais,
+&amp; conserve par conséquent une place fort large 
+sans grainure ; j&#39;en vais profiter pour y graver
+au burin quelques traits qui imprimés en blanc sur
+le bleuâtre des vitres, rendront la transparence de
+l&#39;original, &amp; m&#39;épargneront un cinquieme cuivre:
+les épreuves de cette impression en blanc se tirent,
+pour les corriger, sur du papier bleu.
+</p>
+<p>
+On concluera de cette explication, que par une
+économie, fort contraire il est vrai à la simplicité de
+notre art, on peut profiter des places lissées dans
+chaque planche, pour donner de certaines touches
+qui augmenteront la force, &amp; avec d&#39;autant plus de
+facilite, que la même planche imprimera sous un
+même tour de presse, plusieurs couleurs à-la-fois,
+en mettant differentes teintes dans des parties assez
+éloignées les unes des autres pour qu&#39;on puisse les
+étendre &amp; les essuyer sur la planche sans les confondre.
+L&#39;imprimeur intelligent, maitre de disposer de
+toutes ses nuances &amp; de les eclaircir avec le blanc
+ajoûté, aura grande attention de consulter le ton
+dominant pour conserver l&#39;harmonie.
+</p>
+<p>
+<i>De l&#39;impression</i>. Le papier, avant d&#39;être mis sous
+la presse, sera trempe au-moins vingt-quatre heures : on ne risque rien de le faire tremper plus longtems.
+</p>
+<p>
+On tirera, si l&#39;on veut, les quatre &amp; les cinq planches 
+de suite, sans laisser secher les couleurs ; il semble 
+même qu&#39;elles n&#39;en seront que mieux mariées:
+cependant si quelque obstacle s&#39;oppose à ces impressions 
+précipitées, on pourra laisser sécher chaque
+couleur, &amp; faire retremper le papier autant de fois
+qu&#39;il recevra de planches différentes.
+<milestone unit="column" n="2" />
+</p>
+<p>
+On ne sauroit arriver à la perfection du tableau
+sans imprimer beaucoup d&#39;essais ; ces essais usent les
+planches ; &amp; quand on est dans le fort de l&#39;impression,
+on est bien-tôt obligé de les retoucher. Les
+cuivres, pour ne pas se flatter, tireront au plus six
+ou huit cents épreuves sans altération sensible.
+</p>
+<p>
+Les estampes colorées exigent des attentions que
+d&#39;autres estampes n&#39;exigent pas ; par exemple, l&#39;imprimeur 
+aura soin d&#39;appuyer ses doigts encrés sur le
+revers de son papier aux quatre coins du cuivre, afin
+que ce papier puisse recevoir successivement, angle
+sur angle, toutes les planches dans ses reperes. <i>Voy</i>.
+<sc><ref target="head:Impression en Taille-douce" type="search">Impression en Taille-
+douce</ref></sc>.
+</p>
+<p>
+<i>Des couleurs</i>. Toutes les couleurs doivent être
+transparentes pour glacer l&#39;une sur l&#39;autre, &amp; demandent 
+par conséquent un choix particulier ; elles peuvent 
+etre broyées à l&#39;huile de noix ; cependant la
+meilleure &amp; la plus siccative est l&#39;huile de pavots ;
+quelle qu&#39;elle soit, on y ajoûtera toûjours la dixieme
+partie d&#39;huile de litharge : c&#39;est à l&#39;imprimeur à rendre 
+ses couleurs plus ou moins coulantes, selon que
+son expérience le guide ; mais qu&#39;il ait grande attention 
+à les faire broyer exactement fin, sans cela elles
+entrent avec force dans la grainure, n&#39;en sortent
+qu&#39;avec peine ; elles hapent le papier &amp; le font déchirer.
+</p>
+<p>
+<i>Du blanc</i>. Les transparens dont il a été parlé, seront 
+imprimés avec du blanc de plomb le mieux
+broyé.
+</p>
+<p>
+<i>Du noir</i>. Le noir ordinaire des Imprimeurs en
+taille-douce est celui qu&#39;on employe pour la premiere 
+planche, quand on travaille à quatre cuivres ;
+on y ajoûtera un peu d&#39;indigo, pour le disposer à s&#39;unir 
+au bleu.
+</p>
+<p>
+<i>Du bleu</i>. L&#39;indigo fait aussi notre bleu d&#39;essai ; mettez-le en poudre, &amp; pour le purifier jettez-le dans
+un matras ; versez dessus assez d&#39;esprit-de-vin pour
+que le matras soit divisé en trois parties ; la premiere
+d&#39;indigo, la seconde d&#39;esprit-de-vin, la troisieme vuide : faites bouillir au bain de sable, &amp; versez ensuite
+par inclination l&#39;esprit-de-vin chargé de l&#39;impureté ;
+remettez de nouvel esprit-de-vin, &amp; recommencez
+la même opération jusqu&#39;à ce que cet esprit sorte du
+matras sans être taché; laissez alors votre matras sur
+le feu jusqu&#39;à siccité. Si au lieu de faire évaporer vous
+distillez l&#39;esprit-de-vin, il sera bon encore à pareille
+purification.
+</p>
+<p>
+L&#39;indigo ne sert que pour les essais ; on employe
+à l&#39;impression le plus beau bleu de Prusse : mais il faut
+se garder de s&#39;en servir pour essayer les planches ; il
+les tache si fort qu&#39;on a de la peine à reconnoitre
+ensuite les défauts qu&#39;on cherche à corriger.
+</p>
+<p>
+<i>Du jaune</i>. Le stil de grain le plus foncé est le jaune 
+qu&#39;on broye pour nos impressions ; on n&#39;en trouve
+pas toûjours chez les marchands qui descende assez
+bas, alors on le fait ainsi.
+</p>
+<p>
+Prenez de la graine d&#39;Avignon, faites-la bouillir
+dans de l&#39;eau commune : jettez-y pendant qu&#39;elle
+bout, de l&#39;alun en poudre : passez la teinture à-travers un linge fin, &amp; délayez-y de l&#39;os de seche en
+poudre avec de la craie blanche, partie égale : la
+dose n&#39;est point prescrite ; on tâtera l&#39;opération pour
+qu&#39;elle fournisse un stil de grain qui conserve à l&#39;huile
+une couleur bien foncée.
+</p>
+<p>
+<i>Du rouge</i>. On demande pour le rouge une laque
+qui s&#39;éloigne du pourpre &amp; qui approche du nacarat ;
+elle sera mêlée avec deux parties de carmin le mieux
+choisi : on peut aussi faire une laque qui contienne en
+elle-même tout le carmin nécessaire ; on y mêlera,
+selon l&#39;occasion, un peu de cinnabre minéral &amp; non
+artificiel. Il est à-propos d&#39;avertir que pour faire les
+essais, le cinnabre seul, même l&#39;artificiel, suffit.
+</p>
+<p>
+Nous pouvons assûrer que pour peu qu&#39;on ait de
+pratique dans le dessein, si l&#39;on suit exactement les
+<pb n="7:902" facs="V7/ENC_7-902.jpeg" />
+<milestone unit="column" n="1" />
+opérations que nous venons de décrire, on tirera des
+épreuves qui seront de bonnes copies d&#39;un tableau
+quel qu&#39;il soit ; &amp; l&#39;on ne doit pas regarder comme
+un foible avantage, de trouver dans les livres d&#39;Anatomie, de Botanique, d&#39;Histoire naturelle, des estampes 
+sans nombre, qui, en apportant les contours,
+donnent aussi les couleurs. On peut juger de l&#39;utilité
+de cette nouvelle découverte, en examinant les planches 
+anatomiques imprimées depuis quelques années
+à Paris par le sieur Gautier de l&#39;académie de Dijon,
+qui à la mort de le Blon a succédé à son privilége
+après avoir été son éleve. Quelques autres éleves ont
+aussi gravé différens morceaux ; &amp; ces morceaux,
+avec ceux du sieur Gautier, font espérer que le
+nouvel art sera bien-tôt à sa perfection.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

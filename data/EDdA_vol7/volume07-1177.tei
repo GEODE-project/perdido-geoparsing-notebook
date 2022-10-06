@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28631" id="51:17:12" vol="7">
+<index type="head" value="Fusée" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de Blason" />
+<index type="normclass" value="Blason" />
+<index type="englishclass" value="Coat of arms" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Fusée</head>
+<p>
+<sc>Fusée</sc>, <i>terme de Blason</i>, qui dénote une figure
+rhomboïde, plus alongée que la losange ; ses angles
+supérieurs &amp; insérieurs sont plus aigus que ceux
+du milieu. <i>Voyez nos <ref target="XPL:5198" type="platelink">Planches de Blason</ref></i>.
+</p>
+<p>
+On regarde la <i>fusée</i> comme la marque de la droiture 
+&amp; de l&#39;équité. Quelques-uns veulent cependant
+que les <i>fusées</i> en Blason soient des marques de flétrissure 
+pour ceux qui les portent. Ils en donnent pour
+raison qu&#39;après que les croisades eurent été publiées,
+nos rois condamnerent les gentilhommes qui se dispenserent 
+d&#39;aller à la guerre contre les infideles, à
+changer leurs armes, &amp; à charger leurs écus de <i>fusées</i>, comme reconnoissant qu&#39;ils méritoient d&#39;être
+mis au nombre des femmes. <i>Dict. de Trév. &amp; Chamb</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

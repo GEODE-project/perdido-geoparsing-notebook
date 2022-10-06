@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28241" id="50:65:3" vol="7">
+<index type="head" value="Frapper Epingles" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme d&#39;Epinglier" />
+<index type="normclass" value="Epinglerie" />
+<index type="englishclass" value="Pinmaking" />
+<index type="generatedclass" value="Epinglerie" />
+<index type="pos" value="NA" />
+<head>Frapper Epingles</head>
+<p>
+<sc>* Frapper Epingles</sc>, <i>terme d&#39;Epinglier</i>. C&#39;est en
+former la tête : ce qui se fait en la <i>frappant</i> d&#39;un coup
+de marteau pendant que le fil de laiton est tenu assujetti 
+dans un étau.
+</p>
+<p>
+La tête de l&#39;épingle est faite du même fil de laiton,
+&amp; de la même grosseur que l&#39;épingle, à l&#39;exception
+que le laiton qui sert à la tête, a été tourné, &amp; pour
+ainsi dire cordé par le moyen d&#39;une machine qui
+fait le même effet que la roue des Cordiers par rapport 
+à la filasse. <i>Voyez</i> <sc><ref target="head:Epingle" type="search">Epingle</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

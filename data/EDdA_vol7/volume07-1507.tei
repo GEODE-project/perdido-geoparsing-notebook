@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28961" id="51:219" vol="7">
+<index type="head" value="GANYMEDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mytholog." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="NA" />
+<head>GANYMEDE</head>
+<p>
+GANYMEDE, (<i>Mytholog.</i>) Homere déclare que
+c&#39;étoit le plus beau de tous les hommes, &amp; que les
+dieux le ravirent par cette raison : si l&#39;on en croit les
+autres poëtes, il fut aimé du seul Jupiter, qui en fit
+son échanson, depuis le mariage d&#39;Hébé avec Hercule. Un jour, disent-ils, que ce charmant phrygien
+chassoit sur le mont Ida, l&#39;aigle de Jupiter ou Jupiter lui-même sous la forme d&#39;un aigle, l&#39;enleva dans
+l&#39;olympe pour lui servir à boire, &amp; le plaça au nombre 
+des douze signes du Zodiaque, sous le nom de
+<i>verseau:</i> tel est l&#39;usage des Poëtes, dit Cicéron, de
+transporter aux dieux les passions des hommes, au
+lieu qu&#39;il seroit à souhaiter qu&#39;ils eussent appliqué
+aux hommes les vertus des dieux.
+</p>
+<p>
+La fable de <i>Ganymede</i> paroît fondée sur un fait historique,
+mais qui est narré diversement par les anciens.
+Les uns prétendent que Tros ayant envoyé en
+Lydie son fils <i>Ganymede</i> avec quelques seigneurs de
+sa cour, pour offrir des sacrifices dans un temple consacré 
+à Jupiter, Tantale qui étoit souverain du pays,
+ignorant les projets du roi de Troie, prit cette troupe 
+pour des espions, arrêta le jeune <i>Ganymede</i>, le retint 
+prisonnier, ou peut-être le fit servir d&#39;échanson
+à sa table.
+</p>
+<p>
+D&#39;autres racontent que <i>Ganymede</i> fut enlevé par
+Tantale, qui en étoit amoureux ; qu&#39;Ilus marcha contre<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+le ravisseur pour arracher son frere de ses mains ;
+qu&#39;on en vint à un combat très-vis, où les troupes de
+Tantale portoient un aigle sur leurs enseignes, &amp; où
+<i>Ganymede</i> perdit la vie ; son corps que l&#39;on chercha
+ne s&#39;étant point trouvé, on feignit que Jupiter l&#39;avoit
+enlevé.
+</p>
+<p>
+Quoi qu&#39;il en soit, la fable de <i>Ganymede</i> brille dans
+un ancien monument qui s&#39;est conservé jusqu&#39;à nous ;
+on y voit un aigle avec les aîles déployées, ravissant
+un beau jeune homme, qui tient de la main droite une
+pique, symbole du dieu qui l&#39;enleve, &amp; de la main
+gauche une urne à verser de l&#39;eau, marque de l&#39;office
+d&#39;un echanson. Aussi le nom de <i>Ganymede</i> désignoit
+tout valet qui donne à boire ; <i>tu getulum Ganymedem
+respice-quum sities:</i> mais ce même mot désignoit principalement 
+<i>un efféminé</i>.
+</p>
+<p>
+La statue de <i>Ganymede</i> fut transportée de la Grece
+à Rome, au temple de la paix ; &amp; Juvénal y a fait
+allusion : <i>nuper enim</i>, dit-il, <i>repeto fanum Isidis, &amp;
+Ganymedem hic facis</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

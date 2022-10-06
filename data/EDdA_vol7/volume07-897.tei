@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28351" id="50:120" vol="7">
+<index type="head" value="FREUX" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Ornitholog." />
+<index type="normclass" value="Histoire naturelle | Ornithologie" />
+<index type="englishclass" value="Natural history. Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>FREUX</head>
+<p>
+FREUX, s. m. <i>cornix frugilega</i>, (<i>Hist. nat. Ornitholog.</i>) oiseau qui ressemble presque entierement à
+la corneille : on les confond souvent, &amp; on les appelle 
+tous les deux du même nom de <i>corneille</i>. Celui
+qui a servi de sujet pour la description suivante pesoit
+une livre trois onces ; il avoit un pié &amp; demi de longueur 
+depuis la pointe du bec jusqu&#39;à l&#39;extrémité de
+la queue, &amp; seulement un pié quatre pouces jusqu&#39;au
+bout des ongles ; l&#39;envergure étoit de trois piés. Cet
+oiseau n&#39;a point de jabot ; mais la partie supérieure
+de l&#39;oesophage est dilatée en forme de petit sac, dans
+lequel il porte la nourriture de ses petits : il enfonce
+son bec dans la terre pour chercher des vers, si profondément,
+qu&#39;il détruit presque entierement les plumes 
+qui entourent la racine du bec, &amp; celles qui sont
+depuis la racine jusqu&#39;aux yeux. La peau qui recouvre 
+la base du bec est blanchâtre &amp; farineuse. On distingue 
+les <i>freux</i> des corneilles ordinaires, non-seulement par cette marque, mais encore parce qu&#39;ils sont
+plus gros, parce que leurs plumes sont luisantes &amp;
+qu&#39;ils volent &amp; nichent par troupes. Il y a dans chaque<gap type="hyphenpb" />
+<pb n="7:306" facs="V7/ENC_7-306.jpeg" />
+<milestone unit="column" n="1" />
+aîle vingt grandes plumes ; la quatrieme est la
+plus longue : le tuyau des petites plumes du milieu
+de l&#39;aile qui recouvrent les grandes, est terminé par
+des soies ou des barbes. La queue a sept pouces de
+longueur ; elle est composée de douze plumes, dont
+les extérieures sont plus courtes que celles du milieu.
+Le bec a deux pouces &amp; demi de longueur ; l&#39;ouverture 
+des narines est ronde, &amp; la langue noire, cartilagineuse,
+&amp; fourchue. L&#39;ongle du doigt de derriere
+est long &amp; fort : le doigt extérieur tient au doigt du
+milieu, comme dans la corneille. Le <i>freux</i> se nourrit
+de fruits ; c&#39;est pourquoi on l&#39;appelle <i>frugilega</i> &amp;
+<i>freux</i>: quelquefois aussi il mange des vers de terre.
+Willug. <i>Ornith. Voyez</i> <sc><ref target="head:Oiseau" type="search">Oiseau</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

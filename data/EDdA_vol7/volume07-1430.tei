@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28884" id="51:161:2" vol="7">
+<index type="head" value="Galles, (les)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>Galles</head>
+<p>
+<sc>Galles</sc>, (<i>les</i>) <i>Géog</i>. peuples d&#39;Afrique dans l&#39;Ethiopie à l&#39;orient, au midi &amp; au couchant de l&#39;Abyssinie : de-là vient qu&#39;il faut les distinguer en orientaux,
+occidentaux, &amp; méridionaux.
+</p>
+<p>
+Ces peuples ennemis de la paix, ne vivent que de
+leurs brigandages, &amp; sont continuellement en course 
+contre les Abyssins. Ils ne cultivent ni ne moissonnent ; 
+contens de leurs troupeaux, soit en paix, soit
+en guerre, ils les chassent devant eux dans d&#39;excellens 
+pâturages ; ils en mangent la chair souvent crue
+&amp; sans pain ; ils en boivent le lait, &amp; se nourrissent
+de cette maniere, soit au camp, soit chez eux. Ils ne
+se chargent point de bagages ni de meubles de cuisine ; 
+des gamelles pour recevoir le lait, voilà tout
+ce qu&#39;il leur saut. Continuellement prêts à envahir le
+bien des autres, ils ne craignent point les représailles,
+dont la pauvreté les met à couvert. Dès qu&#39;ils
+se sentent les plus foibles, ils se retirent avec leurs
+bestiaux dans le fond des terres, &amp; mettent un desert 
+entr&#39;eux &amp; leurs ennemis. C&#39;est ainsi qu&#39;on vit
+autrefois les Huns, les Avares, les Goths, les Vandales, les Normands, répandre la terreur chez les
+nations policées de l&#39;Europe, &amp; les Tartares orientaux 
+se rendre maîtres de la Chine. De même les
+<i>Galles</i> choisissent un chef tous les huit ans pour les
+commander ; &amp; ce chef ne se mêle d&#39;aucune autre
+affaire. Son devoir est d&#39;assembler le peuple, &amp; de
+fondre sur l&#39;ennemi, pour y acquérir de la gloire &amp;
+y faire du butin.
+</p>
+<p>
+Telle est cette nation terrible qui a si bien affoibli 
+le royaume de l&#39;Abyssinie, qu&#39;il en reste à
+peine au roi la moitié des états que ses ancêtres ont
+possédés. Les <i>Galles</i> l&#39;auroient conquis entierement,
+si la mesintelligence ne s&#39;étoit pas mise entre eux, &amp;
+s&#39;ils ne se fussent pas mutuellement affoiblis. <i>Voyez
+l&#39;histoire d&#39;Ethiopie</i> du savant Ludolf. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

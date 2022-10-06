@@ -1,0 +1,139 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29640" id="53:122:3" vol="7">
+<index type="head" value="Glacis" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Rubannier." />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Rubanier" />
+<index type="pos" value="NA" />
+<head>Glacis</head>
+<p>
+<sc>* Glacis</sc>, (<i>Rubannier.</i>) ce sont des soies de long
+ou de chaînes, qui n&#39;ont d&#39;autre usage que de lier
+la trame, lorsque la traînée se trouveroit trop longue 
+&amp; exposee par conséquent à lever. Chaque rame 
+de <i>glacis</i> est passée dans les hautes lisses, ainsi
+qu&#39;il est dit au <i>mot</i> <sc>Passage des Rames</sc>. Chaque
+branche est mise à part sur un petit roquetin séparé
+avec son contre-poids &amp; son freluquet, &amp; est levée
+par ses rames propres, lorsqu&#39;elle travaille en <i>glacis ; voyez encore l&#39;article</i> <sc><ref target="head:Passage des Rames" type="search">Passage des Rames</ref></sc>:
+mais pour plus de clarté, nous allons dire un mot du
+passage propre des rames de <i>glacis</i>. Lorsqu&#39;il y a
+du <i>glacis</i> dans un ouvrage, les six rames de neuf
+par lesquelles on passe pour occuper les neuf rouleaux 
+de porte-rames de devant, sont de figure ; &amp;
+les trois autres sont de <i>glacis</i>, &amp; passées suivant
+le translatage du <i>glacis</i> qui ne change jamais. On
+entend par <i>translatage</i>, l&#39;emprunt que l&#39;on fait,
+lorsqu&#39;il est possible ; &amp; cela pour épargner les bouclettes 
+des hautes-lisses : cet emprunt n&#39;est autre
+chose que l&#39;usage multiplié de la même bouclette,
+quand il est pratiquable ; &amp; pour joüir du privilége
+de l&#39;emprunt, la seconde rame doit faire, conjointement 
+avec la premiere, les pris que la premiere fait,
+&amp; ainsi des autres jusqu&#39;à neuf, qui toutes peuvent
+emprunter sur la premiere des neuf, &amp; toûjours dans
+le cas de la possibilité. Ceci compris, lorsque la rame
+de <i>glacis</i> ne travaille point en <i>glacis</i>, on la passe conformément 
+à ce le de figure avec laquelle elle doit
+aller suivant l&#39;ordre dont nous allons parler. Mais
+lorsqu&#39;elle travaillera en <i>glacis</i>, elle sera passée conformément 
+à son propre translatage ; pouvant néanmoins 
+joüir de l&#39;emprunt, lorsqu&#39;il aura lieu. Les trois
+rames de <i>glacis</i> qui font partie des neuf que l&#39;on passe,
+ont le même passage &amp; le même avantage quant
+à l&#39;ordre : voici ce que c&#39;est que cet ordre. La premiere 
+rame des trois de <i>glacis</i>, sera portée par la
+premiere des six de figure ; la seconde rame de figure
+ira seule ; la seconde rame de <i>glacis</i> sera portée par
+la troisieme de figure ; la quatrieme de figure ira seule ;
+&amp; la troisieme de <i>glacis</i> sera portée par la cinquieme
+rame de figure ; par conséquent la sixieme rame de
+figure ira seule : &amp; voilà les neuf rames par lesquelles
+nous avons dit qu&#39;on passoit.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

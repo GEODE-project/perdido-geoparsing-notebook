@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28949" id="51:211:4" vol="7">
+<index type="head" value="Gant" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>Gant</head>
+<p>
+<sc>Gant</sc>, (<i>Géog.</i>) bourg de France dans le Béarn,
+à deux lieues de la ville de Pau : nous n&#39;en parlons
+que parce qu&#39;il est la patrie de M. de Marca (Pierre),
+<pb n="7:476" facs="V7/ENC_7-476.jpeg" />
+<milestone unit="column" n="1" />
+un des plus célebres prélats de l&#39;église gallicane. On
+fait qu&#39;après avoir été conseiller d&#39;état &amp; marié, il
+eut plusieurs enfans, devint veuf, &amp; entra dans l&#39;église ; 
+obtint l&#39;archevêché de Toulouse ; &amp; étoit nommé 
+à celui de Paris, lorsqu&#39;il mourut en 1662, âgé
+de 68 ans. Son livre, intitulé <i>Marca hispanica</i>, est
+plein de savantes observations géographiques ; &amp;
+son traité de la concorde de l&#39;empire &amp; du sacerdoce,
+<i>de concordiâ sacerdotii &amp; imperii</i>, est très estimé ;
+il faut l&#39;avoir de l&#39;édition de M. Baluze. Enfin son
+<i>histoire de Béarn</i> est la meilleure que nous ayons.
+L&#39;abbé Faget a écrit la vie de M. de Marca ; on peut
+la consulter. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

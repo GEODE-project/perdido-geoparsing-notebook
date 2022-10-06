@@ -1,0 +1,135 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29639" id="53:122:2" vol="7">
+<index type="head" value="Glacis" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Peinture" />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="NA" />
+<head>Glacis</head>
+<p>
+<sc>Glacis</sc>, signifie, <i>en terme de Peinture</i>, l&#39;effet que
+produit une couleur transparente qu&#39;on applique sur
+une autre qui est déjà seche ; de maniere que celle
+qui sert de <i>glacis</i> laisse appercevoir la premiere, à laquelle 
+elle donne seulement un ton ou plus brillant,
+ou plus leger, ou plus harmonieux.
+</p>
+<p>
+On ne glace ordinairement qu&#39;avec des couleurs
+transparentes, telles que les laques, les stils de grain,
+<i>&amp;c.</i> La façon de glacer est de frotter avec une brosse
+un peu ferme, la couleur dont on glace sur celle qui
+doit en recevoir l&#39;empreinte : en conséquence il reste
+sur la toile fort peu de cette couleur dont on glace ;
+ce qui, joint à la qualité des couleurs qui sont les plus
+propres à glacer, doit faire craindre avec raison aux
+peintres qui se servent de ce moyen, que l&#39;effet brillant 
+qu&#39;ils cherchent ne soit que passager &amp; ne s&#39;évanoüisse 
+avec la laque &amp; le stil de grain qui s&#39;évaporent 
+ou se noircissent en fort peu de tems. Au reste,
+cette pratique a cependant été adoptée par de
+grands peintres ; Rubens en a souvent fait usage.
+Les <i>glacis</i> sont très-propres pour accorder un tableau
+&amp; pour parvenir à une harmonie rigoureuse : mais
+le danger est encore plus grand que l&#39;avantage qu&#39;on
+en peut retirer, puisque l&#39;effet en est ordinairement 
+passager, &amp; que d&#39;ailleurs rien ne peut égaler
+<pb n="7:694" facs="V7/ENC_7-694.jpeg" />
+<milestone unit="column" n="1" />
+le mérite durable d&#39;un tableau peint à pleine couleur,
+&amp;, comme disent les Peintres, <i>dans la pâte</i>.
+C&#39;est aux artistes à faire des épreuves qui les éclaircissent sur les effets différens des <i>glacis</i>, dont il seroit
+peut-être injuste de blâmer indistinctement la pratique.
+On ne connoît pas encore assez les qualités physiques 
+des couleurs dont on se sert ; on n&#39;a pas fait assez 
+de recherches sur cette partie, pour être en droit
+de prononcer absolument sur ce moyen, que je crois
+à la vérité devoir plûtôt la naissance au défaut de facilité 
+qu&#39;au talent. <i>Article de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

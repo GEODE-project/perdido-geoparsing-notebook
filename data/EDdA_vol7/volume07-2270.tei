@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29724" id="53:180" vol="7">
+<index type="head" value="GLOTTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Tarin" />
+<index type="shortauth" value="Tarin" />
+<index type="kafnum" value="125" />
+<index type="kafauth" value="Tarin, Pierre (1721-1793?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Anatomie" />
+<index type="normclass" value="Anatomie" />
+<index type="englishclass" value="Anatomy" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="s.f." />
+<head>GLOTTE</head>
+<p>
+GLOTTE, s. f. <i>en Anatomie</i>, se dit d&#39;une petite
+fente qui est dans le larynx, &amp; qui sert à former la
+voix. <i>Voyez</i> <sc><ref target="head:Larynx" type="search">Larynx</ref></sc>.
+</p>
+<p>
+La <i>glotte</i> a la forme d&#39;une languette, ce qui fait
+que les Grecs l&#39;ont appellée <i>glotta</i>, &amp; les Latins <i>lingula</i>, c&#39;est-à-dire <i>petite langue</i>.
+</p>
+<p>
+C&#39;est par cette fente que l&#39;air descend &amp; remonte,
+quand on respire, chante, parle, <i>&amp;c.</i> elle est garnie
+de plusieurs muscles, au moyen desquels nous pouvons 
+l&#39;étrécir &amp; l&#39;elargir à volonté; de sorte que les
+différentes ouvertures de la <i>glotte</i> forment toutes les
+variétés des tons de la voix humaine <i>Voyez</i> <sc><ref target="head:Voix" type="search">Voix</ref></sc>.
+</p>
+<p>
+La <i>glotte</i> est couverte &amp; défendue par un cartilage 
+doux &amp; mince, appellé l&#39;<i>épiglotte. Voyez</i> <sc><ref target="head:Épiglotte" type="search">Épiglotte</ref></sc>. <i>Chambers</i>. (<i>L</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,158 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30107" id="54:47" vol="7">
+<index type="head" value="GRAMMAIRIEN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Dumarsais" />
+<index type="shortauth" value="Dumarsais" />
+<index type="kafnum" value="43" />
+<index type="kafauth" value="Du Marsais, César Chesneau (1676-1756)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="adject" />
+<head>GRAMMAIRIEN</head>
+<p>
+GRAMMAIRIEN, adj. qui est souvent pris substantivement ; 
+il se dit d&#39;un homme qui a fait une
+étude particuliere de la Grammaire.
+</p>
+<p>
+Autrefois on distinguoit entre <i>grammairien</i> &amp; <i>grammatiste ;</i> on entendoit par <i>grammairien</i> ce que nous entendons 
+par <i>homme de lettres, homme d&#39;érudition, bon
+critique:</i> c&#39;est en ce sens que Suétone a pris ce mot
+dans son livre <i>des grammairiens célebres. Voyez ci-devant l&#39;article</i> <sc><ref target="head:Gens de Lettres" type="search">Gens de Lettres</ref></sc>.
+</p>
+<p>
+Quintilien dit qu&#39;un <i>grammairien</i> doit être philosophe,
+orateur ; avoir une vaste connoissance de
+l&#39;Histoire, être excellent critique &amp; interprete judicieux 
+des anciens auteurs &amp; des poetes ; il veut même
+que son <i>grammairien</i> n&#39;ignore pas la Musique. Tout cela 
+suppose un discernement juste &amp; un esprit philosophique,
+éclairé par une saine Logique &amp; par une Métaphysique solide. <i>Mixtum in his omnibus judicium
+est</i>. Quintil. <i>inst. orat. lib. I. c. jv.</i>
+</p>
+<p>
+Ceux qui n&#39;avoient pas ces connoissances &amp; qui
+étoient bornés à montrer par état la pratique des premiers 
+élémens des lettres, étoient appellés <i>grammatistes</i>.
+</p>
+<p>
+Aujourd&#39;hui on dit d&#39;un homme de lettres, qu&#39;<i>il
+est bon grammairien</i>, lorsqu&#39;il s&#39;est appliqué aux connoissances 
+qui regardent l&#39;art de parler &amp; d&#39;écrire
+correctement.
+</p>
+<p>
+Mais s&#39;il ne connoît pas que la parole n&#39;est que le
+signe de la pensée ; que par conséquent l&#39;art de parler 
+suppose l&#39;art de penser ; en un mot s&#39;il n&#39;a pas cet
+esprit philosophique qui est l&#39;instrument universel &amp;
+sans lequel nul ouvrage ne peut être conduit à la perfection,
+il est à peine <i>grammatiste:</i> ce qui fait voir la
+vérité de cette pensée de Quintilien,
+<blockquote> 
+« que la Grammaire au fond est bien au-dessus de ce qu&#39;elle paroit 
+être d&#39;abord »:
+</blockquote>
+<i>plus habet in recessu quam in
+fronte promittit</i>. Quintil. <i>inst. orat. lib. I. c. jv. init</i>.
+</p>
+<p>
+Bien des gens confondent les <i>Grammairiens</i> avec
+les <i>Grammatistes:</i> mais il y a toûjours un ordre supérieur 
+d&#39;hommes, qui, comme Quintilien, ne jugent 
+les choses grandes ou petites que par rapport
+aux avantages réels que la société peut en recueillir:
+souvent ce qui paroit grand aux yeux du vulgaire,
+ils le trouvent petit, si la société n&#39;en doit tirer aucun 
+profit ; &amp; souvent ce que le commun des hommes 
+trouve petit, ils le jugent grand, si les citoyens
+en doivent devenir plus éclairés &amp; plus instruits, &amp;
+qu&#39;il doive en résulter qu&#39;ils en penseront avec plus
+d&#39;ordre &amp; de profondeur ; qu&#39;ils s&#39;exprimeront avec
+plus de justesse, de précision, &amp; de clarté, &amp; qu&#39;ils
+en seront bien plus disposés à devenir utiles &amp; vertueux.
+(<i>F</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

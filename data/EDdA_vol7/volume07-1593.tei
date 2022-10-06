@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29047" id="51:235:54" vol="7">
+<index type="head" value="Garde de Justice" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde de Justice</head>
+<p>
+<sc>Garde de Justice</sc>, est le nom que l&#39;on donne
+à certains juges, qui sont considérés comme n&#39;ayant
+<milestone unit="column" n="2" />
+la justice qu&#39;en dépôt &amp; en <i>garde</i>. Par exemple, le
+prevôt de Paris n&#39;est, selon quelques-uns, que <i>garde</i>
+de ladite prevôté, parce que c&#39;est le roi qui en est le
+premier juge &amp; prevôt : c&#39;est pourquoi il y a un
+dais au-dessus du siége du prevôt de Paris. M. le procureur 
+-général est <i>garde</i> de la prevôté de Paris, le
+siége vacant ; ce qui signifie qu&#39;il n&#39;a cette prevôté
+qu&#39;en dépôt, &amp; non en titre d&#39;office. <i>Voyez</i> <sc><ref target="head:Prevôt de Paris" type="search">Prevôt
+de Paris</ref></sc>.
+</p>
+<p>
+On disoit aussi <i>donner en garde</i> une prevôté ou autre 
+justice, les sceaux ou un greffe. Anciennement
+on les donnoit à ferme ; mais cet abus fut reformé,
+&amp; on les donna en <i>garde</i>, c&#39;est-à-dire seulement par
+commission révocable <i>ad nutum</i>, jusqu&#39;au tems de
+Charles VIII. lequel, en 1493, ordonna qu&#39;il seroit
+pourvû aux prevôtés en titre d&#39;office de personnes
+capables, par élection des praticiens du siége ; &amp;
+depuis ce tems les prevôts ne s&#39;intitulerent plus simplement 
+<i>gardes de la prevôté</i>, mais <i>prevôts</i> simplement.
+<i>Voyez</i> Loiseau <i>des offices, liv. III. ch. j. n.
+75. &amp; suiv</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

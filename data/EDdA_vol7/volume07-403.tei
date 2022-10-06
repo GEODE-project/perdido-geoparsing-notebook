@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27857" id="49:82:11" vol="7">
+<index type="head" value="Fosse" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Plombier." />
+<index type="normclass" value="Plombier" />
+<index type="englishclass" value="Plumber" />
+<index type="generatedclass" value="Plombier" />
+<index type="pos" value="NA" />
+<head>Fosse</head>
+<p>
+<sc>* Fosse</sc>, (<i>Plombier</i>.) espece de chaudiere de grès
+ou de terre franche où l&#39;on fond le plomb à mettre
+en tables ou à faire différens ouvrages : elle est pratiquée 
+au-dessous du rez-de-chaussée de l&#39;attelier ; elle 
+est revêtue en tout sens d&#39;un massif de pierre qui
+la soûtient contre l&#39;effort d&#39;un métal fondu, dont le
+poids va quelquefois jusqu&#39;à 3000. Il y a au fond de
+la <i>fosse</i> une poësle de fonte qui rassemble le plomb
+à mesure que la <i>fosse</i> s&#39;épuise ; sa partie supérieure est
+couverte d&#39;une cheminée qui donne issue à la fumée
+&amp; aux vapeurs. Quand on veut fondre, on commence 
+par échauffer le fond de la <i>fossé</i> avec de la braise
+ardente : ensuite on la remplit de plomb &amp; de charbon 
+jettés pêle-mêle. On écume le métal a mesure
+qu&#39;il se met en bain, on en puise avec la cuilliere, on
+remplit la poëfle à verser, &amp; l&#39;on jette l&#39;ouvrage qu&#39;on 
+se propose de faire. <i>Voyez l&#39;article</i> <sc><ref target="head:Plombier" type="search">Plombier</ref></sc>, <i>&amp;
+les <ref target="XPL:4822" type="platelink">Planches de Plomberie</ref>, avec leur explication</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

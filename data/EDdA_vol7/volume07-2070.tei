@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29524" id="53:34" vol="7">
+<index type="head" value="GHET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>GHET</head>
+<p>
+GHET, (<i>Hist. mod.</i>) les Juifs appellent ainsi la
+lettre ou l&#39;acte de divorce qu&#39;ils donnent à leurs
+femmes quand ils les répudient ; ce qu&#39;ils font pour
+des causes souvent très-legeres. Leur coûtume à cet
+égard est fondée sur ces paroles du Deutéronome,
+<i>chap. xxjv. Si un homme a épousé une femme, &amp; que
+cette femme ne lui plaise pas à cause de quelque défaut, il
+lui écrira une lettre de divorce qu&#39;il lui mettra entre les
+mains, &amp; la congédiera</i>. Pour empêcher qu&#39;on n&#39;abuse
+de ce privilége, les rabbins ont ordonné plusieurs
+formalités, qui pour l&#39;ordinaire consument un si
+<milestone unit="column" n="2" />
+long tems, que le mari a le loisir de faire ses réflexions,
+de ne pas prendre conseil du dépit, &amp; de se
+réconcilier avec son épouse. Cette lettre doit être
+faite par un écrivain en présence d&#39;un ou de plusieurs 
+rabbins, être écrite sur du velin qui soit reglé,
+ne contenir que douze lignes ni plus ni moins en lettres 
+quarrées ; tout cela est accompagné d&#39;une infinité 
+de minuties tant dans les caracteres, que dans
+la maniere d&#39;écrire, &amp; dans les noms &amp; surnoms du
+mari &amp; de la femme. L&#39;écrivain, les rabbins, &amp; les
+témoins nécessaires à la cérémonie, ne doivent point
+être parens les uns des autres, &amp; encore moins appartenir 
+par le sang aux parties intéressées dans le
+divorce. Le <i>ghet</i> est conçû en ces termes après les
+dates du jour, du mois, de l&#39;année, &amp; du lieu : <i>Moi
+N. te répudie volontairement, t&#39;éloigne, &amp; te répudie
+toi N. qui as ci devant été ma femme, &amp; te permets de te
+marier avec qui il te plaira</i>. La lettre étant écrite, le
+rabbin interroge le mari pour savoir s&#39;il est volontairement 
+déterminé à cette action, on tâche que dix
+personnes au moins soient présentes à cette scene,
+sans compter deux témoins qui signent, &amp; deux autres 
+appellés seulement pour attester la date. Si le
+mari persiste dans sa résolution, le rabbin commande 
+à la femme d&#39;ouvrir les mains &amp; de les approcher 
+l&#39;une de l&#39;autre, pour recevoir cet acte que le
+mari lui donne en disant : <i>Voilà ta répudiation ; je
+t&#39;éloigne de moi, &amp; te laisse en liberté d&#39;épouser qui bon
+te semblera</i>. La femme le prend, le donne au rabbin
+qui le lit encore une fois, &amp; lui déclare qu&#39;elle est
+libre, en l&#39;avertissant toutefois de ne point se marier 
+de trois mois, de peur qu&#39;elle ne soit actuellement 
+enceinte. R. Léon Modene, <i>cérémon. des Juifs,
+partie IV. chap. vj.</i> (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

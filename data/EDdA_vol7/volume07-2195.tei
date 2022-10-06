@@ -1,0 +1,420 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29649" id="53:128" vol="7">
+<index type="head" value="GLAISE, TERRE GLAISE, ARGILLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéralog. Agric." />
+<index type="normclass" value="Histoire naturelle | Minéralogie. Agriculture" />
+<index type="englishclass" value="Natural history. Mineralogy. Agriculture" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.f." />
+<head>GLAISE</head>
+<p>
+GLAISE, s. f. TERRE GLAISE, ARGILLE,
+(<i>Hist. nat. Minéralog. Agric.</i>) c&#39;est une terre dont la
+couleur est ou blanche, ou jaune, ou brune, ou
+rougeâtre, ou grise, ou bleue, ou verdâtre ; elle
+est tenace, pesante, compacte, visqueuse ou grasse
+au toucher comme du savon ; ses parties sont très fines 
+&amp; fort étroitement liées les unes aux autres:
+elle s&#39;amollit dans l&#39;eau, &amp; a la propriété de prendre 
+corps, &amp; de se durcir considérablement dans le
+feu.
+</p>
+<p>
+Lister compte vingt-deux especes <i>d&#39;argilles</i> ou de
+<i>glaises</i> en Angleterre ; Wallerius en compte dix especes 
+dans sa minéralogie, mais ces terres ne different 
+point essentiellement entr&#39;elles ; elles ne varient 
+que par la couleur, qui peut avoir un nombre
+infini de nuances, &amp; par le plus ou moins de sable,
+de gravier, de terreau ou de <i>humus</i>, de craie, de
+marne, de parties ferrugineuses, &amp; d&#39;autres substances 
+étrangeres qu&#39;elles peuvent contenir.
+</p>
+<p>
+On a quelquefois voulu mettre de la différence
+entre l&#39;<i>argille</i> &amp; la <i>glaise ;</i> cette distinction étoit fondée 
+sur ce que l&#39;<i>argille</i> étoit, dit on, mêlée d&#39;un plus
+grand nombre de parties de sable &amp; de terreau ; mais
+l&#39;on sent que ce mélange purement accidentel ne suffit 
+pas pour faire distinguer ces terres qui sont essentiellement 
+les mêmes, &amp; qui ont les mêmes propriétés,
+quoiqu&#39;on les designe par deux noms différens.
+Cela posé, sans s&#39;arrêter ici à faire un article séparé
+de la <i>glaise</i>, on auroit pû renvoyer à l&#39;<i>art</i>. <sc><ref target="head:Argille" type="search">Argille</ref></sc>  ;
+mais comme cet article n&#39;est que l&#39;exposé du système 
+de M. de Buffon sur la formation de l&#39;<i>argille</i>, &amp;
+comme d&#39;ailleurs on n&#39;y est point entré dans le détail 
+des principales propriétés de cette terre, on a
+cru que ce seroit ici le lieu de suppléer à ce qui a
+été omis dans cet article.
+</p>
+<p>
+Il y a long-tems que les Chimistes ont observé
+que l&#39;<i>argille</i> ou <i>glaise</i> colorée contenoit une portion
+plus ou moins considérable de fer ; ce qui prouve
+cette vérité, c&#39;est la couleur rouge que prennent
+quelques-unes de ces terres, lorsqu&#39;on les expose à
+l&#39;action du feu ; mais rien ne sert mieux à constater
+la chose que la fameuse expérience de Becher qui a
+obtenu une portion de fer attirable par l&#39;aimant, d&#39;un
+mélange fait avec de la <i>glaise</i> &amp; de l&#39;huile de lin:
+nous n&#39;insisterons point sur cette expérience qui est
+suffisamment décrite à l&#39;<i>article</i> <sc><ref target="head:Fer" type="search">Fer</ref></sc>, non plus que
+sur la dispute qui s&#39;éleva à son sujet dans l&#39;académie
+royale des Sciences de Paris. <i>Voyez</i> <sc><ref target="head:Fer" type="search">Fer</ref></sc>. C&#39;est cette
+portion de fer contenue dans la <i>glaise</i> qui contribue
+à ses différentes couleurs. On peut dégager cette
+terre des parties ferrugineuses qu&#39;elle contient en
+versant dessus de l&#39;eau régale qui en fait l&#39;extraction
+avec effervescence ; la partie terreuse reste blanche,
+parce que ce dissolvant lui a enlevé sa partie colorante,
+&amp; est devenue jaune. L&#39;eau-forte ne produit
+point toûjours le même effet, parce que les parties
+martiales de cette terre sont quelquefois très fines
+&amp; enveloppées de tant de parties visqueuses, que
+le dissolvant ne peut point agir sur elles. <i>Voyez la
+Lithogéognosie de</i> M. Pott, <i>tom. I. pag. 99 &amp; suiv</i>.
+</p>
+<p>
+La <i>glaise</i> ou l&#39;<i>argille</i> pure ne fait point d&#39;effervescence<gap type="hyphenpb" />
+<pb n="7:699" facs="V7/ENC_7-699.jpeg" />
+<milestone unit="column" n="1" />
+sensible avec les acides ; quand cela arrive,
+c&#39;est une preuve certaine que cette terre est mélangée 
+avec quelque substance alkaline ou calcaire, telle 
+que la craie, la marne, <i>&amp;c.</i> ou avec des parties
+ferrugineuses. C&#39;est faute d&#39;avoir eu égard à ces mélanges 
+que plusieurs auteurs ont confondu avec la
+<i>glaise</i> d&#39;autres terres dont les propriétés sont fort
+différentes ; cependant l&#39;acide vitriolique aidé par
+l&#39;action du feu dissout une portion de l&#39;<i>argille</i> ou <i>glaise</i>, comme M. Hellot l&#39;a prouvé dans les <i>mémoires
+de l&#39;académie des Sciences de Paris, année 1739</i>. Cette
+dissolution d&#39;une portion de la <i>terre glaise</i> ou argilleuse 
+par l&#39;acide vitriolique, fait un véritable alun ;
+cela avoit déjà été soupçonné par M. Pott, mais
+cette vérité vient enfin d&#39;être démontrée par M.
+Marggraf, qui prouve que l&#39;<i>argille</i> ou <i>glaise</i> contient
+la terre nécessaire pour la formation de l&#39;alun ; mais
+l&#39;acide vitriolique ne dissout qu&#39;une portion de cette
+terre : celle qui reste &amp; sur laquelle le dissolvant n&#39;a
+plus d&#39;action, a perdu les propriétés de la <i>glaise</i>. Et
+M. Marggraf a fait des expériences qui prouvent
+qu&#39;elle est de la nature des terres vitrifi bles, telles
+que le sable &amp; les caillous pilés, puisqu&#39;elle fait du
+verre tout comme elles, lorsqu&#39;on la fond avec du
+sel alkali ; d&#39;où l&#39;on peut conclure que l&#39;<i>argille</i> ou
+<i>glaise</i> est composée de deux substances d&#39;une nature
+toute différente. <i>Voyez</i> les <i>mémoires de l&#39;académie
+royale de Berlin, année 1754, pag. 32, 34, 63 &amp;
+suiv</i>.
+</p>
+<p>
+Quelquefois la <i>glaise</i> est mêlée de mica ou de petites 
+particules talqueuses, luisantes, qu&#39;il est très difficile 
+d&#39;en séparer entierement : on en sépare plus
+aisément le sable, c&#39;est en la faisant dissoudre dans
+de l&#39;eau, parce qu&#39;alors les parties terreuses qui
+composent la <i>glaise</i> de meurent long-tems suspendues
+dans ce fluide, tandis que les particules de sable tombent 
+très-promptement au fond.
+</p>
+<p>
+Plus les <i>argilles</i> ou <i>glaises</i> sont blanches, plus elles 
+sont dégagées de matieres étrangeres, &amp; c&#39;est
+alors qu&#39;on y remarque sensiblement les propriétés
+qui les caractérisent. Les qualités extérieures auxquelles 
+on peut reconnoître la <i>glaise</i>, sont sa tenacité
+qui fait qu&#39;elle prend corps toute seule avec l&#39;eau ;
+sa viscosité ou son onctuosité qui la fait paroître
+comme savonneuse &amp; grasse au toucher ; la finesse
+de ses parties qui fait qu&#39;elle s&#39;attache à la langue,
+&amp; que quelquefois elle produit dans la bouche un
+effet semblable à celui du beurre qu&#39;on y laisseroit
+fondre : mais le caractere distinctif de l&#39;<i>argille</i> ou
+<i>glaise</i> pure est de se durcir dans le feu au point de
+former une masse compacte &amp; solide, dont l&#39;acier
+peut tirer des étincelles comme il feroit d&#39;un morceau 
+d&#39;agate on de jaspe. C&#39;est à cette marque surtout 
+que l&#39;on peut reconnoître la présence de cette
+terre, même lorsqu&#39;elle est mêlée avec des substances 
+ou terres d&#39;une autre nature. La terre dont on
+fait les pipes est une vraie <i>glaise ;</i> on dit que les Chinois font une porcelaine d&#39;une très-grande beauté
+avec une terre seule délayée dans de l&#39;eau ; elle est
+très-blanche &amp; douce au toucher comme du savon ;
+il y a en France &amp; en beaucoup d&#39;endroits de l&#39;Europe des terres dont on pourroit tirer le même parti,
+si on vouloit faire les expériences nécessaires
+pour en découvrir les propriétés. <i>Voyez l&#39;art.</i> <sc><ref target="head:Porcelaine" type="search">Porcelaine</ref></sc>.
+</p>
+<p>
+La viscosité &amp; la tenacité de la <i>glaise</i> sont dûes à
+une matiere onctueuse qui sert à lier ses parties. M.
+Pott a fait un grand nombre d&#39;expériences pour découvrir 
+la nature de ce <i>gluten</i> ou lien, sans jamais
+y trouver le moindre vestige ni de sel ni de matiere
+inflammable, soit par la distillation, soit par la lixiviation ; 
+sur quoi il refute Boyle qui prétend que les
+terres contiennent du phlogistique, &amp; prouve que
+celui qu&#39;on y découvre ne vient que de la petite
+<milestone unit="column" n="2" />
+portion de fer qui y est contenue. Becher a cru que
+le flegme ou la partie aqueuse qu&#39;on obtient par la
+distillation de l&#39;<i>argille</i> ou <i>glaise</i>, avoit des vertus
+merveilleuses, soit dans la medecine, soit dans les
+travaux sur les métaux, soit pour la fertilisation des
+terres ; mais ces idées n&#39;ont point encore été justifiées 
+par l&#39;expérience, non plus que les prétentions
+de quelques alchimistes qui regardent ce flegme
+comme <i>l&#39;esprit de la nature</i>. S&#39;il se trouve quelque
+chose de salin dans la <i>glaise</i>, elle en est redevable
+aux substances étrangeres qui y sont jointes accidentellement.
+La calcination au feu &amp; les acides
+concentrés, enlevent entierement le <i>gluten</i> ou la
+partie qui sert à lier cette terre, au point qu&#39;elle n&#39;est
+plus en état de prendre du corps &amp; de se durcir dans
+le feu.
+</p>
+<p>
+Les terres alkalines ou calcaires telle que la craie,
+la marne, <i>&amp;c.</i> mêlées avec la <i>glaise</i>, entrent très-aisément en fusion, quoiqu&#39;aucune de ces terres prise
+séparément ne se fonde point par elle même, c&#39;est-à-dire sans addition. M. Pott a employé dans cette
+expérience ainsi que dans les autres une <i>argille</i> pure ;
+car celle qui est bleue est mêlée de particules martiales 
+qui lui servent de fondant, &amp; la font entrer en
+fusion sans addition, au lieu que les <i>argilles</i> ou <i>glaises</i> pures ne peuvent être fondues par le feu le plus
+violent qui ne fait que les durcir considérablement,
+&amp; au point de faire donner des étincelles lorsqu&#39;on
+les frappe avec de l&#39;acier.
+</p>
+<p>
+La <i>glaise</i> pure ou <i>argille</i> mêlée avec différentes
+especes de pierres gypseuses donne des produits différens,
+suivant que ces substances sont plus ou moins
+chargées de matieres étrangeres &amp; colorantes ; cependant 
+en général M. Pott a observé que lorsqu&#39;on
+mêle la <i>glaise</i> &amp; le gypse en parties égales, il en résulte 
+à l&#39;aide du feu une masse pierreuse si dure que
+l&#39;acier en fait sortir des étincelles.
+</p>
+<p>
+Le mélange de la <i>glaise</i> ou <i>argille</i> avec les pierres
+&amp; les terres qu&#39;on nomme vitrifiables, prend du
+corps &amp; s&#39;unit très-fortement ; c&#39;est là-dessus qu&#39;est
+fondé tout le travail de la poterie de terre, de la
+fayencerie, de la briquerie, <i>&amp;c.</i> Aussi voit-on que
+les Potiers de terre mêlent du sable avec la <i>glaise</i>
+pour former tous leurs ouvrages, qu&#39;ils exposent
+ensuite à l&#39;action du feu. Toutes ces expériences,
+ainsi qu&#39;un grand nombre d&#39;autres, sont dûes à M.
+Pott savant chimiste, de l&#39;académie de Berlin, &amp;
+se trouvent dans son ouvrage qui a pour titre <i>Lithogéognosie, ou examen chimique des terres &amp; des pierres</i>, &amp;c. <i>tom. I. pag. 123 &amp; suiv. 82 &amp; suiv. &amp; 140</i>
+de la traduction françoise.
+</p>
+<p>
+Passons maintenant aux propriétés de la <i>glaise</i>,
+eu égard à l&#39;Agriculture &amp; à l&#39;Economie rustique.
+Plus cette terre est tenace, compacte &amp; pure, moins
+elle est propre à favoriser la végétation des plantes ;
+cela vient 1°. de ce que la <i>glaise</i> par la liaison étroite
+qui est entre ses parties, retient les eaux du ciel &amp;
+ne leur fournit point de passage, ces eaux sont donc
+obligées d&#39;y séjourner, &amp; par-là les semences doivent 
+se noyer ou se pourrir. 2°. Quand ces semences 
+auroient pû être développées, les parties de la
+<i>glaise</i> sont si étroitement liées entr&#39;elles, &amp; se durcissent 
+si fort à la surface de la terre par la chaleur
+du soleil, que cette terre n&#39;auroit point cédé ou prêté 
+aux foibles efforts qu&#39;une plante ou racine peut
+faire pour s&#39;étendre en tout sens ; de-là vient la stérilité 
+des terres purement glaiseuses : aussi un auteur
+anglois a-t-il appellé la <i>terre glaise</i> une <i>marâtre</i> maudite ; 
+les arbres mêmes, &amp; sur-tout les chênes, n&#39;y
+croissent qu&#39;avec peine &amp; très-lentement, &amp; il y a
+des <i>glaises</i> si stériles qu&#39;il n&#39;y croît pas le moindre
+brin d&#39;herbe. Pour remédier à cette stérilité, on est
+obligé d&#39;avoir recours à différens moyens, qui tous
+ont principalement pour but de diviser &amp; d&#39;atténuer
+<pb n="7:700" facs="V7/ENC_7-700.jpeg" />
+<milestone unit="column" n="1" />
+ces terres, &amp; de rompre la liaison trop étroite de
+leurs parties afin de les rendre plus pénétrables aux
+eaux, &amp; pour que leur tenacité n&#39;étouffe plus les
+plantes naissantes ; pour y parvenir, on laboure fortement 
+ces terres à plusieurs reprises, on a soin de
+bien diviser les glebes ; après les avoir laissé exposées 
+aux injures de l&#39;air, on y mêle soit du fumier,
+soit du sable, du gravier, de la marne, de la craie,
+de la chaux vive, de la recoupe de pierre, des fragmens 
+de briques, <i>&amp;c.</i> en un mot tout ce qu&#39;on trouve 
+plus à sa portée, &amp; qui est plus propre à diviser
+la <i>glaise</i>, &amp; à mettre de l&#39;intervalle entre les parties
+qui la composent. On prétend qu&#39;en Angleterre on
+se sert avec le plus grand succès du sable de la mer
+pour fertiliser les terreins <i>glaiseux</i>.
+</p>
+<p>
+C&#39;est à la propriété que la <i>glaise</i> a de retenir les
+eaux &amp; de ne point leur donner passage, que sont
+dûs la plûpart des sources &amp; des fontaines que nous
+voyons sortir de la terre. Les eaux du ciel lorsqu&#39;elles 
+sont tombées sur la terre, se filtrent au-travers des
+couches de sable, de gravier, &amp; même des pierres
+qui la composent, &amp; continuent à passer jusqu&#39;à ce
+qu&#39;elles se trouvent arrêtées par des couches de
+<i>glaise ;</i> alors elles s&#39;y amassent, &amp; vont s&#39;écouler
+par la route la plus commode qui leur est présentée.
+C&#39;est cette même propriété de la <i>glaise</i> qui fait qu&#39;on
+s&#39;en sert pour garnir le fond des bassins, canaux &amp;
+réservoirs dans lesquels on veut retenir les eaux ;
+quand on la destine à cet usage, on a soin de la bien
+diviser &amp; hacher en tout sens avec des beches &amp;
+d&#39;autres instrumens tranchans, de peur qu&#39;il ne s&#39;y
+trouve quelque plante ou racine qui en se pourrissant 
+par la suite ne fournisse aux eaux qui cherchent
+à s&#39;échapper, un passage qui, quoique petit dans son
+origine, ne tarderoit pas à devenir bien-tôt très-considérable.
+</p>
+<p>
+Il faut aussi rapporter l&#39;expérience qui se trouve
+dans l&#39;histoire de l&#39;académie des sciences de Paris,
+<i>année 1739, pag. 1</i>. Il y est dit que l&#39;<i>argille</i> des Potiers lavée, exposée à l&#39;air, &amp; imbibée d&#39;eau de fontaine,
+a acquis au bout de quelques années la dureté
+d&#39;un caillou ; on prétend que l&#39;on a observé la même 
+chose en Amerique sur la <i>terre glaise</i> qui se trouve 
+le long des bords de la mer ; M. Pott attribue ce
+phénomene à l&#39;écume grasse de la mer.
+</p>
+<p>
+La <i>glaise</i> se trouve ordinairement par lits ou par
+couches qui varient pour l&#39;épaisseur &amp; pour les autres 
+dimensions ; ces couches sont assez souvent remplies 
+de pyrites &amp; de marcassites : cette terre ne se
+rencontre pas seulement à la surface, mais même à
+une très grande profondeur. La terre grasse appellée 
+<i>besteg</i> par les mineurs allemands, qui sert d&#39;enveloppe 
+à un grand nombre de filons métalliques,
+&amp; qui suivant leur langage contribue à les nourrir,
+est une vraie <i>glaise</i> chargée de beaucoup de substances 
+étrangeres &amp; minerales.
+</p>
+<p>
+La <i>glaise</i> pure, lorsqu&#39;elle est seche, a une grande
+disposition à imbiber les matieres huileuses &amp; grasses ; 
+cette propriété fait qu&#39;on s&#39;en sert pour faire
+les pierres à enlever les taches des habits, qu&#39;on
+nomme <i>pierres à détacher</i>.
+</p>
+<p>
+Les terres bolaires dont l&#39;usage est si connu dans
+la Medecine, ne sont que des terres <i>glaiseuses</i> ou des
+<i>argilles</i> très-fines, comme on s&#39;en apperçoit en ce
+qu&#39;elles s&#39;attachent à la langue, &amp; fondent comme
+du beurre dans la bouche ; elles sont quelquefois
+colorées par une portion plus ou moins grande de
+fer qu&#39;elles contiennent. On a pû déjà voir dans cet
+article que les acides n&#39;agissent point sur les terres
+<i>argilleuses</i> ou <i>glaises ;</i> si ces dissolvans ne peuvent les
+dissoudre, il n&#39;y a guere lieu de croire que ceux qui
+se trouvent dans l&#39;estomac produisent cet effet ;
+ne pourroit on pas conclure de-là qu&#39;il y a beaucoup
+d&#39;abus dans l&#39;usage des terres bolaires &amp; terres <i>sigillées</i>,
+<milestone unit="column" n="2" />
+qui ne sont que de vraies <i>glaises</i> mêlées quelquefois 
+de parties ferrugineuses? Si ces terres ne se
+dissolvent point dans les premieres voies, elles ne
+peuvent que fatiguer l&#39;estomac sans passer dans l&#39;économie 
+animale ; s&#39;il s&#39;y en dissout une partie, c&#39;est
+une preuve que la terre bolaire étoit melée d&#39;une
+portion de terre absorbante ou calcaire ; &amp; alors il
+vaudroit mieux employer des absorbans purs, &amp;
+dont on fût assûré, tels que la craie lavée, les yeux
+d&#39;écrevisses, <i>&amp;c.</i> Si c&#39;est à la partie martiale qu&#39;on
+attribue les vertus des terres bolaires, il seroit beaucoup 
+plus simple d&#39;employer des remedes martiaux
+dont la Chimie pharmaceutique fournit un si grand
+nombre. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

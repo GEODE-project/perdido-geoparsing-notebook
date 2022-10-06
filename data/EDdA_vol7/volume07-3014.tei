@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30468" id="55:85" vol="7">
+<index type="head" value="GROENLAND, (le)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GROENLAND</head>
+<p>
+GROENLAND, (<sc>le</sc>) <i>Groenlandia</i>, (<i>Géog.</i>) grand
+pays des terres arctiques, entre le détroit de Davis
+au couchant, le détroit de Forbischer au midi, &amp; l&#39;Océan septentrional où est l&#39;Islande, à l&#39;oüest : on ignore
+ses bornes au nord, &amp; on ne sait pas encore si ce
+vaste pays est un continent attaché à celui de l&#39;Amérique ou à celui de la Tartarie, ou si n&#39;étant joint à
+pas un des deux, ce n&#39;est qu&#39;une île.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Quoi qu&#39;il en soit, il est habité par des sauvages ;
+&amp; malgré le grand froid qui regne, il s&#39;y trouve du
+gros &amp; du menu bétail, des rennes, des loups-cerviers, des renards, &amp; des ours blancs ; on y a pris
+autrefois de très-belles martres, &amp; des faucons en
+grand nombre. La mer est pleine de loups, de chiens,
+de veaux marins, &amp; sur-tout d&#39;une quantité incroyable 
+de baleines, à la pêche desquelles les Anglois &amp;
+les Hollandois envoyent chaque année plusieurs bâtimens.
+</p>
+<p>
+La Peyrere a donné une relation du <i>Groenland</i>,
+qu&#39;il a tirée de deux chroniques, l&#39;une islandoise &amp;
+l&#39;autre danoise ; cette relation est imprimée dans les
+voyages au nord.
+</p>
+<p>
+Il attribue la découverte de ce pays à Erric le
+Rousseau, norvégien, qui vivoit dans le neuvieme
+siecle ; plusieurs de ses compatriotes s&#39;y fixerent dans
+la suite, y bâtirent, &amp; y établirent avec les habitans 
+un commerce qui subsista jusqu&#39;en 1348: il se
+perdit alors ; &amp; quelques tentatives que l&#39;on ait faites 
+depuis pour retrouver l&#39;ancien <i>Groenland</i>, c&#39;est-à-dire l&#39;endroit autrefois habité par les Norvégiens,
+&amp; où étoit leur ville de garde, il n&#39;a pas été possible 
+d&#39;y réussir. Cependant Martin Forbisher crut
+avoir retrouvé ce pays en 1578, mais il ne put y
+aborder à cause de la nuit, des glaces, &amp; de l&#39;hyver ;
+une compagnie danoise y envoya deux navires en
+1636, mais ils aborderent seulement au détroit de
+Davis.
+</p>
+<p>
+La partie des côtes la plus connue du <i>Groenland</i>,
+s&#39;étend depuis environ le 325<sup>d</sup>. de longitude jusqu&#39;au
+premier méridien, &amp; de-là jusqu&#39;au 12 ou 13<sup>d</sup>. en-deçà; 
+sa latitude commence vers le 73<sup>d</sup>. on n&#39;en
+connoît point les côtes au-delà du 78<sup>d</sup>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

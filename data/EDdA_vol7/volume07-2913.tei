@@ -1,0 +1,448 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30367" id="55:20" vol="7">
+<index type="head" value="GRENAILLER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Villiers" />
+<index type="shortauth" value="Villiers" />
+<index type="kafnum" value="133" />
+<index type="kafauth" value="Villiers, Jacques-François de (1727-1790)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Docimasie." />
+<index type="normclass" value="Docimastique" />
+<index type="englishclass" value="Docimastic art" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="v.act." />
+<head>GRENAILLER</head>
+<p>
+GRENAILLER, v. act. (<i>Docimasie.</i>) réduire un
+métal en petits grains, à-peu-près semblables au
+plomb à tirer qu&#39;on nomme <i>cendrée</i>. Au moyen de
+cette division, on le dissout, on le pese, &amp; on le mêle 
+plus aisement. On la fait par la voie seche &amp; par
+la voie humide, c&#39;est-à-dire avec &amp; sans eau. Il faut
+donc avoir les instrumens nécessaires pour ces deux
+méthodes. Ce sont des granulatoires secs &amp; à l&#39;eau.
+</p>
+<p>
+Le <i>granulatoire à l&#39;eau</i> se trouve dans nos <i><ref target="XPL:5478" type="platelink">Planc.
+de Chimie</ref></i>. Cette machine est particulierement destinée 
+à l&#39;opération en question. C&#39;est un chauderon
+ou baquet sur lequel on met le treuil suivant. A un
+cylindre de bois ayant 6 pouces de long sur 4 de diametre,
+on ajuste un axe avec sa manivelle. On couvre 
+ce cylindre parallelement à son axe, d&#39;une couche 
+de brins de balai épaisse de trois doigts, qu&#39;on
+<pb n="7:938" facs="V7/ENC_7-938.jpeg" />
+<milestone unit="column" n="1" />
+lie &amp; qu&#39;on serre fortement aux deux bouts avec une
+ficelle. On place ce treuil dans deux échancrures
+demi-circulaires, faites au bord du vaisseau, vis-à-vis l&#39;une de l&#39;autre. On l&#39;y assujettit du côté de la
+manivelle au moyen d&#39;un petit crampon recourbé à
+angle droit, comme un clou à crochet, fixé par sa
+jambe perpendiculaire, &amp; libre par l&#39;horisontale ; &amp;
+à l&#39;autre extrémité avec un crampon ordinaire, entre 
+les jambes duquel passe l&#39;axe du cylindre. Cette
+machine est de <i>Cramer ;</i> au lieu du treuil garni de
+brins de balai, on peut en employer un cannelé dans
+sa longueur, à-peu-près comme un moussoir de chocolat.
+Cette variété tirée de sa traduction angloise,
+se trouve aussi dans <i>nos <ref target="XPL:5479" type="platelink">Planches de Chimie</ref></i>. On remplit 
+d&#39;eau le vaisseau, de façon qu&#39;un tiers du cylindre 
+y soit plongé.
+</p>
+<p>
+Quand on veut <i>granuler</i> un métal, de l&#39;argent orifere,
+par exemple, on commence par le fondre. Si
+on a une grande quantité à <i>grenailler</i> à-la-fois, on
+employe un grand creuset qui puisse contenir le tout ;
+&amp; comme il y auroit trop à risquer si on l&#39;enlevoit du
+feu, on y puise avec un petit qu&#39;on a fait rougir, &amp;
+l&#39;on verse le métal doucement &amp; sans discontinuer
+sur le treuil, qu&#39;un aide tourne assez vîte au moyen
+de sa manivelle.
+</p>
+<p>
+Cette machine est la plus commode de toutes. Par
+cette méthode on peut <i>grenailler</i> toute sorte de métaux 
+&amp; de demi-métaux ; &amp; la grenaille est plus fine
+que par aucune autre.
+</p>
+<p>
+Si elle manquoit, on ne laisseroit pas de faire de
+la grenaille avec un chauderon &amp; un balai ; &amp; même
+tout vaisseau large &amp; médiocrement creux peut y
+servir, quoique le chauderon soit préférable. On remplira 
+donc ce chauderon d&#39;eau froide jusqu&#39;à 8 pouc.
+de ses bords ; on donnera à cette eau un mouvement
+de gyration avec le balai ; on y versera l&#39;or ou l&#39;argent 
+avec un petit creuset rougi au feu, d&#39;un seul jet,
+sur les côtés, afin qu&#39;il soit emporté par le mouvement 
+donné à l&#39;eau par le balai, qu&#39;un aide remue
+circulairement. Plus l&#39;argent peut s&#39;étendre pendant
+qu&#39;on le verse, plus les grenailles en sont creuses &amp;
+menues.
+</p>
+<p>
+On peut encore, au lieu de donner à l&#39;eau un mouvement 
+circulaire en tenant le balai perpendiculairement,
+le coucher &amp; le tourner à demi-plongé dans
+l&#39;eau : &amp; on imitera pour lors le <i>granulatoire</i> à treuil.
+Mais le balai en question ne doit pas être trop serré ;
+sans quoi le métal, y arrêteroit, se refroidiroit, &amp; se
+rassembleroit en masses avant que de parvenir à l&#39;eau
+qui doit achever de le diviser &amp; creuser ses grains.
+La même précaution doit avoir lieu à l&#39;égard du
+treuil. Dans ces circonstances, on trouvera la grenaille 
+au fond de l&#39;eau, presqu&#39;aussi divisée que si on
+eût employé le treuil. On la retire de l&#39;eau, &amp; on la
+seche dans un vaisseau de cuivre ou de terre.
+</p>
+<p>
+Quelques artistes se contentent de <i>grenailler</i> leur
+argent orifere en le jettant simplement dans une bassine 
+remplie d&#39;eau froide qu&#39;ils n&#39;agitent point. Mais
+leur grenaille est grossiere, &amp; forme des masses ou
+rochers ; car c&#39;est le nom qu&#39;on donne dans les monnoies 
+à l&#39;amas des grains d&#39;or ou d&#39;argent qui forment 
+une masse au fond du bacquet.
+</p>
+<p>
+En Hongrie on <i>grenaille</i> l&#39;argent comme nous venons 
+de le dire, dans un chauderon où l&#39;eau est agitée
+circulairement avec un balai ; mais on le fait tomber
+du creuset en un jet le plus large qu&#39;il est possible,
+&amp; de fort haut. Par ce moyen, les grenailles se forment 
+plus menues &amp; plus universellement creuses &amp;
+concaves. On les seche dans des bassines larges,
+qu&#39;on pose sur deux buches, entre lesquelles on met
+des charbons ardens. <i>Voyez</i> <sc><ref target="head:Inquart" type="search">Inquart</ref> <i>&amp;</i> <ref target="head:Départ" type="search">Départ</ref></sc>.
+</p>
+<p>
+Les Chauderonniers donnent le nom de <i>grenaille</i>
+à lear soudure. <i>Voyez</i> <sc><ref target="head:Flux" type="search">Flux</ref> <i>&amp;</i> <ref target="head:Soudure" type="search">Soudure</ref></sc>. Ils la versent 
+de la poesle ou elle a été fondue, dans une autre<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+chauffée qu&#39;ils tiennent sur l&#39;eau où ils la plongent
+&amp; l&#39;agitent rapidement. Par ce moyen elle se met en
+des especes de rocailles, &amp; se divise plus aisement
+dans le mortier de fonte où ils la pilent. Ils la passent 
+ensuite par un petit crible de cuivre. Mais je
+crois que cette méthode tient encore de l&#39;enfance
+des Arts, &amp; qu&#39;il vaudroit beaucoup mieux <i>granuler</i> cette espece de laiton avec notre granulatoire à
+l&#39;eau ; car elle ne se convertit point proprement en
+grains, &amp; elle est d&#39;ailleurs d&#39;une dureté extraordinaire,
+qui fait perdre un tems considérable à la piler.
+Quand on la tire du feu, &amp; sur-tout qu&#39;on la verse 
+d&#39;une poesle dans l&#39;autre, elle jette une grande
+flamme jaune &amp; bleue, très-agréable à voir.
+</p>
+<p>
+On réussit presqu&#39;également &amp; avec autant de sûreté 
+par les trois premieres méthodes à <i>granuler</i> l&#39;or,
+l&#39;argent, &amp; les alliages métalliques, comme nous
+l&#39;avons dit des deux premiers, &amp; de la soudure des
+Chauderonniers, qui est un laiton ou alliage de zinc
+&amp; de cuivre. Mais il n&#39;en est pas de même de ce dernier 
+métal, du plomb &amp; de l&#39;étain ; leur granulation
+&amp; sur-tout celle du cuivre, est toûjours accompagnée 
+d&#39;un danger qu&#39;on n&#39;évite qu&#39;en le versant peu-à-peu, &amp; très-lentement. Le meilleur moyen de ne
+courir aucun risque, c&#39;est de les faire tomber tout
+divisés sur le balai ou sur le cylindre ; on y réussit en
+les faisant passer à-travers de petits trous faits au
+fond d&#39;un creuset rougi au feu, qu&#39;on tient suspendu
+sur le treuil ou le balai.
+</p>
+<p>
+Pour les essais, ou le départ &amp; inquart en petit,
+on fait des cornets de l&#39;argent orifere. Dans les départs 
+en grand, on le réduit en grenaille, soit qu&#39;ils
+se fassent par la voie seche, soit qu&#39;ils se fassent par
+l&#39;humide. Et lorsqu&#39;on veut savoir ce qu&#39;ils tiennent
+d&#39;or par marc, l&#39;essayeur prend au hasard une ou
+deux de ces grenailles ; il en pese un demi gros, &amp;
+fait le départ à l&#39;ordinaire : mais la chaux d&#39;or qui en
+revient, n&#39;est que très-rarement en rapport exact
+avec l&#39;or contenu dans la totalité de l&#39;argent granulé,
+parce que la pesanteur spécifique de celui-ci à celui-là 
+étant comme de 654 à 1200, selon les observations 
+de M. Wolf, il est presqu&#39;impossible que, pendant 
+qu&#39;on verse lentement ces deux métaux en sonte,
+le plus pesant ne se précipite à-travers le plus
+leger, &amp; ne rende conséquemment une partie de la
+grenaille plus riche que l&#39;autre. <i>Voyez-en la preuve
+aux articles</i> 
+<sc><ref target="head:Lotissage" type="search">Lotissage</ref>, <ref target="head:Inquart" type="search">Inquart</ref>, <ref target="head:Départ" type="search">Départ</ref>, <i>&amp;</i> <ref target="head:Poids fictif" type="search">Poids fictif</ref></sc>. Mais passons à la granulation seche.
+</p>
+<p>
+Le <i>granulatoire sec</i> est une boîte de bois, aussi uniquement 
+destinée à l&#39;usage dont il est question. Il faut
+qu&#39;elle soit garnie de son couvercle, &amp; capable de
+contenir au-moins quatre fois plus de métal qu&#39;on
+n&#39;en veut <i>grenailler</i> d&#39;un seul coup, afin qu&#39;il y ait
+assez de jeu, &amp; qu&#39;on puisse l&#39;y agiter fortement.
+Cette boîte doit être faite d&#39;un bois très sec. Nous
+n&#39;en avons point donné de figure, parce qu&#39;elle n&#39;a
+rien d&#39;extraordinaire. Nous pensons seulement que
+celle qui aura le plus d&#39;angles, sera la meilleure.
+Avant que de s&#39;en servir, on aura soin de frotter
+uniformément dans tous leurs points, le fond &amp; les
+parois, de craie ou de cire, ou de blanc dit <i>d&#39;Espagne</i>, qui n&#39;est qu&#39;une craie lavée. Tout autre vaisseau,
+quel qu&#39;il soit, peut servir à la granulation,
+pourvû qu&#39;on y puisse secouer fortement un liquide
+sans craindre qu&#39;il n&#39;en sorte.
+</p>
+<p>
+On employe ordinairement ce vaisseau pour granuler 
+le plomb, <i>&amp;c.</i> qu&#39;il est indispensable d&#39;avoir
+divisé pour les essais, soit pour la facilité des pesées,
+soit pour que le fin y soit uniformement distribué.
+<i>Voyez</i> <sc><ref target="head:Grain de fin" type="search">Grain de fin</ref></sc>, <i>&amp;c.</i> Si on se sert moins du
+granulatoire à l&#39;eau pour le plomb, c&#39;est parce qu&#39;on
+peut s&#39;en passer, qu&#39;il y a moins de danger par la
+voie seche, &amp; qu&#39;elle donne la grenaille plus fine:
+voici comment on y procede.
+<pb n="7:939" facs="V7/ENC_7-939.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On fait fondre du plomb dans une cuilliere de fer
+ou dans un creuset sur un feu doux ; pour qu&#39;il ait le
+degré de chaleur nécessaire, il faut qu&#39;il puisse brûler 
+sans faire flamber l&#39;extrémité d&#39;une petite baguette
+de coudrier avec laquelle on l&#39;agite ; quand il en est à
+ce point, on le verse d&#39;un seul jet dans la boîte ; on
+la recouvre très-rapidement, afin que le plomb
+s&#39;aille briser contre ses parois, &amp; l&#39;on continue ainsi
+jusqu&#39;à ce qu&#39;il ait perdu sa fluidité: on le trouve réduit 
+pour la plus grande partie en une grenaille fine
+&amp; raboteuse. On la lave pour en séparer la craie qui
+peut y adhérer, &amp; on la frotte bien dans l&#39;eau avec
+les mains, afin qu&#39;il n&#39;y en reste point du tout, car
+elle est réfractaire &amp; ne manqueroit pas de nuire à
+la scorification des essais ; on la seche bien, ensuite
+de quoi on la passe à-travers un tamis de crin qui la
+donne assez uniformément grosse comme de la graine
+de navette, ou, ce qui seroit encore mieux, comme
+de la graine de pavot, si la granulation l&#39;avoit faite
+de cette finesse. On la garde pour l&#39;usage dans un
+vase propre &amp; qu&#39;on bouche bien. <i>Voyez</i> 
+<sc><ref target="head:Essai" type="search">Essai</ref>, <ref target="head:Affinage" type="search">Affinage</ref>, <ref target="head:Grain de fin" type="search">Grain de fin</ref>, <ref target="head:Raffinage" type="search">Raffinage</ref>, <i>&amp;</i> <ref target="head:Pesée" type="search">Pesée</ref></sc>.
+</p>
+<p>
+Le plus grossier se refond avec d&#39;autre plomb &amp;
+un peu de suif ou de graisse qu&#39;on y fait brûler pour
+rendre le phlogistique à la partie calcinée ; on lui
+donne le degré de chaleur nécessaire, &amp; on le jette
+dans la boîte pour le granuler ; on continue de la
+sorte tant qu&#39;il en est besoin : vers la fin il en reste
+qu&#39;il est presque impossible de <i>grenailler ;</i> on le lave
+de sa craie, &amp; on le garde pour les essais qui sont plus
+en grand.
+</p>
+<p>
+Si l&#39;on verse le plomb fondu dans un mortier ou
+un chauderon de fer, &amp; qu&#39;on l&#39;agite rapidement
+avec une cuilliere de fer jusqu&#39;à ce qu&#39;il reprenne sa
+solidité, les secousses qu&#39;on lui donne lui font perdre
+sa continuité. Cette méthode, quoique plus difficile,
+est préférable à la précédente, parce qu&#39;elle donne
+du plomb granulé plus clair &amp; plus net, n&#39;étant mêlé 
+d&#39;aucune matiere hétérogene : il est vrai qu&#39;il reste
+beaucoup plus de grenaille grossiere, que par la premiere,
+mais on la sépare aisément avec le tamis de
+crin.
+</p>
+<p>
+De-là il s&#39;ensuit qu&#39;une boîte de taule vaut
+beaucoup mieux qu&#39;une de bois, &amp; que si l&#39;on employe 
+celle-ci, il est mieux de l&#39;enduire avec la cire
+qu&#39;avec la craie. Il est encore bon d&#39;avertir que si on
+employe un mortier ou un chauderon de fer, faute
+de boîte de taule ou de bois enduire de cire, il faut
+les chauffer presque au ton de la chaleur du plomb ;
+sans quoi il se fige sur le champ qu&#39;il y est versé, à-moins qu&#39;il n&#39;y en ait une grande quantité, &amp; encore
+ce qui touche le fond se prend-il en une masse : ainsi
+quand on en a peu, il faut l&#39;agiter dans la cuilliere
+où il a été fondu.
+</p>
+<p>
+Au reste il n&#39;est pas besoin de tant d&#39;appareil pour
+granuler l&#39;étain, on y réussit très-bien &amp; très-commodément 
+en le versant dans une de ces petites boîtes 
+legeres de sapin dont on se sert pour mettre des
+pillules, il se <i>grenaille</i> encore plus aisément que le
+plomb, &amp; il n&#39;est pas nécessaire de mettre à la boîte
+un enduit ou un défensif contre la chaleur ; l&#39;étain se
+tient en bain à un degré de chaleur encore inférieur
+à celui du plomb.
+</p>
+<p>
+D&#39;autres artistes ont encore une autre méthode
+pour granuler ; ils prennent une pelle de bois d&#39;aune,
+peu creuse, &amp; dont il ne reste du manche qu&#39;une 
+longueur de quatre ou cinq pouces, pour servir
+de poignée ; ils la frottent, comme nous l&#39;avons dit
+du granulatoire sec, &amp; y versent leur plomb ; d&#39;abord 
+ils remuent la pelle horisontalement pour le
+faire rouler circulairement, en tenant la pelle avec
+les deux mains, selon sa longueur ; puis quand ils le
+voyent au point de la granulation, ils le secouent
+<milestone unit="column" n="2" />
+comme on vanne le blé, &amp; le font sauter le plus
+haut qu&#39;il est possible, afin que les parties se desunissent 
+en se brisant par des chûtes répétées.
+</p>
+<p>
+On roule d&#39;abord le plomb dans la pelle, pour attendre 
+le point de la granulation ; il ne seroit pas
+convenable de l&#39;y mettre à ce point, car on ne réussiroit 
+jamais, par la raison qu&#39;il se refroidiroit par le
+contact de l&#39;air &amp; de la pelle ; ainsi ce n&#39;est point,
+comme on pourroit le penser, pour lui faire prendre 
+la craie, ce n&#39;est pas dans le dessein de desunir
+les parties du plomb qu&#39;on l&#39;employe, quoiqu&#39;elle
+puisse bien y contribuer, mais pour empêcher le
+bois de se brûler &amp; le plomb de s&#39;y attacher.
+</p>
+<p>
+Nous avons donné le dernier rang à cette méthode,
+parce qu&#39;en effet c&#39;est la plus incommode de toutes 
+celles qu&#39;on peut prendre : pour y avoir recours,
+il faudroit vouloir se donner beaucoup de peine pour
+réussir mal &amp; risquer encore de se brûler, quelque
+adroit qu&#39;on fût : nous n&#39;avions garde de l&#39;oublier,
+parce qu&#39;elle existe, &amp; que nous ne voulons omettre 
+rien de ce qui peut satisfaire les différens goûts,
+pour peu que cela paroisse susceptible d&#39;exécution.
+</p>
+<p>
+Pour comprendre comment la granulation se fait,
+il faut savoir qu&#39;il y a certains métaux &amp; demi-métaux, qui étant près d&#39;entrer en fusion ou de redevenir 
+solides quand ils sont fondus, sont très-fragiles
+&amp; ressemblent alors à un sable mouillé; tels sont le
+plomb, l&#39;étain, le laiton, le zinc, &amp; le bismuth ; on
+frotte encore de craie les parois du vaisseau de bois
+pour en rendre la surface plus solide &amp; plus unie, afin
+qu&#39;elles puissent opposer plus de résistance au choc
+qu&#39;elles recoivent ; avantage qu&#39;on retire également
+de la cire : ainsi on en doit préférer l&#39;emploi à celui de
+la craie. Quand on balotte le plomb fondu de la maniere 
+que nous l&#39;avons exposé, &amp; qu&#39;on lui fait heurter
+les parois du vaisseau ; comme il est près de reprendre
+sa solidité, &amp; qu&#39;il est pour lors très-fragile, il se divise 
+en des grains très-fins, résultat qu&#39;on ne peut
+guere obtenir que par cette méthode, ou du-moins
+qui la rend préférable à la voie humide. C&#39;est dans
+un vase de fer qu&#39;on doit granuler le zinc &amp; les autres 
+matieres qui ne se fondent que difficilement ;
+mais un vase de cette matiere vaut encore mieux
+pour le plomb qu&#39;un de bois, comme nous l&#39;avons
+déjà dit.
+</p>
+<p>
+Nous avons fixé le degré de chaleur qu&#39;exige le
+plomb au point que nous avons assigné, parce que
+plus bas il se congeleroit avant le tems ; plus haut, &amp;
+si l&#39;on donnoit le feu trop fort au commencement, sa
+surface se couvriroit d&#39;une pellicule à laquelle une
+autre succéderoit toûjours, quelle quantité qu&#39;on en
+retirât ; ensorte que comme il ne seroit pas possible
+d&#39;épuiser tout-à-fait de ces pellicules ou chaux le
+plomb qu&#39;on soûmettroit à la granulation, elles se
+trouveroient mêlées avec lui par l&#39;agitation, &amp; troubleroient 
+l&#39;opération, parce qu&#39;elles sont tenaces &amp;
+par-là capables de s&#39;attacher au vaisseau qu&#39;elles brûleroient : mais on prévient cet inconvénient par le
+phlogistique qui est fourni par le petit bâton de coudrier 
+&amp; le suif, ou la graisse que nous avons dit de
+jetter sur le bain.
+</p>
+<p>
+Mais si la granulation se fait aisément par la voie
+seche sur les métaux fragiles quand ils sont près de
+se figer, il n&#39;en est pas de même de ceux qui sont
+d&#39;autant plus tenaces &amp; pultacées qu&#39;ils sont plus
+près de leur fusion, tels que l&#39;or, l&#39;argent, <i>&amp;c.</i> &amp;
+qu&#39;il faut par conséquent avoir recours à la granulation 
+humide que nous avons exposée d&#39;abord.
+<i>Voyez Cramer, Boizard, &amp; Schlutter. Article de M. <sc>de
+Villiers</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

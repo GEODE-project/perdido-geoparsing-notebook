@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29780" id="53:221" vol="7">
+<index type="head" value="GOETIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Magie." />
+<index type="normclass" value="Magie" />
+<index type="englishclass" value="Magic" />
+<index type="generatedclass" value="Divination" />
+<index type="pos" value="s.f." />
+<head>GOETIE</head>
+<p>
+GOETIE, s. f. (<i>Magie.</i>) espece de magie infame
+qui n&#39;avoit pour objet que de faire du mal, séduire
+le peuple, exciter des passions déréglées, &amp; porter
+au crime. Les philosophes Plotin, Porphire &amp; Jamblique, définissoient la <i>goêtie</i> l&#39;invocation des démons 
+malfaisans pour nuire aux hommes avec plus
+de sûreté.
+</p>
+<p>
+Les ministres de cet art funeste &amp; ridicule, se vantoient 
+aussi de tirer par leurs enchantemens les manes 
+de leurs demeures sombres. <i>Voyez l&#39;art</i>. <sc><ref target="head:Evocation" type="search">Evocation</ref></sc> <i>des manes</i>.
+</p>
+<p>
+Ils employoient dans toutes leurs cérémonies tout
+ce qui pouvoit redoubler la terreur &amp; l&#39;effroi des esprits 
+foibles ; nuit obscure, cavernes soûterreines à
+proximité des tombeaux, ossemens de morts, sacrifices 
+de victimes noires, herbes magiques, lamentations,
+gémissemens ; selon l&#39;appareil ordinaire de
+leurs cérémonies, ils passoient même pour égorger
+de jeunes enfans, &amp; chercher dans leurs entrailles
+l&#39;horoscope de l&#39;avenir.
+</p>
+<p>
+C&#39;est ici qu&#39;il faut bien distinguer cette magie <i>goëtique</i> ou sorcellerie odieuse, de la magie théurgique ;
+dans cette derniere on n&#39;invoquoit que les dieux
+bienfaisans, pour procurer du bien aux hommes &amp;
+les porter à la vertu. Les magiciens théurgiques
+souffroient déjà autrefois très-impatiemment qu&#39;on
+les mit dans la classe des <i>Goëtiques</i> qu&#39;ils regardoient
+avec horreur. <i>Voyez</i> <sc><ref target="head:Théurgie" type="search">Théurgie</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

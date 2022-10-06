@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27735" id="49:27" vol="7">
+<index type="head" value="FORGER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Arquebuserie" />
+<index type="pos" value="v.act." />
+<head>FORGER</head>
+<p>
+* FORGER, v. act. c&#39;est battre sur l&#39;enclume un
+métal avec un marteau. On <i>forge</i> à froid &amp; à chaud,
+mais plus souvent à chaud. Ce mot varie d&#39;acception.
+Voici, par exemple, un cas ou il est presque
+synonyme à <i>planer ;</i> c&#39;est chez les Potiers-d&#39;étain.
+<i>Forger</i>, c&#39;est, après que la vaisselle est tournée, la
+battre, avec differens marteaux, sur le tas. Pour
+cet effet on a des morceaux de cuivre jaune en plaques 
+de largeur, longueur &amp; épaisseur convenables,
+bien écroüies ou serrees &amp; polies au marteau ; on
+les nomme <i>platines</i>. Les platines sont planes pour les
+fonds des vaisselles, contournées pour les côtés. On
+commence par frotter legerement sa piece de vaisselle,
+avec un linge enduit de suif en-dedans &amp; en-dehors : cela s&#39;appelle <i>ensuifer</i>. On pose ensuite une
+platine sur l&#39;enclume, qui est couverte d&#39;une peau
+de castor gras. On fait tenir la platine sur la peau,
+avec une colle faite de poix-resine grasse &amp; de suif ;
+on frappe là-dessus sa piece à coups de marteau, &amp;
+on lui fait prendre une forme plus réguliere que celle
+qu&#39;elle a reçue des moules ; on atteint les inégalités
+du tour ; on rend l&#39;ouvrage compact, uni, brillant,
+&amp; d&#39;un meilleur service ; on le dégraisse &amp; on le polit 
+avec un linge &amp; du blanc d&#39;Espagne en poudre.
+Mais ce travail n&#39;a lieu que sur l&#39;étain fin. L&#39;etain
+commun se <i>forge</i> autrement. On ensuife sa piece ; on
+la monte, c&#39;est-à-dire qu&#39;on la bat sur l&#39;enclume hue,
+Les coups de marteau paroissent en-dedans &amp; en-dehors ; 
+ils s&#39;étendent du milieu en ligne spirale,
+mais empiétant toûjours les uns sur les autres. jusqu&#39;à la circonférence de l&#39;ouvrage : c&#39;est pourquoi
+à chaque coup de marteau que donne l&#39;ouvrier d&#39;une
+main, de l&#39;autre il fait un peu tourner sa piece sur
+elle-même. Cette opération s&#39;appelle <i>monter</i>. Après
+avoir monté une piece, on la renfonce ; la renfoncer,<gap type="hyphenpb" />
+<pb n="7:169" facs="V7/ENC_7-169.jpeg" />
+<milestone unit="column" n="1" />
+c&#39;est avec le marteau frapper le fond à faux sur
+les genoux, afin de rendre à l&#39;ouvrage sa concavité.
+On finit en couvrant l&#39;enclume de peaux de castor
+gras, &amp; en repassant le marteau sur tous les coups
+qui paroissent au-dedans &amp; au-dehors de la piece.
+Cette opération les efface en-dedans, mais non en-dehors.
+C&#39;est sur la différence du <i>forger</i> &amp; du <i>planer</i>.
+On dégraisse de même : dans ce travail, l&#39;ouvrier est
+assis devant son enclume, le billot de l&#39;enclume est
+entre ses jambes, l&#39;enclume n&#39;est guere qu&#39;à la hauteur 
+de ses genoux ; il tient son marteau de la main
+droite, sa piece de la main gauche : cette main fait
+tourner la piece à mesure qu&#39;elle est frappée ; elle
+est aidée dans cette action par le genou qui soûtient
+la piece toutes les fois que la main est obligée de la
+quitter pour la reprendre.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

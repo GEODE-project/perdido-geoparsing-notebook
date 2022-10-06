@@ -1,0 +1,112 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29462" id="52:203" vol="7">
+<index type="head" value="GERBES, Isle de" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GERBES</head>
+<p>
+GERBES, (<sc>Isle de</sc>) <i>Géog</i>. L&#39;île de <i>Gerbes</i>, autrement 
+<i>Zerbi</i>, est une petite île d&#39;Afrique au royaume 
+de Tunis, sur la côte de Barbarie, dans la Méditerranée ; elle ne rapporte que de l&#39;orge en fait de
+grains, mais elle produit beaucoup de figues, d&#39;olives,
+&amp; quantité de raisins, que les habitans sont sécher 
+pour en trafiquer. C&#39;est sur la côte de cette île
+qu&#39;on trouve le Lothus, dont le fruit a, dit-on, un
+goût si délicieux dans sa maturité, que les Poëtes
+feignirent qu&#39;Ulysse &amp; ses compagnons, ayant été
+jettés dans cet endroit par la tempête, &amp; ayant mangé 
+de cet excellent fruit, perdirent entierement le
+desir de retourner dans leur patrie. Les Grecs en
+l&#39;honneur de ce fruit nommerent <i>Lothophages</i> les habitans 
+de cette île. Elle dépend du pacha de Tripoli
+depuis que les Turcs en ont chassé les ducs d&#39;Albe
+&amp; de Medinacéli. <i>Long. 29. 5. lat. 32. 10</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

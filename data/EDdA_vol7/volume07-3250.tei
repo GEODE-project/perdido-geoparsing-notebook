@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30704" id="55:252" vol="7">
+<index type="head" value="GUIMAUVE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.f." />
+<head>GUIMAUVE</head>
+<p>
+GUIMAUVE, s. f. (<i>Botan.</i>) <i>althaea</i> ou <i>bismalva</i>
+des Botanistes ; ses caracteres sont les mêmes que
+ceux de la mauve, <i>voyez</i> <sc><ref target="head:Mauve" type="search">Mauve</ref></sc>. Ses racines qui
+sortent d&#39;une tête, sont blanches en-dedans, nombreuses,
+de la grosseur d&#39;un doigt, fibreuses, &amp; remplies 
+d&#39;un mucilage gluant, ses tiges sont hautes d&#39;environ 
+trois piés &amp; demi, tendres, greles, cylindriques,
+velues, garnies de feuilles alternes, d&#39;un verd-pâle,
+arrondies, pointues, blanchâtres, cotonneuses,
+longues d&#39;environ trois pouces, ondées, dentelées, &amp;
+portées sur une grande queue. Ses fleurs naissent des
+aisselles des feuilles ; elles sont d&#39;un blanc tirant sur
+le rouge, d&#39;une seule piece, partagée en cinq parties
+jusque vers la base, &amp; garnies dans cet endroit d&#39;un
+tuyau pyramidal charge d&#39;étamines &amp; de sommets ;
+le pistil s&#39;emboîte dans ce tuyau, &amp; devient un fruit
+applati &amp; arrondi, composé de plusieurs capsules,
+disposées en maniere d&#39;anneau, arrangées autour
+d&#39;un placenta qui occupe le centre. Ces capsules
+sont membraneuses, minces, en forme de rein, &amp;
+elles contiennent une graine de même figure.
+</p>
+<p>
+Il n&#39;est pas aisé de décider si notre <i>guimauve</i> est
+l&#39;<i>althaea</i> de Dioscoride ; on peut soûtenir également
+le <i>pour</i> &amp; le <i>contre:</i> mais nos botanistes modernes
+l&#39;ont trop bien caractérisée, pour qu&#39;on la confonde
+dans la suite ; elle vient par-tout dans les lieux maritimes,
+dans les marais, le long des ruisseaux, &amp;
+fleurit au mois de Juillet. On fait un grand usage en
+Medecine des feuilles, des fleurs, des graines, &amp;
+sur-tout des racines de cette plante. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

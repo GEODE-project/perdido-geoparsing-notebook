@@ -1,0 +1,233 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28637" id="51:22:1" vol="7">
+<index type="head" value="Fusil à portée de but en blanc" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Fusil</head>
+<p>
+<sc>Fusil</sc> <i>à portée de but en blanc</i>. Si la ligne de
+tire se trouvoit parallele avec la ligne de mire, jamais 
+la balle ou boulet ne pourroit arriver qu&#39;au-dessous 
+du but ; car à chaque instant après sa sortie,
+la balle ou boulet s&#39;éloigne de la ligne de tire, &amp;
+tend à se rapprocher vers la terre ; aussi la ligne de
+mire &amp; la ligne de tire, sont-elles sécantes entre elles
+dans toutes les armes à feu, &amp; la ligne courbe que
+décrit le boulet coupe d&#39;abord la ligne de mire, s&#39;éleve 
+au-dessus, &amp; redescend ensuite la recouper : le
+point où la ligne courbe que décrit le boulet, recoupe 
+la ligne de mire, est la portée de l&#39;arme à feu, <i>le
+but en blanc</i>. Ce point est plus ou moins éloigné, à
+proportion de l&#39;amplitude de l&#39;angle que forment
+entre elles la ligne de mire &amp; la ligne de tire &amp; en
+raison de la force qui chasse le boulet, de sa masse,
+de son volume, de sa densité, &amp; de celle du milieu
+qu&#39;il traverse, &amp; de la longueur du calibre.
+</p>
+<p>
+Soit supposé le canon d&#39;un <i>fusil</i> épais de quatre
+lignes à sa culasse, d&#39;une ligne à sa bouche, qu&#39;il ait
+quatre piés de long, que le calibre soit de six lignes,
+la ligne de tire &amp; celle de mire se couperont à quatre 
+piés au-delà de la bouche du <i>fusil</i>, &amp; l&#39;angle que
+les lignes de mire &amp; de tire fermeront en se rencontrant,
+sera de 0<sup>d</sup>, 10 ou 15&#39;; la balle montera au-dessus 
+de la ligne de mire, formant à bien peu de
+chose près, le même angle ; donc à douze piés au-delà 
+de la bouche du canon, elle sera sept lignes environ 
+au-dessus de la ligne de mire. Pour calculer
+à quel endroit on doit trouver le point du but en
+blanc, il faut d&#39;abord faire abstraction de la force
+d&#39;inertie, centripete, ou pesanteur de la balle ou
+boulet, &amp; calculer l&#39;élévation que prend la ligne de
+tire au-dessus du point vers lequel on vise, eu égard
+au plus ou moins d&#39;éloignement de ce but, estimer
+la vîtesse à parcourir l&#39;étendue supposée, &amp; diminuer 
+sur l&#39;élévation reconnue l&#39;attrait occasionné
+par sa masse, &amp; ce par les calculs des masses &amp; des
+vîtesses, <i>&amp;c.</i>
+</p>
+<p>
+Soit supposé, que pour parcourir cent toises le
+globe soit <i>0&#39;x&#39;&#39;x&#39;&#39;&#39;, &amp;c.</i> que la ligne de mire (suivant l&#39;angle que nous avons supposé 0<sup>d</sup>, 10 ou 15&#39;),
+soit à ce but éloigné de 600 lignes, égales à 50 pouces 
+ou 4 piés 2 pouces. Si l&#39;épreuve d&#39;accord avec
+le calcul, fait voir que le globe frappe le but visé
+à cesdites 100 toises, il faudra en conclure qu&#39;à 60
+toises environ, par exemple, la balle étoit élevée au-dessus 
+de la ligne de mire d&#39;environ 2 piés, ce qui
+a été sa plus grande élévation : qu&#39;il s&#39;ensuit donc
+que s&#39;il s&#39;étoit trouvé à ces 60 toises un corps élevé
+à deux piés, ou quelque chose de moins, au-dessus
+de la ligne de mire, ce corps eût été frappé par la
+balle, quoique le coup ait été bien visé au but : on
+auroit dit à cela sans réfléchir : <i>c&#39;est que le coup releve ;</i> mots vuides de sens. J&#39;avoue qu&#39;il y a beaucoup 
+d&#39;expériences à faire, pour établir théoriquement 
+la portée des armes à feu ; j&#39;en proposerai ci-après 
+quelques-unes pour la pratique ; on ne fait jusqu&#39;à présent que l&#39;estimer à-peu-près, &amp; l&#39;on tombe
+quelquefois dans des défauts que l&#39;on n&#39;imagine pas,
+faute de connoître non-seulement le point de perfection,
+mais même ce que peut indiquer la théorie
+connue : par exemple on recommande souvent aux
+troupes de viser vers le milieu du corps de l&#39;ennemi ;
+on leur prescrit même de tirer bas, &amp; plûtôt plus que
+<milestone unit="column" n="2" />
+moins. Certainement rien n&#39;est moins une loi générale 
+que ce prétendu axiome, si (suivant la supposition 
+faite ci-dessus) à 100 toises l&#39;on frappe un but
+à l&#39;endroit visé, quatre piés au-dessus de l&#39;horison,
+à 60 toises on passera 6 piés au-dessus de l&#39;horison,
+&amp; l&#39;on ne frapperoit pas un but <i>M, N</i>, qui seroit à
+cette distance, quand il auroit 5 piés 10 pouces de
+hauteur depuis le niveau de l&#39;horison ; si à 100 toises 
+l&#39;on a visé précisément au pié du but <i>H, B</i>, l&#39;on
+n&#39;arrivera qu&#39;à ce point ; &amp; si le but eût été de quelques 
+pas plus éloigné, on ne l&#39;auroit pas frappé.
+</p>
+<p>
+Si à 60 pas, l&#39;on a visé deux piés plus bas que le
+pié du but <i>O K</i>, c&#39;est-à-dire deux piés plus bas que
+la ligne horisontale sur laquelle le but seroit planté,
+on n&#39;atteindra pas encore ce but. Il s&#39;ensuit donc
+qu&#39;on ne peut jamais avec un <i>fusil</i> atteindre au but
+quelconque, quand on vise deux piés plus bas que
+l&#39;extrémité inférieure du but, à quelque éloignement
+qu&#39;il soit ; que si l&#39;on vise au pié du but, on ne peut
+le frapper que depuis ledit pié ou base, jusqu&#39;à une
+élévation de deux piés ; si dans cette distance de
+100 toises un but a d&#39;élévation trois fois deux piés,
+on le frappera dans la dimension du milieu, si l&#39;on
+vise à deux piés au-dessus de sa base ; &amp; s&#39;il est à
+60 toises, on le frappera dans la dimension supérieure ; 
+mais si le but est plus éloigné de 100 toises,
+il faut viser plus haut que lui, pour le frapper dans
+la dimension du milieu, &amp; de plus en plus s&#39;élever,
+suivant que le but seroit plus éloigné.
+</p>
+<p>
+Je viens d&#39;expliquer que ce qui faisoit qu&#39;une balle
+ou boulet arrive au but que l&#39;on veut attraper, c&#39;est
+certainement à cause qu&#39;on l&#39;a dirigé vers un autre
+endroit ; car sans s&#39;en appercevoir, on tire avec un
+<i>fusil</i> ou canon vers un but, comme les Archers ou
+Arbalêtriers tirent vers celui où ils veulent faire arriver 
+leurs fleches. Il est démontré que la ligne par
+laquelle un coup peut être lancé le plus loin possible,
+est la parabole qui formeroit à ses extrémités
+un angle de 45 degrés avec l&#39;horison, abstraction
+faite de l&#39;effet de la pesanteur du coup lancé. C&#39;est
+parce qu&#39;ils approchoient davantage de cette projection,
+que les Perses de Xenophon lançoient leurs
+fleches, qui portoient plus loin que celles de tous
+les Grecs, excepté des Archers de Candie. <i>Voyez</i>
+<sc><ref target="head:Retraite des dix mille" type="search">Retraite des dix mille</ref></sc>
+. Les carabines pourroient 
+bien n&#39;avoir une plus longue portée que par
+la même raison (leurs balles trouvant peut-être
+plus de difficulté à vaincre le milieu qu&#39;elles traversent 
+par la perte qu&#39;elles font de leur forme sphérique); &amp; les gispes du maréchal de Puisegur (<i>voyez
+page 30 in-4°.</i>), dont il souhaiteroit que plusieurs
+soldats par compagnies fussent armés, ne sont encore 
+autre chose que des armes renforcées par la
+culasse, &amp; dont par conséquent les lignes de mire
+&amp; de tire formantes un angle plus ouvert, donnent
+une portée plus longue que les armes ordinaires. Ce
+n&#39;est point pour donner aucun blâme à ce grand maître 
+que j&#39;ose le citer ici, mais pour faire remarquer
+aux Militaires l&#39;avantage considérable que peuvent
+leur procurer les premieres notions des Mathématiques, dans les moindres comme dans les plus grandes
+parties de leur art. J&#39;observerai encore que les plus
+habiles tireurs au blanc ne peuvent le plus souvent
+tuer une piece de gibier à la chasse, &amp; les chasseurs
+qui tuent à tout coup, ne tirent jamais, en ayant
+parfaitement le gibier sur la ligne de mire de leurs
+<i>fusils ;</i> non-seulement ils tirent à l&#39;endroit où sera la
+piece de gibier lorsque leur coup y arrivera, mais
+ils visent plus au-dessous ou au-dessus, suivant l&#39;éloignement 
+du but qu&#39;ils veulent frapper.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

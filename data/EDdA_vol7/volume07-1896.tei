@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29350" id="52:144" vol="7">
+<index type="head" value="GÉNIAL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Histoire anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="adject" />
+<head>GÉNIAL</head>
+<p>
+GÉNIAL, adject. (<i>Histoire anc.</i>) mot dérivé du latin,
+dont on est obligé de se servir dans notre langue ;
+c&#39;est une épithete que l&#39;on donnoit dans le paganisme
+à quelques dieux qui présidoient à la génération.
+</p>
+<p>
+Ils etoient ainsi appelles <i>à gerendo</i>, ou, selon la
+correction de Scaliger &amp; de Vossius, <i>a genendo</i>, qui
+dans l&#39;ancienne latinité signifie <i>produire</i>. Cependant
+Festus ajoûte que de-là on les nomma aussi dans la
+suite <i>getuli ;</i> ce qui demande qu&#39;on lise <i>à gerendo</i>. M.
+Dacier prétend que <i>gerere</i> a le sens de <foreign lang="greek">πράττειν</foreign>.
+</p>
+<p>
+Les dieux <i>géniales</i>, dit Festus, étoient l&#39;eau, la
+terre, le feu, &amp; l&#39;air, que les Grecs appellent <i>élémens</i>. On mettoit aussi au nombre de ces dieux les
+douze signes, la lune &amp; le soleil. <i>Dictionn. de Trév.
+&amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

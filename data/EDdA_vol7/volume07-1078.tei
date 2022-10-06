@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28532" id="50:221:1" vol="7">
+<index type="head" value="Fumer" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Villiers" />
+<index type="shortauth" value="Villiers" />
+<index type="kafnum" value="133" />
+<index type="kafauth" value="Villiers, Jacques-François de (1727-1790)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie. Métallurgie." />
+<index type="normclass" value="Chimie | Métallurgie" />
+<index type="englishclass" value="Chemistry | Metallurgy" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fumer</head>
+<p>
+<sc>Fumer</sc>, (<i>Chimie. Métallurgie.</i>) <i>faire fumer l&#39;antimoine ;</i> c&#39;est fondre un régule d&#39;antimoine tenant de
+l&#39;or, &amp; l&#39;élever en fleur par le vent d&#39;un soufflet. Dans
+la purification de l&#39;or par l&#39;antimoine, on se sert d&#39;un
+creuset qu&#39;on place au fourneau de fusion : ce demi-métal 
+fondu se dissipe assez par l&#39;action de l&#39;air &amp; du
+feu ; mais beaucoup plus vite, quand on y joint le
+vent d&#39;un soufflet à main. L&#39;artiste lui adapte pour
+lors un tuyau courbe, afin de n&#39;être pas obligé d&#39;avoir
+les bras continuellement levés, &amp; de n&#39;être pas incommodé 
+par la chaleur. Il est aisé de concevoir que
+cette opération doit se faire à l&#39;air libre, &amp; que le
+bain doit être bien liquide. Au défaut d&#39;un fourneau
+de fusion, on a recours à la forge, dont on anime le
+feu avec le gros soufflet, indépendamment du soufflet 
+à main, dont on dirige toûjours le vent sur le
+bain. Au deu d&#39;un creuset, on peut encore employer
+un bon scorificatoire à fond plat, &amp; l&#39;opération en
+va plus vîte, parce que le bain a plus de contact
+avec l&#39;air, en conséquence de sa plus grande étendue : mais la perte de l&#39;or est plus considérable, surtout 
+quand il est joint à une grande quantité d&#39;antimoine.
+C&#39;est ainsi qu&#39;on sépare ce demi-métal de l&#39;or:
+mais il n&#39;est pas possible de dissiper le reste de la partie
+réguline, qu&#39;en tenant le mélange long-tems dans un
+scorificatoire sur un feu vif, &amp; le soufflant fortement ;
+à moins qu&#39;on n&#39;ait recours à la cémentation, ou qu&#39;on 
+ne fonde l&#39;or avec le nitre &amp; le borax. <i>Cramer</i>.
+Si on étoit tenté de retenir les fleurs d&#39;antimoine,
+pour savoir si elles contiennent de l&#39;or. on pourroit
+avoir recours à un appareil que donne Libavius,
+<i>part. I. lib. III. pag. 279</i>. Il consiste en un vaisseau
+elliptique, à chaque sommet duquel il y a un tuyau,
+l&#39;un pour recevoir celui du soufflet, &amp; l&#39;autre pour
+conduire les fleurs dans un grand pot de terre placé
+à côté du fourneau. Ce pot est fermé d&#39;un couvercle ; 
+&amp; le vaisseau elliptique qu&#39;on couche dans le
+fourneau de fusion, a aussi une ouverture qu&#39;on ferme 
+encore exactement sans doute : on met des charbons 
+ardens dessus &amp; dessous. Libavius croit trouver 
+des vestiges de la description de ce vaisseau dans
+Dioscoride : mais reste à savoir si cet appareil peut
+aller ; &amp; s&#39;il ne faut point quelque issue au pot de
+terre qui reçoit les fleurs, pour le jeu de l&#39;air. Si l&#39;on
+veut savoir en quel état est cette chaux d&#39;antimoine,
+on peut consulter la section <i>antimoine diaphorétique,
+à l&#39;article</i> <sc><ref target="head:Fondant de Rotrou" type="search">Fondant de Rotrou</ref></sc>. <i>Voyez</i> 
+<sc><ref target="head:Or" type="search">Or</ref>, <ref target="head:Affinage" type="search">Affinage</ref>, <ref target="head:Purification" type="search">Purification</ref>, <ref target="head:Précipitation," type="search">Précipitation,</ref> <i>&amp;</i> <ref target="head:Antimoine" type="search">Antimoine</ref></sc>
+. <i>Article de M. <sc>de Villiers</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

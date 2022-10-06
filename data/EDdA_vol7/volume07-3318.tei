@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30772" id="55:310" vol="7">
+<index type="head" value="GYMNASE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Littér. greq. &amp; rom." />
+<index type="normclass" value="Littérature grecque | Littérature romaine" />
+<index type="englishclass" value="Greek literature | Roman literature" />
+<index type="generatedclass" value="Littérature grecque" />
+<index type="pos" value="s.m." />
+<head>GYMNASE</head>
+<p>
+GYMNASE, s. m. <i>gymnasium</i>, (<i>Littér. greq. &amp;
+rom.</i>) édifice public chez les Grecs &amp; les Romains,
+où ceux qui vouloient s&#39;instruire &amp; se perfectionner
+dans les exercices, trouvoient tous les secours nécessaires.
+Ces lieux se nommoient <i>gymnases</i>, à cause
+de la nudité des athletes ; <i>palestres</i>, à cause de la lutte,
+qui étoit un des exercices qu&#39;on y cultivoit le plus ;
+&amp; quelquefois chez les Romains <i>thermes</i>, parce que
+l&#39;appartement des bains &amp; des étuves en faisoit une
+des parties principales.
+</p>
+<p>
+Les différentes pieces qui composoient ces grands
+édifices peuvent, suivant M. Burette, se réduire à
+douze principales, savoir : 1°. les portiques extérieurs,
+où les Philosophes, les Rhéteurs, les Mathématiciens, les Medecins, &amp; autres savans, faisoient
+des leçons publiques, disputoient, ou lisoient leurs
+ouvrages. 2°. L&#39;éphébeum, où les jeunes gens s&#39;assembloient 
+de grand matin, pour y apprendre les
+exercices dans le particulier, &amp; sans spectateurs.
+3°. Le coryceum, autrement nommé l&#39;<i>apodyterion</i>
+ou le <i>gymnastérion</i>, qui étoit une espece de garderobe 
+où l&#39;on quittoit ses habits, soit pour les bains,
+soit pour les exercices. 4°. L&#39;élaeothésium, l&#39;aliptérion,
+ou l&#39;unctuarium, destiné aux oignemens qui
+précédoient, ou qui suivoient l&#39;usage des bains, la
+lutte, le pancrace, <i>&amp;c.</i> 5°. La palestre proprement
+dite, ou l&#39;on s&#39;exerçoit à la lutte, au pugilat, au pancrace,
+&amp; autres exercices. 6°. Le sphaeristérium ou
+jeu de paume, reservé pour les exercices où l&#39;on
+employoit une balle. 7°. Les grandes allées non-pavées, lesquelles occupoient le terrain compris entre
+les portiques &amp; les murs qui entouroient tout l&#39;édifice.
+8°. Les xystes, (<i>xysti</i>) qui étoient des portiques,
+sous lesquels les athletes s&#39;exerçoient pendant
+l&#39;hyver &amp; le mauvais tems. 9°. Dautres xystes, (<i>xysta</i>) qui étoient des allees découvertes, destinées
+pour l&#39;été &amp; pour le beau tems, &amp; dont les unes
+étoient toutes nues, &amp; les autres plantées d&#39;arbres.
+10°. L&#39;appartement des bains composé de plusieurs
+pieces. 11°. Le stade qui étoit un terrein spacieux,
+demi-circulaire, sablé, &amp; entouré de gradins pour
+les spectateurs des exercices. 12°. Le grammatéion,
+qui etoit le lieu destiné à la garde des archives athlétiques.
+</p>
+<p>
+Ces <i>gymnases</i> étoient gouvernés par plusieurs officiers ; 
+tels étoient 1°. le gymnasiarque, ou le surintendant<gap type="hyphenpb" />
+<pb n="7:1016" facs="V7/ENC_7-1016.jpeg" />
+<milestone unit="column" n="1" />
+de toute la gymnastique ; 2°. le xystarque,
+ou celui qui présidoit aux xystes &amp; au stade ;
+3°. le gymnaste ou le maître des exercices, qui en
+connoisioit les différentes qualités, &amp; les accommodoit 
+aux âges &amp; aux diverses complexions ; 4°. le
+poedotriba, ou prevôt de salle, employé à enseigner
+méchaniquement les exercices, sans en entendre les
+avantages par rapport à la santé. Sous ces quatre
+principaux officiers, dont on peut consulter les articles,
+servoit une foule de subalternes, dont les
+noms assez peu importans désignoient les différentes
+fonctions qu&#39;ils avoient en sous-ordre. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

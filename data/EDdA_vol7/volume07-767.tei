@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28221" id="50:51" vol="7">
+<index type="head" value="FRANCISQUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod. milit." />
+<index type="normclass" value="Histoire moderne militaire" />
+<index type="englishclass" value="Modern military history" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="s.f." />
+<head>FRANCISQUE</head>
+<p>
+FRANCISQUE, s. f. (<i>Hist. mod. milit.</i>) arme faite en
+façon de hache, dont se servoient les Francs ; &amp; c&#39;est
+peut-être de-là que lui vient son nom. Quoi qu&#39;il en
+soit, la <i>francisque</i> a été seulement en usage dans les
+tems où les Francs n&#39;accordoient à leurs rois qu&#39;une
+autorité très-bornée ; ne connoissoient guere leurs
+souverains dans le camp que comme genéraux de
+soldats conquérans, &amp; ne leur donnoient leur part
+du butin, que selon que le sorz en décidoit : on sait
+là-dessus ce qui arriva à Clovis, après sa victoire sur
+Siagrius. Ce monarque voulant rendre à un évêque
+un vase sacré qui avoit été pris dans un pillage, requit
+de ses troupes qu&#39;il ne fût point compris dans le partage 
+qui s&#39;en devoit faire : mais un franc qui regardoit 
+cette pieuse libéralité du prince comme une entreprise 
+sur les droits de l&#39;armée, donna un coup de
+sa <i>francisque</i> sur ce vase, &amp; dit fierement au roi, qu&#39;il
+ne disposeroit que de ce que le sort lui donneroit a
+lui-même dans le partage du butin. Clovis, quoique
+naturellement colere &amp; terrible, fut obligé de dissimuler 
+le chagrin qu&#39;il ressentoit de ce refus. N&#39;osant
+pas alors en tirer raison par l&#39;autorité royale, il eut
+recours l&#39;année suivante à celle de général, en faisant 
+la revûe de ses troupes au champ de Mars ; dans
+cette revûe, il ne se contenta pas de reprimander ce
+soldat, sous prétexte que ses armes étoient mal en
+ordre, il lui arracha sa <i>francisque</i>, la jetta par terre,
+prit la sienne, &amp; lui en fendit la tête, en lui disant,
+<i>Souviens-toi du vase de Soissons:</i> action bien indigne
+d&#39;un prince qui, en se faisant chrétien, auroit dû apprendre 
+à pardonner ou plûtôt à être juste. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

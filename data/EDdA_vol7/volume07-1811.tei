@@ -1,0 +1,233 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29265" id="52:89:3" vol="7">
+<index type="head" value="Gelée" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharm. Art culin. Art du Confitur." />
+<index type="normclass" value="Pharmacie | Art culinaire | Confiturier" />
+<index type="englishclass" value="Pharmaceuticals | Culinary arts | Jam-making" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="NA" />
+<head>Gelée</head>
+<p>
+<sc>Gelée</sc>, (<i>Pharm. Art culin. Art du Confitur.</i>) suc
+de substances animales ou végétales qu&#39;on réduit
+par l&#39;art, en consistance d&#39;une colle claire &amp; transparente.
+</p>
+<p>
+Les <i>gelées</i> de substances animales sont de fortes
+décoctions de cornes, d&#39;os, de piés d&#39;animaux, bouillies 
+dans de l&#39;eau, au point d&#39;acquérir étant froides,
+une consistance ferme &amp; gélatineuse.
+</p>
+<p>
+Les <i>gelées</i> de végétaux sont des décoctions de
+<milestone unit="column" n="2" />
+fruits mûrs cuits avec du sucre, jusqu&#39;à consistance
+convenable.
+</p>
+<p>
+Les <i>gelées</i> de pain sont des décoctions de la croute
+de pain, ou du biscuit de mer qu&#39;on fait bouillir dans
+de l&#39;eau à petit feu, jusqu&#39;à ce que la décoction ait
+acquise la forme d&#39;une <i>gelée</i> refroidie.
+</p>
+<p>
+La maniere de tirer des <i>gelées</i> de substances anima
+les appartient à l&#39;art culinaire ; celle des fruits est du
+ressort du confiseur ; mais le medecin sait profiter
+des unes &amp; des autres pour la guérison des maladies.
+</p>
+<p>
+La <i>gelée</i> de substances animales se tire ordinairement 
+des extrémités des parties d&#39;animaux, de volaille,
+&amp; autres viandes qu&#39;on juge convenables. On
+fait cuire ces viandes dans une certaine quantité
+d&#39;eau proportionnée ; quand les viandes sont presque 
+défaites, on les exprime, on en coule le bouillon 
+par l&#39;étamine ou un linge fort dans une casserolle ;
+on dégraisse ce bouillon soigneusement avec des ailes 
+de plume ; on y ajoûte quelquefois du sucre, un
+peu de canelle, de cloux de girofle, de l&#39;écorce de
+citron, ou tel autre ingrédient approprié; on fait
+un peu recuire le tout ensemble ; ensuite on le clarifie 
+avec des blancs d&#39;oeufs ; on y joint pour l&#39;agrément 
+du jus de citron ; on passe le tout par la chausse ;
+on le porte dans un lieu froid où il se fige.
+</p>
+<p>
+On fait aussi de la <i>gelée</i> d&#39;os qu&#39;on amollit avec la
+machine industrieuse de Papin. <i>Voyez</i> ce que c&#39;est
+que cette machine <i>au mot</i> <sc><ref target="head:Digesteur" type="search">Digesteur</ref></sc>.
+</p>
+<p>
+L&#39;art de la cuisine s&#39;étend encore à masquer la couleur 
+naturelle des <i>gelées</i> animales : on les blanchit
+avec les amandes pilées &amp; passées à l&#39;ordinaire ; on
+les jaunit avec des jaunes d&#39;oeufs ; on les rougit avec
+du suc de beterave ; on les verdit avec du jus de
+poirée, qu&#39;on fait cuire dans un plat pour en ôter la
+crudité, <i>&amp;c.</i>
+</p>
+<p>
+La <i>gelée</i> qu&#39;on fait avec des piés de veau, de la
+volaille, des amandes douces blanchies, de la farine
+de ris, du sucre, &amp; quelques gouttes d&#39;eau de fleur
+d&#39;orange, est ce qu&#39;on nomme <i>blanc-manger</i>, nourriture 
+avantageuse dans les cas où l&#39;on se propose de
+tempérer l&#39;âcreté des humeurs. <i>Voyez</i> <sc><ref target="head:Blanc-manger" type="search">Blanc-manger</ref></sc>.
+</p>
+<p>
+On se conduit de la même maniere pour le blanc-manger 
+de corne de cerf, &amp; pour la <i>gelée</i> simple de
+corne de cerf qu&#39;on employe fréquemment en Medecine. <i>Voyez</i> <sc><ref target="head:Corne de cerf" type="search">Corne de cerf</ref></sc>.
+</p>
+<p>
+La <i>gelée</i> de poisson se tire de divers poissons qu&#39;on
+vuide, qu&#39;on dégraisse, qu&#39;on fait bouillir, &amp; dont
+on passe le bouillon par une étamine, après quoi on
+le met dans un pot pour l&#39;usage ; mais on n&#39;employe
+guere en Medecine que la <i>gelée</i> de viperes, &amp; c&#39;est
+peut-être encore assez mal-à-propos.
+</p>
+<p>
+Toutes les <i>gelées</i> de substances animales sont alkalescentes,
+mais moins lorsqu&#39;on les assaisonne de jus
+de limon &amp; de sucre. Elles ne conviennent en qualité 
+de remede, que quand l&#39;acidité domine dans les
+premieres voies. Il faut toûjours les avoir fraichement 
+faites &amp; nouvelles, parce qu&#39;elles se gâtent
+promptement : en général elles sont plus alimenteuses 
+&amp; restaurantes, que médicamenteuses.
+</p>
+<p>
+On faison autrefois entrer dans ces <i>gelées</i> des drogues 
+medicinales en forme de poudres ou d&#39;extraits,
+&amp; on les appelloit <i>gelées composées ;</i> mais ces sortes
+de <i>gelées</i> ridicules ne sont plus d&#39;usage aujourd&#39;hui ;
+on n&#39;a conservé que la seule <i>gelée</i> d&#39;avoine simplifiée.
+<i>Voyez</i> <sc><ref target="head:Gelée d&#39;avoine" type="search">Gelée d&#39;avoine</ref></sc>.
+</p>
+<p>
+Passons aux <i>gelées</i> de fruits dont la consommation
+est immense dans toute l&#39;Europe. On fait généralement 
+de la <i>gelée</i> de fruits de la maniere suivante. On
+prend tels sortes de fruits qu&#39;on veut ; on coupe les
+uns par morceaux, on presse les autres, on en ôte
+les grains, on les fait cuire dans de l&#39;eau plus ou
+moins à-proportion de la dureté des fruits. Quand
+ils sout cuits, on les passe dans des linges ; on ôte
+<pb n="7:543" facs="V7/ENC_7-543.jpeg" />
+<milestone unit="column" n="1" />
+en les passant le plus de décoction qu&#39;il est possible ;
+on met cette décoction dans un poëlon ou dans une
+bassine à confiture avec une livre de sucre, plus ou
+moins, sur chaque pinte d&#39;eau. On fait cuire le tout
+ensemble jusqu&#39;à ce que la <i>gelée</i> soit bien formée ; ce
+qu&#39;on connoit facilement, si en prenant de cette <i>gelee</i> dans une cuilliere, &amp; la versant dans la bassine
+ou sur une assiette, elle tombe par floccons, &amp; non
+pas en coulant ou en filant. C&#39;est ainsi qu&#39;on fait les
+<i>gelées</i> d&#39;abricots, de cerises, de coins, d&#39;epine-vinette, de framboises, de grenades, de groseilles, de
+poires, de pommes, de verjus.
+</p>
+<p>
+Il faut seulement observer que les <i>gelées</i> rouges &amp;
+vertes doivent cuire à petit feu, &amp; être couvertes
+pendant qu&#39;elles cuisent ; au lieu que les <i>gelées</i> blanches 
+se cuisent à grand feu &amp; découvertes. Il faut
+aussi plus de sucre à certains fruits qu&#39;à d&#39;autres ; enfin 
+le confiseur a son art de manipulation qu&#39;on ne
+sauroit décrire, &amp; qui ne s&#39;apprend que par le coup
+d&#39;oeil &amp; la pratique.
+</p>
+<p>
+Les <i>gelées</i> de fruits sont agréables, rafraîchissantes,
+savonneuses, acescentes, propres dans pluseurs 
+maladies, &amp; toûjours avantageuses dans l&#39;alkalescence 
+&amp; la putridité des humeurs. On les dissout,
+on les bat dans de l&#39;eau, on en use en boisson
+ou d&#39;autre maniere. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

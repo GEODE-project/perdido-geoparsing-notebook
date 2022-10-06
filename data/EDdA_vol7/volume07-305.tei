@@ -1,0 +1,233 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27759" id="49:46:1" vol="7">
+<index type="head" value="Forme substantielle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métaphysique." />
+<index type="normclass" value="Métaphysique" />
+<index type="englishclass" value="Metaphysics" />
+<index type="generatedclass" value="Métaphysique" />
+<index type="pos" value="NA" />
+<head>Forme substantielle</head>
+<p>
+<sc>Forme substantielle</sc>, (<i>Métaphysique.</i>) terme
+barbare de l&#39;ancienne philosophie scholastique, dont
+on s&#39;est principalement servi pour désigner de prétendus 
+êtres matériels qui n&#39;étoient pourtant pas matiere.
+Nous ne nous chargeons pas d&#39;expliquer ce que
+cela signifie : nous dirons seulement, que la question
+si épineuse de l&#39;ame des bêtes a donné occasion à
+cette opinion absurde. Voici, selon toutes les apparences,
+par quels degrés les Scholastiques y ont été
+conduits, c&#39;est-à-dire par quelle suite de raisonnemens 
+ils sont parvenus à déraisonner.
+</p>
+<p>
+Si les bêtes sentent, pensent, &amp; même raisonnent,
+comme l&#39;expérience paroît le prouver, elles ont donc
+en elles un principe distingué de la matiere : car ce
+seroit renverser les preuves de la spiritualité de l&#39;ame,
+que de croire que Dieu puisse accorder à une
+substance étendue le sentiment &amp; la pensée. Or si l&#39;ame 
+des bêtes n&#39;est point matiere, pourquoi s&#39;éteint-elle 
+à la destruction de leur corps? Pourquoi l&#39;Etre
+suprème ayant mis dans les animaux un principe de
+sentiment semblable à celui qu&#39;il a mis dans l&#39;homme,
+n&#39;a-t-il pas accordé à ce principe l&#39;immortalite
+qu&#39;il a donnée à notre ame? La philosophie de l&#39;école<gap type="hyphenpb" />
+<pb n="7:177" facs="V7/ENC_7-177.jpeg" />
+<milestone unit="column" n="1" />
+n&#39;a pû trouver à cette difficulté d&#39;autre réponse,
+sinon que l&#39;ame des betes étoit <i>matérielle</i> sans être
+<i>matiere ;</i> au lieu que l&#39;ame de l&#39;homme étoit <i>spirituelle:</i> comme si une absurdité pouvoit servir à résoudre 
+une objection ; &amp; comme si nous pouvions concevoir 
+un être spirituel sous une autre idée que sous
+l&#39;idée négative d&#39;un <i>étre qui n&#39;est point matiere</i>.
+</p>
+<p>
+Les philosophes modernes, plus raisonnables, conviennent 
+de la spiritualité de l&#39;ame des bêtes, &amp; se
+bornent à dire qu&#39;elle n&#39;est pas immortelle, parce que
+Dieu l&#39;a voulu ainsi.
+</p>
+<p>
+Mais l&#39;experience nous prouve que les bêtes souffrent ; 
+que leur condition sur ce point est à-peu-près
+pareille à la nôtre, &amp; souvent pire. Or pourquoi
+Dieu, cet être si bon &amp; si juste, a-t-il condamné à
+tant de peines des êtres qui ne l&#39;ont point offensé, &amp;
+qu&#39;il ne peut même dédommager de ces peines dans
+une vie future? Croire que les bêtes sentent, &amp; par
+contéquent qu&#39;elles souffrent, n&#39;est-ce pas enlever à
+la religion le grand argument que saint Augustin tire
+des souffrances de l&#39;homme pour prouver le péché
+originel? <i>Sous un Dieu juste</i>, dit ce pere, <i>toute créature 
+qui souffre doit avoir péché</i>.
+</p>
+<p>
+Descartes, le plus hardi, mais le plus conséquent
+des Philosophes, n&#39;a trouvé qu&#39;une réponse à cette
+objection terrible : ç&#39;a été de refuser absolument tout
+sentiment aux animaux ; de soûtenir qu&#39;ils ne souffrent 
+point ; &amp; que destinés par le créateur aux besoins 
+&amp; au service de l&#39;homme, ils agissent en apparence 
+comme des êtres sentans, quoiqu&#39;ils ne soient
+reellement que des automates. Toute autre réponse,
+de quelques subtilités qu&#39;on l&#39;enveloppe, ne peut,
+selon lui, mettre à couvert la justice divine. Cette
+metaphysique est spécieuse sans doute. Mais le parti
+de regarder les bêtes comme de pures machines, est
+si révoltant pour la raison, qu&#39;on l&#39;a abandonné, nonobstant 
+les conséquences apparentes du système contraire.
+En effet comment peut-on espérer de persuader 
+à des hommes raisonnables, que les animaux dont
+ils sont environnés, &amp; qui, à quelques legeres différences 
+près, leur paroissent des êtres semblables à eux,
+ne sont que des machines organisées? Ce seroit s&#39;exposer 
+à nier les verites les plus claires. L&#39;instinct qui
+nous assûre de l&#39;existence des corps, n&#39;est pas plus
+fort que celui qui nous porte à attribuer le sentiment
+aux animaux.
+</p>
+<p>
+Quel parti faut-il donc prendre sur la question de
+l&#39;ame des bêtes? Croire, d&#39;après le sens commun,
+que les bêtes souffrent ; croire en même tems, d&#39;après
+la religion, que notre ame est spirituelle &amp; immortelle,
+que Dieu est toujours sage &amp; toûjours juste ; &amp;
+savoir ignorer le reste.
+</p>
+<p>
+C&#39;est par une suite de cette même ignorance, que
+nous n&#39;expliquerons jamais comment les animaux,
+avec des organes pareils aux nôtres, avec des sensations 
+semblables, &amp; souvent plus vives, restent bornés 
+à ces mêmes sensations, sans en tirer, comme
+nous, une foule d&#39;idees abstraites &amp; réfléchies, les
+notions metaphysiques, les langues, les lois, les
+Sciences, &amp; les Arts. Nous ignorerons du-moins jusqu&#39;où la reflexion peut porter les animaux, &amp; pourquoi 
+elle ne peut les porter au-delà. Nous ignorerons
+aussi toujours, &amp; par les mêmes raisons, en quoi
+consiste l&#39;inégalité des esprits ; si cette inégalité est
+dans les ames, ou depend uniquement de la disposition 
+du corps, de l&#39;éducation, des circonstances, de
+la societé; comment ces différentes causes peuvent
+influer si différemment sur des ames qui seroient toutes 
+egales d&#39;ailleurs ; ou comment des substances simples
+peuvent être inégales par leur nature. Nous
+ignorerons si l&#39;ame pense ou sent toûjours ; si la pensée 
+est la substance de l&#39;ame, ou non ; si elle peut subsister 
+sans penser ou sentir ; en quel tems l&#39;ame commence 
+à être unie au corps, &amp; mille autres choses
+<milestone unit="column" n="2" />
+semblables. Les idées innées sont une chimere que
+l&#39;expérience réprouve : mais la maniere dont nous
+acquérons des sensations &amp; des idées réfléchies,
+quoique prouvée par la même expérience, n&#39;est
+pas moins incompréhensible. Toute la Philosophie,
+sur une infinité de matieres, se borne à la devise de
+Montagne. L&#39;intelligence supreme a mis au-devant
+de notre vûe un voile que nous voudrions arracher
+en vain : c&#39;est un triste sort pour notre curiosité &amp;
+notre amour-propre ; mais c&#39;est le sort de l&#39;humanité.
+</p>
+<p>
+Au reste, la définition que nous avons donnée du
+mot <i>forme substantielle</i>, ne doit pas s&#39;appliquer à l&#39;usage 
+qui est fait de ce même mot dans le premier
+canon du concile général de Vienne, qui décide contre 
+le cordelier Pierre Jean d&#39;Olive, que <i>quiconque
+osera soûtenir que l&#39;ame raisonnable n&#39;est pas essentiellement 
+la forme substantielle du corps humain, doit étre
+tenu pour héretique</i>. Ce decret, qu&#39;on auroit peut-être
+dû énoncer plus clairement, ne prouve pas,
+comme quelques incrédules l&#39;ont prétendu, que du
+tems du concile de Vienne, on admettoit la matérialité 
+de l&#39;ame, ou du-moins qu&#39;on n&#39;avoit pas d&#39;idée
+distincte de sa spiritualité: car l&#39;Eglise ne peut ni se
+tromper, ni par conséquent varier sur cette matiere
+importante. <i>Voyez</i> <sc><ref target="head:Ame" type="search">Ame</ref></sc>. <i>Voyez aussi l&#39;abregé de l&#39;Histoire ecclésiastique</i>, Paris 1751, <i>sous l&#39;année 1312</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

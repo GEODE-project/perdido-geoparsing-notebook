@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30762" id="55:301" vol="7">
+<index type="head" value="GUTTE, (Gomme) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie, Pharmacie, &amp; Mat. méd." />
+<index type="normclass" value="Chimie | Pharmacie | Matière médicale" />
+<index type="englishclass" value="Chemistry | Pharmaceuticals | Materia medica" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>GUTTE</head>
+<p>
+GUTTE, (<sc>Gomme</sc>) (<i>Chimie, Pharmacie, &amp;
+Mat. méd.</i>) la <i>gomme gutte</i> est un suc qu&#39;on pourroit
+très bien compter parmi les gommes-résines, puisqu&#39;il est résineux &amp; mêlé d&#39;environ une sixieme partie 
+d&#39;une matiere insoluble dans l&#39;esprit-de-vin, &amp;
+qui se dissout très-bien dans les menstrues aqueux.
+Elle peut contracter aussi à la faveur de cette derniere 
+partie une legere union avec l&#39;eau qui la tient
+suspendue sous la forme d&#39;un lait jaunâtre ; mais
+cette dissolution imparfaite est peu constante ; les
+particules résineuses se réunissent bien-tôt au fond
+du vaisseau, &amp; laissent la liqueur surnageante claire
+&amp; limpide.
+</p>
+<p>
+Cette liqueur éclaircie par le repos, prend une
+couleur de sang quand on y verse de l&#39;alkali fixe ou
+de l&#39;eau-de-chaux. Cette propriété l&#39;a faite compter
+par quelques auteurs parmi les réactifs employés à
+l&#39;analyse des eaux minérales ; mais ce moyen est
+pour le moins superflu. <i>Voyez</i> <sc><ref target="head:Minérale" type="search">Minérale</ref></sc> (<sc><ref target="head:Eau" type="search">Eau</ref>. </sc>)
+</p>
+<p>
+La <i>gomme-gutte</i> est un purgatif hydragogue des
+plus efficaces ; elle est aussi vomitive. Geoffroi recommande 
+beaucoup ce remede, pourvû qu&#39;on l&#39;administre 
+avec précaution &amp; à propos ; il prétend que
+dans tous les cas où les évacuans actifs sont indiqués,
+on trouve dans celui-ci cet avantage singulier, qu&#39;il
+est sans goût &amp; sans odeur, qu&#39;on le donne en petite
+dose, qu&#39;il fait son effet en peu de tems, qu&#39;il dissout
+puissamment les sucs visqueux &amp; tenaces en quelque
+partie du corps qu&#39;ils croupissent &amp; qu&#39;ils soient attachés,
+&amp; enfin qu&#39;il chasse par le vomissement ceux
+qui sont dans l&#39;estomac, &amp; tous les autres fort abondamment 
+par les selles. Il en fixe la dose à deux,
+<pb n="7:1015" facs="V7/ENC_7-1015.jpeg" />
+<milestone unit="column" n="1" />
+cinq, ou sept grains, jusqu&#39;à quinze. Il dit avoir
+souvent donné ce remede depuis deux grains jusqu&#39;à
+quatre, sans causer de vomissement ; &amp; que si l&#39;on
+réitere cette dose pendant plusieurs jours, il n&#39;y a
+plus de vomissement, sur-tout si on l&#39;étend dans
+beaucoup de liqueur ; que si on le donne sous la
+forme de pilule, il excite plus facilement le vomissement,
+mais très-rarement lorsqu&#39;il est joint avec
+le mercure doux.
+</p>
+<p>
+La <i>gomme-gutte</i> est un ingrédient très-ordinaire &amp;
+très-utile des opiates &amp; des pilules purgatives &amp;
+fondantes, &amp; en particulier des pilules mercurielles
+dont la plûpart des apothicaires ont des dispensations
+secretes. Elle entre dans les pilules hydragogues de
+Bontius, &amp; dans la poudre hydragogue de la pharmacopée 
+de Paris.
+</p>
+<p>
+La <i>gomme-gutte</i> a été vantée particulierement contre 
+la goutte ; mais sa réputation à cet égard ne s&#39;est
+pas soutenue. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

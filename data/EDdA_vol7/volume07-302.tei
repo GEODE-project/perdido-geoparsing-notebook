@@ -1,0 +1,754 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27756" id="49:45" vol="7">
+<index type="head" value="FORMATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Beauzée &amp; Douchet" />
+<index type="shortauth" value="Beauzée &amp; Douchet" />
+<index type="kafnum" value="12 &amp; 40" />
+<index type="kafauth" value="Beauzée, Nicolas (1717-1789) &amp; Douchet, Jacques-Philippe-Augustin (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Grammaire" />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.f." />
+<head>FORMATION</head>
+<p>
+FORMATION, s.f. <i>terme de Grammaire</i>, c&#39;est la
+maniere de faire prendre à un mot toutes les formes
+dont il est susceptible, pour lui faire exprimer toutes
+les idées accessoires que l&#39;on peut joindre à l&#39;idée
+fondamentale qu&#39;il renferme dans sa signification.
+</p>
+<p>
+Cette définition n&#39;a pas dans l&#39;usage ordinaire des
+<milestone unit="column" n="2" />
+Grammairiens, toute l&#39;étendue qui lui convient effectivement.
+Par <i>formation</i>, ils n&#39;entendent ordinairement 
+que la maniere de faire prendre à un mot les
+différentes terminaisons ou inflexions que l&#39;usage a
+établies pour exprimer les différens rapports du mot
+à l&#39;ordre de l&#39;énonciation. Ce n&#39;est donc que ce que
+nous désignons aujourd&#39;hui par les noms de <ref target="head:déclinaison" type="search"><i>déclinaison</i></ref> &amp; de <ref target="head:conjugaison" type="search"><i>conjugaison</i></ref> (<i>Voyez ces deux mots</i>), &amp; que
+les anciens comprenoient sous le nom général &amp;
+unique de <i>déclinaison</i>.
+</p>
+<p>
+Mais il est encore deux autres especes de <i>formation</i>, qui méritent singulierement l&#39;attention du
+grammairien philosophe ; parce qu&#39;on peut les regarder 
+comme les principales clés des langues : ce
+sont la <i>dérivation</i> &amp; la <i>composition</i>. Elles ne sont pas
+inconnues aux Grammairiens qui dans l&#39;énumération 
+de ce qu&#39;ils appellent <i>les accidens des mots</i>, comptent 
+l&#39;espece &amp; la figure : ainsi, disent-ils, les mots
+sont de l&#39;espece primitive ou dérivée, &amp; ils sont de
+la figure simple ou composée. <i>Voyez</i> <sc><ref target="head:Accident" type="search">Accident</ref></sc>.
+</p>
+<p>
+Peut-être se sont-ils crus fondés à ne pas réunir
+la dérivation &amp; la composition avec la declinaison
+&amp; la conjugaison, sous le point de vûe général de
+<i>formations ;</i> car c&#39;est à la Grammaire, peut-on dire,
+d&#39;apprendre les inflexions, destinées par l&#39;usage à
+marquer les diverses relations des mots à l&#39;ordre de
+l&#39;énonciation, afin qu&#39;on ne tombe pas dans le défaut 
+d&#39;employer l&#39;une pour l&#39;autre : au lieu que la
+dérivation &amp; la composition ayant pour objet la génération 
+même des mots, plûtôt que leurs formes
+grammaticales, il semble que la Grammaire ait droit
+de supposer les mots tout faits, &amp; de n&#39;en montrer
+que l&#39;emploi dans le discours.
+</p>
+<p>
+Ce raisonnement qui peut avoir quelque chose
+de spécieux, n&#39;est au fond qu&#39;un pur sophisme. La
+Grammaire n&#39;est, pour ainsi dire, que le code des décisions 
+de l&#39;usage sur tout ce qui appartient à l&#39;art
+de la parole : par-tout où l&#39;on trouve une certaine
+uniformité usuelle dans les procédés d&#39;une langue,
+la Grammaire doit la faire remarquer, &amp; en faire
+un principe, une loi. Or on verra bien-tôt que la
+dérivation &amp; la composition sont assujetties à cette
+uniformité de procédés, que l&#39;usage seul peut introduire 
+&amp; autoriser. La Grammaire doit donc en traiter,
+comme de la déclinaison &amp; de la conjugaison ;
+&amp; nous ajoûtons qu&#39;elle doit en traiter sous le même
+titre, parce que les unes comme les autres envisagent 
+les diverses formes qu&#39;un même mot peut prendre 
+pour exprimer, comme on l&#39;a déjà dit, les idées
+accessoires, ajoûtées &amp; subordonnées à l&#39;idée fondamentale,
+renfermée essentiellement dans la signification 
+de ce mot.
+</p>
+<p>
+Pour bien entendre la doctrine des <i>formations</i>, il
+faut remarquer que les mots sont essentiellement les
+signes des idées, &amp; qu&#39;ils prennent différentes dénominations,
+selon la différence des points de vûe sous
+lesquels on envisage leur génération &amp; les idées qu&#39;ils 
+expriment. C&#39;est de-là que les mots sont <i>primitifs</i>
+ou <i>dérivés, simples</i> ou <i>composés</i>.
+</p>
+<p>
+Un mot est <i>primitif</i> relativement aux autres mots
+qui en sont formés, pour exprimer avec la même idée
+originelle quelque idée accessoire qui la modifie ; &amp;
+ceux-ci sont les <i>dérivés</i>, dont le primitif est en quelque 
+sorte le germe.
+</p>
+<p>
+Un mot est <i>simple</i> relativement aux autres mots qui
+en sont formés, pour exprimer avec la même idée
+quelqu&#39;autre idée particuliere qu&#39;on lui associe ; &amp;
+ceux-ci sont les composés, dont le simple est en quelque 
+sorte l&#39;élément.
+</p>
+<p>
+On donne en général le nom de <i>racine</i>, ou de <i>mot radical</i> à tout mot dont un autre est formé, soit par dérivation,
+soit par composition ; avec cette différence
+néanmoins, qu&#39;on peut appeller <i>racines génératrices</i> les
+mots primitifs à l&#39;égard de leurs dérivés ; &amp; <i>racines</i>
+<pb n="7:173" facs="V7/ENC_7-173.jpeg" />
+<milestone unit="column" n="1" />
+<i>élémentaires</i>, les mots simples à l&#39;égard de leurs composés.
+</p>
+<p>
+Eclaircissons ces définitions par des exemples tirés
+de notre langue. Voici deux ordres differens de mots
+dérivés d&#39;une même racine génératrice, d&#39;un même
+mot primitif destiné en général à exprimer ce sentiment 
+de l&#39;ame qui lie les hommes par la bien veillance.
+Les dérivés du premier ordre sont <i>amant, amour,
+amoureux, amoureusement</i>, qui ajoûtent à l&#39;idée primitive 
+du sentiment de bienveillance, l&#39;idée accessoire 
+de l&#39;inclination d&#39;un sexe pour l&#39;autre : &amp; cette
+inclination étant purement animale, rend ce sentiment 
+aveugle, impétueux, immodéré, <i>&amp;c.</i> Les dérivés 
+du second ordre sont <i>ami, amitié, amical, amicalement</i>, qui ajoûtent à l&#39;idée primitive du sentiment
+de bienveillance, l&#39;idée accessoire d&#39;un juste fondement,
+sans distinction de sexe ; &amp; ce fondement étant
+raisonnable, rend ce sentiment éclairé, sage, modéré,
+<i>&amp;c.</i> Ainsi ce sont deux passions toutes différentes
+qui sont l&#39;objet fondamental de la signification commune 
+des mots de chacun de ces deux ordres : mais
+ces deux passions portent l&#39;une &amp; l&#39;autre sur un sentiment 
+de bienveillance, comme sur une tige commune.
+Si nous les mettons maintenant en parallele,
+nous verrons de nouvelles idées accessoires &amp; analogues 
+modifier l&#39;une ou l&#39;autre de ces deux idées fondamentales : les mots <i>amant</i> &amp; <i>ami</i> expriment les sujets
+en qui se trouve l&#39;une ou l&#39;autre de ces deux passions.
+<i>Amour</i> &amp; <i>amitié</i> expriment ces passions mêmes d&#39;une
+maniere abstraite, &amp; comme des êtres réels ; les mots
+<i>amoureux</i> &amp; <i>amical</i> servent à qualifier le sujet qui est
+affecté par l&#39;une ou par l&#39;autre de ces passions : les mots
+<i>amoureusement, amicalement</i>, servent à modifier la signification 
+d&#39;un autre mot, par l&#39;idée de cette qualification.
+<i>Amant</i> &amp; <i>ami</i> sont des noms concrets ;
+<i>amour</i> &amp; <i>amitié</i> des noms abstraits ; <i>amoureux</i> &amp; <i>amical</i> sont des adjectifs ; <i>amoureusement</i> &amp; <i>amicalement</i>
+sont des adverbes.
+</p>
+<p>
+La syllabe génératrice commune à tous ces mots est
+la syllabe <i>am</i>, qui se retrouve la même dans les mots
+latins <i>amator, amor, amatorius, amatoriè</i>, &amp;c...
+<i>amicus, amicè, amicitia</i>, &amp;c. &amp; qui vient probablement 
+du mot grec <foreign lang="greek">ἅμα</foreign>, <i>una, simul ;</i> racine qui exprime 
+assez bien l&#39;affinité de deux coeurs réunis par une
+bienveillance mutuelle.
+</p>
+<p>
+Les mots <i>ennemi, inimitié</i>, sont des mots compo
+sés, qui ont pour racines élémentaires les mots <i>ami</i>
+&amp; <i>amitié</i>, assez peu altérés pour y être reconnoissables,
+&amp; le petit mot <i>in</i> ou <i>en</i>, qui dans la composition
+marque souvent opposition, <i>voyez</i> <sc><ref target="head:Préposition" type="search">Préposition</ref></sc>.
+Ainsi <i>ennemi</i> signifie l&#39;opposé d&#39;<i>ami ; inimitié</i> exprime
+le sentiment opposé à l&#39;<i>amitié</i>.
+</p>
+<p>
+Il en est de même &amp; dans toute autre langue, de
+tout mot radical, qui par ses diverses inflexions,
+ou par son union à d&#39;autres radicaux, sert à exprimer 
+les diverses combinaisons de l&#39;idée fondamentale
+dont il est le signe, avec les différentes idées accessoires 
+qui peuvent la modifier ou lui être associées.
+Il y a dans ce procédé commun à toutes les langues
+un art singulier, qui est peut-être la preuve la plus
+complette qu&#39;elles descendent toutes d&#39;une même
+langue, qui est la souche originelle : cette souche a
+produit des premieres branches, d&#39;où d&#39;autres sont
+sorties &amp; se sont étendues ensuite par de nombreuses 
+ramifications. Ce qu&#39;il y a de différent d&#39;une langue 
+à l&#39;autre, vient de leur division même, de leur
+distinction, de leur diversité: mais ce qu&#39;on trouve
+de commun dans leurs procédés généraux, prouve 
+l&#39;unité de leur premiere origine. J&#39;en dis autant
+des racines, soit génératrices soit élémentaires, que
+l&#39;on retrouve les mêmes dans quantité de langues,
+qui semblent d&#39;ailleurs avoir entre elles peu d&#39;analogie.
+Tout le monde sait à cet égard ce que les langues
+greque, latine, teutone, &amp; celtique, ont fourni aux
+<milestone unit="column" n="2" />
+langues modernes de l&#39;Europe, &amp; ce que celles-ci
+ont mutuellement emprunté les unes des autres ; &amp; il
+est constant que l&#39;on trouve dans la langue des Tartares, dans celle des Perses 
+&amp; des Turcs, &amp; dans
+l&#39;allemand moderne, plusieurs radicaux communs.
+</p>
+<p>
+Quoi qu&#39;il en soit, il résulte de ce qui vient d&#39;être
+dit, qu&#39;il y a deux especes générales de <i>formations</i>
+qui embrassent tout le système de la génération des
+mots ; ce sont la composition &amp; la dérivation.
+</p>
+<p>
+La <i>composition</i> est la maniere de faire prendre à
+un mot, au moyen de son union avec quelqu&#39;autre,
+les formes établies par l&#39;usage pour exprimer les
+idées particulieres qui peuvent s&#39;associer à celle dont
+il est le type.
+</p>
+<p>
+La <i>dérivation</i> est la maniere de faire prendre à un
+mot, au moyen de ses diverses inflexions, les formes 
+établies par l&#39;usage pour exprimer les idées accessoires 
+qui peuvent modifier celle dont il est le
+type.
+</p>
+<p>
+Or deux sortes d&#39;idées accessoires peuvent modifier 
+une idée primitive : les unes, prises dans la chose
+même, influent tellement sur celle qui leur sert en
+quelque sorte de base, qu&#39;elles en font une toute autre 
+idée ; &amp; c&#39;est à l&#39;egard de cette nouvelle espece
+d&#39;idées, que la premiere prend le nom de <i>primitive ;</i>
+telle est l&#39;idée exprimée par <i>canere</i>, à l&#39;égard de celles 
+exprimées par <i>cantare, cantitare, canturire : canere</i>
+présente l&#39;action de chanter, dépouillée de toute autre 
+idée accessoire ; <i>cantate</i> l&#39;offre avec une idée
+d&#39;augmentation ; <i>cantitare</i>, avec une idée de répétition ; 
+&amp; <i>canturire</i> présente cette action comme l&#39;objet 
+d&#39;un desir vis.
+</p>
+<p>
+Les autres idées accessoires qui peuvent modifier
+l&#39;idée primitive, viennent non de la chose même,
+mais des différens points de vûe qu&#39;envisage l&#39;ordre
+de l&#39;énonciation ; ensorte que la premiere idée demeure 
+au fond toûjours la même : elle prend alors
+à l&#39;égard de ces idées accessoires, le nom d&#39;<i>idée principale:</i> 
+telle est l&#39;idée exprimée par <i>canere</i>, qui demeure 
+la même dans la signification des mots <i>cano,
+canis, canit, canimus, canitis, canunt:</i> tous ces mots
+ne different entre eux que par les idées accessoires
+des personnes &amp; des nombres ; <i>voyez</i> <sc><ref target="head:Personne" type="search">Personne</ref> <i>&amp;</i> <ref target="head:Nombre" type="search">Nombre</ref></sc>. Dans tous, l&#39;idée principale est celle de
+l&#39;action de chanter présentement : telle est encore l&#39;idée 
+de l&#39;action de chanter attribuée à la premiere personne,
+à la personne qui parle ; laquelle idée est toûjours 
+la même dans la signification des mots <i>cano,
+canam, canebam, canerem, cecini, cecineram, cecinero,
+cecinissem ;</i> tous ces mots ne different entr&#39;eux que par
+les idées accessoires des tems. <i>Voyez</i> <sc><ref target="head:Tems" type="search">Tems</ref></sc>.
+</p>
+<p>
+Telle est enfin l&#39;idée de <i>chanteur de profession</i>, qui
+se retrouve la même dans les mots <i>cantator, cantatoris,
+cantatori, cantatorem, cantatore, cantatores, cantatorum,
+cantatoribus ;</i> lesquels ne different entre eux
+que par les idées accessoires des cas &amp; des nombres.
+<i>Voyez</i> <sc><ref target="head:Cas" type="search">Cas</ref> <i>&amp;</i> <ref target="head:Nombre" type="search">Nombre</ref></sc>.
+</p>
+<p>
+De cette différence d&#39;idées accessoires naissent
+deux sortes de dérivation ; l&#39;une que l&#39;on peut appeller 
+<i>philosophique</i>, parce qu&#39;elle sert à l&#39;expression
+des idées accessoires propres à la nature de l&#39;idée
+primitive, &amp; que la nature des idées est du ressort
+de la Philosophie ; l&#39;autre, que l&#39;on peut nommer
+<i>grammaticale</i>, parce qu&#39;elle sert à l&#39;expression des
+points de vûe exigés par l&#39;ordre de l&#39;énonciation, &amp;
+que ces points de vûe sont du ressort de la Grammaire.
+</p>
+<p>
+La dérivation philosophique est donc la maniere
+de faire prendre à un mot, au moyen de ses diverses
+inflexions, les formes établies par l&#39;usage pour exprimer 
+les idées accessoires qui peuvent modifier en
+elle-même l&#39;idée primitive, sans rapport à l&#39;ordre
+de l&#39;énonciation : ainsi <i>cantare, cantitare, canturire</i>,
+<pb n="7:174" facs="V7/ENC_7-174.jpeg" />
+<milestone unit="column" n="1" />
+sont dérivés philosophiquement de <i>canere ;</i> parce que
+l&#39;idée primitive exprimée par <i>canere</i> y est modifiée
+en elle-même, &amp; sans aucun rapport à l&#39;ordre de
+l&#39;énonciation. <i>Felicior</i> &amp; <i>felicissimus</i> sont aussi dérivés
+philosophiquement de <i>felix</i>, pour les mêmes raisons.
+</p>
+<p>
+La dérivation grammaticale est la maniere de faire
+prendre à un mot, au moyen de ses diverses inflexions,
+les formes établies par l&#39;usage pour exprimer
+les idées accessoires qui peuvent présenter l&#39;idée
+principale, sous différens points de vûe relatifs à
+l&#39;ordre de l&#39;énonciation : ainsi <i>canis, canit, canimus,
+canitis, canunt, canebam, canebas</i>, &amp;c. sont dérivés
+grammaticalement de <i>cano ;</i> parce que l&#39;idée principale 
+exprimée par <i>cano</i> y est modifiée par différens
+rapports à l&#39;ordre de l&#39;énonciation, rapports de nombres,
+rapports de tems, rapports de personnes : <i>cantatoris, cantatori, cantatorem, cantatores, cantatorum,
+&amp;c.</i> sont aussi dérivés grammaticalement de <i>cantator</i>, pour des raisons toutes pareilles.
+</p>
+<p>
+Pour la facilité du commerce des idées, &amp; des services 
+mutuels entre les hommes, il seroit à desirer
+qu&#39;ils parlassent tous une même langue, &amp; que dans
+cette langue, la composition &amp; la dérivation, soit
+philosophique soit grammaticale, fussent assujetties
+à des regles invariables &amp; universelles : l&#39;étude de
+cette langue se réduiroit alors à celle d&#39;un petit nombre 
+de radicaux, des lois de la <i>formation</i>, &amp; des regles 
+de la syntaxe. Mais les diverses langues des habitans 
+de la terre sont bien éloignées de cette utile
+régularité: il y en a cependant qui en approchent
+plus que les autres.
+</p>
+<p>
+Les langues greque &amp; latine, par exemple, ont
+un système de <i>formation</i> plus méthodique &amp; plus fécond 
+que la langue françoise, qui forme ses dérivés
+d&#39;une maniere plus coupée, plus embarrassée, plus
+irréguliere, &amp; qui tire de son propre fonds moins de
+mots composés, que de celui des langues greque &amp;
+latine. Quoi qu&#39;il en soit, ceux qui desirent faire quelque 
+progrès dans l&#39;étude des langues, doivent donner 
+une attention singuliere aux <i>formations</i> des mots ;
+c&#39;est le seul moyen d&#39;en connoître la juste valeur, de
+découvrir l&#39;analogie philosophique des termes, de
+penétrer jusqu&#39;à la métaphysique des langues, &amp;
+d&#39;en démêler le caractere &amp; le génie ; connoissances
+bien plus solides &amp; bien plus précieuses que le stérile 
+avantage d&#39;en posséder le pur matériel, même d&#39;une 
+maniere imperturbable. Pour faire sentir la vérité 
+de ce qu&#39;on avance ici, nous nous contenterons
+de jetter un simple coup-d&#39;oeil sur l&#39;analogie des <i>formations</i> latines ; &amp; nous sommes sûrs que c&#39;est plus
+qu&#39;il n&#39;en faut, non-seulement pour convaincre les
+bons esprits de l&#39;utilité de ce genre d&#39;étude, mais encore 
+pour leur en indiquer en quelque sorte le plan,
+les parties, les sources même, les moyens, &amp; la
+fin.
+</p>
+<p>
+Il faut donc observer, 1°. que la composition &amp;
+la dérivation ont également pour but d&#39;exprimer des
+idées accessoires ; mais que ces deux especes de <i>formations</i> employent des moyens différens &amp; en un
+sens opposé.
+</p>
+<p>
+Dans la composition, les idées accessoires s&#39;expriment,
+pour la plûpart, par des noms ou des prépositions 
+qui se placent à la tête du mot primitif ; au
+lieu que dans la dérivation elles s&#39;expriment par des
+inflexions qui terminent le mot primitif : <i>fidi-cen, tibi-cinium, vati-cinari, vati-cinatio, ju-dex, ju-dicium,
+ju-dicare, ju-dicatio ; parti-ceps, parti-cipium,
+parti-cipare, parti-cipatio ; ac-cinere, con-cinere ;
+in-cinere, inter-cinere ; ad-dicere, con-dicere, in-dicere, inter-dicere ; ac-cipere, con-cipere, in-cipere, intercipere:</i> voilà autant de mots qui appartiennent à la
+composition. <i>Canere, canax, cantio, cantus, cantor,
+cantrix, cantare, cantatio, cantator, cantatrix, canti-</i>
+<milestone unit="column" n="2" />
+<i>tare, canturire, cantillare ; dicere, dicax, dicacitas, dictio,
+dictum, dictor, dictare, dictatio, dictator, dictatrix,
+dictatura, dictitare, dicturire ; capere, capax, capacitas,
+capessere, captio, captus, captura, captare, captatio,
+captator, captatrix</i>, &amp;c. ce sont des mots qui sont
+du ressort de la dérivation.
+</p>
+<p>
+Il faut observer, 2°. qu&#39;il y a deux sortes de racines 
+élémentaires qui entrent dans la <i>formation</i> des
+composés ; les unes sont des mots qui peuvent également paroître dans le discours sous la figure simple
+&amp; sous la figure composée, c&#39;est-à-dire seuls ou joints
+à un autre mot : telles sont les racines élémentaires
+des mots <i>magnanimus, respublica, senatusconsultum</i>,
+qui sont <i>magnus</i> &amp; <i>animus, res</i> &amp; <i>publica, senatus</i> &amp;
+<i>consultum:</i> les autres sont absolument inusitées hors
+de la composition, quoiqu&#39;anciennement elles ayent
+pû être employées comme mots simples : telles sont
+<i>jux</i> &amp; <i>jugium, ses</i> &amp; <i>sidium, ex</i> &amp; <i>igium, plex</i> &amp; <i>plicium, spex</i> &amp; <i>spicium, stes</i> &amp; <i>stitium</i>, que l&#39;on trouve
+dans les mots <i>conjux, conjugium ; praeses, proesidium ;
+remex, remigium ; supplex, supplicium ; extispex,
+frontispicium ; antistes, solstitium</i>.
+</p>
+<p>
+Il faut observer, 3°. qu&#39;il y a quantité de mots réellement 
+composés, qui au premier aspect peuvent paroître 
+simples, à cause de ces racines élémentaires
+inusitées hors de la composition ; quelque sagacité &amp;
+un peu d&#39;attention suffisent pour en faire démêler l&#39;origine : tels sont les mots <i>judex, justus, justitia, juvenis,
+trinitas, oeternitas ;</i> &amp; une infinité d&#39;autres. <i>Judex</i>
+renferme dans sa composition les deux racines <i>jus</i> &amp;
+<i>dex:</i> cette derniere se trouve employée hors de la
+composition dans Cicéron ; <i>dicis gratiâ</i>, par maniere
+de dire : <i>judex</i> signifie donc <i>jus dicens</i>, ou <i>qui jus dicit ;</i> &amp; c&#39;est effectivement l&#39;idée que nous avons de
+celui qui rend la justice : ce qui prouve, pour le dire
+en passant, que la définition de nom, comme parlent
+les Logiciens, differe assez peu, quand elle est exacte,
+de la définition de chose. Il en est de même de la
+définition étymologique de <i>justus</i> &amp; de <i>justitia:</i> le
+premier signifie <i>in jure stans</i>, &amp; le second, <i>in jure
+constantia ;</i> expressions conformes à l&#39;idée que nous
+avons de l&#39;homme juste &amp; de la justice.
+</p>
+<p>
+Quant à <i>juvenis</i>, il paroît signifier <i>juvando ennis ;</i>
+&amp; cet <i>ennis</i> est un adjectif employé dans <i>bi-ennis, tirennis</i>, &amp;c. pour signifier <i>qui a des années : perennis</i> paroît 
+n&#39;en être que le superlatif, tant par sa forme que
+par sa signification : ainsi <i>juvenis</i> veut dire <i>juvando
+ennis</i>, qui a assez d&#39;années pour aider ; cela est d&#39;autant 
+plus probable, que <i>juvenis</i> est effectivement relatif 
+au nombre des années ; &amp; que tout homme parvenu 
+à cet âge, est dans l&#39;obligation réelle de mériter 
+par ses propres services les secours qu&#39;il tire de la
+société. Au reste la suppression d&#39;une <i>n</i> dans <i>juvenis</i>
+ne le tire pas plus de l&#39;analogie, que le changement
+de cette lettre en <i>m</i> n&#39;en tire le mot de <i>solemnis</i>, qui
+semble être formé de <i>solitò ennis</i>, &amp; signifie <i>solitus
+quot annis, qui fieri solet quot annis ;</i> &amp; de fait, dans
+plusieurs bréviaires on trouve le mot d&#39;<i>annuel</i> pour
+celui de <i>solemnel</i>, dans la qualification des fêtes.
+</p>
+<p>
+Les mots <i>trinitas</i> &amp; <i>oeternitas</i> sont également composés : <i>trinitas</i> n&#39;est autre chose que <i>trium unitas ;</i> expression 
+fidele de la foi de l&#39;Eglise catholique sur la
+nature de Dieu ; <i>trinus &amp; unus ; trinus in personis,
+unus in substantia</i>. Pour ce qui est du mot <i>oeternitas</i>,
+il signifie <i>avi-trinitas</i>, ou <i>avi triplicis unitas</i>, la trinité 
+du tems qui réunit &amp; embrasse tout à la fois le present,
+le passé, &amp; le futur.
+</p>
+<p>
+Il faut observer, 4°. que la composition &amp; la dérivation 
+concourent souvent à la <i>formation</i> d&#39;un meme 
+mot ; ensorte que l&#39;on trouve des primitifs simples 
+&amp; des primitifs composés, comme des dérivés
+simples &amp; des dérivés composés. <i>Capio</i> est un primitif 
+simple ; <i>particeps</i> est un primitif compose ; <i>capax</i>
+est un dérivé simple ; <i>participare</i> est un dérivé composé. <gap type="hyphenpb" />
+<pb n="7:175" facs="V7/ENC_7-175.jpeg" />
+<milestone unit="column" n="1" />
+Les uns &amp; les autres sont également susceptibles 
+des formes de la dérivation philosophique &amp; de
+la dérivation grammaticale : <i>capio, capis, capit ;
+particeps, participis, participi ; capax, capacis, capaci ;
+participo, participas, participat</i>.
+</p>
+<p>
+Il faut observer, 5°. que les primitifs n&#39;ont pas tous
+le même nombre de dérivés, parce que toutes les
+idées primitives ne sont pas également susceptibles
+du même nombre d&#39;idées modificatives ; on que l&#39;usage 
+n&#39;a pas établi le même nombre d&#39;inflexions pour
+les exprimer. D&#39;ailleurs un même mot peut être primitif 
+sous un point de vûe, &amp; dérivé sous un autre:
+ainsi <i>amabo</i> est primitif relativement à <i>amabilis, amabilitas</i>, &amp; il est dérivé d&#39;<i>amo:</i> de même <i>affectare</i> est
+primitif relativement à <i>affectatio, assectator</i>, &amp; il est
+dérivé du supin, qui en est le générateur immédiat.
+Ainsi un même primitif peut avoir sous lui differens
+ordres de dérivés, tirés immédiatement d&#39;autant de
+primitifs subalternes &amp; dérivés eux-mêmes de ce
+premier.
+</p>
+<p>
+Il faut observer, 6°. que comme les terminaisons
+introduites par la dérivation grammaticale forment
+ce qu&#39;on appelle <i>déclinaison</i> &amp; <i>conjugaison</i>, on peut
+regarder aussi les terminaisons de la dérivation philosophique 
+comme la matiere d&#39;une sorte de declinaison 
+ou conjugaison philosophique. Ceci est d&#39;autant 
+mieux fondé, que la plûpart des terminaisons
+de cette seconde espece sont soûmises à des lois générales,
+&amp; ont d&#39;ailleurs, dans la même langue ou
+dans d&#39;autres, des racines qui expriment fondamentalement 
+les mêmes idées qu&#39;elles désignent comme
+accessoires dans la dérivation.
+</p>
+<p>
+Nous disons en premier lieu, que <i>ces terminaisons
+sont soûmises à des lois générales</i>, parce que telle terminaison 
+indique invariablement une même idée accessoire,
+telle autre terminaison une autre idée ; de
+maniere que si on connoit bien la destination usuelle
+de toutes ces terminaisons, la connoissance d&#39;une
+seule racine donne sur le champ celle d&#39;un grand
+nombre de mots. Posons d&#39;abord quelques principes
+usuels sur les terminaisons ; &amp; nous en ferons ensuite
+l&#39;application à quelques racines.
+</p>
+<p>
+1°. Les verbes en <i>are</i>, dérivés du supin d&#39;un autre
+verbe, marquent augmentation ou répétition ; ceux
+en <i>essere</i>, ardeur &amp; célérité; ceux en <i>urire</i>, desir vif ;
+ceux en <i>illare</i>, diminution.
+</p>
+<p>
+2°. Dans les noms ou dans les adjectifs dérivés
+des verbes, la terminaison <i>tio</i> indique l&#39;action d&#39;une
+maniere abstraite ; celle <i>entus</i> ou <i>entum</i> en exprime
+le produit ; celle en <i>tor</i> pour le masculin, &amp; en <i>trix</i>
+pour le féminin, désigne une personne qui fait profession 
+ou qui a un état relatif à cette action ; celle en
+<i>ax</i>, une personne qui a un penchant naturel ; celle
+en <i>acitas</i> marque ce penchant même.
+</p>
+<p>
+On pourroit ajoûter un grand nombre d&#39;autres
+principes semblables ; mais ceux-ci sont suffisans pour
+ce que l&#39;on doit se proposer ici : un plus grand detail
+appartient plûtôt à un ouvrage sur les analogies de la
+langue latine, qu&#39;à l&#39;Encyclopédie ; &amp; il est vraissemblable 
+que c&#39;étoit la matiere des livres de César
+sur cet objet.
+</p>
+<p>
+Eprouvons maintenant la fecondité de ces principes.
+Des que l&#39;on sait, par exemple, que <i>canere</i> signifie 
+<i>chanter</i>, on en conclut avec certitude la signification 
+des mots <i>cantare</i>, chanter à pleine voix ;
+<i>cantitare</i>, chanter souvent ; <i>canturire</i>, avoir grande
+envie de chanter ; <i>cantillare</i>, chanter bas &amp; à différentes 
+reprises ; <i>cantio</i>, l&#39;action de chanter ; <i>cantus</i>,
+le chant, l&#39;effet de cette action ; <i>cantor</i> &amp; <i>cantrix</i>, un
+homme ou une femme qui fait profession de chanter,
+un chanteur, une chanteuse ; <i>canax</i>, qui aime à
+chanter.
+</p>
+<p>
+Pareillement, de <i>capere</i>, prendre, on a tiré par
+analogie <i>captare, capessere</i>, faisir ardemment, se hâter<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de prendre ; <i>captio, captus, captatio, captator, captatrix,
+capax, capacitas</i>.
+</p>
+<p>
+De la différente destination des terminaisons d&#39;une
+même racine, naissent les différentes dénominations
+des mots qu&#39;elles constituent : de-là les diminutifs,
+les augmentatifs, les inceptifs, les inchoatifs, les
+fréquentatifs, les desidératifs, <i>&amp;c.</i> selon que l&#39;idée
+primitive est modifiée par quelqu&#39;une des idées accessoires 
+que ces dénominations indiquent.
+</p>
+<p>
+Nous disons en second lieu, que <i>ces terminaisons
+ont dans la même langue, ou dans quelqu&#39;autre, aes racines 
+qui expriment fondamentalement les mêmes id�es,
+qu&#39;elles désignent comme accessoires dans la dérivation ;</i>
+nous allons en faire l&#39;essai sur quelques-unes, où la
+chose sera assez claire pour faire présumer qu&#39;il peut
+en être ainsi des autres dont on ne connoitroit plus
+l&#39;origine.
+</p>
+<p>
+1°. Dans les noms, les terminaisons <i>men</i> &amp; <i>mentum</i> signifient <i>chose, signe sensible</i> par lui-même ou par
+ses effets : l&#39;une &amp; l&#39;autre paroissent venir du verbe
+<i>minere</i> dont Lucrece s&#39;est servi, &amp; qu&#39;on retrouve
+dans la composition des verbe, <i>eminere, im-minere,
+pro-minere</i>, &amp; qui tous renferment la signification
+que nous prêtons ici à <i>men</i> &amp; à <i>mentum ;</i> la voici
+justifiée par l&#39;explication étymologique de quelques
+noms:
+<lg>
+<i>Flumen</i>, (<i>men ou res quoe fluit.</i>)
+<i>Fulmen</i>, (<i>men quod fulget.</i>)
+<i>Lumen</i>, (<i>men quod lucet.</i>)
+<i>Semen</i>, (<i>men quod seritur.</i>)
+<i>Vimen</i>, (<i>men vinciens, quod vincit.</i>)
+<i>Carmen</i>, peigne à carder, (<i>men quod carpit.</i>)
+</lg>
+Il est vraissemblable que les Romains donnerent le
+même nom à leurs poëmes ; parce que les premiers
+qu&#39;ils connurent étoient satyriques &amp; picquans comme 
+les dents du peigne à carder, &amp; avoient une destination 
+analogue, celle de corriger.
+</p>
+<p>
+<lg>
+<i>Armentum</i>, (<i>mentum quod arat</i>, ou <i>arare potest.
+</i>)
+<i>Jumentum</i>, (<i>mentum quod juvat</i>, ou <i>mentum
+jugatorium.</i>)
+<i>Monumentum</i>, (<i>mentum quod monet.</i>)
+<i>Alimentum</i>, (<i>mentum quod alit.</i>)
+<i>Testamentum</i>, (<i>mentum quod testatur.</i>)
+<i>Tormentum</i>, (<i>mentum quod torquet.</i>)
+</lg>
+</p>
+<p>
+La terminaison <i>culum</i> semble venir de <i>colo</i>, j&#39;habite,
+&amp; signifie effectivement une habitation, ou du
+moins un lieu habitable:
+<lg>
+<i>Cubiculum</i>, (<i>cubandi locus.</i>)
+<i>Coenaculum</i>, (<i>coenandi locus.</i>)
+<i>Habitaculum</i>, (<i>habitandi locus.</i>)
+<i>Propugnaculum</i>, (<i>pro-pugnandi locus.</i>)
+</lg>
+</p>
+<p>
+Il faut cependant observer, pour la vérité de ce
+principe, que cette terminaison n&#39;a le sens &amp; l&#39;origine 
+que nous lui donnons ici, que quand elle est
+adaptée à une racine tirée d&#39;un verbe : car si on l&#39;appliquoit 
+à un nom, elle en feroit un simple diminutif ; 
+tels sont les mots <i>corculum, opusculum, corpusculum</i>, &amp;c.
+</p>
+<p>
+2°. Dans les adjectifs, la terminaison <i>undus</i> désigne 
+<i>abondance</i> &amp; <i>pléritude</i>, &amp; vient d&#39;<i>unda</i>, onde,
+symbole d&#39;agitation ; ou du mot <i>undare</i>, d&#39;où <i>abundare, exundare</i>. Ordinairement cette terminaison est
+jointe à une autre racine par l&#39;une des deux lettres
+euphoniques <i>b</i> ou <i>c</i>.
+</p>
+<p>
+<lg>
+<i>Cogita-b-undus</i>, (<i>cogitationibus undans.</i>)
+<i>Furi-b-undus</i>, (<i>furore</i> ou <i>furiis undans.</i>)
+<i>Foe-c-undus</i>, (<i>foetu abundans.</i>)
+<i>Fa-c-undus</i>, (<i>fandi copiâ abundans.</i>)
+</lg>
+</p>
+<p>
+La terminaison <i>stus</i> venue de <i>sto</i>, marque stabilité
+habituelle.
+</p>
+<p>
+<lg>
+<i>Justus</i>, (<i>in jure constans.</i>)
+<pb n="7:176" facs="V7/ENC_7-176.jpeg" />
+<milestone unit="column" n="1" />
+<i>Modestus</i>, (<i>in modo constans.</i>)
+<i>Molestus</i>, (<i>pro mole stans.</i>)
+<i>Moestus</i>, (<i>in moerore constans.</i>)
+<i>Honestus</i>, (<i>in honore constans.</i>)
+<i>Scelestus</i>, (<i>in scelere constans.</i>)
+</lg>
+</p>
+<p>
+3°. Dans les verbes, la terminaison <i>scere</i> ajoûtée
+à quelque radical significatif par lui-même, donne
+les verbes inchoatifs, c&#39;est-à-dire ceux qui marquent
+le commencement de l&#39;acquisition d&#39;une qualité ou
+d&#39;un état ; cette terminaison paroît avoir été prise
+du vieux verbe <i>escere, esco</i>, dont on trouve des traces 
+dans le <i>II. livre des lois de</i> Cicéron, dans Lucrece, &amp; ailleurs. Ce verbe, dans son tems, signifioit ce
+qu&#39;a signifié depuis <i>esse, sum</i>, &amp; a été consacré dans
+la composition à exprimer le commencement d&#39;<i>être</i>.
+Selon ce principe,
+<lg>
+<i>Calesco</i>, je commence à avoir chaud, je m&#39;échauffe,
+équivaut à <i>calidus esco.</i>
+<i>Frigesco</i>, je commence à avoir froid, (<i>frigidus esco.</i>)
+<i>Albesco</i>, (<i>albus esco.</i>)
+<i>Senesco</i>, (<i>senex esco.</i>)
+<i>Duresco</i>, (<i>durus esco.</i>)
+<i>Dormisco</i>, (<i>dormiens esco.</i>)
+<i>Obsolesco</i>, (<i>obsoletus esco.</i>)
+</lg>
+</p>
+<p>
+Une observation qui confirme que le vieux mot <i>escere</i> est la racine de la terminaison de cette espece de
+verbes, c&#39;est que comme ce verbe n&#39;avoit ni prétérit 
+ni supin (<i>voyez l&#39;article</i> <sc><ref target="head:Prétérit" type="search">Prétérit</ref></sc>, où nous en ferons 
+voir la cause), les verbes inchoatifs n&#39;en ont
+pas d&#39;eux-mêmes : ou ils les empruntent du primitif
+d&#39;où ils dérivent, comme <i>ingemisco</i>, qui prend <i>ingemui</i> de <i>ingemo ;</i> ou ils les forment par analogie avec
+ceux qui sont empruntés, comme <i>senesco</i> qui fait <i>senui ;</i> ou enfin ils s&#39;en passent absolument, comme <i>dormisco</i>.
+</p>
+<p>
+Cette petite excursion sur le système des <i>formations</i> latines, suffit pour faire entrevoir l&#39;utilité &amp;
+l&#39;agrément de ce genre d&#39;étude : nous osons avancer
+que rien n&#39;est plus propre à déployer les facultés de
+l&#39;esprit ; à rendre les idées claires &amp; distinctes ; &amp; à
+étendre les vûes de ceux qui voudroient, si on peut
+le dire, étudier l&#39;anatomie comparée des langues, &amp;
+porter leurs regards jusque sur les langues possibles.
+(<i>E. R. M.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

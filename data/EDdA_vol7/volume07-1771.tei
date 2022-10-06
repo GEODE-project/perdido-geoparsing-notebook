@@ -1,0 +1,198 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29225" id="52:60:2" vol="7">
+<index type="head" value="Gayac" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chim. Mat. med." />
+<index type="normclass" value="Chimie | Matière médicale" />
+<index type="englishclass" value="Chemistry | Materia medica" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Gayac</head>
+<p>
+<sc>Gayac</sc>, (<i>Chim. Mat. med.</i>) le <i>gayac</i> ou bois saint,
+<i>lignum sanctum</i>, a été connu en Europe à-peu-près
+dans le même tems que la maladie vénérienne, par le
+secours qu&#39;on en tira contre cette maladie, avant que
+l&#39;on eût trouvé la maniere de la traiter plus efficacement 
+par le mercure. On nous assure que dans les
+pays chauds, dans l&#39;Amérique méridionale, par
+exemple, le <i>gayac</i> est un spécifique aussi éprouvé
+contre la vérole, que le mercure l&#39;est dans nos climats.
+Quoi qu&#39;il en soit, nous ne l&#39;employons que
+dans le traitement des maladies vénérienne ; legeres
+ou particulieres à certains organes, dans celles qui
+sont censées n&#39;avoir point infecté la masse entiere
+des humeurs, ou du-moins n&#39;y avoir répandu qu&#39;une
+petite quantité de virus qui peut être évacué par les
+couloirs de la peau : c&#39;est cette excrétion que le <i>gayac</i>
+détermine particulierement. Ce remede est un sudorifique 
+très-actif ; il fait la base ou le principal ingrédient 
+des remedes sudorifiques composés, que l&#39;on
+employe dans les traitemens de diverses maladies
+chroniques, comme dartres, tumeurs froides, oedèmes,
+fleurs-blanches, rhûmatisme, paralysie, vieux
+ulceres humides &amp; sanieux. <i>Voyez ces articles &amp; l&#39;art</i>.
+<sc><ref target="head:Maladies vénériennes" type="search">Maladies vénériennes</ref></sc>. C&#39;est sous la forme de
+tisanne qu&#39;on le prescrit ordinairement dans ces derniers 
+cas, aussi-bien que dans les maladies venériennes 
+(<i>voyez</i> <sc><ref target="head:Tisanne" type="search">Tisanne</ref></sc>): on l&#39;ordonne ou seul ou mêlé
+avec d&#39;autres sudorifiques, &amp; même avec des purgatifs 
+(<i>voyez</i> <sc><ref target="head:Sudorifique" type="search">Sudorifique</ref> <i>&amp;</i> <ref target="head:Purgatif" type="search">Purgatif</ref></sc>); on le fait
+entrer dans ces tisannes composées, ou dans la décoction 
+simple depuis deux gros jusqu&#39;à demi-once
+par livre d&#39;eau ; &amp; le malade convenablement préparé,
+en prend trois, quatre, ou cinq verres par
+jour.
+</p>
+<p>
+Le bois de <i>gayac</i> est très-résineux, &amp; contient une
+fort petite quantité d&#39;extrait proprement dit. <i>Voyez</i>
+<sc><ref target="head:Extrait" type="search">Extrait</ref> <i>&amp;</i> <ref target="head:Résine" type="search">Résine</ref></sc>. Ceci a fait croire à quelques
+chimistes que l&#39;eau ne pouvoit point se changer des
+parties médicamenteuses de ce corps, &amp; qu&#39;on le
+feroit bouillir en vain dans les menstrues aqueux:
+<milestone unit="column" n="2" />
+cette prétention est démentie par l&#39;expérience ; une
+courte ébullition suffit pour obtenir du <i>gayac</i>, par
+le moyen de l&#39;eau, une substance d&#39;un goût vif &amp;
+piquant, &amp; qui étant retirée par l&#39;évaporation, séchée,
+&amp; pulvérisée, est sternutatoire, selon l&#39;observation 
+d&#39;Hoffmann. <i>Voyez</i> Fr. Hoffmann, <i>observat.
+physico-chimic. l. I. observat. xxj</i>. Selon cet auteur,
+l&#39;extrait de <i>gayac</i> est d&#39;une odeur balsamique &amp; agréable,
+&amp; d&#39;une saveur vive &amp; piquante Il est en petite
+quantité en comparaison de la résine que l&#39;on retire
+du <i>gayac</i> par l&#39;application de l&#39;esprit-de-vin : car le
+<i>gayac</i> fournit plus de deux onces de résine par livre ;
+au lieu qu&#39;il fournit à peine un ou deux gros d&#39;extrait,
+par des décoctions longues &amp; répétées : cela
+n&#39;empêche point que la décoction &amp; l&#39;extrait de
+<i>gayac</i> ne soient des remedes plus actifs que sa résine
+ou sa teinture ; le goût &amp; la vertu sternutatoire de
+l&#39;extrait décident en sa faveur, aussi-bien que l&#39;expérience.
+La résine du <i>gayac</i> est presque insipide, &amp;
+elle n&#39;est point sternutatoire ; elle a passé pourtant
+pour un préservatif contre les maladies vénériennes,
+<i>summum adversus luis venereae virus proesidium alexi-pharmacum</i>, dit Hoffmann dans la dissertation que
+nous venons de citer.
+</p>
+<p>
+On réduit le bois de <i>gayac</i> en rapure, lorsqu&#39;on
+veut en faire la décoction, ou en tirer la teinture.
+</p>
+<p>
+On trouve encore dans les boutiques l&#39;écorce de
+<i>gayac</i>, que quelques-uns assûrent avoir les mêmes
+vertus que le bois, &amp; même de plus grandes ; nous
+nous en servons fort peu, quoique vraissemblablement 
+elle puisse très-bien suppléer au bois.
+</p>
+<p>
+On nous apporte aussi une résine qui découle de
+l&#39;arbre de <i>gayac</i>, &amp; que l&#39;on appelle improprement
+dans les boutiques <i>gomme de gayac ;</i> elle est brune
+en-dehors, quelquefois blanche, tantôt roussâtre &amp;
+tantôt verdâtre en-dedans, d&#39;un goût un peu acre,
+d&#39;une odeur très-agréable quand on la brûle ; elle est
+fort analogue avec celle qu&#39;on tire du <i>gayac</i> par le
+moyen de l&#39;esprit-de-vin.
+</p>
+<p>
+L&#39;extrait de <i>gayac</i> entre dans les pilules de Bécher, &amp; la résine dans la thériaque céleste.
+</p>
+<p>
+Le <i>gayac</i> donne dans la distillation à la violence
+du feu un phlegme insipide, un esprit qui donne des
+marques d&#39;acidité &amp; d&#39;alkalicité, une huile ténue,
+limpide, jaune, qui nage sur l&#39;eau ; une huile noire,
+très-épaisse, plus pesante que l&#39;eau ; une grande quantité 
+d&#39;air, &amp; une quantité considérable d&#39;un charbon
+dur &amp; sonnant. Nous ne ferons point ici des observations 
+sur cette analyse, parce que c&#39;est celle-là même
+que nous choisirons au <i>mot</i> <sc>Végétal</sc>, pour exemple 
+de l&#39;analyse des bois durs. <i>Voyez</i> <sc><ref target="head:Végétal" type="search">Végétal</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

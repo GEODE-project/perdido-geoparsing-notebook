@@ -1,0 +1,231 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28388" id="50:146:2" vol="7">
+<index type="head" value="Friser les Etoffes de Laine" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>Friser les Etoffes de Laine</head>
+<p>
+<sc>* Friser les Etoffes de Laine</sc> ; cette opération 
+s&#39;exécute par le moyen d&#39;une machine.
+</p>
+<p>
+Cette machine sert à velouter en quelque sorte
+les étoffes de laine, dont elle cache le défaut, en formant 
+dessus une espece de grain, uniformément répandu 
+sur toute sa surface : on <i>y frise</i> cependant des
+bonnes étoffes ; mais pour l&#39;ordinaire, celles qui
+sont mauvaises ou médiocres, sont soûmises à cette
+préparation, pour pouvoir les vendre avec plus d&#39;avantage.
+</p>
+<p>
+L&#39;étoffe frisée est-elle bonne pour garantir du froid
+ou de la pluie? On pense qu&#39;elle n&#39;est bonne ni pour
+l&#39;une ni pour l&#39;autre chose.
+</p>
+<p>
+Si on veut la faire valoir pour se garantir du froid,
+il seroit nécessaire de mettre la frisure en-dedans &amp;
+non en-dehors. Si on veut se garantir de la pluie, le
+poil relevé n&#39;en Jaisse pas perdre une goutte. Quelle
+est donc son utilité? Le goût bisarre des hommes les a
+déterminés à saisir avidement cette invention dont
+tout le mérite ne consiste que dans la nouveauté.
+</p>
+<p>
+La machine à <i>friser</i> est composée d&#39;une grande cage 
+de plusieurs pieces de bois de charpente. <i>Voyez
+nos <ref target="XPL:5161" type="platelink">Planches de Draperie</ref></i>. Sa longueur est telle, que
+les draps les plus larges peuvent y passer librement:
+deux tables, dont l&#39;une est mobile &amp; l&#39;autre dormante,
+sont tout le secret de cette invention : la table
+immobile est un fort madrier de bois de chêne d&#39;environ 
+six pouces d&#39;épaisseur, fortement assemblé avec
+des sommiers qui traversent les faces latérales.
+</p>
+<p>
+La table mobile est une forte planche de bois de
+chêne d&#39;environ deux pouces d&#39;épaisseur, enduite
+par-dessous d&#39;une couche de ciment d&#39;asphalte d&#39;un
+demi-pouce d&#39;épaisseur, dans lequel on a mêlé des
+cailloux pilés &amp; non pulvérisés ; il faut seulement
+qu&#39;ils soient réduits à la grosseur de la graine de chenevis.
+On dresse la face du ciment qui doit porter sur
+l&#39;étoffe, en frottant la table ainsi chargée sur une
+grande piece bien droite, sur laquelle on a répandu
+du grès en poudre, de même que l&#39;on dégrossit les
+glaces. <i>Voyez à l&#39;art</i>. <sc><ref target="head:Verrerie" type="search">Verrerie</ref></sc>, <i>le travail des glaces</i>.
+</p>
+<p>
+Cette table s&#39;applique sur l&#39;étoffe que l&#39;on a posée
+sur la premiere, contre laquelle on la fait presser au
+moyen de plusieurs étrésillons <i>a a a</i>, qui portent par
+leurs extrémités supérieures contre une planche <i>b b</i>,
+&amp; par leurs extrémités inférieures sur la table mobile
+<i>DD</i>. La planche <i>b b</i>, contre laquelle les bâtons ou
+étrésillons <i>a a a</i> portent par leur partie supérieure,
+porte elle-même contre trois planches <i>c d, c d, c d</i>,
+cloüées à la partie inférieure du chassis qui sert de
+couronnement à la machine ; ensorte que les deux tables 
+sont comprimées l&#39;une contre l&#39;autre par la force 
+élastique des planches <i>c d</i>. On serre plus ou moins
+les tables l&#39;une contre l&#39;autre, en introduisant des
+calles entre le pié des étrésillons &amp; la table mobile.
+</p>
+<p>
+Pour faire mouvoir cette table, il y a un arbre <i>A
+B</i>, auquel le mouvement est communiqué, au moyen
+de la lanterne <i>E</i>, par un manége ou une roue à l&#39;eau.
+Aux extrémités de cet arbre, qui est horisontal,
+sont deux roues à couronne, garnies d&#39;un nombre
+d&#39;aluchons convenable pour faire tourner promptement<gap type="hyphenpb" />
+<pb n="7:310" facs="V7/ENC_7-310.jpeg" />
+<milestone unit="column" n="1" />
+les deux lanternes <i>G G</i> ; une de ces roues est en-dedans 
+de la cage, &amp; l&#39;autre en-dehors ; &amp; leurs aluchons 
+regardent du même côté, pour faire tourner
+les deux lanternes du même sens : ces deux lanternes,
+aussi-bien que les roues qui les conduisent, doivent 
+avoir exactement les mêmes nombres. La tige
+de ces lanternes traverse par sa partie supérieure les
+sommiers qui soûtiennent la table immobile. La partie 
+inférieure de la tige, qui est faite en pivot, entre
+dans une crapaudine de cuivre ajustée sur un sommier,
+placé parallelement &amp; à une distance convenable,
+au-dessous de celui qui soûtient la table. Plus
+bas est encore un autre sommier soûtenu par deux
+tasseaux, qui reçoit sur des coussinets les tourillons
+du grand arbre <i>AB</i>. La partie supérieure de la tige
+des lanternes <i>GG</i>, après avoir traversé la table immobile,
+est un peu coudée, comme on peut voir en
+<i>X</i>, dans la partie qui traverse la table mobile ; ensorte 
+que le centre de ce tourillon décrit un cercle autour 
+de l&#39;axe vrai de la lanterne ; ce qui fait décrire
+à chaque point de la table un semblable cercle : ces
+cercles peuvent avoir environ quatre lignes de diametre.
+Par ce moyen ingénieux, chaque pointe de
+caillou dont la table est parsemée, accroche plusieurs
+poils de l&#39;étoffe qui doit avoir été chardonnée avant
+d&#39;être mise à la frise, &amp; en forme une petite houppe ; 
+ce qui est ce qu&#39;on se propose de faire : par cette 
+méchanique, ces houppes sont d&#39;autant plus également parsemées sur l&#39;étoffe, que la table mobile l&#39;est
+de petites pointes de cailloux.
+</p>
+<p>
+Pour retirer l&#39;étoffe d&#39;entre les tables où elle est
+fortement serrée par les étresillons, on a un arbre cylindrique 
+<i>MN</i>, placé à la partie moyenne &amp; antérieure 
+de la machine, qui est revêtu de vieilles cordes,
+dont on resserre seulement les basannes armées
+de leurs pointes ; on les attache sur la surface du rouleau,
+comme elles étoient sur le fût de la carde, observant 
+que la pointe des crocs regarde la partie vers
+laquelle elles marchent : le mouvement est communiqué 
+à cet arbre par le moyen d&#39;une ou plusieurs
+roues qui sont menées par une lanterne fixée à l&#39;extrémité 
+de l&#39;arbre <i>AB</i>, à l&#39;autre extrémité duquel est
+un volant <i>LLLL</i>, dont l&#39;usage est d&#39;entretenir le
+mouvement &amp; son égalité dans la machine. <i>Voyez</i>
+<sc><ref target="head:Volant" type="search">Volant</ref></sc>.
+</p>
+<p>
+Du rapport des dents des roues <i>IK</i>, &amp; des lanternes 
+<i>OP</i>, dépend la vîtesse du rouleau <i>MN</i>, qui tire 
+à chaque révolution une longueur d&#39;étoffe égale à
+sa circonférence, par le moyen des pointes dont il
+est armé, qui accrochent l&#39;étoffe par son envers, &amp;
+l&#39;amenent insensiblement toute entiere. L&#39;étoffe est
+guidée à l&#39;entrée &amp; à la sortie d&#39;entre les tables, par
+deux bâtons très-polis <i>H h</i>. Le bâton <i>h</i> est celui qui
+conduit l&#39;étoffe entre les tables, à mesure qu&#39;elle s&#39;avance 
+pour être frisée, &amp; l&#39;autre bâton <i>H</i> la guide,
+après qu&#39;elle a été préparée ; ensorte qu&#39;elle entre &amp;
+qu&#39;elle sort presque horisontalement.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

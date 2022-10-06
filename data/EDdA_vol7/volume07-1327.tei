@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28781" id="51:93" vol="7">
+<index type="head" value="GAILLARDS ou CHATEAUX" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mar." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m.pl." />
+<head>GAILLARDS ou CHATEAUX</head>
+<p>
+GAILLARDS <i>ou</i> CHATEAUX, s. m. pl. (<i>Mar.</i>)
+ce sont des étages ou des ponts qui ne s&#39;etendent
+point de toute la longueur du vaisseau, mais qui se
+terminent à une certaine distance de l&#39;étrave &amp; de
+l&#39;étambot. Les <i>gaillards</i> d&#39;avant &amp; derriere sont placés 
+sur le pont le plus élevé, &amp; la dunette est au-dessus 
+du <i>gaillard</i> d&#39;arriere. L&#39;étendue des <i>gaillards</i> &amp;
+dunette varie suivant la grandeur des vaisseaux. On
+communique du <i>gaillard</i> d&#39;arriere au <i>gaillard</i> d&#39;avant
+par une espece de couroir qu&#39;on établit basbord &amp;
+stribord, &amp; qu&#39;on appelle le <i>passe-avant</i>. Voyez,
+<i><ref target="XPL:5203" type="platelink">Planche I</ref>. de Marine</i>, le dessein du vaisseau, le <i>gaillard</i> d&#39;arriere coté <i>HH</i>, &amp; le <i>gaillard</i> d&#39;avant coté
+<i>L.</i> (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

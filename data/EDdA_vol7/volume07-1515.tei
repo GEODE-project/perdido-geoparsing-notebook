@@ -1,0 +1,159 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28969" id="51:227" vol="7">
+<index type="head" value="GARANT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist." />
+<index type="normclass" value="Histoire" />
+<index type="englishclass" value="History" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="adject" />
+<head>GARANT</head>
+<p>
+GARANT, adj. pris subst. (<i>Hist.</i>) est celui qui se
+rend responsable de quelque chose envers quelqu&#39;un,
+&amp; qui est obligé de l&#39;en faire joüir. Le mot <i>garant</i>
+vient du celte &amp; du tudesque <i>warrant</i>. Nous avons
+changé en <i>g</i> tous les doubles <i>v</i>, des termes que nous
+avons conservés de ces anciens langages. <i>Warant</i>
+signifie encore chez la plûpart des nations du nord,
+<i>assûrance, garantie ;</i> &amp; c&#39;est en ce sens qu&#39;il veut dire
+en anglois <i>édit du roi</i>, comme signifiant <i>promesse du
+roi</i>. Lorsque dans le moyen âge les rois faisoient des
+traités, ils étoient <i>garantis</i> de part &amp; d&#39;autre par plusieurs 
+chevaliers, qui juroient de faire observer le
+traité, &amp; même qui le signoient, lorsque par hasard
+ils savoient écrire. Quand l&#39;empereur Frédéric Barberousse
+céda tant de droits au pape Alexandre III.
+dans le célebre congrès de Venise en 1177, l&#39;empereur 
+mit son sceau à l&#39;instrument, que le pape &amp; les
+cardinaux signerent. Douze princes de l&#39;Empire <i>garantirent</i> le traité par un serment sur l&#39;évangile ; mais
+aucun d&#39;eux ne signa. Il n&#39;est point dit que le doge de
+Venise <i>garantit</i> cette paix qui se fit dans son palais.
+</p>
+<p>
+Lorsque Philippe-Auguste conclut la paix en 1200
+avec Jean roi d&#39;Angleterre, les principaux barons
+de France &amp; ceux de Normandie en jurerent l&#39;observation 
+comme cautions, comme parties <i>garantes</i>.
+<pb n="7:480" facs="V7/ENC_7-480.jpeg" />
+<milestone unit="column" n="1" />
+Les François firent serment de combattre le roi de
+France s&#39;il manquoit à sa parole, &amp; les Normands
+de combattre leur souverain s&#39;il ne tenoit pas la sienne.
+</p>
+<p>
+Un connétable de Montmorenci ayant traité avec
+un comte de la Marche en 1227, pendant la minorité 
+de Louis IX. jura l&#39;observation du traité sur l&#39;ame 
+du roi.
+</p>
+<p>
+L&#39;usage de <i>garantir</i> les états d&#39;un tiers, étoit très ancien,
+sous un nom different. Les Romains <i>garantirent</i> ainsi les possessions de plusieurs princes d&#39;Asie
+&amp; d&#39;Afrique, en les prenant sous leur protection,
+en attendant qu&#39;ils s&#39;emparassent des terres protégées.
+</p>
+<p>
+On doit regarder comme une <i>garantie</i> réciproque,
+l&#39;alliance ancienne de la France &amp; de la Castille de
+roi à roi, de royaume à royaume, &amp; d&#39;homme à
+homme.
+</p>
+<p>
+On ne voit guere de traité où la <i>garantie</i> des états
+d&#39;un tiers soit expressément stipulée, avant celui que
+la médiation de Henri IV: fit conclure entre l&#39;Espagne &amp; les Etats-Généraux en 1609. Il obtint que le
+roi d&#39;Espagne Philippe III. reconnût les Provinces-Unies pour libres &amp; souveraines ; il signa, &amp; fit même 
+signer au roi d&#39;Espagne la <i>garantie</i> de cette souveraineté 
+des sept provinces, &amp; la république reconnut 
+qu&#39;elle lui devoit sa liberté. C&#39;est sur-tout
+dans nos derniers tems que les traités de <i>garantie</i> ont
+été plus fréquens. Malheureusement ces <i>garanties</i> ont
+quelquefois produit des ruptures &amp; des guerres ; &amp;
+on a reconnu que la force est le meilleur <i>garant</i> qu&#39;on
+puisse avoir. <i>Article de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

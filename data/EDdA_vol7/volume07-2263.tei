@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29717" id="53:174" vol="7">
+<index type="head" value="GLOSSOCOME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="instrument de Chirurgie " />
+<index type="normclass" value="Instrument de chirurgie" />
+<index type="englishclass" value="Surgical Instrument" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>GLOSSOCOME</head>
+<p>
+GLOSSOCOME, s. m. <foreign lang="greek">γλωσσόκομον</foreign>, <i>instrument de
+Chirurgie</i> dont on se servoit autrefois pour réduire les
+fractures &amp; les luxations des cuisses &amp; des jambes,
+pour faire en même tems l&#39;extension &amp; la contre-extension.
+<i>Voyez</i> <sc><ref target="head:Fracture" type="search">Fracture</ref> <i>&amp;</i> <ref target="head:Luxation" type="search">Luxation</ref></sc>.
+</p>
+<p>
+Ce mot est grec, &amp; vient de <foreign lang="greek">γλῶσσα</foreign>, <i>langue</i>, &amp;
+de <foreign lang="greek">κομεῖν</foreign>, <i>avoir soin ;</i> les anciens donnoient ce nom
+à un petit coffre dans lequel ils mettoient les langues 
+des hautbois pour les conserver.
+</p>
+<p>
+Cette machine consiste en un coffre où l&#39;on étend
+la jambe ou la cuisse, au bas duquel il y a un tour,
+&amp; à côté vers le haut deux poulies, une de chaque
+côté: on attache des courroies à plusieurs chefs au-dessus,
+&amp; au-dessous de l&#39;endroit où est la fracture,
+les courroies d&#39;en bas sont attachées à l&#39;essieu dont
+elles sont près ; celles d&#39;en-haut après avoir passé
+par les poulies reviennent à l&#39;essieu auquel elles sont
+aussi attachées ; de sorte que par le même mouvement 
+en faisant agir le tour, on tiroit en-haut la partie 
+de la jambe avec la cuisse qui est au-dessus de
+la fracture, &amp; en-bas la partie qui est au-dessous.
+<i>Voyez</i> la <i>figure</i> dans Ambroise Paré. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

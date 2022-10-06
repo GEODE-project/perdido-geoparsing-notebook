@@ -1,0 +1,146 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29573" id="53:77:3" vol="7">
+<index type="head" value="Gingembre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. med." />
+<index type="normclass" value="Matière médicale" />
+<index type="englishclass" value="Materia medica" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="NA" />
+<head>Gingembre</head>
+<p>
+<sc>Gingembre</sc>, (<i>Mat. med.</i>) on connoît sous ce nom
+dans les boutiques une racine d&#39;un goût acre, brûlant,
+d&#39;une odeur forte assez agréable ; on estime
+celle qui est récente, blanche ou pâle &amp; odorante ;
+on rejette celle qui est rongée des vers, qui est pleine 
+de poussiere, &amp; dont la superficie a été couverte
+de bol ou de craie, pour remplir les trous que les vers
+ont faits ; car elle y est fort sujette. Geoffroi, <i>Mat. med</i>. On nous l&#39;apporte dans deux états, séchée, &amp;
+confite avec le sucre.
+</p>
+<p>
+Le <i>gingembre</i> séché entre dans les poudres des plus
+anciens antidotes ; tels que la thériaque, le mithridate,
+le diascordium, dans les confections cordiales,
+stomachiques, &amp; même purgatives, &amp; dans tous
+les anciens électuaires purgatifs : il est employé dans
+ces derniers comme un puissant correctif des purgatifs,
+selon l&#39;idée des anciens. <i>Voyez</i> <sc><ref target="head:Correctif" type="search">Correctif</ref></sc>.
+</p>
+<p>
+On fait entrer aussi quelquefois le <i>gingembre</i> en
+poudre dans diverses préparations magistrales, telles
+que les opiates &amp; les bols stomachiques, cordiaux,
+&amp; sur-tout dans les remedes déstinés à exciter l&#39;appétit 
+vénérien &amp; l&#39;aptitude à le satisfaire ; il est très renommé 
+pour cette derniere qualité, &amp; les effets
+qu&#39;on lui attribue sur ce point sont très-réels : on le
+prescrit quelquefois aussi à titre de carminatif : c&#39;est
+un puissant tonique &amp; un véritable échauffant. <i>Voy.</i>
+<sc><ref target="head:Échauffant" type="search">Échauffant</ref> <i>&amp;</i> <ref target="head:Tonique" type="search">Tonique</ref></sc>. C&#39;est pourquoi il faut
+bien se garder d&#39;en permettre l&#39;usage à ceux qui ont
+les solides tendus &amp; irritables, ou qui sont sujets à
+des hémorrhagies : on pourroit le donner seul en
+substance depuis dix jusqu&#39;à vingt grains dans les relâchemens <gap type="hyphenpb" />
+<pb n="7:664" facs="V7/ENC_7-664.jpeg" />
+<milestone unit="column" n="1" />
+extrèmes de l&#39;estomac ; mais on le donne
+très-rarement ainsi, à cause de sa grande acreté.
+</p>
+<p>
+On use beaucoup plus fréquemment dans les prescriptions 
+magistrales, du <i>gingembre</i> confit ; celui-ci est
+beaucoup plus doux, mais il est encore assez actif
+pour réveiller doucement le jeu de l&#39;estomac, exciter 
+l&#39;appétit, faciliter la digestion, donner des forces,
+&amp; ce que les Medecins appellent pudiquement de la
+<i>magnanimité</i>, si on en mange plusieurs morceaux
+dans la journée : au reste, cette confiture est très agréable ; 
+&amp; on la sert assez communément sur nos
+tables. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

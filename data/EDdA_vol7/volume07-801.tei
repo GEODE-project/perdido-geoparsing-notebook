@@ -1,0 +1,232 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28255" id="50:73:1" vol="7">
+<index type="head" value="Fraternité d&#39;Armes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Fraternité dArmes</head>
+<p>
+<sc>Fraternité dArmes</sc>, (<i>Hist. mod.</i>) association
+entre deux chevaliers pour quelque haute entreprise 
+qui devoit avoir un terme fixe, ou même pour toutes 
+celles qu&#39;ils pourroient jamais faire ; ils se juroient
+d&#39;en partager également les travaux &amp; la gloire, les
+dangers, &amp; le profit, &amp; de ne se point abandonner
+tant qu&#39;ils auroient besoin l&#39;un de l&#39;autre. L&#39;estime,
+la confiance mutuelle de gens qui s&#39;étoient souvent
+trouvés ensemble aux mêmes expéditions, donnerent
+la naissance à ces engagemens ; &amp; ceux qui les prenoient 
+devenoient freres, compagnons d&#39;armes.
+<i>Voyez</i> <sc><ref target="head:Frere d&#39;Armes" type="search">Frere d&#39;Armes</ref></sc>.
+</p>
+<p>
+Ces associations se contractoient quelquefois pour
+la vie ; mais elles se bornoient le plus souvent à des
+expéditions passageres, comme une entreprise d&#39;armes,
+telle que fut celle de Saintré, une guerre, une
+bataille, un siége, ou quelque autre expédition militaire.
+</p>
+<p>
+L&#39;usage de la <i>fraternité d&#39;armes</i> dont il s&#39;agit ici,
+est fort ancien. Nous lisons dans Joinville, que l&#39;empereur 
+de Constantinople &amp; le roi des Commains,
+s&#39;allierent &amp; devinrent freres ; &amp; pour rendre cette
+alliance plus solide,
+<blockquote> 
+« il faillit qu&#39;ils, &amp; chacuns de
+leurs gens de part &amp; d&#39;autre, se fissent saigner, &amp;
+que de leur sang ils donnassent à boire l&#39;un à l&#39;autre,
+en signe de <i>fraternité ;</i> &amp; ainsi se convint faire
+entre nos gens &amp; les gens d&#39;icelui roi, &amp; mêlerent
+de leur sang avec du vin, &amp; en buvoient l&#39;un à
+l&#39;autre, &amp; disoient qu&#39;ils étoient freres l&#39;un à l&#39;autre 
+d&#39;un sang.....».
+</blockquote>
+</p>
+<p>
+Si nous remontons à des siecles plus reculés, nous
+apprendrons l&#39;antiquité de cette pratique. Octavius
+faisant le portrait des vices &amp; des crimes des dieux
+que Cécilius adoroit, dit de l&#39;inhumanité de Jupiter
+convaincu d&#39;homicide:
+<blockquote> 
+« Je crois que c&#39;est lui qui a
+appris à Catilina de confirmer les conjurés dans leur
+dessein, en buvant le sang les uns des autres ».
+</blockquote>
+</p>
+<p>
+Il resta long-tems parmi les hommes des traces de
+cette barbarie ; car Ducange cite des exemples de
+chevaliers, qui pour symbole de <i>fraternité</i>, se firent
+saigner ensemble, &amp; mêlerent leur sang. Si cette derniere 
+pratique paroît à-peu-près aussi folle &amp; aussi
+barbare que la premiere, du moins rien n&#39;étoit plus
+éloigné de la barbarie que le sentiment qui l&#39;inspiroit.
+</p>
+<p>
+Le Christianisme s&#39;étant répandu dans le monde,
+on l&#39;employa pour rendre les <i>fraternités</i> plus solennelles 
+&amp; plus respectables ; &amp; en conséquence, on
+<milestone unit="column" n="2" />
+les contracta à la face des autels. C&#39;est ainsi que quelques 
+freres d&#39;armes imprimoient à leurs sermens les
+plus sacrés caracteres de la religion : pour s&#39;unir plus
+étroitement, ils baisoient ensemble la paix que l&#39;on
+présente aux fideles dans les cérémonies de la messe.
+Nous avons même des exemples de la <i>fraternité-d&#39;armes</i> autorisée par la réception de l&#39;hostie consacrée:
+ce fut de cette maniere, au rapport de Jean Juvénal
+des Ursins, que les ducs d&#39;Orléans &amp; de Bourgogne
+lierent une <i>fraternité</i>, qui pourtant ne dura pas longtems:
+<blockquote> 
+« ils oüirent tous la messe ; reçurent le corps
+de N. S. &amp; préalablement jurerent bon amour, &amp;
+<i>fraternité</i> par-ensemble ».
+</blockquote>
+</p>
+<p>
+Mais on observoit rarement des cérémonies aussi
+graves dans ces sortes d&#39;associations ; on les contractoit 
+d&#39;ordinaire, les uns par le don réciproque de
+quelques armes, les autres par le simple attouchement
+d&#39;une arme, comme d&#39;une épée ou d&#39;une lance, sur laquelle 
+on se juroit une alliance perpétuelle ; &amp; ceux
+qui faisoient ces sermens s&#39;appelloient <i>fratres jurati</i>.
+</p>
+<p>
+Monstrelet nous apprend que le roi d&#39;Arragon se
+fit frere-d&#39;armes du duc de Bourgogne par un simple
+traité. Les princes formoient dans l&#39;éloignement leur
+contrat de <i>fraternité-d&#39;armes</i>, par des traités authentiques,
+suivant l&#39;usage des tems. Ce fut par un acte
+semblable que le duc de Bretagne &amp; le comte de Charolois devinrent freres-d&#39;armes l&#39;un de l&#39;autre. M.
+Ducange, dans sa <i>dissertation sur Joinville</i>, a rapporté 
+le traité de <i>fraternité-d&#39;armes</i> entre Bertrand du
+Guesclin &amp; Olivier de la Marche, &amp; celui que Louis
+XI. &amp; Charles dernier duc de Bourgogne firent ensemble.
+</p>
+<p>
+On vit, à la vérité, le duc de Bourgogne violer
+les sermens de sa <i>fraternité-d&#39;armes</i> avec le duc d&#39;Orléans ; mais c&#39;est un exemple très-rare, auquel on
+peut opposer celui du duc de Bretagne, long-tems
+ennemi irréconciliable du connétable Clisson. La
+haine de ce duc fit place aux sentimens de la <i>fraternité</i>, lorsqu&#39;il fut devenu frere-d&#39;armes du connétable.
+Jamais amitié ne fut plus sincere que celle
+qui regna depuis entr&#39;eux, jusqu&#39;à la mort du duc de
+Bretagne : Clisson la lui continua encore après sa
+mort dans la personne de ses enfans ; il fut toûjours
+leur pere.
+</p>
+<p>
+Au reste, les <i>fraternités</i> militaires donnoient à des
+seigneurs particuliers le moyen de faire des entreprises 
+dignes des souverains. Lorsque la guerre ne les
+retenoit pas au service de leur monarque, ils s&#39;associoient 
+pour aller purger une province de brigands
+qui l&#39;infestoient ; pour délivrer des nations éloignées
+du joug des infideles ; pour venger un prince opprimé,
+&amp; déthroner un usurpateur. Enfin, comme lés
+meilleures choses dégénerent, il arriva que les <i>fraternités-d&#39;armes</i> rendirent un grand nombre de seigneurs 
+indépendans, &amp; quelquefois rébelles.
+</p>
+<p>
+Il arriva pareillement de-là, que les <i>fraternités-d&#39;armes</i> contractées par des sujets ou des alliés de nos
+rois, firent naître des soupçons sur la fidélité de ceux
+qui avoient pris ces engagemens. Le roi de France,
+en 1370, témoigna son mécontentement de la conduite 
+d&#39;Ostrenant son allié, qui avoit accepté l&#39;ordre
+de la Jarretiere ; &amp; l&#39;on ne fut pas moins scandalise
+de voir le due d&#39;Orléans se lier en 1399 par une <i>fraternité-d&#39;armes</i> &amp; d&#39;alliance avec le duc de Lancastre,
+qui peu après déthrona Richard, roi d&#39;Angleterre,
+gendre du roi Charles VI. Le crédit que donnoient
+ces sortes de sociétés étoit en effet d&#39;une conséquence 
+dangereuse pour le repos de l&#39;état : on sait comment 
+elles finirent dans ce royaume. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

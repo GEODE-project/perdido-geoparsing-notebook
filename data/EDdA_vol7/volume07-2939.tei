@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30393" id="55:39" vol="7">
+<index type="head" value="GRIEFS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m.pl." />
+<head>GRIEFS</head>
+<p>
+GRIEFS, s. m. pl. (<i>Jurisprud.</i>) signifie <i>tort, préjudice</i> qu&#39;un jugement fait à quelqu&#39;un.
+</p>
+<p>
+On entend aussi singulierement par <i>griefs</i>, les différens 
+chefs d&#39;appel que l&#39;on propose contre une sentence 
+rendue en procès par écrit ; on distingue le
+premier, le second <i>grief</i> &amp;c.
+</p>
+<p>
+On appelle aussi <i>griefs</i> les écritures qui contiennent 
+les causes &amp; moyens d&#39;appel dans un procès
+par écrit ; au lieu que sur une appellation verbale
+appointée au conseil, ces mêmes écritures s&#39;appellent 
+<i>causes &amp; moyens d&#39;appel</i>.
+</p>
+<p>
+Les <i>griefs</i> sont quelquefois intitulés, <i>hors le procès</i>,
+parce que c&#39;est une piece qui ne fait pas partie du
+procès par écrit : mais cette qualification ne convient 
+proprement que quand il y a déjà des <i>griefs</i> qui
+font partie du procès, comme cela arrive quand il y
+a déjà eu appel devant un premier juge, &amp; reglé
+comme procès par écrit, où l&#39;on a fourni des <i>griefs</i>.
+Lorsqu&#39;il y a encore appel devant le juge supérieur,
+les <i>griefs</i> que l&#39;on fournit devant lui sont hors le procès ; 
+à la différence des <i>griefs</i> qui ont été fournis devant<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les premiers juges, lesquels font partie du procès.
+</p>
+<p>
+L&#39;appellant en procès par écrit fournit donc ses
+<i>griefs</i>, &amp; l&#39;intimé ses réponses à <i>griefs</i>, auxquelles
+l&#39;appellant peut répliquer par des écritures qu&#39;on appelle 
+<i>salvations de griefs</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,170 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30096" id="54:40" vol="7">
+<index type="head" value="GRAIS, ou GRÈS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Mineralogie." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history. Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GRAIS, ou GRÈS</head>
+<p>
+GRAIS, <i>ou</i> GRÈS, s. m. en latin <i>cos, saxum arenarium,
+saxum sabulosum</i>, (<i>Hist. nat. Mineralogie.</i>)
+c&#39;est ainsi qu&#39;on nomme une pierre très-connue formée 
+par l&#39;assemblage de petits grains de sable qui sont
+joints les uns aux autres par un <i>gluten</i> ou lien qui
+nous est inconnu. Les particules de sable qui composent 
+le <i>grais</i> sont plus ou moins grandes, cependant 
+l&#39;oeil peut presque toûjours les appercevoir &amp;
+les distinguer. Il se trouve soit en masses ou roches
+informes, soit par couches dont l&#39;épaisseur est quelquefois<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+considérable ; il varie pour la consistence &amp;
+pour la liaison de ses parties : quand il est solide, il
+fait feu avec le briquet, mais ordinairement il se met
+très-aisément en grains.
+</p>
+<p>
+Wallerius compte huit especes de <i>grais</i>, mais elles 
+ne different réellement que par la finesse des parties 
+dont il est composé.
+</p>
+<p>
+1°. La premiere espece est le <i>grais</i> ou pierre à aiguiser,
+<i>cos turcica</i>, ainsi nommée par l&#39;usage qu&#39;on en
+sait ; ses parties sont très-fines : on le frotte d&#39;huile
+quand on veut s&#39;en servir pour repasser les rasoirs,
+les couteaux, &amp; autres instrumens tranchans.
+</p>
+<p>
+2°. Le <i>grais</i> dont on fait les pierres de remouleurs
+dont le grain est assez fin ; il est ou gris ou blanc, ou
+rougeâtre ou jaunâtre.
+</p>
+<p>
+3°. Le <i>grais</i> d&#39;un tissu lâche, au-travers duquel
+l&#39;eau peut se filtrer, qu&#39;on appelle communément
+<i>pierre a filtrer</i>.
+</p>
+<p>
+4°. Le <i>grais</i> poreux qui paroît comme vermoulu ;
+il donne aussi passage à l&#39;eau, comme le précédent.
+</p>
+<p>
+5°. Le <i>grais</i> à bâtir ; c&#39;est celui dont on se sert pour
+bâtir en plusieurs endroits : il est mêlé d&#39;argille, &amp;
+varie pour la dureté &amp; la finesse de ses parties. Le
+<i>grais</i> de Suede, qu&#39;on nomme <i>pierre de Gothie</i>, affecte 
+une figure cubique ; la même chose arrive au
+<i>grais</i> dont on se sert pour le pavé à Paris.
+</p>
+<p>
+6°. Le <i>grais</i> grossier ou ordinaire, qui est ou blanc
+ou gris ou jaunâtre : ses parties sont grossieres &amp; inégales.
+</p>
+<p>
+7°. Le <i>grais</i> feuilleté; il varie pour la finesse &amp; la
+grossiereté de ses parties.
+</p>
+<p>
+8°. Le <i>grais</i> mélangé, dont les parties qui le composent 
+sont des petites pierres de différentes especes.
+</p>
+<p>
+En général on entend par <i>grais</i> des pierres composées 
+de sable, de quelque nature qu&#39;il soit : c&#39;est
+de cette pierre qu&#39;on se sert pour paver les rues de
+Paris, &amp; il n&#39;en est point de plus propre à cet usage:
+il s&#39;en trouve une grande quantité dans les environs
+de Fontainebleau, qui vient ici par la riviere de Seine.
+Quelques-uns de ces <i>grais</i> sont assez peu compactes,
+&amp; on les brise très-aisément au marteau pour en
+faire du sablon qui sert à nettoyer la vaisselle ; d&#39;autres 
+sont d&#39;une dureté très-considérable, &amp; ne se divisent 
+qu&#39;avec beaucoup de peine. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

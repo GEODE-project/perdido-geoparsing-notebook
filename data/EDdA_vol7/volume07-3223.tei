@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30677" id="55:233:4" vol="7">
+<index type="head" value="Guide" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Lutherie" />
+<index type="pos" value="NA" />
+<head>Guide</head>
+<p>
+<sc>Guide</sc>, c&#39;est dans le sommier de l&#39;orgue une regle 
+ou barre de bois, <i>m</i> (<i><ref target="XPL:5496" type="platelink">fig. 5</ref>, 7 &amp; 9.</i>) collée &amp;
+cloüée sur la partie intérieure du dessous de la laie.
+Cette barre est traversée par des traits de scie <i>m m m</i>
+(<i><ref target="XPL:5497" type="platelink">fig. 7</ref>.</i>) paralleles &amp; directement placés vis-à-vis
+ceux des soupapes qu&#39;ils doivent regarder. Ces traits
+de scie du <i>guide</i> &amp; ceux des soupapes, servent à loger 
+les ressorts <i>f g e</i> (<i><ref target="XPL:5498" type="platelink">fig. 6</ref> &amp; 9, <ref target="XPL:5499" type="platelink">Pl. d&#39;Orgue</ref>.</i>) qui
+renvoyent les soupapes contre le sommier. <i>Voyez</i>
+<sc><ref target="head:Ressorts" type="search">Ressorts</ref> <i>&amp;</i> <ref target="head:Sommier" type="search">Sommier</ref></sc>.
+</p>
+<p>
+<i>Guide</i>, c&#39;est aussi dans le sommier la suite des pointes 
+<i>cccc</i> (<i><ref target="XPL:5500" type="platelink">fig. 4</ref>.</i>) entre lesquelles les soupapes se
+meuvent.
+</p>
+<p>
+<i>Guide</i>, c&#39;est pour les pilotes la planche <i>DD</i> (<i><ref target="XPL:5501" type="platelink">fig.
+20</ref> &amp; 22.</i>) percée de trous, au-travers desquels les
+pilotes passent : la partie <i>DE</i> de la pilote qui entre 
+dans le trou du <i>guide</i>, doit être plus menue que
+l&#39;autre partie <i>DC</i> (<i><ref target="XPL:5502" type="platelink">fig. 22</ref>.</i>) qui doit ne point pouvoir 
+y passer.
+</p>
+<p>
+<i>Guide de clavier</i>, c&#39;est la suite de pointes <i>EF</i>, (<i><ref target="XPL:5503" type="platelink">fig.
+15</ref>.</i>) entre-deux desquelles les touches se meuvent,
+&amp; les pointes <i>b b b</i> (<i><ref target="XPL:5504" type="platelink">fig. 18</ref>.</i>) qui guident les touches
+du clavier de pédale. <i>Voyez</i> 
+<sc><ref target="head:Clavier" type="search">Clavier</ref> <i>&amp;</i> <ref target="head:Clavier de pédale" type="search">Clavier de pédale</ref></sc>.
+</p>
+<p>
+<i>Guide</i>, c&#39;est pour les bascules brisées &amp; les bascules 
+du positif, des rangées de pointes en tout semblables 
+à celles du <i>guide</i> des claviers, mais d&#39;une
+<milestone unit="column" n="2" />
+grandeur &amp; grosseur proportionnées à l&#39;étendue
+des mouvemens qu&#39;elles doivent conduire. <i>Voyez les
+articles</i> 
+<sc><ref target="head:Bascules brisées," type="search">Bascules brisées,</ref> <i>&amp;</i> <ref target="head:Bascules du Positif" type="search">Bascules du Positif</ref></sc>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29414" id="52:167:11" vol="7">
+<index type="head" value="Gentilshommes servans" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Hist. de France." />
+<index type="normclass" value="Histoire de France" />
+<index type="englishclass" value="History of France" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Gentilshommes servans</head>
+<p>
+<sc>Gentilshommes servans</sc>, (<i>Hist. de France.</i>)
+Ces gentilshommes, fixés au nombre de trente-six,
+font journellement à la table du Roi les fonctions que
+font aux grandes cérémonies le grand-pannetier de
+France, représenté par douze de ces gentilshommes ;
+le grand-échanson &amp; le grand-écuyer-tranchant,
+représentés aussi chacun par douze de ces <i>gentilshommes servans:</i> cependant ils sont indépendans de
+de ces trois grands-officiers ; car lorsqu&#39;il arrive à
+ces grands-officiers d&#39;exercer leurs charges, comme
+à la cene, les <i>gentilshommes servans</i> servent conjointement 
+avec eux, &amp; font alternativement leurs fonctions 
+ordinaires : il y en a neuf par quartier, trois
+de chaque espece.
+</p>
+<p>
+Ils sont nommés <i>gentilshommes servans le Roi</i>, parce
+qu&#39;ils ne servent que Sa Majesté, les têtes couronnées,
+ou les princes du sang &amp; les souverains, quand
+le Roi les traite, le premier maître d&#39;hôtel ou les
+maîtres d&#39;hôtel de quartier y servant alors avec le
+bâton de cérémonie.
+</p>
+<p>
+Le jour de la cene ils servent conjointement avec
+les fils de France, les princes du sang &amp; les seigneurs
+de la cour, qui présentent au Roi les plats que Sa
+Majesté sert aux treize enfans de la cene. Ils ont rang
+aux grandes cérémonies ; ils servent toûjours l&#39;épée
+au côté, &amp; ont séance immédiatement après les
+maîtres d&#39;hôtel. Ils prêtent serment de fidélité au
+Roi entre les mains du grand-maître, ainsi que les
+douze maîtres-d&#39;hôtel. <i>Etat de la France</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

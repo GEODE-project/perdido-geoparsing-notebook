@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29716" id="53:173" vol="7">
+<index type="head" value="GLOSSOCATOCHE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="instrum. de Chirurgie" />
+<index type="normclass" value="Instrument de chirurgie" />
+<index type="englishclass" value="Surgical Instrument" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>GLOSSOCATOCHE</head>
+<p>
+GLOSSOCATOCHE, s. m. <i>instrum. de Chirurgie</i>,
+espece de <i>speculum oris ;</i> c&#39;est une pincette dont on
+se sert pour abaisser la langue, &amp; la coller, pour
+ainsi dire, contre les parties inférieures de la bouche 
+&amp; du gosier, afin de découvrir jusque dans son
+fond les maladies qui peuvent y survenir, y appliquer 
+les remedes, &amp; y pouvoir opérer. Des deux
+branches antérieures de cet instrument, celle qui se
+met dans la bouche est une espece de palette alongée,
+mince, polie, arrondie par son extrémité, inclinée 
+pour s&#39;accommoder à la pente de la langue,
+&amp; longue d&#39;environ quatre pouces sur dix lignes de
+large. L&#39;autre branche qui s&#39;applique sous le menton 
+est faite en fourchette plate ou en forme de fer
+à cheval : les fourchons sont éloignés l&#39;un de l&#39;autre 
+d&#39;environ quinze lignes ; ils ont un pouce &amp; demi 
+de long, &amp; se terminent par un bouton aussi applati 
+&amp; en forme de mamelon.
+</p>
+<p>
+Le corps de cet instrument est l&#39;endroit de l&#39;union
+des deux branches qui se fait par jonction passée,
+ainsi l&#39;une de ces branches est mâle &amp; l&#39;autre femelle.
+</p>
+<p>
+Les extrémités postérieures de ces branches doivent 
+être un peu applaties, legerement convexes
+du côté du dehors &amp; planes en-dedans ; leur longueur 
+est d&#39;environ cinq pouces &amp; demi. <i>Voyez la
+<ref target="XPL:5336" type="platelink">fig. 1</ref>. <ref target="XPL:5337" type="platelink">Planche XXIII</ref>. de Chirurgie</i>.
+</p>
+<p>
+<i>Glossocatoche</i> est un mot dérivé du grec <foreign lang="greek">γλωσσοκάτοχος</foreign>, formé de <foreign lang="greek">γλῶσσα</foreign>, <i>lingua</i>, langue, &amp; de <foreign lang="greek">κατέσχω</foreign> <i>detineo</i>, j&#39;arrête, je retiens (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

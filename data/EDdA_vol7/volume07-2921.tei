@@ -1,0 +1,139 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30375" id="55:27" vol="7">
+<index type="head" value="GRENIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econom. rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Economie rustique" />
+<index type="pos" value="s.m." />
+<head>GRENIER</head>
+<p>
+* GRENIER, s. m. (<i>Econom. rustiq.</i>) Il y ade <i>grenier</i> à blé, &amp; c&#39;est celui où l&#39;on serre le grain ou le blé
+après qu&#39;il est battu ; il y a le <i>grenier</i> à foin, c&#39;est celui 
+où l&#39;on serre le foin. Le <i>grenier</i> est aussi le réceptacle 
+de beaucoup d&#39;autres provisions, sur-tout de celles 
+qui veulent être gardées seches, de même que la
+cave est le réceptacle de celles qui ne craignent point
+l&#39;humidité, ou qui la demandent. Les caves sont les
+lieux les plus bas des maisons, &amp; les <i>greniers</i> en sont
+les lieux les plus hauts : le <i>grenier</i> est immédiatement
+sous la couverture.
+</p>
+<p>
+On conseille de donner aux <i>greniers</i> l&#39;exposition
+du nord, autant que le terrein &amp; le bâtiment peuvent 
+le permettre, parce que cette exposition est la
+plus froide ou la plus tempérée dans les chaleurs.
+</p>
+<p>
+On a observé que les meilleurs <i>greniers</i> sont bâtis
+de brique, dans laquelle on ajuste en-dedans des soliveaux 
+pour y cloüer des planches dont les côtés intérieurs 
+du mur doivent être revêtus de maniere que
+la brique soit assez exactement bouchée pour que la
+vermine ne puisse s&#39;y cacher. On peut y pratiquer
+plusieurs étages les uns sur les autres, qui n&#39;ayent
+que fort peu d&#39;élévation, parce que plus le ble est
+couché bas, moins on a de peine à le remuer.
+</p>
+<p>
+Quelques-uns ont pratiqué deux <i>greniers</i> l&#39;un sur
+l&#39;autre, &amp; ont rempli de blé celui d&#39;en-haut, en faisant 
+un petit trou au milieu du plancher pour faire
+tomber le grain dans celui d&#39;en-bas, comme le sable
+tombe dans une sabliere : quand tout le blé se trouve
+dans le <i>grenier</i> d&#39;en-bas, on le reporte dans celui d&#39;en-haut,
+&amp; par ce moyen on donne au blé un mouvement 
+perpétuel qui le garantit de la corruption.
+</p>
+<p>
+On empêche le blé de s&#39;échauffer, en faisant partout 
+des trous quarrés dans les murs du <i>grenier</i>, &amp;
+en y faisant passer des tuyaux de bois pour donner
+du jour &amp; de l&#39;air.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

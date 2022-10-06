@@ -1,0 +1,111 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28707" id="51:66" vol="7">
+<index type="head" value="GADES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GADES</head>
+<p>
+GADES, (<i>Géog. anc.</i>) Les <i>Gades</i> étoient deux petites 
+îles de l&#39;Océan sur la côte d&#39;Espagne, piès du
+détroit de Gibraltar &amp; de l&#39;embouchure du fleuve
+Guadalquivir ou <i>Boetis:</i> elles n&#39;étoient éloignées l&#39;une
+de l&#39;autre que de six vingt pas : la plus petite avoit des
+pâturages si gras, que Strabon dit que l&#39;on ne pouvoit 
+faire de fromage du lait des animaux qu&#39;on y
+nourrissoit, à-moins qu&#39;on n&#39;y mêlat de l&#39;eau pour
+le détremper : maintenant ces deux îles n&#39;en font
+plus qu&#39;une, qui est Cadix ; mais quand il s&#39;agit de
+l&#39;antiquité, il faut toûjours conserver le mot de <i>Gades:</i> car ces deux îles étoient habitées par une colonie 
+de Phéniciens, qui y avoient un temple très célebre 
+consacré à Hercule : ils l&#39;avoient nommé
+<i>Gadir</i>, c&#39;est-à-dire <i>forteresse, lieu muni</i>, de <i>gader</i>, en
+latin <i>septum</i>, enceinte de murailles. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

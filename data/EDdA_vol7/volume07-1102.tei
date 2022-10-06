@@ -1,0 +1,136 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28556" id="50:233:5" vol="7">
+<index type="head" value="Funérailles des Arabes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Funérailles</head>
+<p>
+<sc>Funérailles</sc> <i>des Arabes</i>. Des que quelqu&#39;un a rendu 
+les derniers soupirs chez les Arabes, on lave le
+corps avec décence : on le coud dans un morceau de
+toile s&#39;il s&#39;en trouve dans la maison, ou dans quelques
+guenilles s&#39;il est pauvre ; on le met sur un brancard
+composé de deux morceaux de bois avec quelques
+traverses d&#39;osier, &amp; quatre ou six hommes le portent
+où il doit être enterré. Comme ces peuples changent
+souvent de camp, ils n&#39;ont point de cimetieres fixes. Ils
+choisissent toûjours un lieu élevé &amp; écarté du camp ;
+ils y font une fosse profonde, où ils mettent le corps
+la tête du côté de l&#39;orient, le couvrent de terre, &amp;
+mettent dessus de grosses pierres, afin d&#39;empêcher
+les bêtes sauvages de venir le déterrer &amp; le dévorer.
+Ceux qui portent le corps à la sépulture &amp; ceux qui
+l&#39;accompagnent, chantent des prieres pour le défunt
+&amp; des loüanges à Dieu.
+</p>
+<p>
+Dans ces occasions les hommes ne pleurent point,
+ce qu&#39;on regarde comme une preuve de leur courage 
+&amp; de leur fermeté. Mais en récompense les femmes 
+s&#39;acquittent très-bien de cette fonction. Les parentes 
+du défunt crient, s&#39;égratignent le visage &amp; les
+bras, s&#39;arrachent les cheveux, &amp; ne sont couvertes
+que d&#39;un vêtement déchiré, avec un voile bleu &amp;
+sale ; toutes marques de douleur extraordinaire,
+vraie ou apparente.
+</p>
+<p>
+Les cérémonies des <i>funérailles</i> qui ne sont pas longues 
+étant achevées, on revient au camp. Tous ceux
+qui y ont assisté trouvent un repas préparé, &amp; mangent 
+dans une tente ; les femmes dans une autre. Les
+hommes à leur ordinaire gardent la gravité, les femmes 
+essuient leurs larmes ; les uns &amp; les autres se
+consolent ; on fait à la famille des complimens de
+condoléance qui sont fort courts, puisqu&#39;ils ne consistent 
+qu&#39;en ces deux mots, <i>kalherna aandek</i>, c&#39;est-à-dire <i>je prends part à votre affliction:</i> &amp; en ces deux
+autres, <i>selamet erask</i>, qui signifient <i>Dieu conserve votre 
+tête</i>. Après quoi les parens du défunt font le partage 
+de ses biens entre ses enfans. <i>Mém.</i> du chevalier
+d&#39;Arvieux, <i>tom. III</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

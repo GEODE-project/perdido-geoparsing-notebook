@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30476" id="55:93" vol="7">
+<index type="head" value="GRONINGUE, (la Seigneurie de)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GRONINGUE</head>
+<p>
+GRONINGUE, (<sc>la Seigneurie de</sc>) <i>Groningerland</i>, (<i>Géog.</i>) l&#39;une des sept Provinces-Unies,
+bornée à l&#39;est par l&#39;Oost-Frise, à l&#39;oüest par la Frise,
+au nord par la mer d&#39;Allemagne, au sud par l&#39;Overissel &amp; le comté de Benthem qui est de la Westphalie. La province de <i>Groningue</i> n&#39;est guere fertile qu&#39;en
+très-gras pâturages où l&#39;on nourrit quantité de gros
+chevaux.
+</p>
+<p>
+Cette province est distribuée en deux corps différens ; 
+les habitans de la ville de <i>Groningue</i> en composent 
+un, &amp; ceux du plat-pays qu&#39;on appelle les
+<i>Ommelandes</i>, forment l&#39;autre ; ce sont ces deux corps
+assemblés par leurs députés, aux états de la provin.
+<pb n="7:952" facs="V7/ENC_7-952.jpeg" />
+<milestone unit="column" n="1" />
+ce, qui en constituent la souveraineté: la moitié des
+députés est nommée par la ville, &amp; l&#39;autre moitié
+par les Ommelandes. Il semble en gros que le gouvernement 
+de cette province a quelque conformité à ce
+lui de l&#39;ancienne Rome, du-moins autant qu&#39;il est
+permis de comparer le petit au grand. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

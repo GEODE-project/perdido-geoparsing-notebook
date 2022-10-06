@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28912" id="51:182" vol="7">
+<index type="head" value="GALUPSE ou ACONS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Riviere" />
+<index type="normclass" value="Terme de riviere" />
+<index type="englishclass" value="River term" />
+<index type="generatedclass" value="Pêche" />
+<index type="pos" value="NA" />
+<head>GALUPSE ou ACONS</head>
+<p>
+* GALUPSE <i>ou</i> ACONS, <i>terme de Riviere</i>, sorte
+de bateau en usage sur la côte de Bretagne.
+</p>
+<p>
+Les <i>galupses</i> dont on se sert sur les eaux de tous
+les étangs qui bordent cette côte, sont de petits bateaux 
+que l&#39;on peut réduire à l&#39;espece des <i>acons ;</i> ils
+sont plats par-dessous, comme les semelles dont se
+servent la plûpart des bâtimens hollandois ; quarrés
+par l&#39;arriere, pointus à l&#39;avant, faits de planches ;
+d&#39;environ quatre piés de large sur sept à huit de
+long, &amp; au plus vingt-deux pouces à deux piés de
+haut : deux seules planches en font tout le bordage,
+&amp; ils n&#39;ont que deux hommes d&#39;équipage dans la
+pêche. Celui qui gouverne avec la rame, est placé à
+l&#39;arriere ; &amp; celui qui tend le filet, à l&#39;avant.
+</p>
+<p>
+Le bachet est un diminutif de la <i>galupse</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

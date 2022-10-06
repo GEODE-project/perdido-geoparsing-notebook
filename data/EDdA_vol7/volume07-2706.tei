@@ -1,0 +1,189 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30160" id="54:70:7" vol="7">
+<index type="head" value="Gras-Fondure" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchal." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>Gras-Fondure</head>
+<p>
+<sc>Gras-Fondure</sc>, s. f. <i>adipis fusio</i>, (<i>Manége &amp;
+Maréchal.</i>) maladie. Le nom qu&#39;on lui a donné designant 
+précisément ce qu&#39;elle n&#39;est pas, on ne sauroit 
+former des doutes sur l&#39;ignorance de ceux de
+qui elle l&#39;a reçu.
+</p>
+<p>
+Un travail forcé, un repos excessif l&#39;occasionnent,
+<pb n="7:861" facs="V7/ENC_7-861.jpeg" />
+<milestone unit="column" n="1" />
+Le dégoût, l&#39;agitation, l&#39;inquiétude, l&#39;action de l&#39;animal 
+qui se couche, se releve, &amp; regarde sans cesse
+son flanc, &amp; le battement plus ou moins violent de
+cette partie, en sont des signes fréquens, mais équivoques. Celui qui lui appartient essentiellement résulte 
+de la présence d&#39;une matiere visqueuse, épaisse
+&amp; blanchâtre, qui se trouve mêlée avec les excrémens,
+&amp; qui, sous la forme d&#39;une espece de toile,
+en enveloppe &amp; en coeffe, pour ainsi dire, les parties 
+marronnées. C&#39;est ce symptome univoque qui en
+a grossierement imposé, lorsque l&#39;on s&#39;est persuadé
+que cette humeur muqueuse &amp; cette prétendue membrane 
+ne sont autre chose que la graisse fondue, comme 
+si le tube intestinal en étoit intérieurement &amp;
+considérablement garni, &amp; comme si, du tissu cellulaire 
+du péritoine dans lequel elle est répandue,
+elle pouvoit en se fondant se frayer une route dans
+ce canal, &amp; être dès-lors &amp; par ce moyen évacuée
+avec la fiente.
+</p>
+<p>
+Quiconque envisagera la maladie dont il s&#39;agit
+sous l&#39;aspect d&#39;une affection inflammatoire du basventre,
+&amp; spécialement du mésentere &amp; des intestins,
+concevra une juste idée de son génie &amp; de son
+caractere. En effet si l&#39;on suppose, ensuite d&#39;un exercice 
+outré &amp; de l&#39;extrème accélération du mouvement 
+circulaire, une phlogose fixée plus particulierement,
+&amp; à raison de certaines dispositions, sur les
+parties de l&#39;abdomen : ou, si l&#39;on imagine, ensuite
+d&#39;un repos trop long &amp; conséquemment à la stase
+des humeurs, un engorgement dans le tissu vasculeux 
+de ces mêmes parties, nécessairement enflammées,
+dès que leurs fibres nerveuses tiraillées, ou
+dès que les humeurs stagnantes ayant acquis un degré 
+d&#39;acrimonie susciteront des oscillations plus fréquentes 
+&amp; plus fortes, &amp; donneront lieu à une effervescence ; 
+tous les signes qui caractérisent la <i>gras-fondure</i>, ne présenteront rien qui ait droit de surprendre ; 
+&amp; l&#39;on verra sans peine comment le mucus,
+toûjours abondant dans les intestins qu&#39;il lubréfie,
+&amp; qui d&#39;ailleurs est de la nature des sucs albumineux 
+que la chaleur durcit, peut, dans un lieu que
+la main même du maréchal trouve brûlant, être
+parvenu au point de consistance qu&#39;il a acquis, lorsqu&#39;il est entraîné avec les crotins qu&#39;il recouvre.
+</p>
+<p>
+La phlogose qui se manifeste violemment dans la
+région abdominale est-elle universelle? la <i>gras-fondure</i> sera jointe à la courbature, ou à quelque autre
+maladie aiguë. Les engorgemens qui ont lieu dans le
+tissu vasculeux dont j&#39;ai parlé, sont-ils accompagnés
+de celui des vaisseaux lymphatiques des parties membraneuses 
+qui enveloppent les articulations? il y aura 
+fourbure &amp; <i>gras-fondure</i> en même tems. L&#39;inflammation enfin est-elle très-legere &amp; bornée seulement
+aux intestins? les desordres qu&#39;elle suscitera seront
+à peine sensibles.
+</p>
+<p>
+Du reste c&#39;est une erreur née de la fausse idée que
+l&#39;on s&#39;est formée de cette maladie, de croire que les
+chevaux chargés de graisse soient les seuls qui puissent 
+y être exposés ; la masse des humeurs contenant
+en eux, il est vrai, une grande quantité de parties
+sulphureuses, est très-susceptible d&#39;alkalisation &amp;
+d&#39;explosion ; mais d&#39;une autre part, la force &amp; la rigidité 
+des solides dans les chevaux maigres ne les y
+rend pas moins sujets.
+</p>
+<p>
+Lorsque la <i>gras-fondure</i> est simple, il est rare que
+les suites en soient funestes. Elle est aussi plus ou
+moins dangereuse, selon ses diverses complications ;
+elle cede néanmoins, dans tous les cas, à un traitement 
+méthodique, pourvû que les secours qu&#39;elle
+exige ne soient pas tardifs. Ce traitement méthodique 
+consiste uniquement &amp; en général, dans des saignées 
+plus ou moins multipliées, dans l&#39;administration 
+d&#39;un plus ou moins grand nombre de lavemens
+émolliens, &amp; dans le soin de tenir exactement l&#39;animal<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+à un régime, humectant &amp; délayant ; car on doit
+absolument proscrire tous remedes cordiaux &amp; purgatifs,
+capables d&#39;enflammer, d&#39;irriter encore davantage,
+&amp; d&#39;occasionner infailliblement la mort de
+l&#39;animal. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

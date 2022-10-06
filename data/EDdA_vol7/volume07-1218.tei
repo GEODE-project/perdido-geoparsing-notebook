@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28672" id="51:40" vol="7">
+<index type="head" value="GABALA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GABALA</head>
+<p>
+GABALA, (<i>Géog. anc.</i>) Il y a plusieurs villes qui
+dans l&#39;antiquité ont porté le nom de <i>Gabala</i> ou <i>Gabalé</i>.
+</p>
+<p>
+La plus célebre est celle de Syrie, que quelques
+voyageurs modernes nomment <i>Jebilée</i> ou <i>Gébail</i>.
+Lucien appelle cette ville <i>Byblos</i>. Elle a été fameuse
+chez les Payens par le culte d&#39;Adonis. On n&#39;y trouve 
+aujourd&#39;hui rien de remarquable qu&#39;une mosquée,
+où l&#39;on voit le tombeau du sultan Ibrahim, qui
+est en grande vénération parmi les Turcs.
+</p>
+<p>
+Il y avoit une deuxieme <i>Gabala</i> en Syrie, entre
+Laodicée &amp; Paltos.
+</p>
+<p>
+Il y avoit une troisieme <i>Gabala</i> dans la Phénicie,
+qui étoit dans les terres. Voici la position de ces trois
+villes selon Ptolomée.
+<table>
+ 1. <i>Gabala</i> (ou <i>Byblos</i>), <i>lon. 67<sup>d</sup>. 40. lat. 33<sup>d</sup>. 56.</i>
+ 2. <i>Gabala</i> (de Syrie),       <i>68. 20. 34. 56.</i>
+ 3. <i>Gubala</i> (de Phén.),       <i>67. 15. 33. 10.</i>
+</table>
+</p>
+<p>
+Il y avoit une quatrieme <i>Gabala</i> qui étoit une ville
+épiscopale d&#39;Asie dans la Lydie, nommée <i>Gabalona
+civitas</i> dans les actes du concile de Chalcédoine.
+</p>
+<p>
+Enfin les <i>Gabales</i> ou <i>Gabali</i> étoient un peuple des
+Gaules, dont Strabon, Pline, César, &amp; Ptolomée
+parlent. Les anciennes notices des Gaules mettent
+<i>Gabalum</i>, ou <i>civitas Gabalina</i>, ou <i>civitas Gabelluorum</i>, dans la premiere Aquitaine sous la métropole
+de Bourges. Cette ville, selon Catel, étoit à l&#39;en droit
+où est le bourg de Javaux, à quatre lieues de Mende. Pline, en parlant des bons fromages, fait mention 
+de celui de Lezura &amp; de celui du <i>Gabalici pagi</i>,
+c&#39;est-à dire sans doute de celui du mont Losere &amp; du
+Gévaudan où est cette montagne, &amp; dont les fromages 
+ont encore de la réputation, selon le même Catel dans son <i>histoire de Languedoc, liv. II. ch. vij. pag,
+297</i>. Les mémoires de l&#39;académie des Inscriptions
+n&#39;ont point bien éclairci cet article de Géographie.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29086" id="51:235:93" vol="7">
+<index type="head" value="Gardes" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Rubanier." />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>Gardes</head>
+<p>
+<sc>Gardes</sc>, (<i>Rubanier.</i>) ce sont deux bandes de
+fort papier pliées en trois, de la hauteur du peigne,
+&amp; qui servent à le tenir fixe dans le battant ; d&#39;ailleurs 
+ces <i>gardes</i> servent encore à garnir les vuides
+qui resteroient aux deux côtés du peigne, &amp; autravers 
+desquels la navette passeroit sans cette précaution.
+Les <i>gardes</i> ont encore une autre utilité, qui
+est de recevoir la navette quand elle ne travaille
+pas ; il y a des ouvriers curieux &amp; propres qui font
+ces <i>gardes</i> de toile cirée, dont on met le ciré en-dehors : ces <i>gardes</i>, outre la propreté &amp; la durée, ont
+encore l&#39;avantage de tenir les doigts de l&#39;ouvrier
+dans une fraîcheur qui lui est nécessaire sur-tout en
+été.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

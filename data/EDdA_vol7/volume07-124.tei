@@ -1,0 +1,186 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27577" id="48:54:2" vol="7">
+<index type="head" value="Fondant" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Thérapeutique." />
+<index type="normclass" value="Thérapeutique" />
+<index type="englishclass" value="Treatment" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="adject" />
+<head>Fondant</head>
+<p>
+<sc>Fondant</sc>, adj. (<i>Thérapeutique.</i>) terme fort usité
+dans le langage de la théorie moderne, pour exprimer 
+une propriété de certains remedes assez mai determinée, <gap type="hyphenpb" />
+<pb n="7:72" facs="V7/ENC_7-72.jpeg" />
+<milestone unit="column" n="1" />
+comme toutes les vertus altérantes. Celle-ci ressemble assez à la qualité atténuante, incisive,
+apéritive. <i>Voyez</i> 
+<sc><ref target="head:Incisif" type="search">Incisif</ref>, <ref target="head:Apéritif" type="search">Apéritif</ref>, <ref target="head:Atténuant" type="search">Atténuant</ref></sc>
+</p>
+<p>
+Les remedes désignés spécialement par le nom de
+<i>fondant</i>, sont tous des presens de la Chimie ; ce font
+1°. l&#39;un &amp; l&#39;autre alkali fixe ; 2°. plusieurs sels neutres,
+tels que le sel végétal ; le sel de Seignette, le
+sel fixe ammoniac, les sels d&#39;Epsom &amp; de Seidlitz,
+le sel de Glauber, mais principalement le tartre vitriolé 
+&amp; ses diverses especes : savoir le sel polichreste 
+de Glaser, le sel <i>de duobus</i>, &amp; le nitre antimonié,
+3°. Les teintures antimoniales tirées avec les esprits
+ardens ou avec les acides végétaux. <i>Voyez</i> <sc><ref target="head:Antimoine" type="search">Antimoine</ref></sc>. Le fameux <i>fondant</i> de Rotrou est de l&#39;antimoine 
+diaphorétique non lavé, &amp; qui a été préparé 
+avec l&#39;antimoine crud ou entier. 4°. Plusieurs préparations 
+mercurielles : savoir le mercure sublimé
+doux, la panacée, le précipité blanc, le précipité
+jaune, l&#39;aethiops minéral, &amp; même le mercure coulant.
+5°. Enfin le savon ordinaire.
+</p>
+<p>
+On peut grossir cette liste de <i>fondans</i> en ajoûtant
+aux remedes chimiques que nous venons de nommer,
+l&#39;aloës &amp; les gommes résines qui sont des produits 
+naturels.
+</p>
+<p>
+Tous ces remedes donnés en dose convenable,
+sont des purgatifs ; mais quand les Medecins les employ 
+ent à titre de <i>fondans</i>, c&#39;est toûjours en une dose 
+trop foible pour qu&#39;ils puissent produire une purgation 
+pleine &amp; entiere. Cependant on estime leur
+action, même dans ce cas, par des legeres évacuations qu&#39;ils ne manquent pas de procurer ordinairement.
+Un gros de sel de Glauber ou un demi-gros de
+tartre vitriolé pris le matin dans un bouillon, procure 
+communément une ou deux selles dans la matinée.
+La dose moyenne de mercure doux ou de panacée,
+une pilule aloétique <i>fondante</i>, vingt gouttes
+de teinture des scories succinées de Sthal, <i>&amp;c.</i> produisent 
+le même effet dans le plus grand nombre de
+sujets.
+</p>
+<p>
+On pourroit peut-être déduire de ces évacuations
+l&#39;action médicinale des <i>fondans ;</i> cette théorie paroitroit 
+très-raisonnable à ceux qui pensent que toute
+action médicamenteuse véritablement curative, se
+borne à exciter des évacuations, &amp; qui ne croyent
+point à la plûpart des altératious prétendues procurées 
+au corps même des humeurs par des remedes.
+Mais ce sentiment, tout plausible qu&#39;il pourra paroître 
+à quelques medecins, n&#39;est pas celui du grand
+nombre.
+</p>
+<p>
+Selon la théorie régnante, les <i>fondans</i> agissent sur
+la substance même des humeurs, les divisent, les brisent,
+les mettent dans une sonte réelle.
+</p>
+<p>
+On ordonne les <i>fondans</i> contre le prétendu épaississement des humeurs, leur disposition aux concrétions,
+aux hérences ; que cette disposition le trouve
+ou non dans les sujets attaqués des maladies suivantes,
+les <i>fondans</i> sont toûjours leur véritable remede.
+Leur bon effet est constaté par l&#39;observation
+toûjours supérieure aux lumieres théoriques, &amp; peut-être
+suffisante sans elles.
+</p>
+<p>
+Les maladies dont nous voulons parler, sont le
+obstructions proprement dites des glandes &amp; des vis
+ceres, les tumeurs écroüelleuses &amp; vénériennes, les
+concrétions &amp; les dépôts laiteux ; certaines hydropisies 
+&amp; bouffissures des parties extérieures ; certaines 
+suppressions de regles, <i>&amp;c. Voyez les articles
+particuliers de ces maladies</i>.
+</p>
+<p>
+Les <i>fondans</i> sont contre indiqués dans tous les cas
+où les humeurs sont censées en dissolution ou en fonte ; 
+tous ces cas sont compris dans l&#39;extension qu&#39;on
+donne aujourd&#39;hui à la classe des affections scorbutiques.
+<i>Voyez</i> <sc><ref target="head:Scorbut" type="search">Scorbut</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

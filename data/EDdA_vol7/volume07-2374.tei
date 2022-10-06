@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29828" id="53:251" vol="7">
+<index type="head" value="GONDOLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GONDOLE</head>
+<p>
+GONDOLE, s. f. (<i>Marine.</i>)
+<blockquote> 
+« c&#39;est une petite barque 
+plate &amp; longue, qui ne va qu&#39;avec des rames.
+L&#39;usage en est particulier sur les canaux de Venise.
+La figure &amp; la legereté des <i>gondoles</i>, est tout-à-fait
+extraordinaire. Les moyennes ont trente-deux piés
+de long, &amp; n&#39;ont que quatre piés de large dans le
+milieu, finissant insensiblement par les deux bouts
+en une pointe très-aiguë, qui s&#39;éleve toute droite
+<milestone unit="column" n="2" />
+de la hauteur d&#39;un homme. On met sur la proue un
+fer d&#39;une grandeur extraordinaire ; il n&#39;a pas un
+demi-travers de doigt d&#39;épais, sur plus de quatre
+doigts de large, posé sur le tranchant ; mais la partie 
+supérieure de ce fer plus applatie que le reste,
+avance un long &amp; large cou en forme d&#39;une grande
+hache de plus d&#39;un pié de face ; de sorte que fendant
+l&#39;air comme en menaçant, à cause du mouvement
+de la <i>gondole</i>, il semble qu&#39;il va couper tout ce qui s&#39;opposeroit »
+</blockquote>
+à son passage. <i>Dictionn. de Mar</i>. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

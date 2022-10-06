@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28917" id="51:186" vol="7">
+<index type="head" value="GAMBIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GAMBIE</head>
+<p>
+GAMBIE, (<i>Géog.</i>) petit royaume d&#39;Afrique dans
+la Nigritie, fertile en bétail, gibier, grains, &amp; éléphans.
+</p>
+<p>
+La riviere de <i>Gambie</i> se jette dans la mer entre le
+cap Sainte-Marie au sud, &amp; l&#39;ile aux Oiseaux au
+nord ; &amp; quand on est plus avancé, entre la pointe
+de Barre au nord, &amp; la pointe de Bagnon au sud.
+Le milieu de son embouchure est par les <i>13<sup>d</sup> 20&#39;
+de lat.</i> septentrionale.
+</p>
+<p>
+Il faut toûjours avoir la sonde à la main dès qu&#39;on
+est entré dans cette riviere, &amp; observer de se tenir
+toûjours plus près des bancs du nord que de ceux du
+sud ; cependant les Portugais, les François &amp; les
+Anglois trasiquent beaucoup sur ce fleuve. Mais ce
+n&#39;est, à proprement parler, que depuis les bouches
+ce <i>Gambie</i> jusqu&#39;au royaume d&#39;Angola inclusivement,
+que les Anglois commercent en Afrique:
+leurs comptoirs, assez bien fortifiés, envoyent à
+Jamesfort du riz, du miel qui est le sorgo des Africains, de l&#39;ivoire, de la cire, &amp; des esclaves très-estimés,
+qui leur viennent en partie des terres dépendantes 
+du Senégal. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

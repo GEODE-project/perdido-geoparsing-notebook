@@ -1,0 +1,143 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30170" id="54:78" vol="7">
+<index type="head" value="GRATICULER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Watelet" />
+<index type="shortauth" value="Watelet" />
+<index type="kafnum" value="137" />
+<index type="kafauth" value="Watelet, Claude-Henri (1718-1786)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Peint" />
+<index type="normclass" value="Peinture" />
+<index type="englishclass" value="Painting" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="v.n." />
+<head>GRATICULER</head>
+<p>
+GRATICULER, v. n. <i>terme de Peint</i>. ce mot nous
+vient de l&#39;italien <i>grata</i>, grille. Il exprime la maniere
+dont ordinairement les artistes transportent une
+composition ou une ordonnance qu&#39;ils veulent suivre 
+d&#39;une surface sur une autre, dans la proportion
+&amp; la grandeur qui leur conviennent. Pour parvenir
+à cette opération, on trace sur son dessein ou sur son
+esquisse, des lignes qui se croisent à angles droits &amp; à
+distances égales, &amp; qui forment ainsi des quarrés
+égaux entre eux. On trace aussi sur la surface sur laquelle 
+on veut copier sa composition, un même nombre 
+de lignes croisées qui y produisent un même
+nombre de quarrés. Alors on dessine dans chaque
+quarré de sa surface ce qui est dessiné dans le quarré 
+correspondant du dessein ou de l&#39;esquisse. Il est
+aisé de comprendre que plus on multiplie les quarrés,
+plus on parvient à copier exactement son original.
+Il faut remarquer aussi que si les quarrés qu&#39;on trace 
+sur la surface sont plus petits ou plus grands que
+les quarrés tracés sur l&#39;esquisse ou le dessein, alors la
+copie qu&#39;on en fait est plus grande ou plus petite:
+c&#39;est par-là qu&#39;on peut établir entre la copie &amp; l&#39;original 
+telle proportion que l&#39;on veut. Si l&#39;on fait les
+<pb n="7:863" facs="V7/ENC_7-863.jpeg" />
+<milestone unit="column" n="1" />
+quarrés destinés à la copie la moitié plus grands que
+ceux qui sont sur l&#39;original, cette copie sera géométriquement 
+moitié plus grande que l&#39;original ; ainsi
+du reste, soit en diminuant soit en augmentant. On
+trace ces quarrés ou avec de la craie ou avec du fusin,
+ou enfin de telle maniere qu&#39;on le veut ; mais il
+faut, autant qu&#39;on le peut, qu&#39;ils se puissent effacer
+aisément lorsqu&#39;on en a fait l&#39;usage auquel ils sont
+destinés. Cette maniere de copier sert aux Graveurs
+qui veulent avoir un dessein exact plus petit ou plus
+grand qu&#39;un tableau qu&#39;ils veulent graver. Elle sert
+aussi aux Peintres qui veulent rapporter en très-grand
+une esquisse d&#39;une grande composition : enfin elle
+est en général assez précise lorsqu&#39;on multiplie les
+quarrés, &amp; d&#39;un grand usage dans tous les arts qui
+ont rapport au Dessein ou à la Peinture. <i>Voyez</i> <sc><ref target="head:Anamorphose" type="search">Anamorphose</ref> <i>&amp;</i> <ref target="head:Craticulaire" type="search">Craticulaire</ref></sc>.
+</p>
+<p>
+Il y a une autre maniere de faire les réductions &amp;
+de copier par le moyen d&#39;un instrument nommé <i>singe</i>, dont on donnera le détail au <i>mot</i> <sc>Singe</sc>: mais l&#39;usage 
+n&#39;en est pas à beaucoup près aussi commun &amp;
+aussi facile. <i>Cet article est de M. <sc>Watelet</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

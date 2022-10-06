@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29874" id="53:280" vol="7">
+<index type="head" value="GORGERET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>GORGERET</head>
+<p>
+GORGERET, s. m. instrument de <i>Chirurgie</i> qui sert
+dans l&#39;opération de la taille, pour introduire les tenettes 
+dans la vessie ; son corps est un canal en forme
+de gouttiere longue de cinq pouces : son commencement 
+ou sa partie la plus large a environ huit lignes
+de diametre &amp; trois lignes &amp; demie de profondeur ;
+il va ensuite en diminuant insensiblement de largeur
+&amp; de profondeur, se terminer par une coupe ronde.
+La cavité de cette gouttiere est exactement ceintrée
+&amp; polie, &amp; ses ailes ou parois sont aussi fort polis,
+afin de ne causer aucune irritation aux parties. L&#39;entrée du canal est coupée en talud de l&#39;étendue d&#39;un
+travers de doigt.
+</p>
+<p>
+L&#39;extrémité antérieure est une petite crête qui s&#39;éleve 
+doucement du fond &amp; du milieu de la fin de la
+gouttiere dont nous venons de parler ; elle a environ
+seize lignes de longueur dans le canal, &amp; sa hauteur
+a près de deux lignes en sortant du canal, où elle
+forme une languette de quatre lignes de longueur sur
+deux lignes &amp; demie de largeur, recourbée de dehors 
+en-dedans, plate sur les côtés, &amp; arrondie par
+son extrémité.
+</p>
+<p>
+L&#39;extrémité postérieure de cet instrument est arbitraire ; 
+elle est communément en croix, comme le
+manche des conducteurs. Nous avons fait graver,
+<i><ref target="XPL:5352" type="platelink">Pl. IX</ref>. <ref target="XPL:5353" type="platelink">fig. 9</ref>.</i> un <i>gorgeret</i> fort étroit de l&#39;invention
+de M. le Dran : le manche est en forme de coeur. Il
+préfere ce petit <i>gorgeret</i>, parce qu&#39;il se tourne aisément 
+dans la vessie, comme il le juge à-propos, pour
+distinguer autant qu&#39;il est possible les surfaces &amp; le
+volume de la pierre ; il tourne ensuite la cannelure
+du côté de la tubérosité de l&#39;ischion, &amp; il y fait couler 
+son petit couteau (<i><ref target="XPL:5354" type="platelink">fig. 10</ref>.</i>), pour inciser la prostate 
+&amp; le cou de la vessie.
+<pb n="7:744" facs="V7/ENC_7-744.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le <i>gorgeret</i> (<i><ref target="XPL:5355" type="platelink">fig. 11</ref>.</i>) est vu du côté convexe ; son
+manche est un anneau. Il y a sur sa partie latérale
+externe, du côté gauche, une rainure qui peut servir 
+fort utilement à conduire un bistouri pour l&#39;incision 
+du col de la vessie.
+</p>
+<p>
+M. Foubert a imaginé par sa nouvelle méthode
+de tailler, un <i>gorgeret</i> formé de deux pieces ou branches 
+qui peuvent s&#39;écarter &amp; servir de dilatatoire.
+<i>Voyez <ref target="XPL:5356" type="platelink">fig. 4</ref></i>. Il peut servir au grand appareil, &amp;
+pourroit avoir sans inconvénient la rainure du <i>gorgeret. <ref target="XPL:5357" type="platelink">fig. 11</ref></i>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

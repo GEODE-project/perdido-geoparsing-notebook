@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27656" id="48:87:6" vol="7">
+<index type="head" value="For de Bearn, ou Fors" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>For de Bearn</head>
+<p>
+<sc>For de Bearn</sc>, <i>ou</i> <sc>Fors</sc>, ce sont les coûtumes
+de ce pays. Le <i>for</i> général de Bearn fut confirmé en
+1088 par Gaston IV. en la même année où il succéda 
+à Centule son pere. Ainsi c&#39;est par erreur que la
+confirmation de ce <i>for</i> est communément attribuée à
+Gaston VII. troisieme seigneur de la maison de Moncade. C&#39;est ce que remarque M. de Marca.
+</p>
+<p>
+Il y avoit aussi en Béarn des <i>fors</i> particuliers, tel
+que celui de Morlas, capitale de Béarn, celui d&#39;Oleron, &amp; le <i>for</i> des deux vallées d&#39;Ossan &amp; d&#39;Aspe. Les
+sujets des différentes parties du Béarn étoient distingués 
+par ces <i>fors ;</i> les uns étoient appellés <i>Béarnois</i>,
+les autres <i>Mortanois</i>, les autres <i>Ossalois</i> &amp; <i>Aspois</i>.
+</p>
+<p>
+Marguerite de Béarn ordonna en 1306 que le <i>for</i>
+général de Béarn, &amp; les autres <i>fors</i> particuliers seroient 
+rédigés en un corps ; que les établissemens &amp;
+réglemens faits par les seigneurs &amp; leur cour majeure 
+avec les arrets de cette cour, ceux de la cour
+souveraine de Morlas, &amp; les usages observés dans
+tout e pays, seroient compris dans ce volume. Il
+fut ensuite augmenté des réglemens faits par les comtes 
+Matthieu, Archambaud, Jean &amp; Gaston ; &amp; les
+praticiens ayant distribué ce livre en titres, &amp; ayant
+fait une mauvaise conférence d&#39;articles tirés tant du
+<i>for</i> général que de celui de Morlas, des jugemens &amp;
+usages, ils le rendirent si obscur qu&#39;Henri d&#39;Albert,
+II. du nom, roi de Navarre, &amp; seigneur de Béarn,
+ordonna en 1551 que ces lois ou <i>fors</i> seroient corrigés 
+&amp; rédigés en meilleur ordre, du consentement
+des états du pays. <i>Voyez</i> M. de Marca, <i>hist. de Béarn,
+liv. V. ch. j.</i> (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

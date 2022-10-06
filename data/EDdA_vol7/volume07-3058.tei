@@ -1,0 +1,269 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30512" id="55:112:1" vol="7">
+<index type="head" value="Grotte du Chien" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr. &amp; Hist. nat." />
+<index type="normclass" value="Géographie | Histoire naturelle" />
+<index type="englishclass" value="Geography | Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Grotte du Chien</head>
+<p>
+<sc>Grotte du Chien</sc>, (<i>Géogr. &amp; Hist. nat.</i>) en
+italien <i>grotta del cane, buco velenoso, grotte</i> ou caverne 
+d&#39;ltalie, au royaume de Naples, celebre de tout
+tems par ses exhalaisons mortelles.
+</p>
+<p>
+Les anciens l&#39;ont nommé <i>spiracula</i> &amp; <i>scrobes Charoneoe ;</i> Pline en fait mention <i>liv. II. ch. cxiij.</i> Elle est
+située proche du lac d&#39;Agnano, entre Naples &amp; Pouzzoles, sur le chemin qui conduit à cette derniere ville,
+à deux milles de la premiere, &amp; au pié de la montagne 
+appellée de nos jours la <i>solsatara</i>, autrefois <i>sorum
+Vulcani</i>, &amp; <i>leucogaei colles</i>.
+</p>
+<p>
+Cette fameuse <i>moféta</i> a pris le nom moderne qu&#39;elle
+porte, de ce qu&#39;on éprouve communément ses effets
+pernicieux sur les chiens ; elle ne laisse pas cependant
+d&#39;être également funeste aux autres animaux qui se
+trouvent exposés à la portée de ses vapeurs. On dit
+que Charles VIII. roi de France en fit l&#39;essai sur un
+âne, &amp; que deux esclaves qui y furent mis la tête
+en-bas par ordre de Pédro de Tolede, vice-roi de Naples, y perdirent la vre ; je ne garantis point ces sortes 
+de traits historiques : une exacte description de la
+<i>grotte</i> est ici l&#39;objet le plus important.
+</p>
+<p>
+Elle a environ huit piés de haut, douze de long,
+sur six de large. Il s&#39;éleve de son fond une vapeur
+chaude, ténue, subtile qu&#39;il est aisé de discerner à
+la vûe. Cette vapeur ne sort point par petites parcelles,
+mais elle forme un jet continuel qui couvre
+toute la surface du fond de la <i>grotte ;</i> &amp; il y a cette
+différence entre cette vapeur &amp; les vapeurs ordinaires,
+que la vapeur malfaisante de la <i>grotte du chien</i>
+ne se disperse point dans l&#39;air, &amp; qu&#39;elle retombe un
+moment après s&#39;être elevée. La couleur des parois
+de notre <i>grotte</i> est la mesure de son élévation : car
+les parois sont d&#39;un verd foncé jusque-là, &amp; de couleur 
+de terre ordinaire au-dessus, à la hauteur de
+plus de dix pouces.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Le docteur Méad s&#39;est tenu debout dans la <i>grotte</i>,
+la tête haute, sans en recevoir aucune incommodité ;
+&amp; tout animal dont la tête se trouve au-dessous de
+cette marque, ou que sa petitesse empêche de porter 
+sa tête au-dessus de la vapeur, perd tout-d&#39;un-coup le mouvement, comme s&#39;il étoit étourdi ; ensuite 
+au bout d&#39;une trentaine de secondes, il paroît comme 
+mort ou en défaillance : bien-tôt après ses membres 
+sont attaques de tremblemens convulsifs ; à la
+fin, j&#39;entends dans l&#39;espace d&#39;une minute, il ne conserve 
+d&#39;autre signe de vie qu&#39;un battement presqu&#39;insensible 
+du coeur &amp; des arteres, qui ne tarde même 
+pas à cesser, lorsqu&#39;on laisse l&#39;animal un peu trop
+long-tems, je veux dire deux ou trois minutes, &amp;
+pour lors sa mort est infaillible. Si au contraire,
+d&#39;abord après la defaillance on le tire dehors de la
+<i>grotte</i>, il reprend ses sens &amp; ses esprits, sur-tout lors
+qu&#39;on le plonge dans le lac d&#39;Agnano, qui est à vingt
+pas de-là.
+</p>
+<p>
+Cette derniere circonstance n&#39;est point toutefois
+d&#39;une necessité absolue. On lit dans l&#39;<i>hist. de l&#39;ac des
+Scienc.</i> qu&#39;un chien qui servit à l&#39;épreuve ordinaire,
+en presence de M. Taitbout de Marigny, consul à
+Naples, fut simplement jetté sur l&#39;herbe, &amp; que peu
+de tems après il reprit sa vigueur au point de courir ;
+on concoit même que si on jettoit le chien au sorur
+de la <i>grotte</i>, assez avant dans le lac pour qu&#39;il y nageât,
+immobile comme il est dans ce moment, il périroit 
+plutôt que de revenir.
+</p>
+<p>
+J&#39;ajoute en terminant la description de la <i>grotte</i> de
+Naples, qu&#39;on ne la laisse point ouverte ; que celui
+qui en a la clé, fait ordinairement son expérience
+sur un chien quand quelqu&#39;un desire de la voir ; &amp;
+enfin qu&#39;il couche toûjours cet animal à terre dans
+la <i>grotte</i>, en faisant son expérience.
+</p>
+<p>
+J&#39;eut-être que les animaux qu&#39;on éprouve de cette
+maniere, respirent au lieu d&#39;air, des vapeurs minérales,
+suffoquantes, c&#39;est-à-dire une vapeur ténue,
+imprégnée de certaines particules, qui étant unies
+ensemble, composent des masses très-pesantes, lesquelles 
+bien-loin de faciliter le cours du sang dans
+les poumons, sont plus propres à chasser l&#39;air de leurs
+vésicules, &amp; à retrécir les vaisseaux par leur trop
+grande pesanteur ; au moyen de ce poids subit, les
+vésicules pulmonaires s&#39;affaissent, &amp; la circulation
+du sang vient à cesser. Lors au contraire qu&#39;on tire à
+tems l&#39;animal de cette vapeur minérale, la petite
+portion d&#39;air qui reste dans les vésicules après chaque
+expiration, peut avoir assez de force pour expulser
+ce fluide pernicieux, sur-tout si l&#39;on plonge l&#39;animal
+dans l&#39;eau ; en effet, il arrive que l&#39;eau aidant par sa
+froideur la contraction des fibres, fait reprendre au
+sang son premier cours, comme on l&#39;éprouve tous
+les jours dans les syncopes ; mais si cette stagnation
+continue trop long-tems, il est aussi impossible de
+rendre la vie à l&#39;animal, que s&#39;il étoit parfaitement
+étranglé; &amp; le lac d&#39;Agnano même n&#39;est d&#39;aucune utilité 
+dans ce dernier cas, ce qui montre que son eau
+n&#39;a pas plus de vertu qu&#39;une autre, &amp; qu&#39;elle n&#39;est
+point un spécifique particulier contre le poison de la
+<i>grotte</i>.
+</p>
+<p>
+Il semble présentement qu&#39;on est dispensé de recourir 
+à un poison singulier des vapeurs minérales de
+la caverne, pour expliquer la mort des animaux qui
+y périssent, si l&#39;on considere que ces animaux, quand
+on les tire promptement hors de cet endroit, reviennent 
+à eux sans conserver aucun signe de foiblesse,
+ni aucun des symptomes que l&#39;on remarque dans ceux
+qui ont respiré un air imprégné de particules malignes 
+par elles-mêmes ; de plus, les corpuscules venéneux,
+s&#39;il y en avoit, devroient infecter pour le
+moins à quelque degré l&#39;air qui regne dans la partie
+supérieure de la <i>grotte</i>, &amp; cependant ils ne causent
+aucun dommage à ceux qui le respirent. Ajoûtez,
+<pb n="7:969" facs="V7/ENC_7-969.jpeg" />
+<milestone unit="column" n="1" />
+que par l&#39;ouverture faite des animaux auxquels l&#39;air
+du bas de la <i>grotte</i> a causé la mort, on ne découvre
+rien d&#39;extraordinaire ni dans leurs fluides, ni dans
+leurs solides.
+</p>
+<p>
+Cependant j&#39;avoue que toutes ces raisons ne suffisent 
+pas, pour porter la conviction dans l&#39;esprit, parce 
+que la nature &amp; les effets des poisons nous sont entierement 
+inconnus ; celui-ci peut n&#39;exercer son empire 
+qu&#39;à une certaine distance, &amp; ne produire aucun 
+changement dans le cadavre. Tout ce qu&#39;on a
+pu découvrir de la qualité des particules minérales
+qui s&#39;elevent en vapeurs dans la <i>grotte du chien</i>, c&#39;est
+qu&#39;elles doivent être pour la plupart vitrioliques,
+du-moins à en juger par la couleur verdâtre de la
+terre, &amp; par son goût aigrelet qui tient beaucoup de
+celui du phlegme de vitriol.
+</p>
+<p>
+Au reste, il est très apparent qu&#39;on pourroit creuser 
+ici sur la même ligne d&#39;autres <i>grottes</i> funestes, où
+les mêmes effets se feroient sentir.
+</p>
+<p>
+Quoi qu&#39;il en soit, l&#39;antiquité nomme plusieurs autres 
+cavernes celebres par des exhalaisons mortiferes.
+Telle étoit la Mephitis d&#39;Hiérapolis, dont il est parlé
+dans Cicéron, dans Galien, &amp; dans Strabon, qui
+avoient été temoins de ses effets. Telle étoit encore
+la caverne de Corycie, <i>specus Corycius</i>, dans la Cilicie, qui, à cause de ses exhalaisons empestées, pareilles 
+à celles que les Poëtes donnent à Typhon,
+étoit appellée l&#39;antre de Typhon, <i>cubile Typhonis</i>.
+Pomponius Mela n&#39;a pas oublié de la décrire, &amp; elle
+paroit aussi ancienne qu&#39;Homere : car le mont Arima
+où il place cette caverne méphitique, étoit à ce que
+dit Eustathius, une montagne de Cilicie.
+</p>
+<p>
+Enfin les vapeurs pernicieuses de toute nature ne
+sont pas rares : &amp; bien qu&#39;elles soient plus fréquentes 
+dans les mines, dans les puits, dans les carrieres,
+&amp; dans d&#39;autres lieux semblables, on ne laisse pas
+d&#39;en rencontrer quelquefois sur la surface de la terre,
+sur-tout dans les pays qui abondent en minéraux,
+ou qui renferment des feux soûterreins, tels que sont
+en Europe la Hongrie, la Sicile, &amp; l&#39;Italie. <i>Voyez</i>
+<sc><ref target="head:Exhalaison" type="search">Exhalaison</ref>, <ref target="head:Mophete" type="search">Mophete</ref></sc>, <i>&amp;c.</i> (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

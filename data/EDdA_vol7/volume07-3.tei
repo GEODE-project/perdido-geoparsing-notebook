@@ -1,0 +1,274 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27457" id="" vol="7">
+<index type="head" value="NOMS des Auteurs qui ont fourni des Articles pour ce Volume" />
+<index type="objecttype" value="misc" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="" />
+<head>NOMS des Auteurs qui ont fourni des Articles pour ce Volume</head>
+<p>
+<center>
+<i>NOMS des Auteurs qui ont fourni des Articles pour ce Volume</i>.
+</center>
+</p>
+<p>
+M. Le Comte <i><sc>de Tressan</sc></i>, Lieutenant Général des Armées du Roi, Commandant
+pour le Roi à Toul, &amp; Membre des Académies Royales des Sciences de France,
+d&#39;Angleterre &amp; de Prusse, a donné les articles 
+<sc><ref target="head:Garde-Côtes" type="search">Garde-Côtes</ref>, 
+<ref target="head:Guerre" type="search">Guerre</ref></sc> (<i>Aller à la</i>),
+&amp; <sc><ref target="head:Guerre" type="search">Guerre</ref></sc> (<i>Homme ac</i>).
+</p>
+<p>
+M. le Président <i><sc>de Brosses</sc></i>, Correspondant honoraire de l&#39;Académie Royale des
+Belles-Lettres, nous a communiqué sur la Gamme des réflexions qu&#39;on trouvera au mot
+<sc>Gamme</sc>.
+</p>
+<p>
+M. <i><sc>de Voltaire</sc></i> a donné <sc>Force</sc> (<i>Littérat.</i>), <sc>Froid</sc> (<i>Littérat.</i>), <sc>Franchise,
+François, Galant, Garantie, Gazette, Genre de Style, Gens de
+Lettres, Gloire <i>&amp;</i> Glorieux</sc> (<i>Gramm.</i>), <sc>Goût</sc> (<i>Littérat.</i>), <sc>Grace</sc> (<i>Littérat.</i>)
+<sc>Grand <i>&amp;</i> Grandeur</sc> (<i>Gramm.</i>), <sc>Grave <i>&amp;</i> Gravité</sc> (<i>Littér.</i>), &amp;c.
+</p>
+<p>
+On trouvera à l&#39;article <sc><ref target="head:Goût" type="search">Goût</ref></sc> (<i>Littér.</i>), le fragment de feu M. le Président <i><sc>de Montesquieu</sc></i>, que nous avons annoncé à la fin de son Eloge.
+</p>
+<p>
+M. <i><sc>de la Condamine</sc></i>, de l&#39;Académie Royale des Sciences de France, de celle
+de Berlin, &amp; de la Société Royale de Londres, <i>&amp;c.</i> a donné le mot <sc><ref target="head:Guiane" type="search">Guiane</ref></sc>.
+</p>
+<p>
+M. <i><sc>Rallier des Ourmes</sc></i>, Conseiller d&#39;honneur au Présidial de Rennes, a donné
+l&#39;article <sc><ref target="head:Fraction" type="search">Fraction</ref></sc>, &amp; plusieurs autres pour les Volumes suivans.
+</p>
+<p>
+M. <i><sc>Watelet</sc></i>, Receveur Général des Finances, &amp; Honoraire de l&#39;Académie Royale
+de Peinture, a donné, relativement à cet Art, les mots 
+<sc><ref target="head:Fond" type="search">Fond</ref>, <ref target="head:Forme" type="search">Forme</ref>, <ref target="head:Fresque" type="search">Fresque</ref>, <ref target="head:Galerie" type="search">Galerie</ref>, <ref target="head:Genre" type="search">Genre</ref>, <ref target="head:Glacis" type="search">Glacis</ref>, <ref target="head:Gouache" type="search">Gouache</ref>, <ref target="head:Grappe de Raisin" type="search">Grappe de Raisin</ref>, <ref target="head:Gravure" type="search">Gravure</ref>, <ref target="head:Grimace" type="search">Grimace</ref>, <ref target="head:Grotesque" type="search">Grotesque</ref>, <i>&amp;</i> <ref target="head:Groupe" type="search">Groupe</ref></sc>.
+</p>
+<p>
+M. <i><sc>de Montdorge</sc></i> a donné les articles 
+<sc><ref target="head:Gravure en couleurs" type="search">Gravure en couleurs</ref>, <i>&amp;</i> <ref target="head:Gravure en maniere noire" type="search">Gravure en maniere noire</ref></sc>.
+</p>
+<p>
+M. <i><sc>Marmontel</sc></i> a donné les mots <sc><ref target="head:Gloire" type="search">Gloire</ref></sc> (<i>Morale</i>), <sc><ref target="head:Grand" type="search">Grand</ref></sc> (<i>Morale</i>), <i>&amp;</i> <sc><ref target="head:Grandeur" type="search">Grandeur</ref></sc> (<i>Morale</i>).
+</p>
+<p>
+M. l&#39;Abbé <i><sc>Morellet</sc></i>, Licentié en Théologie de la Faculté de Paris, de la Maison
+&amp; Société de Sorbonne, Auteur des articles <sc>Fatalité, Figure, <i>&amp;</i> Fils de Dieu</sc>,
+dans le Volume précédent, a donné pour celui-ci les mots <sc><ref target="head:Foi" type="search">Foi</ref>, <ref target="head:Fondamentaux" type="search">Fondamentaux</ref></sc> (<i>Articles</i>), &amp;c. Ces articles sont tous marqués de la lettre (<i>h</i>)
+</p>
+<p>
+MM. <i><sc>Douchet</sc></i> &amp; <i><sc>Beauzée</sc></i>, Professeurs de Grammaire à l&#39;Ecole Royale Militaire,
+annoncés à la fin de l&#39;Eloge de M. <i><sc>du Marsais</sc></i>, ont donné, relativement à la Grammaire, les articles 
+<sc><ref target="head:Formation" type="search">Formation</ref>, <ref target="head:Fréquentatif" type="search">Fréquentatif</ref>, <ref target="head:Futur" type="search">Futur</ref></sc>
+, <i>G</i>, 
+<sc><ref target="head:Gallicisme" type="search">Gallicisme</ref>, <ref target="head:Générique" type="search">Générique</ref>, <ref target="head:Génitif" type="search">Génitif</ref>, <ref target="head:Genre" type="search">Genre</ref>, <ref target="head:Gérondif" type="search">Gérondif</ref>, <ref target="head:Gouverner" type="search">Gouverner</ref>, <ref target="head:Grammaire" type="search">Grammaire</ref></sc>
+, <i>&amp;c.</i> Ces articles 
+sont désignés par (<i>E. R. M.</i>), comme étant sortis de l&#39;Ecole Royale Militaire.
+</p>
+<p>
+M. <i><sc>de Ratte</sc></i>, Secrétaire perpétuel de la Société Royale des Sciences de Montpellier,
+Membre de la Société Royale de Londres, de l&#39;Académie de Cortone, &amp; de l&#39;Institut
+de Bologne, a donné les mots 
+<sc><ref target="head:Froid" type="search">Froid</ref>, <ref target="head:Gelée" type="search">Gelée</ref>, <ref target="head:Gelée blanche" type="search">Gelée blanche</ref>, <ref target="head:Givre" type="search">Givre</ref>, <ref target="head:Glace" type="search">Glace</ref>, <i>&amp;</i> <ref target="head:Grêle" type="search">Grêle</ref></sc>.
+</p>
+<p>
+M. <i><sc>Barthés</sc></i>, Docteur en Medecine de la Faculté de Montpellier, &amp; Medecin des
+Armées du Roi en Allemagne, a donné <sc><ref target="head:Follicule" type="search">Follicule</ref></sc> (<i>Anatom.</i>), <i>&amp;</i> <sc><ref target="head:Force des Animaux" type="search">Force des Animaux</ref></sc>. Ces articles sont marqués de la lettre (<i>g</i>), ainsi que ceux de M. Barthés dans le
+Volume précédent.
+</p>
+<p>
+M. <i><sc>Penchenier</sc></i>, Docteur en Medecine à Montelimart, a donné le mot <sc><ref target="head:Goutte" type="search">Goutte</ref></sc>.
+</p>
+<p>
+M. <i><sc>Liebaut</sc></i>, chargé du dépôt de la Guerre, est auteur des articles 
+<sc><ref target="head:Former des Troupes" type="search">Former des Troupes</ref>, <i>&amp;</i> <ref target="head:Fuite" type="search">Fuite</ref></sc>.
+</p>
+<p>
+M. <i><sc>de Margenci</sc></i>, Gentilhomme ordinaire du Roi, a donné l&#39;article <sc><ref target="head:Gentilhomme ordinaire" type="search">Gentilhomme
+ordinaire</ref></sc>.
+</p>
+<p>
+M. <i><sc>Boulanger</sc></i>, Inspecteur des Ponts &amp; Chaussées, a donné l&#39;article <sc><ref target="head:Guebres" type="search">Guebres</ref></sc>.
+</p>
+<p>
+M. <i><sc>Le Roi</sc></i>, Lieutenant des Chasses du Parc de Versailles, a donné les mots 
+<sc><ref target="head:Forest" type="search">Forest</ref>, <ref target="head:Froment" type="search">Froment</ref>, <ref target="head:Fumier" type="search">Fumier</ref>, <ref target="head:Fureter" type="search">Fureter</ref>, <ref target="head:Garde-Chasses" type="search">Garde-Chasses</ref>, <ref target="head:Garenne" type="search">Garenne</ref>, <ref target="head:Gibier" type="search">Gibier</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+M. <i><sc>Quesnai</sc> le fils</i> a donné l&#39;article <sc><ref target="head:Grains" type="search">Grains</ref></sc> (<i>Econom. polit.</i>)
+</p>
+<p>
+M. <i><sc>Lefebvre</sc></i> a donné les mots <sc><ref target="head:Foiblesse" type="search">Foiblesse</ref></sc> (<i>Morale</i>), <sc><ref target="head:Folie" type="search">Folie</ref></sc> (<i>Morale</i>), 
+<sc><ref target="head:Gouverneur," type="search">Gouverneur,</ref> <i>&amp;</i> <ref target="head:Gouvernante" type="search">Gouvernante</ref></sc>
+<pb n="7:xjv" facs="V7/ENC_7-xjv.jpeg" />
+<milestone unit="column" n="0" />
+</p>
+<p>
+M. <i><sc>Desmarest</sc></i>, connu par la Dissertation sur l&#39;ancienne jonction de l&#39;Angleterre au
+Continent, qui a remporté le Prix de l&#39;Académie d&#39;Amiens en 1751, &amp; par l&#39;Edition
+françoise d&#39;Hauksbée avec une préface &amp; des notes, publiée en 1754, a donné <sc>Fontaine, <i>&amp;</i> Géographie physique</sc>.
+</p>
+<p>
+M. <i><sc>Necker</sc> le fils</i>, Citoyen de Geneve, Professeur de Mathématique en cette Ville,
+&amp; Correspondant de l&#39;Académie Royale des Sciences de France, a donné l&#39;article <sc><ref target="head:Frottement" type="search">Frottement</ref></sc>.
+</p>
+<p>
+M. <i><sc>Le Romain</sc></i> a fourni différens articles sur l&#39;Histoire naturelle des Isles de l&#39;Amérique.
+</p>
+<p>
+M. <i><sc>Robert de Vaugondi</sc></i>, Géographe ordinaire du Roi, a donné <sc>Fuseau</sc> (<i>Géograph.</i>), <sc>Géographie, <i>&amp;</i> Globe</sc>.
+</p>
+<p>
+M. <i><sc>Bouchu</sc></i>, Maître de Forges à Veux-Saules, proche Châteauvilain, a donné le
+mot <sc>Forges</sc>.
+</p>
+<p>
+M. <i><sc>de Villiers</sc></i>, Docteur en Medecine, a donné plusieurs articles de Chimie, entr&#39;autres 
+<sc><ref target="head:Fondant" type="search">Fondant</ref>, <ref target="head:Fourneau" type="search">Fourneau</ref>, <ref target="head:Grenailier" type="search">Grenailier</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+MM. <i><sc>Durival</sc> l&#39;ainé &amp; le jeune</i> ont donné différens morceaux pour ce Volume,
+comme ils ont bien voulu le faire pour les précédens.
+</p>
+<p>
+M. <i><sc>Papillon</sc></i>, Graveur en bois, a donné les articles relatifs à son Art.
+</p>
+<p>
+M. <i><sc>Magimel</sc></i>, les articles d&#39;Orfévrerie.
+</p>
+<p>
+M. <i><sc>Ferdinand Berthoud</sc></i>, Horloger, l&#39;article <sc><ref target="head:Fusée" type="search">Fusée</ref></sc> (<i>Horlogerie</i>).
+</p>
+<p>
+M. <i><sc>Romilli</sc></i>, Horloger, l&#39;article <sc><ref target="head:Frottement" type="search">Frottement</ref></sc> (<i>Horlogerie</i>).
+</p>
+<p>
+Cinq personnes qui ne veulent pas être connues, nous ont donné, la premiere, l&#39;article
+<sc><ref target="head:Guittare" type="search">Guittare</ref></sc> ; la seconde, l&#39;article <sc><ref target="head:Gaieté" type="search">Gaieté</ref></sc> ; la troisieme, les articles <sc><ref target="head:Foire" type="search">Foire</ref> <i>&amp;</i> <ref target="head:Fondation" type="search">Fondation</ref></sc> ; la quatrieme, le mot <sc><ref target="head:Généralité" type="search">Généralité</ref></sc> ; &amp; la cinquieme, les mots <sc><ref target="head:Fantaisie" type="search">Fantaisie</ref>, <ref target="head:Fragilité" type="search">Fragilité</ref></sc> (<i>Morale</i>), 
+<sc><ref target="head:Frivolité," type="search">Frivolité,</ref> <i>&amp;</i> <ref target="head:Génie" type="search">Génie</ref></sc>
+ (<i>Littér.</i>)
+</p>
+<p>
+D&#39;autres personnes nous avoient aussi fourni des secours que nous n&#39;avons pu employer,
+quelquefois parce qu&#39;ils sont arrivés trop tard ; de ce nombre est l&#39;article <sc><ref target="head:Grace" type="search">Grace</ref></sc>
+(<i>Politiq.</i>), <sc><ref target="head:Guatchapéli" type="search">Guatchapéli</ref></sc> (<i>Botan.</i>), <sc><ref target="head:Guayaquil" type="search">Guayaquil</ref></sc> (<i>Géog.</i>): plus souvent, ou parce qu&#39;ils
+ont rencontré des difficultés à la censure, ou parce que nous n&#39;aurions pu leur faire place
+qu&#39;en supprimant l&#39;Ouvrage de nos Collegues ordinaires.
+<table>
+               MARQUES DES AUTEURS.
+               * M. <sc>Diderot</sc>.
+               (-) M. le B. D. H.
+               (<i>D.J.</i>) M. le Chevalier <sc>de Jaucourt</sc>.
+               (<i>A</i>) M. <sc>Boucher d&#39;Argis</sc>.
+               (<i>B</i>) M. <sc>de Cahusac</sc>.
+               (<i>b</i>) M. <sc>Venel</sc>.
+               (<i>c</i>) M. <sc>Daubenton</sc>, Subdelegué de Montbard.
+               (<i>D</i>) M. <sc>Goussier</sc>.
+               (<i>d</i>) M. <sc>d&#39;Aumont</sc>.
+               (<i>E</i>) M. l&#39;Abbé <sc>de la Chapelle</sc>.
+               (<i>e</i>) M. <sc>Bourgelat</sc>.
+               (<i>F</i>) Feu M. <sc>du Marsais</sc>, dont il y a encore
+                  quelques articles dans ce Volume.
+               (<i>G</i>) Feu M. l&#39;Abbé <sc>Mallet</sc>.
+               (<i>g</i>) M. <sc>Barthés</sc>.
+               (<i>h</i>) M. l&#39;Abbé <sc>Morellet</sc>, annoncé ci-dessus.
+               (<i>I</i>) M. <sc>Daubenton</sc>, de l&#39;Académie des Sciences.
+               (<i>K</i>) M. <sc>d&#39;Argenville</sc>.
+               (<i>L</i>) M. <sc>Tarin</sc>.
+               (<i>O</i>) M. <sc>d&#39;Alembert</sc>.
+               (<i>P</i>) M. <sc>Blondel</sc>.
+               (<i>Q</i>) M. <sc>le Blond</sc>.
+               (<i>R</i>) M. <sc>Landois</sc>.
+               (<i>S</i>) M. <sc>Rousseau</sc>, <i>de Geneve</i>.
+               (<i>T</i>) M. <sc>le Roi</sc>, de l&#39;Académie des Sciences.
+               (<i>Y</i>) M. <sc>Louis</sc>.
+               (<i>Z</i>) M. <sc>Bellin</sc>.
+               (<i>E. R. M.</i>) MM. <sc>Douchet &amp; Beauzée</sc>,
+                  annoncés ci-dessus.
+</table>
+</p></div1>
+</body>
+</text>
+</TEI.2>

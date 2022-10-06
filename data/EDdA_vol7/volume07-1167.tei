@@ -1,0 +1,888 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28621" id="51:17:2" vol="7">
+<index type="head" value="Fusée" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Perrinet d&#39;Orval" />
+<index type="shortauth" value="Perrinet d&#39;Orval" />
+<index type="kafnum" value="104" />
+<index type="kafauth" value="Perrinet d&#39;Orval, Jean-Charles (1707?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Artificier." />
+<index type="normclass" value="Artificier" />
+<index type="englishclass" value="Fireworks" />
+<index type="generatedclass" value="Artificier" />
+<index type="pos" value="s.f." />
+<head>Fusée</head>
+<p>
+<sc>Fusée</sc>, s. f. (<i>Artificier.</i>) espece de feu d&#39;artifice
+qui s&#39;éleve dans l&#39;air : c&#39;est un petit cylindre de carton,
+étranglé par les deux bouts, rempli de matieres
+inflammables, sur un moule dont la broche forme
+au-dedans de la <i>fusée</i> une cavité qui pénetre plus ou
+<milestone unit="column" n="2" />
+moins profondément dans la matiere inflammable.
+Ce cylindre est amorcé, &amp; dirigé dans l&#39;air par le
+moyen d&#39;une baguette.
+</p>
+<p>
+<sc>Art</sc>. I. <i>Des moules pour charger les fusées volantes</i>. Le moule sert à soûtenir le cartouche lorsqu&#39;on le
+charge, &amp; à regler la hauteur du massif. Sa forme extérieure 
+est celle d&#39;une boite d&#39;artillerie ; il est percé
+d&#39;un bout à l&#39;autre, &amp; cette cavité dans laquelle on
+place le cartouche, doit être bien ronde &amp; bien unie.
+On les fait communément-de buis, ou de quelque
+autre bois dur.
+</p>
+<p>
+La hauteur des moules doit diminuer à proportion
+que le diametre intérieur grandit. La cause de cette
+diminution est que la force de la matiere enflammée
+n&#39;augmentant pas en même raison que le diametre
+des <i>fusées</i>, elle ne pourroit enlever une grosse <i>fusée</i>,
+si on lui conservoit la même longueur qu&#39;à une petite.
+</p>
+<p>
+Le moule est supporté par une base cylindrique de
+même matiere, qu&#39;on nomme <i>le culot</i>.
+</p>
+<p>
+La hauteur du culot est d&#39;un diametre extérieur du
+moule, &amp; sa largeur d&#39;un diametre un quart.
+</p>
+<p>
+Il porte une broche de fer dans son milieu. Cette
+broche, quoique d&#39;une seule piece, a quatre parties
+distinguées par leurs formes &amp; par leurs noms.
+</p>
+<p>
+La premiere, au-dessous du cylindre, est la queue
+de la broche ; elle est faite pour entrer dans le culot,
+où elle doit être fixée solidement.
+</p>
+<p>
+La deuxieme partie est le cylindre ; son diametre
+est celui de l&#39;intérieur du moule, &amp; sa hauteur doit
+être égale à son diametre.
+</p>
+<p>
+La troisieme partie est la demi-boule ; elle a de
+diametre les deux tiers du diametre intérieur du
+moule, &amp; de hauteur moitié du même diametre.
+Cette demi-boule qui s&#39;engage dans la gorge du cartouche 
+lorsqu&#39;on le charge, sert à lui conserver sa
+forme.
+</p>
+<p>
+La quatrieme partie est la broche ; elle sert à ménager 
+un vuide dans l&#39;intérieur de la <i>fusée:</i> c&#39;est ce vuide
+qu&#39;on nomme l&#39;<i>ame de la fusée</i>, qui la fait monter en
+présentant au feu une plus grande surface de matiere 
+inflammable, qui se réduisant en vapeurs dans ce
+vuide, fait, dit M. l&#39;abbé Nollet dans ses leçons de
+physique expérimentale, <i>l&#39;office d&#39;un ressort qui agit
+d&#39;une part contre le corps de la fusée, &amp; de l&#39;autre contre 
+un volume d&#39;air qui ne cede pas aussi vîte qu&#39;il est
+frappé</i>.
+</p>
+<p>
+La table qui suit donne les proportions entre le
+diametre &amp; la hauteur du moule, &amp; entre sa hauteur 
+&amp; la longueur de la broche, dont la différence
+lorsque le moule est posé sur son culot, fait la hauteur 
+du massif. L&#39;expérience a fait connoître qu&#39;il
+doit diminuer de hauteur, &amp; la broche augmenter de
+longueur, à proportion que les <i>fusées</i> sont plus grosses.
+</p>
+<p>
+Si l&#39;on n&#39;observoit pas cette progression, &amp; que
+prenant la proportion moyenne on donnât également aux grosses &amp; aux petites <i>fusées</i> un diametre
+un quart de massif, il arriveroit que le massif des petites 
+seroit trop tôt consumé, &amp; qu&#39;elles jetteroient
+leur garniture avant d&#39;avoir fait vol, &amp; que les grosses 
+<i>fusées</i> ne jetteroient leur garniture qu&#39;en retombant,
+attendu que le massif est plus épais (quoique
+dans la même proportion), &amp; d&#39;une composition
+plus lente, &amp; qu&#39;ainsi il seroit plus de tems à se consumer.
+</p>
+<p>
+Les petites <i>fusées</i> de cinq lignes de diametre extérieur 
+&amp; au-dessous, n&#39;ont pas besoin pour monter
+d&#39;être percées, c&#39;est-à-dire d&#39;être chargées sur une
+broche ; il suffit de leur attacher une baguette : lorsqu&#39;on les perce, elles montent si rapidement qu&#39;on
+a peine à en voir l&#39;effet.
+<pb n="7:387" facs="V7/ENC_7-387.jpeg" />
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<sc>Art</sc>. II. <i>Des cartouches</i>. On les forme en roulant le
+carton sur la baguette, qu&#39;on nomme <i>baguette à rouler</i>.
+Elle doit être unie &amp; sans manche. On lui donne de
+diametre les deux tiers du diametre intérieur du moule ; 
+le tiers qu&#39;elle a de moins est rempli par le cartouche,
+dont l&#39;épaisseur est d&#39;un sixieme du même
+diametre, ou du quart de celui de la baguette.
+</p>
+<p>
+Le carton doit être entierement collé, excepté le
+premier tour qui enveloppe la baguette. Il faut prendre 
+garde que la colle ne la mouille, &amp; la frotter de
+savon lorsqu&#39;elle a été mouillée, crainte que le cartouche 
+ne s&#39;y attache. On trempe dans l&#39;eau le dernier 
+tour du carton avant de le coller, pour en ôter
+le ressort qui feroit dérouler le cartouche après qu&#39;il
+est formé.
+</p>
+<p>
+Les cartouches pour les lances &amp; pour les conduites 
+de feu se font de papier. On pose la baguette
+sur la feuille, au tiers de sa largeur ; on renverse ce
+tiers dessus, &amp; on le fait bien joindre contre ; on
+roule un tour sans colle ; ensuite on colle tout ce
+qui reste de papier, tant la partie double formée par
+le tiers de la feuille renversé, que la partie simple ;
+&amp; on acheve de rouler le cartouche. Ces cartouches 
+se nomment <i>porte-feux</i>, lorsqu&#39;on les employe
+à communiquer le feu d&#39;une piece d&#39;artifice à une
+autre, par le moyen d&#39;une étoupille qui y est renfermée.
+</p>
+<p>
+Les cartouches de serpenteaux, &amp; autres petites
+<i>fusées</i> de quatre à six lignes de diametre extérieur,
+sont faits de cartes à joüer. Il faut les tremper dans
+l&#39;eau, &amp; les employer à moitié seches ; elles en sont
+plus flexibles, &amp; se roulent mieux. On commence
+par en rouler une ; on y en ajoûte une seconde, &amp;
+on termine le cartouche par deux tours de papier
+gris, dont le dernier est collé.
+</p>
+<p>
+<sc>Art</sc>. III. <i>De l&#39;étranglement des cartouches</i>. Il ne
+<milestone unit="column" n="2" />
+faut pas attendre que les cartouches soient entierement 
+secs pour les étrangler ; ils donneroient beaucoup 
+de peine, &amp; s&#39;étrangleroient mal.
+</p>
+<p>
+On commence par les rogner sur la baguette avec
+des ciseaux. Il ne s&#39;agit dans cette opération que de
+retrancher la bavure du bout qui doit être étranglé,
+pour que les bords de cette partie, qui doit avoir la
+forme d&#39;une calote, soient à l&#39;uni.
+</p>
+<p>
+Pour les étrangler, on attache une corde ou une
+ficelle d&#39;une grosseur proportionnée à celle de la <i>fusée</i>, d&#39;un bout à un gond ou piton, vissé dans un
+poteau, ou scellé dans le mur, &amp; de l&#39;autre bout
+à sa ceinture, ou à un bâton que l&#39;on place derriere 
+&amp; en-travers de ses cuisses, de maniere qu&#39;il
+soûtienne le corps lorsque l&#39;on fait effort pour étrangler. Dans cette situation, &amp; la corde étant tendue,
+on pose le cartouche dessus ; puis on prend la partie 
+de la corde qui est entre soi &amp; le cartouche, &amp;
+l&#39;on en fait deux tours sur le cartouche, dans la
+partie que l&#39;on veut étrangler à un demi-diametre
+extérieur de son extrémité; on enfonce une baguette 
+dans cette partie, la tenant de la main droite, &amp;
+le cartouche de la gauche, &amp; l&#39;on serre la corde en
+jettant le corps en-arriere, &amp; tournant chaque fois
+le cartouche pour en bien arrondir l&#39;étranglement,
+jusqu&#39;à ce qu&#39;il ne reste qu&#39;un trou à pouvoir passer
+la broche avec peine : alors il est suffisamment étranglé.
+</p>
+<p>
+Il faut frotter la corde de savon, pour empêcher
+que le cartouche qui est encore humide lorsqu&#39;on
+l&#39;étrangle, ne s&#39;y attache &amp; ne se déchire.
+</p>
+<p>
+Quand on a étranglé un certain nombre de <i>fusées</i>,
+il ne faut pas différer à les lier, crainte que l&#39;étranglement 
+ne se relâche. On les lie en passant trois
+boucles de ficelle dans la gorge, &amp; serrant à chaque 
+boucle ; ce qui s&#39;appelle <i>le noeud de l&#39;artificier</i>.
+<pb n="7:388" facs="V7/ENC_7-388.jpeg" />
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<sc>Art</sc>. IV. <i>Compositions pour les fusées volantes</i>.
+Les cinq compositions mentionnées en la table ci-dessus,
+donnent des feux qui different assez les uns
+des autres pour faire une agréable variété.
+</p>
+<p>
+La deuxieme composition dont le feu est très clair,
+fait particulierement un contraste bien marqué 
+avec la cinquieme, dont le feu est fort rouge.
+</p>
+<p>
+Les <i>fusées</i> de 11 &amp; de 10 lignes se chargent en
+feu commun à 4 onces de charbon sur la livre de
+poussier ; celles de 9 à 7 lignes à 3 onces, &amp; celles 
+de 6 lignes &amp; au-dessous à 2 onces.
+</p>
+<p>
+Lorsque l&#39;on a pesé les matieres, on les verse
+dans le tamis de crin le plus clair, &amp; on les passe
+trois fois pour mélanger : alors la composition est
+faite &amp; prête à être employée.
+</p>
+<p>
+Une composition trop vive fait crever les <i>fusées</i>,
+comme un massif trop mince ou mal recouvert par
+le carton que l&#39;on rendouble dessus, les fait défoncer.
+C&#39;est le terme dont les Artificiers se servent
+pour exprimer qu&#39;il n&#39;a pu résister à l&#39;effort du feu,
+faute d&#39;être assez épais, ou parce que le carton rendoublé 
+ne présentoit pas un point d&#39;appui assez solide.
+</p>
+<p>
+La composition des <i>fusées volantes</i> ne peut être
+employée trop seche, pour leur plus bel effet &amp;
+pour les conserver bonnes ; si on l&#39;humectoit, l&#39;humidité 
+en se dissipant y laisseroit des vuides qui admettroient 
+trop de feu, &amp; feroient crever la <i>fusée</i>.
+On en excepte le feu chinois, dont il faut un peu
+mouiller le sable pour que le soufre s&#39;y attache. On
+renvoye à l&#39;<i>article des</i> <sc><ref target="head:Jets" type="search">Jets</ref></sc> pour la maniere de préparer 
+cette composition.
+</p>
+<p>
+<sc><ref target="head:Art" type="search">Art</ref></sc>. V. <i>Maniere de charger les fusées volantes</i>. Il
+faut pour charger les <i>fusées volantes:</i>
+</p>
+<p>
+1°. Une cuillere à charger, que les Artificiers nomment 
+<i>cornée ;</i> son diametre est celui de l&#39;intérieur du
+cartouche ; elle doit contenir autant de composition
+qu&#39;il en faut pour remplir la hauteur d&#39;un demi-diametre extérieur de la <i>fusée</i> étant refoulée.
+</p>
+<p>
+2°. Trois baguettes creuses pour les moyennes <i>fusées</i>, &amp; quatre pour les grosses. Leur cavité doit être
+telle que la broche puisse se loger en entier dans la
+premiere ; dans la seconde jusqu&#39;aux deux tiers, &amp;
+dans la troisieme jusqu&#39;au tiers ; &amp; pour la facilité
+de les entrer &amp; sortir librement du cartouche, lorsqu&#39;on le charge on les fait tant-soit-peu moins grosses 
+que la baguette à rouler.
+</p>
+<p>
+3°. Une baguette fort courte &amp; de même diametre<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+que celles à charger : on la nomme le <i>massif ;</i>
+elle sert à charger la composition qui excede la broche.
+</p>
+<p>
+4°. Une baguette qui sert à rendoubler le carton
+sur le massif ; comme elle doit prendre &amp; refouler
+la partie rendoublée du cartouche qui fait environ
+la moitié de son épaisseur, on lui donne de diametre 
+deux tiers &amp; un sixieme de celui du moule.
+</p>
+<p>
+5°. Un maillet de bois dur, en le supposant de
+buis, le diametre de son cylindre doit être de deux
+diametres trois quarts de celui du moule, sa longueur 
+de trois diametres un tiers, &amp; son manche
+de cinq diametres, non compris la partie qui entre
+dans le cylindre.
+</p>
+<p>
+Les cartouches étant rognés &amp; réduits à la longueur 
+du moule, on frotte la broche de savon pour
+qu&#39;elle puisse entrer plus facilement dans le trou
+de l&#39;étranglement, qui doit être plus petit que la partie 
+la plus grosse de la broche, afin qu&#39;en y entrant
+à force, elle le forme bien rond.
+</p>
+<p>
+On remplit le vuide extérieur de l&#39;étranglement
+avec de la corde pour soûtenir le cartouche, que
+les coups de maillet affaisseroient &amp; feroient crever 
+dans cette partie ; &amp; malgré cette précaution,
+la même chose arriveroit si l&#39;on refouloit la composition 
+plus fort qu&#39;il ne convient.
+</p>
+<p>
+Le cartouche étant sur la broche, &amp; recouvert
+si l&#39;on veut du moule, car on peut très-bien s&#39;en passer 
+lorsque le cartouche a l&#39;épaisseur donnée, on
+place le culot sur un billot bien uni &amp; solide, on enfonce 
+la premiere baguette à charger dans le cartouche 
+vuide, &amp; l&#39;on frappe dessus dix ou douze
+coups pour en unir le fond &amp; applanir les plis de
+l&#39;étranglement, qui s&#39;ils restoient pourroient occasionner 
+quelque vuide, où l&#39;air venant à se dilater
+feroit crever le cartouche.
+</p>
+<p>
+On verse ensuite une cornée de composition, on
+introduit doucement la baguette dans le cartouche,
+on l&#39;appuie ferme sur la composition, &amp; l&#39;on frappe
+quelques petits coups pour l&#39;asseoir ; après quoi,
+pour les <i>fusées</i> de 18 lignes, on frappe quarante
+coups égaux.
+</p>
+<p>
+La baguette étant retirée du cartouche, on fait
+sortir la composition qui est entrée dans sa cavité,
+en frappant contre avec une autre baguette ; sans
+quoi restant engorgée, elle se sendroit à la seconde
+charge. On juge qu&#39;elle est vuide par la différence
+du son qu&#39;elle rend.
+<pb n="7:389" facs="V7/ENC_7-389.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+L&#39;opération de la seconde &amp; de la troisieme baguette 
+se fait de même, excepté qu&#39;à chaque changement 
+de baguette on diminue de cinq le nombre
+des coups, &amp; le massif ne doit être frappé que de
+vingt coups ; la raison de cette diminution est que
+la matiere qui augmente d&#39;épaisseur à mesure que
+la broche diminue, présentant au feu moins de surface,
+a moins besoin d&#39;être refoulée.
+</p>
+<p>
+Lorsque la <i>fusée</i> passe 18 lignes de diametre, on
+augmente le nombre des coups à proportion qu&#39;elle
+est grosse jusqu&#39;à 50 pour la premiere baguette, &amp;
+l&#39;on en diminue de même le nombre jusqu&#39;à 25 coups
+pour les plus petites.
+</p>
+<p>
+Une <i>fusée</i> doit être chargée en 12 à 13 charges,
+9 à 10 pour couvrir la broche, &amp; 2 à 3 pour le
+massif.
+</p>
+<p>
+Le massif étant chargé à niveau du moule, on
+met dessus un tampon de papier chiffonné, &amp; on le
+frappe d&#39;une douzaine de coups ; puis avec un poinçon 
+dont la pointe soit un peu émoussée, on dedouble 
+la partie du cartouche qui est restée vuide au-dessus 
+du massif jusqu&#39;à la moitié de l&#39;épaisseur du
+cartouche ; on la replie sur le tampon ; &amp; posant dessus 
+la baguette à rendoubler, on la frappe de vingt
+coups ; après quoi, sans ôter la <i>fusée</i> de dessus la broche,
+on perce le carton redoublé de deux à trois
+trous avec le poinçon à arête, en frappant dessus
+avec le maillet. L&#39;arête sert à l&#39;empêcher de pénétrer 
+plus avant qu&#39;il ne faut, il suffit qu&#39;il atteigne
+la composition ; on conçoit que s&#39;il pénétroit trop
+avant, il affoibliroit le massif, qui donneroit trop
+tôt feu à la chasse, ces trous étant faits pour y communiquer 
+le feu.
+</p>
+<p>
+Après cette opération, on retire la <i>fusée</i> de dessus
+la broche, on délie la corde qui remplissoit l&#39;étranglement,
+&amp; on rogne la partie du cartouche qui
+excede le carton rendoublé.
+</p>
+<p>
+Si les <i>fusées</i> doivent être gardées, il faut coller
+un rond de papier sur chacun des bouts, pour les
+garantir de l&#39;impression de l&#39;air &amp; du feu ; en cet
+état elles se conserveront très-long-tems bonnes, si
+avec cette précaution on a eu celle de n&#39;emoloyer
+que des matieres bien seches dans la composition.
+</p>
+<p>
+<sc>Art</sc>. VI. <i>Du pot &amp; chapiteau</i>, &amp; <i>comment on garnit 
+les fusées volantes</i>. Le pot doit être fait du même
+carton que la <i>fusée ;</i> on le roule sur un cylindre de
+bois que l&#39;on nomme le <i>moule à former le pot ;</i> on lui
+donne d&#39;épaisseur deux à trois tours de carton, suivant 
+que la <i>fusée</i> est plus ou moins grosse.
+</p>
+<p>
+Ce moule à former le pot, quoique d&#39;une même
+piece, a deux parties cylindriques de différens diametres ; 
+l&#39;une sur laquelle on roule le pot, a de diametre 
+un &amp; trois-quarts de celui de la <i>fusée</i>, pris extérieurement,
+&amp; de longueur, trois diametres.
+</p>
+<p>
+Le diametre de l&#39;autre partie, sur laquelle on étrangle le pot, est de trois quarts un huitieme, &amp; sa longueur,
+de deux pareils diametres.
+</p>
+<p>
+On observera que, pour les <i>fusées</i> de douze lignes,
+on peut leur donner la hauteur des serpenteaux ordinaires,
+faits de cartes à joüer, que ces <i>fusées</i> peuvent 
+porter pour garnitures ; &amp; comme les paquets
+d&#39;étoiles sont beaucoup moins hauts, on réduira le
+pot à la proportion ci-dessus, lorsque ces <i>fusées</i> en
+seront garnies.
+</p>
+<p>
+Le pot étant étranglé à la mesure susdite, on rogne 
+bien droit la partie étranglée, ne lui laissant de
+longueur que ce qu&#39;il en saut pour le lier commodément 
+sur la <i>fusée:</i> on trempe dans l&#39;eau cette partie,
+pour la rendre flexible ; &amp; après avoir fait la ligature,
+on colle dessus une bande de papier brouillard,
+tant pour la cacher, que pour empecher qu&#39;elle ne
+se relâche.
+</p>
+<p>
+Pour garnir la <i>fusée</i>, on commence à verser dans
+le pot une pincée de poussier ; &amp; en frappant un peu
+<milestone unit="column" n="2" />
+contre, on la fait entrer dans les trous qui doivent
+communiquer le feu à la chasse : on verse ensuite
+dans le pot une cornée de la même composition dont
+on a chargé la <i>fusée ;</i> c&#39;est ce qui s&#39;appelle la <i>chasse ;</i>
+&amp; on arrange dessus les serpenteaux ou étoiles qu&#39;elle 
+doit jetter, en observant de n&#39;en pas mettre plus
+pesant que le corps de la <i>fusée ;</i> ensorte que la <i>fusée</i>
+de quatre onces n&#39;en pese pas plus de huit, lorsqu&#39;elle
+est garnie ; &amp; ainsi des autres. Une <i>fusée</i> dont la garniture 
+seroit trop pesante, ne s&#39;éleveroit qu&#39;à une
+médiocre hauteur, &amp; retomberoit à terre, en faisant
+un demi-cercle. On dit d&#39;une telle <i>fusée</i>, qu&#39;<i>elle a arqué</i>, pour exprimer la ligne courbe qu&#39;elle a décrite.
+</p>
+<p>
+On place quelques petits tampons de papier chiffonné 
+dans les interstices des serpenteaux ou des paquets 
+d&#39;étoiles, pour empêcher qu&#39;ils ne balottent ;
+&amp; on ferme le pot avec un rond de papier collé dessus : il faut le taillader par les bords pour empêcher
+qu&#39;il ne fasse des plis.
+</p>
+<p>
+Avant de mettre les paquets d&#39;étoiles dans le pot,
+on les passe dans du poussier, pour leur faire prendre
+feu plus subitement.
+</p>
+<p>
+Le chapiteau est ce qui termine la <i>fusée</i> en forme
+de cône ; il est fait d&#39;une simple épaisseur de carton.
+Pour lui donner la grandeur qui convient, on trace
+sur du carton un rond au compas, dont l&#39;ouverture
+doit être d&#39;un diametre un tiers du pot ; on divise
+ce rond en deux ; &amp; chaque moitié donne de quoi
+former un chapiteau ; on la mouille, pour en ôter le
+ressort ; on en colle les extrémités ; &amp; en la contournant,
+on lui fait prendre la forme d&#39;un cône.
+</p>
+<p>
+Lorsqu&#39;il est sec, on donne des coups de ciseaux
+sur les bords de sa circonserence, pour que cette
+partie joigne mieux sur le pot où elle doit être collée ; 
+&amp; on la mouille pour en ôter le ressort.
+</p>
+<p>
+Le chapiteau étant placé bien droit sur le pot, on
+colle sur la scissure une bande de papier brouillard,
+tant pour la cacher, que pour empêcher qu&#39;elle ne se
+décole en séchant.
+</p>
+<p>
+Cette bande de papier doit être mouillée de colle
+des deux côtés : on observera la même chose pour
+tout le papier que l&#39;on employera à couvrir les scissures 
+ou jointures des <i>fusées</i> ou porte-feux : le papier
+en est plus maniable ; &amp; les plis en paroissent moins.
+</p>
+<p>
+On amorce ensuite la <i>fusée</i>, en prenant un morceau 
+d&#39;étoupille plié double &amp; de grosseur proportionnée,
+que l&#39;on fait entrer dans le trou qu&#39;a formé
+la broche, à la hauteur d&#39;un diametre extérieur de
+la <i>fusée ;</i> &amp; on la colle dans la gorge avec de l&#39;amorce.
+Il ne faut mettre de l&#39;amorce, que ce qui est nécessaire 
+pour la tenir : une trop grande quantité, qui
+donneroit beaucoup de feu, pourroit faire crever la
+<i>fusée</i>.
+</p>
+<p>
+On finit par coller un rond de papier sur la gorge ;
+ce que les Artificiers nomment <i>bonneter:</i> cela sert à
+empêcher, lorsqu&#39;on tire les <i>fusées</i>, que celle qui part
+ne communique son feu aux autres, &amp; aussi à les
+garantir de l&#39;humidité.
+</p>
+<p>
+Bien des Artificiers ne mettent point de pot aux
+petites <i>fusées</i> de caisse ; ils se contentent de rouler &amp;
+de coller dessus un quarré de papier gris, qui déborde 
+la <i>fusée</i> de la hauteur de la garniture qu&#39;ils veulent 
+y placer. Après qu&#39;ils y ont mis la chasse &amp; la
+garniture, ils lient le papier dessus pour la renfermer.
+Les <i>fusées</i> ainsi garnies montent plus haut, parce 
+qu&#39;elles sont moins chargées : mais comme c&#39;est
+aux dépens de leur garniture, qui est fort petite, il
+n&#39;y a rien à gagner, si ce n&#39;est pour l&#39;artificier.
+</p>
+<p>
+<sc>Art</sc>. VII. <i>Des baguettes &amp; du chevalet</i>. La baguette 
+que l&#39;on attache aux <i>fusées</i>, sert à les maintenir
+droites, en contrebalançant leur pesanteur, contre
+laquelle le feu agit par l&#39;un des bouts, qui doit toûjours 
+être tourné en-bas, &amp; qu&#39;elle force à garder
+cette situation.
+<pb n="7:390" facs="V7/ENC_7-390.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le bois le plus leger est le plus propre à faire des
+baguettes ; celles des <i>fusées</i> de dix-huit lignes &amp; au-dessous,
+doivent être de sapin de sciage ; quant à
+celles d&#39;au-dessous, le coudre, le saule, &amp; l&#39;orme,
+fournissent abondamment des baguettes qui leur sont
+propres.
+</p>
+<p>
+Il faut leur donner au moins huit fois la longueur
+du moule. Son épaisseur en quarré par l&#39;un des bouts
+doit être d&#39;un demi-diametre extérieur de la <i>fusée ;</i> &amp;
+depuis le bout auquel on attache la <i>fusée</i>, elle doit aller 
+en diminuant jusqu&#39;à l&#39;autre extrémité, qui se termine 
+à un huitieme du même diametre.
+</p>
+<p>
+Plus les baguettes ont de longueur, plus les <i>fusées</i>
+montent droit ; elles ne sauroient en avoir trop,
+pourvû que n&#39;ayant en tête que la grosseur ci-dessus, elles se trouvent en équilibre à une certaine
+distance, lorsque les <i>fusées</i> y sont attachées : cette
+distance se regle par le diametre extérieur de la <i>fusée ;</i> on en donne deux &amp; demi aux plus petites <i>fusées</i>,
+jusque &amp; compris celles de 12 lignes ; pour celles
+d&#39;au-dessus, jusque &amp; compris celles de 2 pouces 2
+diametres, &amp; à celles par-delà, un diametre &amp; demi ;
+suivant lesquelles proportions, la baguette d&#39;une <i>fusée</i> d&#39;un pouce doit être en équilibre à deux pouces
+&amp; demi de la gorge. On cherche l&#39;équilibre avec un
+couteau, sur le tranchant duquel on pose la baguette ; 
+si elle est trop legere, il faut en changer ; lorsqu&#39;il y va de peu de chose, on peut attacher la <i>fusée</i>
+d&#39;un pouce ou deux plus haut ; cela donne plus de
+longueur &amp; de poids à la baguette : si elle est trop
+pesante, il faut en ôter, soit en retranchant de sa
+longueur, si elle a plus de huit fois celle du moule,
+soit en ôtant de son épaisseur.
+</p>
+<p>
+On fait une cannelure aux baguettes de sapin, dans
+l&#39;endroit où la <i>fusée</i> doit être attachée, pour qu&#39;elle
+soit plus stable. A l&#39;égard des baguettes de branchages,
+il suffit d&#39;unir avec un couteau &amp; de rendre plane 
+la surface du même endroit : l&#39;extrémité du gros
+bout doit être coupée en talus, tant pour la propreté,
+que pour faire moins de résistance dans l&#39;air.
+</p>
+<p>
+La <i>fusée</i> étant placée dans la cannelure, jusque
+&amp; non compris la ligature du pot, qui doit excéder
+la baguette, il faut la lier dans deux endroits du noeud
+de l&#39;artificier ; premierement, un peu au-dessous du
+talus qui termine la baguette ; &amp; en second lieu, dans
+l&#39;étranglement : on fait une entaille à la baguette à
+chacun de ces endroits, pour que la ficelle ne glisse
+point.
+</p>
+<p>
+On a imaginé en Angleterre, pour éviter les accidens 
+causés par la chûte des grosses baguettes, d&#39;en
+composer avec de petits saucissons faits de cartes à
+joüer. On les arrange de maniere, qu&#39;en débordant
+les uns sur les autres, &amp; étant collés de colle forte,
+&amp; recouverts de bandes de papier collées de colle de
+farine, ils puissent former une continuité unie &amp; solide.
+Chacun de ces saucissons contient entre deux
+étranglemens, la petite quantité de poudre nécessaire 
+pour le faire crever. Une étoupille qui tire son feu
+du pot de la <i>fusée</i>, &amp; qui communique a tous ces petits 
+saucissons garnis chacun d&#39;une étoupille, leur
+donne feu dans l&#39;instant que la <i>fusée</i> jette sa garniture ; 
+&amp; la baguette se divise en autant de petites parties 
+qui font une agréable escopeterie : la cherté de
+ces baguettes ne permet guere d&#39;en faire que pour
+essais : on croit cependant que si elles étoient fabriquées 
+par des ouvriers qui ne fissent que cela, ils
+parviendroient en peu de tems à un point d&#39;habileté 
+qui les mettroient en état de les donner à un prix
+modique.
+</p>
+<p>
+Le chevalet est un poteau que l&#39;on plante en terre,
+ou qui est soûtenu sur terre par un pié en forme
+de croix : il est traversé en haut par une barre de fer
+<milestone unit="column" n="2" />
+plate posée sur tranche, sur laquelle on place les <i>fusées</i> l&#39;une après l&#39;autre pour les tirer.
+</p>
+<p>
+Il y en a de plusieurs formes ; mais le plus simple
+de tous, &amp; qui est d&#39;autant plus commode qu&#39;on le
+transporte aisément où l&#39;on veut, est une perche armée 
+par l&#39;un de ses bouts d&#39;un fer pointu qui sert à
+la piquer dans terre. On visse dedans à la hauteur
+que l&#39;on veut, une vrille un peu longue, sur laquelle
+on tire les <i>fusées</i>.
+</p>
+<p>
+Il faut débonneter la <i>fusée</i>, en crevant le papier d&#39;un
+coup d&#39;ongle, dans l&#39;instant qu&#39;on la pose sur le chevalet ; 
+on y donne feu avec une lance placée au bout
+d&#39;un porte feu, qui est un leger bâton d&#39;environ cinq
+piés, &amp; qui est terminé par une espece de porte-crayon 
+de fer, dans lequel entre la lance, &amp; que l&#39;on
+y retient en la serrant avec un anneau coulant.
+</p>
+<p>
+<sc>Art</sc>. VIII. <i>Des serpenteaux, pluie de feu, marrons,
+saucissons, &amp; étoiles dont on garnit les fusées volantes</i>.
+Les serpenteaux destinés à garnir les <i>fusées</i> volantes
+&amp; les pots à feu, sont faits de cartes à jouer : on
+donne à ceux d&#39;une carte qu&#39;on nomme <i>vétille</i>, trois
+lignes de diametre intérieur ; à deux cartes, trois lignes
+&amp; demie ; &amp; à trois cartes, quatre lignes : ceux
+d&#39;un plus grand diametre doivent être faits en carton.
+</p>
+<p>
+On charge ceux de trois lignes dans une espece de
+boisseau un peu moins haut de bord que les cartouches,
+de la maniere qui suit.
+</p>
+<p>
+Les cartouches étant étranglés &amp; liés, on les arrange 
+tous droits dans le boisseau, autant qu&#39;il en
+peut tenir ; on frappe dans chacun un petit tampon
+de papier, pour boucher le trou de l&#39;étranglement,
+&amp; on y verse une mesure de poudre qui doit le remplir 
+jusqu&#39;à la moitie. Les ayant ainsi tous chargés en
+poudre, on répand dessus de la composition ; &amp; on
+l&#39;épanche avec une carte sur tous les cartouches.
+Lorsqu&#39;ils en sont remplis, on prend la baguette à
+charger, &amp; on les frappe avec un petit maillet, de
+huit coups chacun. On refait la même opération jusqu&#39;à ce qu&#39;ils soient remplis, à quatre lignes près,
+que l&#39;on reserve pour les étrangler : on les retire ensuite 
+du boisseau ; &amp; après qu&#39;ils sont étranglés, on
+ouvre leur gorge avec la pointe du culot, qui leur
+est propre ; on y place un bout d&#39;étoupille, &amp; on les
+amorce.
+</p>
+<p>
+Les serpenteaux à deux &amp; à trois cartes se chargent
+sur un culot qui porte une pointe dont la longueur
+est d&#39;un diametre un quart de l&#39;intérieur du cartouche,
+&amp; la grosseur d&#39;un tiers du même diametre ; on
+les frappe de dix coups à chaque charge. On commence 
+par les charger jusqu&#39;à moitié en composition : on
+met ensuite la poudre grainée &amp; un tampon par-dessus ; puis on les étrangle &amp; on les amorce, &amp; ainsi
+qu&#39;il vient d&#39;être dit pour la vétille.
+</p>
+<p>
+Lorsque l&#39;on veut que les serpenteaux s&#39;agitent
+beaucoup en l&#39;air, on les charge sur une broche qui a
+de hauteur trois diametres &amp; demi de l&#39;interieur du
+touche &amp; un tiers d&#39;épaisseur ; on les nomme alors
+<i>serpenteaux brochetés</i>. On en fait particulierement usage
+pour les pots à aigrettes.
+</p>
+<p>
+Pour la pluie de feu, on moule de petits cartouches 
+de papier sur une baguette de fer de deux lignes
+&amp; demie de diametre ; on leur donne deux pouces &amp;
+demi de longueur ; on ne les étrangle point : il suffit,
+ayant mis la baguette dedans, de tortiller le bout
+du cartouche, &amp; de frapper dessus pour lui faire prendre 
+son pli. On les remplit en les plongeant dans la
+composition : ils en prennent autant qu&#39;il en faut
+pour chaque charge ; &amp; après qu&#39;ils sont chargés, on
+les amorce sans les étrangler. L&#39;effet de cette garniture 
+est de remplir l&#39;air de feux ondoyans.
+<pb n="7:391" facs="V7/ENC_7-391.jpeg" />
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les marrons sont faits de poudre grainée renfermée 
+dans un cartouche de carton de forme cubique,
+&amp; recouvert d&#39;un ou de deux rangs de ficelle collée
+de colle forte : on perce un trou dans un de leurs
+angles ; &amp; on y place une étoupille avec de l&#39;amorce,
+pour y donner feu.
+</p>
+<p>
+Pour tracer &amp; couper juste le carton, qui doit former 
+d&#39;une seule piece un cube régulier, on a une
+planchette divisée en quinze quarrés, cinq sur une
+face &amp; trois sur l&#39;autre, &amp; percée d&#39;un trou à chaque
+angle, pour les marquer sur le carton : le parallélogramme 
+qu&#39;ils forment étant tracé &amp; coupé, on divise 
+avec des ciseaux les cinq quarrés qui le bordent
+de chaque côté dans la longueur : on les plie ensuite,
+on leur fait prendre la forme d&#39;un cube.
+</p>
+<p>
+On proportionne à leur grosseur celle du carton
+dont ils sont formés, &amp; celle de la ficelle qui les
+couvre.
+</p>
+<p>
+On fait assez souvent usage des marrons, pour les
+tirer en place de boîtes de métal, pour le prélude d&#39;un
+feu d&#39;artifice.
+</p>
+<p>
+Les marrons luisans ne different des autres, que parce 
+qu&#39;ils sont recouverts de pâte d&#39;étoiles, &amp; 
+roulés
+sur du poussier pour leur servir d&#39;amorce : deux petites 
+bandes de papier, que l&#39;on colle en croix dessus,
+retiennent cette pâte, &amp; l&#39;empêchent de s&#39;écailler 
+en séchant.
+</p>
+<p>
+Les saucissons ne different des marrons que par la
+forme ; l&#39;effet en est le même : leurs cartouches sont
+ronds, &amp; seulement de la hauteur de quatre de leurs
+diametres extérieurs, après les avoir étranglés. On
+frappe un bon tampon de papier dedans ; on les
+charge ensuite de poudre grainée sur laquelle on met
+un pareil tampon que l&#39;on presse seulement à la main
+avec la baguette, pour ne point écraser la poudre:
+on étrangle par-dessus, &amp; on rogne ce qui excede
+les deux étranglemens ; après cela, on les couvre de
+deux rangs de ficelle collée de colle forte, comme
+il vient d&#39;être dit pour les marrons : on les perce par
+un des bouts, &amp; on les amorce de même. On les employe 
+aussi pour terminer avec bruit certains artifices,
+comme lances, jets, &amp; autres, qui par leur petit 
+volume &amp; le peu d&#39;épaisseur de leur cartouche, ne
+pourroient contenir assez de poudre, ni faire assez
+de résistance pour éclater avec autant de bruit.
+</p>
+<p>
+On forme les étoiles avec une pâte composée de
+<table>
+                               <i>L.  onc. gr.</i>
+      Salpetre,    .  .  .  .   1    0   0
+      Soufre,      .  .  .  .   0    8   0
+      Poussier,    .  .  .  .   0    4   0
+</table>
+<milestone unit="column" n="2" />
+</p>
+<p>
+On détrempe ces matieres avec de l&#39;eau, après les
+avoir passées 3 fois au tamis pour les mêler, &amp; quand
+elles sont en consistence de pâte un peu solide, on coupe 
+cette pâte avec un moule qui forme dans une virole 
+de fer-blanc une pastille ronde &amp; plate, de la force
+d&#39;une dame à joüer, &amp; percée au milieu : ce trou est
+formé par une petite broche de fer placée au centre
+du manche qui porte la virole : si cette virole a huit
+lignes de hauteur, le manche ne doit entrer dedans
+que de quatre lignes ; les quatre autres lignes de vuide 
+font le moule, dans lequel se forme l&#39;etoile.
+</p>
+<p>
+Chaque fois que l&#39;on moule une étoile, il faut ôter
+la virole ; &amp; avec l&#39;autre bour du manche, on pousse
+la pastille dehors, &amp; on la fait tomber doucement
+sur une feuille de papier.
+</p>
+<p>
+Lorsque les étoiles sont seches, on les enfile dans
+de l&#39;étoupille ; &amp; les ayant un peu séparées de six en
+six, on coupe l&#39;étoupille dans ces séparations, &amp; on
+en colle les bouts avec de l&#39;amorce, sur la premiere
+&amp; sur la sixieme étoile de chaque paquet.
+</p>
+<p>
+On donne communément aux étoiles sept lignes de
+diametre sur quatre lignes d&#39;épaisseur ; lorsqu&#39;elles
+sont plus grosses, l&#39;effet n&#39;en est pas si beau, parce
+qu&#39;elles retombent trop bas.
+</p>
+<p>
+Les étoiles à pets, sont de petits saucissons auxquels 
+on laisse une gorge longue d&#39;un diametre &amp; demi,
+que l&#39;on remplit de pâte d&#39;étoiles. Il ne faut pas
+oublier, après qu&#39;ils sont chargés en poudre &amp; percés,
+de remplir le trou de la gorge de poussier, pour
+que le feu de l&#39;étoile, en finissant, se communique
+à la poudre grainée. <i>Voyez</i> <sc><ref target="head:Feu d&#39;Artifice" type="search">Feu d&#39;Artifice</ref></sc>. <i>Voyez
+aussi nos <ref target="XPL:5193" type="platelink">Pl. d&#39;Artificier</ref>, &amp; leur expl. Cet art. est tiré du</i>
+manuel de l&#39;artificier, <i>par M. <sc><ref target="head:Perrinet d&#39;Orv al" type="search">Perrinet d&#39;Orv al</ref></sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,147 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29022" id="51:235:29" vol="7">
+<index type="head" value="Garde bourgeoise" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde bourgeoise</head>
+<p>
+<sc>Garde bourgeoise</sc>, est celle qui est déférée par
+la coûtume au pere ou mere bourgeois &amp; non nobles.
+</p>
+<p>
+Quelques auteurs ont écrit que ce privilége fut
+accordé aux bourgeois de Paris par Charles V. par
+des lettres-patentes du 9 Août 1371: mais en examinant 
+avec attention ces lettres, on voit que l&#39;usage
+de la <i>garde bourgeoise</i> étoit plus ancien, &amp; que Charles V. ne fit que le confirmer. On voit en effet dans
+ces lettres, que les bourgeois de Paris représenterent
+au roi, que dans les tems passés, tant de son regne
+que de celui de ses predécesseurs, ils avoient joüi
+des droits de <i>garde</i> &amp; baux de leurs enfans &amp; cousins,
+<i>consanguineorum ;</i> ce qui suppose qu&#39;alors la <i>garde</i>
+avoit lieu à Paris au profit des collatéraux ; Charles
+V. les confirma dans tous leurs priviléges, sans les
+spécifier.
+</p>
+<p>
+Ce droit de <i>garde bourgeoisie</i> n&#39;a lieu dans la coûtume 
+de Paris, qu&#39;en faveur des bourgeois de la ville &amp;
+fauxbourgs de Paris, &amp; non pour les bourgeois des
+autres villes ; mais il a été étendu dans d&#39;autres coûtumes 
+aux bourgeois de certaines villes.
+</p>
+<p>
+Les ayeux &amp; ayeules ne peuvent prétendre la <i>garde bourgeoise</i>.
+</p>
+<p>
+Pour regler la capacité de celui qui prétend la <i>garde bourgeoise</i>, on ne considere pas le domicile du gardien,
+mais la coûtume du lieu où le défunt qui a
+donné ouverture à la <i>garde</i>, avoit son dernier domicile ; 
+&amp; certe <i>garde</i> n&#39;a son effet que sur les biens situés
+dans la coûtume qui accorde la <i>garde</i>, &amp; ne comprend
+pas ceux qui seroient dans d&#39;autres coûtumes, quand
+même elles accorderoient aussi la <i>garde bourgeoise</i>,
+parce qu&#39;elle n&#39;est donnée qu&#39;à ceux qui sont domiciliés 
+dans la coûtume ; &amp; que le défunt ne pouvoit
+pas être domicilié à-la-fois dans plusieurs coûtumes.
+<i>Voyez les arrêtés de</i> M. de Lamoignon, <i>tit. j. art. 29</i>.
+</p>
+<p>
+La <i>garde bourgeoise</i> ne dure que jusqu&#39;à quatorze
+ans pour les mâles, &amp; douze ans pour les filles, excepté 
+dans la coûtume de Reims, où elle dure jusqu&#39;à vingt-cinq ans, tant pour les mâles que pour les
+femelles.
+</p>
+<p>
+Du reste le pouvoir &amp; les droits du gardien bourgeois 
+sont les mêmes que ceux du gardien noble.
+<i>Voyez ci-après</i> <sc><ref target="head:Garde noble" type="search">Garde noble</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

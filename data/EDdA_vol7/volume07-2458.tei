@@ -1,0 +1,237 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29912" id="53:311" vol="7">
+<index type="head" value="GOUDRON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Chimie, &amp; Mat. méd." />
+<index type="normclass" value="Histoire naturelle | Chimie | Matière médicale" />
+<index type="englishclass" value="Natural history | Chemistry | Materia medica" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m." />
+<head>GOUDRON</head>
+<p>
+GOUDRON, s. m. (<i>Hist. nat. Chimie, &amp; Mat.
+méd.</i>) substance résineuse noire, d&#39;une consistance
+molle &amp; tenace, d&#39;une odeur forte, balsamique,
+&amp; empyreumatique, qui porte dans les traites de
+drogues, outre le nom de <i>goudron</i>, ceux de <i>brai liquide</i>, de <i>tare</i>, de <i>goudran</i>, de <i>poix noire liquide</i>,
+de <i>poix liquide</i>, &amp; quelquefois de <i>poix navale, pix
+navalis, pissa. Voyez</i> <sc><ref target="head:Poix" type="search">Poix</ref></sc>.
+</p>
+<p>
+On la retire par une espece de liquation ou de
+distillation, <i>per descersum</i>, exécutée dans un appareil 
+en grand, des arbres résineux de notre pays ; du
+pin, du sapin, du meleze, <i>&amp;c.</i> Ces procédés sont
+décrits à l&#39;<i>article</i> <sc><ref target="head:Pin" type="search">Pin</ref></sc>. <i>Voyez cet article</i>. Pomet avance 
+sans fondement que le <i>goudron</i> découle par incision 
+avec sa couleur noire, des troncs des vieux
+pins dépouilles d&#39;écorce. <i>Voyez</i> <sc><ref target="head:Pin" type="search">Pin</ref></sc>.
+</p>
+<p>
+Le <i>goudron</i> a été mis par les anciens pharmacologistes 
+au rang des médicamens, aussi-bien que tous
+les produits résineux, soit naturels, soit artificiels,
+des arbres coniferes. Celui-ci peut, comme toutes
+les autres matieres balsamiques &amp; résineuses, fournir 
+un ingrédient utile aux emplâtres agglutinatifs,
+&amp; si l&#39;on veut même aux emplâtres &amp; aux onguens
+résolutifs ; mais on préfere ordinairement les substances 
+analogues qui n&#39;ont éprouvé aucune altération 
+par le feu ; cette qualité de substance altérée
+par le feu, &amp; plus encore un vice plus réel, sa grande 
+ténacité ou viscosité ont banni le <i>goudron</i> de l&#39;ordre 
+des médicamens destinés à l&#39;usage intérieur ; ensorte 
+que ce n&#39;étoit plus un remede parmi nous,
+lorsque nous apprîmes des peuples du nouveau monde 
+à en retirer une infusion à froid, qui fut fort employée 
+il y a quelques années, sous le nom d&#39;<i>eau de
+goudron</i>, &amp; que nous avons absolument abandonnée 
+aujourd&#39;hui, peut être sans raison, &amp; par pure
+inconstance : car quoiqu&#39;il soit très-vraissemblable
+que l&#39;eau de <i>goudron</i> a dû principalement sa vogue
+au nom du célebre George Berkeley, évêque de
+Cloyne, qui nous a fait connoître ce remede, &amp;
+plus encore au singulier ouvrage dans lequel il a publié 
+ses vertus : quoiqu&#39;il ne faille pas croire que l&#39;eau
+de <i>goudron</i> est un remede souverain contre toutes
+les affections cachectiques, rhumatiques, arthritiques,
+scorbutiques, catarrhales, vénériennes, aedémateuses,
+érésypélateuses, mélancholiques, hystériques,
+<i>&amp;c.</i> qu&#39;elle produise des effets merveilleux
+dans l&#39;hydropisie, les coliques, les douleurs néphrétiques,
+les fleurs blanches, les pleurésies, les péripneumonies,
+les asthmes, les obstructions des visceres,
+les hydropisies, les dyssenteries, les ulceres
+des reins, des poumons, des intestins, de la matrice,
+les maladies de la peau, la foiblesse de l&#39;estomac,
+les fievres intermittentes, continues, malignes,<gap type="hyphenpb" />
+<pb n="7:751" facs="V7/ENC_7-751.jpeg" />
+<milestone unit="column" n="1" />
+les incommodités auxquelles sont particulierement 
+sujets les gens de mer, les femmes, les gens
+de Lettres, &amp; tous ceux qui menent une vie sédentaire ; 
+qu&#39;elle soit un préservatif assûré contre le venin 
+de la petite vérole &amp; des autres maladies éruptives,
+contre les maladies des dents &amp; des gencives,
+<i>&amp;c.</i> &amp; extérieurement en lotion, en bain, en
+injection, dans les ulceres putrides, rébelles, la
+galle, les dartres, la paralysie, les rhumatismes, <i>&amp;c.</i>
+Quoiqu&#39;on ne doive pas craindre, avec le traducteur 
+de l&#39;ouvrage de Berkeley, de ne pas avoir qualifié 
+ce remede assez honorablement, lorsqu&#39;on l&#39;a
+appellé un spécifique merveilleux ; il est certain
+cependant que l&#39;eau de <i>goudron</i> n&#39;est pas un secours 
+à négliger dans le traitement de plusieurs maladies 
+de l&#39;estomac, dans les embarras des reins &amp;
+des voies urinaires, les maladies de la peau, les suppressions 
+des regles, les affections aedémateuses, &amp;
+peut être même dans les maladies véritablement putrides 
+ou gangréneuses, dans les amas bilieux, les
+maladies scorbutiques, <i>&amp;c.</i>
+</p>
+<p>
+Pour faire l&#39;eau de <i>goudron</i>,
+<blockquote> 
+« versez quatre pintes 
+d&#39;eau froide sur une de <i>goudron</i>, puis remuez-les 
+&amp; les mêlez intimement avec une cuilliere de
+bois ou un bâton plat, durant l&#39;espace de cinq à
+six minutes ; après quoi laissez reposer le vaisseau
+bien exactement fermé pendant deux fois vingt-quatre 
+heures, afin que le <i>goudron</i> ait le tems de
+se précipiter. Ensuite vous verserez tout ce qu&#39;il y
+a de clair, l&#39;ayant auparavant écumé avec soin
+sans remuer le vaisseau, &amp; en remplirez pour votre 
+usage des bouteilles que vous boucherez exactement,
+le <i>goudron</i> qui reste n&#39;étant plus d&#39;aucune
+vertu, quoiqu&#39;il puisse encore servir aux usages
+ordinaires.... Moins d&#39;eau, ou l&#39;eau plus battue,
+rend la liqueur plus forte ; &amp; <i>au contraire</i>. Sa couleur 
+ne doit pas être plus claire que celle du vin
+blanc de France, ni plus foncée que celle du vin
+d&#39;Espagne ».
+</blockquote>
+</p>
+<p>
+<i>Recherches sur les vertus de l&#39;eau de goudron, traduites 
+de l&#39;anglois du sieur Berkeley</i>. La dose de cette eau
+varie selon l&#39;âge, les forces du malade, l&#39;indication
+à remplir, <i>&amp;c.</i> La regle la plus générale pour les
+adultes, c&#39;est d&#39;en prendre depuis une demi-livre
+jusqu&#39;à une livre, &amp; même jusqu&#39;à deux livres tous
+les jours, le matin à jeun, &amp; le soir ou l&#39;après midi
+plusieurs heures après le repas, à chaud ou à froid,
+selon l&#39;état de l&#39;estomac, le goût du malade, <i>&amp;c.</i>
+</p>
+<p>
+Berkeley dit que son eau de <i>goudron</i> est en même
+tems un savon &amp; un vinaigre. Cartheuser nous apprend 
+sa composition d&#39;une maniere plus positive:
+selon cet auteur, l&#39;eau de <i>goudron</i> est chargée d&#39;une
+substance résineuse, gommeuse, <i>resina gummea</i>, qui
+se manifeste non-seulement par l&#39;odeur, le goût, &amp;
+la couleur qu&#39;elle donne à l&#39;eau, mais encore par
+la distillation (c&#39;est cette substance que le docteur
+Berkeley appelle <i>savon</i>); &amp; de quelques parties acides 
+qui sont sensibles au goût, &amp; qui donnent à l&#39;eau
+la propriété de rougir le sirop de violette, &amp; de faire
+effervescence avec les alkalis ; c&#39;est là le vinaigre de
+Berkeley.
+</p>
+<p>
+Cartheuser admet encore dans cette eau des parties 
+qu&#39;il appelle <i>oleo spirituosae balsamicae:</i> cette expression 
+ne désigne aucun être chimique bien déterminé; 
+elle peut convenir cependant au principe de
+l&#39;odeur qui est fort abondant dans l&#39;eau de <i>goudron</i>.
+L&#39;acide dont elle est chargée, est un produit de la
+décomposition qu&#39;a éprouvé la résine qui s&#39;est changée 
+en <i>goudron</i> dans l&#39;opération par laquelle on prépare 
+cette derniere substance, comme il arrive dans
+l&#39;analyse par le feu de toutes les substances balsamiques 
+&amp; résineuses. <i>Voyez</i> <sc><ref target="head:Résine" type="search">Résine</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

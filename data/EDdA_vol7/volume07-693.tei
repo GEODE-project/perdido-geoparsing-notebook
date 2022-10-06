@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28147" id="50:38:1" vol="7">
+<index type="head" value="Framboisier, &amp; Framboise" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. med. &amp; Diete." />
+<index type="normclass" value="Matière médicale | Diète" />
+<index type="englishclass" value="Materia medica | Diet" />
+<index type="generatedclass" value="Matiere médicale" />
+<index type="pos" value="NA" />
+<head>Framboisier, &amp; Framboise</head>
+<p>
+<sc>Framboisier, <i>&amp;</i> Framboise</sc>, (<i>Mat. med. &amp;
+Diete.</i>) Les feuilles &amp; les sommités du <i>framboisier</i>
+sont legerement détersives &amp; astringentes, &amp; peuvent 
+etre substituées à celles des ronces pour les gargarismes 
+qu&#39;on employe dans les maux de gorge &amp;
+de gencives, lorsqu&#39;il s&#39;agit de procurer un leger resserrement 
+à ces parties. C&#39;est à-peu-près là tout l&#39;usage 
+qu&#39;on tire de l&#39;arbrisseau.
+</p>
+<p>
+Son fruit rouge &amp; blanc est plus employé sur les
+tables qu&#39;en Medecine. Les belles framboises pleines
+de suc, &amp; nouvellement cueillies, ont un goût &amp; une
+odeur aromatique, également fine &amp; flateuse ; ce
+qui provient du sel essentiel de ce fruit, joint &amp; uni
+avec quelques parties huileuses un peu exaltées ; lesquelles 
+picotant legerement les nerfs du goût &amp; de
+l&#39;odorat, excitent une sensation agréable. Comme
+les framboises contiennent à-peu-près les mêmes
+principes que les fraises ; elles sont humectantes,
+raffraîchissantes, &amp; contraires à l&#39;acrimonie bilieuse.
+</p>
+<p>
+On prépare avec ce fruit, du sucre, &amp; de l&#39;eau,
+une boisson appellée <i>eau de framboise</i> très-bonne pour
+appaiser la soif dans les maladies aiguës. Le nitre
+dissous &amp; crystallisé avec le suc de framboise, remplira 
+le même but.
+</p>
+<p>
+On fait aussi avec le suc de ce fruit, des gelées &amp;
+des syrops très-convenables dans les fievres &amp; les
+diarrhées putrides. On trouve le syrop de <i>framboise</i> tout préparé dans les boutiques d&#39;Apoticaires,
+sous le nom de <i>syrupus rubi-idaei</i>. Le vin rouge framboisé,
+c&#39;est-à-dire dans lequel on a infusé des framboises,
+paroît assez propre pour le vomissement causé 
+par la foiblesse &amp; l&#39;atonie de l&#39;estomac.
+</p>
+<p>
+On tire des framboises, comme de tous les fruits
+rouges, une eau spiritueuse. (<i>D. J.</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

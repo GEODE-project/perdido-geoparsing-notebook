@@ -1,0 +1,135 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29732" id="53:187" vol="7">
+<index type="head" value="GLUTEN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. Minéralogie." />
+<index type="normclass" value="Histoire naturelle | Minéralogie" />
+<index type="englishclass" value="Natural history. Mineralogy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>GLUTEN</head>
+<p>
+<i>GLUTEN</i>, (<i>Hist. nat. Minéralogie.</i>) mot latin
+adopté par les naturalistes pour désigner la matiere
+qui sert à lier les parties terreuses dont une pierre
+ou roche est composée, ou à joindre ensemble différentes 
+pierres détachées pour ne faire plus qu&#39;une
+seule masse. On sait que les pierres ne different des
+terres que par la consistence &amp; la dureté; c&#39;est au
+<i>gluten</i> ou à une espece de matiere colante qu&#39;elles
+sont redevables de ces qualités. Il est très-difficile
+de déterminer en quoi cette matiere consiste, &amp; à
+quel point elle est variée ; il n&#39;y a que le tems &amp; les
+expériences qui puissent nous donner là-dessus les
+lumieres dont nous manquons ; peut-être trouvera-t-on quelque jour des raisons pour croire que le <i>gluten</i> seul constitue les différences que l&#39;on remarque
+entre les différentes especes de pierres, &amp; il pourroit 
+bien se faire que la matiere qui leur sert de base
+fût constamment la même. Un des meilleurs moyens
+pour connoître la nature du <i>gluten</i>, ou du lien qui
+sert à joindre les particules qui composent une pierre,
+seroit d&#39;examiner les eaux que l&#39;on trouve dans
+les grottes &amp; cavités de la terre ; ces eaux se filtrent
+perpétuellement au-travers des roches dans lesquelles 
+ces cavités se rencontrent, &amp; les remplissent
+peu-à-peu, ou bien elles y forment des stalactites,
+des concrétions, des incrustations &amp; des crystallisations.
+<i>Voyez l&#39;article</i> <sc><ref target="head:Grotte" type="search">Grotte</ref></sc>. Joignez à cela que
+toutes les eaux examinées avec attention donnent
+toûjours par l&#39;évaporation un dépôt plus ou moins
+considérable de terre atténuée, qu&#39;elles ont charriée 
+avec elles après les avoir mises en dissolution.
+Si ces eaux sont chargées de parties salines, comme
+d&#39;acide vitriolique, d&#39;acide marin, <i>&amp;c.</i> ou de quelques 
+autres principes du regne minéral, on sent
+qu&#39;elles sont en état de former une infinité de combinaisons 
+différentes, d&#39;agir diversement sur les substances 
+par où elles passent ; &amp; ces unions qui peuvent 
+se faire dans ces eaux elles-mêmes doivent nécessairement 
+donner des produits différens, &amp; faire
+des <i>glutens</i> de différente nature. <i>Voyez l&#39;art</i>. 
+<sc><ref target="head:Crystallisation" type="search">Crystallisation</ref>, <ref target="head:Crystal" type="search">Crystal</ref>, <ref target="head:Pierres" type="search">Pierres</ref>, <ref target="head:Grotte" type="search">Grotte</ref>, <i>&amp;c.</i> <ref target="head:Guhr" type="search">Guhr</ref></sc>, <i>&amp;c.</i> (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

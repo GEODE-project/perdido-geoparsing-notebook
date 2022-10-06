@@ -1,0 +1,184 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28508" id="50:207" vol="7">
+<index type="head" value="FUGUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Rousseau" />
+<index type="shortauth" value="Rousseau" />
+<index type="kafnum" value="118" />
+<index type="kafauth" value="Rousseau, Jean-Jacques (1712-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Musique" />
+<index type="normclass" value="Musique" />
+<index type="englishclass" value="Music" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="s.f." />
+<head>FUGUE</head>
+<p>
+FUGUE, s. f. <i>en Musique</i>, est un chant répété successivement 
+&amp; alternativement par deux ou plusieurs 
+parties, selon certaines regles particulieres qui
+distinguent la <i>fugue</i> de l&#39;imitation, &amp; dont voici les
+principales.
+</p>
+<p>
+I. La <i>fugue</i> procede de la dominante à la tonique,
+ou de la tonique à la dominante, en montant ou en
+descendant.
+</p>
+<p>
+II. Toute <i>fugue</i> a sa réponse dans la partie qui la
+suit immédiatement, &amp; qui doit en rendre le chant
+à la quinte ou à la quarte, &amp; par mouvement semblable,
+le plus exactement qu&#39;il est possible ; procédant 
+de la dominante à la tonique, quand le premier
+chant a procédé de la tonique à la dominante, ou
+<i>vice versâ</i>. Une partie peut aussi reprendre ce même
+chant après l&#39;autre, à l&#39;octave ou à l&#39;unisson : mais
+alors c&#39;est plûtôt répétition qu&#39;une véritable réponse.
+</p>
+<p>
+III. Comme l&#39;octave se divise en deux parties inégales,
+dont l&#39;une comprend quatre degrés en montant 
+de la tonique à la dominante, &amp; l&#39;autre seulement 
+trois, en continuant de monter de la dominante 
+à la tonique ; cela oblige d&#39;avoir égard à cette
+différence, &amp; de faire quelque changement dans la
+réponse, pour ne pas quitter les cordes essentielles
+du mode : c&#39;est autre chose, quand on se propose de
+changer de ton.
+</p>
+<p>
+IV. Il faut que la <i>fugue</i> soit dessinée de telle sorte,
+que la réponse puisse entrer avant la fin du premier
+chant. C&#39;est se mocquer, que de donner pour <i>fugue</i>
+un chant qu&#39;on ne fait que promener d&#39;une partie à
+l&#39;autre, sans autre gêne que de l&#39;accompagner ensuite 
+à sa volonté: cela mérite tout-au-plus le nom <i>d&#39;imitation. Voyez</i> <sc><ref target="head:Imitation" type="search">Imitation</ref></sc>.
+</p>
+<p>
+Outre ces regles d&#39;harmonie, qui sont fondamentales,
+pour réussir dans ce genre de composition, il y
+en a d&#39;autres qui pour n&#39;être que de goût, n&#39;en sont
+pas moins essentielles. Les <i>fugues</i> en général servent
+plus à faire du bruit qu&#39;à produire de beaux chants:
+c&#39;est pourquoi elles conviennent mieux dans les
+choeurs que par-tout ailleurs. Or comme leur principal 
+mérite est de fixer toûjours l&#39;auditeur sur le chant
+principal, qu&#39;on fait passer pour cela incessamment
+de partie en partie &amp; de modulation en modulation ;
+le compositeur doit mettre tous ses soins à rendre
+toujours ce chant bien distinct, &amp; à empêcher qu&#39;il ne
+soit étouffé ou confondu parmi les autres parties : il
+y a pour cela deux moyens ; l&#39;un est dans le mouvement 
+qu&#39;il faut sans cesse contraster ; de sorte que si
+la marche de la <i>fugue</i> est précipitée, les autres parties 
+procedent posément par des notes longues ; &amp; au
+contraire, si la <i>fugue</i> marche gravement, que les accompagnemens 
+travaillent davantage. Le second
+moyen est d&#39;écarter l&#39;harmonie, de peur que les autres 
+parties s&#39;approchant trop de celle qui chante la
+<i>fugue</i>, ne se confondent avec elle, &amp; ne l&#39;empêchent
+de se faire entendre assez nettement ; ensorte que ce
+qui seroit un vice par-tout ailleurs, devient ici une
+beauté. Les habiles maîtres ont encore soin, pour la
+même raison, de mettre en jeu des instrumens ou
+des voix d&#39;especes différentes, afin que chaque partie 
+se distingue mieux. En un mot, dans toute <i>fugue</i>,
+la confusion est en même tems ce qu&#39;il y a de plus à
+craindre &amp; de plus difficile à éviter ; &amp; l&#39;on peut dire
+qu&#39;une belle <i>fugue</i> bien traitée est le ches-d&#39;oeuvre du
+meilleur harmoniste.
+</p>
+<p>
+Il y a encore plusieurs autres manieres de <i>fugues</i>,
+<pb n="7:361" facs="V7/ENC_7-361.jpeg" />
+<milestone unit="column" n="1" />
+comme les <i>fugues</i> perpétuelles, qu&#39;on appelle <i>canons</i>,
+les <i>doubles-fugues</i>, les <i>contre-fugues</i>, ou <i>fugues renversées</i>, qu&#39;on peut voir à leurs mots, &amp; qui servent
+plus à étaler la science du musicien qu&#39;à flatter l&#39;oreille 
+de ceux qui les écoutent.
+</p>
+<p>
+<i>Fugue</i> vient du latin <i>fuga</i>, fuite, parce que les
+parties partant ainsi successivement, semblent se fuir
+&amp; se poursuivre l&#39;une l&#39;autre. (<i>S</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

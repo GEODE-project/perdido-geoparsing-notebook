@@ -1,0 +1,343 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29229" id="52:63" vol="7">
+<index type="head" value="GAZE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manufactur." />
+<index type="normclass" value="Manufacture" />
+<index type="englishclass" value="Manufacturing" />
+<index type="generatedclass" value="Manufacture en soie" />
+<index type="pos" value="s.f." />
+<head>GAZE</head>
+<p>
+*GAZE, s. f. (<i>Manufactur</i>.) tissu leger ou tout de
+fil, ou tout de soie, ou fil &amp; soie, travaillé à claire
+voie, &amp; percé de trous comme le tissu de crin dont
+on fait les cribles : la fabrication de cette espece d&#39;étoffe 
+ou de toile est très-ingénieuse ; ceux qui en ont
+parlé n&#39;ont pas considéré le métier d&#39;assez près ; &amp; à
+juger de la <i>gaze</i> par ce qu&#39;on en lit dans le <i>dictionnaire
+du Commerce</i>, il est bien difficile de la distinguer de la
+toile ou du satin.
+</p>
+<p>
+Pour fabriquer la <i>gaze</i>, il faut commencer par disposer 
+la chaîne comme si on avoit à fabriquer une
+autre étoffe de soie ; je veux dire la devider sur l&#39;ourdissoir 
+(<i>Voyez l&#39;article</i> <sc><ref target="head:Ourdissoir" type="search">Ourdissoir</ref></sc>); la porter de
+l&#39;ourdissoir sur le plioir (<i>Voyez l&#39;article</i> <sc><ref target="head:Plioir" type="search">Plioir</ref></sc>); &amp;
+du plioir sur les ensuples ; l&#39;encroiser, &amp; achever le
+montage du métier.
+</p>
+<p>
+Le métier du gazier ne differe guere des autres métiers 
+de la fabrique des étoffes en soie, soit unies soit
+figurées ; &amp; il se monte exactement de la même maniere.
+Il y a lecture du dessein, gravassine, gravassiniere,
+lacs, semple, rame, tirage, <i>&amp;c. Voyez à l&#39;art</i>.
+<sc><ref target="head:Soie" type="search">Soie</ref></sc>, le travail des étoffes en soie ; <i>voyez</i> sur-tout
+<i>l&#39;article</i> 
+<sc><ref target="head:Velours ciselé" type="search">Velours ciselé</ref>, <ref target="head:frisé" type="search">frisé</ref></sc>
+, <i>&amp; de plusieurs
+couleurs</i>.
+</p>
+<p>
+Quoique nous renvoyions ici à un grand nombre
+d&#39;articles étrangers à la <i>gaze</i>, cela n&#39;empêchera point
+que nous ne fassions entendre très-distinctement la
+différence qu&#39;il y a entre la fabrication de cette
+étoffe &amp; celle de la toile ou du satin. Pour cet effet,
+laissant-là toutes les manoeuvres qui sont communes
+au gazier, au tisserand, &amp; au manufacturier d&#39;étoffes
+en soie, nous nous attacherons à celles qui lui sont
+propres ; &amp; nous insisterons sur la partie qui distingue 
+son métier des autres métiers à ourdir.
+</p>
+<p>
+Cette partie est une lisse qui porte des petits grains
+de chapelets qu&#39;on appelle des <i>perles</i>. C&#39;est la fonction 
+de cette lisse qui empêche que la <i>gaze</i> unie ne
+soit une toile ou un satin, &amp; qui en fait une <i>gaze:</i>
+c&#39;est ce que nous allons démontrer de la maniere la
+plus simple &amp; la plus claire.
+</p>
+<p>
+Si vous comparez nos <i><ref target="XPL:5242" type="platelink">Planches I</ref>. &amp; II. du Gazier</i>
+avec nos <i><ref target="XPL:5243" type="platelink">Planches du Manufacturier en soie</ref></i>, vous appercevrez 
+d&#39;un coup-d&#39;oeil ce qu&#39;il y a de commun
+entre le métier à <i>gaze</i> &amp; les autres métiers à ourdissage : mais pour bien entendre la fabrication de la
+<i>gaze</i>, il suffit de s&#39;occuper de la <i>III. <ref target="XPL:5244" type="platelink">Pl. Voyez donc
+cette <ref target="XPL:5245" type="platelink">Planche</ref></ref></i>.
+</p>
+<p>
+Les cylindres <i>A B, ab</i>, (<i><ref target="XPL:5246" type="platelink">fig. 1</ref>. <ref target="XPL:5247" type="platelink">Pl. IV</ref>.</i>) sont les
+ensuples ; <i>A B</i> est celle de devant ; <i>ab</i> une de celles
+de derriere. <i>1, 2; 1, 2; 1, 2; 1, 2</i>, sont les fils de la
+chaîne portés sur les deux ensuples : <i>c, c ; c, c ; c, c</i>,
+&amp;c... représentent les dents du peigne : <i>d, d, e, e,
+e, e</i>, la lisse avec ses perles ; <i>f, f, g, g, g, g</i>, une autre 
+lisse avec des annelets de verre qu&#39;on appelle des
+<i>maillons ; h h, i i</i>, les bâtons d&#39;encroix.
+</p>
+<p>
+On voit que les fils de chaîne <i>1, 1, 1</i>, &amp;c. passent
+dans les perles <i>e, e, e, e</i>, &amp; dans les maillons <i>g, g,
+g, g</i>, &amp; qu&#39;ils sont placés sur les ensuples de maniere
+qu&#39;ils se croisent aux points <i>k, k, k, k</i>. D&#39;où il suit que,
+si nous supposons que la lisse <i>d, d</i>, soit levée, les fils
+de chaîne restant dans leurs situations relatives ; les
+fils <i>1, 1, 1, 1</i>, feront angle avec les fils <i>2, 2, 2, 2</i>,
+le fil <i>1</i> devant le fil <i>2</i>, le fil <i>1</i> devant le fil <i>2</i>, le fil <i>1</i>
+<milestone unit="column" n="2" />
+devant le fil 2, &amp; ainsi de suite, comme ils sont rangés 
+sur les ensuples. Donc, si le fil <i>l, l, l, l, l, m, m,
+m, m, m, &amp;c.</i> représente un fil de trame, &amp; que le
+gazier ait donné un coup de navette de droite à gauche,
+ce fil de trame sera pris en <i>l, l, l, l</i>, entre les
+fils de chaîne, comme on voit <i><ref target="XPL:5248" type="platelink">fig. 2</ref>. même Pl</i>.
+</p>
+<p>
+Mais si on laisse retomber la lisse <i>d d</i>, &amp; qu&#39;on
+fasse lever la lisse <i>f f</i>, comme on voit <i><ref target="XPL:5249" type="platelink">fig. 2</ref>. même
+Pl.</i> qu&#39;arrivera-t-il? que les fils de chaîne <i>1, 1, 1, 1,
+&amp;c.</i> ne garderont plus leurs situations relatives avec
+les fils <i>2, 2, 2, 2 ;</i> que ces fils <i>1, 1, 1, 1</i>, passeront de
+l&#39;autre côté des fils <i>2, 2, 2, 2 ;</i> que les fils <i>2, 2, 2,
+2</i>, feront angle avec les fils <i>1, 1, 1, 1</i>, le fil <i>2</i> devant
+le fil <i>1</i>, le fil <i>2</i> devant le fil <i>1</i>, le fil <i>2</i> devant le fil <i>1</i>, &amp;
+ainsi de suite ; &amp; que, si l&#39;ouvrier donne un second
+coup de navette de gauche à droite, le fil de trame <i>l,
+l, l, l, m, m, m, m, &amp;c.</i> sera pris entre les fils de chaîne,
+comme on le voit <i><ref target="XPL:5250" type="platelink">fig. 2</ref>.</i> en <i>m, m, m, m ;</i> il y aura
+donc entre ces deux coups de navette, ou la portion
+du fil de trame <i>l, l, l, l</i>, &amp; la portion du même fil
+<i>m, m, m, m</i>, une espece d&#39;encroix <i>0, 0, 0, 0</i>, ou de
+tour des fils de chaîne <i>1, 1, 1, 1</i>, sur les fils de chaîne 
+<i>2, 2, 2, 2</i>, qui tient les portions de fil de trame
+séparées, &amp; qui ne leur permet jamais de s&#39;approcher,
+&amp; de former un tissu serré comme il est à la toile &amp;
+au satin : c&#39;est ce tour ou cet encroix &amp; le déplacement 
+alternatif des fils de chaîne qui écartent les
+coups de navette ou les portions de fil de trame ; &amp;
+c&#39;est cet écart qui forme les trous ou claires voies de
+la <i>gaze</i>.
+</p>
+<p>
+Qu&#39;on laisse retomber la lisse <i>f f</i>, &amp; qu&#39;on fasse
+lever la lisse <i>d d</i>, comme on la voit <i><ref target="XPL:5251" type="platelink">fig. 3</ref>. même Pl.</i>
+les fils de chaîne reprendront leur position relative
+aussi-tôt que la lisse <i>f f</i> sera retombée, &amp; les fils <i>1, 1,
+1, 1</i>, feront angle avec les fils <i>2, 2, 2, 2 ;</i> de maniere 
+que le fil 1 soit devant le fil 2, le fil 1 devant le fil
+<i>2</i>, le fil <i>1</i> devant le fil <i>2</i>, &amp; ainsi de suite, comme il
+est arrivé <i><ref target="XPL:5252" type="platelink">figure 1</ref></i>. Donc si l&#39;ouvrier donne un troisieme 
+coup de navette de droite à gauche, le fil
+de trame se trouvera pris, comme on le voit <i><ref target="XPL:5253" type="platelink">figure 3</ref>.</i> en <i>n, n, n, n ;</i> ensorte que la portion <i>m,
+m, m, m</i>, de ce fil se trouvera séparée de la portion 
+<i>n, n, n, n</i>, comme celle-ci l&#39;étoit de la premiere
+<i>l, l, l, l</i>, par un tour ou espece d&#39;encroix <i>p, p, p, p</i>,
+qui empêchera que le coup de battant ne puisse tenir
+les portions de trame <i>m, m, m, m</i> &amp; <i>n, n, n, n</i>, approchées ; 
+ce qui donnera lieu à une nouvelle rangée
+de trous.
+</p>
+<p>
+Ainsi à chaque coup de navette, chaque fil de
+chaîne <i>1, 1, 1, 1</i>, faisant par le moyen de la lisse à
+perle &amp; de la lisse à maillon, sur chaque autre fil de
+chaîne <i>2, 2, 2, 2</i>, une espece de tour ou d&#39;encroix,
+ces fils ne pourront jamais être serrés ; ces tours ou
+encroix les tiendront séparés ; &amp; à l&#39;aide de ces séparations,
+il y aura à chaque coup de navette une
+rangée de petits espaces vuides entre chaque portion
+de fil de trame &amp; de chaîne ; ce qui fera la claire
+voie de la <i>gaze</i>.
+</p>
+<p>
+Voici en un mot tout le mystere de la <i>gaze</i> expliqué,
+sans même qu&#39;il soit besoin de figures. Imaginez
+des fils horisontaux &amp; paralleles les uns aux autres,
+comme sur le métier du tisserand ; soit le premier de
+ces fils nommé <i>a</i>, le second <i>b</i>, le troisieme <i>a</i>, le quatrieme 
+<i>b</i>, le cinquieme <i>a</i>, le sixieme <i>b</i>, &amp; ainsi de suite : si vous faites lever tous les fils <i>a, a, a, a</i>, les
+fils <i>b, b, b, b</i>, restant horisontaux &amp; paralleles, &amp;
+que vous donniez un coup de navette, ou que vous
+passiez un fil de trame ; que vous fassiez baisser les fils
+<i>a, a, a, a ;</i> &amp; que les laissant horisontaux &amp; paralleles,
+vous fassiez lever les fils <i>b, b, b, b ;</i> &amp; que
+vous donniez un second coup de navette, ou que
+vous passiez un fil de trame ; il est clair que le battant 
+pressera l&#39;une contre l&#39;autre ces deux portions
+des fils de trame ; &amp; que vous ferez de la toile, en
+continuant toûjours ainsi.
+<pb n="7:533" facs="V7/ENC_7-533.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Mais si, après avoir fait lever les fils <i>a, a, a, a ;</i>
+laissé les fils <i>b, b, b, b</i>, dans la situation horisontale
+&amp; parallele ; donné un coup de trame, &amp; laissé retomber 
+les fils <i>a, a, a, a ;</i> au lieu de lever les fils <i>b, b,
+b, b</i>, vous levez une seconde fois <i>a, a, a, a</i>, mais en
+les faisant passer de l&#39;autre côté des fils <i>b, b, b, b:</i>
+ensorte qu&#39;au lieu de se trouver dans la situation <i>ab,
+ab, ab, ab</i>, comme au premier coup de navette, ils
+se trouvent au second coup de navette dans la situation 
+<i>ba, ba, ba, ba ;</i> il est évident que les fils <i>b, b,
+b, b</i>, seront toûjours restés immobiles &amp; paralleles ;
+mais que les fils <i>a, a, a, a</i>, auront perpétuellement
+serpenté sur eux une fois en-dessus, une fois en-dessous ; une fois en-dessus, une fois en-dessous, de gauche 
+à droite, de droite à gauche ; &amp; que ces petits
+serpentemens des fils <i>a, a, a, a</i>, empêcheront les fils
+de trame lancés à chaque coup de navette, de se serrer,
+&amp; d&#39;être voisins ; ce qui fera une toile à claire
+voie.
+</p>
+<p>
+Or c&#39;est précisément là ce qui s&#39;exécute par le
+moyen de la lisse à perle &amp; de la lisse à maillon : aussi
+ces perles sont-elles enfilées dans des brins de fil
+ou de soie d&#39;une certaine longueur ; afin que quand
+on leve la lisse à maillon, comme on voit <i><ref target="XPL:5254" type="platelink">fig. 2</ref>.</i> ces
+brins de fils puissent faire boucle autour des fils de
+chaîne qui restent immobiles, ne point gêner ces fils,
+&amp; leur laisser bien leur parallélisme.
+</p>
+<p>
+Outre ces deux lisses, il y en a une troisieme au
+métier de tisserand ; cette lisse est pour le fond. L&#39;on
+distingue donc dans la fabrication de la <i>gaze</i> trois pas ;
+le pas de <i>gaze</i>, le pas de fond, &amp; le pas dur.
+</p>
+<p>
+Voilà pour les <i>gazes</i> unies ; &amp; ce qu&#39;il falloit savoir
+pour distinguer le métier &amp; la manoeuvre du gazier
+de tout autre ourdissage.
+</p>
+<p>
+Quant aux <i>gazes</i> figurées, brochées, elles s&#39;exécutent 
+comme toutes les autres étoffes figurées, tantôt
+à la petite tire, tantôt à la grande tire. Le brocher se
+fait à l&#39;espolin à l&#39;ordinaire : il faut autant d&#39;espolins
+que de couleurs : les couleurs se placent par le moyen
+de la lecture, du rame, &amp; du semple, ainsi que nous
+l&#39;avons dit &amp; que nous le démontrerons avec clarté
+aux étoffes de la manufacture en soie ; le brocher se
+fait en-dessus.
+</p>
+<p>
+Comme les fils du brocher s&#39;étendent sur route la
+largeur de l&#39;étoffe, quoiqu&#39;ils ne soient pris entre
+les fils de chaîne qu&#39;en quelques endroits ; on n&#39;apperçoit 
+point le dessein, &amp; toutes les façons ou figures 
+sont cachées, tant que la piece de <i>gaze</i> est sur le
+métier : mais quand la piece est levée de dessus le métier,
+on la donne à des ouvrieres appellées <i>coupeuses</i>, qui étendent la piece sur deux ensuples placées
+&amp; retenues aux deux extrémités d&#39;un chassis de bois
+qu&#39;on voit <i><ref target="XPL:5255" type="platelink">Pl. III</ref>.</i> &amp; qu&#39;on appelle le <i>découpoir:</i> elles
+se rangent assises autour du découpoir comme autour
+d&#39;une table ; &amp; avec des forces ou ciseaux d&#39;un demi-pié de long ; elles enlevent toutes les soies inutiles 
+ou portions de fils non compris entre les fils de
+chaîne, &amp; font paroître la figure.
+</p>
+<p>
+Ces lacis ou portions de fils non compris entre
+les fils de chaîne &amp; superflus, s&#39;appellent <i>recoupes ;</i>
+c&#39;est une belle matiere ; c&#39;est tout fil, ou c&#39;est du
+fil &amp; de la soie mêlés : on ne lui a encore trouvé
+aucun usage. J&#39;ai bien de la peine à croire qu&#39;elle
+n&#39;en puisse avoir aucun, &amp; que l&#39;industrieuse économie des Chinois ne parvînt pas à en tirer parti : on
+en feroit des magasins à très-peu de frais dans ce pays-ci 
+où les ouvrieres la brûlent.
+</p>
+<p>
+Celui qui imagina la lisse à perle ; qui fit serpenter 
+ainsi un fil de chaîne sur son voisin ; &amp; qui vit que
+ce serpentement écartoit les fils de chaîne les uns des
+autres ; empêchoit les fils de trame d&#39;être approchés
+par le coup de battant, &amp; formoit de cette maniere
+un tissu criblé de trous, eut le génie de son art.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

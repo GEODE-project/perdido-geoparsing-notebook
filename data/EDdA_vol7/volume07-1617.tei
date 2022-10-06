@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29071" id="51:235:78" vol="7">
+<index type="head" value="Garde-Chasse" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Roy (Charles Georges)" />
+<index type="shortauth" value="Le Roy (Charles Georges)" />
+<index type="kafnum" value="75" />
+<index type="kafauth" value="Le Roy, Charles-Georges (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Vénerie." />
+<index type="normclass" value="Vénerie" />
+<index type="englishclass" value="Hunting" />
+<index type="generatedclass" value="Chasse" />
+<index type="pos" value="NA" />
+<head>Garde-Chasse</head>
+<p>
+<sc>Garde-Chasse</sc>, (<i>Vénerie.</i>) celui qui est chargé
+de la conservation du gibier dans un canton limité.
+</p>
+<p>
+Un <i>garde-chasse</i> a deux objets sur lesquels il doit
+particulierement veiller, les braconniers &amp; les bêtes
+carnacieres : avec de l&#39;attention &amp; quelquefois de la
+hardiesse, il arrête les entreprises des uns ; il y a un
+art particulier à se défaire des autres, qui demande
+de l&#39;adresse, quelques connoissances, &amp; sur-tout un
+goût vif pour les occupations de ce genre. Sans ce
+goût, il ne seroit pas possible qu&#39;un <i>garde-chasse</i> soûtînt 
+les fatigues, les veilles, &amp; la vigilance minutieuse 
+qu&#39;exige la destruction des animaux ennemis
+du gibier. <i>Voyez</i> <sc><ref target="head:Piége" type="search">Piége</ref></sc>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les gens qui ont des <i>gardes-chasse</i>, ne peuvent prendre 
+trop de précautions pour qu&#39;ils soient sages &amp;
+d&#39;une probité à toute épreuve. On ne sauroit croire
+combien de détails sourds de tyrannie s&#39;exercent par
+eux : ils sont armés &amp; crûs sur leur parole ; cela est
+nécessaire pour l&#39;exercice de leurs fonctions. Mais
+s&#39;ils ne portent pas, dans l&#39;usage qu&#39;ils font de ces
+droits, l&#39;exactitude jusqu&#39;au dernier scrupule, combien 
+ne sont-ils pas à craindre pour le paysan? Ils deviennent 
+sur-tout dangereux, s&#39;ils reconnoissent en
+leur maître un goût vif pour la chasse : alors ils n&#39;épargnent 
+rien pour flater en lui une passion qui,
+comme toutes les autres, voit injustement ce qui la
+favorise ou ce qui la blesse. <i>Article de M. <sc>le Roi</sc>,
+lieutenant des chasses du parc de Versailles</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

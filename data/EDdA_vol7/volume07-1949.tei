@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29403" id="52:167" vol="7">
+<index type="head" value="GENTILHOMME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisp." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>GENTILHOMME</head>
+<p>
+GENTILHOMME, s. m. (<i>Jurisp.</i>) <i>nobilis genere</i>,
+signifie celui qui est noble d&#39;extraction, à la différence 
+de celui qui est annobli par charge ou par lettres 
+du prince, lequel est noble sans être <i>gentilhomme ;</i> mais il communique la noblesse à ses enfans,
+lesquels deviennent <i>gentilshommes</i>.
+</p>
+<p>
+Quelques-uns tirent l&#39;étymologie de ce mot du
+latin <i>gentiles</i>, qui chez les Romains signifioit ceux
+qui étoient d&#39;une même famille, ou qui prouvoient
+l&#39;ancienneté de leur race. Cette ancienneté que l&#39;on
+appelloit <i>gentilitas</i>, étoit un titre d&#39;honneur ; mais
+elle ne formoit pas une noblesse, telle qu&#39;est parmi
+nous la noblesse d&#39;extraction : la noblesse n&#39;étoit
+même pas héréditaire, &amp; ne passoit pas les petits-enfans 
+de celui qui avoit été annobli par l&#39;exercice
+de quelque magistrature.
+</p>
+<p>
+D&#39;autres veulent que les titres d&#39;<i>écuyers</i> &amp; de <i>gentilshommes</i> ayent été empruntés des Romains, chez
+lesquels il y avoit deux sortes de troupes en considération,
+appellées <i>scutarii</i> &amp; <i>gentiles</i>. Il en est parlé
+dans Ammian-Marcellin, sous le regne de Julien
+l&#39;Apostat, qui fut assiégé en la ville de Sens par les
+Sicambriens, lesquels savoient <i>scutarios non adesse
+nec gentiles, per municipia distributos</i>.
+</p>
+<p>
+Enfin une troisieme opinion qui paroît mieux fondée,
+est que le terme de <i>gentilshommes</i> vient du latin
+<i>gentis homines</i>, qui signifioit <i>les gens dévoüés au service</i><gap type="hyphenpb" />
+<pb n="7:604" facs="V7/ENC_7-604.jpeg" />
+<milestone unit="column" n="1" />
+<i>de l&#39;état</i>, tels qu&#39;étoient autrefois les Francs,
+d&#39;où est venue la premiere noblesse d&#39;extraction. Tacite pariant des Gaules, dit que les compagnons du
+prince ne traitent d&#39;aucunes affaires qu&#39;ils n&#39;ayent
+embrassé la profession des armes ; que l&#39;habit militaire 
+est pour eux la robe virile ; qu&#39;ils ne sont jusque-là que membres de familles particulieres, mais
+qu&#39;alors ils appartiennent à la patrie &amp; à la nation,
+dont ils deviennent les membres &amp; les défenseurs.
+</p>
+<p>
+Dans les anciennes ordonnances on trouve écrit
+tantôt <i>gentishommes</i>, tantôt <i>gentilshommes</i>.
+</p>
+<p>
+Les <i>gentilshommes</i> joüissent de plusieurs priviléges
+qui seront expliqués <i>au mot</i> <sc><ref target="head:Nobles" type="search">Nobles</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

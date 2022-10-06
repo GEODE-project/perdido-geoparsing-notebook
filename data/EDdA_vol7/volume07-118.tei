@@ -1,0 +1,334 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27571" id="48:52:2" vol="7">
+<index type="head" value="Accords fondamentaux" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Accords fondamentaux</head>
+<p>
+<sc>Accords fondamentaux</sc>. M. Rousseau en a
+donné la liste <i>au mot</i> <sc><ref target="head:Accord" type="search">Accord</ref></sc>, sur lequel il ne faut
+pas manquer de consulter l&#39;<i>errata du premier vol.</i> imprimé 
+à la tête du second. Sans rien répéter de ce
+qu&#39;il a dit à cet article, nous y ajoûterons qu&#39;il n&#39;y a
+proprement que trois sortes d&#39;accords <i>fondamentaux ;</i>
+accord parfait, accord de sixte, accord de septieme.
+</p>
+<p>
+<i>Accord parfait</i>. Il est de deux sortes, majeur ou
+mineur, selon que la tierce est majeure ou mineure.
+L&#39;accord majeur est donné immédiatement ou presque 
+immédiatement par la nature ; immédiatement,
+quand il renferme la douzieme &amp; la dix-septieme ;
+presque immédiatement, quand il ne renferme que
+la tierce &amp; la quinte, qui en sont les octaves ou repliques.
+<i>Voyez</i> <sc><ref target="head:Octave" type="search">Octave</ref> <i>&amp;</i> <ref target="head:Replique" type="search">Replique</ref></sc>. Quand cet
+accord est exactement conforme à celui que la nature 
+donne, c&#39;est-à-dire quand il renferme le son
+principal, la douzieme &amp; la dix septieme majeure,
+alors il produit l&#39;effet le plus frappant dont il soit
+susceptible ; comme dans le choeur l&#39;<i>amour triomphe</i>
+de Pigmalion. L&#39;accord mineur, quoiqu&#39;il ne soit pas
+donne immédiatement par la nature, &amp; qu&#39;il paroisse 
+plûtôt l&#39;ouvrage de l&#39;art, est cependant tort
+agréable, &amp; souvent même plus propre que le majeur 
+à certaines expressions, comme celle ce la tendresse,
+de la tristesse, <i>&amp;c.</i>
+</p>
+<p>
+<i>Accord de sixte</i>. Il y en a de trois sortes. Les deux
+premiers s&#39;appellent <i>accords de sixte ajoutée ;</i> ils se
+pratiquent sur la sous-dominante du ton. <i>Voy.</i> <sc><ref target="head:Sous-dominante" type="search">Sous-dominante</ref></sc>. La sixte y est toûjours majeure. &amp; la
+tierce majeure ou mineure, selon que le mode est
+majeur ou mineur. Ces deux accords ne different
+donc que par leur tierce. Ainsi dans le ton majeur d&#39;<i>ut</i>,
+on pratique sur la sous-dominante <i>fa</i> l&#39;accord <i>fa la
+ut ré</i>, dont la tierce est majeure &amp; sa sixte majeure ;
+&amp; dans le ton mineur de <i>la</i>, on pratique sur la sous-dominante 
+<i>ré</i> l&#39;accord <i>ré fa la si</i>, dont la tierce est
+mineure, la sixte étant toûjours majeure.
+</p>
+<p>
+Outre ces deux accords, il y en a un autre qui
+produit en plusieurs occasions un très-bon effet, &amp;
+qui est pratiqué sur-tout par les Italiens. On l&#39;appelle 
+<i>accord de sixte superflu:</i>, ou de <i>sixte italienne</i>.
+Il est composé d&#39;une tierce majeure, d&#39;une quarte
+superflue ou triton, &amp; d&#39;une tierce majeure, en cette
+sorte <i>fa la si ré #</i>. Ce n&#39;est pas proprement un accord 
+de sixte ; car du <i>fa</i> au <i>re</i> diese, il y a une vraie
+septieme ; mais l&#39;usage l&#39;a ainsi nommé, en désignant
+seulement la sixte par l&#39;épithete de <i>superflue. Voyez</i>
+<sc><ref target="head:Superflu" type="search">Superflu</ref> <i>&amp;</i> <ref target="head:Intervalle" type="search">Intervalle</ref></sc>. Il paroit très-difficile
+de déterminer d&#39;une façon bien nette &amp; bien convaincante 
+l&#39;origine de cet accord : en effet comment
+assigner d&#39;une maniere satisfaisante l&#39;origine d&#39;un accord 
+<i>fondamental</i> qui renferme tant de dissonances,
+<i>fa si, fa ré #, la si, la ré #</i>, &amp; qui pourtant n&#39;en est
+pas moins employé avec succès, comme l&#39;oreille
+peut en juger? Ce qu&#39;on peut imaginer de plus plausible 
+là dessus ne l&#39;est guere. <i>Voyez</i> <sc><ref target="head:Sixte super-" type="search">Sixte super-</ref></sc>
+<milestone unit="column" n="2" />
+<sc><ref target="head:flue" type="search">flue</ref></sc>. On peut regarder cet accord comme renversé
+de <i>si ré # fa la</i>, qui n&#39;est autre chose que l&#39;accord
+<i>si ré fa la</i>, usité dans la basse fondamentale, en
+conséquence du double emploi (<i>Voyez</i> <sc><ref target="head:Double Emploi" type="search">Double
+Emploi</ref></sc>), &amp; dont on a rendu la tierce majeure
+pour produire l&#39;impression du mode de <i>mi</i> par sa
+note sensible <i>ré #</i> ; ensorte que l&#39;on a pour ainsi dire
+à-la-fois l&#39;impression imparfaite de deux modes, de
+celui de <i>la</i> par le double emploi, &amp; de celui de <i>mi</i>
+par la note <i>ré #</i> substitué au <i>ré?</i> Mais pourquoi se
+permet-on de rendre majeure la tierce de <i>si</i> à <i>ré?</i>
+Sur quelles raisons cette transformation est-elle appuyée,
+sur tout lorsqu&#39;elle produit deux dissonances 
+de plus? D&#39;ailleurs, si on en croit M. Rousseau
+au mot <i>accord</i>, l&#39;accord fondamental <i>fa la si ré #</i> ne
+se renverse point : peut-on donc le regarder comme
+renversé de <i>si ré # fa la?</i> Je m&#39;en rapporte sur cette
+question à des lumieres supérieures aux miennes.
+On pourroit peut-être dire aussi que l&#39;accord <i>si
+ré # fa la</i> n&#39;est autre chose que l&#39;accord de dominante 
+tonique <i>si ré # fa # la</i>, dans le mode de <i>mi</i>,
+accord dont on a rendu le <i>fa</i> naturel. Cette origine
+me paroît encore plus forcée que la précédente.
+</p>
+<p>
+Mais soit qu&#39;on assigne à cet accord une origine,
+soit qu&#39;on ne lui en assigne point, il est certain qu&#39;on
+doit le regarder comme un accord <i>fondamental</i>, puisqu&#39;il n&#39;a point de basse fondamentale : ainsi M. Rousseau, <i>au mot</i> <sc><ref target="head:Accord" type="search">Accord</ref></sc>, a eu très-grande raison de
+placer parmi les accords fondamentaux, cet accord
+de sixte superflue, dont les autres auteurs françois
+n&#39;avoient point fait mention, au moins que je sache,
+&amp; dont j&#39;avoue que j&#39;ignorois l&#39;existence, quand je
+composai mes élémens de Musique, quoique M.
+Rousseau en eût déjà parlé. M. de Bethizy, dans un
+ouvrage sur la théorie &amp; la pratique de la Musique,
+publié en 1754, dit qu&#39;il ne se souvient point que
+M. Rameau ait parle de cet accord dans ses ouvrages,
+quoiqu&#39;il l&#39;ait employé quelquefois, par exemple 
+dans un choeur du premier acte de Castor &amp; Pollux. M. de Bethizy donne des exemples de l&#39;emploi
+de cet accord dans la basse continue ; mais il laisse
+en blanc l&#39;accord qui lui répond dans la basse fondamentale.
+</p>
+<p>
+<i>Accords de septieme</i>. Il y a plusieurs sortes d&#39;accords 
+de septieme fondamentaux. Le premier est formé 
+d&#39;une tierce majeure &amp; de deux tierces mineures,
+comme <i>sol si ré fa ;</i> il se pratique sur la dominante 
+des tons majeurs &amp; mineurs. <i>Voyez</i> 
+<sc><ref target="head:Dominante" type="search">Dominante</ref>, <ref target="head:Mode" type="search">Mode</ref>, <ref target="head:Harmonie" type="search">Harmonie</ref></sc>
+, <i>&amp;c.</i> Le second est
+formé d&#39;une tierce mineure, d&#39;une tierce majeure
+&amp; d&#39;une tierce mineure, comme <i>ré fa la ut ;</i> il se
+pratique sur la seconde note des tons majeurs : sur
+quoi <i>voyez l&#39;article</i> <sc><ref target="head:Double Emploi" type="search">Double Emploi</ref></sc>. Le troisieme
+est formé de deux tierces mineures &amp; d&#39;une tierce
+majeure, comme <i>si ré fa la ;</i> il se pratique sur la seconde 
+note des tons mineurs : sur quoi <i>voyez aussi</i>
+<sc><ref target="head:Double Emploi" type="search">Double Emploi</ref></sc>. Le quatrieme est forme d&#39;une
+tierce majeure, d&#39;une tierce mineure &amp; d&#39;une tierce
+majeure, comme <i>ut mi sol si ;</i> il se pratique sur une
+tonique ou autre note, rendue par-là dominante
+imparfaite. Le cinquieme est appellé <i>accord de septieme 
+diminuée ;</i> il est formé de trois tierces mineures,
+<i>sol # si ré fa</i>, il se pratique sur la note sensible
+des tons mineurs. Cet accord n&#39;est qu&#39;improprement 
+accord de septieme ; car du <i>sol #</i> au <i>si</i> il n&#39;y
+a qu&#39;une sixte. Cependant l&#39;usage lui a donné le nom
+de septieme, en y ajoûtant l&#39;epithete de <i>diminuée.
+Voyez</i> <sc><ref target="head:Diminué" type="search">Diminué</ref> <i>&amp;</i> <ref target="head:Intervalle" type="search">Intervalle</ref></sc>. On peut, avec
+M. Rameau, regarder cet accord comme dérivé de
+l&#39;accord de la dominante du mode mineur, réuni à
+celui de la sous-dominante. <i>Voyez mes Elémens de
+Musique</i>, &amp; la suite de cet article. Mais qu&#39;il soit
+dérivé ou non de ces deux accords, il est certain
+qu&#39;il a lieu dans la basse fondamentale, suivant M.
+<pb n="7:58" facs="V7/ENC_7-58.jpeg" />
+<milestone unit="column" n="1" />
+Rameau lui-même ; ainsi M. Rousseau a eu raison de
+dire au <i>moi</i> <sc><ref target="head:Accompagnement" type="search">Accompagnement</ref></sc>, que l&#39;accord parfait 
+peut être précédé non-seulement de l&#39;accord de
+la dominante &amp; de celui de la sous-dominante, mais
+encore de l&#39;accord de septieme diminuée, &amp; même
+de celui de sixte superflue. Soit qu&#39;on regarde ces
+accords comme dérivés de quelque autre ou non, il
+est certain qu&#39;ils entrent dans la basse fondamentale,
+&amp; que par conséquent l&#39;observation de M. Rousseau
+est très-exacte.
+</p>
+<p>
+Nous avons expliqué au <i>mot</i> <sc>Dissonance</sc>, l&#39;origine 
+la plus naturelle des accords fondamentaux de
+la dominante &amp; de la sous-dominante, <i>sol si ré fa, fa
+la ut ré ;</i> &amp; si en cet endroit nous n&#39;avons point cité
+le <i>chapitre jx.</i> de la Génération harmonique de M.
+Rameau, comme on nous l&#39;a reproché, c&#39;est qu&#39;il
+nous a paru que dans ce chapitre l&#39;auteur insistoit
+préférablement sur une autre origine de la dissonance ; 
+origine fondée sur des proportions &amp; progressions,
+dont la considération nous semble entierement
+inutile dans cette matiere. Les remarques que fait M.
+Rousseau, au <i>mot</i> <sc>Dissonance</sc>, sur cet usage des
+proportions, nous ont paru assez justes pour chercher 
+dans les principes même de M. Rameau une autre 
+origine de la dissonance ; origine dont il ne paroît 
+pas savoir senti tout le prix, puisqu&#39;il ne l&#39;a tout-au-plus que legerement indiquée. Ce que nous disons
+ici n&#39;a point pour objet de rien ôter à M. Rameau ;
+mais de faire voir que dans l&#39;<i>article</i> <sc><ref target="head:Dissonance" type="search">Dissonance</ref></sc>,
+nous nous sommes très-exactement exprimés sur la
+matiere dont il étoit question.
+</p>
+<p>
+Il est essentiel à l&#39;accord de septieme qui se pratique 
+sur la dominante tonique, de porter toûjours la
+tierce majeure. Cette tierce majeure est la note sensible 
+du ton (<i>Voyez</i> <sc><ref target="head:Note sensible" type="search">Note sensible</ref></sc>); elle monte
+naturellement à la tonique, comme la dominante y
+descend : ainsi elle annonce le plus parfait de tous les
+repos appellé <i>cadence parfaite. Voyez</i> <sc><ref target="head:Cadence" type="search">Cadence</ref></sc>.
+Telles sont en substance les raisons qui font porter la
+tierce majeure à l&#39;accord dont il s&#39;agit, soit que le
+ton soit d&#39;ailleurs majeur ou mineur. <i>Voyez mes Elémens de Musique, art. 77. &amp; 109</i>.
+</p>
+<p>
+Il n&#39;en est pas de même de l&#39;accord de sixte, pratiqué 
+sur la sous-dominante ; la tierce est majeure ou
+mineure, selon que le mode est majeur ou mineur:
+mais sa sixte est toûjours majeure, parce qu&#39;elle est
+la quinte de la dominante qu&#39;elle représente dans cet
+accord, comme on l&#39;a expliqué au <i>mot</i> <sc>Dissonance</sc>, <i>à la fin</i>.
+</p>
+<p>
+Les accords de septieme, tels que <i>ut mi sol si</i>, ne
+sont autre chose que l&#39;accord de dominante tonique,
+<i>ut mi sol sib</i> du mode de <i>fa</i>, dans lequel on a changé
+le <i>sib</i> en <i>si</i> naturel, pour conserver l&#39;impression du
+mode d&#39;<i>ut</i>. Sur quoi <i>voyez mes Elémens de Musique,
+art. 115</i>. &amp; l&#39;<i>article</i> <sc><ref target="head:Dominante" type="search">Dominante</ref></sc>.
+</p>
+<p>
+A l&#39;égard de l&#39;accord de septieme diminuée, tel
+que <i>sol</i> # <i>si ré fa</i> (<i>Voyez</i> <sc><ref target="head:Septieme diminuée" type="search">Septieme diminuée</ref></sc>),
+nous en avons indiqué l&#39;origine ci-dessus. On peut le
+regarder comme formé des deux accords <i>mi sol</i> # <i>si
+ré</i> &amp; <i>ré fa la si</i>, de la dominante tonique &amp; de la
+sous-dominante dans le mode de <i>la</i>, qu&#39;on a réunis
+ensemble en retranchant d&#39;un côté la dominante <i>mi</i>,
+dont la note sensible <i>sol</i> # est censée tenir la place ;
+&amp; de l&#39;autre la note <i>la</i>, qui est sousentendue dans la
+quinte <i>ré</i>. On peut voir au <i>mot</i> <sc><ref target="head:Enharmonique" type="search">Enharmonique</ref></sc>,
+l&#39;usage de cet accord pour passer d&#39;un ton dans un
+autre qui ne lui est point relatif.
+</p>
+<p>
+Il nous reste encore un mot à dire sur l&#39;origine
+que nous avons donnée à la dissonance de la sous-dominante,
+au <i>mot</i> <sc><ref target="head:Dissonance" type="search">Dissonance</ref></sc>. Nous avons dit
+que dans l&#39;accord <i>fa la ut</i> on ne pouvoit faire entrer
+la dissonance <i>sol</i>, parce qu&#39;elle dissoneroit doublement 
+avec <i>sol</i> &amp; avec <i>la</i>. M. Rousseau, un peu plus
+haut &amp; dans le même article, se sert d&#39;une raison
+<milestone unit="column" n="2" />
+semblable pour rejetter le <i>la</i> ajoûté à l&#39;accord <i>sol si
+ré</i>. En vain objecteroit-on qu&#39;on trouve au <i>mot</i> <sc><ref target="head:Accord" type="search">Accord</ref></sc> cette double dissonance dans certains accords,
+<i>pag. 78</i>. Nous répondrions que ces accords,
+quelqu&#39;origine qu&#39;on leur donne, n&#39;appartiennent
+point à la basse fondamentale, que ce ne sont point
+des accords primitifs, qu&#39;ils sont pour la plûpart si
+durs, qu&#39;on est obligé d&#39;en retrancher différens sons
+pour en adoucir la dureté. Ainsi les dissonances tolérées 
+dans ces accords, ne doivent point être permises 
+dans des accords primitifs &amp; fondamentaux,
+dans lesquels si on altere par des dissonances l&#39;accord 
+parfait, afin de faire sentir le mode, on ne
+doit au moins altérer l&#39;harmonie de cet accord que
+le plus foiblement qu&#39;il est possible.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

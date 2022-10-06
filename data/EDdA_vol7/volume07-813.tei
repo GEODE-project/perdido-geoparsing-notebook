@@ -1,0 +1,116 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28267" id="50:81:1" vol="7">
+<index type="head" value="Frayé aux ars" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréch." />
+<index type="normclass" value="Maréchallerie | Manège" />
+<index type="englishclass" value="Farrier&#39;s art | Horsemanship" />
+<index type="generatedclass" value="Maréchallerie" />
+<index type="pos" value="NA" />
+<head>Frayé aux ars</head>
+<p>
+<sc>Frayé aux ars</sc>, (<i>Manége &amp; Maréch.</i>) Nous disons 
+qu&#39;un cheval est <i>frayé aux ars</i>, lorsqu&#39;il y a inflammation 
+&amp; écorchure à la partie interne &amp; supérieure 
+de l&#39;avant-bras. Un cuir naturellement délicat,
+l&#39;inattention d&#39;un palefrenier à maintenir cette
+partie nette, un voyage de longue haleine, principalement 
+dans des tems de chaleur ; telles sont les
+causes qui peuvent y donner lieu. Je dis <i>un voyage
+de longue haleine</i>, &amp; dès-lors l&#39;écorchure est causée
+par le frottement continuel de cette partie contre le
+corps du cheval. J&#39;ai vû des chevaux qui en ont été
+tellement incommodés, qu&#39;à peine pouvoient-ils
+marcher, &amp; qu&#39;en cheminant ils fauchoient comme
+s&#39;ils avoient eu un écart. On y remedie en oignant la
+partie enflammée avec parties égales d&#39;onguent d&#39;althaea 
+&amp; de miel commun. L&#39;inflammation dissipée,
+on la bassine souvent avec du vin chaud, &amp; on peut
+la saupoudrer avec de la poussiere de bois pourri,
+de la poudre d&#39;amydon, de sang-de-dragon, de céruse,
+<i>&amp;c.</i> (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

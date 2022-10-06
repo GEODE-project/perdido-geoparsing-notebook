@@ -1,0 +1,262 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30410" id="55:50" vol="7">
+<index type="head" value="GRILLAGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métallurgie." />
+<index type="normclass" value="Métallurgie" />
+<index type="englishclass" value="Metallurgy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GRILLAGE</head>
+<p>
+GRILLAGE, s. m. (<i>Métallurgie.</i>) c&#39;est une opération 
+de Métallurgie, par laquelle on se propose de
+calciner ou de dégager des mines avant que de les
+fondre les parties sulfureuses, arsénicales, antimoniales 
+&amp; volatiles qui sont combinées avec le métal
+lorsqu&#39;il est minéralisé; parce que ces parties étrangeres, si elles restoient unies avec le métal, nuiroient 
+à sa pureté, le rendroient aigre, cassant, &amp;
+difficile à fondre. Comme presque toutes les mines
+d&#39;argent, de plomb, de cuivre, d&#39;étain, <i>&amp;c.</i> contiennent 
+ou du soufre, ou de l&#39;arsenic, ou l&#39;un &amp; l&#39;autre
+à-la-fois, on est obligé de les faire passer par l&#39;opération 
+du <i>grillage</i> avant que de les faire fondre ; cette
+opération est de la plus grande importance : &amp; l&#39;on
+en peut tirer un très-grand fruit quand elle se fait
+d&#39;une façon convenable &amp; analogue à la nature de
+la mine que l&#39;on a à traiter. L&#39;expérience a fait
+voir que le <i>grillage</i> n&#39;est point du-tout indifférent, &amp;
+que les mines qui ont été grillées, donnoient toûjours 
+plus de métal que celles qui ne l&#39;avoient point
+été.
+</p>
+<p>
+La grande diversité qui se trouve dans la combinaison 
+des différentes mines, fait que les méthodes
+qu&#39;on employe pour le <i>grillage</i>, sont très-variées,
+&amp; different autant que les mines elles mêmes ; de là
+vient aussi qu&#39;il y en a qu&#39;on est obligé de griller un
+très-grand nombre de fois, tandis que d&#39;autres n&#39;exigent 
+qu&#39;un petit nombre de <i>grillages ;</i> cela dépend de
+la quantité des matieres que l&#39;on doit dégager, &amp;
+de leur combinaison plus ou moins intime avec le
+métal lorsqu&#39;il est minéralisé. C&#39;est donc aux directeurs 
+des mines &amp; des fonderies à connoître parfaitement 
+la nature de leur mine, &amp; des matieres qui
+entrent dans sa composition &amp; qui l&#39;accompagnent,
+pour juger de la maniere dont le <i>grillage</i> doit lui être
+appliqué.
+</p>
+<p>
+L&#39;opération du <i>grillage</i> se pratique, ou avant de
+donner aux mines la premiere fonte au fourneau de
+fusion, ou bien il se fait sur la matte, c&#39;est à-dire sur
+la matiere impure &amp; mélangée que l&#39;on obtient après
+la premiere fonte de la mine ; ainsi on distingue deux
+especes de <i>grillages:</i> savoir, celui de la mine, &amp; celui 
+de la matte. L&#39;une &amp; l&#39;autre de ces opérations se
+fait de plusieurs façons différentes, qui varient avec
+les lieux &amp; suivant la nature des mines. On se contentera 
+d&#39;indiquer les méthodes les plus communes.
+Il y a des <i>grillages</i> qui se font à l&#39;air libre : d&#39;autres se
+font sous des angars ou toits ; d&#39;autres se font dans
+des fourneaux voûtés. Pour le <i>grillage</i> simple qui se
+fait à l&#39;air libre, on choisit aupres de la fonderie un
+terrein uni, sur lequel on dispose en quarré du bois
+ou des fagots ; l&#39;on étend la mine par-dessus, &amp; l&#39;on
+continue ainsi à faire des couches alternatives de bois
+&amp; de mine : ce qui fait un tas qui a la forme d&#39;une pyramide 
+tronquée, comme on peut voir dans les <i><ref target="XPL:5481" type="platelink">Planches de Métallurgie</ref>, <ref target="XPL:5482" type="platelink">fig. 1</ref></i>. On a soin de laisser un intervalle 
+vuide entre le sol du terrein &amp; la premiere
+couche de bois, afin de pouvoir allumer le tas que
+l&#39;on veut griller.
+</p>
+<p>
+Le <i>grillage</i> à l&#39;air libre se fait aussi sur une aire entourée 
+d&#39;un mur, à qui on donne des formes différentes 
+dans les différens pays. A Fahlun en Suede,
+ce mur ressemble à un fer à cheval (<i>Voyez dans la
+<ref target="XPL:5483" type="platelink">Planche la figure</ref></i> 2. la lettre <i>A</i> marque le registre ou
+la cheminée qu&#39;on pratique pour que l&#39;air fasse aller
+le feu). Mais la forme la plus ordinaire qu&#39;on donne
+à ce mur, est celle qu&#39;on voit à la <i><ref target="XPL:5484" type="platelink">fig. 3</ref>.</i> c&#39;est un mur
+à trois côtés <i>ABC</i>, partagé par plusieurs autres murailles 
+<i>DDD</i>, qui forment comme des cloisons ;
+<pb n="7:947" facs="V7/ENC_7-947.jpeg" />
+<milestone unit="column" n="1" />
+c&#39;est dans l&#39;espace compris entre ces murs ou cloisons,
+que l&#39;on arrange le bois &amp; la mine pour le <i>grillage</i>.
+Dans d&#39;autres endroits le fourneau de <i>grillage</i> est un
+grand quarré de maçonnerie, <i>voyez la <ref target="XPL:5485" type="platelink">figure 4</ref>. aaa</i>
+sont les soupiraux pour le cours libre de l&#39;air ; <i>b</i> est
+l&#39;entrée du fourneau. A Freyberg en Saxe, on grille
+la mine d&#39;argent &amp; de plomb dans un fourneau qu&#39;on 
+voit représenté à la <i><ref target="XPL:5486" type="platelink">fig. 5</ref>.</i> dont le sol <i>AA</i> sur lequel 
+se fait le <i>grillage</i>, est revêtu de briques ; ce
+fourneau est couvert d&#39;un toît soûtenu par des piliers 
+de brique, qui portent sur la maçonnerie des
+côtés du fourneau ; on laisse une ouverture à ce toît,
+pour que la fumée se dégage. Il y a des occasions où
+l&#39;on est obligé de faire le <i>grillage</i> dans des fourneaux
+de réverbere, voûtés &amp; arrangés de maniere que la
+flamme qu&#39;on allume dessous, vient rouler sur la
+matiere que l&#39;on veut griller. Schlutter en inventa
+un de cette espece, dont il se servit avec succès ; il
+pouvoit contenir jusqu&#39;à 32 quintaux de mine à-la-fois. Il en donne une description très-circonstanciée
+dans son <i>traité de la fonte des mines, tom. II. pag. 31.</i>
+&amp; §. de la traduction françoise.
+</p>
+<p>
+Il y a encore un grand nombre de manieres pour
+faire le <i>grillage</i> des mines ; &amp; chaque endroit où l&#39;on
+s&#39;occupe des travaux de la métallurgie, suit à cet
+égard une méthode particuliere, qui differe à quelques 
+égards de celle des autres pays ; mais celles qui
+viennent d&#39;être décrites, suffisent pour qu&#39;on se fasse
+une idée de cette opération ; ceux qui voudront de
+plus grands détails sur le <i>grillage</i>, les trouveront
+dans le <i>traité de la fonte des mines</i> d&#39;André Schlutter,
+publié en françois par M. Hellot, <i>tom. II.</i> &amp; dans
+Emmanuel Swedenborg, <i>opera mineralia. De curpo</i>.
+</p>
+<p>
+Les regles générales à observer pour le <i>grillage</i>,
+c&#39;est d&#39;employer un feu doux qui fasse simplement
+rougit doucement la mine sans la faire entrer en fusion.
+Il est nécessaire que le feu soit doux ; parce que
+s&#39;il étoit violent, en dégageant les parties volatiles
+qu&#39;on veut faire partir, son impétuosité entraîneroit
+aussi les parties métalliques qui sont écartées les unes
+des autres dans la mine, &amp; divisées en particules
+très-déliées.
+</p>
+<p>
+La plûpart des métallurgistes préferent le feu de
+bois à celui de charbon pour le <i>grillage</i> des mines,
+tant parce qu&#39;il est moins coûteux que le charbon,
+que parce qu&#39;il ne chauffe point si vivement, &amp; remplit 
+mieux les vûes qu&#39;on se propose dans cette opération.
+On regarde le bois de pin &amp; de sapin comme
+préférable à tous les autres ; à son défaut on peut
+employer le bois de chêne ou de hêtre ; on peut aussi
+se servir de fagots. Il y a des endroits où l&#39;on grille
+avec du bois verd &amp; mouillé; mais l&#39;expérience a
+fait voir que l&#39;usage du bois sec étoit beaucoup plus
+avantageux.
+</p>
+<p>
+L&#39;on est quelquefois obligé de réitérer le <i>grillage</i>
+de la même mine un grand nombre de fois ; cela dépend 
+de sa nature &amp; de ses propriétés ; &amp; c&#39;est l&#39;expérience 
+&amp; l&#39;habileté du métallurgiste qui doit en décider.
+Il y a des mines qu&#39;on est obligé de faire passer
+par 16, 18, &amp; même 20 feux ou <i>grillages ;</i> on voit
+que le traitement de ces sortes de mines ne peut être
+entrepris que dans des pays où le bois est très-commun, &amp; la main-d&#39;oeuvre à très-bon marché, comme 
+en Suede.
+</p>
+<p>
+Lorsqu&#39;on fait griller des mines, on est souvent
+obligé d&#39;y faire des additions qui, jointes à l&#39;action 
+du feu, servent à les developper &amp; à détruire
+les substances étrangeres qui sont unies au métal
+dans sa mine ; c&#39;est ainsi que l&#39;on joint des pyrites
+avec de certaines mines de cuivre lorsqu&#39;on les fait
+griller ; par-là l&#39;acide du soufre que ces pyrites contiennent 
+se dégage, &amp; met en dissolution la miniere
+ou la pierre qui sert d&#39;enveloppe à la mine, &amp; détruit
+les parties ferrugineuses qui s&#39;y trouvent jointes ;
+<milestone unit="column" n="2" />
+lorsque les mines sont arsénicales, il est aussi à propos 
+d&#39;y joindre des pyrites, parce que leur soufre se
+combine avec l&#39;arsenic, qui par-là se dégage du métal.
+Quelquefois lorsque la mine est sulfureuse, on y
+joint de la chaux, qui dans le <i>grillage</i> absorbe la trop
+grande quantité de soufre. Par ces additions la mine
+est développée, &amp; plus propre à recevoir le feu de
+fusion. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,157 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30454" id="55:73:1" vol="7">
+<index type="head" value="Gris" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchall." />
+<index type="normclass" value="Maréchallerie | Manège" />
+<index type="englishclass" value="Farrier&#39;s art | Horsemanship" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Gris</head>
+<p>
+<sc>Gris</sc>, (<i>Manége</i> &amp; <i>Maréchall.</i>) épithete par laquelle 
+nous désignons un cheval, dont le poil ou la
+robe présente un fond blanc mêlé de noir, ou même
+de quelqu&#39;autre couleur : nous admettons diverses
+especes de <i>gris</i>.
+</p>
+<p>
+Le <i>gris sale</i> est celui dans lequel le poil noir domine.
+Si les crins de l&#39;animal sont blancs, la robe en est
+d&#39;autant plus belle.
+</p>
+<p>
+Le <i>gris brun</i> est différent du premier, en ce que les
+poils noirs y sont en moindre quantité que dans le
+<i>gris</i> sale, quoiqu&#39;ils l&#39;emportent néanmoins sur les
+poils blancs.
+</p>
+<p>
+Le <i>gris sanguin</i>, le <i>gris rouge</i>, ou le <i>gris vineux</i>,
+est un <i>gris</i> mêlé de bai dans tout le poil.
+</p>
+<p>
+Le <i>gris argenté</i> est une robe sur laquelle nous appercevons 
+un <i>gris</i> vif, peu chargé de noir, &amp; dont
+le fond blanc brille &amp; reluit.
+</p>
+<p>
+Le <i>gris pommelé</i> se reconnoît à des marques assez
+grandes de couleur blanche &amp; noire parsemées, à
+distances assez égales, soit sur le corps, soit sur la
+croupe.
+</p>
+<p>
+Le <i>gris tisonné</i> ou <i>charbonné</i> a des taches irrégulierement<gap type="hyphenpb" />
+<pb n="7:950" facs="V7/ENC_7-950.jpeg" />
+<milestone unit="column" n="1" />
+éparses de côté &amp; d&#39;autre, comme si le poil
+eût été noirci avec un charbon.
+</p>
+<p>
+Le <i>gris tourdille</i> est un <i>gris</i> sale approchant de la
+couleur d&#39;une grive.
+</p>
+<p>
+Le <i>gris truité</i> autrement appellé <i>tigre</i>, consiste dans
+un fond blanc mêlé ou d&#39;alzan ou de noir, semé
+par de petites taches assez également sur tout le
+corps. On appelle aussi cette robe <i>gris moucheté</i>, ces
+taches approchant de la figure des mouches.
+</p>
+<p>
+Le <i>gris de souris</i> est ainsi nommé par sa ressemblance 
+au poil de cet animal. Quelques chevaux de
+cette robe ont les jambes &amp; les jarrets garnis de raies
+noires, comme certains mulets ; d&#39;autres en ont une
+sur le dos ; les uns ont les crins d&#39;une couleur claire,
+les autres les ont noirs.
+</p>
+<p>
+Enfin il est encore une espece de <i>gris</i> que nous appellons 
+<i>gris étourneaux. Voyez</i> <sc><ref target="head:Etourneau" type="search">Etourneau</ref></sc>. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

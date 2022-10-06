@@ -1,0 +1,228 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27770" id="49:46:12" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bellin" />
+<index type="shortauth" value="Bellin" />
+<index type="kafnum" value="13" />
+<index type="kafauth" value="Bellin, Jacques-Nicolas (1703-1772)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>Forme</sc>, (<i>Marine.</i>) c&#39;est un petit bassin revêtu
+de maçonnerie, ayant en-dedans des degrés pour
+descendre sur des banquettes de pierre, disposées
+en amphithéatre, pour faciliter aux ouvriers le
+<milestone unit="column" n="2" />
+moyen de manoeuvrer autour du navire qu&#39;on y a
+introduit à marée haute, &amp; qu&#39;on y maintient ensuite 
+à sec quand la mer s&#39;est retirée, en fermant
+l&#39;écluse qui est à son entrée ; ce qui se pratique avec
+assez d&#39;aisance dans les ports où le flux &amp; le reflux
+ont lieu : ou bien si ces <i>formes</i> sont sur la Méditerranée, l&#39;on en puise l&#39;eau avec des machines. <i>Architecture hydraulique, tome II. liv. III. ch. xij</i>.
+</p>
+<p>
+Mais pour prendre une idée juste de ce qu&#39;on appelle 
+<i>forme</i>, il faut avant d&#39;entrer dans un plus grand
+détail, jetter les yeux sur la <i><ref target="XPL:4780" type="platelink">Planche IX</ref>. <ref target="XPL:4781" type="platelink">figure 1</ref>. &amp;
+suiv.</i> qui représente le plan &amp; les profils de la <i>forme</i>
+construite à Rochefort, pour la bâtisse &amp; le radoube
+des vaisseaux du roi, dont le dessein est ici d&#39;un plus
+grand détail &amp; d&#39;une plus grande précision que celui 
+qu&#39;on a inséré dans l&#39;<i>Architecture hydraulique ;</i>
+excellent ouvrage dont on ne peut assez faire l&#39;eloge,
+&amp; dont j&#39;extrairai ce dont j&#39;aurai besoin pour
+celui-ci.
+</p>
+<p>
+On place les <i>formes</i> dans l&#39;arsenal, ou le plus près
+qu&#39;il est possible ; mais dans quelqu&#39;endroit qu&#39;on les
+place, il faut qu&#39;elles ayent beaucoup d&#39;espace tout autour 
+pour la facilité du travail. <i>Voyez la <ref target="XPL:4782" type="platelink">Pl. VII</ref>.</i>
+dans le plan d&#39;un arsenal de Marine, la situation des
+<i>formes</i>.
+</p>
+<p>
+Lorsque le terrein ne permet pas de placer plusieur,
+<i>formes</i> de front, l&#39;on en bâtit deux au bout
+l&#39;une de l&#39;autre qui ont une entrée commune ; telle
+est la double <i>forme</i> de Rochefort, qui passe pour la
+plus belle qu&#39;il y ait en Europe.
+</p>
+<p>
+La premiere de ces <i>formes</i>, qui est la plus profonde 
+&amp; la plus grande, sert pour les vaisseaux du premier 
+rang : aussi a-t-elle un plus grand nombre de
+rampes &amp; de banquettes que la seconde, destinée
+pour ceux du second &amp; du troisieme rang. Il faut
+avoir la <i><ref target="XPL:4783" type="platelink">Planche IX</ref>.</i> sous les yeux. La premiere est
+appellée <i>forme inferieure</i>, &amp; l&#39;autre <i>forme supérieure</i>.
+La différence de l&#39;élévation de leur plate-forme est
+de sept piés ; ce qu&#39;on a fait dans la vûe qu&#39;on seroit
+moins incommodé des eaux de sond. L&#39;on voit qu&#39;ayant 
+fait entrer à marée haute un vaisseau dans
+chacune de ces <i>formes</i> &amp; fermé les portes de l&#39;écluse,
+aussi-tôt que la mer en se retirant les a laisses à
+sec, on peut les radouber tous deux en même tems.
+On les fait sortir lorsqu&#39;ils sont réparés, en profitant
+d&#39;une marée favorable.
+</p>
+<p>
+Il faut renfermer la capacité des <i>formes</i> dans de
+justes boines. La longueur la plus raisonnable qu&#39;on
+paisse donner à celles destinées pour les vaisseaux
+du premier rang, est de cent quatre-vingts-dix pies
+depuis le bord supérieur du fond jusqu&#39;à l&#39;angle du
+buse de l&#39;écluse. A l&#39;égard de la largeur des mêmes
+<i>formes</i>, comprise entre le bord des ailes, il faut la
+régler sur celle qu&#39;il conviendra de donner à l&#39;écluse,
+parce qu&#39;elle est la même qu&#39;aura la plate-forme ; à quoi il faut ajoûter l&#39;espace qu&#39;occuperont les
+banquettes : par exemple, si l&#39;on donne quarantehuit 
+piés à l&#39;écluse, &amp; que l&#39;on fasse trois banquettes,
+chacune de cinq piés, elles en occuperont ensemble 
+trente, qui étant ajoûtés à la largeur de l&#39;écluse,
+donnent soixante dix-huit piés pour toute la
+largeur de la <i>forme</i>.
+</p>
+<p>
+Le fond d&#39;une <i>forme</i> doit être plancheyé avec autant 
+de soin que le radier d&#39;une écluse. Il faut apporter 
+beaucoup d&#39;attention pour établir solidement le
+massif de maçonnerie qui doit régner sur toute l&#39;etendue 
+de la plate-forme, &amp; se régler sur la nature
+du terrein que l&#39;on rencontrera après avoir fouillé
+jusqu&#39;à la profondeur convenable. Le plancher du
+fond doit former un plan incliné de six pouces, depuis 
+le fond de la <i>forme</i> jusqu&#39;aux bords des heurtois
+de l&#39;écluse, afin de faciliter l&#39;écoulement des eaux.
+</p>
+<p>
+Comme le principal mérite de ces sortes de bassins 
+est de pouvoir y travailler à sec dans quelque
+<pb n="7:180" facs="V7/ENC_7-180.jpeg" />
+<milestone unit="column" n="1" />
+tems que ce soit, que cependant il est bien difficile
+que l&#39;eau ne s&#39;y introduise tant de la part des portes
+de l&#39;écluse, que des sources qui transpirent dans le
+fond, malgré les précautions que l&#39;on prend pour
+s&#39;en garantir ; il est d&#39;une extrème conséquence de
+faire ensorte que les eaux qui s&#39;y amasseront s&#39;écoulent 
+d&#39;elles-mêmes au tems des basses-marées ordinaires,
+sans être obligé d&#39;employer continuellement
+des machines pour les puiser ; ce qui coûte beaucoup.
+Pour éviter cet inconvénient, il faut établir la surface 
+du fond environ à un pié au-dessus du niveau
+des basses eaux dans le port ; au cas que cela se puisse
+sans anticiper trop sur le tirant d&#39;eau des plus grands
+vaisseaux qu&#39;on pourra y faire entrer non-lestés : autrement 
+il faudroit faire de son mieux pour concilier
+ces deux objets. Il est bon d&#39;observer que les vaisseaux 
+du premier rang qui tirent avec leur charge ordinaire 
+25 à 26 piés d&#39;eau, n&#39;en exigent que 16 à 17
+quand ils ne sont pas lestés, après qu&#39;on a un peu chargé 
+l&#39;avant, ou soulagé l&#39;arriere avec des coffres pour
+diminuer la différence du tirant-d&#39;eau : ainsi voilà
+un point fixe, d&#39;où l&#39;on pourra partir pour se régler
+en conséquence ; &amp; comme le tirant-d&#39;eau des navires 
+que l&#39;on fait passer dans une <i>forme</i>, doit se mesurer 
+au-dessus du chantier qui a environ 3 piés de relief,
+il suffit, quand on y est contraint par le défaut
+de profondeur d&#39;eau, de ne lui en donner que deux
+seulement, pour pouvoir encore travailler commodément 
+aux parties du vaisseau qui répondent à la
+quille.
+</p>
+<p>
+Lorsqu&#39;on ne peut empêcher que la plate-forme ne
+soit inondée, soit de la part des sources du fond, soit
+des pluies, ou de l&#39;eau de la mer qui filtre par les portes 
+de l&#39;écluse, on y remédie par des machines pour
+épuiser ces eaux, dont on peut voir la conduite &amp;
+le dessein rendu dans toutes ses parties, tant en plan
+qu&#39;en profil, dans la <i><ref target="XPL:4784" type="platelink">Planche IX</ref>.</i> à laquelle nous
+renvoyons pour éviter un plus long détail. (<i>Z</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

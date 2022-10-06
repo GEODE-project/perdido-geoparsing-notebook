@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29807" id="53:242:1" vol="7">
+<index type="head" value="Gomme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Chimie, Pharmacie, &amp; Mat. méd." />
+<index type="normclass" value="Chimie | Matière médicale | Pharmacie" />
+<index type="englishclass" value="Chemistry | Materia medica | Pharmaceuticals" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Gomme</head>
+<p>
+<sc>Gomme</sc>, (<i>Chimie, Pharmacie, &amp; Mat. méd.</i>) les
+<i>gommes</i> proprement dites remplissent avec les mucilages 
+une division de la classe générale des corps
+muqueux végétaux. La <i>gomme</i> est soluble dans les
+menstrues aqueux ; elle est capable de la fermentation 
+vineuse, elle est nourrissante. <i>Voyez</i> <sc><ref target="head:Vin" type="search">Vin</ref> <i>&amp;</i> <ref target="head:Nourrissant" type="search">Nourrissant</ref></sc>.
+</p>
+<p>
+Cette substance qui a beaucoup d&#39;eau dans sa composition,
+quoiqu&#39;elle ait déjà essuyé une véritable
+dessication (<i>voyez</i> <sc><ref target="head:Gomme" type="search">Gomme</ref></sc>, <i>Physique.</i>), en prend
+encore une quantité considérable, avec laquelle elle
+acquiert la consistance d&#39;un mucilage mou &amp; gélatineux : réduire une <i>gomme</i> dans cet état, s&#39;appelle
+très-improprement dans le langage ordinaire de la
+Pharmacie, <i>tirer le mucilage d&#39;une gomme</i>.
+</p>
+<p>
+La <i>gomme</i> se réduit en poudre, &amp; même en poudre 
+très-subtile, si on la pile dans un mortier très chaud ; 
+cette précaution est sur-tout nécessaire pour
+pulvériser la <i>gomme</i> adragant.
+</p>
+<p>
+La <i>gomme</i> mise sur le feu se boursouffle, bouillonne,
+&amp; se réduit bien-tôt en une matiere friable &amp; demi-torréfiée,
+qui est soluble dans l&#39;esprit-de-vin, comme
+tous les autres sucs végétaux legerement grillés.
+</p>
+<p>
+On employe en Pharmacie la <i>gomme</i> arabique, la
+<i>gomme</i> du Senégal, &amp; la <i>gomme</i> adragant : on ne fait
+aucune distinction dans l&#39;usage des deux premieres ;
+&amp; on leur peut substituer sans inconvénient les <i>gommes</i> de notre pays ; celle du cerisier, de l&#39;amandier,
+ou du prunier. <i>Voyez</i> <sc><ref target="head:Adragant" type="search">Adragant</ref></sc> (<i>gomme.</i>) <i>Voyez
+aussi</i> <sc><ref target="head:Arabique" type="search">Arabique</ref></sc> (<i>gomme</i>).
+</p>
+<p>
+On donne encore en Pharmacie le nom de <i>gomme</i>
+à deux especes de sucs végétaux concrets bien différens 
+de celui-ci ; savoir à des résines &amp; à des <i>gommes-résines. Voyez</i> <sc><ref target="head:Résine" type="search">Résine</ref> <i>&amp;</i> <ref target="head:Gomme-Résine" type="search">Gomme-Résine</ref></sc>.
+</p>
+<p>
+Les substances qui sont dans ces cas sont les suivantes:
+</p>
+<p>
+<i>Gomme animé, voyez</i> <sc><ref target="head:Animé" type="search">Animé</ref></sc>.
+</p>
+<p>
+<i>Gomme copale, voyez</i> <sc><ref target="head:Copal" type="search">Copal</ref></sc>.
+</p>
+<p>
+<i>Gomme caragne, voyez</i> <sc><ref target="head:Caranna" type="search">Caranna</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

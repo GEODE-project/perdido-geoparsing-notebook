@@ -1,0 +1,320 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27623" id="48:71:2" vol="7">
+<index type="head" value="Fontaine artificielle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hydr." />
+<index type="normclass" value="Hydraulique" />
+<index type="englishclass" value="Hydraulics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Fontaine artificielle</head>
+<p>
+<sc>Fontaine artificielle</sc>, (<i>Hydr.</i>) on appelle
+ainsi une machine, par le moyen de laquelle l&#39;eau
+est versée ou lancée. De ces machines, les unes
+agissent par la pesanteur de l&#39;eau, les autres par le
+ressort de l&#39;air. Du nombre des premieres sont les
+jets d&#39;eau, qui tirant l&#39;eau d&#39;un réservoir plus élevé, &amp; la recevant par le moyen des tuyaux pratiqués 
+sous terre, élevent cette eau à une hauteur à-peu-près égale à celle du réservoir. <i>Voyez</i> <sc><ref target="head:Jet-d&#39;eau" type="search">Jet-d&#39;eau</ref> <i>&amp;</i> <ref target="head:Ajutage" type="search">Ajutage</ref></sc>. En disposant les ajutages selon différentes 
+directions, on aura une <i>fontaine</i> ou jet-d&#39;eau,
+qui lancera l&#39;eau suivant des directions différentes.
+<i>Voyez <ref target="XPL:4733" type="platelink">fig. 18</ref>. Hydrodyn</i>. On peut même, au lieu de
+différens ajutages, se contenter de pratiquer des ouvertures 
+différentes à un même tuyau, comme on le
+voit <i><ref target="XPL:4734" type="platelink">fig. 19</ref></i>. Ouvrant le robinet qui est en <i>C</i>, l&#39;eau
+<milestone unit="column" n="2" />
+s&#39;échappera par ces ouvertures &amp; couvrira les spectateurs 
+qui ne s&#39;y attendent pas. Si on place sur l&#39;orifice 
+de l&#39;ajutage une petite boule <i>A</i> (<i><ref target="XPL:4735" type="platelink">fig. 21</ref>.</i>), elle
+sera élevée par l&#39;eau qui monte, &amp; se soûtiendra toûjours 
+en l&#39;air pourvû qu&#39;on soit dans un lieu où il
+ne fasse point de vent. Si à l&#39;orifice de l&#39;ajutage on
+ajuste une espece de couvercle lenticulaire <i>AB</i>
+(<i><ref target="XPL:4736" type="platelink">fig. 22</ref>.</i>) percé d&#39;un grand nombre de petits trous,
+l&#39;eau jaillira en forme de petits filets, &amp; s&#39;éparpillera 
+en gouttes très-fines. Enfin si on soude au tube 
+<i>AB</i> (<i><ref target="XPL:4737" type="platelink">fig. 23</ref>.</i>) deux segmens de sphere séparés,
+mais assez proches l&#39;un de l&#39;autre, &amp; qu&#39;on puisse
+éloigner ou rapprocher par le moyen d&#39;une vis,
+l&#39;eau sortira en forme de nappe.
+</p>
+<p>
+<i>Construction d&#39;une fontaine qui joue par le ressort de
+l&#39;air. DDBB</i> (<i><ref target="XPL:4738" type="platelink">fig. 17</ref>. Hydrauliq.</i>) est un vaisseau 
+cylindrique, percé en-bas dans le fond <i>BB</i>,
+d&#39;un petit trou, par lequel on verse l&#39;eau dans la
+<i>fontaine</i>, &amp; que l&#39;on peut fermer à l&#39;aide d&#39;une vis-Il y a en-haut sur le couvercle <i>DD</i> un robinet <i>E</i>,
+par le moyen duquel on peut ouvrir ou fermer ce
+vase. A ce robinet tient un tuyau <i>KC</i>, qui pénetre
+le milieu du vase &amp; va se rendre jusqu&#39;au fond où
+il s&#39;ouvre en <i>C</i>. On enchâsse au-haut du robinet
+un petit tuyau <i>M</i>, qui a une petite ouverture par
+laquelle l&#39;eau jaillit. On met de l&#39;eau dans ce vase,
+sans l&#39;emplir entierement, mais seulement jusqu&#39;à la
+hauteur <i>AA</i> ; on presse ensuite l&#39;air par le tuyau
+<i>KC</i> dans le vase. par le moyen d&#39;une pompe foulante,
+attachée proche du robinet en <i>M</i> ; l&#39;air qui est
+beaucoup plus leger que l&#39;eau, passe à-travers en
+montant en-haut, &amp; remplit l&#39;espace <i>ADDA</i>.
+Lorsqu&#39;on a ainsi pressé une grande quantité d&#39;air
+dans ce vase, on le ferme avec le robinet <i>E ;</i> &amp;
+après en avoir retiré la pompe foulante, on y met
+le petit tuyau. L&#39;air enfermé dans l&#39;espace <i>DA,
+DA</i>, comprimant l&#39;eau proche de <i>AA</i>, il la pousse
+en-bas, &amp; la fait entrer &amp; monter ensuite dans le
+tuyau <i>CK</i> ; lors donc qu&#39;on tourne le robinet <i>E</i>,
+l&#39;eau sort par la petite ouverture, &amp; forme un jet
+qui s&#39;éleve avec beaucoup de rapidité, mais qui
+va toûjours en diminuant de hauteur &amp; de force,
+à mesure que l&#39;eau du vase baisse &amp; que l&#39;air en se
+dilatant la comprime moins. Quand toute l&#39;eau est
+sortie, l&#39;air s&#39;élance lui-même avec bruit &amp; sifflement 
+par le tuyau. Mussch. <i>Essai de Phys. §. 1386</i>.
+</p>
+<p>
+La <i><ref target="XPL:4739" type="platelink">figure 20</ref>.</i> représente une machine à-peu-près
+semblable, mais en petit. Cette boule se remplit
+d&#39;eau jusqu&#39;à la moitié, &amp; fait entrer dans la partie 
+vuide de la boule de l&#39;air comprimé, qui oblige
+l&#39;eau à monter par le tuyau <i>DAC</i>, &amp; à jaillir par
+l&#39;extrémité <i>C</i>.
+</p>
+<p>
+<i>Fontaine qui commence à joüer dès que l&#39;on allume
+des bougies, &amp; qui cesse quand on les éteint</i>. Prenez
+un vase cylindrique <i>CD</i> (<i><ref target="XPL:4740" type="platelink">fig. 25</ref>.</i>); appliquez-y
+des tubes <i>AC, BF, &amp;c.</i> ouverts par en-bas dans le
+cylindre, de maniere que l&#39;air puisse y descendre.
+Soudez à ces tubes les chandeliers <i>H, &amp;c.</i> &amp; ajustez 
+au couvercle creux du vase inférieur <i>CF</i> un
+petit tube ou ajutage <i>FE</i>, avec un robinet <i>G</i>, qui
+aille presque jusqu&#39;au fond des vases. Il y a en <i>G</i> une
+ouverture, garnie d&#39;une vis, afin que par cet orifice
+l&#39;on puisse verser l&#39;eau en <i>CD</i>.
+</p>
+<p>
+Dans cet état, si l&#39;on allume les bougies <i>H, &amp;c.</i>
+leur chaleur raréfiant l&#39;air contenu dans les tubes
+contigus, l&#39;eau renfermée dans le vase commencera
+à jaillir par <i>EF. Wolf</i> &amp; <i>Chambers</i>.
+</p>
+<p>
+<i>Fontaine de Heron</i>, ainsi nommée de son inventeur 
+Heron d&#39;Alexandrie, &amp; qui a été perfectionnée
+ensuite par Nieuwentit.
+</p>
+<p>
+<i>AB</i> (<i><ref target="XPL:4741" type="platelink">fig. 24</ref>.</i>) est un tuyau par lequel on verse
+de l&#39;eau dans le bassin inférieur <i>C</i>, lequel étant plein
+de même que le tuyau <i>AB</i>, l&#39;air est poussé du bassin 
+<i>C</i> par le tuyau <i>DE</i> dans le bassin <i>F ;</i> cet air est
+<pb n="7:102" facs="V7/ENC_7-102.jpeg" />
+<milestone unit="column" n="1" />
+par conséquent comprimé par le poids de l&#39;eau <i>AB</i>,
+de sorte que sa force élastique pousse en-bas par le
+tuyau <i>GL</i> l&#39;eau, qui se trouve dans le bassin <i>F.</i> L&#39;eau
+coulant alors par le tuyau <i>GL</i> dans le second bassin
+inférieur <i>M</i> (qui est séparé du bassin <i>C</i> par une cloison 
+<i>OQ</i>, placée entre les deux tuyaux), pousse en-haut 
+l&#39;air qu&#39;il contient par le tuyau <i>NP ;</i> cet air
+passe dans le second bassin supérieur, &amp; étant alors
+comprimé par l&#39;eau, qui est dans le tuyau <i>GL</i>, il
+pousse l&#39;eau par sa force élastique dans le tuyau <i>RS</i>,
+en forme de jet. Mussch. §. 1387.
+</p>
+<p>
+<i>Fontaine ou vase dont on tire autant de vin que l&#39;on
+y verse d&#39;eau, de sorte que l&#39;eau paroit changée en vin</i>.
+Le petit vase <i>BM</i> (<i><ref target="XPL:4742" type="platelink">fig. 25</ref>. n°. 2.</i>) a une cloison
+<i>CD</i>. On emplit d&#39;abord la cavité inferieure avec
+du vin par un petit trou qui est dans le fond, &amp; que
+l&#39;on ferme à l&#39;aide d&#39;une vis <i>N</i>. Le tuyau supérieur
+<i>ABP</i>, s&#39;étend jusqu&#39;à la cloison <i>CD ;</i> on y verse de
+l&#39;eau, qui comprime par son poids l&#39;air renfermé dans
+cette cavité supérieure, &amp; le force de passer par
+l&#39;autre petit tuyau <i>SR</i>, qui pénetre à-travers la cloison 
+jusqu&#39;à la cavité inferieure ; cet air comprime
+par conséquent le vin de la cavité inférieure, lequel 
+il fait monter dans le petit tuyau <i>GC</i>, &amp; couler 
+ensuite par le petit robinet <i>O</i>. Mussch. §. <i>1388</i>.
+</p>
+<p>
+<i>Fontaine de Sturmius, laquelle joue ou s&#39;arrête à
+la volonté de celui qui la fait aller. ABB</i> (<i><ref target="XPL:4743" type="platelink">fig. 25</ref>. n°
+3.</i>) est un vase exagone, haut &amp; creux, fermé en-haut
+&amp; en-bas : il y a au milieu un tuyau <i>DC</i>, ouvert
+de chaque côté, &amp; qui monte presque jusqu&#39;en-haut
+dans le vase proche de <i>C:</i> on voit au-bas sur les
+côtés six petits tuyaux fort menus <i>KK</i>, qui sortent
+hors du vase, &amp; par lesquels l&#39;eau s&#39;écoule. Le bout
+inferieur du tuyau proche de <i>D</i>, s&#39;ajuste exactement
+en <i>E</i> dans un autre tuyau <i>EF</i>, fermement attaché
+au bassin <i>M ;</i> ce tuyau <i>EF</i> est percé en-bas &amp; de côté 
+proche de <i>F:</i> il se trouve encore dans le bassin,
+directement au-dessous du tuyau <i>EF</i>, une autre ouverture 
+comme <i>G</i>, par laquelle l&#39;eau qui est tombée
+dans le bassin, après s&#39;etre écoulée par le trou <i>F</i>,
+commence à se dégorger dans un autre vaisseau <i>N:</i>
+on peut fermer exactement cette ouverture <i>G</i> à l&#39;aide 
+d&#39;une longue coulisse <i>GL</i>. Lorsqu&#39;on veut emplir 
+d&#39;eau cette <i>fontaine</i>, on la tire du tuyau <i>EF</i>, en
+ôtant le tuyau <i>EC</i> de l&#39;ouverture <i>E</i>, &amp;, après l&#39;avoir 
+renversée, on y verse de l&#39;eau par le tuyau <i>DC</i>
+jusqu&#39;à ce qu&#39;elle soit pleine : on la retourne ensuite,
+&amp; on la remet dans le tuyau <i>EF</i> ; le poids de
+l&#39;eau la fait alors couler par les petits tuyaux <i>KK</i>.
+Lorsqu&#39;on tire la coulisse <i>GL</i> dehors, de sorte que
+le trou de la coulisse &amp; le trou <i>G</i> s&#39;ajustent l&#39;un sur
+l&#39;autre, alors l&#39;eau qui vient des tuyaux <i>KK</i> peut
+passer librement par ces trous &amp; tomber dans le bassin 
+<i>N</i>, &amp; la <i>fontaine</i> continuera de couier aussi longtems 
+que le bassin <i>ABB</i> peut fournir de l&#39;eau. Mais
+quand on bouche un peu le trou <i>G</i> par la coulisse <i>L</i>,
+en sorte que l&#39;eau qui tombe par <i>KK</i> ne puisse passer 
+en même quantité par <i>G</i>, le trou <i>F</i> se trouve enfin 
+bouché par l&#39;eau, ce qui empêche en même tems
+que l&#39;air ne puisse pénétrer dans le tuyau <i>DC</i>, ni
+dans le vase <i>ABB ;</i> l&#39;eau cependant ne cesse de s&#39;écouler 
+par les tuyaux <i>KK</i>, jusqu&#39;à ce que l&#39;eau du
+vase <i>ABB</i>, avec l&#39;élasticité de l&#39;air raréfié dans ce
+vase, se trouve en équilibre avec la pression de l&#39;atmosphere,
+qui agit contre les ouvertures des tuyaux
+<i>KK</i>, &amp; empêche alors l&#39;eau de s&#39;en écouler : durant
+ce tems, l&#39;eau continue de s&#39;écouler par les ouvertures 
+<i>F, G</i>, dans le tuyau <i>N ;</i> aussi-tôt que l&#39;eau du
+bassin <i>MM</i> commence à devenir si basse, qu&#39;il peut
+s&#39;introduire de nouvel air par l&#39;ouverture <i>F</i> dans le
+tuyau <i>DC</i> &amp; dans le vase <i>ABB</i>, il agit de nouveau
+sur l&#39;eau qui s&#39;écoule par les petits tuyaux <i>KK</i>, comme 
+auparavant, en plus grande quantité que les ouvertures 
+<i>G</i> &amp; <i>F</i> n&#39;en peuvent absorber, ce qui est
+<milestone unit="column" n="2" />
+cause qu&#39;elles se bouchent une seconde fois, &amp; ainsi
+de suite, de sorte que le tarissement &amp; l&#39;écoulement
+de l&#39;eau se font ainsi alternativement. Mussc. §. <i>1390</i>.
+</p>
+<p>
+La description de la plûpart de ces <i>fontaines</i>, est
+tirée soit en entier, soit par extrait, de l&#39;Essai de physique 
+de M. Muslchenbrock. Nous ne parlons point
+des <i>fontaines</i> intermittentes artificielles ; on a suffisamment 
+vû à l&#39;<i>article</i> <sc><ref target="head:Singularités des Fontaines" type="search">Singularités des Fontaines</ref></sc>, comment l&#39;art peut les imiter à l&#39;exemple de
+la nature.
+</p>
+<p>
+Les propriétés des syphons fournissent aussi des
+<i>fontaines</i> curieuses.
+</p>
+<p>
+Soit par exemple un vase <i>AGBF</i> (<i><ref target="XPL:4744" type="platelink">fig. 25</ref>. n°. 5.
+Hydraul.</i>), dans lequel on ait ajusté un syphon ou
+tuyau recourbe à branches inégales, dont la plus
+longue branche <i>DE</i> sorte du vase, &amp; dont l&#39;autre
+soit ouverte en <i>C</i> près du fond du vase sans toucher
+à ce fond ; qu&#39;on verse de l&#39;eau dans ce vase, elle
+montera en même tems dans le syphon <i>CD</i> par l&#39;ouverture 
+<i>C</i> ; &amp; des que l&#39;eau en s&#39;elevant sera arrivée
+dans le syphon &amp; dans le vase au niveau du point
+<i>D</i>, alors par la proprieté du syphon toute l&#39;eau du
+vase s&#39;écoulera par la jambe la plus longue <i>DE</i>. Si
+donc on place sur le haut du vase une figure dont
+les levres soient au niveau du coude <i>D</i>, il est evident 
+que l&#39;eau s&#39;ecoulera dès qu&#39;elle sera arrivée à
+la hauteur des levres de cette figure : ainsi la figure
+pourra representer une espece de Tantale. Voilà le
+principe général, dont on peut varier l&#39;application
+en autant de manieres qu&#39;on voudra, entre autres
+par celle qui est expliquée dans l&#39;Essai de physique
+de M. Musschenbroek, §. <i>1376</i>. Il est facile par la
+construction de la <i>fontaine</i>, de derober le jeu du syphon 
+aux spectateurs.
+</p>
+<p>
+On peut voir dans les livres de Physique, différentes 
+autres especes de <i>fontaines artificielles ;</i> mais
+voilà les principales. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

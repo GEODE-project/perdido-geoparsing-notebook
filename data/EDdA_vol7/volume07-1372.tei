@@ -1,0 +1,344 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28826" id="51:124" vol="7">
+<index type="head" value="GALBANUM" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. des drogues, Mat. méd. Pharm." />
+<index type="normclass" value="Histoire des drogues | Matière médicale | Pharmacie" />
+<index type="englishclass" value="History of drugs | Materia medica | Pharmaceuticals" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="s.m." />
+<head>GALBANUM</head>
+<p>
+GALBANUM, s. m. (<i>Hist. des drogues, Mat. méd.
+Pharm.</i>) suc résineux &amp; gommeux, fort connu des
+anciens, &amp; qui distille d&#39;une plante férulacée. C&#39;est
+le chêne des Arabes, le <foreign lang="greek">χαλβάνη</foreign> de Dioscoride, le
+<foreign lang="hebrew">הלכבח</foreign>, <i>chalbane</i> des Hébreux, mot tiré de <i>chalbanah</i>, qui signifie <i>gras, onctueux, gommeux ;</i> &amp; c&#39;est
+aussi bien clairement du mot grec ou hébraique latinisé,
+que le terme françois prend son origine.
+</p>
+<p>
+Cette gomme-résine entroit dans la composition
+du parfum qui devoit être brûlé sur l&#39;autel d&#39;or. Le
+Seigneur dit à Moyse, prenez des parfums, du stacte,
+de l&#39;onix, du <i>galbanum</i> odoriférant, avec de l&#39;encens<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+le plus pur, &amp; que tout soit du même poids ;
+vous ferez un parfum composé avec soin du mélange 
+de toutes ces choses. <i>Exod. ch. xxx. vers. 34</i>. Ce
+parfum ne déplairoit point aujour d&#39;hui à nos femmes
+hystériques, &amp; à nos hommes hypochondriaques ;
+peut-être ne seroit-il pas difficile de trouver les mêmes 
+causes analogiques qui le rendoient autrefois
+agréable ou nécessaire au peuple juif, par son influence 
+sur leur genre nerveux, également affoibli
+comme le nôtre : mais cette discussion me meneroit
+trop loin.
+</p>
+<p>
+Le <i>galbanum</i> est une substance grasse, ductile comme 
+de la cire, à demi-transparente, brillante, dont
+la nature tient en quelque maniere le milieu entre
+la gomme &amp; la résine ; car elle s&#39;allume au feu comme 
+la resine, se dissout dans l&#39;eau, le vin, le vinaigre,
+comme les gommes, &amp; point ou difficilement
+dans les huiles ; sa couleur est blanchâtre &amp; presque
+transparente lorsqu&#39;elle est récente, ensuite jaunâtre
+ou rousse, d&#39;un goût amer, acre, d&#39;une odeur forte.
+</p>
+<p>
+On trouve deux especes de <i>galbanum</i> chez les droguistes 
+&amp; dans les boutiques d&#39;apothicaires ; l&#39;un est
+en larmes, &amp; l&#39;autre en pains ou en masse.
+</p>
+<p>
+Le premier est le meilleur ; on l&#39;estime quand il
+est récent, pur, gras, médiocrement visqueux, inflammable,
+formé de grumeaux blanchâtres &amp; brillans,
+d&#39;un goût amer &amp; d&#39;une odeur forte. Le <i>galbanum</i> en masse doit être choisi le plus net qu&#39;il sera
+possible, sec, &amp; d&#39;une odeur forte. On jette celui
+qui est brun, sordide, mêlé de matieres etrangeres,
+de sable, de terre, de bois, ou autres parties de la
+plante qui le produit. Il paroit cependant ne differer
+du <i>galbanum</i> en larmes, qu&#39;à cause de la négligence
+&amp; du peu de soin qu&#39;on a eu à le recueillir. Pour le
+nettoyer, on le met dans l&#39;eau bouillante ; &amp; quand
+il est fondu. on en ôte facilement les ordures qui surnagent.
+On l&#39;adultere quelquefois avec de la résine,
+des feves blanches concassées, &amp; de la gomme ammoniaque.
+Le meilleur moyen d&#39;éviter cette sofistiquerie 
+est de le tirer de bonne main.
+</p>
+<p>
+Les anciens Grecs ont connu cette larme. Dioscoride dit qu&#39;elle découle d&#39;une certaine férule, qui s&#39;appelloit 
+<i>métopion</i>. En effet elle découle d&#39;elle-même ou
+par incision, d&#39;une plante férulacée ou ombellifere
+que M. de Tournefort a rapportée au genre d&#39;<i>oreoselinum</i>, par la structure de son fruit, &amp; dont voici les
+synonymes:
+</p>
+<p>
+<i>Oreoselinum africanum galbaniferum, frutescens,
+anisi folio</i>, I. R. H. 319. <i>Ferula africana, galbaniferae,
+ligustici foliis, &amp; facie</i>, Par. Bat. 163. Raii, <i>hist.
+3. 252</i>. Boerh. <i>Ind. alt. 65</i>. Till. Hort. <i>pis. 61. Anisum africanum frutescens, folio &amp; caule colore caeruleo
+tinctis</i>, Pluk. <i>Phytog. 12. f. 12. Anisum fruticosum
+africanum, galbaniferum</i>, hist. oxon. 3. 297. <i>Oreoselinum anisoides, arborescens, ligustici foliis &amp; facie,
+flore luteo, capitis Bonoe-spei</i>, Breyn. <i>prod. 2. 79. Ferula galbanisera syriaca, offic</i>.
+</p>
+<p>
+Cette plante est toûjours verte. Sa racine est grosse,
+ligneuse, pâle, partagée en quelques branches
+ou fibres. Les tiges sont de la grosseur d&#39;un pouce ;
+elles s&#39;élevent à la hauteur de plus de deux ou trois
+coudées ; elles subsistent &amp; sont ligneuses, rondes,
+genouillées, remplies d&#39;une moelle blanchâtre un
+peu dure, &amp; partagées en quelques rameaux. Chaque espace entre les noeuds des tiges &amp; des rameaux,
+est couvert d&#39;un feuillet membraneux, d&#39;où sortent
+les feuilles semblables à celles de l&#39;anis, mais plus
+amples, plus fermes, &amp; découpées plus aigu, de
+couleur de verd de mer, d&#39;une saveur &amp; d&#39;une odeur
+acres. Les tiges, les rameaux &amp; les feuilles sont couverts 
+d&#39;une rosee de la même couleur.
+</p>
+<p>
+Les fleurs naissent au sommet destiges, disposées en
+parasol ; elles sont petites, à cinq pétales, en rose de
+couleur jaune. Quand elles sont tombées, il leur succede<gap type="hyphenpb" />
+<pb n="7:430" facs="V7/ENC_7-430.jpeg" />
+<milestone unit="column" n="1" />
+des graines presque rondes, applaties, d&#39;un brun
+roussâtre, cannelées &amp; bordées tout-autour d&#39;une
+aile mince &amp; membraneuse ; elles ont un goût acre,
+aromatique &amp; piquant ; elles ressemblent aux graines
+de la livêche, hormis qu&#39;elles ne sont pas sillonnées si
+profondément, &amp; qu&#39;elles ont une bordure membraneuse 
+que n&#39;ont point les graines de livêche.
+</p>
+<p>
+Toute cette plante est remplie d&#39;un suc visqueux,
+laiteux, clair, qui se condense en une larme, qui
+répond au <i>galbanum</i> par tous ces caracteres ; il découle 
+de cette plante en petite quantité par incision,
+&amp; quelquefois de lui-même, des noeuds des tiges qui
+ont trois ou quatre ans : mais on a coûtume de couper 
+la tige à deux ou trois travers de doigt de la racine,
+&amp; le suc découle goutte-à-goutte ; quelques heures 
+après il s&#39;épaissit, se durcit, &amp; on le recueille.
+</p>
+<p>
+Cette plante croît en Arabie, en Syrie, dans la
+Perse, &amp; dans différens pays de l&#39;Afrique, sur-tout
+dans la Mauritanie.
+</p>
+<p>
+Quelques curieux la font venir aussi dans des serres,
+&amp; elle a poussé heureusement durant quelques années
+dans le jardin royal de Paris. Pour réussir dans sa culture,
+il faut semer sa graine d&#39;abord après qu&#39;elle est
+mûre, dans un pot de bonne terre, qu&#39;on placera dans
+un lit chaud durant l&#39;hyver pour la préserver du froid.
+On transportera ensuite la plante dans de plus grands
+pots, à mesure qu&#39;elle s&#39;élevera, ce qu&#39;on exécutera
+dans le mois de Septembre. On la tiendra toûjours
+en hyver dans une serre ; on l&#39;arrosera fréquemment
+en été, &amp; alors on lui procurera de l&#39;air autant qu&#39;il
+sera possible. Au reste tous ces soins ne sont que pour
+la curiosité, car cette férule ne donne de larme que
+dans les lieux de sa naissance.
+</p>
+<p>
+La plante que Lobel appelle <i>ferula galbanifera</i>,
+Lob. <i>icon. 779.</i> est bien différente de celle dont il
+s&#39;agit ici ; car la férule de Lobel, malgré le nom qu&#39;il
+lui a imposé, ne produit point le <i>galbanum</i>, comme
+M. de Tournefort l&#39;a observé, mais une autre sorte
+de gomme fort rouge, &amp; dont l&#39;odeur n&#39;est point
+forte.
+</p>
+<p>
+Le <i>galbanum</i> se dissout dans le vin, le vinaigre &amp;
+dans l&#39;eau chaude ; mais difficilement dans l&#39;huile,
+ou l&#39;esprit-de-vin. Il abonde en sel tartareux, &amp; en
+une huile épaisse, fétide, que l&#39;esprit-de-vin, comme 
+trop délié, n&#39;extrait qu&#39;à peine, tandis qu&#39;elle
+s&#39;enleve &amp; se dégage avec le vinaigre, le vin, &amp;
+l&#39;eau chaude.
+</p>
+<p>
+Les auteurs modernes n&#39;ont fait que copier ce que
+Dioscoride a dit de ses vertus, dont il a parlé fort au
+long &amp; en général assez bien contre son ordinaire.
+Sa saveur est acre, amere, nauséabonde ; son odeur
+forte &amp; desagréable, dépendantes de son huile &amp; de
+son sel tartareux, indiquent que ses propriétés sont
+analogues à celles des autres gommes de son espece,
+le bdellium, l&#39;opopanax, le sagapenum, l&#39;assa foetida
+&amp; la gomme ammoniaque, qui sont échauffantes,
+pénétrantes, stimulantes, résolutives, propres pour
+les maladies froides du genre nerveux. Cependant le
+<i>galbanum</i> est plus foible que la gomme ammoniaque
+pour purger ; mais il resserre ensuite un peu davantage.
+</p>
+<p>
+On l&#39;employe intérieurement &amp; extérieurement.
+Il faut en user avec reserve pour l&#39;intérieur. Sa dose
+en substance est depuis un scrupule jusqu&#39;à demi
+dragme : on le méle comme on veut avec les autres
+gommes &amp; purgatifs, &amp; on en fait des pilules, dont
+je donnerai tout-à-l&#39;heure des exemples.
+</p>
+<p>
+Le <i>galbanum</i> est un très-bon médicament en qualité 
+d&#39;anti-hystérique, d&#39;emmenagogue &amp; de fondant,
+quand il n&#39;y a point d&#39;inflammation, &amp; qu&#39;il est besoin
+d&#39;échauffer, de stimuler, de dissoudre une pituite tenace,
+glutineuse, abondante, qui cause des obstructions 
+dans les intestins, dans l&#39;utérus, &amp; dans les
+autres parties du corps ; ce qui est sort commun
+dans les pays septentrionaux.
+<milestone unit="column" n="2" />
+</p>
+<p>
+En ce cas on peut prendre <i>galbanum</i>, gomme ammoniaque,
+de chacun deux onces ; vitriol de mars de
+riviere demi-once ; diagrede trente grains ; du sirop
+de nerprun, s. q. faire d&#39;abord une masse de pilules
+dont la dose sera depuis cinq grains jusqu&#39;à vingt,
+quand il s&#39;agira de fondre des humeurs, de desobstruer,
+d&#39;exciter les regles, <i>&amp;c.</i> Ou bien alors dans
+les mêmes cas, prenez <i>galbanum</i>, assa foetida, myrrhe,
+de chacun une dragme ; camphre, sel de succin,
+de chacun demi-scrupule ; borax deux scrupules ; sirop 
+d&#39;armoise s. q. faire d&#39;abord une masse de pilules,
+dont la dose sera d&#39;un scrupule. S&#39;il est besoin d&#39;agir
+plus puissamment, prenez <i>galbanum</i> un scrupule ;
+succin pulvérisé douze grains ; scammonée dix grains ;
+formez-en un bol avec conserve de fleurs de chicorée,
+s. q. En un mot on peut diversifier le mélange
+du <i>galbanum</i> avec les autres gommes &amp; purgatifs à
+l&#39;infini, suivant les vûes qu&#39;on se propose.
+</p>
+<p>
+Le <i>galbanum</i> s&#39;employe extérieurement sans danger 
+&amp; sans limites ; il incise, il attire puissamment, il
+amollit, &amp; fait mûrir : c&#39;est pour cela qu&#39;on le mêle
+dans la plûpart des emplâtres émolliens, digestifs &amp;
+résolutifs. Appliqué sur la région du bas-ventre en
+maniere d&#39;emplâtre, il adoucit quelquefois les maladies 
+hystériques, &amp; les mouvemens spasmodiques
+des intestins. C&#39;est dans la même intention qu&#39;on
+prend parties égales de <i>galbanum</i>, d&#39;assa foetida, de
+castoreum, dont on forme des trochisques, pour en
+faire des fumigations dans les accès hystériques.
+</p>
+<p>
+On peut aussi dissoudre le <i>galbanum</i> dans l&#39;huile
+d&#39;aspic, &amp; en faire un liniment nervin. On se sert
+aussi beaucoup de l&#39;emplâtre de <i>galbanum</i> dans plusieurs 
+cas, &amp; du <i>galbanum</i> de Paracelse dans des
+commencemens de paralysie. Or voici comme on
+prépare le <i>galbanetum</i> de Paracelse, qui passe pour
+un bon remede externe dans la contraction des nerfs
+&amp; la suspension de leur action. prenez une livre de
+<i>galbanum</i>, demi-livre d&#39;huile de térébenthine, deux
+onces d&#39;huile d&#39;aspic ; digérez le tout pendant deux
+ou trois jours ; distillez-le ensuite dans la cornue, &amp;
+gardez la liqueur distillée dans un vase bien bouché
+pour l&#39;usage.
+</p>
+<p>
+On employe le <i>galbanum</i> dans la thériaque, le mithridat,
+le diascordium, l&#39;onguent des apôtres, l&#39;onguent 
+d&#39;althaea, le diachylon avec les gommes, l&#39;emplâtre 
+de mucilage, le <i>manus-Dei</i>, le divin, l&#39;oxicroceon,
+le diabotanum &amp; autres ; car cette larme gommeuse 
+n&#39;est d&#39;usage qu&#39;en Medecine. Il en arrive du
+Levant chaque année trente ou quarante quintaux,
+par la voie de Marseille en France, dont elle fait en
+partie la consommation, &amp; en partie la vente dans
+les pays étrangers. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

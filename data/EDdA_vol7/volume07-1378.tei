@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28832" id="51:127" vol="7">
+<index type="head" value="GALÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botanique." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.m." />
+<head>GALÉ</head>
+<p>
+GALÉ, s. m. (<i>Botanique.</i>) genre de plante dont
+voici les caracteres. Ses feuilles sont alternes ; ses
+fleurs mâles sont portées sur des pédicules qui sortent 
+des parties latérales des feuilles, &amp; sont arrangées 
+sur la tige en forme de longues pointes ; ses
+fleurs sont nues &amp; ornées seulement de six étamines
+qui y forment comme des branches. L&#39;ovaire est situé 
+à un autre endroit de la même plante sur un pédicule 
+beaucoup plus court logé dans un calice découpé 
+en quatre parties, &amp; foiblement attaché à son
+pédicule ; il est environné d&#39;autres fleurs mâles : sa
+forme est sphérique, écailleuse, inégale en plusieurs
+endroits, &amp; contient une seule graine dans chaque
+écaille.
+</p>
+<p>
+Miller compte trois especes de <i>galé ;</i> savoir, <i>galé</i>
+<pb n="7:434" facs="V7/ENC_7-434.jpeg" />
+<milestone unit="column" n="1" />
+<i>frutex odoratus septentrionalium</i>, en anglois <i>sweet-willow</i>, ou <i>duthe-myrtle ;</i> cette espece se plaît dans
+les bruyeres &amp; dans les terres incultes. On s&#39;en sert
+chez les bourgeois pour garnir les croisées &amp; les cheminées 
+des appartemens, à cause de la bonne odeur
+des fleurs &amp; des boutons : on en met aussi dans les
+armoires pour les parfumer, &amp; pour en éloigner les
+teignes.
+</p>
+<p>
+Les deux autres especes de <i>galé</i> sont étrangeres,
+natives d&#39;Amérique, &amp; bien supérieures à celles de
+l&#39;Europe ; l&#39;une est le <i>galé caroliniensis baccata, fructu
+racemoso, sesseli monopyreno</i>, Pluck Phyt. l&#39;autre est
+le <i>galé caroliniensis humilior, foliis latioribus &amp; magis 
+serratis ;</i> Catesby, <i>hist. nat. Carol.</i> les Anglois les
+nomment <i>candle-berry-trie</i>, &amp; les cultivent beaucoup
+soit de graine soit de bouture.
+</p>
+<p>
+Ces deux especes de <i>galé</i> s&#39;élevent chez eux en
+buisson à la hauteur de cinq piés, &amp; sont toûjours
+vertes ; leurs feuilles broyées dans la main répandent
+une odeur suave, telle que celle de myrthe. Les Américains préparent une cire des baies, dont ils sont
+des bougies qui brûlent à merveille, &amp; qui jettent
+une agréable odeur : une de ces deux especes de <i>galé</i> a produit du fruit dans le jardin d&#39;un curieux de
+Londres en 1729; &amp; toutes les deux donnent communement 
+des fleurs. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,414 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29802" id="53:238" vol="7">
+<index type="head" value="GOMARISTES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Morellet" />
+<index type="shortauth" value="Morellet" />
+<index type="kafnum" value="96" />
+<index type="kafauth" value="Morellet, abbé André (1727-1819)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Théologie." />
+<index type="normclass" value="Théologie" />
+<index type="englishclass" value="Theology" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="s.m." />
+<head>GOMARISTES</head>
+<p>
+GOMARISTES, s. m. (<i>Théologie.</i>) Les <i>Gomaristes</i> sont, parmi les Calvinistes, opposés aux Arminiens. <i>Voyez</i> <sc><ref target="head:Arminiens" type="search">Arminiens</ref></sc>. Ils ont pris leur nom de
+Gomar, professeur dans l&#39;université de Leyde, &amp; ensuite 
+dans celle de Groningue : on les appelle aussi
+<i>contre-Remontrans</i>, de leur opposition aux Arminiens, qu&#39;on a appellé <i>Remontrans</i>.
+</p>
+<p>
+On peut connoître la doctrine des <i>Gomaristes</i> par
+le seul exposé des sentimens des Remontrans, qu&#39;on
+trouve à l&#39;<i>article</i> <sc><ref target="head:Arminiens" type="search">Arminiens</ref></sc>, la théologie des uns
+étant diamétralement opposée à celle des autres ; &amp;
+on peut voir encore les cinq propositions des <i>Gomaristes</i> contraires à celles des Arminiens. <i>Epist. théol.
+&amp; ecclésiastiq</i>.
+</p>
+<p>
+On peut prendre encore une idée fort nette de
+la doctrine des <i>Gomaristes</i>, au <i>douzieme livre de
+l&#39;histoire des variations</i>, où M. Bossuet la développe
+avec beaucoup d&#39;étendue ; nous y renvoyons nos
+lecteurs. En général, on peut dire que les <i>Gomaristes</i>
+sont aux Arminiens ce que les Thomistes &amp; les autres 
+défenseurs de la grace efficace &amp; de la prédestination 
+rigide, sont aux Molinistes &amp; aux autres défenseurs 
+des droits du libre arbitre &amp; de la volonté
+de sauver tous les hommes : il n&#39;y a sur ces matieres 
+que deux opinions opposées &amp; contradictoires.
+<i>Voyez</i> <sc><ref target="head:Grace" type="search">Grace</ref></sc>.
+</p>
+<p>
+Nous nous bornerons ici à dire un mot de l&#39;histoire
+du Gomarisme &amp; des troubles que les disputes des
+Remontrans &amp; des contre-Remontrans ont causés en
+Hollande, parce que les faits de cette nature appartiennent 
+à l&#39;histoire de l&#39;esprit humain.
+</p>
+<p>
+Luther reprochant à l&#39;Eglise romaine qu&#39;elle étoit
+tombée dans le Pélagianisme, fit ce qu&#39;on a toûjours
+fait en pareilles matieres, &amp; se jetta dans l&#39;extrémité 
+opposée ; il établit sur les matieres de la grace &amp;
+<pb n="7:734" facs="V7/ENC_7-734.jpeg" />
+<milestone unit="column" n="1" />
+de la prédestination, une doctrine rigide &amp; incompatible 
+avec les droits du libre arbitre &amp; la bonté de
+Dieu. Melanchton, esprit doux &amp; modéré, l&#39;engagea 
+à se relâcher un peu de ses premieres opinions,
+&amp; depuis les théologiens de la confession d&#39;Augsbourg marcherent sur les traces de Mélanchton à cet
+égard : mais ces adoucissemens déplurent à Calvin.
+Ce réformateur, &amp; son disciple Théodore de Beze,
+soûtinrent le prédestinatianisme le plus rigoureux,
+&amp; ils y ajoûterent la certitude du salut &amp; l&#39;inadmissibilité 
+de la justice. Leur doctrine étoit reçûe presque
+universellement en Hollande, lorsqu&#39;Arminius professeur 
+dans l&#39;université de Leyde, se déclara contre
+les maximes enseignées par les églises du pays, &amp; se
+forma bien-tôt un parti nombreux : il trouva un adversaire 
+dans la personne de Gomar. Les disputes se
+multiplierent &amp; se répandirent bien-tôt dans les colléges 
+des autres villes &amp; ensuite dans les consistoires
+&amp; dans les églises. La querelle étoit encore purement
+ecclésiastique, agitée seulement par les ministres de
+la religion, lorsque les états de Hollande &amp; West-Frise voulurent s&#39;en mêler ; ils ordonnerent en 1608
+une conference publique à la Haye entre Gomar &amp;
+Arminius, assistés l&#39;un &amp; l&#39;autre des plus habiles gens
+de leur parti ; mais après avoir bien disputé, on se sépara 
+sans convention &amp; sans accommodement : sur
+cela on ordonna que les actes de la conférence seroient 
+supprimés, &amp; qu&#39;on garderoit le silence sur
+les matieres contestées.
+</p>
+<p>
+Cette premiere loi de silence ne rétablit point la
+paix. Après la mort d&#39;Arminius arrivée en 1609, ses
+disciples dresserent une requête qu&#39;ils présenterent
+aux états de Hollande en 1610, sous le nom de <i>remontrance</i>, 
+qui renfermoit en divers articles la doctrine
+de leur maître sur la grace &amp; la prédestination ; les
+<i>Gomaristes</i> de leur côté demanderent à être entendus.
+Les états de Hollande &amp; West-Frise ordonnerent 
+une seconde conférence à la Haye, qui n&#39;eut
+pas plus de succès, &amp; après laquelle on fit une seconde 
+loi de silence, contre laquelle les <i>Gomaristes</i> se
+récrierent fort, &amp; qui ne fut pas plus observée que
+la premiere.
+</p>
+<p>
+Cependant les <i>Gomaristes</i> demandoient avec instance 
+un synode où ils pussent convaincre leurs adversaires 
+touchant les dogmes contestés qu&#39;on avoit
+réduits à cinq propositions : les Arminiens firent ce
+qu&#39;ils purent pour détourner le coup ; ils prévoyoient
+qu&#39;ils seroient infailliblement condamnés, le plus
+grand nombre des ministres leur étant contraires.
+</p>
+<p>
+C&#39;étoit une chose singuliere &amp; qui fait connoître
+l&#39;esprit du siecle, que de voir au milieu de tout cela
+le roi d&#39;Angleterre Jacques I. écrivant de gros livres
+contre l&#39;arminien Vorstius, successeur d&#39;Arminius
+dans l&#39;université de Leyde, se donnant les plus grands
+mouvemens &amp; par lui-même &amp; par son ambassadeur
+auprès des Provinces-Unies, pour faire chasser de
+l&#39;université un professeur pélagien.
+</p>
+<p>
+En attendant le synode, on tint une conférence à
+Delft, entre trois <i>gomaristes</i> &amp; trois arminiens, qui
+se passa en explications réciproques &amp; avec assez
+de modération. Ceci se passoit en 1613: au mois de
+Janvier de l&#39;année suivante, les états de Hollande &amp;
+West-Frise firent une nouvelle ordonnance dans laquelle 
+on rappelle les esprits à l&#39;instruction de l&#39;apôtre 
+S. Paul, <i>non plus sapere quàm oportet, sed sapere
+ad sobrietatem ;</i> on y défend d&#39;enseigner au peuple les
+conséquences trop dures qui paroissent suivre des
+opinions rigides de quelques théologiens sur la grace
+&amp; la prédestination ; par ex. que quelques hommes
+ont été créés pour la damnation ; que Dieu leur impose 
+la nécessité de pécher, &amp; leur offre le salut sans
+vouloir qu&#39;ils y arrivent : &amp; quoique (disent les états)
+ces questions étant agitées dans les universités &amp;
+dans les assemblées des ministres, ce que nous vous
+<milestone unit="column" n="2" />
+permettons encore, il en arrive que les sentimens se
+partagent ; ce qu&#39;on a vû dans tous les tems, même
+parmi des hommes savans &amp; pieux, nous défendons
+de traiter ces matieres difficiles en public, en chaire,
+ou autrement. Ils ordonnent en outre aux pasteurs 
+de se conformer dans l&#39;explication des divers
+points de la doctrine chrétienne, à l&#39;Ecriture-sainte
+&amp; à la foi des églises réformées, &amp; enfin de suivre
+l&#39;esprit de la charité chrétienne, &amp; d&#39;éviter de nouvelles 
+discussions, suivant les premiers decrets portés 
+par les états.
+</p>
+<p>
+Cette troisieme ordonnance fut encore mal reçûe
+des <i>Gomaristes</i>, dont les opinions y étoient assez caractérisées 
+&amp; proscrites en même tems ; ils écrivirent contre le decret ; les Arminiens le défendirent,
+Grotius en fit l&#39;apologie. Les historiens remarquent
+même que cette ordonnance de 1614 contribua à
+rendre plus fiers &amp; moins accommodans les Arminiens qui s&#39;étoient montrés jusque-là fort doux &amp;
+fort pacifiques. Une nouvelle conférence tenue à
+Rotterdam au commencement de Novembre 1615,
+ne tranquillisa pas les esprits : de sorte qu&#39;en 1617,
+les états de Hollande &amp; West-Frise, que les <i>Gomaristes</i> accusoient toûjours de vouloir apporter du
+changement dans la religion réformée, &amp; de s&#39;arroger 
+mal-à-propos le droit de pourvoir aux choses de
+la religion, firent une déclaration dans laquelle ils
+avancent d&#39;abord qu&#39;il appartient au magistrat de se
+mêler des affaires ecclésiastiques. Ensuite, après
+avoir rapporté les cinq propositions de la remontrance 
+de 1610, renfermant toute la doctrine des
+Arminiens sur la grace &amp; la prédestination, ils décident 
+que ceux qui les tiennent &amp; les enseignent ne
+peuvent être retranchés de la communion de l&#39;Eglise,
+&amp; déclarés hérétiques.
+</p>
+<p>
+On peut voir ces cinq propositions à l&#39;<i>article</i> <sc><ref target="head:Arminiens" type="search">Arminiens</ref></sc> ; &amp; celles des <i>Gomaristes</i> qui y sont opposées,
+dans la remontrance des premiers. <i>Epit. théol.
+&amp; ecclésiast</i>.
+</p>
+<p>
+Cette déclaration ne fit qu&#39;animer encore davantage 
+les <i>Gomaristes ;</i> ils la firent casser par l&#39;autorité
+du prince Maurice &amp; des états généraux : mais les
+états de Hollande, pour maintenir leur supériorité 
+indépendante, casserent cette sentence &amp; leverent 
+des troupes ; les troubles se multiplierent ; on en
+vint aux mains dans plusieurs villes. Les états généraux,
+pour calmer le desordre, arrêterent au commencement 
+de 1618, que le prince Maurice marcheroit 
+pour déposer les magistrats arminiens, dissiper 
+les troupes qu&#39;ils avoient levées, &amp; chasser leurs
+ministres. Après avoir réussi dans cette entreprise
+dans les provinces de Gueldres, d&#39;Over-Yssel &amp;
+d&#39;Utrecht, il fit arrêter le grand pensionnaire Barneveld, Hoogerbets &amp; Grotius, les principaux soûtiens
+du parti des Arminiens ; quelques jours après, il partit 
+de la Haye, &amp; parcourant les provinces de Hollande &amp; West-Frise, il déposa dans toutes les villes
+les magistrats arminiens, bannit les principaux ministres 
+&amp; les théologiens de cette secte, &amp; leur ôta
+même des églises pour les donner aux <i>Gomaristes</i>.
+</p>
+<p>
+Ceux qui s&#39;étoient opposés alors au dessein d&#39;un
+synode national, étant ainsi abattus, on songea à le
+convoquer. Ce synode devoit représenter toute l&#39;eglise 
+belgique ; mais on y invita aussi des docteurs &amp;
+des ministres de toutes les églises réformées de l&#39;Europe, &amp; cela pour fermer la bouche aux Remontrans, qui prétendoient que si un synode provincial
+ne suffisoit pas pour terminer les contestations, un
+synode national seroit aussi insuffisant, &amp; qu&#39;il en
+falloit un écuménique. Au reste, on pouvoit prévoir
+que le synode national ou écuménique ne seroit pas
+favorable aux Arminiens ; les députés qu&#39;on nomma
+dans des synodes particuliers ayant presque tous été
+pris parmi les <i>Gomaristes ;</i> ce qui engagea les Remontrans<gap type="hyphenpb" />
+<pb n="7:735" facs="V7/ENC_7-735.jpeg" />
+<milestone unit="column" n="1" />
+à protester d&#39;avance contre tout ce qui se
+feroit.
+</p>
+<p>
+On avoit choisi Dordrecht pour la célébration du
+synode ; l&#39;ouverture s&#39;en fit le 13 Novembre 1618.
+</p>
+<p>
+Nous ne donnerons pas ici un détail suivi de ce
+qui s&#39;y passa ; nous dirons seulement que les Arminiens y furent condamnés unanimement ; leurs opinions 
+y furent déclarées contraires à l&#39;Ecriture &amp;
+à la doctrine des premiers réformateurs. On ajoûta
+à cette condamnation une censure personnelle contre 
+les Arminiens cités au synode ; ils avoient été retenus 
+dans la ville par les états généraux, après
+avoir présenté inutilement plusieurs requêtes pour
+être renvoyés chez eux. Cette sentence fut dressée
+au nom du synode &amp; des députés des états généraux ;
+elle déclaroit les Arminiens détenus à Dordrecht atteints 
+&amp; convaincus d&#39;avoir corrompu la religion &amp;
+déchiré l&#39;unité de l&#39;Eglise ; &amp; pour ces causes, elle
+leur interdisoit toute charge ecclésiastique, les déposoit 
+de leurs vocations, &amp; les jugeoit indignes des
+fonctions académiques. Elle portoit que tout le monde 
+seroit tenu de renoncer publiquement aux cinq
+propositions des Arminiens ; que les noms de <i>Remontrans</i> &amp; <i>contre-Remontrans</i> seroient abolis &amp;
+oubliés. Les peines portées par cette sentence sont
+toutes ecclésiastiques : mais il ne tint pas aux <i>Gomaristes</i>, qu&#39;elles ne fussent &amp; civiles &amp; plus séveres.
+</p>
+<p>
+Ils avoient fait les plus grands efforts pour faire
+condamner les Arminiens comme ennemis de la patrie 
+&amp; perturbateurs du repos public ; mais les théologiens 
+étrangers refuserent absolument d&#39;approuver
+la sentence du synode en ce point ; de sorte qu&#39;on
+fut obligé de la réformer ; &amp; même quelque correction 
+qu&#39;on y eût faite, plusieurs ne voulurent point
+entrer dans ce qui regardoit la sentence personnelle
+des Arminiens : mais les états généraux satisfirent en
+cela l&#39;animosité des <i>Gomaristes</i> des Provinces-Unies ;
+car après avoir donné un édit le 2 Juillet de la même
+année, pour approuver &amp; faire exécuter les decrets
+&amp; la sentence du synode, on proscrivit les Arminiens ;
+on bannit les uns, on emprisonna les autres, &amp; on
+confisqua les biens de plusieurs.
+</p>
+<p>
+Le supplice du célebre Barnevelt, grand persionnaire 
+de Hollande, suivit de près la fin du synode,
+&amp; le prince d&#39;Orange fit porter contre lui une sentence 
+de mort, dans laquelle, parmi d&#39;autres griefs
+en matiere civile, on l&#39;accusoit d&#39;avoir conseillé la
+tolérance de l&#39;Arminianisme, d&#39;avoir troublé la religion 
+&amp; contristé l&#39;Eglise de Dieu. Tout le monde sait
+que cet homme célebre fut le martyr des lois &amp; de la
+liberté de son pays, plûtôt que des opinions des Arminiens, quoiqu&#39;il les adoptât.
+</p>
+<p>
+Le prince d&#39;Orange Maurice, qui visoit à la souveraineté 
+des Pays-Bas, &amp; qui étoit traversé dans
+ses desseins par les magistrats des villes &amp; les états
+particuliers des provinces, &amp; sur-tout de celles de
+Hollande &amp; West-Frise, à la tête desquels se trouvoient 
+Barneveld &amp; Grotius, se servit du prétexte des
+querelles de religion pour abattre ces républicains,
+&amp; pensa opprimer tout-à-fait la liberté de la Hollande, sous l&#39;apparence d&#39;en extirper l&#39;Arminianisme.
+</p>
+<p>
+En 1623, une conjuration contre le prince d&#39;Orange, dans laquelle entrerent plusieurs arminiens,
+fut une nouvelle occasion de les persécuter, que les
+<i>Gomaristes</i> ne laisserent pas échapper ; on les appella
+dans les prêches des <i>traitres</i> &amp; des <i>parricides</i>. Il étoit
+assez naturel de penser que Guillaume Barnevelt,
+chef de cette conspiration, &amp; fils puîné du grand
+pensionnaire, étoit animé par le desir de venger la
+mort de son pere ; mais on ne manqua pas de représenter 
+la conspiration comme l&#39;ouvrage de toute la
+secte, &amp; la persécution fut très-vive.
+</p>
+<p>
+Après la mort de Maurice, arrivee en 1625, les
+Arminiens tenterent inutilement leur retablissement
+<milestone unit="column" n="2" />
+en Hollande, sous le prince Frédéric Henri son frere ; 
+ils se réfugierent en divers pays de l&#39;Europe où
+on leur offroit des asyles.
+</p>
+<p>
+Mais la tolérance civile &amp; même ecclésiastique
+s&#39;établissant peu-à-peu en Hollande, à la suite des
+principes de la réforme, sous le stathoudérat de Guillaume II. fils du prince Henri, on leur permit d&#39;avoir
+des églises dans quelques villes des Provinces-Unies ;
+celle d&#39;Amsterdam a eu de grands hommes à sa tête ; 
+le savant le Clerc de Limborch, &amp; beaucoup
+d&#39;habiles gens y ont été ministres.
+</p>
+<p>
+Les <i>Gomaristes</i> sont toûjours dans la religion réformée,
+le parti dominant, &amp; les Arminiens y font secte,
+au-moins pour la police extérieure de la religion.
+On professe encore ouvertement les dogmes
+rigides des premiers réformateurs ; les formules de
+for expriment par-tout cette même doctrine, &amp; on
+est obligé de s&#39;y conformer pour parvenir aux emplois 
+ecclésiastiques : il en est de même en Angleterre, où les épiscopaux tiennent les opinions de Calvin sur les matieres de la grace &amp; de la prédestination.
+Cependant une grande partie des ministres,
+dans la réforme, s&#39;est rapprochée des sentimens des
+Arminiens, ramenée à ces opinions par la Philosophie &amp; sur-tout par la Morale, qui s&#39;en accommodent 
+beaucoup mieux : on les accuse même de donner 
+dans les sentimens des Sociniens sur plusieurs articles 
+considérables de la doctrine chrétienne. Quoi
+qu&#39;il en soit, l&#39;Arminianisme ne cause plus aujourd&#39;hui
+aucun trouble en Hollande ; la tolérance civile a réparé 
+les maux qu&#39;avoit faits la persécution. Les magistrats 
+hollandois ont enfin compris que pour le bien de
+la paix, ils devoient s&#39;abstenir de se mêler dans ces
+disputes ; permettre aux théologiens de parler &amp;
+d&#39;écrire à leur aise ; les laisser conférer s&#39;ils en
+avoient envie, &amp; décider, si cela leur plaisoit ; &amp;
+sur-tout ne persécuter personne. (<i>h</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

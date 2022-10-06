@@ -1,0 +1,548 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30296" id="55:3:30" vol="7">
+<index type="head" value="Greffe" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Jar." />
+<index type="normclass" value="Jardinage" />
+<index type="englishclass" value="Gardening" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="s.f." />
+<head>Greffe</head>
+<p>
+<sc>Greffe</sc>, s. f. (<i>Jar.</i>) c&#39;est proprement une partie d&#39;une 
+jeune branche d&#39;un nouveau rejetton de l&#39;année,
+prise sur un arbre que l&#39;on veut multiplier, pour l&#39;insérer 
+sur un autre arbre qui sert de sujet, &amp; dont on
+veut améliorer le fruit ou changer l&#39;espece : mais
+plus ordinairement on entend par le mot <i>greffe</i>, l&#39;opération 
+même de <i>greffer</i>, ou le produit de cette opération ; 
+&amp; c&#39;est dans ce dernier sens que l&#39;on a dit,
+que la <i>greffe</i> étoit le triomphe de l&#39;art sur la nature. Par
+ce moyen en effet on force la nature à prendre d&#39;autres 
+arrangemens, à suivre d&#39;autres voies, à changer
+ses formes, &amp; à suppléer le bon, le beau, le grand à
+la place de l&#39;abject : enfin on peut par le moyen de la
+<i>greffe</i> transmuer le sexe, l&#39;espece, &amp; même le genre
+<pb n="7:922" facs="V7/ENC_7-922.jpeg" />
+<milestone unit="column" n="1" />
+des arbres, relativement aux méthodes des Botanistes, dont les systèmes en plusieurs cas sont peu d&#39;accord 
+avec les résultats de la <i>greffe</i>. Ce petit art est
+ce que l&#39;on a imaginé de plus ingénieux pour la perfection 
+de la partie d&#39;Agriculture qui en fait l&#39;objet ;
+&amp; cette partie s&#39;étend principalement sur tous les arbres 
+fruitiers. Par le secours de la <i>greffe</i> on releve la
+qualité des fruits, on en perfectionne le coloris, on
+leur donne plus de grosseur, on en avance la maturité,
+on les rend plus abondans, enfin on change dans
+plusieurs cas le volume que les deux arbres auroient
+dû prendre naturellement. Mais on ne peut créer
+d&#39;autres especes : si la nature se soûmet à quelques
+contraintes, elle ne permet pas qu&#39;on l&#39;imite. Tout
+se réduit ici à améliorer ses productions, à les embellir 
+&amp; à les multiplier ; &amp; ce n&#39;est qu&#39;en semant les
+graines, en suivant ses procédés, qu&#39;on peut obtenir
+des variétés ou des especes nouvelles ; encore faut-il 
+pour cela tout attendre du hasard, &amp; rencontrer
+des circonstances aussi rares que singulieres.
+</p>
+<p>
+On se dispensera de faire ici l&#39;énumération de tous
+les arbres qui peuvent se greffer les uns sur les autres,
+&amp; des sujets qui conviennent le mieux à chaque 
+espece d&#39;arbre ; parce qu&#39;il en sera fait mention
+à l&#39;article de chaque arbre en particulier. Venons à
+l&#39;explication des différentes méthodes de greffer,
+qui sont la <i>greffe en fente</i>, la <i>greffe en couronne</i>, la
+<i>greffe à emporte-piece</i>, la <i>greffe en flûte</i>, la <i>greffe en approche</i>, &amp; la <i>greffe en écusson</i>.
+</p>
+<p>
+<i>Greffe en fente ;</i> c&#39;est la plus ancienne façon de
+greffer : on en fait usage sur-tout pour les fruits à
+pepin. On peut l&#39;appliquer sur des sujets qui ayent
+depuis un pouce jusqu&#39;à six de diametre ; mais pour
+la sûreté du succès le moindre volume doit prévaloir,
+quoiqu&#39;il y ait exemple d&#39;avoir vû réussir cette
+<i>greffe</i> sur des sujets de trois piés de pourtour, sur lesquels 
+on avoit inséré des <i>greffes</i> d&#39;un pouce &amp; demi
+de diametre : mais quand les arbres sont si gros, il
+vaut mieux les greffer sur leurs branches moyennes.
+Le tems propre à faire cette <i>greffe</i> est depuis le commencement 
+du mois de Février, jusqu&#39;à ce que la seve
+soit en action, au point de faire ouvrir les boutons ou
+de faire détacher l&#39;écorce. Il faut éviter la pluie, le hâle 
+&amp; l&#39;ardeur du soleil. La <i>greffe</i> proprement dite doit
+être choisie sur des arbres vigoureux &amp; de bon rapport,
+où il faudra couper des branches de la derniere
+pousse qui soient bien saines &amp; disposées à se mettre à
+fruit ; à la différence des branches gourmandes &amp; de
+faux bois, qui ne conviennent nullement à faire des
+<i>greffes</i>. On peut faire provision de bonnes branches, &amp;
+les couper quelque tems avant de s&#39;en servir ; il faudra 
+dans ce cas les laisser de toute leur longueur &amp;
+les couvrir de terre jusqu&#39;à moitié dans un lieu frais
+&amp; à l&#39;ombre, où on pourra les garder pendant un
+mois ou deux. Elles n&#39;en seront que mieux disposées
+à prospérer : ces branches se trouvant privées de la
+nutrition de seve, ne se soûtiennent à la faveur de
+l&#39;humidité de la terre, que dans un état de médiocrité; 
+mais elles se relevent vivement dès qu&#39;elles se
+trouvent appliquées sur des sujets vigoureux, dont
+elles tirent un suc nourricier plus analogue : par ce
+moyen encore on prolonge le tems de greffer, par
+la raison que ces branches reçoivent plûtard l&#39;impression 
+des premieres chaleurs, qui mettent la seve
+en mouvement au printems.
+</p>
+<p>
+Cette maniere de greffer exige plus d&#39;attirail qu&#39;aucune 
+autre ; il faut une scie pour couper le tronc
+du sujet, un greffoir pour entr&#39;ouvrir la fente, un
+fort couteau de cinq ou six pouces de lame pour fendre 
+le tronc, une serpette ordinaire pour tailler la
+greffe &amp; unir l&#39;écorce du tronc après le sciage, un
+coin de fer ou de bois dur, &amp; un marteau pour frapper 
+sur le couteau qui doit commencer la fente, &amp;
+ensuite sur le coin afin de l&#39;ouvrir &amp; de l&#39;entretenir ;
+<milestone unit="column" n="2" />
+il faut aussi être pourvu de terre grasse qui soit maniable,
+de quelques morceaux d&#39;écorces, de mousse
+&amp; d&#39;osier.
+</p>
+<p>
+Voici la façon d&#39;y procéder. On coupe la <i>greffe</i> de
+deux ou trois pouces de longueur, ensorte qu&#39;elle
+reste garnie de trois ou quatre bons yeux ou boutons ; 
+on fait au gros bout &amp; sur la longueur d&#39;un demi-pouce,
+une entaille en forme de coin sur deux faces,
+en conservant avec précaution l&#39;écorce qui reste
+sur les autres côtés, &amp; qui doit être bien adhérente.
+Il faut que le côté qui sera tourné en dehors soit un
+peu plus épais que celui du dedans, &amp; que de ce
+même côté du dehors &amp; précisément au-dessus de
+l&#39;entaille, la <i>greffe</i> ait un bon oeil ; ensuite il faudra
+scier le tronc du sujet à plus ou moins de hauteur,
+suivant que l&#39;on se propose d&#39;en faire un arbre d&#39;espallier,
+de demi-tige, ou de haut vent. Ce sciage
+doit être fait un peu en pente, tant pour l&#39;écoulement 
+des eaux que pour faciliter la réunion des écorces ; puis il sera très-à-propos d&#39;unir &amp; ragréer avec
+la serpette le déchirement qu&#39;on aura fait avec la scie
+à l&#39;écorce du sujet : après cela, on appliquera le couteau 
+transversalement sur le tronc à-peu près au milieu ; 
+on frappera avec ménagement quelques coups
+de marteau sur le couteau, pour commencer la fente
+&amp; donner entrée au coin que l&#39;on forcera à coups de
+marteau autant qu&#39;il sera besoin pour faire place à
+la <i>greffe</i>. Si par l&#39;examen que l&#39;on fera ensuite on
+appercevoit que la fente eût occasionné des inégalités 
+soit au bois soit à l&#39;écorce, il faudra les retrancher 
+avec la serpette, ensorte que la <i>greffe</i> soit bien
+saisie &amp; arrêtée, sans qu&#39;il reste de jours ni de défectuosités.
+Ces dispositions étant bien faites, on placera 
+la <i>greffe</i>, avec grande attention sur-tout de faire
+correspondre l&#39;écorce de la <i>greffe</i> avec celle du sujet : c&#39;est-là le point principal d&#39;où dépend tout le
+succès.
+</p>
+<p>
+J&#39;ai dit plus haut qu&#39;à l&#39;endroit de l&#39;entaille de la
+<i>greffe</i>, il devoit rester deux côtés garnis d&#39;écorce, &amp;
+que l&#39;un de ces côtés devoit être plus épais que l&#39;autre ; 
+c&#39;est ce côté plus épais qui doit faire face au dehors,
+&amp; l&#39;écorce de cette partie de la <i>greffe</i> doit si
+bien se rapporter à celle du sujet, que la seve puisse
+passer de l&#39;un à l&#39;autre sans obstacle ni détour, comme 
+si les deux écorces n&#39;en faisoient qu&#39;une. La nécessité 
+de ce rapport très-exact des écorces vient de
+ce qu&#39;on s&#39;est assûré par des expériences, que le bois
+de la <i>greffe</i> ne s&#39;unit jamais avec celui du sujet ; que
+la réunion se fait uniquement d&#39;une écorce à l&#39;autre,
+&amp; que l&#39;accroissement des parties ligneuses ne
+devient commun qu&#39;à mesure qu&#39;il se forme de nouveau 
+bois.
+</p>
+<p>
+La <i>greffe</i> ainsi appliquée, on recouvre toutes les
+fentes &amp; coupures d&#39;une espece de mastic composé
+de cire &amp; de poix. pour parer aux inconvéniens de
+la pluie, de la sécheresse, &amp; des autres intempéries
+de l&#39;air qui ne manqueroient pas d&#39;altérer la <i>greffe ;</i>
+mais les gens moins arrangés se contentent de mettre 
+un morceau d&#39;écorce sur la fente horisontale ; de
+recouvrir le dessus du tronc avec de la glaise mêlée
+de mousse ou de menu foin, &amp; d&#39;envelopper le tout
+avec du linge qui laisse passer &amp; dominer la <i>greffe ;</i>
+on attache ce linge par le bas avec un bon osier qui
+resserre en même tems la fente faite au sujet.
+</p>
+<p>
+On peut mettre deux <i>greffes</i> sur le même sujet, ou
+même quatre s&#39;il est gros, en faisant une seconde
+fente en croix ; mais il est plus ordinaire de n&#39;en mettre 
+qu&#39;une.
+</p>
+<p>
+La <i>greffe</i> en fente est bien moins usitée à-présent
+que la <i>greffe</i> en écusson, quoiqu&#39;il soit vrai que la premiere 
+pousse plus vigoureusement &amp; forme plûtot
+un arbre de haute tige que la seconde.
+</p>
+<p>
+<i>Greffe en couronne</i>. Le procédé pour cette <i>greffe</i> est
+à-peu-près semblable à celui de la <i>greffe</i> en fente ; il
+<pb n="7:923" facs="V7/ENC_7-923.jpeg" />
+<milestone unit="column" n="1" />
+n&#39;y a d&#39;autre différence que de mettre les <i>greffes</i> entre 
+l&#39;écorce &amp; le bois sans faire de fente ; de les
+choisir plus fortes &amp; pour le moins d&#39;un demi pouce
+de diametre ; de leur donner plus de hauteur, &amp; de
+faire l&#39;entaille plus longue. Il faut que l&#39;arbre que
+l&#39;on veut couronner soit en pleine seve, ensorte que
+l&#39;écorce puisse se séparer aisément du bois ; on scie
+une ou plusieurs branches à un pié ou deux au-dessus du tronc de l&#39;arbre qui doit servir de sujet ; on
+coupe &amp; on unit les égratignures du sciage avec la
+serpette dont la pointe sert ensuite à séparer l&#39;écorce
+&amp; à la détacher du bois de façon à pouvoir y insérer 
+les <i>greffes</i>. On en peut mettre six ou huit sur chaque 
+branche à proportion de sa grosseur ; puis on recouvre 
+le tout, comme il a été dit pour la <i>greffe</i> en
+fente : on ne fait usage de cette <i>greffe</i> en couronne
+que pour de très-gros arbres de fruits à pepin qui
+souffriroient difficilement la fente.
+</p>
+<p>
+<i>Greffe à emporte piece</i>. Autre pratique qui a beaucoup 
+de rapport avec la <i>greffe</i> en fente ; on ne s&#39;en
+sert que pour greffer de gros arbres qu&#39;on ne pourroit 
+fendre sans les risquer : voici le procédé. On fait
+avec un ciseau de menuisier une entaille un peu profonde 
+dans l&#39;écorce &amp; dans le bois, d&#39;une branche
+moyenne, vive &amp; saine de l&#39;arbre dont on veut changer 
+l&#39;espece. On dispose la <i>greffe</i> à-peu-près comme
+pour la fente ; mais il faut que le gros bout soit taillé
+&amp; ajusté de maniere à pouvoir remplir exactement
+l&#39;entaille qui aura été faite. On y fait entrer la <i>greffe</i> un
+peu à serre &amp; de façon que les écorces se raccordent
+bien : on assûre cette <i>greffe</i> avec de l&#39;osier, &amp; on la couvre 
+de mastic ou de glaise, à-peu-près comme pour la
+<i>greffe</i> en fente. On peut mettre ainsi plusieurs <i>greffes</i>
+sur une même branche, afin d&#39;être plus certain du succès,
+le tems propre pour cette maniere de greffer est
+depuis le commencement de Février jusqu&#39;à ce que le
+mouvement de la seve fasse détacher les écorces.
+</p>
+<p>
+<i>Greffe en flûte</i>. C&#39;est la plus difficile de toutes les
+méthodes de greffer ; elle se fait au mois de Mai, lorsque 
+les arbres sont en pleine seve : on choisit deux
+branches, l&#39;une sur l&#39;arbre qui doit servir de sujet, &amp;
+l&#39;autre sur l&#39;arbre de bonne espece que l&#39;on veut multiplier ; 
+ces deux branches, par la mesure que l&#39;on
+en prend, doivent se trouver de même grosseur dans
+la partie qui doit servir de <i>greffe</i>, &amp; dans celle que
+l&#39;on veut greffer. On laisse sur pié la branche qui doit
+être greffée, on en coupe seulement le bout à trois
+ou quatre pouces au-dessus de l&#39;endroit où l&#39;on veut
+greffer. Après avoir fait une incision circulaire au-dessous,
+on enleve toute l&#39;écorce sur cette longueur
+de trois ou quatre pouces ; ensuite on détache la
+bonne branche de son arbre, on en coupe le bout au-dessus 
+de l&#39;endroit qui a été trouvé de grosseur convenable ; 
+on fait une incision circulaire à l&#39;écorce pour
+avoir un tuyau de la longueur de deux ou trois travers
+de doigt, ensorte qu&#39;il soit garni de deux bons yeux:
+on enleve adroitement ce tuyau en pressant &amp; tournant 
+l&#39;écorce avec les doigts, sans pourtant offenser
+les yeux ; puis on le passe dans le bois de la branche
+écorcée, de façon qu&#39;il enveloppe exactement &amp;
+qu&#39;il se réunisse par le bas à l&#39;écorce du sujet : s&#39;il s&#39;y
+trouve quelque inégalité, on y remédie avec la serpette.
+Enfin on couvre le dessus de la <i>greffe</i> avec un
+peu de mastic ou de glaise, &amp; plus communément
+on rabat sur l&#39;écorce de petits copeaux, en incisant
+tout-autour avec la serpette le bout du bois qui est
+resté nud en-dessus ; on forme par là une espece de
+couronnement qui défend la <i>greffe</i> des injures de
+l&#39;air. Cette méthode de greffer est peu usitée, si ce
+n&#39;est pour le châtaignier, le figuier, l&#39;olivier, le
+noyer, <i>&amp;c.</i> qu&#39;il seroit très-difficile de faire réussir
+en les greffant d&#39;autre façon.
+</p>
+<p>
+<i>Greffe en approche</i>. Cette méthode ne peut s&#39;exécuter 
+qu&#39;avec deux arbres voisins l&#39;un de l&#39;autre,
+<milestone unit="column" n="2" />
+ou dont l&#39;un étant en caisse peut être approché de
+l&#39;autre ; elle se fait sur la fin du mois de Mai lorsque
+les arbres sont en pleine seve. On ne laisse qu&#39;une
+tige au sujet, qui doit être au-moins de la grosseur du
+doigt, &amp; dont on coupe la tête : on fait au-dessus de
+la tige coupée &amp; en pente, une entaille propre à recevoir 
+la bonne branche réduite à moitié de sa grosseur.
+On amincit cette branche sur les côtés &amp; en-dessous,
+de façon qu&#39;elle puisse entrer dans l&#39;entaille,
+la remplir exactement, &amp; que les écorces puissent se
+toucher &amp; se réunir de part &amp; d&#39;autre : on couvre ensuite 
+les ouvertures avec du mastic ou de la glaise que
+l&#39;on ajuste &amp; que l&#39;on attache comme à la <i>greffe</i> en
+fente. Lorsque par l&#39;examen que l&#39;on fait deux ou trois
+mois après, on juge que les écorces sont suffisamment
+réunies ; on coupe la bonne branche au-dessous de
+la <i>greffe</i>, &amp; on laisse encore subsister quelque tems les
+enveloppes pour plus d&#39;assûrance. Cette méthode de
+greffer réussit difficilement ; on ne s&#39;en sert que pour
+quelques arbrisseaux curieux.
+</p>
+<p>
+<i>Greffe en écusson</i>. C&#39;est la plus expéditive, la plus
+étendue, &amp; la plus simple ; la plus usitée, la plus naturelle,
+&amp; la plus sûre de toutes les méthodes de
+<i>greffes</i>. Un jardinier peut faire par jour trois cents
+écussons, au lieu qu&#39;à peine peut-il faire cent <i>greffes</i>
+en fente, quoique ce soit la méthode la moins longue
+après celle en écusson : on peut même pour celle-ci
+employer de jeunes gens, qui sont bien-tôt stilés
+à cette opération. Presque tous les arbres peuvent
+se greffer en écusson : on court les risques de la plus
+grande incertitude en greffant les fruits à noyau par
+une autre méthode ; &amp; c&#39;est la meilleure dont on
+puisse se servir pour les arbres curieux &amp; étrangers ;
+rien de plus simple que l&#39;attirail qu&#39;elle exige. Un
+greffoir &amp; de la filasse, voilà tout. La <i>greffe</i> en écusson réussit plus ordinairement qu&#39;aucune autre sorte
+de <i>greffe ;</i> &amp; d&#39;autant plus sûrement, que si la premiere 
+opération manque, ce qui s&#39;apperçoit en
+moins de quinze jours, on peut la répéter plusieurs
+fois pendant tout le tems de la durée de la seve. Aucune méthode n&#39;est plus naturelle, puisqu&#39;elle approche 
+le plus qu&#39;il est possible des voies de la nature ; 
+il suffit de la simple substitution d&#39;un oeil faite à
+une branche : c&#39;est, pour ainsi dire, tromper la nature.
+Aussi cette maniere de greffer a-t-elle si bien
+prévalu, qu&#39;on n&#39;en emploie presque pas d&#39;autre à-présent, avec cette grande raison de plus, que les
+sujets n&#39;en sont nullement deshonorés ; vingt incisions 
+manquées sur une branche, la laissent toûjours
+vive &amp; entiere ; quelques plaies causées à l&#39;écorce
+se recouvrent aisément, &amp; on peut recommencer
+l&#39;année suivante. Enfin les arbres greffés de cette
+maniere donnent plûtôt des fleurs &amp; des fruits, que
+lorsqu&#39;ils sont greffés en fente.
+</p>
+<p>
+On peut <i>greffer en écusson</i> pendant toute la belle
+saison, depuis le commencement du mois de Mai
+jusqu&#39;à la fin de Septembre ; si ce n&#39;est qu&#39;il en faut
+excepter les tems de pluie, les chaleurs trop vives
+&amp; les grandes sécheresses. Il faut aussi le concours de
+deux circonstances ; que le sujet soit en seve, ainsi
+que l&#39;arbre sur lequel on prend l&#39;écusson : le progrès
+des écussons que l&#39;on peut faire pendant cinq mois
+de la belle saison, n&#39;est pas le même, ceux que l&#39;on
+fait avant la S. Jean poussent dès la même année ;
+c&#39;est ce qu&#39;on appelle <i>écusson à la pousse ;</i> ceux que
+l&#39;on greffe après ce tems se nomment <i>écusson à oeil
+dormant</i>, parce qu&#39;ils ne poussent qu&#39;au printems de
+l&#39;année suivante. Au surplus pour l&#39;un &amp; l&#39;autre cas
+l&#39;écusson se fait de la même maniere.
+</p>
+<p>
+Ce qu&#39;on appelle proprement l&#39;<i>écusson</i> n&#39;est autre
+chose qu&#39;un oeil levé sur une branche de l&#39;année ; on
+choisit pour cet effet sur l&#39;arbre dont on veut multiplier 
+l&#39;espece, une des premieres branches de l&#39;année,
+dont les yeux soient bien nourris &amp; bien formés.<gap type="hyphenpb" />
+<pb n="7:924" facs="V7/ENC_7-924.jpeg" />
+<milestone unit="column" n="1" />
+La premiere attention sera de couper toutes
+les feuilles jusque contre la queue, afin d&#39;empêcher
+d&#39;autant moins la dissipation de la seve &amp; le desséchement 
+de l&#39;oeil. On peut au besoin conserver ces
+branches pendant deux ou trois jours, en les faisant
+tremper par le gros bout dans un peu d&#39;eau, ou en
+les piquant en terre dans un lieu frais &amp; à l&#39;ombre.
+</p>
+<p>
+Pour lever l&#39;écusson ou l&#39;oeil de dessus la branche,
+on fait avec le greffoir trois incisions triangulaires
+dans l&#39;écorce qui environne l&#39;oeil ; la premiere en-travers 
+à deux ou trois lignes au-dessus de l&#39;oeil ; la
+seconde à l&#39;un des côtés, en descendant circulairement 
+pour qu&#39;elle se termine au dessus de l&#39;oeil ; &amp;
+la troisieme de l&#39;autre côté en sens contraire, de façon 
+qu&#39;elle vienne croiser la seconde à environ un
+demi-pouce au-dessous de l&#39;oeil, &amp; que ces trois traits
+fassent ensemble une espece de triangle dont la pointe
+soit en bas ; puis en pressant &amp; tirant adroitement
+avec ses doigts cette portion d&#39;écorce, sans offenser
+l&#39;oeil, elle se détache aisément si la seve est suffisante.
+</p>
+<p>
+L&#39;écusson étant levé, on le tient entre ses levres
+par la queue de la feuille qu&#39;on doit y avoir laissée
+exprès ; ensuite on choisit sur le sujet un endroit bien
+uni, où l&#39;on fait avec le greffoir deux incisions comme 
+si l&#39;on figuroit la lettre majuscule <i>T</i>, &amp; on en proportionne 
+l&#39;étendue à la grandeur de l&#39;écusson que
+l&#39;on y veut placer ; puis on détache avec le manche
+du greffoir l&#39;écorce des deux angles rentrans, &amp; on
+fait entrer l&#39;écusson entre ces deux écorces, en commençant 
+par la pointe que l&#39;on fait descendre peu-à-peu jusqu&#39;à ce que le haut de l&#39;écusson réponde
+exactement à l&#39;écorce supérieure du sujet. On prend
+ensuite de la filasse de chanvre, ou encore mieux de
+la laine filée, dont on passe plusieurs tours sans couvrir 
+l&#39;oeil, &amp; que l&#39;on assûre par un noeud, pour
+maintenir les écorces &amp; faciliter leur réunion.
+</p>
+<p>
+Lorsque cette <i>greffe</i> a été faite à oeil poussant,
+c&#39;est-à-dire avant la S. Jean, dès qu&#39;on s&#39;apperçoit au
+bout de huit ou dix jours que l&#39;écusson est bien vif &amp;
+qu&#39;il est prêt à pousser, on coupe le sujet à quatre
+doigts au dessus de l&#39;écusson, afin qu&#39;en déterminant
+la seve à se porter avec plus d&#39;abondance sur le nouvel 
+oeil, il puisse pousser plus vîte &amp; plus vigoureusement ; 
+ensuite on relâche peu-à-peu ou on coupe
+entierement la ligature par-derriere l&#39;écusson, à-mesure du progrès que l&#39;on apperçoit : mais si c&#39;est
+à oeil dormant que la <i>greffe</i> ait été faite, c&#39;est-à-dire
+après la S. Jean, on ne dégage l&#39;écusson &amp; l&#39;on ne
+coupe la tête du sujet qu&#39;au printems suivant, lorsque 
+l&#39;écusson commence à pousser.
+</p>
+<p>
+On connoît encore d&#39;autres manieres de greffer,
+telles que la <i>greffe</i> sur les racines, la <i>greffe</i> en queue
+de verge de foüet, la <i>greffe</i> par térébration, <i>&amp;c.</i> mais
+la trop grande incertitude de leur succès les a fait
+négliger.
+</p>
+<p>
+C&#39;est principalement pour la multiplication des
+bonnes especes d&#39;arbres fruitiers, que l&#39;on fait usage 
+de la <i>greffe</i>, attendu qu&#39;en les élevant de semence,
+on ne se procureroit que très-rarement la même sorte
+de fruit dont on auroit semé la graine : il est bien constant 
+d&#39;ailleurs que la <i>greffe</i> contribue à perfectionner
+les fruits par les circuits &amp; les détours que cette opération 
+occasionne à la seve, en la forçant de traverser 
+les inflexions &amp; les replis qui se forment toûjours
+à l&#39;endroit où la <i>greffe</i> s&#39;unit au sujet. Mais on ne
+peut par le moyen de la <i>greffe</i> changer l&#39;espece des
+arbres, ni même produire de nouvelles variétés ; ce
+grand oeuvre est reservé à la seule nature : tout l&#39;art
+se réduit à cet égard à donner aux fruits un fort petit 
+degré de perfection. On se sert aussi de la <i>greffe</i>
+pour multiplier plusieurs arbrisseaux curieux, &amp; même 
+quelques arbres, tels que les belles especes d&#39;érable,
+d&#39;orme, de mûrier, <i>&amp;c.</i> mais à ce dernier
+<milestone unit="column" n="2" />
+égard, c&#39;est au détriment de la figure, de la force,
+&amp; de la durée des arbres ; ils ne peuvent jamais récupérer 
+la beauté qu&#39;ils auroient eue &amp; l&#39;élévation
+qu&#39;ils auroient prise dans leur état naturel.
+</p>
+<p>
+On est bien revenu du merveilleux que les anciens
+qui ont traité de l&#39;Agriculture, &amp; quantité de modernes 
+après eux, attribuoient à la <i>greffe:</i> à les en
+croire, on pouvoit faire par cette voie les métamorphoses 
+les plus étonnantes &amp; changer la propre nature 
+des choses, en faisant produire à la vigne de
+l&#39;huile au lieu de vin, &amp; aux arbres des forêts les
+fruits les plus délicieux, au lieu des graines seches
+qu&#39;ils rapportent. A les entendre, le platane pouvoit
+devenir un arbre fruitier &amp; produire des figues, des
+cerises, ou des pommes : mais je me suis assûré par
+plusieurs expériences, que le platane est peut-être
+de tous les arbres celui qui est le moins propre à servir 
+de sujet pour la <i>greffe ;</i> non-seulement les fruits
+que l&#39;on vient de citer n&#39;y reprennent pas, mais même
+un seul écusson de figuier fait mourir le platane ; &amp;
+ce qu&#39;il y a de plus surprenant, c&#39;est que les écussons pris &amp; appliqués sur le même arbre n&#39;ont point
+encore voulu réussir, quoique cette épreuve ait été
+répétée quantité de fois. Les changemens que l&#39;on
+peut opérer par le moyen de la <i>greffe</i>, sont plus bornés 
+que l&#39;on ne pense ; il faut entre l&#39;arbre que l&#39;on
+veut faire servir de sujet &amp; celui que l&#39;on veut y
+greffer, un rapport &amp; une analogie qui ne sont pas
+toûjours indiqués sûrement par la ressemblance de
+la fleur &amp; du fruit : ce sont pourtant les caracteres
+les plus capables d&#39;annoncer le succès des <i>greffes.
+Voyez les <ref target="XPL:5476" type="platelink">Planches de Jardinage</ref></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

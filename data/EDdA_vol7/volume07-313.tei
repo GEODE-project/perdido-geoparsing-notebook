@@ -1,0 +1,157 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27767" id="49:46:9" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en matiere bénéficiale" />
+<index type="normclass" value="Matiere bénéficiale" />
+<index type="englishclass" value="Material benefice" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>Forme</sc>, <i>en matiere bénéficiale</i>, est la maniere dont
+les provisions de cour de Rome sont conçûes.
+</p>
+<p>
+Le pape a coûtume de pourvoir en deux manieres ; 
+en <i>forme</i> commissoire, &amp; en <i>forme</i> gracieuse. La
+<i>forme</i> gracieuse, <i>in formâ gratiosâ</i>, est lorsqu&#39;il pourvoit 
+lui-même sur l&#39;attestation de l&#39;ordinaire, sans
+lui donner aucune commission pour procéder à l&#39;examen 
+de l&#39;impétrant, lequel peut se faire mettre
+en possession, <i>autoritate propriâ</i>.
+</p>
+<p>
+La <i>forme</i> commissoire, qu&#39;on appelle aussi le <i>committatur</i> du pape, est lorsqu&#39;il mande à l&#39;ordinaire
+de pourvoir ; ce <i>committatur</i> se met en trois formes
+différentes, savoir <i>in formâ dignum anti quâ, in formâ 
+dignum novissimâ</i>, &amp; <i>in formâ juris</i>.
+</p>
+<p>
+La forme <i>dignum antiquâ</i> n&#39;est autre chose que
+la maniere, en laquelle le pape ordonne que les
+bulles soient expédiées tant par rapport à l&#39;examen
+des capacités de l&#39;impétrant, que pour la conservation 
+des droits de ceux qui pourroient avoir quelque
+intérêt à l&#39;établissement &amp; à la possession du bénéfice
+dont il s&#39;agit. Cette clause a été appellée <i>in formâ dignum</i>, parce que la bulle commence par ces mots:
+<i>Dignum arbitramur, ut illis se reddat sedes apostolica</i>
+<pb n="7:179" facs="V7/ENC_7-179.jpeg" />
+<milestone unit="column" n="1" />
+<i>gratiosam, quibus ad id propria virtutum merita laudabiliter 
+suffragantur</i>, &amp;c. <i>Mandamus quatenus, si
+post diligentem examinationem dictum N..... repereris.
+.... eidem..... conferas</i>, &amp;c.
+</p>
+<p>
+Elle est surnommée l&#39;ancienne <i>antiquâ</i>, parce que
+c&#39;étoit autrefois la seule <i>forme</i> usitée avant les reservations 
+qui ont donné lieu a la <i>forme</i> appellée <i>novissimâ:</i> c&#39;est pourquoi à Rome on met souvent <i>in formâ 
+dignum</i> simplement, sans ajoûter <i>antiquâ ;</i> ce qui
+est la même chose.
+</p>
+<p>
+Les provisions expédiées <i>in forma dignum novissimâ</i>, sont pour les bénéfices dont la collation est
+reservée au saint-siége. Cette <i>forme</i> n&#39;accorde aux
+commissaires que trente jours pour l&#39;exécution des
+provisions ; passé lequel tems, on peut recourir
+a l&#39;ordinaire le plus voisin. Cette <i>forme</i> a été surnommée 
+<i>novissimâ</i>, pour la distinguer de l&#39;ancienne.
+</p>
+<p>
+La clause <i>in formâ juris</i> se met dans les dévolus
+&amp; les vacances, qui emportent privation du bénéfice.
+La <i>forme</i> de cette commission est la clause d&#39;un
+rescrit de justice ; mais cette <i>forme</i> est abusive, &amp;
+n&#39;est point reçûe dans le royaume.
+</p>
+<p>
+Pour connoîre plus à fond les effets de ces différentes 
+<i>formes</i>, il faut voir le traité de l&#39;usage &amp; pratique 
+de cour de Rome de Castel, avec les notes de
+Noyer, <i>tom. I. pag. 395. &amp; suiv</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

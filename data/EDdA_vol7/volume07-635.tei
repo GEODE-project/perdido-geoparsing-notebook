@@ -1,0 +1,142 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28089" id="50:23:1" vol="7">
+<index type="head" value="Fraction rationnelle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="NA" />
+<head>Fraction rationnelle</head>
+<p>
+<sc>Fraction rationnelle</sc>, est le nom que l&#39;on
+donne à des <i>fractions</i> algébriques qui ne renferment
+point de radicaux, comme <gap type="formula" />. M.Bernoulli a
+donné dans les <i>mém. de l&#39;acad. des Sciences de Paris
+pour l&#39;année 1702</i>, une méthode pour intégrer en général 
+toutes les <i>fractions</i> différentielles rationnelles,
+comme <gap type="formula" />, <i>&amp;c.</i> dans lesquelles 
+<i>a, b, f, n, m, q, p, &amp;c.</i> sont des constantes
+quelconques ; il démontre que ces <i>fractions</i> peuvent
+toûjours s&#39;intégrer par logarithmes réels ou imaginaires,
+&amp; que leur intégration peut se réduire par
+conséquent, ou à la quadrature de l&#39;hyperbole, ou
+à celle du cercle. Cette méthode a été depuis extrèmement 
+perfectionnée par plusieurs géometres ; dans
+les <i>journaux de Leipsick de 1718, 1719</i> ; dans les <i>mémoires de l&#39;académie de Petersbourg, t. VI.</i> dans <i>l&#39;ouvrage de M.</i> Cottes, intitulé <i>harmonia mensurarum</i>  ;
+dans <i>l&#39;ouvrage de dom</i> Charles Walmesley, qui a pour
+titre, <i>mesure des rapports</i> ; dans celui de M.Maclaurin, qui a pour titre, <i>a treatise of fluxions</i>, traité des
+fluxions, <i>tome II.</i> dans le <i>traité de M.</i> Moivre, intitulé 
+<i>miscellanea analytica de seriebus &amp; quadraturis</i>,
+&amp;c. On peut aussi voir plusieurs recherches nouvelles 
+sur cette matiere dans une <i>dissertation imprimée
+tome II. des mémoires françois de l&#39;académie de Berlin,
+1746</i>. Cette dissertation a pour titre, <i>Recherches sur
+le calcul intégral</i>. J&#39;y démontre, 1°. que toute quantité 
+algébrique rationnelle <i><gap type="formula" /></i>
+d&#39;un degré quelconque, est réductible ou en facteurs
+simples, tels que <i>x + a</i>, ou en facteurs trinomes,
+tels que <i>xx + b x + c, a, b, c</i>, étant des quantités
+réelles. C&#39;est ce que personne avant moi n&#39;avoit démontré,
+&amp; ce qui étoit nécessaire pour rendre complette 
+la méthode d&#39;intégrer les <i>fractions</i> rationnelles 
+différentielles. On peut voir cette démonstration
+dans le <i>traité du calcul intégral de M.</i> de Bougainville, <i>II. partie.</i> 2°. J&#39;y donne le moyen de réduire
+à des <i>fractions</i> rationnelles une grande quantité de
+différentielles qui renferment des radicaux. On peut
+aussi voir cette méthode dans l&#39;ouvrage que je viens
+de citer, ainsi qu&#39;une méthode particuliere pour intégrer 
+les <i>fractions</i> rationnelles, &amp; pour démontrer
+la méthode de M.Bernoulli ; méthode que j&#39;avois
+présentée à l&#39;académie des Sciences en 1741, avant
+que d&#39;avoir l&#39;honneur d&#39;y être reçu. Cet ouvrage
+<milestone unit="column" n="2" />
+de M.de Bougainville contient d&#39;ailleurs le précis
+de tout ce que les auteurs cités ont donné de meilleur 
+sur cette branche importante du calcul intégral.
+<i>Voyez</i> <sc><ref target="head:Integral" type="search">Integral</ref> <i>&amp;</i> <ref target="head:Imaginaire" type="search">Imaginaire</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

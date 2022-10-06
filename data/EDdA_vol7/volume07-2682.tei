@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30136" id="54:57" vol="7">
+<index type="head" value="GRANIQUE, (le) " />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GRANIQUE</head>
+<p>
+GRANIQUE, (<sc>le</sc>) <i>Géog. anc.</i>) <i>Granicus</i>, riviere 
+de la Troade en Asie. Elle a sa source au mont
+Ida, coule en serpentant tantôt vers le S. E. tantôt
+vers le N. O. &amp; enfin se tourne vers le N. N. O.
+avant que de tomber dans le Propontide.
+</p>
+<p>
+Cette riviere si fameuse par la premiere bataille
+que le plus grand capitaine de l&#39;antiquité gagna sur
+ses bords, ne doit point perdre son nom quand on
+parlera d&#39;Alexandre, de Darius, &amp; des tems reculés.
+Les Turcs l&#39;appellent <i>Sanson ;</i> elle est aujourd&#39;hui
+très-petite, presque à sec en été, &amp; cependant se
+déborde quelquefois considérablement par les pluies.
+Son fond n&#39;est que sablon &amp; gravier, &amp; les Turcs
+qui négligent entierement de nettoyer les embouchures 
+des rivieres, ont laissé combler celle du <i>Granique ;</i> aussi n&#39;est-il plus navigable par cette seule raison,
+&amp; même près de la mer où il est assez large. On
+le traverse au-dessous d&#39;un village nommé <i>Sousighirli ;</i> sur un méchant pont de bois à piles de pierre,
+qui sont peu assûrées. <i>Voyez les voyages</i> de Spon, de
+Lucas, de Wheeler, &amp; de Tournefort. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,137 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27628" id="48:72:5" vol="7">
+<index type="head" value="Fontaines de vin" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Fontaines de vin</head>
+<p>
+<sc>Fontaines de vin</sc>, (<i>Hist. mod.</i>) L&#39;usage de distribuer 
+du vin au peuple, dans les occasions de réjouissances,
+est fort ancien. Alain Chartier raconte
+dans son histoire de Charles VII. que parmi les joies
+du peuple de Paris, lorsque ce roi y entre,
+<blockquote> 
+« devant
+les Filles-Dieu étoit une <i>fontaine</i>, dont l&#39;un des
+tuyaux jettoit lait, l&#39;autre vin vermeil, l&#39;autre vin
+blanc, &amp; l&#39;autre eau ».
+</blockquote>
+</p>
+<p>
+Monstrelet, en parlant de l&#39;entrée que Charles V.
+fit aussi dans Paris, remarque
+<blockquote> 
+« qu&#39;il y avoit dessous
+l&#39;échaffaut une <i>fontaine</i> jettant hypocras, &amp; trois
+sirenes dedans, &amp; étoit ledit hypocras abandonné 
+à chacun ».
+</blockquote>
+</p>
+<p>
+Lorsque le roi Charles VI. la reine Isabelle de
+Baviere, &amp; le roi Henri d&#39;Angleterre avec sa femme
+madame Catherine de France, vinrent à Paris,
+<blockquote> 
+« tout
+le jour, dit encore Monstrelet, &amp; toute la nuit,
+découloit vin en aucuns carrefours abondamment
+par robinets d&#39;airain, &amp; autres conduits ingénieusement 
+faits, afin que chacun en prinst à sa volonté ».
+</blockquote>
+Enfin le même historien rapporte que lors
+de l&#39;entrée du roi Louis XI. dans la rue S. Denis,
+<blockquote> 
+« étoit une <i>fontaine</i> qui donnoit vin &amp; hypocras à
+ceux qui boire en vouloient ».
+</blockquote>
+<i>Voyez</i> le détail des
+autres réjouissances <i>à l&#39;article</i> <sc><ref target="head:Entrée" type="search">Entrée</ref></sc>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

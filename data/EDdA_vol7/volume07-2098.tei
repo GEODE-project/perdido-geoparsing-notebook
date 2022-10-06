@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29552" id="53:60" vol="7">
+<index type="head" value="GIFT-MEHL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Métallurgie." />
+<index type="normclass" value="Métallurgie" />
+<index type="englishclass" value="Metallurgy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GIFT-MEHL</head>
+<p>
+GIFT-MEHL, s. m. (<i>Métallurgie.</i>) ce mot est allemand,
+&amp; signifie <i>farine empoisonnée</i>. Il est usité dans
+les atteliers où l&#39;on grille le cobalt pour en dégager
+l&#39;arsenic : cet arsenic se dissipe en fumée, &amp; est reçu
+dans une longue cheminée horisontale, aux parois
+de laquelle il s&#39;attache sous la forme d&#39;une poudre
+blanche ou d&#39;une farine legere. On la recueille au
+bout de quelques tems, pour la mettre à sublimer &amp;
+en faire soit de l&#39;arsenic crystallin, soit de l&#39;orpiment
+&amp; du réalgar, en y joignant du soufre. <i>Voyez</i> 
+<sc><ref target="head:Cobalt" type="search">Cobalt</ref> <i>&amp;</i> <ref target="head:Saffre" type="search">Saffre</ref>, <ref target="head:Orpiment" type="search">Orpiment</ref>, <ref target="head:Réalgar" type="search">Réalgar</ref></sc>
+. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,167 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27541" id="48:49:1" vol="7">
+<index type="head" value="Fonction" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie animale." />
+<index type="normclass" value="Economie animale" />
+<index type="englishclass" value="Animal economy" />
+<index type="generatedclass" value="Métaphysique" />
+<index type="pos" value="NA" />
+<head>Fonction</head>
+<p>
+<sc>Fonction</sc>, (<i>Economie animale.</i>) est une action
+correspondante à la destination de l&#39;organe qui l&#39;exécute.
+Ainsi la <i>fonction</i> de la poitrine est la respiration ; 
+celle de la langue est l&#39;articulation des sons,
+le goût, <i>&amp;c.</i> cependant les Medecins n&#39;entendent
+guere, par ce terme, que les actions qui, outre qu&#39;elles 
+sont relatives à la destination des organes, sont
+en même tems sensibles : ainsi ils n&#39;ont pas mis la circulation,
+mais le pouls au rang des <i>fonctions</i>, parce
+que la circulation ne tombe pas sous les sens : ils ne
+mettent pas non plus la chaleur en ce rang, parce
+qu&#39;on ne la conçoit pas comme une action, mais comme 
+une qualité ou une disposition du corps, qu&#39;on
+peut considérer indépendamment du mouvement sensible 
+des parties.
+</p>
+<p>
+Comme on a reconnu de tout tems, qu&#39;un être infiniment 
+sage est l&#39;auteur de notre corps &amp; de ses divers 
+organes ; on a aussi senti qu&#39;il avoit arrangé &amp;
+disposé toutes les pieces de cette admirable machine,
+selon des vûes ou des destinations : &amp; c&#39;est pour
+remplir ces vûes qu&#39;elles agissent ; en conséquence
+de quoi, on appelle <i>fonctions</i> ces actions, comme
+étant faites pour s&#39;acquitter d&#39;un devoir auquel leur
+structure &amp; leur position les engagent. Tout mouvement 
+sensible d&#39;un organe n&#39;est donc pas une <i>fonction</i> ; un membre qui tombe par sa gravité ou par une
+impulsion extérieure, ne fait pas en cela sa <i>fonction</i>.
+</p>
+<p>
+On divise les <i>fonctions</i> comme les qualités qui en
+sont les principes : il y en a qui sont communes aux
+végétaux, telles que la nutrition, digestion, genération,
+secrétion ; les autres sont propres aux animaux,
+telles que la sensation, l&#39;imagination, les passions,
+la volition, les mouvemens du coeur, de la poitrine,
+des membres, <i>&amp;c.</i> On les soûdivise en <i>saines</i> &amp; en
+<i>lésées</i>.
+</p>
+<p>
+Les Medecins sont partagés au sujet du principe
+de certaines <i>fonctions</i>, comme des mouvemens naturels,
+tels que celui du coeur, de la poitrine ; les uns
+&amp; les autres croyent que l&#39;ame en est la puissance
+mouvante : quoique ces mouvemens ne soient pas
+libres, ils prétendent qu&#39;il ne faut pas multiplier les
+êtres sans nécessité, &amp; que la force mouvante de
+l&#39;ame n&#39;est pas toûjours déterminée à agir par la volonté 
+ni par la notion distincte du bien &amp; du mal ; &amp;
+ils alleguent en preuve les passions &amp; les actions que
+nous faisons, en dormant ou par coûtume : les autres 
+prétendent qu&#39;on ne doit rapporter à l&#39;ame, comme 
+principe, que les actions dont elle a pleine connoissance,
+&amp; que sa volonté détermine ; encore même 
+ne veulent-ils reconnoître pour volontaires que
+celles que nous faisons volontiers, &amp; non celles que
+nous faisons par force &amp; malgre nous : ils attribuent
+celle-ci au pouvoir des machines ; ils prétendent que
+les machines ont un pouvoir d&#39;agir, d&#39;augmenter le
+mouvement, indépendamment d&#39;aucun moteur, ou
+ne reçoivent pour moteur que la matiere subtile, le
+ressort de l&#39;air, des fibres ; ils prétendent même que
+le mouvement, une fois imprimé à nos organes, ne
+se perd jamais, &amp; qu&#39;on n&#39;a que faire de chercher
+ailleurs le principe de nos actions naturelles : telle
+est la controverse qui regne parmi les Medecins &amp;
+les Chimistes ou prétendus Méchaniciens. <i>V.</i> <sc><ref target="head:OEconomie animale " type="search">OEconomie animale </ref></sc>,
+<milestone unit="column" n="2" />
+<ref target="head:Nature" type="search">Nature</ref>, <ref target="head:Mouvement" type="search">Mouvement</ref>
+, (<i>Med.</i>)
+<sc><ref target="head:Puissance motrice" type="search">Puissance motrice</ref></sc>, (<i>Econ. anim.</i>) &amp;c. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

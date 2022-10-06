@@ -1,0 +1,253 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28752" vol="7">
+<index type="head" value="Gageure" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Gageure</head>
+<p>
+<sc>Gageure</sc>, (<i>Jurisprud.</i>) est une convention sur
+une chose douteuse &amp; incertaine, pour raison de la
+quelle chacun dépose des gages entre les mains d&#39;un
+tiers, lesquels doivent être acquis à celui qui a gagné 
+la <i>gageure</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+On fait des <i>gageures</i> sur des choses dont l&#39;exécution 
+dépend des parties, comme de faire une course
+en un certain tems fixé, ou sur des faits passés, présens,
+ou à venir, mais dont les parties ne sont pas
+certaines.
+</p>
+<p>
+Les <i>gageures</i> étoient usitées chez les Romains ; on
+les appelloit <i>sponsiones</i>, parce qu&#39;elles se faisoient
+ordinairement par une promesse réciproque des
+deux parties, <i>per stipulationem &amp; restipulationem ;</i> au
+lieu que dans les autres contrats, l&#39;un stipuloit, l&#39;autre 
+promettoit.
+</p>
+<p>
+En France on appelle ce contrat <i>gageure</i>, parce
+qu&#39;il est ordinairement accompagné de consignation
+de gages ; car <i>gager</i> signifie proprement <i>bailler des
+gages</i> ou <i>consigner l&#39;argent</i>, comme on dit <i>gager l&#39;amende,
+gager le rachat</i>. Néanmoins en France on fait
+aussi les <i>gageures</i> par simples promesses réciproques
+sans déposer de gages ; &amp; ces <i>gageures</i> ne laissent pas
+d&#39;être obligatoires, pourvû qu&#39;elles soient soient faites par
+des personnes capables de contracter &amp; sur des choses 
+licites, &amp; que s&#39;il s&#39;agit d&#39;un fait, les deux parties 
+fussent également dans le doute.
+</p>
+<p>
+Les Romains faisoient aussi comme nous des <i>gageures</i> accompagnées de gages ; mais les simples
+sponsions étoient plus ordinaires.
+</p>
+<p>
+Ces sortes de sponsions étoient de deux sortes,
+<i>sponsio erat judicialis aut ludicra</i>.
+</p>
+<p>
+<i>Sponsio judicialis</i> étoit lorsque dans un procès le
+demandeur engageoit le défendeur à terminer plûtôt 
+leur différend, le provoquoit à gager une certaine 
+somme, pour être payée à celui qui gagneroit 
+sa cause, outre ce qui faisoit l&#39;objet de la contestation.
+</p>
+<p>
+Cette premiere sorte de <i>gageure</i> se faisoit ou par
+stipulation &amp; restipulation, ou <i>per sacramentum</i>. On
+trouve nombre d&#39;exemples de <i>gageures</i> faites par stipulations 
+réciproques dans les oraisons de Cicéron
+pour Quintius, pour Cecinna contre Verrès, dans
+son <i>livre des offices ;</i> dans Varron, Quintilien, &amp;
+autres auteurs.
+</p>
+<p>
+La gageure <i>per sacramentum</i> est lorsque l&#39;on déposoit 
+des gages <i>in aede sacrâ</i>. Les Grecs pratiquoient
+aussi ces sortes de <i>gageures</i>, comme le remarque
+Budée. Ils déposoient l&#39;argent dans le prytanée ; c&#39;étoit 
+ordinairement le dixieme de ce qui faisoit l&#39;objet 
+du procès, lorsque la contestation étoit entre
+particuliers, &amp; le cinquieme dans les causes qui intéressoient 
+la république, comme le remarque Jullius Pollux. Varron explique très-bien cette espece
+de <i>gageure</i> ou <i>consignation</i> dans son <i>livre II. de la langue 
+latine</i>. C&#39;est sans doute de là qu&#39;on avoit pris l&#39;idée 
+de l&#39;édit des consignations, autrement appellé
+de l&#39;<i>abbréviation des procès</i>, donné en 1563, &amp; que
+l&#39;on voulut renouveller en 1587, par lequel tout
+demandeur ou appellant devoit consigner une certaine 
+somme proportionnée à l&#39;objet de la contestation ; 
+&amp; s&#39;il obtenoit à ses fins, le défendeur ou intimé 
+étoit obligé de lui rembourser une pareille
+somme.
+</p>
+<p>
+L&#39;usage des <i>gageures</i> judiciaires fut peu-à-peu aboli
+à Rome ; on y substitua l&#39;action de calomnie, <i>pro
+decimâ parte litis</i>, dont il est parlé aux <i>instit. de paenâ
+temerè litigant</i>. ce qui étant aussi tombé en non-usage, fut depuis 
+rétabli par la novelle 112 de Justinien.
+</p>
+<p>
+On distinguoit aussi chez les Romains deux sortes 
+de gageures, <i>ludicres</i>. L&#39;une qui se faisoit par stipulation 
+réciproque, &amp; dont on trouve un exemple 
+mémorable dans Pline, <i>liv. IX. chap. xxxv.</i> où
+il rapporte la <i>gageure</i> de Cléopatre contre Antoine ;
+&amp; dans Valere Maxime, <i>liv. II.</i> où est rapportée la
+<i>gageure</i> de Valerius contre Luctatius. Il est aussi parlé
+de ces <i>gageures</i> en la loi 3. au digeste <i>de aleo lusu &amp;
+aleat</i>. qui dit, <i>licuisse in ludo qui virtutis causâ fit sponsionem 
+facere ;</i> suivant les lois, <i>Cornelia &amp; Publicia,
+alias non licuisse</i>.
+<pb n="7:422" facs="V7/ENC_7-422.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+L&#39;autre sorte de gageure, <i>ludicre</i>, se faisoit en
+déposant des gages, comme on voit dans une églogue de Virgile.
+<center>
+<i>Depone, tu dic mecum quo pignore certes</i>.
+</center>
+</p>
+<p>
+Il en est parlé dans la loi <i>si rem</i>, au digeste <i>de
+praescriptis verbis</i>, par laquelle on voit qu&#39;on mettoit
+assez ordinairement les anneaux en gage, comme
+étant plus en main que toute autre chose : <i>si quis</i>,
+dit la loi, <i>sponsionis causâ annulos acceperit, nec reddat 
+victori, praescriptis verbis adversus eum actio competit</i>. Planude rapporte que Xantus maître d&#39;Esope,
+ayant parié qu&#39;il boiroit toute l&#39;eau de la mer,
+avoit donné son anneau en gage. Cette sorte de
+gageure <i>per depositionem pignorum</i> étoit la seule usitée 
+chez les Grecs, comme il résulte d&#39;un passage
+de Démosthene ; lequel en parlant d&#39;une <i>gageure</i>,
+dit qu&#39;elle ne pouvoit subsister, parce que l&#39;on avoit
+retiré les gages.
+</p>
+<p>
+On ne doit pas confondre toutes sortes de <i>gageures</i> avec les contrats aléatoires, qui sont proscrits
+par les lois ; &amp; c&#39;est une erreur de croire que toutes
+sortes de <i>gageures</i> soient défendues, qu&#39;il n&#39;y ait
+point jamais d&#39;action en justice pour les <i>gageures</i>, à-moins que les gages ne soient déposés. Ce n&#39;est pas
+toûjours le dépôt des gages qui rend la <i>gageure</i> valable ; 
+c&#39;est plûtôt ce qui fait l&#39;objet de la <i>gageure:</i>
+ainsi elles ont été rejettées ou admises en justice, selon 
+que les personnes qui avoient fait ces <i>gageures</i>
+étoient capables, ou non, de contracter, &amp; que
+l&#39;objet de la <i>gageure</i> étoit légitime.
+</p>
+<p>
+Mornac <i>sur la loi 3. au digeste</i>, &amp; sur la loi <i>si rem
+de praescriptis verb. de aleat</i>. dit qu&#39;elles sont permises
+<i>in rebus honestis, veluti ob spem futuri eventûs, &amp; similibus</i>.
+</p>
+<p>
+Boniface, <i>tome I. liv. VIII. titre xxjv. chapit. v.</i>
+Despeisses, <i>tome I. part. I. tit. xviij.</i> Catelan, <i>t. II.</i>
+rapportent plusieurs arrêts qui ont déclaré des <i>gageures</i> valables.
+</p>
+<p>
+L&#39;exemple le plus récent que l&#39;on connoît d&#39;une
+<i>gageure</i> assez considérable, dont l&#39;exécution fut ordonnée 
+au conseil du Roi, est celui d&#39;une <i>gageure</i> de
+30000 liv. que M. le maréchal d&#39;Estrées &amp; le sieur
+Law contrôleur général, avoient faite ensemble par
+un écrit double du 14 Mars 1720, au sujet du cours
+que pourroit avoir dans cette année le change avec
+Londres &amp; Amsterdam. M. le maréchal d&#39;Estrées
+ayant gagné la <i>gageure</i>, les directeurs des créanciers
+du sieur Law furent condamnés à lui payer les 30000
+liv. quoique la somme n&#39;eût pas été déposée. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

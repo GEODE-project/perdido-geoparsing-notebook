@@ -1,0 +1,154 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28083" id="50:22:1" vol="7">
+<index type="head" value="Foyer" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econ. anim." />
+<index type="normclass" value="Economie animale" />
+<index type="englishclass" value="Animal economy" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Foyer</head>
+<p>
+<sc>Foyer</sc>, (<i>Econ. anim.</i>) Les anciens philosophes
+&amp; medecins désignoient par ce terme le siége principal 
+de ce qu&#39;ils apppelloient <i>calidum innatum</i>, chaud
+inné. Ils fixoient ce siége dans le coeur ; d&#39;où ils pensoient 
+qu&#39;il se distribue dans toutes les parties du
+corps. Selon eux, ce chaud inné qu&#39;ils regardoient
+comme une substance, &amp; qu&#39;ils distinguoient de la
+chaleur naturelle, qui n&#39;étoit dans leur systeme qu&#39;une 
+qualité, résidoit principalement dans cet organe
+où ils trouvoient tout ce qui est nécessaire pour l&#39;y
+entretenir ; parce que d&#39;après les idées qu&#39;ils s&#39;en
+étoient faites, il a besoin non-seulement de l&#39;humide 
+radical pour lui servir d&#39;aliment (<i>Voyez</i> <sc><ref target="head:Humide radical" type="search">Humide radical</ref></sc>), mais encore de l&#39;air qui lui sert,
+comme au feu domestique, pour le fomenter &amp; l&#39;exciter 
+continuellement. Or cet air se renouvelle sans
+cesse dans les poumons, qui font, par rapport au
+coeur, fonction de soufflet pour l&#39;usage qui vient
+d&#39;être dit.
+</p>
+<p>
+Les modernes ont abandonné cette théorie sur
+les causes de la chaleur animale, pour en substituer
+d&#39;autres, analogues aux differentes manieres dominantes 
+de philosopher ; causes sur lesquelles on a
+par conséquent beaucoup varié depuis un siecle,
+mais sans avoir fourni jusqu&#39;à-présent rien de bien
+satisfaisant. On n&#39;est pas même encore parvenu à
+déterminer si c&#39;est à des causes méchaniques ou physiques,
+qu&#39;il faut attribuer cet effet si important dans
+l&#39;économie animale ; &amp; dans les différens systèmes
+qui l&#39;ont attribué à des causes purement méchaniques,
+on n&#39;a pas pû non plus s&#39;accorder sur le lieu
+du corps où la chaleur est principalement produite ;
+sur la partie que l&#39;on peut regarder comme en étant
+le <i>foyer</i>: les uns l&#39;ont fixé dans le coeur ; d&#39;autres
+dans les poumons ; d&#39;autres enfin dans les vaisseaux
+capillaires sanguins, sans qu&#39;aucune de ces opinions
+soit incontestablement reçûe : ainsi on n&#39;a encore
+rien de bien décidé sur ce sujet en général, d&#39;autant
+moins qu&#39;on commence à appercevoir que les causes 
+méchaniques ne sont pas suffisantes pour rendre
+<milestone unit="column" n="2" />
+raison de tous les phénomenes, relatifs aux différentes 
+altérations qu&#39;éprouvent les humeurs animales 
+dans les corps vivans. On revient à chercher
+dans les causes physiques l&#39;explication que celles-là 
+n&#39;ont pû donner jusqu&#39;à-présent d&#39;une maniere
+bien complete ; on parviendra peut-être à découvrir,
+à trouver dans les influences de l&#39;électricité,
+dans l&#39;action universelle de cette puissance physique,
+&amp; dans la nouvelle théorie que se fait la Chimie,
+d&#39;après les seules expériences, les lumieres que
+n&#39;ont pû fournir sur ce sujet les autres parties de
+la science des corps, qui ne sont fondées pour la
+plûpart que sur les productions de l&#39;imagination.
+<i>Voyez</i> 
+<sc><ref target="head:Chaleur animale" type="search">Chaleur animale</ref>, <ref target="head:Coction" type="search">Coction</ref></sc>
+. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,277 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28626" id="51:17:7" vol="7">
+<index type="head" value="Fusée" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Roy" />
+<index type="shortauth" value="Le Roy" />
+<index type="kafnum" value="76" />
+<index type="kafauth" value="Le Roy, Jean-Baptiste (1720-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Horlogerie." />
+<index type="normclass" value="Horlogerie" />
+<index type="englishclass" value="Clockmaking" />
+<index type="generatedclass" value="Horlogerieie" />
+<index type="pos" value="NA" />
+<head>Fusée</head>
+<p>
+<sc>Fusée</sc>, (<i>Horlogerie.</i>) piece d&#39;une montre ; c&#39;est
+cette partie conique sur laquelle s&#39;enveloppe la chaîne,
+&amp; qui sert à transmettre son action au roüage.
+<i>Voyez nos <ref target="XPL:5194" type="platelink">Planches d&#39;Horlogerie</ref></i>.
+<pb n="7:392" facs="V7/ENC_7-392.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Son utilité est très-grande ; car au moyen de sa figure 
+elle remédie aux inégalités du ressort, qui étant
+plus bandé lorsque la montre est nouvellement montée,
+&amp; moins lorsqu&#39;elle est presque au bas, la feroit
+avancer dans le premier cas, &amp; retarder dans le second.
+Les premiers horlogers qui firent des montres,
+tâcherent de remédier à cet inconvénient du ressort
+au moyen d&#39;une machine qu&#39;ils appelloient <i>stochsred</i>.
+Mais ses défauts les engagerent bien-tôt à la perfectionner,
+ou à y suppléer par une autre. Ainsi on l&#39;abandonna 
+dès qu&#39;on eut inventé la <i>fusée</i>. Quelqu&#39;ingénieuse que soit cette découverte, on n&#39;en connoît
+point l&#39;auteur ; ce qu&#39;il y a de sûr, c&#39;est qu&#39;elle est
+fort ancienne.
+</p>
+<p>
+Pour bien concevoir de quelle maniere la <i>fusée</i>
+compense les inégalités du ressort, il faut faire attention 
+que dans une montre au bas, la chaîne est entierement 
+sur le barillet ou tambour, &amp; que lorsqu&#39;on 
+la remonte, on ne fait autre chose que la faire
+passer sur la <i>fusée</i>. Mais par-là on fait la même chose
+que si l&#39;on tiroit la chaîne jusqu&#39;à ce qu&#39;il n&#39;y en ait
+plus sur le barillet. Or ce mouvement ne se peut faire 
+sans qu&#39;on fasse tourner le barillet, &amp; cela précisément 
+autant de fois que la chaîne feroit de tours
+dessus. De plus on a vû à l&#39;<i>art</i>. <sc>Barillet</sc>, que par
+la disposition des pieces, en le tournant on bande le
+ressort. Il sera donc bandé d&#39;autant de tours exactement 
+que le barillet aura tourné de fois, ce qui sera
+de trois tours &amp; demi, qui est la quantité des tours
+qu&#39;une chaîne fait ordinairement autour du barillet.
+</p>
+<p>
+Ceci bien entendu, on voit manifestement que la
+plus grande bande du ressort, &amp; par conséquent sa
+plus grande force, a lieu lorsque la montre est montée
+jusqu&#39;au haut ; &amp; que cette force va toûjours en diminuant 
+à mesure que la <i>fusée</i> tourne ; &amp; qu&#39;elle est
+la plus petite de toutes lorsque la montre est presqu&#39;au bas. Pour faire donc que malgré cette inégalité 
+de force son action soit toûjours égale sur le roüage,
+on diminue le diametre de la <i>fusée</i> en haut, &amp;
+on lui donne une forme telle que lorsque le ressort a
+le plus de force, le bras de levier de la <i>fusée</i> par lequel 
+la chaîne tire, est aussi le plus petit, de façon
+que dans un point quelconque de la <i>fusée</i>, le produit 
+formé de ce bras de levier multiplié par la force 
+du ressort dans ce même point, est toûjours égal.
+Par ce moyen l&#39;action du ressort transmise au roüage,
+est constamment le même ; &amp; il est pour ainsi
+dire mû presque aussi uniformément que s&#39;il l&#39;étoit
+par un poids.
+</p>
+<p>
+C&#39;est un probleme parmi les Géometres, que de
+trouver la figure précise que doit avoir la <i>fusée</i> d&#39;une
+montre, c&#39;est-à-dire quelle est la courbe qui tournant 
+autour de son axe, produiroit le solide dont
+cette <i>fusée</i> doit être formée. M. de Varignon a déterminé 
+cette courbe, <i>pag. 198. des mémoires de l&#39;académie 
+royale des Sciences, année 1702</i>, pour toutes
+sortes d&#39;hypotheses de tensions du ressort. Ce qu&#39;il
+y a de singulier dans la solution, c&#39;est que la base de
+la <i>fusée</i>, au lieu de s&#39;étendre à l&#39;infini, comme il
+sembleroit que cela devroit être, pour que le ressort
+tirât également lorsque sa force seroit infiniment
+plus petite ; cette base, dis-je, est déterminee, &amp;
+d&#39;une certaine grandeur. Enfin pour parler plus géométriquement,
+la courbe qu&#39;il trouve, &amp; dont la
+révolution autour de son axe donneroit la figure de
+la <i>fusée</i>, n&#39;a qu&#39;une asymptote, au lieu qu&#39;elle devroit
+en avoir deux ; parce que d&#39;un côté elle doit s&#39;approcher 
+de plus en plus de son axe, sans jamais le toucher,
+&amp; de l&#39;autre côté s&#39;en éloigner toûjours à l&#39;infini.
+Au reste la détermination de cette courbe ne seroit 
+pas d&#39;un grand secours dans l&#39;Horlogerie, car
+quelque parfaits que soient les ressorts, ils ne seront 
+jamais assez uniformément élastiques, &amp; par la
+nature de l&#39;acier, &amp; par le défaut d&#39;exécution, pour
+<milestone unit="column" n="2" />
+qu&#39;on puisse se servir d&#39;une <i>fusée</i> formée selon une
+courbe trouvée d&#39;après une hypothese quelconque
+des tensions du ressort. Les Horlogers ont trouvé un
+moyen plus sûr de lui donner la forme requise, en
+se servant d&#39;un instrument nommé <i>levier, voyez</i> <sc><ref target="head:Levier" type="search">Levier</ref></sc> ; par lequel ils vérifient à chaque point de la
+<i>fusée</i>, si la force du ressort est la même en la mettant
+toûjours en équilibre avec un même poids.
+</p>
+<p>
+Les horlogers en Angleterre se servent de <i>fusées</i>
+dans les pendules à ressort, mais ici on ne les employe 
+pas. 1°. Parce qu&#39;on fait faire le ressort un peu
+plus long, &amp; que l&#39;on ne se sert que des tours qui
+sont les plus égaux ; &amp; 2°. parce qu&#39;on peut toûjours
+construire l&#39;échappement de façon que malgre que
+la force du ressort diminue à mesure qu&#39;il se débande,
+la pendule aille toûjours avec la même justesse.
+<i>Voyez les articles</i> 
+<sc><ref target="head:Pendule" type="search">Pendule</ref>, <ref target="head:Échappement" type="search">Échappement</ref>, <ref target="head:Ressort" type="search">Ressort</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+Après avoir parlé de la forme que doit avoir la <i>fusée</i>, nous allons expliquer sa construction. Elle est com
+posée d&#39;un arbre (<i>voy. les Pl.</i>) avec lequel elle ne fait
+qu&#39;un seul corps. Cet arbre a deux pivots <i>C</i> &amp; <i>P</i> à
+ses deux extrémités ; le pivot <i>P</i> doit être assez gros
+&amp; assez long pour pouvoir déborder un peu le cadran,
+&amp; pour qu&#39;on y puisse faire un quarré sur lequel 
+entre la clé. Lorsqu&#39;on veut monter la montre,
+le pivot <i>C</i> doit être beaucoup plus menu, parce que
+le rayon de la <i>fusée</i> étant beaucoup plus petit à son
+sommet qu&#39;à sa base, le frottement sur ce pivot en
+est beaucoup augmenté; inconvénient auquel on
+remédie en quelque façon par la petitesse de ce pivot.
+Parmi tous les avantages que les montres à la
+françoise ont sur celles qui sont à l&#39;angloise, celui-ci 
+n&#39;est pas un des moindres ; car dans celles ci le
+quarré se trouvant du côté du sommet de la <i>fusée</i>,
+oblige à faire le pivot de ce côté fort gros, ce qui en
+augmente beaucoup le frottement ; frottement déjà
+assez considérable par la petitesse des bras de leviers
+de la <i>fusée</i> de ce côté, &amp; par l&#39;augmentation de la
+force du ressort.
+</p>
+<p>
+Du même côté est le crochet <i>C</i> (<i>voyez les Pl.</i>) qui
+sert à empêcher qu&#39;on ne remonte la montre plus
+qu&#39;il ne faut. <i>Voyez</i> <sc><ref target="head:Guide-Chaîne" type="search">Guide-Chaîne</ref></sc>.
+</p>
+<p>
+Du côté de sa base elle a un petit rebord, où il
+y a des dents dont la figure ressemble à un triangle ;
+ces dents composent ce que l&#39;on appelle le <i>rochet</i>, on
+en verra l&#39;usage plus bas.
+</p>
+<p>
+La grande roue ou premiere roue (<i>V. les Pl.</i>) portée 
+sur l&#39;arbre de la <i>fusée</i>, vient s&#39;appliquer contre sa
+base. Elle est mobile circulairement sur cet arbre,
+qui pour cet effet est rond. Pour qu&#39;elle pose continuellement 
+contre la base de la <i>fusée</i>, elle est retenue 
+par la goutte 2&quot;&#39;qui tient à frottement sur cet
+arbre, &amp; qui entrant dans la petite creusure de la
+roue, la presse toûjours contre cette base. <i>Voyez</i>
+<sc><ref target="head:Grande Roue" type="search">Grande Roue</ref>, <ref target="head:Goutte" type="search">Goutte</ref></sc>
+, <i>&amp;c.</i> voyez <i>les <ref target="XPL:5195" type="platelink">Planches,
+&amp; leur explication</ref></i>.
+</p>
+<p>
+Lorsque la <i>fusée</i> &amp; la grande roue sont montées
+ensemble, le cliquet <i>C</i> de la grande roue entre dans
+les dents du rochet, &amp; il s&#39;y engage de façon que la
+<i>fusée</i> tournant dans le sens où elle est entraînée par
+la chaîne la montre allant, ses dents s&#39;appuient sur
+le cliquet ; ensorte que la <i>fusée</i> &amp; la grande roue
+tournent ensemble du même côté; &amp; qu&#39;au contraire 
+quand on tourne la <i>fusée</i> dans le sens opposé, elle
+se meut indépendamment de la grande roue, le cliquet 
+ne s&#39;opposant plus à son mouvement. Cette mécanique 
+est nécessaire pour qu&#39;en remontant la montre,
+la <i>fusée</i> tourne sans la grande roue ; car un point
+d&#39;appui étant nécessaire, si la grande roue tournoit
+avec la <i>fusée</i>, il seroit impossible de remonter la
+montre.
+</p>
+<p>
+Il y a des <i>fusées</i> qui sont disposées de façon qu&#39;en
+tournant leur quarré d&#39;un sens ou de l&#39;autre, on remonte<gap type="hyphenpb" />
+<pb n="7:393" facs="V7/ENC_7-393.jpeg" />
+<milestone unit="column" n="1" />
+également la montre. On appelle les montres
+qui ont de ces sortes de <i>fusées, montres à l&#39;ivrogne ;</i>
+comme il est rare que l&#39;on en fasse usage, nous n&#39;en
+parlerons point, d&#39;autant plus que ces sortes de <i>fusées</i> sont fort inutiles. <i>Voyez</i> <sc><ref target="head:Montre" type="search">Montre</ref></sc>. (<i>T</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29628" id="53:117" vol="7">
+<index type="head" value="GLACER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Landois" />
+<index type="shortauth" value="Landois" />
+<index type="kafnum" value="66" />
+<index type="kafauth" value="Landois, Paul (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Peinture" />
+<index type="pos" value="v.act." />
+<head>GLACER</head>
+<p>
+GLACER, v. act. <i>voyez ci-après</i> <sc>Glacis</sc>.
+</p>
+<p>
+Nous observerons seulement ici, 1°. qu&#39;on prépare 
+les fonds sur lesquels on veut <i>glacer</i>, beaucoup
+plus clairs que les autres, particulierement les grandes 
+lumieres qu&#39;on fait quelquefois de blanc pur. On
+laisse sécher ce fond ; après quoi on passe dessus un
+<i>glacis</i> de la couleur qu&#39;on juge convenable.
+</p>
+<p>
+2°. Qu&#39;il y a une façon de <i>glacer</i> qu&#39;on nomme quelquefois 
+<i>frottis</i>, plus legere, mais dont on ne se sert
+guere que lorsque l&#39;on a fait quelque méprise, telles
+que d&#39;aveir fait dans un tableau des parties de couleur 
+trop entieres : alors on trempe une brosse avec
+laquelle on a pris très-peu de la couleur qui convient
+dans une huile ou vernis qui la rend extrèmement liquide ; 
+&amp; on laisse plus ou moins de cette couleur ou
+<i>glacis</i>, en frottant la brosse sur les parties viciées de
+ce tableau, pour les raccorder avec les autres.
+</p>
+<p>
+3°. Que dans <i>la Peinture en détrempe ;</i> en prenant
+la précaution, en <i>glaçant</i>, de passer une couche de
+colle chaude sur le fond qu&#39;on veut <i>glacer ;</i> &amp; lorsqu&#39;elle est seche, de passer dessus le <i>glacis</i> le plus
+promptement qu&#39;on peut, crainte de détremper le
+dessous.
+</p>
+<p>
+4°. Qu&#39;il est encore une espece de <i>glacis</i> qu&#39;on appelle 
+communément <i>frottis</i>, qui se fait avec une
+brosse dans laquelle il n&#39;y a presque point de couleur,
+sur les endroits où on le croit nécessaire. (<i>R</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

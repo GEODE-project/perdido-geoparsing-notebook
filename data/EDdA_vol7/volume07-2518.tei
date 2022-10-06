@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29972" id="53:344" vol="7">
+<index type="head" value="GOUSSET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.m." />
+<head>GOUSSET</head>
+<p>
+* GOUSSET, s. m. (<i>Gramm.</i>) ce mot a plusieurs
+acceptions. Il se dit de la piece de toile en losange
+dont ont garnit l&#39;endroit d&#39;une chemise qui correspond 
+à l&#39;aisselle : de la partie de l&#39;armure d&#39;un chevalier,
+qui a une branche ouverte &amp; plus courte
+que l&#39;autre, qui est faite en équerre, &amp; qui habille
+aussi le haut du bras à l&#39;articulation : d&#39;une petite
+poche pratiquée à nos culottes, où l&#39;on sert sa montre 
+ou quelques autres meubles précieux : de la barre 
+du gouvernail : <i>voyez la <ref target="XPL:5372" type="platelink">Planche IV</ref>. fig. n°. 177.</i>
+&amp; l&#39;<i>art</i>. <sc><ref target="head:Gouvernail" type="search">Gouvernail</ref></sc>: d&#39;une espece de lieu qui se
+place dans les enrênures d&#39;un entrain à un autre,
+ou d&#39;un morceau de planche en équerre, chantourné 
+par-devant, que l&#39;on fixe de champ à un mur ou
+dans un autre endroit, pour soûtenir une planche,
+une tablette : d&#39;une espece de siége ménagé à la portiere 
+d&#39;un carrosse pour un sur-numéraire ; &amp; d&#39;une
+piece en forme de pupitre, tirée de l&#39;angle dextre
+ou senestre du chef, descendant diagonalement sur
+le point du milieu de l&#39;écu d&#39;une autre piece semblable,
+&amp; tombant perpendiculairement sur la base. <i>V.
+nos <ref target="XPL:5373" type="platelink">Planches de Blason</ref></i>. Le <i>gousset</i> est une flétrissure ;
+il marque, à ce que disent les écrivains de l&#39;art héraldique,
+la sévérité, <i>&amp;c.</i>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

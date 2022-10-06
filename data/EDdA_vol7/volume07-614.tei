@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28068" id="50:13" vol="7">
+<index type="head" value="FOURRÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Pêche" />
+<index type="normclass" value="Pêche" />
+<index type="englishclass" value="Fish" />
+<index type="generatedclass" value="Pêche" />
+<index type="pos" value="s.f." />
+<head>FOURRÉE</head>
+<p>
+* FOURRÉE, s. f. <i>terme de Péche</i>, bas parcs que
+les pêcheurs forn ent sur les sables dans des terreins
+convenables, comme les fonds qui vont en pente.
+Pour cet effet ils plantent des pieux de deux, trois,
+&amp; quatre piés de haut, à sept à huit pies de distance
+les uns des autres, en forme de fer à cheval qui se
+recourberoit vers ses deux extrémités. Ils amarrent
+sur ces pieux des filets d&#39;une hauteur proportionnée,
+par le moyen d&#39;un tourmort haut &amp; bas ; &amp;
+pour que les filets s&#39;appliquent plus exactement sur
+le fond, on en ensable le pié, ensorte que rien ne
+peut s&#39;échapper par-dessous. La marée montant rapidement 
+sur les bas-fonds, y porte le poisson ; mais
+quand elle vient à se retirer, alors ce poisson rencontre 
+le filet qui le retient, &amp; les pêcheurs le prennent 
+à sec. La quantité en est quelquefois très-considérable. Les pêcheurs contreviennent en deux
+points aux ordonnances. Le premier en ne donnant
+pas à leur maille l&#39;étendue de deux pouces en quarré; 
+&amp; le second en ensablant le pié du filet. Il s&#39;ensuit 
+de-là que la <i>fourrée</i> retient une multitude de petit 
+poisson qui périt, &amp; qui s&#39;échapperoit. <i>Voyez les
+<ref target="XPL:5126" type="platelink">Planches de Pêche</ref></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,101 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30822" id="55:329:28" vol="7">
+<index type="head" value="Esquinancie" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="NA" />
+<head>Esquinancie</head>
+<p>
+<sc>Esquinancie</sc>, <i>pag.</i> 976. <i>col.</i> 2. <i>lig.</i> 45. <foreign lang="greek">συνάγχειν</foreign>,
+<i>lis.</i> <foreign lang="greek">κυνάγχειν</foreign>. <i>Lig.</i> 56. cynanche, <i>lis.</i> synanche. <i>Lig.</i>
+58. paracynanche, <foreign lang="greek">παρακυνάγχειν</foreign>, <i>lis.</i> parasynanche,
+<foreign lang="greek">παρασυνάγκειν</foreign>. <i>Pag.</i> 977. <i>col.</i> 1. <i>lig.</i> 21. de sa trachée,
+<i>lis.</i> de la trachée. <i>Col.</i> 2. <i>lig.</i> 5. épiderme, <i>lis.</i> épidémie. <i>Lig.</i> 6. <i>même faute à corriger. Lig.</i> 42. <i>effacez</i> les
+plus. <i>Pag.</i> 980. <i>col.</i> 1. <i>lig.</i> 26. <i>après ces mots</i>, différens 
+états, <i>mettez deux points pour le sens de ce qui suit.
+Col.</i> 2. <i>lig.</i> 30. sinapesme, <i>lis.</i> sinapisme.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

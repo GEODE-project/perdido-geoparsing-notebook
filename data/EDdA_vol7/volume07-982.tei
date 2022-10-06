@@ -1,0 +1,265 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28436" id="50:170" vol="7">
+<index type="head" value="FRONT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Anat. &amp; Chir." />
+<index type="normclass" value="Anatomie | Chirurgie" />
+<index type="englishclass" value="Anatomy | Surgery" />
+<index type="generatedclass" value="Anatomie" />
+<index type="pos" value="s.m." />
+<head>FRONT</head>
+<p>
+FRONT, s. m. (<i>Anat. &amp; Chir.</i>) le <i>front</i> est une des
+grandes parties de la face, &amp; une de celles qui contribuent 
+le plus à la beauté de sa forme, &amp; au plaisir 
+de la considérer ; <i>frons ubi vivit honor!</i> Un poëte
+galant du siecle d&#39;Auguste, disoit, en parlant de celui 
+de sa maîtresse, <i>frons ubi ludit amor!</i>
+</p>
+<p>
+Chez les Grecs &amp; les Latins, c&#39;étoit une beauté
+d&#39;avoir le <i>front</i> petit, &amp; même cette petitesse passoit
+encore pour une marque d&#39;esprit : Horace en parlant
+de sa chere Lycoris, la peint <i>insignis tenui fronte ;</i> ce
+goût étoit si géneral, &amp; les dames si curieuses de cet
+agrément, qu&#39;elles s&#39;appliquoient à cacher une partie 
+de leur <i>front</i> par des bandelettes, qu&#39;Arnobe appelle 
+<i>nimbos</i>.
+</p>
+<p>
+Il semble que nous avons un goût de beauté un peu
+plus exact que les Romains sur cette partie du visage.
+Il faut que le <i>front</i>, selon nous, comme le dit l&#39;auteur 
+de l&#39;<i>hist. nat. de l&#39;homme</i>, soit uni, sans plis ni
+rides, &amp; d&#39;une juste proportion ; qu&#39;il ne soit ni trop
+rond, ni trop plat, ni trop étroit, ni trop court, &amp;
+qu&#39;il soit régulierement garni de cheveux au-dessus,
+&amp; aux côtés. Mais sans nous occuper de ces idées accessoires,
+venons aux détails qui intéressent l&#39;anatomiste 
+&amp; le chirurgien ; quelque secs que soient ces
+détails, il s&#39;agit de les tracer dans cet article, &amp; d&#39;abandonner 
+tous les autres.
+</p>
+<p>
+L&#39;os frontal qui forme ce que nous appellons le
+<i>front</i>, est un des cinq os communs du crane, dont
+nous donnerons la description au <i>mot</i> <sc>Frontal</sc> (<i>os</i>).
+Nous nous contenterons de remarquer ici que sa figure 
+est symmétrique, &amp; à-peu-près comme une espece 
+de coquille de mer, qui est large &amp; presque arrondie ; 
+de sorte que deux os frontaux d&#39;une même
+grandeur, joints ensemble par leurs bords, représentent 
+en quelque maniere cette sorte de coquillage
+dans son entier.
+</p>
+<p>
+Comme la peau qui couvre le crane a un peu de
+mouvement, principalement dans sa partie antérieure 
+où elle se ride sensiblement dans quelques personnes,
+ces mouvemens sont exécutés par l&#39;action de
+quatre muscles ; deux nommés <i>frontaux</i>, &amp; deux <i>occipitaux</i>. Les premiers sont attachés par l&#39;extrémité
+insérieure de leurs fibres charnues, immédiatement
+à la peau &amp; aux apophyses angulaires de l&#39;os frontal ; 
+leurs fibres s&#39;avancent jusqu&#39;à la partie moyenne 
+&amp; presque supérieure de cet os, où elles se terminent 
+à la face externe d&#39;une espece de coiffe ou
+calotte aponévrotique, qui, après avoir recouvert
+le crane, semble se continuer autour du cou jusqu&#39;au
+haut des épaules ; c&#39;est dans les muscles frontaux que
+se distribue une branche du nerf ophtalmique qui
+passe par le trou sourcilier.
+</p>
+<p>
+Les muscles occipitaux attaches par leur extrémité 
+inferieure immédiatement au-dessus de l&#39;apophyse 
+transversale de l&#39;occipital, s&#39;avancent jusqu&#39;aux 
+apophyses mastoïdes, &amp; vont aussi se terminer
+à la calotte aponévrotique. Ces quatre muscles paroissent 
+toûjours agir de concert, les occipitaux n&#39;étant 
+que les auxiliaires des frontaux. Telle est du moins 
+l&#39;opinion de la plûpart des anatomistes, à laquelle 
+M. Winslow n&#39;a pas donné son suffrage.
+</p>
+<p>
+Quoi qu&#39;il en soit, il est bon d&#39;avertir les jeunes
+chirurgiens de prendre garde, en faisant des incisions
+profondes au <i>front</i>, de couper les muscles frontaux
+transversalement ; il faut les couper en long, selon
+la direction de leurs fibres ; cependant quand les incisions 
+se sont seulement à la peau, pour détruire des
+sinuosités superficielles, il vaut mieux suivre la direction 
+des rides de la peau que celle des muscles ;
+&amp; l&#39;on peut en ce cas faire des incisions transversales ; 
+mais s&#39;il arrivoit à un chirurgien de couper par
+imperitie un muscle frontal transversalement &amp; totalement,
+le sourcil tomberoit sur la paupiere, ce
+qui laisseroit une difformité considérable au visage,
+<milestone unit="column" n="2" />
+empêcheroit même le globe de l&#39;oeil de pouvoit se
+découvrir dans toute son étendue, &amp; nuiroit à l&#39;action 
+de cet organe.
+</p>
+<p>
+Alors dans les coupures &amp; les plaies transversale,
+du <i>front</i>, où les fibres des muscles frontaux sont coupées,
+&amp; les sourcils pendans, &amp; où la peau du <i>front</i>
+ne peut plus se rider comme auparavant, la meilleure 
+méthode, après avoir nettoye la blessure, sera de
+rapprocher les levres au moyen de deux points d&#39;aiguille,
+d&#39;y appliquer quelque poudre ou baume vulnéraire,
+&amp; par-dessus une emplâtre agglutinative
+que l&#39;on assûrera par le moyen du bandage ; le malade 
+de son côté doit se tenir en repos pendant quelque 
+tems.
+</p>
+<p>
+Il arrive pourtant quelquefois, sur-tout quand le
+sujet est jeune, que les fibres des muscles qui ont été
+coupées, se réunissent sans que la plaie tourne en suppuration ; 
+mais s&#39;il survenoit une hémorrhagie violente,
+on tâchera de s&#39;en rendre maître avec des
+bourdonnets, des compresses, &amp; un fort bandage ;
+ensuite on lavera la blessure avec du vin tiede, &amp;
+on réunira ses levres avec une emplâtre agglutinative.
+</p>
+<p>
+Dans presque toutes les plaies du <i>front</i>, il faut
+commencer par bien essuyer le sang, &amp; oindre la
+plaie avec quelque baume, tel que celui de copahu,
+du Pérou, ou autre semblable ; on doit ensuite rapprocher 
+les levres de la plaie au moyen d&#39;une emplâtre 
+vulnéraire ; cependant lorsque la plaie est considérable,
+ces moyens ne suffisent point pour la cicatriser 
+également ; il faut donc pour y parvenir, saupoudrer 
+la plaie de poudre de sarcocolle, ou d&#39;une
+poudre préparée avec la racine de grande consoude,
+de la gomme adraganth, &amp; de la gomme arabique ;
+on appliquera par-dessus les emplâtres dont nous
+avons parlé, &amp; on assûrera le tout avec des compresses 
+&amp; un bandage.
+</p>
+<p>
+Il ne convient point d&#39;user de suture dans ces sortes 
+de plaies, sans une nécessité indispensable, non
+plusque dans toutes les autres plaies du visage ; parce
+que la suture augmente l&#39;escarre, &amp; rend la cicatrice
+beaucoup plus difforme. Dans les plaies longitudinales 
+du <i>front</i>, le bandage unissant est ce qu&#39;on
+peut employer de mieux pour cicatriser la blessure
+sans difformité.
+</p>
+<p>
+Il se forme aisément des plis au <i>front</i> des enfans ;
+plis qui ne manquent pas d&#39;augmenter avec l&#39;âge, &amp;
+qui sont très-difficiles à effacer. Le meilleur moyen
+pour y réussir, seroit peut-être de mettre sur leur
+<i>front</i> une bonne bande d&#39;une largeur convenable, &amp;
+de l&#39;y laisser très long-tems.
+</p>
+<p>
+D&#39;autres enfans ont le haut du <i>front</i> couvert de
+cheveux, qui leur viennent jusque sur la racine du
+nez. Il faut pour les détruire jetter avec un pinceau
+quelques gouttes de l&#39;esprit-de-sel dulcifié sur la partie 
+où naissent les cheveux, ensuite frotter legerement 
+&amp; souvent cette partie avec du linge. On se
+conduira de la même maniere pour faire tomber de
+petites excroissances rondes, pointues, &amp; semblables 
+à de la corne, qui poussent quelquefois au-dessus du <i>front</i>.
+</p>
+<p>
+Enfin les enfans sont sujets, soit par accident ou
+autrement, à se donner en courant des coups au
+<i>front</i>, qui y font des bosses, se durcissent, &amp; rendent 
+le <i>front</i> inégal. On préviendra cet accident par
+des bourrelets ; on guérira le mal en appliquant sur
+la bosse fraiche une petite lame de plomb, &amp; par-dessus 
+une compresse imbibée d&#39;eau vulnéraire. On
+maintiendra la compresse par un bandeau, &amp; on la
+laissera quelques jours appliquée sur le <i>front</i>, en l&#39;humectant 
+de-tems-en tems au-dehors avec de l&#39;eau-de-vie tiéde. (<i>D.J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

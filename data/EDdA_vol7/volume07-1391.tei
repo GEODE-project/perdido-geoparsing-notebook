@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28845" id="51:139" vol="7">
+<index type="head" value="GALÉOTES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="s.m.pl." />
+<head>GALÉOTES</head>
+<p>
+GALÉOTES, s. m. pl. (<i>Hist. ane.</i>) c&#39;étoient certains
+devins de Sicile &amp; d&#39;Afrique, qui se disoient descendus 
+du fils d&#39;Apollon dont ils portoient le nom. Cicéron raconte que la mere de Denis I. tyran de Syracuse, étant grosse de son fils, songea qu&#39;elle accouchoit 
+d&#39;un petit satyre. Les <i>galéotes</i> qui se mêloient 
+d&#39;interpréter les songes, ayant été consultés
+sur celui-ci, répondirent que l&#39;enfant qui viendroit
+au monde seroit long-tems le plus heureux homme
+de la Grece. Ils auroient bien deviné, s&#39;ils eussent
+prédit le contraire. Il paroît que Denis n&#39;a jamais joüi
+d&#39;aucun bonheur, ni dans sa jeunesse, ni dans un âge
+mûr ; la nature de son caractere y mettoit un obstacle 
+invincible. Il fut encore plus malheureux dans
+un âge avancé; enfin il périt de mort violente 386
+ans avant J. C. Il habitoit pendant les dernieres années 
+de sa vie, une maison soûterreine, où personne,
+pas même sa femme &amp; son fils, ne pouvoient
+entrer sans avoir quitté leurs habits ; ce tyran trembloit 
+sans cesse qu&#39;ils n&#39;eussent des armes cachées
+dessous pour le poignarder. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

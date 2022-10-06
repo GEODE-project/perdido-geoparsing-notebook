@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30038" id="54:22:1" vol="7">
+<index type="head" value="Grade" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisp. rom." />
+<index type="normclass" value="Jurisprudence romaine" />
+<index type="englishclass" value="Roman jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Grade</head>
+<p>
+<sc>Grade</sc>, (<i>Jurisp. rom.</i>) L&#39;empereur Justinien établit qu&#39;il faudroit passer par cinq différens <i>grades</i>,
+avant que d&#39;arriver à celui de docteur ès lois ; il
+ordonna donc que dans la premiere année on expliquât 
+aux écoliers les institutes qui portoient son
+nom ; &amp; l&#39;on appelloit ceux à qui l&#39;on enseignoit
+les principes de cette jurisprudence, <i>justinianaei:</i>
+dans la seconde année, on leur inteprétoit les édits
+perpétuels des préteurs ; &amp; ils étoient surnommés
+<i>edictales:</i> dans la troisieme année, ils passoient à
+l&#39;étude des décisions de Papinien, dont ils prenoient
+le nom de <i>papinianistae:</i> dans la quatrieme année,
+on leur faisoit expliquer les endroits les plus difficiles 
+des lois, &amp; on les appelloit <i>lytae</i>, du mot
+grec <foreign lang="greek">λύω</foreign>, <i>solvo</i>, parce qu&#39;ils étoient plus libres dans
+leurs travaux : dans la cinquieme année, on les honoroit 
+du titre de <i>prolytae</i>, ou gens affranchis des
+études de droit.
+</p>
+<p>
+Cet établissement de Justinien ne fut pas de longue 
+durée ; toutes les Sciences déjà tombées de son
+tems, s&#39;éteignirent avec l&#39;empire romain, &amp; les premieres 
+étincelles de leur renaissance ne commencerent 
+à paroître que dans les douzieme &amp; treizieme
+siecle ; il fallut en exciter l&#39;étude par des honneurs &amp;
+des <i>grades</i>, qui donnent encore des droits &amp; des priviléges 
+qu&#39;on ne devroit accorder dans des siecles
+éclairés, qu&#39;à ceux qui les méritent par leurs talens
+&amp; leurs lumieres. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

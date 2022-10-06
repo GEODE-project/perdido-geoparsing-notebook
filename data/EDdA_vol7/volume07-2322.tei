@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29776" id="53:218" vol="7">
+<index type="head" value="GOELETTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Marine." />
+<index type="normclass" value="Marine" />
+<index type="englishclass" value="Navy" />
+<index type="generatedclass" value="Marine" />
+<index type="pos" value="s.f." />
+<head>GOELETTE</head>
+<p>
+GOELETTE, s. f. (<i>Marine.</i>) quelques-uns prononcent 
+<i>gaulette</i>, petit bâtiment du port de 50 à 60
+tonneaux, &amp; quelquefois davantage ; il a deux mâts
+portant ensemble trois principales voiles, dont deux
+s&#39;amarrent aux piés des mâts, &amp; se manoeuvrent de
+bas en-haut, au moyen d&#39;une corne à laquelle sont
+attachés un dérisse, une balancine &amp; des halebas ;
+le point de la grande voile opposé à l&#39;armure est porté 
+en-dehors du bâtiment, soit à droite ou à gauche
+par une baume ou grande piece de bois mobile, &amp;
+retenu par des palancs. La troisieme voile est un
+foc se manoeuvrant le long de l&#39;étai qui descend du
+haut du mât d&#39;avant sur l&#39;extrémité du beau-pré ;
+<pb n="7:730" facs="V7/ENC_7-730.jpeg" />
+<milestone unit="column" n="1" />
+aux grandes <i>goelettes</i> on ajoûte quelquefois un faux
+foc &amp; de petits huniers volans. Les <i>goelettes</i> sont fort
+en usage aux iles de l&#39;Amérique ; elles servent à
+faire le cabotage ou navigation de cap en cap, ou
+d&#39;une ile à l&#39;autre. Il y a une autre petite <i>goelette</i>
+qui n&#39;est pas plus grande qu&#39;une moyenne chaloupe ;
+on la nomme <i>goelette à chaux</i>, servant à pêcher au
+fond de la mer les pierres dont on fait la chaux,
+ou à transporter la chaux brûlée dans les lieux où
+on en a besoin. On peut observer en passant que les
+pierres dont on fait la chaux aux iles de l&#39;Amérique,
+ne sont autre chose que des madrepores, des coralloydes 
+&amp; des coquillages. <i>Art. de M. <sc>le Romain</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

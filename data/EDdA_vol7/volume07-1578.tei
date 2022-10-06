@@ -1,0 +1,180 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29032" id="51:235:39" vol="7">
+<index type="head" value="Garde-gardienne" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde-gardienne</head>
+<p>
+<sc>Garde-gardienne</sc>, ce sont des lettres accordées 
+par le roi à des abbayes, chapitres, prieurés,
+&amp; autres églises, universités, colléges, &amp; autres
+communautés, par lesquelles le roi déclare qu&#39;il
+prend en sa <i>garde</i> spéciale ceux auxquels il les accorde,
+&amp; pour cet effet leur assigne des juges particuliers,
+pardevant lesquels toutes leurs causes
+sont commises ; le juge auquel cette jurisdiction est
+attribuée, s&#39;appelle <i>juge conservateur de leurs priviléges</i>. Ceux qui ont droit de <i>garde-gardienne</i> peuvent,
+en vertu de ces lettres, attirer leur partie adverse 
+qui n&#39;a point de privilége plus éminent, hors
+de la jurisdiction naturelle, soit en demandant ou
+défendant, pourvû que les lettres de <i>garde-gardienne</i>
+ayent été vérifiées au parlement où le juge conservateur 
+ressortit.
+</p>
+<p>
+On entend quelquefois par le terme de <i>garde-gardienne</i>, le privilége résultant des lettres d&#39;attribution.
+</p>
+<p>
+L&#39;usage des <i>gardes-gardiennes</i> est fort ancien, surtout 
+pour les églises cathédrales, &amp; autres de fondation 
+royale, que nos rois ont toujours prise sous
+leur protection ; ce que l&#39;on appelloit alors simplement 
+<i>garde</i> ou <i>sauve-garde</i>, ou bien <i>garde royale</i>.
+Dans la suite on se servit du terme de <i>garde-gardien-</i>
+<milestone unit="column" n="2" />
+<i>ne</i>, soit parce que cette <i>garde</i> étoit administrée par
+un gardien ou juge conservateur, ou bien pour distinguer 
+cette espece particuliere de <i>garde</i>, de la <i>garde royale</i> des enfans mineurs qui a lieu en Normandie.
+</p>
+<p>
+Les priviléges de <i>garde-gardienne</i> furent confirmés
+par l&#39;<i>article 9</i> de l&#39;édit de Cremieu, qui veut que
+les baillifs &amp; sénéchaux ayent la connoissance des
+causes &amp; matieres des églises de fondation royale,
+auxquelles ont été &amp; seront octroyées des lettres en
+forme de <i>garde-gardienne</i>, &amp; non autrement.
+</p>
+<p>
+Cet article a été confirmé par l&#39;<i>article 3</i> d&#39;un édit
+du mois de Juin 1559, qui restraint cependant les
+priviléges des <i>gardes-gardiennes</i>, en ce qu&#39;il ordonne 
+qu&#39;il n&#39;y aura que ceux qui sont du corps commun 
+de l&#39;église à laquelle elles ont été accordées,
+qui en jouiront, &amp; qu&#39;elles ne s&#39;étendront pas aux
+bénéfices étant de sa collation.
+</p>
+<p>
+L&#39;ordonnance de 1669, <i>titre 4 des committimus</i> &amp;
+<i>gardes-gardiennes</i>, ordonne, <i>article 18</i>, que les églises, chapitres, abbayes, prieurés, corps &amp; communautés 
+qui prétendent droit de <i>committimus</i>, soient
+tenus d&#39;en rapporter les titres pour être examinés,
+&amp; l&#39;extrait envoyé aux chancelleries près les parlemens,
+&amp; que jusqu&#39;à ce il ne leur soit expédié aucunes 
+lettres.
+</p>
+<p>
+L&#39;<i>article 18</i> permet aux principaux des colléges,
+docteurs, régens, &amp; autres du corps des universités 
+qui tiennent des pensionnaires, de faire assigner
+de tous les endroits du royaume, pardevant le juge
+de leur domicile, les redevables des pensions &amp; autres 
+choses par eux fournies à leurs écoliers, sans
+que leurs causes en puissent être évoquées ni renvoyées 
+devant d&#39;autres juges, en vertu de <i>committimus</i> ou autre privilége.
+</p>
+<p>
+L&#39;<i>article suivant</i> porte, que les recteurs, régens
+&amp; lecteurs des universités exerçant actuellement,
+ont leurs causes commises en premiere instance devant 
+les juges conservateurs des priviléges des universités,
+auxquels l&#39;attribution en a été faite par les
+titres de leur établissement ; &amp; qu&#39;à cet effet il sera
+dressé par chacun an un rôle par le recteur de chaque 
+université, pour être porté aux juges conservateurs 
+de leurs priviléges.
+</p>
+<p>
+Les écoliers étudians dans une université, ont un
+autre privilége qu&#39;on appelle <i>privilége de scholarité.
+Voyez</i> 
+<sc><ref target="head:Scholarité. Committimus" type="search">Scholarité. Committimus</ref>, <ref target="head:Conservateur" type="search">Conservateur</ref>, <ref target="head:Conservation" type="search">Conservation</ref></sc>
+. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

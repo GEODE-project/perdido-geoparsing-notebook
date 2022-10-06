@@ -1,0 +1,491 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27570" id="48:52:1" vol="7">
+<index type="head" value="Son fondamental" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Son fondamental</head>
+<p>
+<sc>Son fondamental</sc>. C&#39;est une vérité d&#39;expérience 
+reconnue depuis long-tems, qu&#39;un son rendu par
+un corps n&#39;est pas unique de sa nature, &amp; qu&#39;il est accompagné 
+d&#39;autres sons, qui sont, 1°. l&#39;octave au-dessus 
+du son principal, 2°. la douzieme &amp; la dixseptieme 
+majeure au-dessus de ce même son, c&#39;est-à-dire l&#39;octave au-dessus de la quinte du son principal,
+&amp; la double octave au-dessus de la tierce majeure 
+de ce même son. Cette expérience est principalement 
+sensible sur les grosses cordes d&#39;un violoncelle,
+dont le son étant fort grave, laisse distinguer
+assez facilement à une oreille tant-soit-peu exercée,
+la douzieme &amp; la dix-septieme dont il s&#39;agit. Elles
+s&#39;entendent même beaucoup plus aisément que l&#39;octave 
+du son principal, qu&#39;il est quelquefois difficile
+de distinguer, à cause de l&#39;identité d&#39;un son &amp; de son
+octave, qui les rend faciles à confondre. <i>Voyez</i> <sc><ref target="head:Octave" type="search">Octave</ref></sc>. <i>Voyez</i> aussi le premier chapitre de la <i>génération
+harmonique</i> de M. Rameau, &amp; d&#39;autres ouvrages du
+même auteur, où l&#39;expérience dont nous parlons
+est détaillée. On peut la faire aisément sur une des
+basses cordes d&#39;un clavecin, en frappant fortement
+la touche, &amp; en retirant brusquement le doigt. Car
+le son principal s&#39;amortit presque tout d&#39;un coup,
+&amp; laisse entendre après lui, même à des oreilles peu
+musicales, deux sons aigus qu&#39;il est facile de reconnoître 
+pour la douzieme &amp; la dix-septieme du son
+principal.
+</p>
+<p>
+Ce son principal, le seul qu&#39;on entende quand on
+ne fait pas attention aux autres, mais qui fait entendre 
+en même tems à une oreille un peu attentive son
+octave, sa douzieme &amp; sa dix-septieme majeure, est
+proprement ce qu&#39;on appelle <i>son fondamental</i>, parce
+qu&#39;il est, pour ainsi dire, la base &amp; le fondement des
+autres, qui n&#39;existeroient pas sans lui.
+</p>
+<p>
+Voilà tout ce que la nature nous donne immédiatement 
+&amp; par elle-même dans la résonance du corps
+sonore ; mais l&#39;art y a beaucoup ajoûté; &amp; en conséquence,
+on a étendu la dénomination de <i>son fondamental</i> à differens autres sons. C&#39;est ce qu&#39;il faut développer.
+</p>
+<p>
+Si on accorde avec le corps sonore deux autres
+corps, dont l&#39;un soit à la douzieme au-dessous du
+corps sonore, &amp; l&#39;autre à la dix-septieme majeure
+au-dessous ; ces deux derniers corps frémiront sans
+résonner, dès qu&#39;on fera résonner le premier : de plus,
+ces deux derniers corps en frémissant, se diviseront
+par une espece d&#39;ondulation, l&#39;un en trois, l&#39;autre en
+cinq parties égales ; &amp; ces parties dans lesquelles ils
+se divisent, rendroient l&#39;octave du son principal, si
+en frémissant elles résonnoient.
+</p>
+<p>
+Ainsi supposons qu&#39;une corde pincée ou frappée
+rende un son que j&#39;appellerai <i>ut</i>, les cordes à la douzieme 
+&amp; à la dix-septieme majeure au-dessous frémiront.
+Or ces cordes sont un <i>fa</i> &amp; un <i>la bémol</i>: de sorte 
+que si ces cordes résonnoient dans leur totalité,
+on entendroit ce chant, ou plûtôt cet accord, <i>la bémol,
+fa, ut</i>, dont le plus haut ton <i>ut</i> est à la dixseptieme 
+majeure au-dessus de <i>la bémol</i>, &amp; à la douzieme 
+au-dessus de <i>fa</i>.
+<pb n="7:55" facs="V7/ENC_7-55.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Ainsi il résulte des deux expériences que nous venons 
+de rapporter ; 1°. qu&#39;en frappant un seul son
+quelconque, <i>ut</i>, par exemple, on entendra en même
+tems sa douzieme au-dessus <i>sol</i>, &amp; sa dix-septieme
+majeure au-dessus, <i>mi</i> ; 2°. que les cordes <i>la bémol</i> &amp;
+<i>fa</i>, qui seront à la dix-septieme majeure au-dessous
+d&#39;<i>ut</i>, &amp; à la douzieme au-dessous, frémiront sans résonner.
+</p>
+<p>
+Or la douzieme est l&#39;octave de la quinte, &amp; la dixseptieme 
+majeure l&#39;est de la tierce majeure : &amp; comme 
+nous avons une facilité naturelle à confondre les
+sons avec leurs octaves (<i>voyez</i> <sc><ref target="head:Octave" type="search">Octave</ref></sc>), il s&#39;ensuit
+1°. qu&#39;au lieu des trois sons <i>ut</i> fondamental, <i>sol</i> douzieme,
+&amp; <i>mi</i> dix-septieme majeure, qu&#39;on entend en
+même tems, on peut substituer ceux-ci, qui n&#39;en différeront 
+presque pas quant à l&#39;effet, <i>ut, mi</i> tierce majeure,
+<i>sol</i> quinte : ces trois sons forment l&#39;accord
+qu&#39;on nomme <i>accord parfait majeur</i>, &amp; dans lequel
+le son <i>ut</i> est encore regardé comme fondamental,
+quoiqu&#39;il ne le soit pas immédiatement, &amp; qu&#39;il ne
+le devienne que par une espece d&#39;extension, en substituant 
+à la douzieme &amp; à la dix-septieme les octaves 
+de ces deux sons ; 2°. de même, au lieu des trois
+sons, <i>ut</i> son principal, <i>la bémol</i> dix-septieme majeure
+au-dessous d&#39;<i>ut</i>, &amp; <i>fa</i> douzieme au-dessous, qu&#39;on entendroit 
+si les cordes <i>fa</i> &amp; <i>la bémol</i> résonnoient en
+totalité, on peut imaginer ceux-ci (en mettant la
+quinte &amp; la tierce majeure, au lieu de la douzieme &amp;
+de la dix-septieme) <i>fa</i> quinte au dessous d&#39;<i>ut, la bémol</i>, tierce majeure au dessous, <i>ut</i> fondamental. Or
+<i>la bémol</i> faisant une tierce majeure avec <i>ut</i>, fait une
+tierce mineure avec <i>fa ;</i> ce qui produit un autre accord 
+appellé <i>accord parfait mineur ; voyez</i> <sc><ref target="head:Accord" type="search">Accord</ref> <i>&amp;</i> <ref target="head:Mineur" type="search">Mineur</ref></sc>. Dans cet accord, il n&#39;y a proprement
+aucun <i>son fondamental:</i> car <i>fa</i> ne fait point entendre
+<i>la bémol</i>, comme <i>ut</i> sait entendre <i>mi</i>. De plus, si on
+regardoit ici quelque son comme <i>fondamental</i>, quoiqu&#39;improprement, ce devroit être le son le plus haut
+<i>ut:</i> car c&#39;est ce son qui fait frémir <i>fa</i> &amp; <i>la bémol ;</i> ; &amp;
+c&#39;est du frémissement de <i>fa</i> &amp; de <i>la bémol</i>, occasionnés 
+par la résonnance d&#39;<i>ut</i>, qu&#39;on a tiré l&#39;accord mineur 
+<i>fa, la bémol, ut</i>. Cependant comme la corde
+<i>fa</i> en résonnant fait entendre <i>ut</i>, quoiqu&#39;elle ne fasse
+ni entendre ni frémir <i>la bémol</i>, on regarde le son le
+plus bas <i>fa</i>, comme <i>fondamental</i> dans l&#39;accord mineur
+<i>fa, la bémol, ut</i>, comme le son le plus bas <i>ut</i> est <i>fondamental</i> dans l&#39;accord majeur <i>ut, mi, sol</i>.
+</p>
+<p>
+Telle est l&#39;origine que M. Rameau donne à l&#39;accord 
+&amp; au mode mineur ; origine que nous pourrons
+discuter à <sc>Mode mineur</sc>, en examinant les objections 
+qu&#39;on lui a faites ou qu&#39;on peut lui faire sur ce
+sujet, &amp; en appréciant ces objections. Quoi qu&#39;il en
+soit, il est au moins certain que dans tout accord parfait,
+soit majeur soit mineur, formé d&#39;un son principal,
+de sa tierce majeure ou mineure, &amp; de sa quinte,
+on appelle <i>fondamental</i> le son principal, qui est
+le plus grave ou le plus bas de l&#39;accord.
+</p>
+<p>
+Quelques physiciens ont entrepris d&#39;expliquer ce
+singulier phénomene de la résonnance de la douzieme
+&amp; la dix-septieme majeure conjointement avec l&#39;octave : mais de toutes les explications qu&#39;on en a données,
+il n&#39;y en a que deux qui nous paroissent mériter 
+qu&#39;on en fasse mention.
+</p>
+<p>
+La premiere est de M. Daniel Bernoulli. Ce grand
+géometre prétend dans les <i>mém. de l&#39;acad. des Sciences
+de Prusse, pour l&#39;année 1753</i>, que la vibration d&#39;une
+corde est un mélange de plusieurs vibrations partielles ; 
+qu&#39;il faut distinguer dans une corde en vibration
+différens points, qui sont comme des especes de
+noeuds ou points fixes, autour desquels oscille la partie 
+de la corde comprise entre deux de ces points
+voisins l&#39;un de l&#39;autre : je dis <i>comme des especes de
+noeuds ou points fixes ;</i> car ces points ne sont pas véritablement 
+immobiles ; ils ne le sont, ou plûtôt ils
+<milestone unit="column" n="2" />
+ne sont considérés comme tels, que par rapport à la
+partie de la corde qui oscille entre deux ; &amp; d&#39;ailleurs 
+ils font eux-mêmes des vibrations par rapport
+aux deux extrémités véritablement fixes de la corde.
+Or dans cette supposition, M. Daniel Bernoulli
+prouve que tous les points de la corde ne sont pas
+leurs vibrations en même tems ; mais que les uns font
+deux vibrations, les autres trois, <i>&amp;c.</i> pendant que
+d&#39;autres n&#39;en font qu&#39;une ; &amp; c&#39;est par-là qu&#39;il explique 
+la multiplicité de sons qu&#39;on entend dans le frémissement 
+d&#39;une même corde : car on sait que la
+différence des sons vient de celles des vibrations.
+</p>
+<p>
+Comme M. Daniel Bernoulli attaque dans ce mémoire 
+la théorie que j&#39;ai donnée le premier de la vibration 
+des corps sonores, <i>voyez l&#39;article</i> <sc><ref target="head:Corde" type="search">Corde</ref></sc>,
+j&#39;ai crû devoir répondre à ses objections par un écrit
+particulier, que j&#39;espere publier dans une autre occasion : mais cette discussion n&#39;étant point ici de
+mon sujet, je me borne à la question présente. J&#39;accorde d&#39;abord à M. Bernoulli ce que je ne crois pas,
+&amp; ce que M. Euler me paroît avoir très-bien réfuté
+dans les mémoires de l&#39;acad. de Berlin 1753; savoir,
+qu&#39;une corde en vibration décrit toûjours ou une trochoïde 
+simple, ou une courbe, qui n&#39;est autre chose
+que le mélange de plusieurs trochoïdes. En admettant 
+cette proposition, j&#39;observe d&#39;abord que dans
+les cas où la courbe décrite sera une trochoïde simple 
+(ce qui peut &amp; doit arriver souvent, &amp; ce que
+M. Bernoulli semble supposer lui-même), tous les
+points feront leurs vibrations en même tems, &amp; que
+par conséquent il n&#39;y aura point de son multiple : or cela 
+est contraire à l&#39;expérience ; puisque toute corde
+mise en vibration fait entendre plusieurs sons à-la-fois.
+</p>
+<p>
+Je demande de plus, 1°. ce que M. Daniel Bernoulli n&#39;a point expliqué, quelle sera la cause qui
+déterminera la corde vibrante à être un mélange de
+plusieurs trochoïdes : 2°. ce qu&#39;il a expliqué encore
+moins. quelle sera la cause qui déterminera constamment 
+ces trochoïdes à être telles qu&#39;on entende l&#39;octave,
+la douzieme, &amp; la dix-septieme, plûtôt que tout
+autre son. On concevroit aisément comment la corde 
+feroit entendre, outre le son principal, l&#39;octave,
+la douzieme, &amp; la dix-septieme, si les points de la
+corde qui forment les extrémités des trochoïdes partielles,
+étoient de véritables noeuds ou points fixes,
+tels que les parties de la corde comprises entre ces
+noeuds, fissent dans le même tems, la premiere une
+vibration ; la seconde, deux ; la troisieme, trois ; la
+quatrieme, quatre ; la cinquieme, cinq, <i>&amp;c.</i> En ce
+cas, on pourroit regarder la corde comme composée 
+de cinq parties différentes placées en ligne droite,
+immobiles chacune à leurs deux extrémités,
+&amp; formant par leurs différentes longueurs cette
+suite ou progression, 1 1/2, 1/3, 1/4, 1/5, <i>&amp;c.</i> Mais l&#39;expérience 
+démontre que cela n&#39;est pas ainsi. Dans une
+corde qui fait librement ses vibrations, on ne remarque 
+point d&#39;autres noeuds ou points absolument fixes,
+que les extrémités ; &amp; M. Bernoulli paroît admettre 
+cette vérité.
+</p>
+<p>
+Il est vrai qu&#39;en regardant les noeuds comme mobiles,
+&amp; en supposant d&#39;ailleurs que la corde vibrante 
+soit un mélange de plusieurs trochoïdes, les différens 
+points de cette corde font leurs vibrations en
+différens tems. Mais il est aisé de voir que cette différence 
+de vibrations ne peut servir à expliquer la multiplicité 
+des sons. En effet, supposons pour plus de
+simplicité, &amp; pour nous faire plus facilement entendre,
+que la corde vibrante forme uniquement deux
+trochoïdes égales, ensorte que le point de milieu de
+la corde soit l&#39;extrémité commune des deux trochoïdes ; 
+nous convenons que tandis que ce point de milieu 
+de la corde fera une vibration, le point de milieu 
+de chaque trochoïde en fera deux : mais il est aisé 
+de faire voir, &amp; je l&#39;ai démontré dans l&#39;écrit dont
+<pb n="7:56" facs="V7/ENC_7-56.jpeg" />
+<milestone unit="column" n="1" />
+j&#39;ai fait mention plus haut, que ces deux vibrations 
+ne se feront pas chacune dans un tems égal,
+&amp; qu&#39;ainsi la réunion de ces deux vibrations ne doit
+point produire l&#39;octave du son principal, donné par
+le point de milieu de la corde : car pour qu&#39;on entende 
+cette octave, il faut non-seulement que l&#39;oreille 
+soit frappée par deux vibrations dans le même 
+tems, il faut de plus que ces deux vibrations
+soient chacune d&#39;égale durée. C&#39;est pour cela qu&#39;une
+corde qui est la moitié d&#39;une autre, tout le reste
+d&#39;ailleurs égal, fait entendre l&#39;octave du son que cette
+autre produit ; parce que non seulement la petite corde 
+fait deux vibrations pendant que la grande en fait
+une, mais qu&#39;elle fait une vibration pendant que la
+grande en fait la moitié d&#39;une : autrement, si les vibrations 
+de la petite corde ne se faisoient pas dans le
+même tems, elle feroit entendre successivement plusieurs 
+sons dont le mélange ne formeroit qu&#39;un bruit
+confus. Concluons donc de ces réflexions, que les
+vibrations différentes des différens points de la corde,
+ne suffisent pas pour expliquer la multiplicité de
+sons qu&#39;elle produit. Ce n&#39;est pas tout : si le point de
+milieu de la corde fait une vibration, tandis que le
+point de milieu de chaque trochoïde en fait deux, il
+est aisé de voir que les autres points participeront
+plus ou moins de la loi du mouvement de ces deux-là,
+selon qu&#39;ils en seront plus ou moins proches. Ainsi
+à proprement parler, la loi des vibrations de chaque
+point sera différente, &amp; chacun devroit produire un
+son particulier, qui, par son mélange avec les autres,
+ne devroit former qu&#39;une harmonie confuse &amp;
+une espece de cacophonie. Pourquoi cela n&#39;arrive-t-il
+pas? &amp; pourquoi l&#39;oreille ne distingue-t-elle dans le
+son de la corde, que ceux qui forment l&#39;accord parfait?
+Il me semble donc que la théorie de M. Bernoulli
+que je viens d&#39;exposer, ne suffit pas pour expliquer
+le phénomene dont il est question ; quoique cette
+théorie ingénieuse ait obtenu le suffrage de M. Euler
+lui-même, peu d&#39;accord d&#39;ailleurs, ainsi que moi,
+avec M. Daniel Bernoulli sur la nature des courbes
+que forme une corde vibrante.
+</p>
+<p>
+D&#39;autres auteurs expliquent ainsi la multiplicité
+des sons rendus par une même corde. Il y a, disent-ils,
+dans l&#39;air des parties de différent ressort, différemment 
+tendues, &amp; qui par conséquent doivent faire
+leurs vibrations les unes plus lentement ; les autres
+plus vîte. Quand on met une corde en vibration,
+cette corde communique principalement son mouvement 
+aux parties de l&#39;air qui sont tendues au même 
+degré qu&#39;elle, &amp; qui par conséquent doivent
+faire leurs vibrations en même tems ; de maniere
+que ces vibrations commencent &amp; s&#39;achevent avec
+celles de la corde, &amp; par conséquent les favorisent
+entierement &amp; constamment, &amp; en sont favorisées de
+même. Après ces parties de l&#39;air, celles dont les vibrations 
+peuvent le moins troubler celles de la corde,
+&amp; en être les moins troublées, sont celles qui font
+le double de vibrations dans le même tems, parce
+que ces vibrations recommencent de deux en deux
+avec celles de la corde. Le mouvement que ces parties 
+de l&#39;air reçoivent par le mouvement de la corde
+doit donc y persévérer aussi quelque tems, quoique
+moins fortement que dans les premieres. Par la même 
+raison, les parties de l&#39;air qui feroient trois, quatre,
+cinq, <i>&amp;c.</i> vibrations dans le même tems, doivent
+aussi participer un peu au mouvement de la corde:
+mais ce mouvement doit toûjours aller en diminuant 
+de force, jusqu&#39;à ce qu&#39;enfin il soit insensible.
+Cette hypothèse est ingénieuse : mais je demande 1°.
+pourquoi on n&#39;entend que des sons plus aigus que le
+son principal : pourquoi on n&#39;entend point l&#39;octave
+au-dessous, la douzieme au-dessous, la dix-septieme majeure au-dessous? Il semble qu&#39;on devroit dans
+cette hypothèse les entendre du moins aussi distinctement<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+que les sons au-dessus. Car les parties d&#39;air
+qui font, par exemple, une vibration pendant trois
+vibrations de la corde principale, sont dans le même
+cas par rapport à la concurrence de leurs mouvemens,
+que celles qui sont trois vibrations tandis
+que la corde en fait une. D&#39;ailleurs l&#39;expérience prouve 
+que si on fait résonner une corde, &amp; qu&#39;on ait
+en même tems près d&#39;elle quatre autres cordes tendues,
+dont la premiere soit le tiers, la seconde le cinquieme 
+de la grande, la troisieme triple, la quatrieme 
+quintuple ; les deux premieres de ces cordes résonneront 
+au bruit de la principale ; les deux autres
+ne feront que frémir sans résonner, &amp; se diviseront 
+seulement en frémissant l&#39;une en trois, l&#39;autre
+en cinq parties égales à la premiere. Or dans l&#39;hypothese 
+présente, il semble que ces deux dernieres
+cordes devroient résonner bien plûtôt que les deux
+autres. En effet, celles-ci sont principalement
+ébranlées &amp; forcées à resonner par des parties d&#39;air
+dont les vibrations se font en trois fois, en cinq fois
+moins de tems que celles de la corde principale ; les
+deux autres qui se divisent en parties égales à la corde 
+principale, sont évidemment ébranlées (je parle
+dans l&#39;hypothese dont il s&#39;agit) par les parties d&#39;air
+dont la vibration est la plus sorte, par celles qui
+sont à l&#39;unisson de la corde principale. Pourquoi donc
+ne font-elles que frémir, tandis que les autres résonnent?
+Enfin, il me semble que la concurrence plus ou
+moins grande des vibrations est ici un principe absolument 
+illusoire. Pour le montrer, supposons d&#39;abord
+qu&#39;une corde fasse deux vibrations pendant qu&#39;une
+corde double en fait une. Je remarque, ce qu&#39;il est
+très-aisé de voir, que les vibrations ne seront réellement 
+concourantes, c&#39;est-à-dire commençantes en
+même tems, &amp; se faisant <i>dans le même sens</i>, qu&#39;après 
+deux vibrations de la grande corde &amp; quatre de
+la petite : ainsi dans le tems que la grande corde fait
+deux vibrations, les vibrations de cette grande corde
+seront moitié troublées par des vibrations contraires,
+moitié favorisées par des vibrations dans le même
+sens. Prenons maintenant une corde qui fasse cinq vibrations 
+pendant que la grande en fait une : il est encore 
+aisé de voir que les vibrations seront vraiment
+concourantes à la fin d&#39;une vibration de la grande
+corde ; &amp; que pendant cette vibration, elle aura
+été troublée par deux vibrations contraires de la
+petite corde, &amp; favorisée par trois vibrations dans le
+même sens, &amp; en général troublée pendant la plus petite 
+moitié des vibrations, &amp; favorisée durant la plus
+grande moitié. Donc une corde qui fait une vibration
+pendant le tems qu&#39;une autre en fait un nombre complet 
+quelconque, est (exactement ou à très-peu près)
+également troublée &amp; également favorisée par celle-ci,
+quel que soit ce nombre. Il n&#39;y a donc pas de raison,
+ce me semble, pour que certaines parties d&#39;air
+soient plus ébranlées que d&#39;autres par le mouvement
+de la corde, à l&#39;exception de celles qui seroient à l&#39;unisson.
+Ainsi, ou les autres ne seront point ébranlées,
+ou elles le seront toutes à-peu-près de même ; &amp; il
+n&#39;en résultera qu&#39;un son simple ou une cacophonie-Enfin, quand il y a plusieurs cordes tendues, &amp; qu&#39;on 
+en fait résonner une, il semble que suivant cette
+hypothèse, celles qui sont à l&#39;octave devroient moins
+frémir &amp; moins résonner que celles qui sont, par
+exemple, à la douzieme ou à la dix-septieme au-dessus ; puisque les vibrations de celles-ci sont plus souvent 
+concourantes avec les vibrations de la corde
+principale, qu&#39;elles ne lui sont contraires ; au lieu
+que les vibrations des cordes à l&#39;octave sont aussi
+souvent contraires que concourantes avec les vibrations 
+de la corde principale. Cependant l&#39;expérience 
+prouve que l&#39;octave résonne davantage : donc
+tout ce système porte à faux.
+</p>
+<p>
+J&#39;ai supposé jusqu&#39;ici, avec les physiciens dont je
+<pb n="7:57" facs="V7/ENC_7-57.jpeg" />
+<milestone unit="column" n="1" />
+parle, qu&#39;en effet les parties de l&#39;air étoient différemment 
+tendues. Il ne s&#39;agit pas ici d&#39;examiner si cette
+hypothèse est fondée ; sur quoi <i>voyez l&#39;article</i> <sc><ref target="head:Son" type="search">Son</ref></sc>:
+il suffit d&#39;avoir montré qu&#39;elle ne peut servir à expliquer 
+d&#39;une maniere satisfaisante le phénomene de
+la multiplicité des sons rendus par une même corde.
+</p>
+<p>
+Quoi qu&#39;il en soit, outre l&#39;accord de la douzieme
+&amp; de la 17<sup>e</sup> majeure donné par la nature, on a formé
+d&#39;autres accords principaux qui entrent aussi dans la
+Musique, &amp; qui y produisent même beaucoup d&#39;effet
+&amp; de variété. On a donné en général à tous ces accords 
+le nom de <i>fondamentaux</i>, parce que tous les autres 
+accords en dérivent, &amp; n&#39;en sont que des renversemens.
+<i>Voyez</i> 
+<sc><ref target="head:Accord" type="search">Accord</ref>, <ref target="head:Basse continue," type="search">Basse continue,</ref> <i>&amp;</i> <ref target="head:Renversement" type="search">Renversement</ref></sc>
+: &amp; dans chacun de ces accords <i>fondamentaux</i>, on a appellé <i>son fondamental</i> le son le plus
+grave de l&#39;accord.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

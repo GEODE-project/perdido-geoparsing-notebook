@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28635" id="51:21" vol="7">
+<index type="head" value="FUSIBILITÉ" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.f." />
+<head>FUSIBILITÉ</head>
+<p>
+FUSIBILITÉ, s. f. c&#39;est cette qualité qui se rencontre 
+dans les métaux &amp; mineraux, qui les dispose
+à la fusion. <i>Voyez</i> <sc><ref target="head:Fusion" type="search">Fusion</ref></sc>.
+</p>
+<p>
+L&#39;or est plus fusible que le fer ou le cuivre, mais
+moins que l&#39;argent, l&#39;étain, ou le plomb. <i>Voyez</i> <sc><ref target="head:Or" type="search">Or</ref>,
+<ref target="head:Argent" type="search">Argent</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+On mele ordinairement du borax avec les métaux
+pour les rendre plus fusibles. <i>Voyez</i> <sc><ref target="head:Borax" type="search">Borax</ref></sc> ; <i>voyez
+aussi</i> 
+<sc><ref target="head:Flux noir" type="search">Flux noir</ref> <i>&amp;</i> <ref target="head:Fondant" type="search">Fondant</ref></sc>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

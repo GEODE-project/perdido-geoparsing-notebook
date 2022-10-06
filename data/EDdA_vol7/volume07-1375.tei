@@ -1,0 +1,424 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28829" id="51:126:1" vol="7">
+<index type="head" value="Gale" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége &amp; Maréchallerie." />
+<index type="normclass" value="Manège | Maréchallerie" />
+<index type="englishclass" value="Horsemanship | Farrier&#39;s art" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Gale</head>
+<p>
+<sc>Gale</sc>, (<i>Manége &amp; Maréchallerie.</i>) maladie prurigineuse 
+&amp; cutanée ; elle se manifeste par une éruption de pustules plus ou moins volumineuses, plus
+ou moins dures, précédées &amp; accompagnées d&#39;une
+plus ou moins grande demangeaison.
+</p>
+<p>
+Nous pouvons admettre &amp; adopter ici la distinction 
+reçûe &amp; imaginée par les Medecins du corps humain,
+c&#39;est-à-dire reconnoitre deux especes de <i>gale ;</i>
+l&#39;une que nous nommerons, à leur imitation, <i>gale seche</i>, &amp; l&#39;autre que nous appellerons <i>gale humide</i>.
+</p>
+<p>
+Les productions pustuleuses qui annoncent la premiere,
+sont en quelque façon imperceptibles ; leur
+petitesse est extrème ; elles suppurent peu &amp; très rarement ; 
+elles provoquent néanmoins la chûte des
+poils dans les lieux qu&#39;elles occupent &amp; qui les environnent ; 
+&amp; le prurit qu&#39;elles excitent est insupportable.
+</p>
+<p>
+Les exanthèmes qui décelent la seconde sont toûjours 
+sensibles ; ils sont plus ou moins élevés, &amp; paroissent 
+comme autant de petits abcès contigus, d&#39;où
+suinte une matiere purulente, dont le desséchement
+forme la sorte de croûte qui les recouvre : dans celle-ci, le sentiment incommode qui résulte de l&#39;irritation 
+des fibres nerveuses répandues dans le tissu de
+<pb n="7:432" facs="V7/ENC_7-432.jpeg" />
+<milestone unit="column" n="1" />
+la peau, n&#39;affecte pas aussi vivement l&#39;animal que
+dans la <i>gale</i> seche, &amp; la demangeaison est beaucoup
+moindre.
+</p>
+<p>
+Nous ne voyons point en général que cette maladie 
+s&#39;étende sur toute l&#39;habitude du corps du cheval ; 
+elle se borne communément à de certaines parties : la <i>gale</i> seche n&#39;en épargne cependant quelquefois 
+aucune : mais cet évenement n&#39;est pas ordinaire ;
+&amp; le plus souvent ses progrès sont limités, tantôt dans
+un espace &amp; tantôt dans un autre.
+</p>
+<p>
+La <i>gale</i> humide attaque l&#39;encolure, la tête, les
+épaules, les cuisses, elle se fixe aussi dans la criniere.
+<i>Voyez</i> <sc><ref target="head:Rouvieux" type="search">Rouvieux</ref></sc> ; &amp; dans le tronçon de la queue.
+<i>Voyez</i> <sc><ref target="head:Eaux" type="search">Eaux</ref></sc>, <i>maladie</i>.
+</p>
+<p>
+Des que la <i>gale</i> n&#39;est point universelle dans les
+chevaux, comme dans l&#39;homme, il est assez inutile
+de multiplier les divisions, &amp; d&#39;assigner, à l&#39;exemple
+des auteurs en Chirurgie, le nom particulier de <i>dartre</i> à telle ou telle <i>gale</i>, sous le prétexte d&#39;un local,
+qui d&#39;ailleurs doit nous être d&#39;autant plus indifférent,
+que toutes ces productions psoriques ne sont,
+à proprement parler, qu&#39;une seule &amp; même maladie,
+que les mêmes causes occasionnent, &amp; dont le même
+traitement triomphe.
+</p>
+<p>
+Bononius séduit par le raisonnement de quelques
+écrivains, a crû devoir s&#39;efforcer d&#39;accréditer leur
+opinion sur le principe essentiel de cette affection cutanée.
+Nous trouvons dans les <i>Transactions philosophiques,
+n°. 283.</i> une description singulierement
+exacte des petits animaux qu&#39;on a supposés y donner
+lieu ; ils y sont représentés sous la forme &amp; sous la
+ressemblance d&#39;une tortue ; le micrographe se flatte
+même d&#39;en avoir découvert &amp; distingué les oeufs:
+mais tous les détails auxquels il s&#39;abandonne, bien
+loin de mettre le fait hors de doute, n&#39;offrent qu&#39;une
+preuve très évidente de la foiblesse de ses sens, de
+la force de ses préjugés, &amp; de son énorme penchant à
+l&#39;erreur.
+</p>
+<p>
+La source réelle &amp; immédiate de la <i>gale</i> réside véritablement 
+dans l&#39;acreté &amp; dans l&#39;épaississement de
+la lymphe : l&#39;un &amp; l&#39;autre de ces vices suffisent à
+l&#39;explication de tous les phénomenes qui assûrent
+l&#39;existence de cette maladie, &amp; qui en différentient
+les especes.
+</p>
+<p>
+Si l&#39;on suppose d&#39;abord que cette humeur soit imprégnée 
+d&#39;une quantité de particules salines qui ne
+peuvent que la rendre acre &amp; corrosive, mais qui
+noyées dans le torrent de la circulation, sont, pour
+ainsi dire dans l&#39;inertie &amp; sans effet : on doit présumer 
+que lorsqu&#39;elle sera parvenue dans les tuyaux
+destinés à l&#39;issue de l&#39;insensible transpiration &amp; de la
+sueur, ces mêmes particules qu&#39;elle y charrie s&#39;y réuniront 
+en masse ; de-la l&#39;engorgement des tuyaux à
+leurs extrémités ; de-là les exanthèmes ou les pustules.
+Plus la lymphe sera ténue, moins les exanthèmes
+seront volumineux &amp; les exulcérations possibles ; l&#39;évaporation 
+en sera plus prompte, elle ne laissera après
+elle nul sédiment, nulle partie grossiere ; les sels plus
+libres &amp; plus dégagés s&#39;exerceront sans contrainte
+sur les fibriles nerveuses ; &amp; tous les symptomes d&#39;une 
+<i>gale</i> seche se manifesteront d&#39;une maniere non
+équivoque. La viscosité est-elle au contraire le défaut 
+prédominant? les engorgemens seront plus considérables,
+les pustules plus saillantes &amp; plus étendues ; &amp; conséquemment le nombre des tuyaux sanguins 
+qui éprouveront une compression, &amp; des canaux 
+blancs qui seront dilatés &amp; forcés, sera plus
+grand. La lymphe arrêtée dans ceux-ci, &amp; subissant
+d&#39;ailleurs un froissement résultant du jeu &amp; de l&#39;oscillation 
+de ceux-là, acquerra inévitablement plus ou
+moins d&#39;acrimonie ; elle corrodera les vaisseaux qui
+la contiennent : cette corrosion sera suivie du suintement 
+d&#39;une matiere purulente, qui jointe à beaucoup
+de parties sulphureuses, sera bien-tôt desséchée par
+<milestone unit="column" n="2" />
+l&#39;air, &amp; ces mêmes parties embarrassant les sels &amp;
+s&#39;opposant à leur activité, leur impression sera plus
+legere. C&#39;est ainsi que la <i>gale</i> humide se forme &amp; se
+montre avec tous les signes qui la caractérisent.
+</p>
+<p>
+Le virus psorique est contagieux ; il se communique 
+par l&#39;attouchement immédiat, par les couvertures,
+les harnois, les étrilles, les brosses, les époussettes, <i>&amp;c.</i> de quelque maniere qu&#39;il soit porté à la
+surface du cuir d&#39;un cheval sain ; il s&#39;y unit, il s&#39;y attache,
+soit par l&#39;analogie qu&#39;il a avec l&#39;humeur perspirante,
+soit par sa ténuité &amp; sa disposition à s&#39;introduire 
+dans les pores. A peine s&#39;y est-il insinué,
+qu&#39;il fomente l&#39;épaississement de la matiere qu&#39;il y
+rencontre ; il y séjourne néanmoins quelque tems
+sans s&#39;y développer sensiblement ; mais la chaleur
+naturelle &amp; le mouvement des vaisseaux artériels excitant 
+ensuite son action, nous appercevons bien-tôt
+des pustules qui se renouvellent &amp; se reproduisent,
+selon qu&#39;il a pénétré dans la masse. Nous devons donc
+regarder les parties salines exhalées du corps du cheval 
+galeux par la transpiration &amp; par la sueur, ou
+contenues dans l&#39;humeur suppurée qui flue des
+exanthèmes, comme la cause prochaine externe de
+la maladie dont il s&#39;agit.
+</p>
+<p>
+Tout ce qui peut troubler la dépuration des sucs
+vitaux, donner lieu à la corruption des humeurs, &amp;
+leur imprimer des qualités plus ou moins pernicieuses,
+doit être mis au rang de ses causes éloignées:
+ainsi de mauvais fourrages, qui ne fournissent qu&#39;un
+chyle crud &amp; mal digéré; des travaux qui occasionnent 
+une dissipation trop forte ; le défaut des alimens
+nécessaires à la réparation des fluides &amp; à l&#39;entretien
+de la machine ; un air humide &amp; froid qui rallentit
+la marche circulaire ; l&#39;omission du pansement ; &amp; en
+conséquence le séjour d&#39;une crasse épaisse qui obstrue
+&amp; bouche les pores cutanés, sont autant de circonstances 
+auxquelles on peut rapporter ces différentes
+éruptions.
+</p>
+<p>
+Quoiqu&#39;elles nous indiquent toûjours un vice dans
+la masse, elles ne présagent néanmoins rien de dangereux ; 
+&amp; les suites n&#39;en sont point funestes, pourvû
+que le traitement soit méthodique, &amp; que l&#39;on attaque 
+le mal dans sa source &amp; dans son principe.
+</p>
+<p>
+Il est quelquefois critique &amp; salutaire ; car il débarrasse 
+le sang de quantité de parties salines &amp; hétérogenes 
+qui auroient pû donner lieu à des maux
+plus formidables : nous remarquons même très-souvent dans les chevaux qui n&#39;ont jetté qu&#39;imparfaitement, que la nature cherche â suppléer &amp; supplee
+en effet par cette voie à l&#39;impuissance dans laquelle
+elle a été d&#39;opérer une dépuration entiere &amp; nécessaire,
+par les émonctoires qui dans l&#39;animal semblent 
+particulierement destinés à l&#39;écoulement de
+l&#39;humeur &amp; de la matiere dont le flux décele communément 
+la gourme.
+</p>
+<p>
+La <i>gale</i> seche est plus rébelle &amp; plus difficile à
+dompter que la <i>gale</i> humide ; des sucs acres &amp; lixiviels 
+ne sont point aisément délayés, corrigés, emportés : elle attaque plus ordinairement les chevaux
+d&#39;un certain âge &amp; les chevaux entiers, que les chevaux 
+jeunes &amp; que les chevaux hongres ; les premiers
+à raison de la prédominance des sels, de la plus
+grande force &amp; de la plus grande rigidité de leurs fibres ; 
+les seconds conséquemment sans doute au repompement 
+de l&#39;humeur séminale, qui passant en trop
+grande abondance dans le sang, peut l&#39;échauffer &amp; exciter 
+l&#39;acrimonie, lorsqu&#39;ils ne servent aucune jument ;
+ou à raison de l&#39;acreté qui est une suite de l&#39;apauvrissement 
+de la masse, lorsqu&#39;ils en servent un trop grand
+nombre. Nous dirons aussi que dans la jeunesse elle
+cede plus facilement aux remedes, parce qu&#39;il est certain 
+qu&#39;alors la transpiration est plus libre, les pores
+de la peau plus ouverts &amp; les fibres plus souples.
+</p>
+<p>
+La <i>gale</i> humide résiste moins à nos efforts : sa principale<gap type="hyphenpb" />
+<pb n="7:433" facs="V7/ENC_7-433.jpeg" />
+<milestone unit="column" n="1" />
+cause consistant dans l&#39;épaississement, &amp; non
+dans un vice capable d&#39;entretenir un levain, une salure 
+qui pervertit les nouveaux sucs à mesure qu&#39;il
+en aborde &amp; qu&#39;il s&#39;en forme : si les jeunes chevaux
+y sont réellement plus sujets, c&#39;est qu&#39;en eux le tissu
+des solides est moins fort &amp; moins propre à atténuer
+les fluides.
+</p>
+<p>
+Nous observerons encore que toute maladie
+exanthémateuse prise par contagion, qui n&#39;adhere
+qu&#39;à la surface du corps, &amp; qui n&#39;a pas poussé, s&#39;il
+m&#39;est permis de m&#39;exprimer ainsi, de profondes racines,
+n&#39;est point aussi opiniâtre que celle qui doit
+son existence à la dépravation du sang &amp; des humeurs ; 
+&amp; l&#39;expérience prouve qu&#39;une <i>gale</i> récente
+est plus susceptible de guérison qu&#39;une <i>gale</i> ancienne
+&amp; invéterée.
+</p>
+<p>
+Pour ne point errer dans la maniere de traiter l&#39;affection 
+cutanée dont il est question, il est important
+d&#39;en considérer l&#39;espece, &amp; de n&#39;en pas perdre de
+vûe la cause &amp; le principe.
+</p>
+<p>
+Dans la <i>gale</i> seche notre objet doit être d&#39;adoucir,
+de briser, d&#39;évacuer les sels, de relâcher le tissu de
+la peau. Dans la <i>gale</i> humide, nous devons chercher
+à atténuer les particules salines &amp; sulphureuses dont
+elle se charge, à favoriser enfin la transpiration. Si
+la maladie participe en même tems &amp; de l&#39;épaississement 
+&amp; de l&#39;acrimonie, le maréchal y aura égard &amp;
+tiendra un juste milieu dans le choix &amp; dans l&#39;administration 
+des médicamens.
+</p>
+<p>
+Son premier som sera de séparer le cheval malade
+des autres chevaux, &amp; de le placer dans une écurie
+particuliere ; non que j&#39;imagine que le virus psorique 
+soit assez subtil pour s&#39;étendre de lui-même d&#39;un
+lieu à un autre, &amp; pour se communiquer ainsi : mais
+cette précaution devient essentielle, lorsque l&#39;on réfléchit 
+sur la facilité de la contagion par les harnois
+&amp; par les couvertures, &amp; sur la paresse ainsi que sur
+l&#39;imprudence des palefreniers.
+</p>
+<p>
+La saignée est nécessaire dans tous les cas : elle sera
+même répétée dans le besoin : dans tous les cas aussi
+on doit tenir l&#39;animal au son &amp; à l&#39;eau blanche, &amp;
+jetter dans cette même eau une décoction émolliente
+faite avec les feuilles de mauve, de guimauve, pariétaire,
+<i>&amp;c.</i> Ce régime sera observé plus long-tems
+par le cheval atteint d&#39;une <i>gale</i> seche, que par celui
+qui sera atteint d&#39;une <i>gale</i> humide : on purgera ensuite 
+l&#39;animal une ou plusieurs fois avec le séné, l&#39;aloës,
+l&#39;<i>aquila alba</i> ou le mercure doux, après l&#39;avoir
+néanmoins préparé à cette purgation par des lavemens 
+émolliens : on en reviendra à l&#39;usage de la décoction 
+émolliente ; &amp; s&#39;il s&#39;agit de la premiere espece 
+de <i>gale</i>, on humectera soir &amp; matin le son, que l&#39;on
+donnera au cheval avec une tisanne composée dans
+laquelle entreront les racines de patience, de chicorée 
+sauvage, d&#39;althaea, &amp; les feuilles de scabieuse, de
+fumeterre, <i>&amp;c.</i> S&#39;il refuse de manger le son ainsi humecté,
+on pourra lui donner cette boisson avec la
+corne : j&#39;y ai plusieurs fois heureusement substitué des
+feuilles de grosse laitue que je trempois dans du lait,
+&amp; que l&#39;animal mangeoit avec avidité. Dans la circonstance 
+d&#39;une <i>gale</i> humide, on mouillera le son
+avec une décoction de gayac &amp; de salsepareille, en
+mêlant à cet aliment des fleurs de genêt, &amp; une demi-once de <i>crocus metallorum</i>. Le soufre, le cinnabre
+naturel, l&#39;aethiops minéral, les poudres de viperes,
+de cloportes, de chamaedris &amp; de fumeterre donnés à
+tems &amp; administrés avec circonspection, sont d&#39;une
+très-grande ressource contre toutes sortes de <i>gales:</i>
+celles qui sont les plus rébelles &amp; les plus invétérées
+disparoissent souvent lorsque l&#39;on abandonne l&#39;animal
+dans les prairies, &amp; qu&#39;il est réduit au vert pour tout
+aliment ; les plantes différentes qu&#39;il y rencontre &amp;
+dont il le nourrit excitant d&#39;abord des évacuations
+copieuses &amp; salutaires, &amp; fournissant ensuite à la
+<milestone unit="column" n="2" />
+masse des sucs plus doux capables d&#39;amortir l&#39;acreté
+des humeurs.
+</p>
+<p>
+La plûpart des Maréchaux ne font que trop souvent 
+un usage très-mal entendu des topiques, sans
+doute parce qu&#39;ils n&#39;en connoissent pas le danger : il
+est inutile néanmoins de chercher dans Agendornius, dans Hoechstellerus &amp; dans une foule d&#39;auteurs
+qui traitent des maladies de l&#39;homme, quels en sont
+les funestes effets. La matiere morbifique répercutée
+&amp; poussée de la circonférence au centre, produit
+dans le corps de l&#39;animal des desordres terribles, &amp;
+dont ils ont sûrement été les témoins sans s&#39;en appercevoir 
+&amp; sans s&#39;en douter : j&#39;ai vû ensuite d&#39;une pareille 
+répercussion des chevaux frappés d&#39;apoplexie,
+de phthisie, atteints d&#39;un abcès dans les reins, &amp; de
+plusieurs autres maux qui les conduisoient à la mort.
+On ne doit donc recourir aux remedes extérieurs qu&#39;avec 
+prudence, &amp; qu&#39;après avoir combattu la cause.
+</p>
+<p>
+Je ne ferai point une ample énumération des onguens,
+des lotions, des linimens que l&#39;on peut employer ; 
+il suffira de remarquer ici que le soufre &amp;
+ses préparations sont d&#39;une efficacité non moins merveilleuse 
+en cosmétiques que donnés intérieurement.
+On peut faire un mélange de ses fleurs avec la chaux,
+&amp; incorporer le tout avec suffisante quantité d&#39;huile
+d&#39;olive : ces mêmes fleurs, l&#39;onguent de nicotiane,
+l&#39;<i>aquila alba</i>, &amp; l&#39;huile d&#39;hypéricon, composeront
+un liniment dont on retirera de très-grands avantages ; 
+l&#39;aethiops minéral mêlé avec du sain-doux, ne
+sera pas moins salutaire, <i>&amp;c.</i> on en met sur toutes
+les parties que les exanthèmes occupent.
+</p>
+<p>
+On doit encore avoir attention que le cheval ne
+se frotte point contre les corps quelconques qui l&#39;environnent ; 
+ce qui exciteroit une nouvelle inflammation,
+obligeroit le sang de s&#39;insinuer dans les petits
+canaux lymphatiques, &amp; donneroit bien-tôt lieu
+à une suppuration. Du reste, si le tems &amp; la saison
+sont propices, on menera, après la disparition des
+pustules, l&#39;animal à la riviere ; les bains ne pouvant
+que relâcher &amp; détendre les fibre cutanées ; &amp; il
+importe extrèmement de l&#39;éloigner par un régime
+convenable, de tout ce qui peut susciter &amp; reproduire 
+en lui cette maladie. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

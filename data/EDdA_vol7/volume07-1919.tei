@@ -1,0 +1,106 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29373" id="52:158:6" vol="7">
+<index type="head" value="Genou" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Arts méchaniques." />
+<index type="normclass" value="Art méchanique" />
+<index type="englishclass" value="Mechanical arts" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="s.m." />
+<head>Genou</head>
+<p>
+<sc>* Genou</sc>, s. m. (<i>Arts méchaniques.</i>) espece d&#39;assemblage 
+de pieces de fer, de cuivre, de bois, <i>&amp;c.</i>
+dont le nom a été pris de la nature du mouvement
+des pieces assemblées. Si un corps concave est fixe
+&amp; se meut sur un corps convexe emboîté dans sa
+cavité, ces corps sont assemblés &amp; se meuvent à <i>genou</i>. Quelquefois on limite ce mouvement ; en d&#39;autres 
+occasions on lui laisse toute l&#39;étendue qu&#39;il peut
+avoir. Le mouvement à <i>genou</i> est très-doux, &amp; l&#39;arrêt 
+en est solide, parce qu&#39;il dépend de l&#39;application
+exacte de deux surfaces.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

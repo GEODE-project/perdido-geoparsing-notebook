@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29589" id="53:90" vol="7">
+<index type="head" value="GIRASOL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Lapid." />
+<index type="normclass" value="Lapidaire" />
+<index type="englishclass" value="Lapidary" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GIRASOL</head>
+<p>
+GIRASOL, s. m. (<i>Lapid.</i>) pierre à demi-transparente, d&#39;un blanc laiteux mêlé de bleu &amp; de jaune.
+On la met au rang des pierres précieuses, &amp; on
+croit qu&#39;elle est de la même pâte que l&#39;opale, quoiqu&#39;elle n&#39;ait pas les brillantes couleurs de cette belle
+pierre. <i>Voyez</i> <sc><ref target="head:Opale" type="search">Opale</ref></sc>. En effet j&#39;ai observé dans un
+morceau de mine d&#39;opale, qui est au cabinet du roi,
+quelques parties très-ressemblantes au <i>girasol</i>, placées 
+près des parties d&#39;opale. Cependant on prétend
+aussi que le vrai <i>girasol</i> est plus dur que l&#39;opale, &amp;
+d&#39;une pâte plus pure que celle de l&#39;opale qui n&#39;a pas
+de belles couleurs, &amp; que l&#39;on appelle <i>fausse opale</i>.
+Je ne doute pas qu&#39;il n&#39;y ait des <i>girasols</i> plus ou moins
+durs &amp; plus ou moins nets ; mais il me paroît que
+l&#39;on peut donner ce nom à toutes pierres vitrifiables
+demi-transparentes, de belle pâte, &amp; de couleur
+mêlée de blanc laiteux &amp; de jaune ; lorsqu&#39;elles sont
+taillées en globe ou en demi-globe, on y voit un point
+brillant qui change de place, quand on change la position 
+de la pierre ; c&#39;est pourquoi les Italiens leur ont
+donné le nom de <i>girasol</i>. Ainsi la fausse opale, c&#39;est-à-dire l&#39;opale qui n&#39;a que des teintes de bleu &amp; de jaune,
+peut être nommée <i>girasol</i>, &amp; la calcédoine pourroit 
+aussi être prise pour un <i>girasol</i>, lorsqu&#39;elle est
+nette &amp; teinte de bleu ou de jaune, car elle a tous
+les caracteres du <i>girasol. Voy.</i> <sc><ref target="head:Calcédoine" type="search">Calcédoine</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

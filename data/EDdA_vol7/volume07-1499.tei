@@ -1,0 +1,153 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28953" id="51:214" vol="7">
+<index type="head" value="GANTELET" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="s.m." />
+<head>GANTELET</head>
+<p>
+GANTELET, s. m. <i>terme de Chirurgie</i>, bandage qui
+enveloppe la main &amp; les doigts comme un gant, d&#39;où
+vient son nom ; il est de deux sortes, le <i>gantelet</i> entier 
+&amp; le demi-<i>gantelet</i>.
+</p>
+<p>
+Le <i>gantelet</i> entier se fait avec une bande large d&#39;un
+pouce, longue de quatre à cinq aunes, roulée à un
+chef. On arrête d&#39;abord la bande par deux circulaires,
+autour du poignet ; on la passe obliquement sur
+le métacarpe, &amp; l&#39;on enveloppe les doigts successivement 
+l&#39;un aprés l&#39;autre par des doloires, depuis le
+bout jusqu&#39;en haut, en faisant des croisées sur les articulations 
+des premieres phalanges avec le métacarpe,
+&amp; des renversés où il est nécessaire, pour éviter les godets ; ensuite on arrête la bande autour du
+poignet.
+</p>
+<p>
+Ce bandage est en usage dans les luxations &amp; les
+fractures des doigts, pour les maintenir réduits ; &amp;
+dans les brûlures, pour les empêcher de s&#39;unir &amp; de
+se cicatriser ensemble.
+</p>
+<p>
+Le demi-<i>gantelet</i> ne differe du précédent, qu&#39;en ce
+qu&#39;il n&#39;enveloppe que les premieres phalanges des
+doigts.
+</p>
+<p>
+Ces bandages font un assez bel effet sur une main
+saine, par les circonvolutions symmétriques de la
+bande ; mais ils sont fort embarrassans à faire sur une
+main malade &amp; douloureuse. C&#39;est principalement à
+l&#39;occasion du <i>gantelet</i>, qu&#39;on peut rapporter le precepte 
+général qu&#39;Hippocrate nous a donné dans son
+traité <i>de officinâ medici</i>.
+</p>
+<p>
+<blockquote> 
+« Le bandage le plus propre &amp; le plus convenable
+est celui qui donne beaucoup de soulagement au
+malade, &amp; qui aide beaucoup le chirurgien : toute
+sa science consiste principalement à savoir serrer
+où il faut &amp; lâcher où il faut, mais on doit sur-tout
+avoir égard à la saison, pour voir s&#39;il faut couvrir
+ou non, c&#39;est-à-dire mettre des linges &amp; des compresses 
+sous les bandes, &amp; faire un bandage serré
+ou lâche, afin qu&#39;on ne peche point en couvrant
+&amp; en serrant une partie foible trop ou trop peu. Il
+faut mépriser les bandages ajustés &amp; qui ne sont
+faits que pour l&#39;ostentation &amp; pour la pompe ; car ils
+sont ridicules &amp; sentent le charlatan : souvent même 
+ils font beaucoup de tort aux malades ; &amp; il
+faut se souvenir que les malades cherchent du secours 
+&amp; non pas de l&#39;ornement ».
+</blockquote>
+(<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

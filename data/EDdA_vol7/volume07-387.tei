@@ -1,0 +1,107 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27841" id="49:77" vol="7">
+<index type="head" value="FORTUNÉES Isles-" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>FORTUNÉES</head>
+<p>
+FORTUNÉES, (<sc>Isles-</sc>) <i>Géog. anc</i>. Les anciens
+décrivent ces iles comme situées au-delà du détroit
+de Gibraltar, dans l&#39;Océan atlantique ; on les regarde 
+ordinairement chez les modernes comme les iles
+Canaries : &amp; cette opinion est fondée principalement 
+sur la situation &amp; la température de ces iles,
+&amp; sur l&#39;abondance d&#39;oranges, de limons, de raisins,
+&amp; de beaucoup d&#39;autres fruits délicieux qui y croissent 
+Les oranges étoient sans doute les <i>mala aurea</i>
+qui croissoient, selon les anciens, dans les <i>îles fortunées</i>.
+</p>
+<p>
+Il est assez vraissemblable que ces iles sout le reste 
+de la fameuse atlantique de Platon. <i>Voyez</i> <sc><ref target="head:Atlantique" type="search">Atlantique</ref> <i>&amp;</i> <ref target="head:Canaries" type="search">Canaries</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

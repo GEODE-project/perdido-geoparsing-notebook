@@ -1,0 +1,153 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29230" id="52:63:1" vol="7">
+<index type="head" value="Gaze de Cos" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc. des Arts." />
+<index type="normclass" value="Histoire ancienne des Arts" />
+<index type="englishclass" value="Ancient history of the arts" />
+<index type="generatedclass" value="Gazier" />
+<index type="pos" value="NA" />
+<head>Gaze de Cos</head>
+<p>
+<sc>Gaze de Cos</sc>, (<i>Hist. anc. des Arts.</i>) <i>coa vestis</i>,
+<milestone unit="column" n="2" />
+dans Tibulle &amp; dans Properce, qui dit, <i>&amp; tenues cod
+veste movere sinus:</i> Horace l&#39;appelle <i>coa purpura</i>. Cette
+<i>gaze</i> avoit été inventée par une femme nommée <i>Pamphila</i> ; car, selon la remarque de Pline, il ne faut pas
+frustrer cette femme de la gloire qui lui appartient,
+d&#39;avoir trouvé ce merveilleux secret de faire que les
+habits montrent les femmes toutes nues, <i>non fraudanda 
+gloria excogitatae rationis, ut denudet feminas vestis</i>,
+hist. nat. <i>libr XI. cap. xxij</i>.
+</p>
+<p>
+En effet, cette étoffe étoit si déliée, si transparente,
+qu&#39;elle laissoit voir le corps comme à nud ; c&#39;est
+pourquoi Varron appelloit les habits qui en étoient
+faits, <i>vitreas togas:</i> Publius Syrus les nomme joliment 
+<i>ventum textilem</i>, du vent tissu, &amp; <i>nebulam lineam</i>, une nuée de lin ; <i>aequum est</i>, dit-il, <i>induere nuptam 
+ventum textilem, &amp; palàm prostare nudam in nebulâ 
+lineâ?</i>
+<blockquote> 
+« Est-il honnête qu&#39;une femme mariée porte »
+</blockquote>
+des habits de vent, &amp; paroisse nue sous une nuée
+de lin? Cependant les femmes &amp; les filles d&#39;Orient,
+&amp; en particulier celles de Jérusalem, étoient vêtues
+d&#39;habits semblables à la <i>gaze de Cos</i>, &amp; qu&#39;Isaïe nomme 
+<foreign lang="greek">διαφανῆ Λακωνικὰ</foreign>, <i>interlucentes laconicas</i>.
+</p>
+<p>
+On faisoit la <i>gaze de Cos</i> d&#39;une soie très-fine qu&#39;on
+teignoit en pourpre avant que de l&#39;employer, parce
+qu&#39;après que la <i>gaze</i> étoit faite, elle n&#39;avoit pas assez 
+de corps pour souffrir la teinture ; c&#39;étoit à Misiras, aujourd&#39;hui Mascari, tout auprès de l&#39;île de Cos,
+qu&#39;on pêchoit les huîtres qui produisoient cette pourpre 
+dont on teignoit la <i>gaze</i>, pour en rendre encore
+les habits plus precieux.
+</p>
+<p>
+Il est vrai qu&#39;il n&#39;y avoit dans les commencemens
+que les courtisanes qui osassent mettre à Rome de
+tels habits ; mais les honnêtes femmes ne tarderent
+pas à les imiter ; la mode en subsistoit même encore
+du tems de S. Jérôme : car écrivant à Loeta sur l&#39;éducation 
+de sa fille, il recommande <i>ut talia vestimenta
+paret quibus pellatur frigus, non quibus vestita corpora
+nudentur</i>.
+</p>
+<p>
+Horace dans une de ses odes, <i>ode 13. liv. IV.</i> traite
+Lycé, une de ses anciennes maîtresses, de ridicule,
+de ce qu&#39;elle portoit des habits transparens de Cos,
+pour faire la jeune : <i>nec coae referunt jam tibi purpurae ;</i>
+<blockquote> 
+« croyez-moi, lui dit il, ces habits de <i>gaze de Cos</i> ne
+vous conviennent plus ».
+</blockquote>
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

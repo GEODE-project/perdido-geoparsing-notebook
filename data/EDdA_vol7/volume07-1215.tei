@@ -1,0 +1,191 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28669" id="51:37:1" vol="7">
+<index type="head" value="Fuyard, (de milice)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="art milit. " />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Fuyard</head>
+<p>
+<sc>Fuyard</sc>, (<i>de milice</i>) <i>art milit.</i> ce mot pris substantivement,
+signifie un <i>sujet miliciable</i>, qui ayant
+été averti de se rendre au jour indiqué pardevant le
+commissaire préposé à la levée de la milice, pour y
+tirer au sort, &amp; qui ayant négligé ou refusé de s&#39;y
+trouver, a été déclaré <i>fuyard</i> par le procès-verbal
+du tirage de la milice, sur la dénonciation du syndic
+ou des garçons de la communauté.
+</p>
+<p>
+Les garçons ou hommes mariés miliciables qui
+tombent dans ce cas, doivent être poursuivis &amp; contraints 
+de servir pendant dix ans, à la décharge de
+ceux auxquels le sort est échû, &amp; qui les arrêtent,
+ou des communautés qui ont des miliciens à fournir.
+</p>
+<p>
+Ceux qui pour raisons légitimes ne peuvent se présenter 
+à la levée, doivent commettre une personne,
+à l&#39;effet de déclarer les causes de leur absence, &amp; de
+tirer pour eux, à peine d&#39;être déclarés <i>fuyards</i>.
+</p>
+<p>
+Ceux qui sont engagés pour entrer par la suite
+dans un état qui doit les exempter du service de la
+milice, ne sont pas pour cela exempts de tirer au
+sort.
+</p>
+<p>
+Ceux qui se prétendent engagés dans les troupes,
+doivent en justifier par certificats des officiers qui ont
+reçû leurs engagemens, &amp; cependant joindre sans
+délai leurs régimens, sans pouvoir reparoître dans
+la province, même avec congé, qu&#39;ils ne justifient
+qu&#39;ils ont joint leurs corps &amp; passé en revûe, à peine
+d&#39;être arrêtés &amp; mis en prison pour six mois, &amp; condamnés <gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de servir dans la milice pendant dix ans ; ils
+encourent la même peine si après avoir joint ils restent 
+plus de six mois dans la province.
+</p>
+<p>
+Ceux qui ont été déclarés <i>fuyards</i> ne sont plus reçûs 
+à tirer au sort, ni déchargés de cette qualité, au
+cas que par surprise ou autrement, ils parviennent
+à s&#39;y faire admettre.
+</p>
+<p>
+Les <i>fuyards</i> arrêtés sont présentés au commissaire
+chargé de la levée, &amp; par lui constitués miliciens.
+</p>
+<p>
+Les <i>fuyards</i> constitués milicens, doivent servir
+dans la milice pendant dix ans, n&#39;ont pas le droit d&#39;en
+faire constituer d&#39;autres en leur place, &amp; sont sujets,
+comme tout autre milicien, aux peines des ordonnances 
+concernant le service de la milice.
+</p>
+<p>
+Ceux qui pretendent avoir des raisons valables
+pour se faire décharger de la qualité de <i>fuyard</i>, doivent 
+les exposer à l&#39;intendant de la province, qui y
+prononce suivant le mérite de la demande.
+</p>
+<p>
+Tous ces moyens violens employés pour forcer
+des citoyens à embrasser un état pénible &amp; souvent
+dangereux, auquel leurs inclinations répugnent,
+semblent attaquer les droits de la nature &amp; de la société; 
+mais on abandonnera cette opinion, si l&#39;on
+veut bien considérer que dans tout état l&#39;intérêt général 
+est le fondement &amp; la mesure de ces droits ;
+que l&#39;homme est à la société ce que la société est à lui ;
+qu&#39;il lui doit les mêmes secours relatifs qu&#39;il peut en
+prétendre pour sa conservation &amp; son bonheur, &amp;
+que tout individu dans un corps politique ne peut en
+être regardé que comme ennemi, quand il lui refuse
+ces secours, &amp; qu&#39;il sacrifie la chose publique à son
+avantage particulier.
+</p>
+<p>
+Il y a autant de moyens de servir la patrie, que
+de classes différentes de citoyens ; celui du service
+de la milice est un des plus nécessaires, &amp; en même
+tems des plus onéreux aux sujets ; le bien général &amp;
+particulier exigent que la charge en soit répartie sur
+le plus grand nombre d&#39;hommes possible, préférablement 
+sur ceux qui n&#39;ont pas d&#39;état, d&#39;industrie,
+ou fonctions essentielles pour la société, &amp; que le
+législateur sévisse contre ceux qui, sans raisons légitimes,
+cherchent à s&#39;y soustraire par des moyens
+frauduleux. <i>Voyez</i> <sc><ref target="head:Levée des Troupes" type="search">Levée des Troupes</ref></sc>. <i>Cet article
+est de M. <sc><ref target="head:Duriv al" type="search">Duriv al</ref></sc> le jeune</i>.
+<milestone unit="column" n="0" />
+<gap type="image" />
+<pb n="7:407" facs="V7/ENC_7-407.jpeg" />
+<milestone unit="column" n="1" />
+<gap type="image" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

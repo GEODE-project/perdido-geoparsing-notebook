@@ -1,0 +1,180 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28009" id="49:140:2" vol="7">
+<index type="head" value="Fourmi, oeufs de " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. natur." />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fourmi</head>
+<p>
+<sc>Fourmi</sc>, <i>oeufs de</i>-(<i>Hist. natur.</i>) c&#39;est le nom populaire 
+qu&#39;on donne à ces petites boules blanches
+qu&#39;on trouve dans les nids &amp; cellules de <i>fourmis</i>, &amp;
+qu&#39;on suppose communément être les oeufs de cet insecte ; 
+faute d&#39;avoir considéré que ces oeufs sont plus
+gros que l&#39;animal même qui leur auroit donné naissance.
+</p>
+<p>
+Cette idée vulgaire n&#39;est donc qu&#39;une erreur grossiere.
+Aussi les naturalistes modernes ont démontré
+que ce ne sont pas là de purs &amp; simples oeufs de <i>fourmis</i>, mais les jeunes <i>fourmis</i> même emmaillottées
+dans leur premier état d&#39;accroissement ; ou plûtôt ce
+sont tout autant de petits vers enveloppés dans une
+coque très-mince composée d&#39;une espece de soie que
+les <i>fourmis</i> tirent de leurs corps, comme font les
+vers-à-soie &amp; les chenilles.
+</p>
+<p>
+Ces vermisseaux semblent à-peine remuer dans ce
+premier état ; mais au bout de peu de jours, ils montrent 
+de foibles mouvemens de flexion &amp; d&#39;extension:
+alors ils commencent à paroître comme autant de fils
+jaunâtres, &amp; croissent sous cette apparence, jusqu&#39;à
+ce qu&#39;ils ayent atteint la grosseur naturelle de la
+<i>fourmi:</i> ensuite lorsqu&#39;ils ont subi leur métamorphose,
+ils se présentent sous la forme de <i>fourmi</i>, avec
+une petite tache noire près de l&#39;anus. Leuwenhoek
+croit que cette tache est l&#39;excrément que l&#39;insecte a
+rendu par cette partie.
+</p>
+<p>
+Le docteur King a ou vert plusieurs de ces prétendus 
+oeufs ; &amp; tantôt il a vû le vermisseau dans sa premiere 
+origine, &amp; tantôt il a trouvé que ce vermisseau
+avoit déjà commencé de revêtir la forme d&#39;une <i>fourmi</i>, montrant sur la tête deux petites taches jaunes
+à l&#39;endroit des yeux, &amp; quelquefois ayant déjà ses
+yeux aussi noirs que du jayet. Enfin il a souvent trouvé 
+sous l&#39;enveloppe transparente les <i>fourmis</i> parvenues 
+à leur état de perfection, &amp; courant immédiatement 
+après au milieu des autres <i>fourmis</i>.
+</p>
+<p>
+Les oeufs dont nous venons de faire l&#39;histoire, sont
+portés par les <i>fourmis</i> chaque matin en été au haut
+de leurs fourmilieres, où les meres les laissent pendant 
+la chaleur du jour à l&#39;exposition du soleil : mais
+dans les nuits fraîches, ou lorsqu&#39;elles craignent la
+pluie, elles les transportent au fond de la fourmiliere,
+&amp; si avant, qu&#39;on peut creuser jusqu&#39;à la profondeur 
+d&#39;un pié sans les rencontrer. Quand on renverse 
+ces fourmilieres, on voit toutes les <i>fourmis</i> occupées 
+à pourvoir à la sûreté des oeufs qui renferment 
+leurs petits ; elles les emportent en terre hors
+de la vûe, &amp; recommencent cet ouvrage tout autant
+de fois qu&#39;on cherche à les déranger : ce sont-là les
+oeufs qui font la nourriture délicieuse de plusieurs
+oiseaux, entr&#39;autres des rossignols, des jeunes faisans,
+&amp; des perdrix.
+</p>
+<p>
+Les vrais oeufs de <i>fourmi</i> sont une substance blanche,
+tendre, délicate, douce au toucher, &amp; qui en
+ouvrant leurs nids, brille à l&#39;oeil comme les petits
+crystaux de sels, ou les brillans d&#39;un sucre blanc rafiné.
+Cette substance vûe au microscope, paroît figurée 
+comme de petits oeufs transparens, &amp; formée
+de pellicules distinctes. On trouve cette même substance 
+dans le corps des <i>fourmis</i> femelles qu&#39;on disseque ; 
+&amp; c&#39;est proprement leur frai : quand ce frai
+est jetté sur terre, ce qui se fait par les meres à la
+maniere des mouches, on voit les <i>fourmis</i> accourir
+en nombre pour le couver ; &amp; au bout de quelques
+jours, il est changé en vermisseau de la grosseur d&#39;une 
+mite.
+</p>
+<p>
+Leuwenhoek a tracé le premier très-exactement
+le progrès de la génération, de l&#39;accroissement, &amp;
+de la metamorphose des <i>fourmis</i>. On en peut lire l&#39;extrait 
+dans la <i>biblioth. univers. tome XI. Voyez aussi les
+Transactions philosophiques, n°. 23. p. 426</i>. Swammerdam<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+<i>biblia naturoe</i>, &amp; l&#39;<i>article</i> <sc><ref target="head:Fourmi" type="search">Fourmi</ref></sc>, (<i>Hist.
+nat.</i>) (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

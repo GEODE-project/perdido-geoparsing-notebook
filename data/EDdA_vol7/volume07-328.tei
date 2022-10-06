@@ -1,0 +1,154 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27782" id="49:48:1" vol="7">
+<index type="head" value="Formées, (Lettres)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="NA" />
+<head>Formées, (Lettres</head>
+<p>
+<sc>Formées, (Lettres</sc>) <i>litterae formatae ;</i> on appelloit 
+ainsi des lettres dont l&#39;usage a été commun parmi 
+les Chrétiens dans les premiers siecles de l&#39;Eglise,
+<pb n="7:182" facs="V7/ENC_7-182.jpeg" />
+<milestone unit="column" n="1" />
+parce qu&#39;on y mettoit, au commencement ou à la fin,
+certains caracteres particuliers &amp; convenus entre les
+églises particulieres, pour donner confiance à ce
+qu&#39;elles contenoient &amp; à ceux qui en étoient porteurs.
+</p>
+<p>
+Les évêques donnoient de ces <i>lettres formées</i> aux
+voyageurs, afin qu&#39;ils fussent reconnus pour Chrétiens, &amp; reçûs dans les autres églises : on les appelloit 
+aussi <i>lettres canoniques de paix, de recommandation,
+de communion:</i> il en est souvent parlé dans les anciens 
+conciles, où il est défendu de recevoir un clere
+dans une église, s&#39;il n&#39;est muni d&#39;une lettre de son
+évêque ; &amp; c&#39;est l&#39;origine des dimissoires encore en
+usage aujourd&#39;hui. <i>Voyez</i> <sc><ref target="head:Dimissoire" type="search">Dimissoire</ref></sc>.
+</p>
+<p>
+Le concile d&#39;Elvire, tenu vers l&#39;an 305, en parle
+ainsi, <i>canon 25:</i>
+<blockquote> 
+« On donnera seulement des lettres 
+de communion à ceux qui apporteront des
+lettres de confession, de peur qu&#39;ils n&#39;abusent du
+nom glorieux de <i>confesseurs</i>, pour exercer des concussions 
+sur les simples ».
+</blockquote>
+Sur quoi M. Fleury remarque 
+que les Chretiens en voyage prenoient ces
+lettres de leurs évêques, pour témoigner qu&#39;ils
+étoient dans la communion de l&#39;Eglise. S&#39;ils avoient
+confessé la foi devant les persécuteurs, on le marquoit ; 
+&amp; quelques-uns en abusoient. Par ces mêmes
+lettres les Eglises pouvoient être informées de l&#39;état
+les unes des autres. Il étoit defendu aux femmes de
+donner de ces lettres en leur nom, ni d&#39;en recevoir
+adressées à elles seules. <i>Hist. eccles. tom. II. liv. IX.
+n°. xv. pag. 553</i>.
+</p>
+<p>
+Le pere Thomassin, <i>discipl. ecclésiastiq. part. I. liv.
+I. ch. xl.</i> remarque que dans les premiers tems les
+evêques des Gaules eux-mêmes ne pouvoient voyager 
+sans avoir de ces <i>lettres formées</i>, qui leur étoient
+données par les métropolitains ; mais on supprima
+cet usage au concile de Vannes, tenu en 442, parce
+qu&#39;alois les évêques étoient censés se connoître suffisamment.
+Le P. Sirmond nous a conservé des formules 
+de ces <i>lettres formées</i>.
+</p>
+<p>
+On appelloit aussi une <i>loi formée</i>, celle qui étoit
+scellée du sceau de l&#39;empereur. Et enfin les Grecs
+modernes ont donné à l&#39;eucharistie le nom de <i>formée</i>, parce que les hosties portoient empreinte la
+forme d&#39;une croix. Ducange, <i>glossar. latinit</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

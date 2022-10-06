@@ -1,0 +1,185 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29305" id="52:123" vol="7">
+<index type="head" value="GÉNÉRAL D&#39;ARMÉE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>GÉNÉRAL</head>
+<p>
+GÉNÉRAL D&#39;ARMÉE, (<i>Hist anc.</i>) chef ou commandant 
+de l&#39;armée. Chez les Grecs, on le nommoit
+<i>polémaque</i>, &amp; c&#39;étoit à Athènes l&#39;un des archontes ;
+à Rome sous la république, c&#39;étoient les consuls, les
+préteurs ou les pro-consuls, qui commandoient les
+armées, en conséquence des decrets du sénat ; ils
+avoient un ou plusieurs lieutenans sous leurs ordres.
+Quoique la cavalerie eût un chef particulier nommé
+<i>magister equitum</i>, il étoit toûjours subordonné aux
+consuls. S&#39;il y avoit un dictateur, ce premier magistrat 
+nommoit le <i>général</i> de la cavalerie, lequel faisoit 
+exécuter ses ordres, &amp; lui servoit de lieutenant ;
+mais Jules César s&#39;étant servi de la dictature, pour
+faire revivre en sa personne le gouvernement monarchique,
+il abolit la charge de <i>général</i> de la cavalerie.
+</p>
+<p>
+Dans les campemens &amp; les marches, le <i>général</i> de
+l&#39;armée romaine se plaçoit ordinairement au centre,
+entre les princes &amp; les triaires, accompagné de ses
+gardes &amp; de ses véterans, s&#39;il en avoit ; car quelquefois 
+il jugeoit à propos de les distribuer dans les
+rangs, pour animer &amp; soûtenir les autres soldats.
+</p>
+<p>
+Quelquefois avant que de combattre, il haranguoit 
+ses troupes, soit pour leur inspirer plus de courage,
+soit pour les instruire de ses projets. Il est vrai
+qu&#39;il ne pouvoit pas être entendu de toute l&#39;armée ;
+mais il suffisoit qu&#39;il le fût de ceux qui étoient les
+plus près de sa personne, des tribuns, des centurions,
+&amp; d&#39;autres officiers subalternes des cohortes ;
+ceux-ci faisoient passer jusque aux dernier soldats,
+le précis ou l&#39;objet de la harangue.
+</p>
+<p>
+Le <i>général</i> des armées romaines avoit le droit,
+entr&#39;autres prérogatives, de porter le <i>paludamentum</i>, ou la cotte d&#39;armes teinte en pourpre ; il la
+prenoit en sortant de Rome, &amp; la quittoit avant que
+d&#39;y rentrer.
+</p>
+<p>
+Il avoit seul le pouvoir de dévoüer un de ses soldats 
+pour le falut de l&#39;armée ; &amp; ce qui est plus étonnant<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+il se dévoüoit quelquefois lui-même, avec
+certaines cérémonies qu&#39;il étoit obligé de suivre, &amp;
+que nous avons exposées <i>au mot</i> <sc><ref target="head:Dévouement" type="search">Dévouement</ref></sc>.
+</p>
+<p>
+S&#39;il avoit remporté quelque grande victoire, il ne
+manquoit guere d&#39;envoyer au sénat des lettres ornées 
+de feuilles de laurier, par lesquelles il lui rendoit 
+compte du succès de ses armes, &amp; lui demandoit 
+qu&#39;il voulût bien décerner en son nom, des supplications 
+&amp; des actions de graces aux dieux. Le decret 
+du sénat étoit souvent une assûrance du triomphe 
+pour le vainqueur, <i>triumphi proerogativa</i>. Ce fut
+cet honneur du triomphe, qui dans les beaux jours
+de la république, anima tant de ses <i>généraux</i> à faire
+les plus grands efforts pour obtenir la victoire.
+</p>
+<p>
+Mais dès qu&#39;ils eurent passé les Alpes &amp; les mers,
+&amp; qu&#39;ils eurent séjourné plusieurs campagnes avec
+les légions dans les pays qu&#39;ils soûmettoient, ils sentirent 
+leurs forces, disposerent des armées, &amp; s&#39;arrogerent 
+le triomphe, sans daigner le demander au
+sénat. Les soldats à leur tour commencerent à ne
+reconnoître que leur <i>général</i>, à fonder sur lui toutes
+leurs espérances, &amp; à regarder la ville de loin : ce
+ne furent plus les soldats de la république, mais de
+Sylla, de Pompée, de César. Rome douta quelquefois,
+si celui qui étoit à la tête d&#39;une armée dans une
+province, étoit son <i>général</i> ou son ennemi.
+</p>
+<p>
+Enfin, quand les empereurs eurent succédé à la
+république, ils garderent pour eux les triomphes,
+&amp; donnerent à des gens qui leur marquoient un dévoüement 
+inviolable, le commandement des armées ; 
+alors ceux qui furent nommés <i>généraux</i>, craignant 
+d&#39;entreprendre de trop grandes choses, en firent 
+de petites. Ils modérerent aisément leur gloire
+que rien ne soûtenoit, &amp; se conduisirent de maniere 
+qu&#39;elle ne réveillât que l&#39;attention, &amp; non pas
+la jalousie des empereurs, afin de ne point paroître
+devant leur throne avec un éclat que leurs yeux ne
+pouvoient souffrir. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

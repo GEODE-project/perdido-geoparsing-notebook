@@ -1,0 +1,118 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29335" id="52:133:6" vol="7">
+<index type="head" value="Genêt" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econ. rust." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Genêt</head>
+<p>
+<sc>Genêt</sc>, (<i>Econ. rust.</i>) Quoique quelques <i>genêts</i> méritent 
+d&#39;être cultivés, cependant comme la plûpart
+perdent les bonnes terres où ils pullulent, il ne faut
+pas alors hésiter de les détruire, parce qu&#39;ils jettent 
+de profondes racines, qui sucent le sel de ces
+terres précieuses. La bonne méthode pour parvenir
+à leur entiere destruction, est de brûler ces terres,
+les labourer profondément, &amp; les fumer ensuite, soit
+avec du fumier &amp; des cendres, soit en y répandant
+de la marne &amp; de l&#39;urine des bestiaux. Si c&#39;est un terrein 
+de pâturage, le meilleur parti seroit de couper
+les <i>genêts</i> raz terre au mois de Mai, qui est le tems de
+leur seve ; ensuite d&#39;y jetter du bétail qui fourragera
+l&#39;herbe, &amp; dont l&#39;urine fera mourir les racines des
+<i>genêts</i>, outre qu&#39;ils ne viennent point dans un lieu
+qui est bien foulé par les piés des animaux. Au reste
+cette plante pernicieuse dans les cas dont nous venons 
+de parler, n&#39;est pas toûjours nuisible au laboureur ; 
+au contraire il peut quelquefois en tirer un parti
+fort utile, comme par exemple en former du chaume,
+qui fait avec art est aussi durable qu&#39;excellent
+pour la couverture des granges. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

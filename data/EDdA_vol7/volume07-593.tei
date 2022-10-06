@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28047" id="50:6:1" vol="7">
+<index type="head" value="Fournir" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Fournir</head>
+<p>
+<sc>Fournir</sc>, (<i>Jurispr.</i>) signifie quelquefois <i>donner,
+signifier</i>, comme <i>fournir</i> des exceptions, défenses,
+griefs, &amp; autres écritures.
+</p>
+<p>
+<i>Fournir</i> &amp; <i>faire valoir</i>, c&#39;est se rendre garant d&#39;une 
+rente ou créance, au cas que le débiteur devienne
+dans la suite insolvable.
+</p>
+<p>
+Cette clause se met quelquefois dans les ventes &amp;
+transports de dettes ou de rentes constituées.
+</p>
+<p>
+Son effet est plus étendu que la simple clause de
+garantie, en ce que la garantie s&#39;entend seulement,
+que la chose étoit dûe au tems du transport, &amp; que
+le débiteur étoit alors solvable ; au lieu que la clause
+de <i>fournir &amp; faire valoir</i> a pour objet de garantir de
+l&#39;insolvabilité qui peut survenir dans la suite.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Le cédant qui a promis <i>fournir &amp; faire valoir</i>, n&#39;est
+tenu de payer qu&#39;après discussion de celui sur qui il
+a cédé la rente.
+</p>
+<p>
+On ajoûte quelquefois à l&#39;obligation de <i>fournir &amp;
+faire valoir</i>, celle de payer soi même après un commandement 
+fait au débiteur, auquel cas le cessionnaire 
+n&#39;est pas tenu de faire d&#39;autre discussion du débiteur 
+pour recourir contre son cédant.
+</p>
+<p>
+Dans les baux à rente, le preneur s&#39;oblige quelquefois 
+de <i>fournir &amp; faire valoir</i> la rente ; l&#39;effet de
+cette clause en ce cas, est que le preneur ni ses héritiers 
+ne peuvent pas déguerpir l&#39;heritage pour se décharger 
+de la rente.
+</p>
+<p>
+L&#39;obligation de <i>fournir &amp; faire valoir</i> n&#39;est jamais
+sousentendue, &amp; n&#39;a lieu que quand elle est exprimée.
+<i>Voyez</i> Loyseau, <i>traité de la garantie des rentes,
+ch. jv</i>. Louet <i>&amp;</i> Brodeau, <i>litt. F. n. 25</i>. Le Prestre,
+<i>cent. 2. ch. xxviij</i>. Bacquet, <i>traité des rentes, chap.
+xjx. xx.</i> &amp; <i>xxj</i>. Corbin, <i>chap. cjv</i>. Montolon, <i>arrêt 104</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

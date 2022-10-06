@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27794" id="49:57" vol="7">
+<index type="head" value="FORMULE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Algebre." />
+<index type="normclass" value="Algèbre" />
+<index type="englishclass" value="Algebra" />
+<index type="generatedclass" value="Philosophie" />
+<index type="pos" value="s.f." />
+<head>FORMULE</head>
+<p>
+FORMULE, s. f. (<i>Algebre.</i>) est un résultat général 
+tiré d&#39;un calcul algébrique, &amp; renfermant une infinité 
+de cas ; ensorte qu&#39;on n&#39;a plus à substituer que
+<pb n="7:184" facs="V7/ENC_7-184.jpeg" />
+<milestone unit="column" n="1" />
+des chiffres particuliers aux lettres, pour trouver le
+résultat particulier dans quelque cas propose que ce
+soit. Une <i>formule</i> est donc une méthode facile pour
+opérer ; &amp; si l&#39;on peut la rendre absolument générale,
+c&#39;est le plus grand avantage qu&#39;on puisse lui procurer ; 
+c&#39;est souvent réduire à une seule ligne toute
+une science. Mais pour qu&#39;une <i>formule</i> génerale soit
+vraiment utile, &amp; qu&#39;il y ait du mérite à l&#39;avoir trouvée,
+il faut que la <i>formule</i> générale soit plus difficile
+à trouver que la <i>formule</i> particuliere, c&#39;est-à-dire
+que le probleme énoncé généralement renferme
+des difficultés plus grandes que le probleme particulier 
+qui a donne occasion de chercher la méthode génerale.
+Feu M. Varignon, géometre de l&#39;académie
+des Sciences, aimoit à généraliser ainsi des <i>formules ;</i>
+mais malheureusement ses <i>formules</i> générales etoient
+presque toûjours privées de l&#39;avantage dont nous
+parlons : &amp; dans ce cas une <i>formules</i> génerale n&#39;est
+qu&#39;une puérilité ou une charlatanerie. M. Bernoulli,
+ou un autre géometre, résolvoit il un probleme difficile?
+M. Varignon aussi-tôt le généralisoit, de maniere 
+que l&#39;énoncé plus général renfermoit en apparence 
+plus de difficultés, mais en effet n&#39;en avoit
+aucune de plus, &amp; n&#39;exigeoit pas qu&#39;on ajoûtât la
+moindre chose à la méthode particuliere : aussi M.
+Bernoulli disoit-il quelquefois après avoir résolu
+un problème, qu&#39;<i>il le laissoit à généraliser à M. Varignon</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,115 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27468" id="48:13:3" vol="7">
+<index type="head" value="Foi, (bonne-) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Foi</head>
+<p>
+<sc>Foi</sc>, (<sc>bonne-</sc>) est une conviction intérieure que
+l&#39;on a de la justice de son droit ou de sa possession.
+On distinguoit chez les Romains deux sortes de contrats ; 
+les uns que l&#39;on appelloit de <i>bonne-foi</i>, les autres 
+de <i>droit étroit ;</i> les premiers recevoient une interprétation 
+plus favorable. Parmi nous tous les contrats 
+sont de <i>bonne-foi</i>, or la <i>bonne-foi</i> exige que les
+conventions soient remplies ; elle ne permet pas qu&#39;après 
+la perfection du contrat l&#39;un des contractans
+puisse se dégager malgré l&#39;autre ; mais elle ne souffre
+pas non plus que l&#39;on puisse demander deux fois la
+même chose : elle est aussi requise dans l&#39;administration 
+des affaires d&#39;autrui &amp; dans la vente d&#39;un gage.
+Chez les Romains elle ne suffisoit pas seule pour l&#39;usucapion ; 
+&amp; dans la prescription de trente ans, il suffisoit 
+d&#39;avoir été de <i>bonne-foi</i> au commencement de la
+possession, la mauvaise <i>foi</i> survenue depuis n&#39;interrompoit 
+point la prescription. <i>Voyez ci-après</i> <sc><ref target="head:Mauvaise Foi" type="search">Mauvaise Foi</ref></sc>, <i>au digeste liv. L. tit. xvij. l. 57. 123.
+136.</i> &amp; <i>au code liv. IV. tit. xxxxjv. l. 3. 4. 5. 8.</i> (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

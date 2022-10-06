@@ -1,0 +1,105 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27903" vol="7">
+<index type="head" value="Fouet" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Verrie." />
+<index type="normclass" value="Verrerie" />
+<index type="englishclass" value="Glassmaking" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Fouet</head>
+<p>
+<sc>* Fouet</sc>, (<i>Verrie.</i>) c&#39;est ainsi qu&#39;on appelle dans
+les Verreries, l&#39;ouvrier qui arrange les bouteilles ou
+les plats dans les fourneaux à recuire, &amp; qui a soin
+de les tenir dans une chaleur convenable. S&#39;il donne
+trop de chaud, l&#39;ouvrage s&#39;applatit ; trop de froid,
+il casse. Il est aidé dans sa fonction par les gamains.
+<i>Voyez les articles</i> <sc><ref target="head:Verreries" type="search">Verreries</ref> <i>&amp;</i> <ref target="head:Gamains" type="search">Gamains</ref></sc>. Le <i>foüet</i>
+présente aussi la planche pour trancher les plats, &amp;
+il aide l&#39;ouvrier à les placer &amp; arranger dans les fourneaux.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

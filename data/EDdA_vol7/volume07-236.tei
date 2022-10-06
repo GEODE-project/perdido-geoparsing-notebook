@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27690" id="48:98:15" vol="7">
+<index type="head" value="Forces, (Faire les-) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Bourgelat" />
+<index type="shortauth" value="Bourgelat" />
+<index type="kafnum" value="25" />
+<index type="kafauth" value="Bourgelat, Claude (1712-1779)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Manége" />
+<index type="normclass" value="Manège" />
+<index type="englishclass" value="Horsemanship" />
+<index type="generatedclass" value="Manége" />
+<index type="pos" value="NA" />
+<head>Forces</head>
+<p>
+<sc>Forces</sc>, (<sc>Faire les-</sc>) <i>Manége</i>. L&#39;action de <i>faire
+les forces</i> consiste de la part du cheval dans celle de
+mouvoir sans cesse de côté &amp; d&#39;autre la mâchoire
+postérieure. Par ce mouvement continuel &amp; desagréable,
+le point d&#39;appui varie toûjours ; &amp; les effets
+de main ne peuvent jamais être justes &amp; certains.
+Puisque ce n&#39;est que dans les instans où cette même
+main veut agir, que l&#39;animal se livre à cette action,
+il me paroît que l&#39;on doit conclure qu&#39;il cherche alors
+à dérober les barres, ou les autres parties de sa bouche 
+qui se trouvent exposées à l&#39;impression du mors,
+fans doute à raison de la douleur que lui suscite cette
+impression, ou d&#39;une incommodité quelconque qu&#39;elle 
+lui apporte. Or cette douleur ou cette incommodité 
+me met en droit de supposer trop de sensibilité 
+dans ces mêmes parties, de l&#39;irrésolution, de la
+lenteur, de la dureté, &amp; de l&#39;ignorance des mains auxquelles 
+il a d&#39;abord été soûmis. On peut encore chercher 
+l&#39;origine de ce défaut dans la mauvaise ordonnance 
+des premieres embouchures, dans le peu de
+soin que l&#39;on a eu d&#39;en faire polir &amp; d&#39;en faire joindre 
+exactement les pieces, &amp; plus souvent encore
+dans le peu d&#39;attention de l&#39;éperonnier à fixer le canon 
+avec une telle précision dans son juste lieu, qu&#39;il
+ne repose point immediatement sur la portion tranchante 
+de la barre, &amp; qu&#39;il ne trébuche pas sur la gencive.
+Des mors trop étroits qui serreront les levres ;
+des gourmettes trop corutes qui comprimeront la
+barbe, occasionneront aussi ce vice, auquel on ne
+peut espérer de remédier qu&#39;autant que l&#39;on substituera,
+dans de semblables circonstances, des embouchures 
+appropriées à la conformation de la bouche
+<milestone unit="column" n="2" />
+du cheval ; &amp; qu&#39;autant que dans les autres cas, une
+main habile en ménagera la délicatesse, &amp; entreprendra 
+de corriger l&#39;animal d&#39;une mauvaise habitude 
+qu&#39;il ne perd que difficilement. Du reste, si quelques 
+parties telles que les levres, les barres, la langue,
+le palais, ou la barbe, sont blessées ou entamées,
+il n&#39;est pas douteux que le moindre contact
+qu&#39;elles souffriront sera toûjours suivi &amp; accompagné 
+d&#39;une douleur plus ou moins vive : on aura recours 
+aux médicamens par le moyen desquels ces parties 
+peuvent être rappellées à leur état naturel. (<i>e</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

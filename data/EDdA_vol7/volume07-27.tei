@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27480" id="48:15" vol="7">
+<index type="head" value="FOIBLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Grammaire." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="NA" />
+<head>FOIBLE</head>
+<p>
+FOIBLE, subst. m. (<i>Grammaire.</i>) qu&#39;on prononce
+<i>faible</i>, &amp; que plusieurs écrivent ainsi, est le contraire 
+de <i>fort</i>, &amp; non de <i>dur</i> &amp; de <i>solide</i>. Il peut se dire
+de presque tous les êtres. Il reçoit souvent l&#39;article
+<i>de:</i> le fort &amp; le <i>foible</i> d&#39;une épée ; <i>foible</i> de reins ; armée 
+<i>foible</i> de cavalerie ; ouvrage philosophique <i>foible</i> de raisonnement, <i>&amp;c.</i>
+</p>
+<p>
+Le <i>foible</i> du coeur n&#39;est point le <i>foible</i> de l&#39;esprit ; 
+le <i>foible</i> de l&#39;ame n&#39;est point celui du coeur.
+Une ame <i>foible</i> of sans ressort &amp; sans action ; elle se
+laisse aller à ceux qui la gouvernent. Un coeur <i>foible</i>
+s&#39;amollit aisément, change facilement d&#39;inclinations,
+ne résiste point à la séduction, à l&#39;ascendant qu&#39;on
+veut prendre sur lus, &amp; peut subsister avec un esprit
+fort ; car on peut penser fortement, &amp; agir foiblement.
+L&#39;esprit <i>foible</i> reçoit les impressions sans les
+combattre, embrasse les opinions sans examen, s&#39;effraye 
+sans cause, tombe naturellement dans la superstition.
+<i>Voyez</i> <sc><ref target="head:Foible" type="search">Foible</ref></sc>. (<i>Morale</i>).
+</p>
+<p>
+Un ouvrage peut être <i>foible</i> par les pensées ou par
+le style ; par les pensées ; quand elles sont trop communes,
+ou lorsqu&#39;étant justes, elles ne sont pas assez 
+approfondies ; par le style, quand il est dépourvû 
+d&#39;images, de tours, de figures qui reveillent l&#39;attention.
+Les oraisons funebres de Mascaron sont <i>foibles</i>, &amp; son style n&#39;a point de vie en comparaison de
+Bossuet. Toute harangue est <i>foible</i>, quand elle n&#39;est
+pas relevée par des tours ingénieux &amp; par des expressions 
+énergiques ; mais un plaidoyer est <i>foible</i>,
+quand avec tout le secours de l&#39;éloquence &amp; toute la
+véhémence de l&#39;action, il manque le raisons. Nul
+ouvrage philosophique n&#39;est <i>foible</i>, malgré la foiblefse 
+d&#39;un style lâche, quand le raisonnement est juste
+&amp; profond. Une tragédie est <i>foible</i>, quoique le style
+en soit fort, quand l&#39;intérêt n&#39;est pas soûtenu. La comédie 
+la mieux écrite est <i>foible</i>, si elle manque de ce
+que les Latins appelloient <i>vis comica</i>, la force comique : c&#39;est ce que César reproche à Térence : <i>lenibus
+atque utinam scriptis adjuncta foret vis</i>. C&#39;est sur-tout
+en quoi a péché souvent la comédie nommée <i>larmoyante</i>. Les vers <i>foibles</i> ne sont pas ceux qui péchent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+contre les regles, mais contre le génie ; qui
+dans leur mécanique sont sans variété, sans choix de
+termes, sans heureuses inversions, &amp; qui dans leur
+poésie conservent trop la simplicité de la prose. On
+ne peut mieux sentir cette différence, qu&#39;en comparant 
+les endroits que Racine, &amp; Campistron son imitateur,
+ont traités. <i>Article de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,174 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27968" id="49:132:1" vol="7">
+<index type="head" value="Fourches patibulaires ou Gibet" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisp." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Fourches patibulaires</head>
+<p>
+<sc>Fourches patibulaires</sc> <i>ou</i> <sc>Gibet</sc>, (<i>Jurisp.</i>)
+sont des piliers de pierre, au haut desquels il y a une
+piece de bois posee en-travers sur deux de ces piliers,
+à laquelle piece de bois on attache les criminels qui
+sont condamnés à être pendus &amp; étranglés, soit que
+l&#39;exécution se fasse au gibet même, ou que l&#39;exécution 
+ayant été faite ailleurs, on apporte le corps du
+criminel pour l&#39;attacher à ces <i>fourches</i>, &amp; l&#39;y laisser
+exposé à la vûe des passans.
+</p>
+<p>
+Ces <i>fourches</i> ou <i>gibets</i> sont toûjours placés hors
+des villes, bourgs &amp; villages, &amp; ordinairement près
+de quelque grand chemin, &amp; dans un lieu bien exposé
+à la vûe, afin d&#39;inspirer au peuple plus d&#39;horreur du
+crime : c&#39;est pourquoi ces <i>fourches</i> sont aussi appellées
+<i>la justice</i>, pour dire qu&#39;elles sont le signe extérieur
+d&#39;une telle justice.
+</p>
+<p>
+On appelle ces sortes de piliers <i>fourches</i>, parce
+qu&#39;anciennement au lieu de piliers de pierre, ou posoit 
+seulement deux pieces de bois faisant par en-haut 
+la <i>fourche</i>, pour retenir la piece de bois qui se
+met en-travers, &amp; à laquelle on attache les criminels.
+</p>
+<p>
+L&#39;origine du terme de <i>fourches patibulaires</i> est même<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+encore plus ancienne ; elle remonte jusqu&#39;aux
+premiers tems des Romains, chez lesquels, après
+avoir dépouillé le condamné à mort de tous ses habits,
+on lui faisoit passer la tête dans une <i>fourche</i>, &amp;
+son corps attaché au même morceau de bois qui finissoit 
+en <i>fourche</i>, étoit ensuite battu de verges jusqu&#39;à ce que le condamné mourût de ses souffrances.
+<i>Voyez</i> Suetone, <i>in Nerone, cap. xljx</i>. Livius, <i>lib. I.</i>
+Seneca, <i>lib. I. de ira, cap. xvj</i>.
+</p>
+<p>
+Quelques-uns confondent les <i>fourches patibulaires</i>
+avec les échelles ou signes patibulaires, quoique ce
+soit deux choses différentes. L&#39;echelle est bren aussi
+un signe de haute-justice, mais elle ne sert pas a
+mettre à mort ; elle n&#39;est destinée qu&#39;à pilorier.
+</p>
+<p>
+A l&#39;égard du simple signe patibulaire, ce nom se
+donne quelquefois au simple poteau ou carcan, qui
+est aussi une marque de haute-justice.
+</p>
+<p>
+Les simples seigneurs hauts-justiciers ne peuvent
+avoir que deux piliers. Peronne, <i>art. 20</i>. Grand-Perche, 11. Blois, 20. Les châtelains en ont trois ;
+les barons en ont quatre ; les comtes en ont six.
+Tours, <i>art. 74</i>.
+</p>
+<p>
+L&#39;usage n&#39;est cependant pas absolument uniforme
+à ce sujet ; car il y a des coûtumes où les seigneurs
+châtelains peuvent avoir des <i>fourches patibulaires</i> à
+trois ou quatre piliers ; celle de Blois, <i>art. 24.</i> permet 
+au moyen-justicier d&#39;en avoir à deux piliers:
+cela dépend aussi des titres &amp; de la possession.
+</p>
+<p>
+Le roi comme souverain peut faire élever au-dedans de ses justices tel nombre de piliers que bon lui
+semble.
+</p>
+<p>
+Lorsque les <i>fourches patibulaires</i> des seigneurs sont
+tombées de vetusté ou autrement, elles doivent être
+rétablies dans l&#39;an &amp; jour de leur destruction ; passe
+lequel tems elles ne peuvent être relevées sans lettres 
+du prince, dont l&#39;entérinement doit être fait au
+bailliage royal, sur les conclusions du procureur du
+roi &amp; sur le vû de pieces : autrement les <i>fourches patibulaires</i> ne pourroient être élevées que pour le tems
+des exécutions seulement ; &amp; l&#39;exécution faite, le
+seigneur seroit obligé de les faire abattre. <i>Voyez</i> Bacquet, <i>des droits de justice, ch. jx. n. 10. 11. 12</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

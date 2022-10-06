@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28352" id="50:121" vol="7">
+<index type="head" value="FREYA, ou FRIGGA" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc. ou Mythol." />
+<index type="normclass" value="Histoire ancienne | Mythologie" />
+<index type="englishclass" value="Ancient history | Mythology" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="NA" />
+<head>FREYA, ou FRIGGA</head>
+<p>
+* FREYA, <i>ou</i> FRIGGA, (<i>Hist. anc.</i> ou <i>Mythol.</i>)
+c&#39;étoit une des principales divinités des anciens Saxons, l&#39;épouse de Wodan, &amp; la conservatrice de la
+liberté publique. Elle étoit représentée sous la forme
+d&#39;une femme nue, couronnée de myrte, une flamme 
+allumée sur le sein, un globe dans la main droite,
+trois pommes d&#39;or dans sa gauche, &amp; les graces
+à la suite, sur un char attelé de cygnes : c&#39;est ainsi
+qu&#39;on l&#39;a trouvée à Magdebourg, où Drusus Néron
+introduisit son culte. On prétend que c&#39;est de <i>Freya</i>
+que vient le <i>Freytag</i> des Allemands, le <i>dies Veneris</i> des
+Latins, notre vendredi ; d&#39;où l&#39;on a conclu que la
+<i>Freya</i> des Germains étoit aussi la Vénus des Latins.
+Mais comment arrive-t-il que des peuples tels que
+les Germains, les Latins, les Syriens, les Grecs,
+ayent, antérieurement à toute liaison connue par
+l&#39;histoire, adoré des dieux communs? Ces vestiges de
+ressemblance dans les moeurs, les idiomes, les opinions,
+les préjugés, les superstitions des peuples,
+doivent déterminer les Savans à étudier l&#39;histoire des
+siecles anciens, d&#39;après ces monumens, les seuls que
+le tems ne peut entierement abolir.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

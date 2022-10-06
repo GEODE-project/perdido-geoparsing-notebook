@@ -1,0 +1,434 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29694" id="53:161:2" vol="7">
+<index type="head" value="Usages du Globe céleste" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="NA" />
+<head>Usages du Globe céleste</head>
+<p>
+<sc>Usages du Globe céleste</sc>. L&#39;usage de cet
+instrument est des plus étendus pour résoudre un
+grand nombre de questions de l&#39;Astronomie sphérique.
+</p>
+<p>
+Les points principaux sont contenus dans les problèmes 
+&amp; solutions ci-dessous, qui mettront le lecteur 
+en état d&#39;appliquer à d&#39;autres cas l&#39;usage qu&#39;on
+peut faire de ce <i>globe</i>.
+</p>
+<p>
+<i>Trouver l&#39;ascension droite &amp; la déclinaison d&#39;une
+étoile représentée sur la surface du globe</i>. Portez l&#39;étoile
+sous le méridien immobile où sont marqués les degrés ; 
+alors le nombre de degrés compris entre l&#39;équateur 
+&amp; le point du méridien, sous lequel est l&#39;étoile,
+donne sa déclinaison ; &amp; le degré de l&#39;équateur 
+qui sous le méridien se rencontre avec l&#39;étoile,
+est son ascension droite. <i>Voyez</i> <sc><ref target="head:Ascension" type="search">Ascension</ref> <i>&amp;</i> <ref target="head:Déclinaison" type="search">Déclinaison</ref></sc>.
+</p>
+<p>
+<i>Trouver la longitude &amp; la latitude d&#39;une étoile</i>. Appliquez une des extrémités du quart de cercle de
+hauteur au pole de l&#39;écliptique, dans l&#39;hémisphere
+où est l&#39;étoile ; &amp; portez le côté où sont marqués
+les degrés contre l&#39;étoile, le degré marqué sur le
+quart de cercle à l&#39;endroit de l&#39;étoile, est sa latitude
+à compter depuis l&#39;écliptique ; &amp; le degré de l&#39;écliptique 
+coupé par le quart de cercle, est sa longitude.
+<i>Voyez</i> <sc><ref target="head:Longitude" type="search">Longitude</ref> <i>&amp;</i> <ref target="head:Latitude" type="search">Latitude</ref></sc>.
+</p>
+<p>
+Pour que le quart de cercle demeure durant cette
+opération bien fixé aux poles de l&#39;écliptique par une
+de ses extrémités, il ne seroit pas mal d&#39;attacher
+aux poles de l&#39;écliptique une espece de stile, dans
+lequel on feroit entrer un des bouts du quart de
+cercle.
+</p>
+<p>
+<i>Trouver le lieu du soleil dans l&#39;écliptique</i>. Cherchez
+le jour du mois dans le calendrier sur l&#39;horison ; &amp;
+d&#39;un autre côté cherchez sur l&#39;horison dans le cercle
+des signes quel est le signe que le soleil occupe ce
+jour-là, &amp; qui se trouve vis-à-vis le jour du mois.
+Cela fait, cherchez le même signe sur l&#39;écliptique
+&amp; sur la surface du <i>globe ;</i> c&#39;est-là le lieu du soleil
+pour ce jour-là. <i>Voyez</i> <sc><ref target="head:Lieu" type="search">Lieu</ref></sc>.
+</p>
+<p>
+<i>Trouver la déclinaison du soleil</i>. Le lieu du soleil
+<pb n="7:712" facs="V7/ENC_7-712.jpeg" />
+<milestone unit="column" n="1" />
+pour le jour donné étant porté sous le méridien, les
+degrés du méridien compris entre l&#39;équateur &amp; le
+lieu en question, marquent la déclinaison du soleil
+pour ce jour-là.
+</p>
+<p>
+<i>Trouver le lieu d&#39;une planete avec son ascension droite,
+sa déclinaison, &amp; sa latitude pour un tems donné</i>.
+Appliquez une des extrémités du quart de cercle de
+hauteur à celui des poles de l&#39;écliptique, qui a la
+même dénomination que la latitude de la planete ;
+c&#39;est-à-dire au pole septentrional, si la latitude de
+la planete est septentrionale ; au pole méridional,
+si la latitude est méridionale : &amp; portez le quart de
+cercle au degré de longitude donné dans l&#39;écliptique ; 
+ce point est le lieu de la planete dans l&#39;écliptique ; 
+&amp; en le portant sous le méridien, vous trouverez 
+l&#39;ascension &amp; la déclinaison de la planete,
+comme on l&#39;a déjà enseigné pour les étoiles.
+</p>
+<p>
+<i>Rectifier le globe</i>, c&#39;est-à-dire <i>le placer de sorte qu&#39;il
+représente l&#39;état actuel ou la situation des cieux, pour
+quelqu&#39;endroit que ce soit ; comme pour Paris</i>. 1°. Si
+le lieu proposé a une latitude septentrionale, élevez
+le pole septentrional au-dessus de l&#39;horison ; s&#39;il a une
+latitude méridionale, élevez le pole méridional jusqu&#39;à ce que l&#39;arc compris entre le pole &amp; l&#39;horison
+soit égal à l&#39;élévation donnée du pole, c&#39;est-à-dire
+par exemple, que pour Paris il faudra élever le pole
+septentrional de 48<sup>d</sup> 50&#39;au-dessus de l&#39;horison. De
+cette maniere le lieu dont il s&#39;agit, se trouvera au
+zénith ou à l&#39;endroit le plus élevé du <i>globe</i>.
+</p>
+<p>
+2°. Attachez le quart de cercle de hauteur au zénith,
+c&#39;est-à-dire à la latitude du lieu.
+</p>
+<p>
+3°. Par le moyen d&#39;une boussole ou d&#39;une ligne
+méridienne, placez le <i>globe</i> de maniere que le méridien 
+immobile de bois ou de cuivre se trouve dans
+le plan du méridien terrestre.
+</p>
+<p>
+4°. Portez sous le méridien le degré de l&#39;écliptique 
+où est le soleil, &amp; mettez l&#39;aiguille horaire sur
+12, alors le <i>globe</i> représentera l&#39;état des cieux pour
+ce jour-là à midi.
+</p>
+<p>
+5°. Tournez le <i>globe</i> jusqu&#39;à ce que l&#39;aiguille vienne 
+à marquer quelque autre heure donnee, &amp; pour
+lors le <i>globe</i> représentera l&#39;état des cieux pour cette
+heure-là.
+</p>
+<p>
+<i>Connoître &amp; distinguer dans le ciel toutes les étoiles
+&amp; planetes par le moyen du globe</i>. 1°. Ajustez le <i>globe</i>
+à l&#39;état du ciel pour le tems donné.
+</p>
+<p>
+2°. Cherchez sur le <i>globe</i> quelque étoile qui vous
+soit connue, par exemple, celle qui est au milieu de
+la queue de la grande ourse.
+</p>
+<p>
+3°. Observez les positions des autres étoiles les
+plus remarquables de la même constellation ; &amp; en
+levant les yeux de dessus le <i>globe</i> vers le ciel, vous
+n&#39;aurez point de peine à y remarquer ces étoiles.
+</p>
+<p>
+4°. De la même maniere vous pouvez passer de
+cette constellation à celle qui lui est voisine, jusqu&#39;à
+ce que vous les connoissiez toutes. <i>Voyez</i> <sc><ref target="head:Etoile" type="search">Etoile</ref></sc>.
+</p>
+<p>
+Si vous cherchez le lieu des planetes sur le <i>globe</i>
+de la maniere qu&#39;il est dit ci-dessus, vous pourrez
+les reconnoître également dans le ciel, en les comparant 
+avec les étoiles voisines.
+</p>
+<p>
+<i>Trouver l&#39;ascension oblique du soleil, son amplitude
+orientale, son azimuth, &amp; le tems de son lever</i>. 1°. Disposez le <i>globe</i> de maniere que l&#39;aiguille marque 12,
+&amp; que le lieu du soleil se trouve sous le méridien:
+ensuite portez le lieu du soleil vers le côté oriental
+de l&#39;horison ; pour lors le nombre de degrés compris 
+entre le degré de l&#39;équateur porté contre l&#39;horison 
+&amp; le commencement du Bélier, est l&#39;ascension
+oblique du soleil.
+</p>
+<p>
+2°. Les degrés de l&#39;horison compris entre son
+point oriental &amp; le point où est le soleil, marquent
+l&#39;amplitude ortive.
+</p>
+<p>
+3°. L&#39;heure marquée par l&#39;aiguille, est le tems du
+lever du soleil.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Pour trouver l&#39;azimuth du soleil, il faut d&#39;abord
+observer que ces azimuths changent selon l&#39;heure &amp;
+selon le lieu du soleil. C&#39;est pourquoi il faut d&#39;abord
+disposer le <i>globe</i> selon l&#39;élévation du lieu ; ensuite il
+faut trouver le lieu du soleil dans l&#39;écliptique, le mettre 
+sous le méridien, &amp; le stile horaire sur 12 heures ; 
+&amp; après avoir attaché le quart de cercle de
+hauteur au zénith, on tourne le <i>globe</i> jusqu&#39;à ce que
+le stile horaire soit sur l&#39;heure donnée ; &amp; le <i>globe</i>
+demeurant en cet état, on tourne le quart de cercle 
+de hauteur jusqu&#39;à ce qu&#39;il soit sur le lieu du soleil,
+ou que le degré du soleil occupe ce jour-là l&#39;écliptique ; 
+ce qui étant fait, on comptera sur l&#39;horison 
+la distance comprise entre l&#39;orient équinoxial &amp;
+le degré, où le quart de cercle de hauteur rencontre
+l&#39;horison, laquelle donnera l&#39;azimuth cherché.
+</p>
+<p>
+Supposant, par exemple, que le lieu du soleil soit
+au dix huitieme degré du Taureau, on trouvera en
+la latitude de Paris, que l&#39;azimuth du soleil à 9 heur.
+34&#39;du matin, est de 31 degrés. <i>Voyez</i> <sc><ref target="head:Azimuth" type="search">Azimuth</ref></sc>.
+</p>
+<p>
+On voit par-là qu&#39;il n&#39;est pas absolument nécessaire 
+de connoître la hauteur du soleil, pour connoitre 
+son azimuth ; mais si on veut trouver cette
+hauteur, on la connoîtra aisément en comptant sur
+le quart de cercle de hauteur le nombre de degrés
+compris entre l&#39;horison &amp; le lieu du soleil.
+</p>
+<p>
+<i>Trouver la descension oblique du soleil, son amplitude
+occidentale, &amp; le teins de son coucher</i>. La solution de
+ce problème est la même que celle du précédent,
+excepté que le lieu du soleil doit être porté ici vers
+le côté occidental de l&#39;horison.
+</p>
+<p>
+<i>Trouver l&#39;heure du lever &amp; du coucher des signes</i>. Si
+vous voulez savoir, par exemple, à quelle heure se
+leve le signe du Scorpion, quand le soleil est au premier 
+degré du Bélier ; mettez ce dernier degré sous
+le méridien &amp; le stile horaire sur 12 heures ; puis
+tournez le <i>globe</i> jusqu&#39;à ce que le premier degré du
+Scorpion soit dans l&#39;horison oriental, alors le stile
+horaire montrera l&#39;heure du lever du Scorpion ; &amp;
+si vous transportez ce même degré dans l&#39;horison occidental,
+vous verrez l&#39;heure de son coucher marquée 
+par le stile horaire.
+</p>
+<p>
+<i>Trouver la longueur du jour &amp; de la nuit</i>. 1°. Cherchez le tems du lever du soleil, lequel étant compté
+depuis minuit, le double vous donne la longueur de
+la nuit.
+</p>
+<p>
+2°. Otez la longueur de la nuit du jour entier ou
+de 24 heur. le restant est la longueur du jour. <i>Voyez</i>
+<sc><ref target="head:Jour" type="search">Jour</ref> <i>&amp;</i> <ref target="head:Nuit" type="search">Nuit</ref></sc>.
+</p>
+<p>
+<i>Trouver les deux jours de l&#39;année auxquels le soleil
+se leve à une heure donnée</i>. Disposez d&#39;abord le <i>globe</i>
+selon l&#39;élévation du pole du lieu ; ensuite mettez le
+premier point de Cancer sous le méridien &amp; le stile
+sur 12 heures ; puis tournez le <i>globe</i> du côté de l&#39;Orient jusqu&#39;à ce que le stile horaire soit sur l&#39;heure
+donnée, &amp; marquez sur le colure des solstices le
+point où il coupe l&#39;horison ; transportez ensuite ce
+même point sous le méridien, afin de voir quelle
+est sa déclinaison ; &amp; remarquez en même tems quels
+sont les degrés de l&#39;écliptique qui passent sous le méridien 
+&amp; sous ce degré de déclinaison. Ces degrés
+sont ceux que le soleil parcourt le jour cherché; &amp;
+on trouvera ce jour dans le cercle du calendrier tracé
+sur l&#39;horison.
+</p>
+<p>
+<i>Trouver le lever, le coucher, le point culminant d&#39;une
+étoile, son séjour au-dessus de l&#39;horison par rapport à
+quelque lieu ou jour donné, comme aussi son ascension
+oblique, sa descension, son amplitude orientale &amp; occidentale</i>. 1°. Ajustez le <i>globe</i> à l&#39;état du ciel sur douze
+heures pour le jour donné.
+</p>
+<p>
+2°. Portez l&#39;étoile au côté oriental de l&#39;horison,
+pour lors vous aurez trouvé son amplitude orientale
+&amp; le tems de son lever, comme on l&#39;a déjà fait voir
+en parlant du soleil.
+<pb n="7:713" facs="V7/ENC_7-713.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+3°. Portez la même étoile au côté occidental de
+l&#39;horison, &amp; vous trouverez par-là l&#39;amplitude occidentale 
+&amp; le tems du coucher de l&#39;étoile.
+</p>
+<p>
+4°. Le tems du lever étant soustrait de celui du
+coucher, le restant vous donne le séjour de l&#39;étoile
+au-dessus de l&#39;horison.
+</p>
+<p>
+5°. Ce séjour au-dessus de l&#39;horison étant soustrait
+de 24 heures, le restant vous donne le tems de son
+séjour au-dessous de l&#39;horison.
+</p>
+<p>
+6°. Enfin l&#39;heure marquée par l&#39;aiguille, après
+que l&#39;étoile a été portée sur le méridien, marque le
+tems du point culminant ou culmination de l&#39;étoile.
+<i>Voyez</i> 
+<sc><ref target="head:Lever" type="search">Lever</ref>, <ref target="head:Coucher" type="search">Coucher</ref>, <ref target="head:Culmination" type="search">Culmination</ref></sc>
+, <i>&amp;c.</i>
+</p>
+<p>
+<i>Trouver l&#39;azimuth &amp; la hauteur d&#39;une étoile à quelque
+heure donnée</i>. Posez le lieu du soleil sous le méridien
+&amp; le stile horaire sur 12 heures ; ensuite tournez le
+<i>globe</i> vers l&#39;orient ou vers l&#39;occident, en sorte que le
+stile soit sur l&#39;heure donnée ; &amp; le <i>globe</i> demeurant
+ferme en cet état, vous tournerez le quart de cercle 
+de hauteur, jusqu&#39;à ce que l&#39;étoile rencontre
+le degré qui lui convient : ce degré sera celui de la
+hauteur demandée ; &amp; si vous comptez les degrés de
+l&#39;horison compris entre le point de l&#39;orient ou le
+point de l&#39;occident &amp; le vertical, vous aurez l&#39;azimuth 
+de l&#39;étoile.
+</p>
+<p>
+<i>La hauteur du soleil pendant le jour, ou d&#39;une étoile
+pendant la nuit, étant donnée, trouver le tems ou l&#39;heure
+correspondante de ce jour ou de cette nuit</i>. 1°. Rectifiez
+le <i>globe</i> comme dans le problème précédent ; 2°.
+tournez le <i>globe</i> &amp; le quart de cercle jusqu&#39;à ce que
+l&#39;étoile ou le degré de l&#39;écliptique, où est le soleil,
+coupe le quart de cercle dans le degré donné de hauteur,
+pour lors l&#39;aiguille marquera l&#39;heure que vous
+cherchez.
+</p>
+<p>
+<i>L&#39;azimuth du soleil ou d&#39;une étoile étant donnée, trouver 
+l&#39;heure du jour ou de la nuit</i>. Rectifiez le <i>globe</i>, &amp;
+portez le quart de cercle à l&#39;azimuth donné dans l&#39;horison ; 
+tournez le <i>globe</i> jusqu&#39;à ce que l&#39;étoile y soit
+arrivée, pour lors l&#39;aiguille marquera le tems que
+vous cherchez.
+</p>
+<p>
+<i>Trouver l&#39;intervalle de tems qu&#39;il y a entre les levers
+de deux étoiles, ou entre leurs culminations</i>. 1°. Elevez
+le pole du <i>globe</i> d&#39;autant de degrés au dessus de l&#39;horison,
+que le demande l&#39;élévation du pole du lieu où
+vous êtes.
+</p>
+<p>
+2°. Portez la premiere étoile contre l&#39;horison, &amp;
+observez l&#39;heure marquée par l&#39;aiguille.
+</p>
+<p>
+3°. Faites la même chose pour la seconde étoile ;
+&amp; pour lors en déduisant le premier tems du second,
+le restant donne l&#39;intervalle entre les deux levers ;
+&amp; en approchant les deux étoiles du méridien, vous
+trouverez l&#39;intervalle qu&#39;il y a entre les deux culminations 
+ou points culminans.
+</p>
+<p>
+<i>Trouver le commencement &amp; la fin du crépuscule</i>. 1°.
+Rectifiez le <i>globe</i>, &amp; pointez l&#39;aiguille sur 12 heures,
+le lieu du soleil étant dans le méridien.
+</p>
+<p>
+2°. Marquez le lieu du soleil, &amp; tournez le <i>globe</i>
+vers l&#39;occident, aussi-bien que le quart de cercle,
+jusqu&#39;à ce que le point opposé au lieu du soleil coupe
+le quart de cercle dans le dix-huitieme degré au-dessus 
+de l&#39;horison ; pour lors l&#39;aiguille marquera le
+tems où commence le crépuscule du matin.
+</p>
+<p>
+3°. Prenez le point opposé au soleil ; portez-le
+dans l&#39;hémisphere oriental, &amp; tournez-le jusqu&#39;à ce
+qu&#39;il se rencontre avec le quart de cercle au dix-huitieme 
+degré, pour lors l&#39;aiguille marquera le
+tems où finit le crépuscule du soir. <i>Voyez</i> <sc><ref target="head:Crépuscule" type="search">Crépuscule</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

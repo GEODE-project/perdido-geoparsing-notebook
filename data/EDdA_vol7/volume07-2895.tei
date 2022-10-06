@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30349" id="55:15:1" vol="7">
+<index type="head" value="Grenade" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Artillerie" />
+<index type="pos" value="NA" />
+<head>Grenade</head>
+<p>
+<sc>Grenade</sc>, (<i>Art milit.</i>) c&#39;est une espece de petite
+bombe, de meme diametre ou calibre qu&#39;un boulet
+de quatre livres, laquelle pese environ deux livres,
+&amp; qui est chargée de quatre ou cinq onces de poudre.
+</p>
+<p>
+Les <i>grenades</i> se jettent avec la main par des soldats 
+nommés cet effet <i>grenadiers</i>. Elles ont une
+lumiere comme la bombe, &amp; une fusée de même
+composition. Le soldat met avec une meche le feu
+à la fusée, &amp; il jette la <i>grenade</i> dans le lieu qui lui est
+indiqué. Le feu prenant à la poudre de la <i>grenade</i>,
+son effort la brise &amp; la rompt en éclats, qui tuent ou
+estropient ceux qu&#39;ils atteignent. Le soldat ne peut
+guere jetter de <i>grenades</i> qu&#39;à la distance de quinze
+ou seize toises au plus. Il y a d&#39;autres <i>grenades</i> qui ne
+se jettent point à la main, mais qui se roulent dans
+les fosses &amp; dans les autres endroits où l&#39;on veut en
+faire usage : ce sont proprement des especes de
+bombes, qui ont de diametre depuis trois pouces
+jusqu&#39;à six. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

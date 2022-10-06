@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30364" id="55:17:1" vol="7">
+<index type="head" value="Grenadiere, ou grande Sautreliere, ou Boîteux, ou Chapeau à Sauterelles" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pêche" />
+<index type="normclass" value="Pêche" />
+<index type="englishclass" value="Fish" />
+<index type="generatedclass" value="Pêche" />
+<index type="pos" value="NA" />
+<head>Grenadiere</head>
+<p>
+<sc>* Grenadiere</sc>, <i>ou</i> <sc>grande Sautreliere</sc>, <i>ou</i>
+<sc>Boîteux</sc>, <i>ou</i> <sc>Chapeau à Sauterelles</sc>, (<i>Pêche.</i>)
+espece de filet qui ressemble assez au chalut. Il étoit
+en usage dans l&#39;amirauté de Boulogne. On prenoit
+avec la <i>grenadiere</i> des sauterelles ou grandes chevrettes.<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+Elle étoit faite d&#39;une barre de fer quarrée,
+large d&#39;un pouce, &amp; longue de sept a huit piés. Sur ses
+extrémités étoit arrêté un demi-cercle de bois qui
+formoit l&#39;entrée d&#39;un verveux. La barre étoit percée
+à chaque bout, &amp; là étoit frappé un cordage de la
+grosseur d&#39;un pouce de diametre. Ce cordage avoit
+trois brasses de longueur. Un autre cordage étoit frappé 
+sur le milieu du cercle. Celui-ci se réunissoit au
+premier. C&#39;est sur cet appareil qu&#39;étoit retenu le filet,
+ou l&#39;espece de chausse dont il s&#39;agit. Cette chausse 
+étoit amarrée à un bateau par un autre cordage 
+qui la traînoit à un quart-de-lieue de la côte.
+</p>
+<p>
+Il y a une autre espece de <i>grenadiere</i> qui consiste
+en une traverse de bois <i>AB</i>, qu&#39;on appelle le <i>seuil</i>,
+&amp; un long manche <i>CD</i>, fixé sur le milieu du seuil.
+Le seuil est taillé en biseau, &amp; peut avoir 8 à 9 piés
+de long. On y attache un filet à mailles fort étroites. Le filet ressemble à la truble ; le pêcheur descend
+dans l&#39;eau jusqu&#39;au cou, lors de la basse mer ; &amp; marchant 
+vers le rivage, il pousse devant lui ce filet dont
+le seuil laboure le sable, &amp; enleve les chevrettes
+&amp; les petits poissons mêlés avec le sable.
+</p>
+<p>
+Ces pêches ont été défendues, ainsi que celles de
+la drege &amp; du coloris. <i>Voyez nos <ref target="XPL:5477" type="platelink">Planches de Péche</ref></i>.
+</p>
+<p>
+La maille du filet de la <i>grenadiere</i> est d&#39;environ
+quatre à cinq lignes.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

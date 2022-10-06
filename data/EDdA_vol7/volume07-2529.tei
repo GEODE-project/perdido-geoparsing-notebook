@@ -1,0 +1,109 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29983" id="53:347:3" vol="7">
+<index type="head" value="Goutte" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Roy" />
+<index type="shortauth" value="Le Roy" />
+<index type="kafnum" value="76" />
+<index type="kafauth" value="Le Roy, Jean-Baptiste (1720-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="parmi les Horlogers" />
+<index type="normclass" value="Horlogerie" />
+<index type="englishclass" value="Clockmaking" />
+<index type="generatedclass" value="Horlogerieie" />
+<index type="pos" value="NA" />
+<head>Goutte</head>
+<p>
+<sc>Goutte</sc>, <i>parmi les Horlogers ;</i> c&#39;est une petite
+plaque ronde convexe d&#39;un côté, &amp; plate ou concave 
+de l&#39;autre ; on l&#39;appelle aussi quelquefois <i>goutte
+de suif</i>. Dans une montre la <i>goutte</i> de la grande roue
+sert à la maintenir toûjours contre la base de la fusée.
+Cette <i>goutte</i> est souvent quarrée, pour qu&#39;on
+puisse la prendre avec des pincettes, &amp; l&#39;enfoncer
+avec force sur l&#39;arbre de la fusée. Elle est ordinairement 
+noyée dans la petite creusure de la grande
+roue, qui est opposée à celle où est l&#39;encliquetage.
+<i>Voyez</i> 
+<sc><ref target="head:Fusée" type="search">Fusée</ref>, <ref target="head:Grande Roue" type="search">Grande Roue</ref></sc>
+, <i>&amp;c.</i> Voyez <i>nos <ref target="XPL:5374" type="platelink">Planches de l&#39;Horlogerie</ref>, &amp; leur explication</i>. (<i>T</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

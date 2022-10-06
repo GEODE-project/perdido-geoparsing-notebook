@@ -1,0 +1,332 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29622" id="53:115:1" vol="7">
+<index type="head" value="Glace" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Glace</head>
+<p>
+<sc>Glace</sc>, (<i>Medecine.</i>) Il y a différentes observations 
+à faire concernant l&#39;usage &amp; les effets de seau
+sous forme de <i>glace</i>, relativement à l&#39;économie animale,
+dans la santé &amp; dans les maladies.
+</p>
+<p>
+On se sert communément de la <i>glace</i> pour communiquer 
+aux différens liquides employés pour la
+boisson, un plus grand degré de froid qu&#39;ils ne pourroient 
+l&#39;avoir par eux-mêmes, lorsque l&#39;air auquel ils
+sont exposés est d&#39;une température au-dessus de la
+congelation. <i>Voyez</i> <sc><ref target="head:Thermometre" type="search">Thermometre</ref></sc> On leur donne,
+par le moyen de la <i>glace</i>, une qualité actuelle
+propre à procurer un sentiment de fraîcheur qui est
+réputé délicieux, sur-tout dans les grandes chaleurs
+de l&#39;été. Les moyens de procurer ce froid artificiel
+sont de plonger les vases qui contiennent les liquides
+que l&#39;on veut rafraichir dans de l&#39;eau mêlée de <i>glace</i>
+pilée ou de neige ou de grêle ; ou dans un mélange
+de <i>glace</i> avec différens ingrédiens propres à la rendre 
+encore plus froide &amp; plus rafraichissante qu&#39;elle
+n&#39;est par elle-même. <i>Voyez dans l&#39;art</i>. <sc><ref target="head:Froid" type="search">Froid</ref></sc> (<i>Physique</i>), les différentes manieres de rendre artificiellement 
+le froid des corps liquides beaucoup plus grand
+qu&#39;il ne peut jamais le devenir naturellement dans
+nos climats tempérés. <i>Voyez aussi les élémens de Chimie de</i> Boerhaave, <i>de igne, experiment. jv. coroll. 4</i>.
+</p>
+<p>
+Le froid propre à la <i>glace</i> conservée convenablement,
+suffit seul pour rafraîchir les liquides destinés
+à la boisson dans les repas : on ne donne à ce froid
+plus d&#39;intensité que pour certaines boissons particulieres,
+telles que les préparations appellées <i>orgeat,
+limonade, &amp;c.</i> boissons que l&#39;on rafraîchit au point
+d&#39;y former de petits glaçons, qui n&#39;en détruisent pas
+<pb n="7:685" facs="V7/ENC_7-685.jpeg" />
+<milestone unit="column" n="1" />
+totalement la fluidité, &amp; les rendent d&#39;un usage très agréable,
+en conservant plus long-tems leur fraîcheur
+dans le trajet de la bouche, à l&#39;estomac, &amp; même jusque 
+dans ce viscere.
+</p>
+<p>
+On employe aussi la <i>glace</i> rendue plus froide qu&#39;elle 
+n&#39;est naturellement, pour congeler des préparations 
+alimentaires faites avec le lait ou le suc de
+différens fruits, le sucre, <i>&amp;c.</i> en consistence de creme 
+ou de fromage mou, auxquelles on donne par excellence 
+le nom de <i>glace</i>, qui sont propres à être servies 
+pour les entre-mets, pour les desserts, les colations,
+<i>&amp;c.</i> &amp; qui ajoûtent beaucoup aux délices de
+la table. <i>Voyez</i> <sc><ref target="head:Glace" type="search">Glace</ref></sc>.
+</p>
+<p>
+Les Medecins dont les connoissances doivent autant 
+servir à régler ce qui convient pour la conservation 
+de la sante ; à indiquer ce qui peut lui nuire,
+qu&#39;à rechercher les causes des maladies ; à prescrire
+les moyens propres pour les traiter, pour en procurer 
+la guérison : convaincus par l&#39;expérience la plus
+générale, autant que par le raisonnement physique
+concernant l&#39;effet que peuvent produire dans le corps
+humain les boissons &amp; autres préparations à la <i>glace</i>,
+qu&#39;elles sont d&#39;un usage aussi dangereux qu&#39;il est délectable,
+s&#39;accordent presque tous à le proscrire sans
+ménagement, &amp; à le regarder comme une des causes 
+des plus communes d&#39;une infinité de desordres
+dans l&#39;économie animale.
+</p>
+<p>
+En effet, le sang &amp; la plûpart de nos humeurs n&#39;étant 
+dans un etat de liquidité que par accident, c&#39;est-à-dire par des causes physiques &amp; méchaniques, qui
+lui sont absolument étrangeres ; telles que la chaleur
+animale qui dépend principalement de l&#39;action des
+vaisseaux qui les contiennent, &amp; l&#39;agitation qu&#39;ils
+procurent aux humeurs par cette même action, qui
+tend continuellement à desunir &amp; à conserver dans
+l&#39;état de desunion les molécules qui composent ces
+humeurs, &amp; à s&#39;opposer à la disposition qu&#39;elles ont
+à se coaguler ; &amp; l&#39;effet de l&#39;impression du froid appliqué 
+aux parties vivantes du corps animal, étant
+de causer une sorte de constriction, de resserrement,
+dans les solides, &amp; une vraie condensation dans les
+fluides ; ce qui peut aller jusqu&#39;à diminuer l&#39;action de
+ceux-là &amp; la fluidité de ceux ci : il s&#39;ensuit que tout
+ce qui peut donner lieu à un pareil effet doit nuire
+considérablement à l&#39;exercice des fonctions, oit dans
+les parties qui en sont affectées immediatement, soit
+de proche en proche dans celles qui en sont voisines,
+par une propagation indépendante de celle du froid ;
+par une espece de spasme sympathique, oue l&#39;impression 
+du froid dans une partie occasionne dans d&#39;autres,
+même des plus éloignées. D&#39;où peuvent se former 
+des engorgemens dans les vaisseaux de tous les
+genres qui y troublent le cours des humeurs, mais
+sur-tout dans ceux qui peuvent être le siége des inflammations : d&#39;où s&#39;ensuivent des étranglemens dans
+des portions du canal intestinal qui interceptent le
+cours des matieres flatueuses qui y sont contenues,
+dont la raréfaction ultérieure cause des distensions
+très-douloureuses aux tuniques membraneuses qui
+les enferment ; des gonflemens extraordinaires &amp; autres 
+symptomes qui accompagnent les coliques venteuses : d&#39;où résultent aussi très-fréquemment des embarras 
+dans les secrétions, de celle sur-tout qui se fait
+dans le foie ; des suppressions d&#39;évacuations habituelles,
+comme de celle des menstrues, des hemorrhoïdes,
+des cours de ventre critiques, <i>&amp;c. Voyez</i> <sc><ref target="head:Froid" type="search">Froid</ref></sc>
+(<i>Pathologie</i>), 
+<sc><ref target="head:Pleurésie" type="search">Pleurésie</ref>, <ref target="head:Fluxion" type="search">Fluxion</ref>, <ref target="head:Colique" type="search">Colique</ref>, <ref target="head:Ventosité" type="search">Ventosité</ref></sc>, <i>&amp;c.</i> en sorte qu&#39;il ne peut qu&#39;y avoir
+beaucoup à se défier des observations qui paroissent
+autoriser l&#39;usage des boissons &amp; des préparations alimentaires 
+à la <i>glace:</i> elles seront toujours suspectes,
+lorsqu&#39;on aura égard aux observations trop communes 
+des mauvais effets que l&#39;on vient de dire qu&#39;elles
+produisent très-souvent, en donnant naissance à différentes<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+maladies, la plûpart de nature très-dangereuse, sur-tout lorsqu&#39;on use de <i>glace</i> dans les cas où
+l&#39;on est échauffé extraordinairement par quelque
+exercice violent, ou par toute autre cause que ce
+puisse être d&#39;agitation du corps, méchanique ou physique ; 
+ce qui forme un état où l&#39;on est d&#39;autant plus
+porté à user des moyens qui peuvent procurer du
+rafraîchissement, tant intérieurement qu&#39;extérieurement,
+que l&#39;on s&#39;expose davantage à en éprouver
+de funestes effets.
+</p>
+<p>
+C&#39;est contre les abus de cette espece que s&#39;éleve
+si fortement Hippocrate, lorsqu&#39;il dit, <i>aphoris. lj.
+sect. 2.</i> que tout ce qui est excessif est ennemi de la
+nature, &amp; qu&#39;il est très-dangereux dans l&#39;économie
+animale, de procurer quelque changement nubit, de
+quelque nature qu&#39;il puisse être. Les plus grands medecins 
+ont ensuite appuyé le jugement de leur chef
+d&#39;une infinité d&#39;observations relatives spécialement à
+ce dont il s&#39;agit ici ; tels que Marc Donat, <i>de medicis
+historiis mirabilibus ;</i> Calder. Heredia, <i>tract. de potionum 
+varietate</i> ; Amat. Lusitanus, Benivenius, Hildan,
+<i>cent iij. observat. 48. &amp; cent. v. observat. 29</i>. Skenchius, <i>observat. lib. II.</i> Hoffman, <i>pathol. génér. c. x.
+de frigido potu vitae &amp; sanitati hominum inimicissimo</i>.
+Il y a même des auteurs qui en traitant des mauvais
+effets des boissons froides avec excès, comme des
+bains froids employés imprudemment, rapportent
+en avoir vû résulter même des morts subites ; tel est,
+entr&#39;autres, Lancisi, <i>de subitaneis morbis, lib. II. c.
+vij</i>.
+</p>
+<p>
+Mais comme l&#39;usage de boire à la <i>glace</i> est devenu
+si commun, qu&#39;on ne doit pas s&#39;attendre qu&#39;aucune
+raison d&#39;intérêt pour la santé puisse le combattre
+avec succès, &amp; soit supérieure à l&#39;attrait du plaisir
+qu&#39;on s&#39;en promet ; il est important de tâcher au moins 
+de rendre cet usage aussi peu nuisible qu&#39;il est
+possible. C&#39;est dans cette vûe que nous proposons ici
+les conseils que donne Riviere à cet effet (<i>instit. med.
+lib. IV. cap. xxjv. de potu</i>); savoir, de ne boire jamais 
+à la <i>glace</i> dans un tems où on est échauffé par
+quelque agitation du corps que ce soit ; &amp; lorsque
+l&#39;on use habituellement d&#39;une boisson ainsi préparée,
+de ne boire qu&#39;après avoir pris une certaine quantité 
+d&#39;alimens, pour que le liquide excessivement
+froid qui s&#39;y mêle, fasse moins d&#39;impression sur les
+tuniques de l&#39;estomac ; de ne boire que peu à-la-fois
+par la même raison, &amp; de boire un peu plus de vin
+qu&#39;à l&#39;ordinaire, pour que sa qualité échauffante serve
+de correctif aux effets de la <i>glace</i>, qui sont sur-tout
+très-pernicieux aux enfans, aux vieillards, &amp; à toutes 
+les personnes d&#39;un tempérament froid, delicat,
+qui ne peuvent par conséquent convenir, si elles conviennent 
+à quelqu&#39;un dans les climats tempérés, qu&#39;aux 
+personnes robustes accoûtumées aux exercices
+du corps.
+</p>
+<p>
+Avec ces précautions, ces ménagemens, &amp; ces
+attentions, on peut éviter les mauvais effets des boissons 
+rafraîchies par le moyen de la <i>glace:</i> on peut
+même les rendre utiles, non-seulement dans la santé,
+pendant les grandes chaleurs, mais encore dans
+un grand nombre de maladies, sur-tout dans les climats 
+bien chauds. C&#39;est ce qu&#39;établit avec le fondement 
+le plus raisonnable, le célebre Hoffman, qui
+après avoir montré le danger des effets de la boisson
+à la <i>glace</i>, dans la dissertation citée ci-devant, en a
+fait une autre (<i>de aquae frigidae potu salutari</i>) pour
+relever les avantages de l&#39;usage que l&#39;on peut en
+faire dans les cas convenables &amp; avec modération.
+Il rapporte, d&#39;après Ramazzini (<i>de tuendâ principum
+valetudine, cap. v.</i>) des circonstances qui prouvent
+que cet usage non-seulement n&#39;est pas nuisible, mais
+qu&#39;il est même nécessaire en Espagne &amp; en Italie pendant 
+les grandes chaleurs ; puisqu&#39;on observe dans
+ce pays-là, que dans les années où il manque de la
+<pb n="7:686" facs="V7/ENC_7-686.jpeg" />
+<milestone unit="column" n="1" />
+neige pour rafraîchir la boisson, il regne plus de maladies 
+putrides, malignes, que dans les autres tems
+où la neige a pû être ramassée en abondance ; en
+sorte que lorsqu&#39;il n&#39;en tombe pas, la saison qui suit
+est regardée d&#39;avance comme devant être funeste à
+la santé &amp; même à la vie des hommes. Ne seroit on
+pas fondé à inférer de-là que ce qu&#39;on appelle des
+<i>glaces</i> pourroit être encore plus utile dans de semblables 
+cas, que la simple boisson à la <i>glace ;</i> parce
+qu&#39;elles sont plus denses, plus propres à conserver
+leur qualité rafraîchissante ; à donner du ressort aux
+estomacs relâchés, distendus par une trop grande
+quantité d&#39;alimens ; &amp; à s&#39;opposer à la putrefaction
+que ceux qui en sont susceptibles pourroient y contracter,
+en séjournant long-tems dans ce viscere?
+</p>
+<p>
+On peut ajoûter que d&#39;après les eloges que font la
+plûpart des anciens medecins, tels qu&#39;Hippocrate,
+Galien, Celse, de l&#39;usage de la boisson bien froide,
+dans bien des maladies ardentes, bilieuses, des praticiens 
+modernes ont employé avec succès la boisson
+à la <i>glace</i> dans des cas pareils ; mais seulement lorsque 
+ces maladies portoient un caractere de relâchement,
+d&#39;atonie dans les fibres en général, &amp; particulierement 
+à l&#39;égard des premieres voies, sans aucune 
+disposition au spasme, à l&#39;érétisme du genre
+nerveux. C&#39;est dans de semblables circonstances que
+l&#39;on s&#39;est souvent servi utilement de la boisson à la
+<i>glace</i>, pour guérir des dyssenteries, des cours de ventre 
+opiniâtres pendant les grandes chaleurs ; que la
+<i>glace</i> elle-même employée tant intérieurement qu&#39;extérieurement,
+a arrêté des hémorrhagies rébelles, par
+quelques voies qu&#39;elles se fissent ; qu&#39;elle a guéri des
+coliques bilieuses, violentes, &amp; sur-tout de celles qui
+sont causées par des vents &amp; même des emphysemes,
+des tympanieres confirmées. <i>Voyez</i> les observations 
+citées dans la <i>dissertation</i> d&#39;Hoffman ; &amp; pour
+ce qui regarde les flatulences, la <i>pneumato-pathologie</i> de M. Combalusier, docteur medecin de Montpellier &amp; ensuite de Paris, publiée en latin en 1747.
+Il y a aussi bien des observations de cas dans lesquels
+on a éprouvé de bons effets de la <i>glace</i> appliquée sur
+les parties gangrenées par le froid. <i>Voyez</i> 
+<sc><ref target="head:Gangrene" type="search">Gangrene</ref>, <ref target="head:Mortification" type="search">Mortification</ref>, <ref target="head:Sphacele" type="search">Sphacele</ref></sc>
+; &amp; <i>le commentaire 
+sur ce sujet des aphorismes de</i> Boerhaave, <i>par l&#39;illustre</i> Wansvieten.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

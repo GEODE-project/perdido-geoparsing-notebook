@@ -1,0 +1,289 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30778" id="55:314:2" vol="7">
+<index type="head" value="Gymnastique médicinale" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. de la Méd. antiq." />
+<index type="normclass" value="Histoire de la médecine antique" />
+<index type="englishclass" value="History of ancient medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Gymnastique médicinale</head>
+<p>
+<sc>Gymnastique médicinale</sc>, (<i>Hist. de la Méd.
+antiq.</i>) c&#39;étoit cette partie de la <i>gymnastique</i> qui enseignoit 
+la methode de conserver &amp; de rétablir la
+santé par le moyen de l&#39;exercice.
+</p>
+<p>
+Hérodicus de Lentini, autrefois Léontini, en Sicile, né quelque tems avant Hippocrate &amp; son contemporain,
+est déclare par Platon pour être l&#39;inventeur 
+de la <i>gymnastique médicinale</i>, fille de la <i>gymnastique</i> militaire. Hérodicus étoit medecin, &amp; de plus
+maitre d&#39;une académie où la jeunesse venoit s&#39;exercer 
+pour les jeux publics qu&#39;on célebroit en divers
+lieux de la Grece avec tant de solennité. <i>Voy.</i> <sc><ref target="head:Gymniques" type="search">Gymniques</ref></sc> (<sc><ref target="head:Jeux" type="search">Jeux</ref></sc>).
+</p>
+<p>
+Hérodicus ayant remarqué que les jeunes gens
+qu&#39;il avoit sous sa conduite, &amp; qui apprenoient ces
+exercices, étoient pour l&#39;ordinaire d&#39;une très-forte
+santé, il imputa d&#39;abord ce bonheur au continuel
+exercice qu&#39;ils faisoient : ensuite il poussa plus loin
+cette premiere réflexion qui étoit fort naturelle, &amp;
+se persuada qu&#39;on pouvoit tirer beaucoup d&#39;autres
+avantages de l&#39;exercice, si on se proposoit uniquement 
+pour but l&#39;acquisition ou la conservation de la
+santé.
+</p>
+<p>
+Sur ces principes, il laissa la <i>gymnastique</i> militaire
+&amp; celle des athletes, pour ne s&#39;attacher qu&#39;à la
+<i>gymnastique médicinale</i>, &amp; pour donner là-dessus les
+regles &amp; les préceptes qu&#39;il jugea nécessaires. Nous
+ne savons pas quelles étoient ces regles ; mais il y a
+de l&#39;apparence qu&#39;elles regardoient d&#39;un côté les differentes 
+sortes d&#39;exercices que l&#39;on pouvoit pratiquer 
+pour la santé, &amp; de l&#39;autre les précautions dont
+il falloit user selon la différence des sexes, des temperamens,
+des âges, des climats, des saisons, des
+maladies, <i>&amp;c.</i> Hérodicus régloit encore sans doute
+la maniere de se nourrir ou de faire abstinence,
+par rapport aux différens exercices que l&#39;on feroit ; 
+ensorte que sa <i>gymnastique</i> renfermoit la Diététique, cette partie de la Medecine auparavant inconnue,
+&amp; qui fut depuis très-cultivée.
+</p>
+<p>
+Hippocrate saisit des idées si sages, &amp; ne manqua
+pas d&#39;employer la <i>gymnastique</i> en diverses maladies-Tous les medecins qui lui succéderent goûterent tellement 
+ce genre de medecine, qu&#39;il n&#39;y en eut point
+qui ne le regardât comme une partie essentielle de
+l&#39;art : nous n&#39;avons plus les écrits que Diocles, Praxagore, Philotime, Erasistrate, Hérophile, Asclépiade, &amp; plusieurs autres, avoient donnes sur cette
+matiere ; mais ce qui s&#39;en trouve dans Galien &amp; dans
+les auteurs qui citent ceux qu&#39;on vient de nommer,
+suffit pour justifier en quelle estime étoit la <i>gymnastique médicinale</i> parmi les anciens.
+</p>
+<p>
+Les Medecins n&#39;etoient pas les seuls qui la recommandassent ; 
+tout le monde en général se convainquit 
+si fort de l&#39;utilité qu&#39;on en retiroit, qu&#39;il y avoit
+une infinité de gens qui passoient une partie de leur
+vie dans les lieux d&#39;exercices qu&#39;on appelloit <i>gymnases</i> · il est vrai néanmoins que ces lieux étoient autant 
+destinés à la <i>gymnastique</i> athlétique qu&#39;à la <i>gymnastique médicinale. Voyez</i> <sc><ref target="head:Gymnase" type="search">Gymnase</ref></sc>.
+</p>
+<p>
+Les exercices qu&#39;on y faisoit, consistoient à se
+promener dans des allées couvertes &amp; découvertes ;
+à joüer au palet, à la paume, au ballon ; à lancer le
+javelot, à tirer de l&#39;arc, à lutter, à danser,
+à courir, à monter à cheval, <i>&amp;c.</i>
+<pb n="7:1018" facs="V7/ENC_7-1018.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Une partie de ces exercices étoit pratiquée par
+toutes sortes de personnes pour la santé; mais les appartemens 
+affectés à ce dernier usage, étoient le lieu
+des bains, celui où l&#39;on se deshabilloit, où l&#39;on se
+faisoit décrasser, frotter avec des instrumens faits
+exprès, &amp; oindre avec certaines drogues, <i>&amp;c.</i> Chacun usoit de ces exercices comme il lui plaisoit ; les
+uns ne prenoient part qu&#39;à un seul, pendant que
+d&#39;autres s&#39;occupoient successivement de plusieurs.
+Les gens de lettres commençoient par oüir les philosophes 
+&amp; les savans qui s&#39;y rendoient ; ils joüoient
+ensuite à la paume, ou bien ils s&#39;exerçoient de quelque 
+autre maniere, &amp; enfin ils entroient dans le
+bain : il n&#39;y a rien de plus naturel que cette espece
+de <i>medecine gymnastique ;</i> tout homme judicieux la
+doit préférer à celle qui consiste dans l&#39;usage des médicamens,
+parce que cette derniere est presque toûjours 
+palliative, desagréable, &amp; souvent dangereuse.
+</p>
+<p>
+Les Romains ne commencerent à bâtir des lieux
+d&#39;exercices que long-tems après les Grecs ; mais ils
+les surpasserent de beaucoup, soit par le nombre
+soit par la magnificence des bâtimens, comme on
+en peut juger par les descriptions des auteurs, &amp; par
+les ruines qui subsistent encore : on en étoit si fort
+épris à Rome, que selon la remarque de Varron,
+quoique chacun eût le sien, à peine étoit-on content.
+</p>
+<p>
+La <i>gymnastique médicinale</i> étoit déjà tombée dans
+des minuties aussi nombreuses que frivoles, témoins
+les conseils des trois livres intitulés <i>du regime</i>, attribués 
+faussement à Hippocrate : ils ne roulent que sur
+les différens tems propres à s&#39;exercer ; ils indiquent
+si ce doit être à jeun ou après avoir pris de la nourriture,
+le matin ou le soir, à l&#39;air, au soleil ou à
+l&#39;ombre ; s&#39;il faut être nud, c&#39;est-à-dire sans manteau,
+ou s&#39;il faut être habillé; quand il convient d&#39;aller lentement,
+&amp; quand il est nécessaire d&#39;aller vîte ou de
+courir : ce même ouvrage traite de plusieurs autres
+minuties, comme d&#39;un jeu de main &amp; de doigts prétendu 
+très-utile pour la santé, &amp; qui s&#39;appelloit <i>chironomie ;</i> il y est aussi parlé d&#39;une espece de ballon
+suspendu qu&#39;on nommoit <i>corycus</i>, &amp; qu&#39;on poussoit
+de toute sa force avec les bras.
+</p>
+<p>
+Mais comme les bains composoient principalement
+la <i>gymnastique médicinale</i>, aussi bien que la coûtume
+de se faire frotter &amp; de se faire oindre, il arriva que
+l&#39;application des huiles, des onguens, &amp; des parfums 
+liquides dont on se servoit, soit avant soit après
+le bain, soit dans d&#39;autres conjonctures, occupa chez
+les Romains, dans le tems de leur décadence, autant 
+de personnes que les bains mêmes.
+</p>
+<p>
+Ceux qui faisoient profession d&#39;ordonner ces onguens 
+ou ces huiles aux malades &amp; aux gens sains,
+s&#39;appelloient <i>jatraliptae</i>, c&#39;est-à-dire <i>medecins des
+onguens ;</i> ils avoient sous leurs ordres des gens qu&#39;on 
+nommoit <i>unctores</i>, qui ne servoient qu&#39;à oindre,
+&amp; qu&#39;il faut distinguer non-seulement des <i>unguentarii</i>, ou vendeurs d&#39;huiles &amp; d&#39;onguens, mais encore
+des <i>olearii</i>, lesquels étoient des esclaves qui portoient
+le pot à essence pour leurs maîtres, lorsqu&#39;ils alloient
+au bain.
+</p>
+<p>
+Après avoir oint, &amp; avant qu&#39;on oignît, on frottoit 
+&amp; on racloit la peau ; ce qui étoit l&#39;office des
+frotteurs, <i>fricatores:</i> ils se servoient pour cela d&#39;un
+instrument appellé <i>strigil</i>, fait exprès pour décrasser
+la peau, pour en ôter les restes de l&#39;huile &amp; même
+de la poussiere dont on se couvroit lorsqu&#39;on vouloit 
+lutter ou prendre quelque autre exercice. <i>Voyez</i>
+<sc><ref target="head:Strigil" type="search">Strigil</ref></sc>.
+</p>
+<p>
+Ce n&#39;est pas tout, les jatraliptes avoient encore
+sous eux les gens qui se mêloient de manier doucement 
+les jointures &amp; les autres parties du corps, pour
+les rendre plus souples ; on nommoit ceux-ci <i>tractatores</i>. C&#39;est de ces gens-là que parle Séneque, lorsqu&#39;il
+<milestone unit="column" n="2" />
+dit, indigné des abus qui se commettoient à cet égard:
+<blockquote> 
+« Faut-il que je donne mes jointures à amollir à ces
+efféminés? ou faut-il que je souffre que quelque
+femmelette ou quelque homme change en femme,
+m&#39;étende mes doigts délicats? Pourquoi n&#39;estimerai-je pas plus heureux un Mucius Scaevola qui manioit 
+aussi aisément le feu avec sa main, que s&#39;il
+l&#39;eût tendue à un de ceux qui professent l&#39;art de manier 
+les jointures »?
+</blockquote>
+Ce qui mettoit Séneque de
+mauvaise humeur contre cette espece de remede &amp;
+contre ceux qui le pratiquoient, c&#39;est qu&#39;ils le faisoient 
+la plûpart par mignardise &amp; par delicatesse.
+</p>
+<p>
+Pour dire ici quelque chose de plus honteux, les
+hommes employoient à cet usage des femmes choisies 
+que l&#39;on appelloit <i>tractatrices ;</i> je ne veux pour
+preuve de cette depravation, que l&#39;épigramme de
+Martial contre un riche voluptueux de son tems.
+</p>
+<p>
+<lg>
+<i>Percurrit agile corpus arte tractatrix.
+Manumque doctam spargit omnibus membris.
+Lib. III. epigr. 81</i>.
+</lg>
+</p>
+<p>
+Enfin dans ce genre de luxe, comme les huiles,
+les onguens, les parfums liquides, ne pouvoient pas
+être commodément administrés qu&#39;on n&#39;ôtât le poil,
+on dépiloit industrieusement avec des pincettes, des
+pierres-ponces, &amp; toutes sortes de dépilatoires composes 
+avec art : les hommes qui servoient à cet office,
+étoient appellés <i>dropacistae</i> &amp; <i>alipilarii</i>, &amp; les
+femmes <i>picatrices</i> &amp; <i>paratiltriae</i>. Ainsi la medecine
+<i>gymnastique</i>, simple dans son origine, devint minutieuse 
+dans la pratique, &amp; finit par dégénerer en rafinement 
+de luxe, de mollesse, &amp; de volupté. <i>Article de M. le chevalier <sc>de Jaucourt</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

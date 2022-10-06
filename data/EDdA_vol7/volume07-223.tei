@@ -1,0 +1,320 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27677" id="48:98:7" vol="7">
+<index type="head" value="Forces centrales &amp; centrifuges" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Forces centrales &amp; centrifuges</head>
+<p>
+<sc>Forces centrales <i>&amp;</i> centrifuges</sc>. Nous
+avons donné la définition des <i>forces centrales au mot</i>
+<sc><ref target="head:Central" type="search">Central</ref></sc><sup><ref type="note" target="n5" n="*" /></sup>, 
+&amp; nous y renvoyons, ainsi qu&#39;à la division 
+des <i>forces centrales</i> en <i>centripetes</i> &amp; <i>centrifuges</i>,
+selon qu&#39;elles tendent à approcher ou à éloigner le
+corps du point fixe ou mobile auquel on rapporte
+l&#39;action de la <i>force centrale</i>. Ce même mot de <i>force
+centrifuge</i> signifie encore plus ordinairement cette
+<i>force</i> par laquelle un corps mu circulairement tend
+continuellement à s&#39;eloigner du centre du cercle
+qu&#39;il décrit. Cette <i>force</i> se manifeste aisément à nos
+sens dans le mouvement d&#39;une fronde ; car nous sentons 
+que la fronde est d&#39;autant plus tendue par la
+pierre, que cette pierre est tournée avec plus de
+vîtesse ; &amp; cette tension suppose dans la pierre un
+effort pour s&#39;eloigner de la main, qui est le centre du
+cercle que la pierre décrit. En effet la pierre mue
+circulairement tend continuellement à s&#39;échapper
+par la tangente, en vertu de la <i>force</i> d&#39;inertie, comme 
+on l&#39;a prouvé <i>au mot</i> <sc><ref target="head:Centrifuge" type="search">Centrifuge</ref></sc>. Or l&#39;effort
+pour s&#39;échapper par la tangente, tend à éloigner le
+corps du centre, comme cela est évident, puisque
+si le corps s&#39;échappoit par la tangente, il s&#39;éloigneroit 
+toûjours de plus en plus de ce même centre.
+Donc l&#39;effort de la pierre, pour s&#39;échapper par la
+tangente, doit tendre la fronde. Veut-on le voir d&#39;une 
+maniere encore plus distincte? Le corps arrivé
+au point <i>A</i> (<i><ref target="XPL:4748" type="platelink">fig. 24</ref>. Méchaniq.</i>) tend à se mouvoir
+par la tangente ou portion de tangente infiniment
+petite <i>A D</i>. Or par le principe de la décomposition
+des <i>forces</i> (<i>voyez</i> <sc><ref target="head:Décomposition" type="search">Décomposition</ref> <i>&amp;</i> <ref target="head:Composition" type="search">Composition</ref></sc>), on peut regarder ce mouvement suivant
+<i>A D</i> comme composé de deux mouvemens, l&#39;un suivant 
+l&#39;arc <i>A E</i> du cercle, l&#39;autre suivant la ligne
+<i>E D</i>, qu&#39;on peut supposer dirigée au centre. De ces
+deux mouvemens, le corps ne conserve que le
+mouvement suivant <i>A E ;</i> donc le mouvement suivant 
+<i>E D</i> est détruit ; &amp; comme ce mouvement est
+dirigé du centre à la circonférence, c&#39;est en vertu
+de la tendance à ce mouvement que la fronde est
+bandée.
+</p>
+<p>
+Un corps qui se meut sur toute autre courbe que
+sur un cercle, fait effort de même à chaque instant
+pour s&#39;échapper par la tangente ; ainsi on a nommé
+en général cet effort <i>force centrifuge</i>, quelle que soit
+la courbe que le corps décrit.
+</p>
+<p>
+Pour calculer la <i>force centrifuge</i> d&#39;un corps sur une
+courbe quelconque, il suffit de la savoir calculer dans
+un cercle ; car une courbe quelconque peut être regardée 
+comme composée d&#39;une infinité d&#39;arcs de
+cercle, dont les centres sont dans la développée.
+<i>Voyez</i> <sc><ref target="head:Développée" type="search">Développée</ref> <i>&amp;</i> <ref target="head:Osculateur" type="search">Osculateur</ref></sc>. Ainsi connoissant 
+la loi des <i>forces centrifuges</i> dans le cercle, on
+connoîtra celle des <i>forces centrifuges</i> dans une courbe
+quelconque. Or il est facile de calculer la <i>force centrifuge</i> dans un cercle ; car suivant ce que nous avons
+<pb n="7:119" facs="V7/ENC_7-119.jpeg" />
+<milestone unit="column" n="1" />
+dit ci-dessus, si on nomme <foreign lang="greek">φ</foreign> la <i>force centrifuge</i>, &amp; <i>d t</i>
+le tems employé à parcourir <i>A E</i> ou <i>D E</i> (<i><ref target="XPL:4749" type="platelink">fig. 24</ref>.
+Méchaniq.</i>), on aura <gap type="formula" /> en regardant 
+le cercle comme rigoureux. Or dans cette hypothèse 
+on a <gap type="formula" /> par la propriété du cercle ; 
+donc <gap type="formula" />.
+</p>
+<p>
+Dans le cercle polygone on a <gap type="formula" /> ; parce 
+que regardant <i>A D</i> comme le prolongement d&#39;un
+petit côté du cercle, on a <i>D E</i>:<i>A E</i>::<i>A E</i> est au
+rayon (<i>A B</i>/2; &amp; dans cette même hypothèse on a <foreign lang="greek">φ</foreign>:
+<gap type="formula" /> ; donc on aura <gap type="formula" />  ;
+équation qui est la même que la précédente.
+On voit donc qu&#39;en s&#39;y prenant bien, la valeur 
+de la <i>force centrifuge</i> se trouve la même dans les
+deux cas.
+</p>
+<p>
+Si on appelle <i>u</i> la vîtesse du corps, &amp; si on suppose 
+<i>u</i> égale à la vitesse que le corps auroit acquise
+en tombant de la hauteur <i>h</i>, en vertu de la pesanteur 
+<i>p</i>, on aura <i>u u</i>=2 <i>p h. Voyez</i> <sc><ref target="head:Accélération" type="search">Accélération</ref>,
+<ref target="head:Pesanteur" type="search">Pesanteur</ref></sc>, <i>&amp; ce que nous avons dit ci-dessus</i> à l&#39;occasion 
+de l&#39;équation <foreign lang="greek">φ</foreign> <i>d e=u d u</i>. De plus on aura
+par la même raison <gap type="formula" /> pour la vîtesse que le
+corps acquerroit en tombant de la hauteur <i>a</i> pendant 
+le tems <foreign lang="greek">θ</foreign> ; &amp; comme cette vîtesse feroit parcourir 
+uniformément l&#39;espace <i>2 a</i> pendant le même tems
+<foreign lang="greek">θ</foreign> (<i>voyez</i> <sc><ref target="head:Accélération" type="search">Accélération</ref> <i>&amp;</i> <ref target="head:Descente" type="search">Descente</ref></sc>), on aura
+<gap type="formula" />
+donc <gap type="formula" />  ;
+donc <gap type="formula" /> ; &amp; voilà la démonstration 
+du théorème que nous avons donné d&#39;après 
+M. Huyghens <i>au mot</i> <sc><ref target="head:Central" type="search">Central</ref></sc> ; car on aura
+<gap type="formula" />. On peut voir les consequences de
+ce théorème <i>au même mot</i> <sc><ref target="head:Central" type="search">Central</ref></sc>.
+</p>
+<p>
+On lit dans certains ouvrages que la <i>force centrifuge</i> est <i>égale</i> au quarré de la vîtesse divisé par le
+rayon, &amp; dans d&#39;autres qu&#39;elle est égale au quarré
+de la vîtesse divisé par le diametre : cette différence
+d&#39;expressions ne doit point surprendre ; car le mot
+<i>égale</i> ne signifie ici que <i>proportionnelle</i>, comme on
+l&#39;a expliqué dans <i>l&#39;article</i> <sc><ref target="head:Equation" type="search">Equation</ref></sc> ; cela signifie 
+donc seulement que les <i>forces centrifuges</i> dans
+deux cercles différens sont comme les quarrés des
+vîtesses divisés par les rayons, ou ce qui est la même
+chose, par les diametres. <i>Voyez le mot</i> <sc><ref target="head:Equation" type="search">Equation</ref></sc>
+<i>à la fin</i>.
+</p>
+<p>
+Au reste la raison de cette différence apparente de
+valeur que les auteurs de Méchanique ont donnée
+à la <i>force centrifuge</i>, vient de ce qu&#39;ayant pris la ligne 
+<i>D E</i> pour représenter la <i>force centrifuge</i>, le tems
+<i>d t</i> étant constant, les uns ont considéré <i>D E</i> dans
+la courbe polygone, les autres dans la courbe rigoureuse.
+Dans le premier cas <i>D E=A E</i><sup>2</sup> divisé
+par le rayon ; &amp; dans le second <i>D E=A E</i><sup>2</sup> divisé
+par le diametre. Or <i>A E</i> est ici comme la vîtesse,
+puisqu&#39;on suppose <i>d t</i> constant ; donc au lieu de
+<i>A E<sup>2</sup></i>, on peut mettre la quarré de la vîtesse. Donc,
+<i>&amp;c.</i> Ces différentes observations contribueront beaucoup 
+à éclaircir ce que les différens auteurs ont écrit
+sur les <i>forces</i> centrales &amp; centrifuges.
+</p>
+<p>
+Puisque <i>2 p h=u u</i>, &amp; que <i>A B/2</i> est le rayon du
+cercle, il s&#39;ensuit que si on fait ce rayon=<i>r</i>, on
+aura <gap type="formula" />, soit que <i>u</i> &amp; <i>r</i> soient constans, ou non ;
+c&#39;est-à-dire que l&#39;équation <gap type="formula" />, ou <gap type="formula" />, aura
+<milestone unit="column" n="2" />
+lieu dans toutes les courbes, <i>u</i> étant la vîtesse en
+un point quelconque, &amp; <i>r</i> le rayon de la developpée.
+Remarquez que la <i>force centrifuge</i> <foreign lang="greek">φ</foreign> est ici supposée 
+dirigée par rapport au centre du cercle osculateur,
+qui est le point où le rayon osculateur touche
+la développée. Si on veut que la <i>force, centrifuge</i> ou
+<i>centrale</i>, soit dirigée vers un autre point quelconque,
+soit <i>F</i> cette nouvelle <i>force</i>, soit <foreign lang="greek">κ</foreign> le cosinus de
+l&#39;angle que le rayon mené à ce point fait avec le
+rayon osculateur ; alors regardant la <i>force</i> <foreign lang="greek">φ</foreign> comme
+composée de la <i>force F</i>, &amp; d&#39;une autre <i>force</i> dirigée
+suivant la courbe, on trouvera facilement par le
+principe de la décomposition des <i>forces, F</i>:<foreign lang="greek">φ</foreign>::1:<foreign lang="greek">κ</foreign>,
+en prenant 1 pour le <i>sinus</i> total ; donc <gap type="formula" /> ; donc
+<gap type="formula" />: c&#39;est la formule générale des <i>forces centrales</i> &amp; <i>centrifuges</i> dans une courbe quelconque.
+</p>
+<p>
+Qu&#39;on nous permette à ce sujet une réflexion
+philosophique sur les progrès de l&#39;esprit humain.
+Huyghens a decouvert la loi des <i>forces centrales</i>
+dans le cercle ; le même géometre a découvert la
+théorie des développées. L&#39;on vient de voir qu&#39;en
+réunissant ces deux théories, on en tiroit par un corollaire 
+très-facile la loi des <i>forces centrales</i> dans une
+courbe quelconque : cependant Huyghens n&#39;a pas
+fait ce dernier pas qui paroit aujourd&#39;hui si simple ;
+&amp; cela est d&#39;autant plus étonnant, que les deux pas
+qu&#39;il avoit faits étoient beaucoup plus difficiles. Newton, en généralisant la théorie de Huyghens, a trouvé 
+le théorème général des <i>forces centrales</i> qui l&#39;a
+conduit au vrai système du monde ; comme il a
+trouvé le calcul différentiel, en ne faisant que généraliser 
+la méthode de Barrow pour les tangentes ;
+méthode qui étoit, pour ainsi dire, infiniment proche 
+du calcul différentiel. C&#39;est ainsi que les corollaires 
+les plus simples des vérités connues, qui ne
+consistent qu&#39;à rapprocher ces vérités, échappent
+souvent à ceux qui sembleroient avoir le plus de facilité 
+&amp; de droit de les déduire ; &amp; rien n&#39;est plus
+propre que l&#39;exemple dont on vient de faire mention,
+pour confirmer les réflexions que nous avons
+faites sur ce point <i>au mot</i> <sc><ref target="head:Découverte" type="search">Découverte</ref></sc>.
+</p>
+<p>
+Dans la formule que nous avons donnée ci-dessus
+pour les <i>forces centrales</i>, nous faisons abstraction de
+la masse du corps ; &amp; si on veut faire attention à
+cette masse, il est évident qu&#39;il faudra multiplier
+l&#39;expression de la <i>force centrale</i> par la masse du corps ;
+ou ce qui peut-être est encore plus simple, au lieu
+de regarder <i>p</i> comme la pesanteur, on regardera
+cette quantité comme le poids du corps, qui n&#39;est autre 
+chose que le produit de la pesanteur ou gravité
+par la masse. Nous faisons cette remarque, afin qu&#39;on
+ne soit point embarrassé à la lecture de <i>l&#39;article</i> <sc><ref target="head:Central" type="search">Central</ref></sc>, par la considération de la masse que nous
+avons fait entrer dans le calcul des <i>forces</i> dont il s&#39;agit.
+</p>
+<p>
+Ajoûtons que si on veut une autre expression de la
+<i>force centrifuge</i> <foreign lang="greek">φ</foreign>, que celle que nous avons donnée.
+on peut se servir de celles-ci qui seront commodes
+en plusieurs cas.
+</p>
+<p>
+On a trouvé <gap type="formula" /> ; or comme le cercle
+est supposé décrit uniformément, on peut, au lieu
+de <i>A E/d t</i>, mettre un arc quelconque fini <i>A</i> divisé par
+le tems <i>t</i> employé à le parcourir ; donc on aura <gap type="formula" />.
+</p>
+<p>
+Si on fait <i>t</i>=<foreign lang="greek">θ</foreign>, ce qui est permis, on aura <gap type="formula" />.
+De plus, si on nomme <i>l</i> la longueur d&#39;un pendule 
+qui fait une vibration dans le tems <foreign lang="greek">θ</foreign>, &amp; 2 <foreign lang="greek">π</foreign> le
+rapport de la circonference au rayon, on aura <gap type="formula" />.
+<i>Voyez</i> <sc><ref target="head:Pendule" type="search">Pendule</ref> <i>&amp;</i> <ref target="head:Vibration" type="search">Vibration</ref></sc>. Donc <foreign lang="greek">φ</foreign>
+<pb n="7:120" facs="V7/ENC_7-120.jpeg" />
+<milestone unit="column" n="1" />
+<gap type="formula" /> ; &amp; si on supposoit de plus <gap type="formula" />), ce
+qui est permis, on auroit <gap type="formula" />.
+</p>
+<p>
+C&#39;est par ces formules qu&#39;on trouve le rapport
+de la <i>force</i> centrifuge à la pesanteur sous l&#39;équateur.
+<i>Voyez</i> <sc><ref target="head:Pesanteur" type="search">Pesanteur</ref> <i>&amp;</i> <ref target="head:Gravité" type="search">Gravité</ref></sc>.
+</p>
+<div2 type="notes">
+<note id="n5">
+* <i>N. B.</i> Dans cet article, N°. 12. au lieu de raison <i>inverse</i>
+de la triplée, il faut lire raison <i>sous-doublée</i> de la triplée ; &amp;
+N°. 13. à la tin, il faut lire <i>sinus</i> pour <i>cosinus</i>.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

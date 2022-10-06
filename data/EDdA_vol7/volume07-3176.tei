@@ -1,0 +1,1698 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30630" id="55:207" vol="7">
+<index type="head" value="GUERRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit. &amp; Hist." />
+<index type="normclass" value="Art militaire | Histoire" />
+<index type="englishclass" value="Military Arts | History" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="sub.f" />
+<head>GUERRE</head>
+<p>
+GUERRE, sub. f. (<i>Art milit. &amp; Hist.</i>) différend
+entre des princes ou des états, qui se décide par la
+force ou par la voie des armes. C&#39;est-là à-peu-près
+la définition de Grotius, qui dit <i>que la guerre est l&#39;état
+de ceux qui tachent de vuider leurs différends par la
+voie de la force</i>.
+</p>
+<p>
+Suivant Montecuculli, <i>la guerre est une action d&#39;armées 
+qui se choquent en toute sorte de maniere, &amp; dont
+la fin est la victoire</i>. Cette définition n&#39;est pas absolument 
+exacte, parce que lorsqu&#39;un état puissant en
+attaque un plus foible, le but de la <i>guerre</i> dans le
+dernier n&#39;est pas tant de remporter la victoire sur
+l&#39;aggresseur, que de s&#39;opposer à ses desseins.
+</p>
+<p>
+Quoi qu&#39;il en soit, l&#39;idée de la <i>guerre</i> est trop commune 
+&amp; ses effets trop connus, pour s&#39;arrêter à l&#39;expliquer 
+plus particulierement. Comme les princes
+n&#39;ont point de tribunal sur terre qui puisse juger de
+leurs différends &amp; de leurs prétentions, c&#39;est la <i>guerre</i>
+ou la force qui peut seule en décider, &amp; qui en décide 
+ordinairement.
+</p>
+<p>
+Nous n&#39;entrerons dans aucun détail sur les différentes 
+circonstances qui rendent les <i>guerres</i> justes
+ou injustes. Nous renvoyons pour ce sujet au savant
+traité de Grotius, <i>de jure belli ac pacis ;</i> nous donnerons 
+seulement une legere idée de la <i>guerre offensive</i>
+&amp; de la <i>guerre défensive</i>. Elles peuvent se diviser
+chacune en <i>guerre de campagne</i>, &amp; en <i>guerre des siéges</i>.
+</p>
+<p>
+La <i>guerre offensive</i> est celle dans laquelle on se propose 
+d&#39;attaquer l&#39;ennemi. Dans la défensive, on a
+pour principal objet de résister aux efforts de l&#39;ennemi,
+&amp; de l&#39;empêcher de faire des conquêtes.
+</p>
+<p>
+La <i>guerre de campagne</i> est celle qui se fait entre deux
+armees opposées. A l&#39;égard de celle des siéges, elle
+consiste dans l&#39;attaque &amp; dans la défense des places.
+</p>
+<p>
+Avant que d&#39;entrer dans quelque détail sur ce sujet,
+observons d&#39;abord que la <i>guerre</i> est un art qui a
+ses regles &amp; ses principes, &amp; par conséquent sa théorie 
+&amp; sa pratique.
+<blockquote> 
+« Tous les Arts &amp; tous les Métiers
+se perfectionnent par l&#39;exercice. Si cette maxime a
+lieu dans les plus petites choses, à plus forte raison 
+dans les plus importantes. Or qui doute que
+l&#39;art de la <i>guerre</i> ne soit le plus grand de tous?
+C&#39;est par lui que la liberté se conserve, que les dignites 
+se perpétuent, que les provinces &amp; l&#39;empire 
+se maintiennent : c&#39;est cet art auquel les Lacédémoniens autrefois, &amp; ensuite les Romains, sacrifierent 
+toutes les autres sciences. C&#39;est l&#39;art de
+ménager la vie des combattans &amp; de remporter
+l&#39;avantage »
+</blockquote>
+Vegece, <i>traduction</i> de M. de Sigrais.
+</p>
+<p>
+L&#39;etude d&#39;un art si important doit, selon M. de Folard, faire la principale occupation des princes &amp;
+des grands. Rien de plus brillant que la carriere
+d&#39;un général qui fait servir sa science, son zele, &amp;
+son courage au service du prince &amp; de la patrie:
+<blockquote> 
+« quel est l&#39;art, dit cet auteur, qui égale un particulier 
+à son souverain, qui le rend dépositaire de
+toute sa puissance, de toute la gloire, &amp; de toute
+la fortune des états »?
+</blockquote>
+La <i>guerre</i> seule a cet avantage : peut-il être un motif plus noble &amp; plus intéressant 
+pour chercher à s&#39;y distinguer!
+</p>
+<p>
+Les regles ou les principes de la <i>guerre</i> qui en forment 
+la théorie, ne sont autre chose que le fruit des
+observations faites en differens tems pour faire combattre 
+les hommes le plus avantageusement qu&#39;il est
+possible. Thucidide remarque que la fameuse <i>guerre</i>
+du Peloponnese servit à augmenter l&#39;expérience des
+Grecs dans l&#39;art militaire ; parce que comme cette
+<i>guerre</i> fut souvent interrompue &amp; recommencée,
+chacun s&#39;appliquoit à rectifier les fautes qui avoient
+été remarquées dans les campagnes précédentes.
+</p>
+<p>
+La premiere idee qu&#39;on a du avoir lorsqu&#39;on a
+<milestone unit="column" n="2" />
+formé des hommes pour combattre, a sans doute été
+de les armer pour agir offensivement contre l&#39;ennemi.
+</p>
+<p>
+Les premieres armes furent d&#39;abord sort simples ;
+c&#39;étoit de gros bâtons, ou des especes de massues ou
+casse-têtes, ainsi qu&#39;en ont encore aujourd&#39;hui les
+Sauvages. On dut aussi se servir de pierres, qu&#39;on
+jettoit de loin avec la main : mais on trouva bientôt
+l&#39;invention de la fronde, pour les jetter de plus loin
+&amp; avec plus de force. Il y a apparence qu&#39;on songea 
+ensuite à armer les bâtons d&#39;un fer pointu ; qu&#39;on
+trouva, bientôt après l&#39;invention des épées ou des
+sabres ; &amp; qu&#39;à l&#39;imitation des pierres qu&#39;on lançoit
+avec la fronde, on imagina l&#39;arc pour lancer également les fleches : car toutes ces armes sont de la
+plus haute antiquité.
+</p>
+<p>
+Après avoir arme les combattans, il fut aisé de
+s&#39;appercevoir qu&#39;en les faisant agir en foule &amp; sans
+ordre, ils ne pouvoient se servir de leurs armes, &amp;
+qu&#39;ils s&#39;embarrasseroient réciproquement.
+</p>
+<p>
+Pour remédier à cet inconvénient, on les forma
+sur des lignes droites, &amp; l&#39;on mit plusieurs de ces
+lignes les unes derriere les autres, pour en augmenter 
+la force. <i>Voyez</i> <sc><ref target="head:Rangs" type="search">Rangs</ref> <i>&amp;</i> <ref target="head:Files" type="search">Files</ref></sc>.
+</p>
+<p>
+Après avoir armé les troupes &amp; leur avoir donné
+l&#39;arrangement précédent, il fallut leur apprendre à
+se servir de leurs armes, 7 à se mouvoir en ordre de
+tous les sens ; c&#39;est-à-dire qu&#39;il fallut leur apprendre
+l&#39;exercice ou le maniement des armes, &amp; les évolutions. <i>Voyez</i> <sc><ref target="head:Exercice" type="search">Exercice</ref> <i>&amp;</i> <ref target="head:Evolution" type="search">Evolution</ref></sc>.
+</p>
+<p>
+Les hommes en faisant usage de leurs armes contre 
+l&#39;ennemi, chercherent à se couvrir ou à se garentir 
+de l&#39;effet des siennes. Pour cet effet on imagina
+les armes défensives, telles que les casques, cuirasses,
+bouchers, <i>&amp;c. Voyez</i> <sc><ref target="head:Armes défensives" type="search">Armes défensives</ref></sc>.
+</p>
+<p>
+Les troupes étant armees ou exercées, il fallut
+les diviser en plusieurs corps, propres à agir &amp; à se
+mouvoir facilement : de-là l&#39;origine des compagnies,
+des cohortes, des régimens, des bataillons,
+<i>&amp;c.</i>
+</p>
+<p>
+On songea aussi à arranger ces différens corps entr&#39;eux,
+comme les troupes le sont dans leurs corps
+particuliers, &amp; l&#39;on forma les ordres de bataille sur
+deux ou trois lignes de troupes. <i>Voyez</i> 
+<sc><ref target="head:Ligne de Troupes" type="search">Ligne de Troupes</ref> <i>&amp;</i> <ref target="head:Ordre de Bataille" type="search">Ordre de Bataille</ref></sc>.
+</p>
+<p>
+On ne s&#39;avisa vraissemblablement pas dans les
+premiers tems de faire combattre les hommes à cheval ; 
+mais il fut aisé de s&#39;appercevoir bien tôt du besoin 
+de la cavalerie pour poursuivre l&#39;ennemi, le disperser 
+après sa défaite, &amp; l&#39;empêcher de se rallier.
+</p>
+<p>
+Il y a apparence que la cavalerie fut d&#39;abord destinée 
+à cet effet, &amp; qu&#39;elle ne consistoit guere qu&#39;en
+troupes legeres : mais on vit ensuite que cette cavalerie 
+pourroit encore rendre d&#39;autres services ; qu&#39;elle 
+étoit propre en plaine à combattre l&#39;ennemi, &amp;
+que d&#39;ailleurs par la rapidité de ses mouvemens, elle
+pouvoit se transporter bien-tôt d&#39;un lieu en un autre 
+&amp; se tirer du danger bien plus promptement que
+l&#39;infanterie : on forma donc des corps de cavalerie
+plus ou moins nombreux, suivant la nature des peuples 
+&amp; des pays où l&#39;on faisoit la <i>guerre</i> (<i><ref type="note" target="n54" n="a" /></i>).
+</p>
+<p>
+La cavalerie pouvant harceler l&#39;infanterie en campagne,
+&amp; essayer de la défaire sans craindre de se
+commettre par la facilité qu&#39;elle a de se retirer, on
+imagina des armes de longueur pour la tenir en respect ; 
+c&#39;est-à-dire qu&#39;on inventa les sarisses ou les piques,
+dont la longueur empéchoit le cheval du cavalier 
+de tomber sur le fantassin : par-là l&#39;infanterie
+<pb n="7:986" facs="V7/ENC_7-986.jpeg" />
+<milestone unit="column" n="1" />
+put paroître en plaine devant la cavalerie, &amp; la combattre 
+même avec avantage ; mais la cavalerie fut
+toûjours jugée nécessaire dans les armées pour soûtenir 
+&amp; fortifier l&#39;infanterie dans les lieux ouverts,
+donner des nouvelles de l&#39;ennemi, le poursuivre
+après la défaite, <i>&amp;c.</i>
+</p>
+<p>
+Il est vraissemblable que les différentes choses dont
+on vient de parler, occuperent d&#39;abord les nations
+guerrieres, &amp; que la fortification doit aussi son origine 
+aux premieres entreprises des puissances qui
+vouloient s&#39;assujettir les autres.
+<blockquote> 
+« D&#39;abord, dit le
+comte de Pagan dans son <i>traité de fortification</i>, les
+campagnes étoient les plus agréables demeures ;
+l&#39;assûrance des particuliers consistoit en l&#39;innocence 
+de tous, &amp; les vertus &amp; les vices n&#39;admettoient
+point encore de différence parmi les hommes ; mais
+lorsque l&#39;avarice &amp; l&#39;ambition donnerent lieu aux
+commandemens &amp; aux conquêtes, la foiblesse cédant 
+à la force, l&#39;oppression suivit les vaincus ».
+</blockquote>
+Les moins puissans se réunirent ensemble dans le
+même lieu, pour être plus en état de se défendre:
+de-là l&#39;origine des villes. On s&#39;appliqua à les entourer 
+d&#39;une enceinte, capable d&#39;en fermer l&#39;entrée à
+l&#39;ennemi. Cette enceinte fut d&#39;abord de simples palissades,
+puis de murs entourés de fossés ; on y ajoûta
+ensuite des tours. <i>Voyez</i> <sc><ref target="head:Fortification" type="search">Fortification</ref></sc>.
+</p>
+<p>
+A mesure que la fortification se perfectionnoit,
+l&#39;ennemi inventoit différentes machines propres à
+en détruire les ouvrages : telles furent le bélier &amp; les
+autres machines de <i>guerre</i> des anciens. <i>Voy</i>. 
+<sc><ref target="head:Bélier" type="search">Bélier</ref>, <ref target="head:Baliste" type="search">Baliste</ref>, <ref target="head:Catapulte" type="search">Catapulte</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Ces machines ont été en usage jusqu&#39;à l&#39;invention
+de la poudre, qui donna lieu d&#39;imaginer le canon,
+le mortier, les arquebuses, les mousquets, les fusils,
+&amp; nos autres armes à feu.
+</p>
+<p>
+L&#39;invention ou la découverte de la poudre à canon,
+qui a donné lieu de changer l&#39;ancienne fortification,
+n&#39;a pas introduit beaucoup de nouveautés
+dans les armes offensives du soldat. Le fusil répond
+assez exactement aux armes de jet des anciens ; mais
+les armes défensives ont été abandonnées insensiblement 
+dans l&#39;infanterie, à cause de la difficulté d&#39;en
+avoir d&#39;assez fortes pour résister à la violence du fusil.
+La cavalerie a seulement des plastrons ou des devants 
+de cuirasse, &amp; les officiers des cuirasses entieres,
+que les réglemens les obligent de porter. <i>Voyez</i>
+<sc><ref target="head:Armes défensives" type="search">Armes défensives</ref></sc>.
+</p>
+<p>
+Dans les commencemens, où les armées s&#39;éloignoient 
+peu de leur demeure ordinaire, &amp; où elles
+étoient peu de jours en campagne, les troupes pouvoient 
+rester sans inconvéniens exposées aux injures
+de l&#39;air. Mais lorsqu&#39;on voulut leur faire tenir la
+campagne plus long-tems, on imagina de leur donner 
+des tentes ou des especes de maisons de toile,
+que les soldats pouvoient porter avec eux. On forma
+alors des camps, &amp; l&#39;on fit camper les armées. <i>Voyez</i>
+<sc><ref target="head:Castramétation" type="search">Castramétation</ref></sc>.
+</p>
+<p>
+On pensa aussi alors à fortifier ces camps, pour
+les mettre à l&#39;abri des surprises de l&#39;ennemi, faire
+reposer les troupes plus tranquillement, &amp; diminuer
+le grand nombre de gardes qu&#39;il auroit fallu pour la
+sûreté du camp.
+</p>
+<p>
+Toutes les différentes choses dont nous venons de
+parler, se sont insensiblement établies par l&#39;usage parmi 
+toutes nations policées. Celles qui y ont donné
+le plus d&#39;attention &amp; qui les ont portées au plus grand
+point de perfection, ont toûjours eu un avantage considérable 
+sur celles qui les avoient plus négligées.
+Ce n&#39;est pas le grand nombre qui décide des succès
+à la <i>guerre</i>, mais l&#39;habileté des chefs, &amp; la bonté des
+troupes disciplinées avec soin, &amp; formées dans tous
+les exercices &amp; les manoeuvres militaires. De-là
+vient que les Grecs, auxquels on est particulierement 
+redevable des progrès de l&#39;art militaire, avoient
+<milestone unit="column" n="2" />
+trouvé le moyen avec de petites armées de vaincre
+les nombreuses armées des Perses. Rien de plus admirable 
+que la fameuse retraite des dix mille de Xenophon. Ces grecs, quoiqu&#39;en petit nombre au milieu 
+de l&#39;empire des Perses, ayant près de huit cents
+lieues à faire pour se retirer, ne pûrent être entamés
+par les forces d&#39;Artaxerxès. Ils surmonterent par
+leur courage &amp; par l&#39;habileté de leurs chefs tous les
+obstacles qui s&#39;opposoient à leur retour.
+</p>
+<p>
+Quelqu utiles que soient l&#39;exercice &amp; la discipline
+pour former de bonnes troupes, l&#39;art de la <i>guerre</i> ne
+consiste pas uniquement dans cet objet. Ce n&#39;est
+qu&#39;un moyen de parvenir plus sûrement à réussir dans
+ses entreprises : ce qui appartient essentiellement à
+l&#39;art de la <i>guerre</i>, &amp; qui le caractérise, c&#39;est l&#39;art de
+savoir employer les troupes pour leur faire exécuter
+tout ce qui peut réduire l&#39;ennemi plus promptement,
+&amp; le forcer à faire la paix ; car la <i>guerre</i> est un état
+violent qui ne peut durer, &amp; l&#39;on ne doit la faire que
+pour se procurer la joüissance des douceurs &amp; des
+avantages de la paix.
+</p>
+<p>
+Il est facile avec de la bonne volonté, de l&#39;application,
+&amp; un peu de discernement, de se mettre au
+fait de toutes les regles ordinaires de la <i>guerre</i>, &amp; de
+savoir les différentes manoeuvres des troupes ; mais
+le génie de la <i>guerre</i> ne peut se donner ni s&#39;acquérir
+par l&#39;étude. Elle peut seulement le perfectionner. On
+peut appliquer à l&#39;art de la <i>guerre</i> ce que l&#39;Horace
+françois dit du jeu d&#39;échets comparé à l&#39;art de faire
+des vers.
+</p>
+<p>
+<lg>
+<i>Savoir la marche est chose très-unie,
+Joüer le jeu, c&#39;est le fruit du génie ;
+Je dis le fruit du génie achevé,
+Par longue étude &amp; travail cultivé</i>.
+</lg>
+</p>
+<p>
+Savoir toutes les manoeuvres de la <i>guerre</i>, tout ce
+qui concerne l&#39;ordre, la disposition &amp; l&#39;arrangement
+des troupes, tout cela quoique très-utile en soi &amp;
+absolument nécessaire au général, <i>est chose très-unie</i>.
+Mais faire la <i>guerre</i> avec succès, rompre les desseins de
+l&#39;ennemi, trouver le moyen d&#39;éluder sa supériorité,
+faire des entreprises continuellement sur lui sans
+qu&#39;il puisse s&#39;y opposer, c&#39;est-là le véritable <i>fruit du
+génie</i>, &amp; <i>du génie achevé par longue étude &amp; travail
+cultivé</i>.
+</p>
+<p>
+<blockquote> 
+« Si un nomme, dit M. le maréchal de Saxe, n&#39;est
+pas né avec les talens de la <i>guerre</i>, &amp; que ces talens 
+ne soient perfectionnés, il ne sera jamais qu&#39;un 
+général médiocre : l&#39;application rectifie les idées,
+mais elle ne donne jamais l&#39;ame ; c&#39;est l&#39;ouvrage de
+la nature ».
+</blockquote>
+</p>
+<p>
+Mais quelqu&#39;avantage qu&#39;on en ait reçû, si on ne
+cultive pas ses talens par l&#39;étude &amp; la méditation,
+il ne faut pas espérer, dit M. de Folard, que Dieu
+nous accorde la science de la <i>guerre</i> par infusion.
+<blockquote> 
+« Cependant à voir, dit-il, le peu d&#39;application que
+chacun apporte à s&#39;y rendre capable, on croiroit
+assez qu&#39;elle s&#39;apprend en un jour, &amp; que cette lumiere 
+d&#39;ordre, de ruse, d&#39;artifice pour s&#39;en bien
+démêler, de profondeur dans la conduite des <i>guerres</i> les plus difficiles, de prévoyance &amp; de précaution 
+qui nous éclaire, qui ne se perd ni ne s&#39;éteint
+point dans les dangers les plus éminens, naît avec
+nous, &amp; que nous sommes de ces génies extraordinaires 
+que la providence se plait quelquefois à
+faire paroître dans le monde &amp; de loin, pour sauver 
+ou renverser les monarchies ».
+</blockquote>
+</p>
+<p>
+On ne peut acquérir la science de la <i>guerre</i> que
+par l&#39;étude &amp; par la pratique. La pratique seule sans
+la théorie ne peut jamais donner que des connoissances 
+fort bornées. Il faut qu&#39;elle soit aidée &amp; soûtenue 
+par les lumieres de la théorie.
+</p>
+<p>
+On a vû dans l&#39;<i>article</i> <sc><ref target="head:Etude militaire" type="search">Etude militaire</ref></sc>, quelles
+sont les différentes connoissances qui servent de base
+<pb n="7:987" facs="V7/ENC_7-987.jpeg" />
+<milestone unit="column" n="1" />
+au grand art de la <i>guerre</i>. Lorsqu&#39;on est parvenu à se
+les rendre propres, il faut chercher dans les livres
+les regles &amp; les principes de cet art important.
+<blockquote> 
+« Ce
+n&#39;est pas, dit M. de Folard sur ce sujet, dans la
+moyenne antiquité qu&#39;il faut aller chercher nos
+maîtres ; c&#39;est chez les Grecs &amp; les Romains, lorsque 
+ces peuples étoient dans leur force, &amp; que leur
+discipline militaire, ou pour mieux dire, la science 
+de la <i>guerre</i> qui renferme tout, avoit été portée
+au plus haut point de perfection où ces grands
+hommes avoient pû la porter. C&#39;est sur-tout chez
+les Grecs qu&#39;il faut les chercher. Ce sont eux
+qui d&#39;une routine (car la <i>guerre</i> n&#39;étoit autre chose
+d&#39;abord) poserent des principes certains &amp; assûrés.
+Il y eut alors des maitres &amp; des professeurs
+pour l&#39;enseigner, &amp; l&#39;expérience ne fut plus nécessaire 
+pour former d&#39;excellens officiers &amp; des généraux 
+d&#39;armées ; elle ne servoit que pour les perfectionner,
+comme Thucydide, Xenophon, &amp; Plutarque »
+</blockquote>
+nous l&#39;assûrent. <i>Préface du V. vol. du comment,
+sur Polybe</i>.
+</p>
+<p>
+Comme l&#39;étude de la <i>guerre</i> demande du tems, du
+travail, &amp; de l&#39;application, il se trouve bien des
+gens, qui, pour en éluder les difficultés, prétendent
+que cette étude n&#39;est point nécessaire, &amp; que la pratique 
+peut seule apprendre l&#39;art de la <i>guerre</i>.
+<blockquote> 
+« Mais
+s&#39;il étoit vrai, dit le savant auteur que nous venons
+de citer, que la <i>guerre</i> ne roulât que sur l&#39;expérience,
+un royaume, par exemple, comme la France,
+approcheroit de sa décadence selon le plus ou moins
+de tems qu&#39;il se maintiendroit en paix, &amp; dix ou
+douze années de repos ou d&#39;inaction nous seroient
+plus ruineuses que quinze ou vingt années d&#39;une
+<i>guerre</i> continuelle. Que l&#39;on considere, dit toûjours
+cet auteur, quinze ou vingt ans de service sur la
+tête d&#39;un vieux officier qui ne connoît que son expérience 
+&amp; sa routine, &amp; qui se reposant vingt autres 
+dans la paix, oublie ce qu&#39;il a appris dans la
+<i>guerre</i>. Car qui peut disconvenir que l&#39;expérience
+ne se perde &amp; ne s&#39;oublie par le défaut d&#39;exercice?
+Les officiers-généraux affoiblis par leur âge,
+ou abatardis par une longue paix, la noblesse amollie 
+&amp; devenue paresseuse sans aucun soin des armes,
+se livre à toutes sortes de débauches ; &amp; les
+soldats à leur imitation, n&#39;observent pas certaine
+discipline qui peut suppléer au défaut de la science 
+de la <i>guerre</i>. Tous ceux qui tiennent pour l&#39;expérience 
+conviennent qu&#39;il n&#39;y a rien à faire, si
+elle n&#39;est entée sur la prudence militaire : &amp; cette
+prudence est-elle autre chose que la science qui
+nous fait voir les toutes qui sont capables de nous
+conduire où nous tendons? Tel qui a donné bataille
+dans un pays de plaine, se trouve embarrassé dans
+un terrein inégal. Il l&#39;est encore plus dans un pays
+fourré. Il en donnera cinquante toutes différentes
+les unes des autres, par les différentes situations
+des lieux qui ne se ressemblent jamais. Souvent les
+deux champs de bataille different l&#39;un de l&#39;autre:
+ce qui n&#39;est pas un petit embarras entre deux généraux ; 
+&amp; soit qu&#39;on attaque ou qu&#39;on soit attaqué,
+il y a mille changemens, mille mouvemens à faire
+très-dangereux &amp; très-délicats, soit dans le commencement 
+ou dans les suites d&#39;un combat, sans
+compter le fort ou le foible d&#39;une armée sur l&#39;autre,
+qui peut être mis en considération, c&#39;est-à-dire le
+plus ou le moins de cavalerie ou d&#39;infanterie, le
+bon ou le mauvais de l&#39;une &amp; de l&#39;autre. Comment
+tirer de l&#39;expérience ce que l&#39;on n&#39;a jamais vû ni
+pratiqué, &amp; les autres choses qui n&#39;en dépendent
+pas, <i>&amp;c.</i>».
+</blockquote>
+<i>Nouv. découvert. sur la Guerre</i>.
+</p>
+<p>
+A toutes ces reflexions de M. de Folard, &amp; à beaucoup 
+d&#39;autres sur la nécessité de la science militaire
+qu&#39;on trouve en differens endroits de son <i>commentaire
+sur Polybe</i>, on peut ajoûter que s&#39;il faut qu&#39;un officier<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+voye exécuter tout ce qu&#39;il a besoin d&#39;apprendre,
+il lui sera presqu&#39;impossible de se rendre habile
+dans les différens mouvemens des armées. Car lorsqu&#39;il est employé à la <i>guerre</i>, il ne voit que la manoeuvre 
+particuliere de la troupe à laquelle il est attaché,
+&amp; non pas les mouvemens des autres troupes
+qui sont quelquefois tous différens. Mais supposant
+qu&#39;il puisse observer quelque disposition particuliere
+dans les autres troupes, comment pourra-t-il en deviner 
+la cause s&#39;il ignore les principes qui peuvent
+servir à la dévoiler? Il arrive de-là, comme l&#39;expérience 
+le démontre, que bien des officiers qui ont
+servi long-tems, &amp; qui même se sont trouvés à de
+grands mouvemens de troupes, ignorent la science
+de ces mouvemens, &amp; qu&#39;ils ne pourroient ni les
+commander, ni les faire exécuter. L&#39;expérience leur
+apprend seulement les petits détails de l&#39;exercice &amp;
+du service particulier, qu&#39;on trouve partout, &amp; qu&#39;il
+est impossible d&#39;ignorer, parce qu&#39;on est chargé de
+le faire exécuter journellement ; mais cette partie de
+la police militaire, quoiqu&#39;elle soit utile en elle-même &amp; qu&#39;elle fasse honneur à l&#39;officier qui la fait observer 
+avec le plus de soin, ne forme pas la science
+militaire ; elle n&#39;en renferme tout-au-plus que les
+premiers rudimens.
+</p>
+<p>
+L&#39;étude de l&#39;art de la <i>guerre</i> peut tenir lieu d&#39;expérience,
+mais d&#39;une expérience de tous les siecles. On
+peut appliquer à cette étude ce que Diodore de Sicile dit de l&#39;histoire si utile à tous les hommes, &amp;
+principalement à ceux qui veulent posséder la science 
+de la <i>guerre</i>.
+<blockquote> 
+« C&#39;est un bonheur, dit cet auteur,
+de pouvoir se conduire &amp; se redresser par les erreurs 
+&amp; par les chûtes des autres, &amp; d&#39;avoir pour
+guide dans les hasards de la vie &amp; dans l&#39;incertitude 
+des succès, non une recherche tremblante de
+l&#39;avenir, mais une connoissance certaine du passé.
+Si quelques années de plus font préférer dans les
+conseils les vieillards aux jeunes gens, quelle estime 
+devons-nous faire de l&#39;histoire qui nous apporte 
+l&#39;expérience de tant de siecles? En effet elle supplée 
+à l&#39;âge qui manque aux jeunes gens, &amp; elle
+étend de beaucoup l&#39;âge même des vieillards ».
+</blockquote>
+</p>
+<p>
+C&#39;est ainsi que ceux qui ont étudié avec soin l&#39;histoire 
+des différentes <i>guerres</i> des nations, qui ont examiné,
+discuté tout ce qui s&#39;y est observé dans la conduite 
+des armées &amp; des différentes entreprises militaires,
+peuvent acquérir par-là une expérience qui
+ne peut être comparée avec la pratique de quelques
+campagnes.
+</p>
+<p>
+Comme peu de personnes sont en état de faire une
+étude aussi étendue de l&#39;art de la <i>guerre</i>, il est à-propos d&#39;indiquer les principaux ouvrages qui peuvent
+servir à donner les connoissances les plus nécessaires
+sur la théorie de cet art. Nous avons déjà vû que
+M. Folard veut qu&#39;on consulte les Grecs &amp; les Romains. C&#39;est chez eux qu&#39;il faut chercher les vrais
+principes de l&#39;art militaire ; mais le nombre de leurs
+auteurs sur ce sujet n&#39;est pas considérable.
+</p>
+<p>
+<blockquote> 
+« Il y en avoit autrefois une infinité, dit M. de
+Folard dans la préface que nous avons déjà citée,
+mais tout cela s&#39;est perdu par les malheurs &amp; la
+barbarie des tems. L&#39;histoire nous a conservé les
+titres de quelques-uns de ces livres, &amp; les noms de
+quelques auteurs qui avoient écrit de la <i>guerre</i>, entr&#39;autres de Pyrrhus, roi des Epirotes ; car pour ce
+qui est des auteurs de la moyenne antiquité, c&#39;est
+fort peu de chose. A peine ont-ils donné une idée
+de la <i>guerre</i>, tant ils sont abregés. Il ne nous en
+reste qu&#39;un au-dessus des autres, qui est Vegece.
+Onosander &amp; l&#39;empereur Léon, tous deux Grecs,
+n&#39;en approchent pas ; &amp; tous les trois ne sont guere
+plus étendus que nos modernes, mais ils sont plus
+savans, bien que la science des armées fût presque
+tombée &amp; même oubliée de leur tems ».
+</blockquote>
+<pb n="7:988" facs="V7/ENC_7-988.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les anciens ouvrages qu&#39;on peut consulter le plus
+utilement sur l&#39;art de la <i>guerre</i>, outre celui de Vegece, sont la <i>Cyropédie</i>, ou l&#39;<i>histoire de Cyrus</i> par Xénophon : la retraite des dix mille, &amp; l&#39;histoire de Polybe, les <i>commentaires de César</i>, la <i>tactique</i> d&#39;Elien, <i>&amp;c.</i>
+</p>
+<p>
+Parmi les modernes, on peut lire le <i>parfait capitaine</i> du duc de Rohan ; les <i>mémoires</i> de M. de Turenne, insérés à la suite de la vie de ce grand capitaine,
+par M. de Ramsai ; ceux de Montecuculli, de M. le
+marquis de Feuquieres ; les <i>réflexions militaires</i> de M.
+le marquis de Santa-Crux ; le <i>commentaire sur Polybe</i>
+par M. le chevalier Folard ; <i>l&#39;art de la guerre</i> par M.
+le maréchal de Puysegur ; les <i>réveries</i> ou <i>mémoires sur
+la guerre</i> par M. le maréchal de Saxe, <i>&amp;c.</i>
+</p>
+<p>
+La science de la <i>guerre</i> est si étendue qu&#39;on ne doit
+pas être surpris du petit nombre de ceux qui y excellent.
+Ce n&#39;est pas assez que les généraux sachent
+ranger les armées en bataille, les faire marcher, camper,
+&amp; combattre ; il faut qu&#39;ils sachent encore préserver 
+leurs armées des maladies qui pourroient les
+ruiner ou les affoiblir. Il faut aussi savoir encourager
+le soldat pour le faire obéir volontairement, &amp; supporter 
+patiemment les fatigues extraordinaires auxquelles 
+il peut être exposé. Il faut avoir soin que les
+vivres ne lui manquent point, &amp; que la cavalerie
+n&#39;éprouve aucune disette de fourrage. C&#39;est à quoi
+l&#39;on doit toûjours penser de bonne heure. C&#39;est une
+épargne à contre-tems, di Vegece, que de commencer 
+à ménager les vivres lorsqu&#39;ils manquent. Cet auteur 
+observe que dans les expéditions difficiles, les
+anciens distribuoient les vivres par tête, sans avoir
+égard au grade ; mais on en tenoit compte ensuite à
+ceux à qui on les avoit ainsi diminués.
+</p>
+<p>
+Outre ces différentes attentions, il y en a encore
+beaucoup d&#39;autres, qu&#39;on peut voir dans l&#39;entretien
+de Cyrus &amp; de Cambyse, rapporté dans le premier 
+livre de la Cyropédie ; tout cela doit faire sentir 
+combien la science de la <i>guerre</i> demande de travail 
+&amp; d&#39;application. Cependant Polybe conseille
+encore à ceux qui aspirent au commandement des
+armées, d&#39;étudier les Arts &amp; les Sciences qui ont quelque 
+rapport à l&#39;art militaire.
+<blockquote> 
+« Ajoûter, dit cet auteur,
+des connoissances inutiles au genre de vie
+que nous professons, uniquement pour faire montre 
+&amp; pour parler, c&#39;est une curiosité que je ne
+saurois approuver ; mais je ne puis non plus goûter 
+que dans les choses nécessaires on s&#39;en tienne
+à l&#39;usage &amp; à la pratique, &amp; je conseille fort de remonter 
+plus haut. Il est absurde que ceux qui s&#39;appliquent 
+à la danse &amp; aux instrumens souffrent
+qu&#39;on les instruise de la cadence &amp; de la Musique ;
+qu&#39;ils s&#39;exercent même à la lutte, parce que cet
+exercice passe pour contribuer à la perfection des
+deux autres ; &amp; que des gens qui aspirent au commandement 
+des armées, trouvent mauvais qu&#39;on
+leur inspire quelque teinture des autres Arts &amp; des
+autres Sciences. De simples artisans seront-ils donc
+plus appliqués &amp; plus vifs à se surpasser les uns
+&amp; les autres, que ceux qui se proposent de briller
+&amp; de se signaler dans la plus belle &amp; la plus haute
+des dignités? Il n&#39;y a personne de bon sens qui ne
+reconnoisse combien cela est peu raisonnable ».
+</blockquote>
+<i>Hist. de Polybe, trad.</i> de dom Vincent Thuillier,
+<i>liv. IX. ch. jv.</i>
+</p>
+<p>
+Après avoir fait sentir la nécessité de l&#39;étude de la
+<i>guerre</i>, entrons dans quelques détails sur ce qui en
+regarde l&#39;exécution, ou les principales opérations.
+</p>
+<p>
+La <i>guerre</i> ne doit s&#39;entreprendre qu&#39;après beaucoup 
+de réflexions ; il faut avoir tout prévû &amp; tout
+combiné, pour n&#39;être pas surpris par les évenemens.
+</p>
+<p>
+<blockquote> 
+« Il y a deux sortes d&#39;actions militaires, dit Polybe : les unes se font à découvert &amp; par force, les
+autres par finesse &amp; par occasion. Celles-ci sont
+en beaucoup plus grand nombre que les autres ; il
+<milestone unit="column" n="2" />
+ne faut que lire l&#39;Histoire pour s&#39;en convaincre.
+De celles qui se sont faites par occasion, on en
+trouve beaucoup plus qui ont été manquées que
+de celles qui ont eu un heureux succès. Il est aisé
+d&#39;en juger par les évenemens : on conviendra
+encore que la plûpart des fautes arrivent par l&#39;ignorance 
+ou la négligence des chefs. Ce qui se fait
+à la <i>guerre</i> sans but &amp; sans dessein, continue le
+même auteur, ne mérite pas le nom d&#39;<i>actions</i>. Ce
+sont plûtôt des accidens &amp; des hasards dont on ne
+peut tirer aucune conséquence, parce qu&#39;elles ne
+sont fondées sur aucune raison solide ».
+</blockquote>
+</p>
+<p>
+Avant de commencer la <i>guerre</i>, il est donc important 
+d&#39;avoir des vûes &amp; des desseins, qu&#39;on se propose 
+de suivre autant que les circonstances pourront
+le permettre. C&#39;est ce qu&#39;on appelle, suivant M. de
+Folard, <i>regler l&#39;état de la guerre. Voyez</i> 
+<sc><ref target="head:Etat de la Guerre" type="search">Etat de la Guerre</ref></sc>.
+</p>
+<p>
+Lorsqu&#39;on veut entreprendre une <i>guerre</i>, il faut
+commencer par des préparatifs de longue main, non seulement 
+pour avoir le nombre des troupes nécessaires,
+mais encore de l&#39;argent pour fournir à sa dépense.
+Henri IV. ayant formé le dessein de porter la
+<i>guerre</i> en Allemagne, M. de Sully sut rallentir son
+ardeur jusqu&#39;à ce que ce prince eût dans ses coffres
+de quoi la faire pendant plusieurs années. Il faut des
+magasins considérables de munitions de <i>guerre</i> &amp; de
+bouche dans les lieux à portée de ceux que les armées 
+doivent occuper. <i>Dans toute expédition</i>, dit
+Vegece, <i>le point capital est d&#39;avoir toûjours des vivres,
+&amp; de ruiner l&#39;ennemi en les lui coupant</i>. Outre
+cette attention indispensable, il est important de
+prendre de bonne heure des arrangemens avec les
+puissances auxquelles on pourroit causer de la jalousie,
+pour n&#39;en être point traversé dans ses opérations : c&#39;est ce que fit Louis XIV. dans la <i>guerre</i> de
+1672.
+</p>
+<p>
+Ce prince avoit pris toutes les précautions que la
+prudence peut suggérer, pour n&#39;être point distrait
+de la poursuite de son objet ; &amp; si les évenemens
+heureux de cette <i>guerre</i> ne l&#39;avoient pas excité à la
+continuer au-delà des bornes nécessaires pour humilier 
+cette république, dont il avoit lieu de se
+plaindre, il seroit parvenu à son but sans obstacles
+de la part des puissances voisines.
+</p>
+<p>
+Quelque nécessaires que soient les préparatifs
+dont on vient de parler, ils ne doivent pas faire
+toute l&#39;application de celui qui veut commencer la
+<i>guerre</i>.
+<blockquote> 
+« Il doit encore s&#39;appliquer à connoître le
+génie de son ennemi &amp; le caractere de ses généraux ; 
+s&#39;ils sont sages ou téméraires, hardis ou timides,
+s&#39;ils combattent par principes ou au hasard ; 
+avec quelles nations braves ou lâches ils ont
+eu affaire ; . . . . comment sont affectées ses troupes ; 
+ce que pensent celles de l&#39;ennemi ; lequel des
+deux partis a le plus de confiance, pressentiment
+qui éleve ou abaisse le coeur. . . . . Un général
+vigilant &amp; sage doit peser dans son conseil ses forces 
+&amp; celles des ennemis, comme s&#39;il avoit à juger 
+civilement entre deux parties. S&#39;il se trouve
+supérieur en plusieurs endroits, il en doit pas différer 
+de profiter de son avantage ; mais s&#39;il sent
+que l&#39;ennemi soit plus sort que lui, il doit éviter
+une affaire générale, &amp; s&#39;en tenir aux ruses, aux
+surprises, &amp; aux embuscades qui ont souvent fait
+triompher des troupes inférieures en force &amp; en
+nombre sous de bons généraux ».
+</blockquote>
+Vegece, <i>même
+traduction que ci-dessus</i>.
+</p>
+<p>
+Il faut connoître aussi les plus exactement qu&#39;il est
+possible, le pays qui doit être le théatre de la <i>guerre</i>
+savoir les secours qu&#39;on en pourra tirer pour la subsistance 
+des troupes &amp; pour les fourrages &amp; les incommodités 
+qui pourront en résulter pour l&#39;ennemi
+Enfin ce n&#39;est pas assez d&#39;assembler une armée, il faut
+<pb n="7:989" facs="V7/ENC_7-989.jpeg" />
+<milestone unit="column" n="1" />
+savoir auparavant où elle agira, &amp; comment elle le
+fera. Lorsqu&#39;on est une fois entré en campagne, il
+ne doit plus être question de délibérer, mais d&#39;entamer 
+avec vivacité les opérations qu&#39;on s&#39;est proposé 
+d&#39;exécuter. M. de Folard dit quelque part sur
+ce sujet,
+<blockquote> 
+« que les lents &amp; les engourdis à la <i>guerre</i>
+auront aussi peu de part à la gloire de ce monde,
+que les tiedes à celle du ciel.
+</blockquote></p>
+<p>
+Il ne faut pas toûjours regler l&#39;état de la <i>guerre</i>
+sur le nombre &amp; la qualité des forces que l&#39;on veut
+opposer à l&#39;ennemi, qui sera peut-être plus fort.
+Il y a certains pays où le plus foible peut paroître
+&amp; agir contre le plus fort, où la cavalerie est de
+moindre service que l&#39;infanterie, qui souvent supplée 
+à l&#39;autre par sa valeur. L&#39;habileté d&#39;un général 
+est toûjours plus avantageuse que la supériorité
+du nombre, &amp; les avantages d&#39;un pays. Un Turenne regle l&#39;état de la <i>guerre</i> sur la grandeur de
+ses connoissances, de son courage, &amp; de sa hardiesse.
+Un général qui ne lui ressemble en rien,
+malhabile, peu entreprenant, quelque supérieur
+qu&#39;il soit, craint toûjours, &amp; n&#39;est jamais assez
+fort ».
+<i>Comment. sur Polybe</i>, par M. le chevalier
+Folard, <i>tome V. page 347</i>.
+</p>
+<p>
+On doit toûjours commencer la <i>guerre</i> par quelque 
+action d&#39;éclat, &amp; ne point se laisser prévenir par
+l&#39;ennemi.
+<blockquote> 
+« S&#39;il incline à combattre, dit l&#39;auteur que
+nous venons de citer, il faut aller au-devant plûtôt 
+que de l&#39;attendre : que s&#39;il évite un engagement,
+il faut le pousser à quelque prix que ce
+soit ; car un siége est très-difficile lorsqu&#39;on ne le
+fait pas ensuite d&#39;une grande victoire ou d&#39;un avantage 
+considérable. Il faut observer toutes ces choses,
+lorsqu&#39;on regle l&#39;état de la <i>guerre</i>, &amp; que l&#39;on
+établit son plan avant de la commencer ; car lorsqu&#39;on a médité à loisir sur ce qu&#39;on est résolu de
+faire, &amp; sur ce que l&#39;ennemi peut raisonnablement
+opposer, on vient à bout de ses desseins ».
+</blockquote>
+<i>Même
+ouvrage que ci-dessus, tome V. page 350</i>.
+</p>
+<p>
+Il seroit aisé d&#39;ajoûter beaucoup d&#39;autres réflexions 
+sur cette matiere ; mais comme il ne s&#39;agit point
+ici d&#39;un traité sur la <i>guerre</i>, mais d&#39;expliquer ce
+qu&#39;elle a de plus général, nous donnerons seulement 
+un précis de la <i>guerre</i> offensive &amp; de la <i>guerre</i>
+défensive ; l&#39;on dira aussi un mot de la <i>guerre</i> de secours.
+</p>
+<p>
+<i>De la guerre offensive</i>. Dans la <i>guerre</i> offensive,
+comme on se propose d&#39;attaquer l&#39;ennemi, il faut
+être assez exactement informé de ses forces pour être
+assûré qu&#39;on en aura de plus grandes, ou que l&#39;on
+sera en état de faire des conquêtes avant qu&#39;il ait le
+tems de rassembler son armée pour s&#39;y opposer.
+</p>
+<p>
+<blockquote> 
+« Si le pays que l&#39;on veut attaquer, dit M. de
+Feuquieres, est bordé de places fortes, il faut attaquer 
+le quartier qui y donne une entrée libre,
+&amp; qui porte avec plus de facilité vers la capitale,
+à qui il faut, autant qu&#39;il est possible, au commencement 
+de la <i>guerre</i>, faire voir l&#39;armée, afin d&#39;y
+jetter la terreur, &amp; tâcher par-là d&#39;obliger l&#39;ennemi 
+de dégarnir quelques-unes des places de la frontiere 
+pour rassûrer le coeur du pays.
+</blockquote></p>
+<p>
+Il faut ensuite tomber sur les places dégarnies
+pour ouvrir davantage le pays attaqué, faire apporter 
+dans ces places après leur prise, tous les
+dépôts qui étoient dans les vôtres, &amp; faire ainsi la
+<i>guerre</i> avec plus de commodité.
+</p>
+<p>
+Lorsqu&#39;on aura pénétré le plus avant qu&#39;on l&#39;aura 
+pû faire, il faut faire camper l&#39;armée en lieu
+sain &amp; commode pour les fourrages, &amp; même en
+lieu avantageux par son assiette, afin de pouvoir
+de-là faire des détachemens considérables, pour
+réduire par la terreur des armes les extrémités du
+pays où l&#39;on ne pourroit pas avec sûreté &amp; commodité 
+pour les vivres, se porter avec l&#39;armée
+<milestone unit="column" n="2" />
+entiere ».
+<i>Mém. de</i> M. le marquis de Feuquieres,
+<i>tome II. page 15 &amp; suivantes</i>.
+</p>
+<p>
+C&#39;est particulierement dans ces commencemens
+qu&#39;il faut user de diligence pour l&#39;exécution des differens 
+projets qu&#39;on a formés. On vit d&#39;abord aux dépens 
+de l&#39;ennemi, on ruine le pays par où il peut s&#39;assembler,
+&amp; l&#39;on jette la terreur parmi les troupes &amp;
+les peuples.
+<blockquote> 
+« Une bataille, dit l&#39;auteur que nous venons 
+de citer, donnée à-propos dans un commencement 
+de <i>guerre</i>, en décide presque toûjours le succès : ainsi il ne faut point hésiter à la donner, si
+l&#39;ennemi par quelque mouvement pour mettre ses
+troupes ensemble, se met à-portée de risquer un
+évenement ».
+</blockquote>
+</p>
+<p>
+Quelque incertain que soit le succès des batailles,
+il paroît en effet que loin de les éviter au commencement 
+d&#39;une <i>guerre</i>, il faut chercher l&#39;occasion
+d&#39;en donner.
+<blockquote> 
+« C&#39;est un paradoxe, dit Montecuculli,
+que d&#39;espérer de vaincre sans combattre. Le but de
+celui qui fait la <i>guerre</i> est de pouvoir combattre en
+campagne pour gagner une victoire ; &amp; quiconque
+n&#39;a pas dessein d&#39;en venir là, est éloigné de la fin
+naturelle de la <i>guerre</i>. On a bien vû, continue ce
+grand capitaine, des armées foibles en défaire de
+fortes en campagne ; mais on n&#39;a jamais vû une armée 
+qui se renferme dans un camp fortifié pour éviter le combat, défaire celle qui l&#39;attaque : c&#39;est assez 
+à l&#39;aggresseur que de plusieurs attaques une seule
+lui réussisse pour le rendre victorieux ».
+</blockquote>
+<i>Mém. de</i>
+Montecuculli, <i>liv. II chap. vj.</i>
+</p>
+<p>
+Le gain d&#39;une bataille peut avoir les suites les plus
+heureuses, lorsque le général a toute la capacité nécessaire 
+pour en profiter ; mais sa perte en a ordinairement 
+de si fâcheuses, qu&#39;on ne doit la risquer
+qu&#39;avec beaucoup de circonspection. Montecuculli
+qui conseille d&#39;en chercher l&#39;occasion au commencement 
+de la <i>guerre</i>, observe néanmoins
+<blockquote> 
+« que dans
+une matiere si importante on ne peche pas deux
+fois ; &amp; que quand le mal est arrivé, il ne sert de
+rien de se repentir &amp; de rejetter sa faute sur celui-ci ou sur celui-là; qu&#39;il faut beaucoup de fermeté 
+&amp; de présence d&#39;esprit pour pourvoir à tout,
+&amp; ne pas préférer les murmures de la populace
+au salut public ; qu&#39;il faut chercher à faire quelque 
+coup d&#39;importance sans tout risquer, parce
+qu&#39;il n&#39;y eut jamais de prudence à risquer beaucoup »
+</blockquote>
+pour gagner peu. <i>Mém. de</i> Montecuculli, <i>liv.
+III. chap. jv.</i>
+</p>
+<p>
+M. le maréchal de Saxe n&#39;étoit point pour les batailles,
+sur-tout, dit-il, au commencement d&#39;une
+<i>guerre</i>. Il prétend, dans <i>ses mémoires</i>, qu&#39;un habile
+général peut la faire toute sa vie sans s&#39;y voir obligé:
+<blockquote> 
+« Rien, dit cet illustre général, ne réduit tant
+l&#39;ennemi que cette méthode (d&#39;éviter les batailles), &amp; n&#39;avance plus les affaires. Il faut, ajoûte-t-il, donner de fréquens combats &amp; fondre, pour
+ainsi dire, l&#39;ennemi petit-à-petit ; aprés quoi il est
+obligé de se cacher ».
+</blockquote>
+</p>
+<p>
+Cette méthode est sans doute plus sûre &amp; plus
+prudente que la précédente ; mais outre qu&#39;elle demande 
+beaucoup de science &amp; de génie dans le général,
+il faut observer que si en agissant de cette maniere 
+on se commet moins, on réduit aussi l&#39;ennemi
+moins promptement : la <i>guerre</i> est alors plus longue
+&amp; moins décisive. On se ruine en détail sans rien
+faire de grand : c&#39;est pourquoi cette conduite excellente 
+dans la <i>guerre</i> défensive, ne l&#39;est peut-être pas
+autant dans l&#39;offensive.
+<blockquote> 
+« S&#39;imaginer faire des conquêtes 
+sans combattre, c&#39;est, dit Montecuculli, un
+projet chimérique. Les <i>guerres</i> des Romains qui
+étoient courtes &amp; grosses, sont, dit-il, bonnes à
+imiter ; mais on ne les peut faire sans batailles ».
+</blockquote>
+</p>
+<p>
+M. de Puysegur pensoit sur les batailles à-peu-près comme M. le maréchal de Saxe. Selon cet auteur,<gap type="hyphenpb" />
+<pb n="7:990" facs="V7/ENC_7-990.jpeg" />
+<milestone unit="column" n="1" />
+elles sont la ressource des généraux médiocres
+qui donnent tout au hasard ; au lieu que ceux qui sont
+savans dans la <i>guerre</i>, cherchent par préférence les
+actions où ils peuvent soûtenir les troupes par leur
+savoir &amp; leur habileté. <i>Voyez</i> <sc><ref target="head:Bataille" type="search">Bataille</ref></sc>.
+</p>
+<p>
+Il est certain que si l&#39;on peut sans donner de batailles 
+exécuter les différentes choses que l&#39;on s&#39;est
+proposé, il y auroit une imprudence inexcusable à
+vouloir en risquer l&#39;évenement : mais il y a plusieurs
+circonstances où elles sont inévitables. Si par exemple 
+l&#39;ennemi que vous avez en tête attend des secours 
+considérables qui lui donnent la supériorité
+sur vous ; si les affaires du prince exigent qu&#39;il tire
+de forts détachemens de votre armée pour aller au
+secours d&#39;un corps d&#39;armée dans une province éloignée ; si les subsistances manquent &amp; qu&#39;il ne soit pas
+possible de s&#39;en procurer sans chasser l&#39;ennemi des
+lieux qu&#39;il occupe : dans ces circonstances &amp; dans
+beaucoup d&#39;autres qui arrivent à la <i>guerre</i>, les batailles 
+sont absolument nécessaires. M. de Turenne,
+qui savoit les éviter quand il le falloit, en a donné
+plusieurs dans des cas de cette espece ; &amp; c&#39;est par
+cette conduite qu&#39;avec des armées inférieures, il a
+toûjours sû se conserver la supériorité sur l&#39;ennemi.
+</p>
+<p>
+Ce qu&#39;il y a d&#39;essentiel à observer dans les batailles,
+c&#39;est de savoir se soûtenir &amp; ne point se décourager 
+pour avoir été poussé &amp; même battu dans quelques 
+endroits de sa ligne.
+<blockquote> 
+« C&#39;est être habile, je le
+veux, dit Polybe, que de faire ensorte après avoir
+bien commencé une action, que la fin ne démente
+pas le commencement : mais la gloire est bien plus
+grande lorsqu&#39;après avoir eu du pire au premier
+choc, loin d&#39;en être ébranlé &amp; de perdre la tête,
+on refléchit sur les fautes que les bons succès font
+commettre à son ennemi, &amp; qu&#39;on les tourne à son
+avantage. Il est assez ordinaire de voir des gens à
+qui tout semble prospérer au commencement d&#39;un
+combat, tourner le dos peu de tems après, &amp; être
+vaincus ; &amp; d&#39;autres au contraire qui après des
+commencemens très-desavantageux, savent par
+leur bonne conduite changer la face des choses, &amp;
+remporter la victoire lorsqu&#39;on s&#39;y attendoit le
+moins ».
+</blockquote>
+<i>Hist. de</i> Polybe, <i>liv. XI. ch. iij.</i>
+</p>
+<p>
+Polybe en donne pour exemple la bataille de Mantinée, gagnée par Philopemen sur Machanidas, tyran 
+de Sparte.
+</p>
+<p>
+Au commencement de cette bataille l&#39;armée de
+Philopemen fut poussée, &amp; même mise en partie en
+déroute : mais ce grand capitaine ne s&#39;épouvanta
+pas, &amp; ne perdit pas l&#39;espérance de faire changer la
+fortune ; il sut remédier au désordre de son armée,
+&amp; trouver ensuite le moyen de remporter une victoire 
+complete, dans laquelle il tua lui-même Machanidas.
+</p>
+<p>
+Nous avons un exemple à-peu-près de même espece,
+rapporté dans les <i>mémoires</i> de M. de Turenne, à
+la bataille de Nordlingue.
+</p>
+<p>
+Dans cette bataille, l&#39;aîle droite de l&#39;armée de
+France fut entierement mise en déroute, le centre
+battu, &amp; l&#39;aîle gauche un peu poussée. Malgré cela
+M. le Prince soûtint le combat ; M. de Turenne battit 
+l&#39;aîle droite des ennemis ; <i>&amp; la nuit venant incontinent,
+les deux aîles qui avoient battu ce qui étoit devant 
+elles, demeurerent en bataille l&#39;une devant l&#39;autre.
+A une heure après minuit, l&#39;armée ennemie commença
+à se retirer</i>, &amp;c.
+</p>
+<p>
+Un des principaux avantages de la <i>guerre</i> offensive,
+c&#39;est de faire subsister l&#39;armée aux dépens de
+l&#39;ennemi. Par cette raison, cette <i>guerre</i> peut être
+moins dispendieuse que la <i>guerre</i> défensive, où l&#39;on
+est obligé de vivre sur son propre terrein.
+</p>
+<p>
+<blockquote> 
+« L&#39;empereur Léopold Ignace se plaignant, dit
+M. de Santa-Crux, de ce qu&#39;il ne savoit où prendre 
+des fonds pour payer ses armées, Walstein son
+<milestone unit="column" n="2" />
+général lui répondit, que le remede qu&#39;il y trouvoit 
+étoit de lever une fois pius de troupes. L&#39;empereur lui ayant repliqué comment il pourroit entretenir 
+cent mille hommes, puisqu&#39;il n&#39;avoit pas
+le moyen d&#39;en faire subsister cinquante mille ; Walstein le satisfit, en lui représentant que cinquante
+mille hommes tiroient leur subsistance du pays
+ami, &amp; que cent mille le tiroient du pays ennemi ».
+</blockquote>
+</p>
+<p>
+Le prince d&#39;Orange, suivant ce proverbe allemand,
+<i>il est toûjours bon d&#39;attacher les chevaux aux
+arbres des ennemis</i>, dit
+<blockquote> 
+« que celui qui fait une <i>guerre</i>
+offensive peut, dans un malheur, avoir recours à
+son propre pays ; parce que n&#39;ayant point souffert
+de la <i>guerre</i>, on y trouvera abondamment tout ce
+qui est nécessaire : au lieu que celui qui la soûtient
+sur ses états, ne sauroit en plusieurs jours faire les
+préparatifs convenables pour entrer dans le pays
+ennemi. Enfin en se tenant sur la défensive on ne
+peut que perdre, ou tout-au-plus conserver ce que
+l&#39;on »
+</blockquote>
+a, &amp; en attaquant on peut gagner. <i>Réfl. mil.</i>
+par M. le marquis de Santa-Crux, <i>tome IV. ch. ij.</i>
+</p>
+<p>
+<i>De la guerre défensive</i>. La <i>guerre</i> défensive est beaucoup 
+plus difficile &amp; plus savante que la précédente.
+Elle demande plus d&#39;adresse, plus de ressource dans
+l&#39;esprit, &amp; beaucoup plus d&#39;attention dans la conduite.
+</p>
+<p>
+<blockquote> 
+« Dans la <i>guerre</i> offensive on compte pour rien ce
+qu&#39;on manque de faire ; parce que les yeux attentifs 
+à ce qui se fait, &amp; remplis d&#39;une action éclatante, ne se tournent point ailleurs, &amp; n&#39;envisagent 
+point ce qu&#39;on pouvoit faire. Dans la <i>guerre</i>
+défensive, la moindre faute est mortelle, &amp; les
+disgraces sont encore exagérées par la crainte, qui
+est le vrai microscope des maux, &amp; on les attribue
+toutes à un seul homme. On ne regarde que le mal
+qui arrive, &amp; non ce qui pouvoit arriver de pis,
+si on ne l&#39;avoit empêché; ce qui en bonne partie
+devroit être compté pour un bien ».
+</blockquote>
+<i>Mém. de</i> Montecuculli, <i>liv. III. ch. iij.</i>
+</p>
+<p>
+M. de Feuquieres observe qu&#39;il est bien difficile de
+prescrire des maximes générales dans cette espece de
+<i>guerre</i>, parce qu&#39;elle est toute, dit-il, dans la prudence 
+&amp; l&#39;esprit de prévoyance de celui qui la conduit.
+</p>
+<p>
+<blockquote> 
+« On peut dire seulement qu&#39;elle a été tout-à-fait
+imprévûe, ou qu&#39;elle n&#39;a pas été prévûe assez tôt,
+ou que la perte d&#39;une bataille, ou de quelque place
+considérable, l&#39;a rendue telle, quoiqu&#39;elle eût eu
+un autre commencement.
+</blockquote></p>
+<p>
+Au premier cas, le peu de troupes qu&#39;on a sur pié
+doit être ménagé; l&#39;infanterie jettée, selon la quantité 
+des places qu&#39;on a à garder, dans celle que l&#39;on
+peut croire le plus indispensablement attaquée,
+abandonnant ainsi à l&#39;ennemi celles qui dans la suite 
+de la <i>guerre</i> pourroient être plus facilement conquises,
+ou qu&#39;il pourra le plus difficilement conserver.
+La cavalerie doit être mise en campagne,
+mais en état d&#39;avoir une retraite sûre ; elle doit
+incommoder les fourrages &amp; les convois de l&#39;ennemi,
+empêcher que ses partis ne s&#39;écartent trop
+de son armée, &amp; ne jettent trop facilement la terreur 
+dans le dedans du pays.
+</p>
+<p>
+Le plat pays ne doit point être ménagé. Il faut
+en retirer dans les meilleures places tout ce que l&#39;on
+peut en ôter, &amp; consumer même par le feu tous
+les grains &amp; fourrages qu&#39;on ne peut mettre en lieu
+sûr, afin de diminuer par-là la subsistance aisée de
+l&#39;armée ennemie. Les bestiaux doivent être aussi
+renvoyés dans les lieux les plus éloignés de l&#39;ennemi ; 
+&amp; autant qu&#39;il se peut, couverts de grandes rivieres,
+où ils trouveront plus de sûreté &amp; une subsistance 
+plus aisée ».
+<i>Mém. de</i> M. le marquis de Feuquieres, <i>tome II. pag. 2</i>.
+<pb n="7:991" facs="V7/ENC_7-991.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Quelque inconvénient qu&#39;il paroisse y avoir à ruiner 
+son pays, c&#39;est pourtant dans des cas pressans une
+opération indispensable ;
+<blockquote> 
+« car il vaut mieux, dit un
+grand capitaine, se conserver un pays ruiné, que
+de le conserver pour son ennemi... C&#39;est une maxime,
+que nul bien public ne peut être sans quelque 
+prejudice aux particuliers.... aussi un prince
+ne se peut démêler d&#39;une périlleuse entreprise, s&#39;il
+veut complaire à tout... &amp; les plus grandes &amp; ordinaires 
+fautes que nous faisons en matiere d&#39;état
+&amp; de <i>guerre</i>, proviennent de se laisser emporter à
+cette complaisance, dont le repentir nous vient
+quand on n&#39;y peut plus remédier ».
+</blockquote>
+<i>Parfait capitaine</i>, par M. le duc de Rohan.
+</p>
+<p>
+Lorsque la <i>guerre</i> n&#39;a pas été absolument imprévûe,
+qu&#39;on a dû s&#39;y attendre par les dispositions de l&#39;ennemi,
+par l&#39;augmentation de ses troupes, les amas de
+vivres &amp; de fourrages dans ses places frontieres ;
+alors on peut prendre des précautions pour lui résister.
+Pour cet effet on fait promptement de nouvelles 
+levées de troupes ; on réunit ensemble dans
+les lieux les plus propres à fermer l&#39;entrée du pays,
+celles qu&#39;on a déjà sur pié; &amp; l&#39;on forme des magasins 
+de munitions de toute espece dans les lieux les
+moins exposés.
+</p>
+<p>
+On cherche aussi à tirer du secours de ses alliés,
+soit par des diversions, ou par des corps de troupes.
+Enfin l&#39;on doit s&#39;appliquer à faire ensorte de n&#39;étre
+point surpris, à bien démêler les desseins de l&#39;ennemi,
+&amp; à employer tous les expediens que la connoissance 
+de la <i>guerre</i> &amp; du pays peuvent suggérer
+pour lui résister.
+</p>
+<p>
+Il arrive souvent qu&#39;un prince qui fait la <i>guerre</i>
+à-la-fois de plusieurs côtés, n&#39;est pas en état de la
+faire offensivement par-tout ; alors il prend le parti
+de la défensive du côté où il se croit le plus en sûreté; 
+mais cette défensive doit être conduite avec tant
+d&#39;art &amp; de prudence, que l&#39;ennemi ne puisse s&#39;en
+douter
+<blockquote> 
+« Le projet de cette espece de <i>guerre</i>, dit M.
+de Feuquieres, mérite autant de reflexions &amp; de
+capacite, qu&#39;aucune autre ; elle ne doit jamais se
+faire que du côté où l&#39;on est sûr de réduire l&#39;ennemi 
+a passer une riviere difficile, ou un pays serré,
+coupe de défilés, &amp; lorsqu&#39;on a sur cette riviere
+une place forte bien munie, que l&#39;on saura être un
+objet indispensable, par l&#39;attaque de laquelle on
+pourra presumer qu&#39;il perdra un tems assez considérable 
+pour avoir celui de la secourir ou de le
+combattre ».
+</blockquote>
+</p>
+<p>
+Quoique la <i>guerre</i> défensive soit plus difficile à
+soûtenir que l&#39;offensive, M. le chevalier Folard prétend 
+que les généraux les plus mal-habiles sont ceux
+qui da proposent ; au lieu que les plus consommés
+dans la science des armes cherchent à l&#39;éviter : la
+raison en est sans doute, qu&#39;il paroît plus aisé de s&#39;opposer 
+aux desseins de l&#39;ennemi, que d&#39;en former soi-même ; 
+mais avec un peu d&#39;attention on s&#39;apperçoit
+bien-tôt que l&#39;art de réduire un ennemi <i>à l&#39;absurde</i>,
+&amp; de deviner tous ses projets, demande plus de capacité 
+&amp; d&#39;intelligence que pour l&#39;attaquer à force
+ouverte, &amp; le faire craindre pour son pays. Si l&#39;ennemi 
+peut pénétrer qu&#39;on a dessein de se tenir sur la
+défensive à son égard, il doit devenir plus entreprenant.
+</p>
+<p>
+<blockquote> 
+« Ajoûtez à cela, dit le savant commentateur
+de Polybe, qu&#39;une défensive ruine l&#39;état, si elle
+dure long-tems ; car outre qu&#39;elle n&#39;est jamais sans
+quelque perte, ou sans la ruine de notre frontiere
+que nos armées mangent, c&#39;est que comme on craint
+également que l&#39;ennemi coule sur toute sa ligne de
+communication, pour couper ou pénétrer la nôtre
+pour faire quelques conquetes, on se voit obligé de
+munir extraordinairement toutes les places de cette
+frontiere, parce qu&#39;elles se trouvent également
+menacées : &amp; quel est le prince assez puissant, continue<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+ce même auteur, pour fournir toutes ses forteresses 
+de vivres &amp; de munitions de guerre pour
+soûtenir un long siége »?
+</blockquote>
+</p>
+<p>
+Lorsque par les évenemens d&#39;une <i>guerre</i> malheureuse 
+on est dans le cas de craindre de se commettre
+avec l&#39;ennemi, il faut éviter les actions générales en
+plaine, &amp; chercher, comme le faisoit Fabius Maximus, à harceler l&#39;ennemi, lui couper ses vivres &amp;
+ses fourrages, s&#39;appliquer à ruiner son armée en détail,
+en se tenant toûjours à-portée de profiter de ses
+fautes, en occupant des postes sûrs &amp; avantageux,
+où sa supériorité ne soit point à craindre ; en un mot
+<blockquote> 
+« fuir, comme le dit M. Folard, toute occasion de
+combattre ou la supériorité du nombre peut beaucoup,
+&amp; chercher celles où le pays militera pour
+nous : mais il n&#39;appartient pas, dit-il, aux généraux 
+médiocres de faire la <i>guerre</i> de cette sorte ; &amp;
+lorsqu&#39;un prince est assez heureux pour avoir des
+géneraux du premier ordre à son service, il n&#39;a
+garde de les brider. Contre ceux-ci, Dieu n&#39;est pas
+toûjours pour les gros bataillons. M. de Turenne a
+fait voir mille fois que cette maxime étoit fausse,
+&amp; elle l&#39;est en effet a l&#39;égard des grands capitaines
+&amp; »
+</blockquote>
+des officiers expérimentés. <i>Comm.</i> sur Polybe,
+<i>liv. V. chap. xij</i>.
+</p>
+<p>
+Lorsqu&#39;on veut empêcher l&#39;ennemi de pénétrer
+dans un pays fermé de montagnes &amp; de défilés, il
+est bien difficile de s&#39;assûrer de les garder tous également ; car comme l&#39;ennemi peut donner de la jalousie
+de plusieurs côtés, il vous oblige par-là de partager
+vos forces ; ce qui fait qu&#39;on ne se trouve pas en etat
+de resister dans le lieu ou il fait ses plus grands efforts.
+Dans les cas de cette espece, &amp; lorsqu&#39;on est
+à-peu-près égal en force à l&#39;ennemi, il faudroit s&#39;attacher 
+à le mettre lui-même sur la defensive ; c&#39;est le
+moyen de déranger ses projets, &amp; de l&#39;occuper de
+la conservation de son pays. Si l&#39;on peut réussir, on
+éloigne la <i>guerre</i> de ses frontieres ; mais si l&#39;entreprise
+pareit trop difficile, il faut faire ensorte que l&#39;ennemi 
+ne trouve aucune subsistance dans les lieux ou il
+aura pénetré, qu&#39;il s&#39;y trouve gêne &amp; à l&#39;étroit par
+un bon corps d&#39;armée qui occupe un camp sûr &amp;
+avantageux, &amp; qu&#39;il ne lui permette pas de pouvoir
+aller en-avant. C&#39;est un principe certain, que le partage 
+des forces les diminue, &amp; qu&#39;en voulant se défendre 
+de tous côtés, on se trouve trop foible partout : c&#39;est pourquoi le parti le plus sûr dans les occasions 
+où l&#39;on craint pour plusieurs endroits à-la-fois, est de réunir ses forces ensemble, de maniere
+que s&#39;il est nécessaire de combattre, on le fasse avec
+tout l&#39;essort dont on est capable. C&#39;est par cette raison 
+qu&#39;un general habile qui a des lignes d&#39;une grande
+étendue à garder, trouve plus avantageux d&#39;aller audevant 
+de l&#39;ennemi, pour le combattre avec toutes
+ses forces, que de se voir forcé dans des retranchemens.
+<i>Voyez</i> <sc><ref target="head:Ligne" type="search">Ligne</ref></sc>.
+</p>
+<p>
+<i>De la guerre de secours</i>. Un prince secourt ses voisins 
+à cause des alliances ou des traités qu&#39;il a faits
+avec eux ; il le fait aussi souvent pour les empécher
+de succomber sous la puissance d&#39;un prince ambitieux 
+que la prudence demande qu&#39;on arrête de bonne 
+heure : car, comme le dit très-judicieusement le
+chevalier de Ville, on ne doit pas rester tranquille
+lorsque le feu est aux maisons voisines ; autrement
+on en sentira bien-tôt les effets.
+</p>
+<p>
+Lorsqu&#39;on donne du secours à un prince en vertu
+des traités, la justice &amp; l&#39;équité exigent qu&#39;on lui
+tienne exactement tout ce qu&#39;on lui a promis, soit
+pour lui fournir un certain nombre de troupes, soit
+pour attaquer soi-même l&#39;ennemi de son allié, si l&#39;on
+est à portee de le faire.
+</p>
+<p>
+Si l&#39;on donne des secours à un prince pour l&#39;empêcher 
+d&#39;être opprimé par une puissance formidable
+qui veut envahir son pays, la prudence demande
+<pb n="7:992" facs="V7/ENC_7-992.jpeg" />
+<milestone unit="column" n="1" />
+qu&#39;avant de le faire, on prenne toutes les sûretés
+convenables pour que le prince attaqué ne fasse pas
+la paix à votre préjudice &amp; sans votre participation.
+</p>
+<p>
+Pour cet effet, on doit exiger quelques places de
+sûreté qui puissent garantir la fidélité du prince auquel 
+on donne du secours.
+</p>
+<p>
+<blockquote> 
+« Que si, comme il arrive souvent, dit M. de Feuquieres, la jalousie que l&#39;on aura sujet de prendre
+d&#39;un prince inquiet &amp; ambitieux, a formé les alliances 
+dans lesquelles on est entré, &amp; qu&#39;on se
+trouve hors de portée de joindre ses troupes à celles 
+de l&#39;état attaqué, il faut en ce cas-là le secourir 
+ou par argent qu&#39;on lui fournira, ou par des diversions 
+dans le pays de l&#39;attaquant, qui le forcent 
+à diviser ses armées, &amp; qui l&#39;empêchent de
+pousser ses conquêtes avec trop de rapidité ».
+</blockquote>
+</p>
+<p>
+Lorsqu&#39;un prince envoye un corps de troupes au
+secours d&#39;un autre prince,
+<blockquote> 
+« le général de ses troupes 
+doit être sage &amp; prévoyant, pour maintenir
+la discipline dans son corps, de maniere que le
+prince allié ne fasse point de plaintes contre lui, &amp;
+prévoyant, pour que ses troupes ne tombent dans
+aucun besoin pour les subsistances, &amp; qu&#39;elles ne
+soient exposées au péril de la <i>guerre</i> qu&#39;avec proportion 
+de ses forces à celles du prince allié,
+&amp; enfin pour qu&#39;il ne se passe rien à son insû
+dans le cabinet du prince allié, qui puisse être préjudiciable 
+à son maitre ».
+</blockquote>
+<i>Mémoires de</i> M. de Feuquieres, <i>tome Il. pag. 32 &amp; suiv</i>.
+</p>
+<p>
+<i>De la guerre des saiges</i>. Quoique nous ayons exposé 
+fort brievement ce qui concerne les <i>guerres</i> précédentes,
+nous serons encore plus succints sur celle
+des siéges.
+</p>
+<p>
+Nous observerons seulement qu&#39;on ne doit entreprendre 
+aucun siége que lorsqu&#39;on a acquis quelque
+supériorité sur l&#39;ennemi par le gain d&#39;une bataille
+ou d&#39;un combat, ou bien lorsqu&#39;on est en état en se
+mettant de bonne heure en campagne, de finir le
+siége avant que l&#39;ennemi ait eu le tems d&#39;assembler
+une armée pour s&#39;y opposer. Une armée qui fait un
+siége s&#39;affoiblit toûjours beaucoup : par conséquent
+si elle est de pareille force que celle de l&#39;ennemi, elle
+devient alors inférieure ; c&#39;est pourquoi pour éviter
+tout inconvénient à cet égard, il ne faut se livrer à
+ces sortes d&#39;entreprises, que lorsqu&#39;on peut présumer
+que l&#39;ennemi ne pourra empêcher de les terminer
+heureusement. Il y a des places dont la disposition
+du terrein des environs est si favorable pour une armée 
+d&#39;observation, qu&#39;il est difficile à l&#39;ennemi, lorsqu&#39;on y est une fois établi, de vous y attaquer avec
+avantage. Mais comme ces situations ne sont pas ordinaires,
+les habiles généraux pensent qu&#39;il faut être
+maitre de la campagne, pour faire un siége tranquillement.
+</p>
+<p>
+On doit avoir pour objet principal à la <i>guerre</i>,
+celui de pousser son ennemi &amp; de l&#39;empêcher de paroître ; 
+lorsqu&#39;on y est parvenu, les siéges se sont sans
+difficulte &amp; sans inquiétude : à l&#39;égard des différentes 
+opérations du siége, <i>voyez</i> 
+<sc><ref target="head:Attaque des Places" type="search">Attaque des Places</ref>, <ref target="head:Investissement" type="search">Investissement</ref>, <ref target="head:Circonvallation" type="search">Circonvallation</ref>, <ref target="head:Défense" type="search">Défense</ref>, <ref target="head:Siége" type="search">Siége</ref>, <ref target="head:Tranchées" type="search">Tranchées</ref></sc>, <i>&amp;c.</i>
+</p>
+<p>
+Avant de finir cet article, observons que les succès 
+à la <i>guerre</i> dépendent non-seulement du général,
+mais encore des officiers généraux qui sont sous
+ses ordres, &amp; de ceux qui sont chargés du détail des
+subsistances : si le général n&#39;en est pas bien secondé,
+les projets les mieux pensés &amp; les mieux entendus
+peuvent manquer dans l&#39;exécution, sans qu&#39;il y ait
+aucune faute de sa part : on veut cependant le rendre 
+responsable de tout ; &amp; ce qui est encore plus singulier,
+tout le monde veut s&#39;ingérer de juger de sa
+conduite, &amp; chacun s&#39;en croit capable. Cette manie
+n&#39;est pas nouvelle.
+<milestone unit="column" n="2" />
+</p>
+<p>
+<blockquote> 
+« Il y a des gens, disoit Paul-Émile, qui dans les
+cercles &amp; les conversations, &amp; même au milieu
+des repas, conduisent les armées, reglent les démarches 
+du consul, &amp; prescrivent toutes les opérations 
+de la campagne : ils savent mieux que le
+général qui est sur les lieux, où il faut camper &amp;
+de quel poste il faut se saisir, où il est à-propos d&#39;établir 
+des greniers &amp; des magasins ; par où, soit par
+terre soit par mer, on peut faire venir des vivres ;
+quand il faut en venir aux mains avec l&#39;ennemi, &amp;
+quand il faut se tenir en repos : &amp; non-seulement
+ils prescrivent ce qu&#39;il y a de meilleur à faire ; mais
+pour peu qu&#39;on s&#39;écarte de leur plan, ils en font un
+crime au consul, &amp; ils le citent à leur tribunal.
+</blockquote></p>
+<p>
+Sachez, Romains, que cette licence qu&#39;on se
+donne à Rome apporte un grand obstacle au succès 
+de vos armées &amp; au bien public. Tous vos
+généraux n&#39;ont pas la fermeté &amp; la constance de
+Fabius, qui aima mieux voir son autorité insultée
+par la témérité d&#39;une multitude indiscrette &amp; imprudente,
+que de ruiner les affaires de la république 
+en se piquant à contre-tems de bravoure pour
+faire cesser des bruits populaires.
+</p>
+<p>
+Je suis bien éloigné de croire que les généraux
+n&#39;ayent pas besoin de recevoir des avis ; je pense 
+au contraire que quiconque veut seul tout conduire 
+par ses seules lumieres &amp; sans consulter,
+marque plus de présomption que de sagesse. Que
+peut-on donc exiger raisonnablement? c&#39;est que
+personne ne s&#39;ingere de donner des avis à vos généraux,
+que ceux premierement qui sont habiles dans
+le métier de la <i>guerre</i>, &amp; à qui l&#39;expérience a appris
+ce que c&#39;est que de commander ; &amp; secondement
+ceux qui sont sur les lieux, qui connoissent l&#39;ennemi,
+qui sont en état de juger des différentes conjonctures,
+&amp; qui se trouvant embarqués comme dans
+un même vaisseau, partagent avec nous tous les dangers.
+Si donc quelqu&#39;un se flatte de pouvoir m&#39;aider 
+de ses conseils dans la <i>guerre</i> dont vous m&#39;avez
+chargé, qu&#39;il ne refuse point de rendre ce service
+à la république, &amp; qu&#39;il vienne avec moi en Macédoine ; galere, chevaux, tentes, vivres, je le défrayerai 
+de tout. Mais si l&#39;on ne veut pas prendre
+cette peine, &amp; qu&#39;on préfere le doux loisir de la
+ville aux dangers &amp; aux fatigues du camp, qu&#39;on
+ne s&#39;avise pas de vouloir tenir le gouvernail en demeurant 
+tranquille dans le port : s&#39;ils ont une si
+grande demangeaison de parler, la ville par elle-même 
+leur fournit assez d&#39;autres matieres ; celle-ci
+n&#39;est point de leur compétence ».
+</p>
+<p>
+L&#39;abus dont se plaint Paul-Émile dans ce discours
+dicté par le bon sens &amp; la raison, nous montre, dit
+M. Rollin, qui le rapporte dans son <i>histoire romaine</i>,
+que les hommes dans tous les tems sont toûjours les
+mêmes.
+</p>
+<p>
+On se fait un plaisir secret &amp; comme un mérite
+d&#39;examiner, de critiquer, &amp; de condamner la conduite 
+des généraux, &amp; l&#39;on ne s&#39;apperçoit pas qu&#39;en
+cela on peche visiblement &amp; contre le bon-sens &amp; contre 
+l&#39;équité: contre le bon-sens ; car quoi de plus absurde 
+&amp; de plus ridicule que de voir des gens sans aucune 
+connoissance de la <i>guerre</i> &amp; sans aucune expérience,
+s&#39;ériger en censeurs des plus habiles généraux,
+&amp; prononcer d&#39;un ton de maître sur leurs actions?
+contre l&#39;équité; car les plus experts même n&#39;en
+peuvent juger sainement s&#39;ils ne sont sur les lieux ; la
+moindre circonstance du tems, du lieu, &amp; de la disposition 
+des troupes, des ordres même secrets qui ne
+sont pas connus, pouvant changer absolument les
+regles ordinaires. Mais il ne faut pas espérer qu&#39;on
+se corrige de ce défaut, qui a sa source dans la curiosité 
+&amp; dans la vanité naturelle à l&#39;homme ; &amp; les
+généraux, à l&#39;exemple de Paul Emile, font sagement
+de mépriser ces bruits de ville, &amp; ces rumeurs de
+<pb n="7:993" facs="V7/ENC_7-993.jpeg" />
+<milestone unit="column" n="1" />
+gens oisifs sans occupation &amp; souvent sans jugement.
+<i>Hist. rom. tome VIII. pag. 115</i>.
+</p>
+<p>
+Outre les differentes <i>guerres</i> précédentes, il y en
+a une particuliere qui se fait avec peu de troupes par
+des détachemens ou des partis, à laquelle on donne
+le nom de <i>petite guerre ;</i> ceux qui commandent ces
+petits corps de troupes sont appellés <i>partisans</i>.
+</p>
+<p>
+Ils servent à mettre le pays ennemi à contribution ;
+à épier, pour ainsi dire, toutes les démarches du général 
+ennemi : pour cet effet, ils rodent continuellement 
+autour de son camp, ils y font des prisonniers
+qui donnent souvent des lumieres sur ses desseins ;
+on s&#39;instruit par ce moyen de tout ce que fait l&#39;ennemi,
+des differentes troupes qu&#39;il envoye à la <i>guerre</i>,
+&amp; des fourrages qu&#39;il ordonne. En un mot cette <i>guerre</i>
+est absolument nécessaire non-seulement pour incommoder 
+&amp; harceler l&#39;ennemi dans toutes ses opérations,
+mais pour en informer le général ; ce qui le
+met en état de n&#39;être point surpris. Rien ne contribue 
+plus à la sûreté d&#39;une armée que les partis, lorsqu&#39;ils sont commandes par des officiers habiles &amp;
+intelligens. <i>Voyez</i> <sc><ref target="head:Partis" type="search">Partis</ref>, <ref target="head:Partisans" type="search">Partisans</ref></sc>, <i>&amp; l&#39;article
+suivant</i>.
+</p>
+<p>
+Jusqu&#39;ici nous n&#39;avons parlé que de la <i>guerre</i> de
+terre : la <i>guerre</i> navale ou la <i>guerre</i> de mer demanderoit 
+beaucoup plus de détails ; mais nous nous
+contenterons d&#39;observer que cette <i>guerre</i> peut heureusement 
+seconder celle de terre, dans les pays ou
+les royaumes à portée de la mer.
+</p>
+<p>
+Les armées navales assûrent les côtes, elles peuvent 
+dispenser d&#39;employer un grand nombre de troupes 
+pour les garder.
+<blockquote> 
+« Je pense, dit M. de Santa-Crux sur ce sujet, qu&#39;il faut que vos armées navales 
+soient supérieures, ou n&#39;en point avoir du-tout,
+à l&#39;exception de quelques galeres qui servent toûjours 
+soit pour garder les côtes contre les corsaires,
+soit pour les secours. Un prince puissant sur
+mer évite la dépense de beaucoup de troupes, il se
+rend sans opposition maitre des iles des ennemis,
+en leur coupant par ses vaisseaux tous les secours
+de terre-ferme ; il ruine le commerce de ses ennemis,
+&amp; rend libre celui de ses états, en frisant escorter 
+par des vaisseaux de <i>guerre</i> ceux des marchands,
+qui payent au delà de l&#39;escorte.
+</blockquote></p>
+<p>
+Celui qui est supérieur sur mer fait avec les princes 
+neutres tous les traités de Commerce aussi
+avantageux qu&#39;il veut ; il tient dans le respect les
+pays les plus éloignés, qui pour n&#39;avoir pas eu
+tous les égards convenables, ont lieu de craindre
+un débarquement ou un bombardement. Quand
+même les ennemis, pour garder leurs côtes, seroient 
+forcés de faire la dépense d&#39;entretenir beaucoup 
+de troupes ; si la frontiere de mer est longue,
+ils ne sauroient veus empêcher de prendre terre,
+&amp; de piller une partie de leur pays, ou de surprendre 
+quelque place, parce que votre flotte qui
+menace un endroit, pourra au premier vent favorable,
+arriver infiniment plûtôt à un autre que
+ne sauroient faire les régimens ennemis qui avoient
+accouru à l&#39;endroit où votre armée navale les appelloit 
+d&#39;abord ; &amp; chacun comprend aisément
+qu&#39;il est impossible que les ennemis ayent cent
+lieues de côtes de mer assez bien garnies &amp; retranchées,
+sans qu&#39;il soit nécessaire pour empêcher un
+débarquement, que les troupes d&#39;un autre poste
+accourent pour soûtenir celles du poste où se fait
+la descente ».
+</p>
+<p>
+Les forces navales sont en effet si importantes,
+qu&#39;elles ne doivent jamais être négligées.
+<blockquote> 
+« La mer,
+dit un grand ministre, est celui de tous les héritages 
+sur lequel tous les souverains prétendent plus
+de part, &amp; cependant c&#39;est celui sur lequelles droits
+d&#39;un chacun sont moins éclaircis : l&#39;empire de cet
+élément ne fut jamais bien assûré à personne ; il a
+<milestone unit="column" n="2" />
+été sujet à divers changemens, selon l&#39;inconstance
+de sa nature. Les vieux titres de cette domination
+sont la force &amp; non la raison ; i faut être puissant
+pour prétendre à cet héritage. Jamais un grand état
+ne doit être dans le cas de recevoit une injure, sans
+pouvoir en prendre revanche » ;
+</blockquote>
+&amp; l&#39;on ne le peut
+à l&#39;egard des puissances maritimes, que par les forces
+navales.
+</p>
+<p>
+Dans l&#39;établissement d&#39;une puissance navale, il
+<blockquote> 
+« faut éviter, dit M. le marquis de Santa-Crux, de
+risquer par le sort d&#39;un combat votre marine naissante,
+&amp; de tenir vos vaisseaux dans des ports où
+les ennemis pourroient les détruire.
+</blockquote></p>
+<p>
+Il faut bien payer les naturels du pays qui fréquentent 
+les côtes ennemies, &amp; qui vous donnent
+des avis prompts &amp; sûrs de l&#39;armement &amp; des
+voyages de leurs escadres ; assembler secretement
+vos vaisseaux pour attaquer une escadre des ennemis 
+inférieure, &amp; qui se seroit séparée des autres ;
+si les ennemis sont en mer avec une grosse armée
+navale, ne faire cette année dans la Marine, que
+la dépense absolument nécessaire pour bien entretenir 
+dans des ports sûrs vos gros vaisseaux &amp;
+quelques frégates sur mer, afin que votre nation
+ne cesse pas entierement de s&#39;exercer dans la navigation,
+&amp; qu&#39;elle puisse traverser un peu le commerce 
+des ennemis, qui est toûjours considérable
+à proportion de leurs armées navales ».
+</p>
+<p>
+Cet auteur donne différens conseils qui peuvent
+contribuer à la sûreté des corsaires qui courent sur
+l&#39;ennemi.
+<blockquote> 
+« Il faut, dit-il, qu&#39;ils ayent dans les ports
+marchands des correspondances avec divers patrons 
+de felouques &amp; d&#39;autres legers bâtimens neutres,
+pour leur donner avis du tems que les bâtimens
+ennemis doivent sortir des ports sans escorte ; &amp; si
+leurs navires gardes-côtes en sont sortis pour côtoyer,
+ou s&#39;ils ont jetté l&#39;ancre. Ces patrons doivent 
+être d&#39;une fidélité reconnue &amp; de beaucoup
+de secret, pour pouvoir leur confier sur quelle côte 
+ou sur quel cap ils rencontreront chacun de vos
+corsaires, depuis un tel tems jusqu&#39;à tel autre : vos
+corsaires conviendront avec eux des signaux de reconnoissance,
+de peur qu&#39;ils ne craignent d&#39;en ap-approcher ».
+</blockquote>
+<i>Réflexions milit. de</i> M. le marquis de
+Santa-Crux, <i>tome IV. ch. x.</i> (<i>Q</i>)
+</p>
+<div2 type="notes">
+<note id="n54">
+(<i>a</i>) Il n&#39;est pas question d&#39;examiner ici si les anciens, au
+lieu de monter sur les chevaux pour combattre, les ont d&#39;abord 
+attelés à des chars. Nous renvoyons pour ce sujet à
+l&#39;<i>article</i> <sc><ref target="head:Equitation" type="search">Equitation</ref></sc>. Il nous suffit que la cavalerie ait été
+de la plus haute antiquité dans les armées, &amp; c&#39;est surquoi
+les anciens auteurs ne laissent aucun doute.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

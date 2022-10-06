@@ -1,0 +1,169 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28488" id="50:191:5" vol="7">
+<index type="head" value="Fruits" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Diete." />
+<index type="normclass" value="Diète" />
+<index type="englishclass" value="Diet" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fruits</head>
+<p>
+<sc>Fruits</sc>, (<i>Diete.</i>) les auteurs tant anciens que modernes,
+qui ont écrit sur les alimens, nous ont donné
+sur les propriétés communes des <i>fruits</i>, des généralités 
+si vagues, qu&#39;on ne peut puiser dans ces ouvrages 
+aucune connoissance positive sur cette matiere.
+Lemery les a bannies très-sagement de son <i>traité des
+alimens</i>, qu&#39;il commence presque par un chapitre
+particulier sur les fraises.
+</p>
+<p>
+En effet nous ne connoissons guere d&#39;autres qualités
+communes entre plusieurs especes de <i>fruits</i>, que la
+qualité très-énergique d&#39;aliment végétal (<i>voyez</i> <sc><ref target="head:Muqueux" type="search">Muqueux</ref> <i>&amp;</i> <ref target="head:Nourrissant" type="search">Nourrissant</ref></sc>). Une pomme, une amande,
+une figue, une châtaigne, une olive, se ressemblent 
+aussi peu qu&#39;un <i>fruit</i> quelconque, &amp; une racine
+<pb n="7:358" facs="V7/ENC_7-358.jpeg" />
+<milestone unit="column" n="1" />
+ou une feuille ; &amp; les especes qui paroissent les plus
+analogues entr&#39;elles, sont réellement distinctes par
+des propriétés médicinales très-différentes. C&#39;est
+ainsi que l&#39;abricot est regardé par tous les Medecins
+comme sujet à causer des dyssenteries, des coliques,
+des fievres intermittentes, <i>&amp;c.</i> &amp; que la pêche est au
+contraire regardée comme très-saine.
+</p>
+<p>
+La division que les anciens avoient faite des <i>fruits</i>
+en <i>fruits d&#39;été</i>, <foreign lang="greek">ὡραῖοι</foreign>, <i>horaei</i>, &amp; <i>fruits d&#39;automne</i>, est
+on ne peut pas plus mal entendue, plus incomplete,
+&amp; fondée sur des prétentions plus précaires. Une
+poire fondante d&#39;été ressemble parfaitement à une
+poire fondante d&#39;automne ; &amp; deux <i>fruits</i> d&#39;été, savoir 
+une cerise &amp; une amande, sont absolument différens.
+La circonstance d&#39;être peu durables ou de
+pouvoir être conservés long-tems, par laquelle les
+deux branches de leur division étoient spécifiées, ne
+fait rien aux propriétés diététiques des <i>fruits</i>, &amp; ne
+peut convenir qu&#39;aux <i>fruits</i> aqueux &amp; pulpeux.
+</p>
+<p>
+Les propriétés diététiques des <i>fruits</i> varient encore 
+même dans chaque espece selon qu&#39;on les mange
+dans différens degrés de maturité, frais ou séchés,
+vieux ou récents, cruds, cuits ou confits, seuls ou
+assaisonnés avec un peu de sucre, de sel, <i>&amp;c.</i>
+</p>
+<p>
+Pour toutes ces raisons, nous ne nous arrêterons
+pas plus long-tems sur ce sujet, &amp; nous reserverons
+pour les articles particuliers ce que l&#39;on sait de positif 
+sur l&#39;usage de chaque <i>fruit</i>. Voyez <i>ces articles</i>.
+</p>
+<p>
+Nous rappellerons seulement en deux mots l&#39;observation 
+généralement connue des mauvais effets
+des <i>fruits</i> verds, que les femmes, les enfans &amp; les
+estomacs malades appetent par une dépravation de
+goût, qu&#39;on doit regarder comme vraiment <i>maladive</i>.
+</p>
+<p>
+Nous ferons encore une observation sur l&#39;usage
+des <i>fruits</i> en général : c&#39;est que l&#39;opinion commune
+qui les fait regarder comme une source très ordinaire 
+des maladies épidémiques qui regnent souvent en
+automne ; que cette opinion, dis-je, n&#39;est vraissemblablement 
+qu&#39;une erreur populaire. On a observé
+que ces maladies n&#39;avoient été ni plus communes,
+ni plus dangereuses pendant certaines années qui
+avoient été très-abondantes en <i>fruits</i> de toute espece.
+</p>
+<p>
+Ce fart important mérite cependant d&#39;être encore
+éclairci par de nouvelles observations. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

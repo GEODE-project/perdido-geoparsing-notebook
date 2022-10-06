@@ -1,0 +1,679 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30048" id="54:28" vol="7">
+<index type="head" value="GRADUÉS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m.pl." />
+<head>GRADUÉS</head>
+<p>
+GRADUÉS, s. m. pl. (<i>Jurisprud.</i>) en général
+sont ceux qui ont obtenu des degrés dans une université,
+tels que le degré de maître-ès-Arts, celui de
+bachelier, de licentié, ou de docteur.
+</p>
+<p>
+Les <i>gradués</i> joüissent de plusieurs prérogatives.
+</p>
+<p>
+Il faut être <i>gradué</i> pour être reçû dans la plûpart
+des offices de judicature, du-moins dans les cours
+souveraines &amp; dans les bailliages &amp; sénéchaussées.
+</p>
+<p>
+Mais c&#39;est sur-tout en matiere bénéficiale que les
+priviléges des <i>gradués</i> sont considérables, &amp; qu&#39;ils
+sont susceptibles d&#39;un plus grand détail. On entend
+ordinairement par le terme de <i>gradués</i> dans cette
+matiere, ceux qui après avoir étudié dans une université 
+fameuse du royaume, y ont obtenu des degrés 
+&amp; les ont fait signifier à des patrons ou collateurs,
+afin de pouvoir requérir les bénéfices dans
+<pb n="7:808" facs="V7/ENC_7-808.jpeg" />
+<milestone unit="column" n="1" />
+les mois qui leur sont affectés. <i>Voyez</i> <sc><ref target="head:Université fameuse" type="search">Université
+fameuse</ref></sc>.
+</p>
+<p>
+Les degrés obtenus dans des universités étrangeres, ne sont pas considérés à l&#39;effet d&#39;obtenir des bénéfices ; 
+il faut néanmoins excepter l&#39;université d&#39;Avignon, qui joüit à cet égard des mêmes priviléges
+que les universités du royaume.
+</p>
+<p>
+On comprend aussi quelquefois sous le nom de
+<i>gradués</i>, tous ceux qui ont obtenu des degrés, quoiqu&#39;ils ne les ayent pas fait signifier à des patrons ou
+collateurs.
+</p>
+<p>
+Les <i>gradués</i> qui ont fait signifier leurs grades peuvent 
+requérir &amp; recevoir des bénéfices ; ceux qui ne
+les ont pas fait signifier ne peuvent pas requérir,
+mais seulement recevoir certains bénéfices qui ne
+peuvent être possédés que par des <i>gradués</i>.
+</p>
+<p>
+On distingue trois sortes de <i>gradués:</i> savoir ceux
+qui ont été reçûs dans les formes prescrites par les
+statuts &amp; reglemens autorisés par les lois ; les <i>gradués</i> de grace qui ont la capacité requise, mais qui
+ont été dispensés du tems d&#39;étude &amp; de quelques
+exercices ordinaires pour y parvenir ; enfin, les <i>gradués</i> de privilége. On appelle ainsi ceux qui en Italie, &amp; dans quelques autres pays catholiques, ont
+obtenu du pape ou de ses légats &amp; autres personnes
+qui prétendent en avoir le pouvoir, des lettres à l&#39;effet 
+d&#39;être dispensés des examens &amp; autres exercices.
+</p>
+<p>
+Les degrés de grace de docteurs ou de licentiés
+suffisent aux personnes que le Roi nomme aux archevêchés 
+ou évêchés, lorsque les universités les ont
+donnés sur des dispenses accordées ou autorisées par
+le Roi ; mais les universités n&#39;ont pas le pouvoir d&#39;en
+donner de leur autorité privée.
+</p>
+<p>
+Les <i>gradués</i> de grace, tels que sont ceux qui prennent 
+des degrés en droit par bénéfice d&#39;âge, &amp; ceux
+qui obtiennent des degrés dans certaines universités 
+où l&#39;on a la facilité de les accorder, sans exiger le
+tems d&#39;étude nécessaire, ne peuvent en vertu de
+leurs grades requérir des bénéfices.
+</p>
+<p>
+Les <i>gradués</i> de privilége ne sont point reconnus
+en France.
+</p>
+<p>
+L&#39;origine du droit des <i>gradués</i> sur les bénéfices est
+fort ancienne : en effet, dès le xiij. siecle les papes
+conféroient les bénéfices aux <i>gradués</i>, suivant le
+rôle qui leur en étoit envoyé par les universités ;
+mais les <i>gradués</i> n&#39;avoient pas encore un droit certain 
+aux bénéfices.
+</p>
+<p>
+Les <i>gradués</i> étant fort négligés par les collateurs
+&amp; par les patrons, il en fut fait de grandes plaintes
+au concile de Bâle, qui leur affecta la troisieme partie 
+des bénéfices, ce qui fut aussi-tôt confirmé en
+France par la pragmatique-sanction du roi Charles VII. &amp; depuis par le concordat fait entre Léon
+X. &amp; le roi François I.
+</p>
+<p>
+Mais comme il n&#39;étoit pas facile de partager tous
+les bénéfices du royaume en trois parties égales, le
+même concordat ordonna que l&#39;année seroit divisée
+en trois parties, &amp; que les bénéfices qui vaqueroient
+par mort durant le tiers de l&#39;année, seroient affectés
+aux <i>gradués</i>.
+</p>
+<p>
+Ce tiers étant de quatre mois : on en a affecté deux
+aux <i>gradués</i> simples ; savoir Avril &amp; Octobre, qu&#39;on
+nomme <i>mois de faveur</i> ; &amp; deux aux <i>gradués</i> nommés,
+qui sont Janvier &amp; Juillet, qu&#39;on appelle <i>mois
+de rigueur</i>.
+</p>
+<p>
+Tous <i>gradués</i> soit simples ou nommés, sont sujets
+à l&#39;examen de l&#39;ordinaire avant d&#39;obtenir le <i>visa</i>, &amp;
+ce non-seulement pour les moeurs, mais aussi pour la
+capacité.
+</p>
+<p>
+On entend par <i>gradués</i> simples, ceux qui n&#39;ont que
+les lettres de leurs degrés avec leurs attestations de
+tems d&#39;étude ; les <i>gradués</i> nommés sont ceux qui ont
+en outre des lettres de nomination, par lesquelles
+l&#39;université en laquelle ils sont <i>gradués</i>, les présente
+<milestone unit="column" n="2" />
+aux collateurs &amp; patrons ecclésiastiques pour être
+pourvûs des bénéfices qui viendront à vaquer dans
+les mois qui leur sont affectés.
+</p>
+<p>
+Il y a néanmoins une exception pour les bénéfices 
+à charge d&#39;ames, à l&#39;égard desquels il est permis
+au collateur par les derniers reglemens de gratifier
+le plus capable, quoique le bénéfice ait vaqué dans
+un mois de rigueur.
+</p>
+<p>
+Tous collateurs &amp; patrons ecclésiastiques, soit
+séculiers ou réguliers, sont sujets à l&#39;expectative des
+<i>gradués</i> ; les chanoines, chapitres, doyens, abbés,
+abbêsses, évêques, archevêques, cardinaux.
+</p>
+<p>
+Le pape même seroit sujet au droit des <i>gradués</i>,
+s&#39;il conféroit comme ordinaire de France ; mais il
+n&#39;y est pas sujet quand il confere comme ordinaire
+des ordinaires, <i>jure devolutionis</i>.
+</p>
+<p>
+Les bénéfices sujets aux <i>gradués</i> sont tous les bénéfices 
+dont ils sont capables, &amp; qui vaquent par
+mort dans les mois qui leur sont affectés, à l&#39;exception 
+des bénéfices consistoriaux, des électifs-confirmatifs, &amp; de ceux qui sont à la nomination ou collation 
+du Roi.
+</p>
+<p>
+Ceux dont la nomination appartient alternativement 
+au Roi &amp; à un patron ou collateur ecclesiastique,
+sont sujets aux <i>gradués</i> dans le tour du patron
+ou collateur ecclésiastique.
+</p>
+<p>
+Les dignités des églises cathédrales sont exemptes
+de l&#39;expectative des <i>gradués</i>, suivant l&#39;édit de 1006 ;
+mais il n&#39;a pas été enregistré au grand conseil, ni
+dans quelques parlemens.
+</p>
+<p>
+Les bénéfices en patronage laïc, ceux qui exigent
+quelques qualités particulieres, comme de noble ou
+de musicien ; les bénéfices unis valablement, &amp; ceux
+fondés depuis la date de la nomination des <i>gradués</i>,
+ne sont pas non plus sujets à leur droit, ni les chapelles 
+desservies par commission dans des châteaux
+&amp; maisons particulieres, ces chapelles n&#39;étant pas
+des bénéfices.
+</p>
+<p>
+L&#39;affectation particuliere d&#39;un certain nombre de
+bénéfices d&#39;une église faite à des <i>gradués</i> par le titre
+d&#39;érection d&#39;une église, n&#39;empêcheroit pas les <i>gradués</i>
+de requérir les autres bénéfices dans les mois qui leur
+sont affectés.
+</p>
+<p>
+Les <i>gradués</i> ne peuvent pas requérir des bénéfices
+en Bretagne ni en Franche-Comté, dans les trois évêchés 
+de Metz, Toul, &amp; Verdun, ni dans le Roussillon.
+</p>
+<p>
+Le concordat donne aux <i>gradués</i> le decret irritant,
+c&#39;est-à-dire que toute disposition qui seroit faite au
+préjudice de leur requisition, seroit nulle de plein
+droit ; mais si le collateur ordinaire avoit conféré à
+un <i>non-gradué</i> un bénéfice sujet aux <i>gradués</i>, &amp; qui
+auroit vaqué dans un des mois qui leur sont affectés,
+la provision ne seroit pas nulle de plein droit ; elle
+subsisteroit, pourvû qu&#39;aucun <i>gradué</i> ne vînt après
+requérir dans les six mois.
+</p>
+<p>
+Suivant le concordat, les <i>gradués</i> doivent s&#39;adresser 
+dans les six mois de la vacance du bénéfice au
+collateur ordinaire &amp; patron, pour requérir le bénéfice 
+vacant ; en cas de refus du collateur ou patron,
+ils doivent s&#39;adresser au supérieur immédiat,
+en remontant de degré en degré jusqu&#39;au pape ; &amp; si
+le collateur n&#39;a point de supérieur ecclésiastique dans
+le royaume, les parlemens commettent le chancelier 
+de Notre-Dame ou le grand archidiacre de la
+même église, pour donner des provisions. En Normandie, les <i>gradués</i> obtiennent des lettres de chancellerie 
+adressées aux évêques ou à leurs grands-vicaires, qui leur ordonnent de conférer aux <i>gradués</i>,
+&amp; les collateurs obéissent à cet ordre.
+</p>
+<p>
+Lorsqu&#39;un bénéfice sujet aux <i>gradués</i> vient à vaquer,
+le <i>gradué</i> qui veut le requérir doit se transporter 
+chez le collateur, lui demander le bénéfice ; si le
+collateur le lui refuse, il faut prendre acte du refus,
+le faire insinuer, &amp; se présenter au supérieur immédiat,<gap type="hyphenpb" />
+<pb n="7:809" facs="V7/ENC_7-809.jpeg" />
+<milestone unit="column" n="1" />
+lui justifier de l&#39;acte de refus, &amp; des titres en
+vertu desquels le <i>gradué</i> requiert, &amp; en cas de nouveau 
+refus, il faut faire la même chose auprès du
+supérieur.
+</p>
+<p>
+Le collateur supérieur ne peut pas conférer d&#39;avance,
+mais seulement en cas de refus de la part du
+collateur ordinaire.
+</p>
+<p>
+Le tems d&#39;étude nécessaire pour acquérir les degrés 
+à l&#39;effet de pouvoir requerir des bénéfices, est
+reglé par l&#39;ordonnance de Louis XII. du mois de
+Mars 1498, &amp; du mois de Juin 1510, auxquelles le
+concordat est aussi conforme en ce point ; ce tems
+est de dix ans pour les licentiés ou bacheliers formés
+en Théologie ; sept ans pour les docteurs ou licentiés 
+en Droit canon, civil, ou en Medecine ; pour les
+maîtres ou licentiés-ès-Arts cinq ans <i>à logicalibus inclusivè</i>, ou en autre plus haute &amp; supérieure faculté ;
+pour les bacheliers simples en Théologie six ans ;
+pour les bacheliers en Droit canon ou civil, cinq
+ans, à-moins qu&#39;ils ne fussent nobles <i>ex utroque parente</i>, &amp; d&#39;ancienne lignée ; auquel cas il suffit qu&#39;ils
+ayent étudié trois ans.
+</p>
+<p>
+L&#39;université de Paris est dans l&#39;usage de recevoir
+maîtres-és-Arts ceux qui ont fait leur cours dans les
+universités de Reims &amp; de Caen, &amp; qui ont étudié
+un an dans l&#39;université de Paris.
+</p>
+<p>
+Le certificat de tems d&#39;étude doit être signé du
+professeur, &amp; visé du principal où l&#39;on a etudié.
+</p>
+<p>
+Les lettres de degré doivent aussi être délivrées
+par les universités ou l&#39;on a étudié.
+</p>
+<p>
+Pour obtenir des bénéfices en vertu de ses grades,
+il faut notifier aux collateurs ou patrons ses degrés,
+ses lettres de nomination, si on en a, &amp; le certificat
+de tems d&#39;étude.
+</p>
+<p>
+Cette notification doit être faite en présence de
+deux notaires apostoliques, ou d&#39;un notaire apostolique 
+&amp; de deux témoins qui signent la minute de la
+notification ; en cas de refus du notaire apostolique,
+il faut lui demander acte de son refus ; s&#39;il ne veut
+pas le donner, il faut s&#39;adresser au juge royal, pour
+en obtenir une ordonnance qui autorise un autre
+officier à instrumenter au lieu &amp; place du notaire
+apostolique.
+</p>
+<p>
+Les mêmes formalités doivent être observees dans
+la notification que les <i>gradués</i> sont obligés de réitérer 
+tous les ans dans le tems de carême, de leurs
+noms &amp; surnoms aux collateurs ou patrons ecclésiastiques.
+</p>
+<p>
+Le concordat veut que ces notifications soient faites 
+à la personne du collateur ou à son domicile ;
+cependant il y a des diocèses où ces actes se signifient 
+à l&#39;évêque, en parlant à son secrétaire : le greffier 
+du chapitre, ou la premiere dignité dans les lieux
+où cet usage est établi, reçoivent aussi les actes de
+notification comme feroit le chapitre même.
+</p>
+<p>
+A l&#39;égard de la rémotion qui se fait tous les ans en
+l&#39;absence des collateurs, elle peut être faite à leurs
+vicaires, &amp; au défaut des vicaires au greffe des insinuations.
+</p>
+<p>
+Le <i>gradué</i> qui a fait notifier ou insinuer ses degrés
+au collateur avant la vacance du bénéfice, est préféré 
+à celui qui n&#39;a notifié les siens que dans le tems
+de la vacance ; mais celui-ci l&#39;emporte sur un pourvû 
+<i>per obitum</i>, postérieurement à la requisition.
+</p>
+<p>
+Quand la nomination du <i>gradué</i> n&#39;est adressée qu&#39;au
+patron, il suffit de la notifier au patron ; mais si elle
+est aussi adressée au collateur, il faut la notifier à l&#39;un
+&amp; à l&#39;autre.
+</p>
+<p>
+Un <i>gradué</i> qui omet en un carême de réitérer
+la notification de ses noms &amp; surnoms, n&#39;est pas pour
+toûjours déchu de son droit, mais seulement pour
+cette année.
+</p>
+<p>
+Quand un bénéfice vaque dans un des deux mois
+de faveur, le collateur ou patron n&#39;est pas obligé de
+<milestone unit="column" n="2" />
+le conférer au plus ancien <i>gradué</i> ni au plus qualifié ;
+il peut choisir entre tous les <i>gradués</i> soit simples ou
+nommés qui ont requis, celui qu&#39;il juge à-propos.
+</p>
+<p>
+Ainsi les <i>gradués</i> nommés peuvent requerir les bénéfices 
+qui vaquent dans les mois de faveur ; mais les
+<i>gradués</i> simples ne peuvent pas requérir ceux qui vaquent 
+dans les mois de faveur.
+</p>
+<p>
+Dans les mois de rigueur le collateur ou patron
+est oblige de conférer aux <i>gradués</i> nommés, eu égard
+à l&#39;ancienneté &amp; à la prérogative de leurs grades.
+</p>
+<p>
+L&#39;ancienneté se détermine par la date des lettres
+de nomination.
+</p>
+<p>
+Entre plusieurs <i>gradués</i> nommés, qui sont également anciens, on préfere le plus qualifié: ainsi les
+docteurs, licentiés, ou bacheliers formés en Théologie, sont préférés aux docteurs en Droit civil, en
+Droit canon, ou en Medecine ; les bacheliers en Droit
+canon ou en Droit civil, aux maîtres-ès-Arts ; les
+docteurs en Droit canon, aux docteurs en Droit civil,
+&amp; aux docteurs en Medecine ; les bacheliers en
+Droit canon, aux bacheliers en Droit civil : mais
+cela n&#39;a lieu qu&#39;en concurrence de date.
+</p>
+<p>
+On ne peut tirer aucune préférence de ce qu&#39;un
+<i>gradué</i> a été nommé par une université plus fameuse
+qu&#39;une autre, pourvû que celle-ci soit aussi du nombre 
+des universités fameuses.
+</p>
+<p>
+Si plusieurs <i>gradués</i> ont des lettres de nomination
+du même jour, on préfere celui qui a obtenu le premier 
+ses degrés.
+</p>
+<p>
+Lorsque toutes choses se trouvent égales, le collateur 
+ou patron a la liberté de nommer celui qu&#39;il
+juge à-propos.
+</p>
+<p>
+Les <i>gradués</i> nommés sont obligés d&#39;exprimer dans
+leurs lettres les bénéfices dont ils sont pourvûs, &amp; la
+véritable valeur de ces bénéfices, année commune.
+</p>
+<p>
+Les <i>gradués</i> doivent aussi faire mention des pensions 
+qu&#39;ils se sont reservées en résignant.
+</p>
+<p>
+Ce n&#39;est pas assez pour requérir un bénéfice en
+vertu de ses grades, d&#39;avoir fait insinuer dûement ses
+degrés, il faut aussi avoir l&#39;âge &amp; les autres qualités
+requises pour le bénéfice, soit par la loi, soit par la
+fondation.
+</p>
+<p>
+Il faut aussi être françois, ou du moins être naturalisé; 
+mais il suffit que ces lettres soient enregistrées
+avant le jugement du procès.
+</p>
+<p>
+Pour requérir des bénéfices en vertu de ses grades,
+il faut être du-moins tonsuré.
+</p>
+<p>
+Il faut aussi être né d&#39;un mariage légitime.
+</p>
+<p>
+Il est pareillement nécessaire d&#39;être capable des
+effets civils.
+</p>
+<p>
+Un <i>gradué</i> qui est <i>in reatu</i>, ne peut requérir de bénéfice.
+</p>
+<p>
+Pour qu&#39;un <i>gradué</i> soit censé rempli, il faut qu&#39;il
+ait du-moins quatre cents livres de revenu en bénéfices 
+obtenus en vertu de ses grades, ou six cents
+livres en bénéfices obtenus autrement qu&#39;en vertu
+de ses grades, si c&#39;est un ecclésiastique séculier ; car
+s&#39;il est régulier, le plus petit bénéfice suffit pour qu&#39;il
+soit cense rempli ; le tout à-moins que les <i>gradués</i> ne
+prouvent qu&#39;ils ont été évincés de ces bénéfices par
+jugement contradictoire donné sans fraude ni collusion.
+</p>
+<p>
+Lorsqu&#39;il s&#39;agit de déterminer s&#39;il y a replétion,
+on considere la valeur des bénéfices du <i>gradué</i>, eu
+égard au tems qu&#39;ils lui sont advenus.
+</p>
+<p>
+Les rétributions &amp; même les distributions journalieres 
+&amp; les obits de fondation, sont comptés dans
+le revenu pour la replétion.
+</p>
+<p>
+La somme de quatre cents ou de six cents livres nécessaire 
+pour remplir le <i>gradué</i>, s&#39;entend, toute déduction 
+faite, des charges ordinaires, telles que les décimes,
+mais non pas des charges extraordinaires &amp;
+casuelles, au nombre desquelles on met le don gratuit.
+</p>
+<p>
+<pb n="7:810" facs="V7/ENC_7-810.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Les <i>gradués</i> ne sont pas remplis par des pensions
+qui ne sont pas cléricales ; mais celles qui leur tiennent 
+lieu de la dotation d&#39;un titre ecclésiastique, les
+remplissent comme des bénéfices. Il en est de même
+des autres pensions cléricales assignées sur les fruits
+d&#39;un bénéfice, pour être payées par le titulaire pendant 
+la vie du pensionnaire.
+</p>
+<p>
+Un <i>gradué</i> séculier ne peut pas requérir un bénéfice 
+régulier, <i>&amp; vice versâ</i>.
+</p>
+<p>
+Les <i>gradués</i> réguliers ne peuvent requérir en vertu 
+de leurs grades des bénéfices d&#39;un autre ordre,
+même avec dispense du pape ; &amp; celui qui a déjà
+un bénéfice autrement qu&#39;en vertu de ses grades,
+ne peut pas non plus en requérir un autre, quand
+même il auroit une dispense <i>ad duo</i>, parce que le
+pape ne peut donner d&#39;extension au concordat.
+</p>
+<p>
+Les bénéfices que peuvent requérir les <i>gradués</i>,
+sont ceux qui vaquent par mort ; ils ne peuvent
+pas exercer leur droit sur ceux dont le défunt a
+permuté, ou dont il a donné sa démission pure &amp;
+simple, lorsqu&#39;il y a deux jours francs avant le décès 
+de celui qui a résigné ou permuté.
+</p>
+<p>
+Pour posseder une cure dans une ville murée, il
+faut être <i>gradué</i> ; la dispense de degrés qui seroit
+donnée par le pape, ne seroit pas admise.
+</p>
+<p>
+Au reste, il suffit d&#39;être <i>gradué</i> avant la prise de
+possession d&#39;une telle cure.
+</p>
+<p>
+Il y a encore d&#39;autres bénéfices pour lesquels il
+faut être <i>gradué</i>. 1°. Les prébendes théologales ne
+peuvent être conférées qu&#39;à des docteurs en Théologie, ou à des bacheliers formés. 2°. Pour posseder
+une dignité dans une cathédrale, ou la premiere dignité 
+d&#39;une collégiale, il faut être au-moins bachelier 
+en Théologie ou en Droit canon. Pour être archevéque 
+ou évêque, il faut être docteur en Théologie, ou docteur en Droit, ou au-moins licencié ;
+mais les princes du sang &amp; les religieux mendians
+sont dispensés d&#39;être <i>gradués</i>.
+</p>
+<p>
+Les régens septenaires de l&#39;université de Paris,
+c&#39;est-à-dire qui ont professé quelque science pendant
+sept ans, même la Grammaire, pourvû que ce soit
+en un collége célebre, &amp; ceux qui ont été principaux 
+d&#39;un collége de même qualité aussi pendant
+sept années entieres &amp; sans interruption, sont préférés 
+dans les mois de rigueur à tous les <i>gradués</i>
+nommés, excepté aux docteurs en Théologie.
+</p>
+<p>
+Les professeurs, pour joüir de ce privilége de
+septenaires, doivent avoir leur <i>quinquennium</i>.
+</p>
+<p>
+En concurrence de plusieurs professeurs en diverses 
+facultés, on adjuge le bénéfice à celui d&#39;entre
+eux qui est le plus ancien <i>gradué</i>.
+</p>
+<p>
+Quand le régent septenaire concourt avec un
+docteur en Théologie aussi ancien que lui, ces deux
+<i>gradués</i> étant égaux en toutes choses, le collateur
+peut gratifier celui qu&#39;il juge à propos.
+</p>
+<p>
+Le septenaire de Paris est préféré aux <i>gradués</i>
+des autres universités, même pour les bénéfices des
+autres diocèses.
+</p>
+<p>
+Les régens septenaires des universités de Caën
+&amp; de Reims ont aussi le même privilége que ceux
+de Paris.
+</p>
+<p>
+Le tems que les <i>gradués</i> ont pour requérir, est de
+six mois.
+</p>
+<p>
+Le pape peut prévenir les <i>gradués</i>, mais il faut
+que ce soit avant leur requisition ; &amp; pour empêcher 
+la prévention du pape, il n&#39;est pas nécessaire
+que le <i>gradué</i> ait obtenu des provisions du collateur
+ordinaire ; il suffit pour lier les mains au pape, qu&#39;il
+ait fait sa requisition, &amp; si le collateur ou patron la
+refuse, qu&#39;il en prenne un acte de refus.
+</p>
+<p>
+La requisition faite par un <i>gradué</i> dont le degré
+seroit nul, met à couvert le droit de tous les autres
+<i>gradués</i>, quoiqu&#39;ils n&#39;ayent requis qu&#39;après les provisions 
+données par le pape.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Quoiqu&#39;un <i>gradué</i> nommé ait obtenu des provisions,
+il est évincé de plein droit par un <i>gradué</i>
+nomme plus ancien que lui, qui se présente dans
+les six mois qu&#39;ils ont pour faire leurs requisitions.
+</p>
+<p>
+Les chapitres peuvent <i>sede vacante</i> conférer aux
+<i>gradués</i> simples &amp; nommés.
+</p>
+<p>
+Il n&#39;est pas libre aux collateurs ou patrons dans
+les mois de faveur, de gratifier des <i>gradués</i> qui n&#39;ont
+pas fait insinuer leurs grades.
+</p>
+<p>
+Les <i>gradués</i> ne peuvent pas transmettre leurs
+droits à d&#39;autres <i>gradués</i>, si ce n&#39;est après avoir obtenu 
+des provisions.
+</p>
+<p>
+A l&#39;égard du droit de conférer les bénéfices affectés 
+aux <i>gradués</i>, quand il est dévolu au supérieur
+faute par l&#39;inférieur d&#39;avoir conféré dans six mois,
+le supérieur peut conférer de la même façon qu&#39;auroit 
+fait l&#39;inferieur, &amp; conséquemment gratifier un
+des contendans, supposé que l&#39;inférieur eût le droit
+de le faire, soit que le bénéfice eût vaqué dans un
+mois de faveur, ou que toutes choses fussent égales entre les contendans ; autre chose seroit si le
+droit étoit dévolu au supérieur, pour avoir par
+l&#39;inférieur conféré à un clerc non <i>gradué</i> ; car dans
+ce cas le collateur a perdu le droit de gratifier pour
+avoir contrevenu au concordat.
+</p>
+<p>
+Un <i>gradué</i> qui se marie ou qui s&#39;est fiancé, perd
+son droit de nomination.
+</p>
+<p>
+Il y auroit encore bien d&#39;autres choses à observer 
+par rapport aux <i>gradués</i>, mais qui nous jetteroient 
+dans une trop longue discussion ; ceux qui
+voudront approfondir cette matiere, peuvent consulter 
+<i>les ordonnances de Louis XII</i>. du mois de
+Mars 1498, &amp; Juin 1510; <i>le concordat, l&#39;édit de
+1606, le traité des matieres bénéficiales</i> de Fuet, <i>celui</i>
+de Drapier.
+</p>
+<p>
+Il ne nous reste plus qu&#39;à expliquer dans les subdivisions 
+suivantes les différentes qualifications que
+l&#39;on donne aux <i>gradués</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

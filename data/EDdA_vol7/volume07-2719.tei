@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30173" id="54:80" vol="7">
+<index type="head" value="GRATIOLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botanique." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.f." />
+<head>GRATIOLE</head>
+<p>
+GRATIOLE, s. f. (<i>Botanique.</i>) espece de digitale ; 
+aussi est-elle nommée <i>digitalis minima</i>, par Boerhaave, J. A. <i>229</i>. Tournef. <i>inst. 165. elem bot. 135.
+gratiola</i>, par J. B. <i>iij. 434</i>. Ger. <i>466</i>. Emac. <i>581</i>.
+Rai, <i>hist. ij. 1885</i>. Rivin, <i>irr. M. 126</i>. Rupp. Fl.
+Jen. 200.
+</p>
+<p>
+C&#39;est une petite plante dont la tige menue pénetre
+fort avant dans la terre, &amp; pousse plusieurs tiges
+quarrées, d&#39;environ un pié de haut, des noeuds desquelles<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+naissent des feuilles longues, étroites, &amp;
+pointues comme celles de l&#39;hysope ordinaire. Il sort
+de leurs aisselles des fleurs portées sur de courts pédicules,
+petites, oblongues, d&#39;un jaune pâle, ouvertes 
+en maniere de gueules en-devant, &amp; partagées
+en deux levres d&#39;un pourpre clair ; la levre supérieure 
+est en forme de coeur, réfléchie vers le haut, &amp;
+l&#39;inférieure est divisée en trois parties ; leur calice
+est d&#39;une seule piece, partagé en cinq quartiers, du
+fond duquel s&#39;éleve un long pistil qui se change en
+une capsule rougeâtre, arrondie, terminée en pointe,
+partagée en deux loges, &amp; remplie de menues
+graines roussâtres.
+</p>
+<p>
+Toute cette plante est sans odeur, mais d&#39;une saveur 
+très-amere, mêlée de quelque adstriction. Elle
+aime les lieux montagneux, &amp; fleurit au mois de
+Juillet : elle est rarement d&#39;usage, parce qu&#39;elle agit
+avec violence par haut &amp; par bas ; &amp; c&#39;est pour cela
+qu&#39;elle mérite d&#39;être considérée en matiere médicale.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

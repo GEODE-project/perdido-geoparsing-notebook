@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29034" id="51:235:41" vol="7">
+<index type="head" value="Garde ou Protection" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde</head>
+<p>
+<sc>Garde</sc> <i>ou</i> <sc>Protection</sc>, dans le tems des incursions 
+des Barbares &amp; des guerres privées, les habitans 
+de la campagne, &amp; même ceux des villes, se
+mettoient sous la <i>garde</i> &amp; <i>protection</i> de quelque seigneur 
+puissant qui avoit droit de château &amp; forteresse,
+pour les mettre en sûreté, &amp; les défendre des
+violences auxquelles ils étoient exposés ; &amp; comme
+il se faisoit à ce sujet un contrat entre le seigneur &amp;
+ses sujets, &amp; que ceux-ci s&#39;engageoient par reconnoissance 
+à certains droits &amp; devoirs envers le seigneur,
+cette <i>garde</i> devenoit aussi par rapport au seigneur 
+un droit qu&#39;il avoit sur ses sujets. C&#39;est pourquoi 
+dans des lettres du roi Jean, du mois d&#39;Août
+1354, portant confirmation des priviléges des habitans 
+de Jonville-sur-Sône ; il est dit que ces habitans 
+ne pourront, sans le consentement de leur
+seigneur, se mettre sous la <i>garde</i> &amp; <i>protection</i> d&#39;un
+autre, si ce n&#39;est contre les violences de gens qui
+ne seroient pas soumis à leurs seigneurs ; mais que
+dans ce cas ils seront tenus d&#39;exprimer dans les lettres 
+de <i>garde</i> qu&#39;ils obtiendront de ces seigneurs
+<pb n="7:493" facs="V7/ENC_7-493.jpeg" />
+<milestone unit="column" n="1" />
+étrangers, le nom des gens contre les violences desquels 
+ils demandent protection. Et dans des lettres
+de Charles V. du mois d&#39;Août 1366, il est dit que
+la <i>garde</i> de quelques lieux appartenant à l&#39;abbaye
+de Molesme, ne pourra être mise hors la main des
+comtes de Champagne ; &amp; l&#39;on voit que ce droit de
+<i>garde</i> emportoit une jurisdiction sur les personnes
+qui étoient en la <i>garde</i> du seigneur. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

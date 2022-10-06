@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29307" id="52:123:2" vol="7">
+<index type="head" value="Général des Dragons" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit." />
+<index type="normclass" value="Art militaire" />
+<index type="englishclass" value="Military Arts" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Général des Dragons</head>
+<p>
+<sc>Général des Dragons</sc>, (<i>Art milit.</i>) c&#39;est le
+colonel général de ce corps auquel on donne souvent 
+ce titre dans l&#39;usage ordinaire.
+<blockquote> 
+« M. de Boufflers
+a le régiment des gardes vacant par la mort de M.
+de la Feuillade, &amp; vend sa charge de <i>général des dragons</i> au comte de Tessé ».
+</blockquote>
+<i>Abrégé chronologique de
+l&#39;histoire de France, par</i> M. le président Hénault.
+</p>
+<p>
+Le corps des dragons a un autre chef, c&#39;est le
+mestre de camp <i>général</i>: en l&#39;absence de ces deux officiers,
+c&#39;est le plus ancien brigadier du corps qui en
+a le commandement.
+</p>
+<p>
+Lorsque les dragons sont mêlés dans les brigades
+de cavalerie, ils doivent obéir à celui qui commande ; 
+s&#39;il arrive que ce soit un officier de dragons, il
+est en ce cas sous les ordres du <i>général</i> de la cavalerie ; 
+s&#39;il se trouve dans les brigades mêlées de cavalerie 
+&amp; de dragons, un brigadier de ce dernier corps,
+il roule avec les brigadiers de cavalerie ; &amp; il est
+obligé de reconnoître le <i>général</i> ou le commandant 
+de la cavalerie. Les officiers de cavalerie &amp;
+de dragons de pareils grades, tiennent rang entr&#39;eux de la date de leurs commissions ; lorsqu&#39;elles
+sont datées du même jour, l&#39;officier de cavalerie
+commande celui de dragons. S&#39;il arrive que par ancienneté,
+le brigadier, colonel ou autre officier de
+dragons, se trouve commander un corps ou un détachement 
+composé de cavalerie &amp; de dragons, l&#39;officier 
+de dragons doit, en ce cas, après avoir rendu
+compte au <i>général</i> de l&#39;armée, le rendre ensuite au <i>général</i> de la cavalerie ou à celui qui la commande,
+comme étant le premier corps, &amp; ensuite au commandant 
+des dragons. Dans tout autre service qui
+concerne les dragons, les officiers de ce corps n&#39;ont aucun 
+compte à rendre ni aucun ordre à recevoir de celui 
+qui commande la cavalerie ; les dragons faisant un
+corps distinct &amp; séparé. <i>Code milit. par</i> M. Briquet.
+</p>
+<p>
+Ce qu&#39;on vient d&#39;ajoûter à l&#39;<i>article</i> <sc><ref target="head:Général des Dragons" type="search">Général des
+Dragons</ref></sc>, doit servir de supplément &amp; de rectification 
+au <i>mot</i> <sc><ref target="head:Dragons" type="search">Dragons</ref></sc>, où l&#39;on ne s&#39;est pas expliqué
+exactement sur ce qui concerne ce corps : on y dit,
+que <i>le major général des dragons reçoit l&#39;ordre du maréchal 
+général des logis de la cavalerie</i> ; il falloit dire,
+que <i>les ordres du général lui sont remis par le maréchal
+général des logis de la cavalerie, verbalement ou par
+écrit</i>. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

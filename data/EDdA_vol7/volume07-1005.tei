@@ -1,0 +1,177 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28459" id="50:178" vol="7">
+<index type="head" value="FRONTON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Blondel" />
+<index type="shortauth" value="Blondel" />
+<index type="kafnum" value="16" />
+<index type="kafauth" value="Blondel, Jacques-François (1705-1774)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Architect." />
+<index type="normclass" value="Architecture" />
+<index type="englishclass" value="Architecture" />
+<index type="generatedclass" value="Architecture" />
+<index type="pos" value="s.m." />
+<head>FRONTON</head>
+<p>
+FRONTON, s. m. (<i>Architect.</i>) on entend sous ce
+nom tout amortissement triangulaire, servant à couronner 
+l&#39;extrémité supérieure de l&#39;avant-corps d&#39;un
+bâtiment. L&#39;origine des <i>frontons</i> vient des Grecs qui
+les plaçoient sur le sommet du frontispice de leurs
+temples, &amp; représentoient les pignons de ces sortes
+de monumens ; de maniere que la hauteur de ce triangle,
+qui étoit à sa base comme un est à cinq, a fixé
+pour toûjours leur proportion. Ces peuples n&#39;employerent 
+d&#39;abord les <i>frontons</i> qu&#39;avec beaucoup de
+discrétion ; leurs temples étoient les seuls édifices
+où l&#39;on pût les mettre en usage : mais dans la suite,
+leur application dans l&#39;Architecture a dégénéré en
+abus, principalement en Italie, où non-seulement
+les architectes romains en ont placé dans tous leurs
+genres de bâtimens, mais les ont chantournés, enroulés,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+coupés &amp; interrompus ; ensorte qu&#39;ayant
+perdu de vûe l&#39;origine des <i>frontons</i>, ils en ont fait
+un ornement arbitraire, sans égard à la convenance 
+du lieu, sans méditer l&#39;effet qu&#39;ils produiroient
+dans leurs décorations, &amp; sans prévoir si tout autre
+couronnement n&#39;eût pas été préférable.
+</p>
+<p>
+Nos premiers architectes françois n&#39;en ont pas usé
+avec plus de modération que les latins ; &amp; à l&#39;exemple 
+des productions de leurs précédesseurs, ils en ont
+placé plusieurs les uns au-dessus des autres, dans un
+même frontispice : témoins le portail des Minimes,
+celui de S. Gervais, &amp; celui du Val-de-Grace à Paris. On en remarque même trois, placés l&#39;un dans
+l&#39;autre, dans la décoration de l&#39;intérieur de la cour
+du Louvre ; &amp; l&#39;on en voit une réitération condamnable 
+dans la façade du même palais, du côté de la
+riviere. En un mot, les niches, les croisées, les tables 
+saillantes, en sont ornées ; on en voit régner
+par-tout, couronner tout ; &amp; par-tout tenir lieu d&#39;une 
+architecture rectiligne, &amp; plus analogue à la direction 
+perpendiculaire des piés-droits, &amp; à la forme 
+horisontale des entablemens qui couronnent nos
+façades.
+</p>
+<p>
+Nos architectes modernes ont usé avec encore
+moins de prudence des <i>frontons</i> ; &amp; à l&#39;imitation
+du déréglement des Romains, du tems de <i>Boromini</i>,
+ils les ont fait circulaires, ou triangulaires, à ressauts,
+interrompus, retournés ou pliés, &amp; cela sans
+autre but que de varier leurs compositions, &amp; de
+placer dans le tympan de ces <i>frontons</i> des ornemens
+frivoles, sans choix &amp; sans convenance. Enfin il
+n&#39;est pas un de nos artisans qui ne s&#39;imagine avoir
+produit un chef-d&#39;oeuvre, lorsqu&#39;il a terminé un ravalement 
+par ce gente d&#39;amortissement.
+</p>
+<p>
+La source de cet abus vient sans doute de ce que
+l&#39;on perd de vûe l&#39;origine qui a donné naissance aux
+diverses parties qui constituent l&#39;Architecture ; loin
+d&#39;avoir recours à nos historiens &amp; à nos auteurs les
+plus célebres, on prend pour modeles les exemples
+récents, &amp; on laisse derriere soi la doctrine de l&#39;art:
+insensiblement &amp; à force d&#39;imitation, on prend la
+partie pour le tout. Les meilleures productions prises
+dans leur origine, ne présentent plus que des licences 
+intolérables, des inadvertances monstrueuses,
+&amp; des compositions hasardées. Or pour éviter ce déréglement,
+prévoyons l&#39;effet que produiront les <i>frontons</i> dans l&#39;édifice, &amp; réservons-les principalement
+pour les frontispices de nos églises ; ensorte que si
+par tolérance nous les employons dans la décoration
+de nos palais ou de nos édifices publics, que ce ne
+soit que pour faire prééminer la partie supérieure du
+principal avant-corps. En supposant même que la
+saillie de ce dernier semble exiger séparément ce
+genre d&#39;amortissement, pour lui tenir lieu de couverture,
+évitons qu&#39;il couronne jamais plus de trois
+croisées ; préférons les triangulaires aux circulaires,
+&amp; ne souffrons jamais qu&#39;ils soient interrompus ni
+dans leurs bases, ni dans leurs sommets, si nous voulons 
+que nos compositions soient conformes aux
+principes de l&#39;art &amp; aux lois du bon goût. (<i>P</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

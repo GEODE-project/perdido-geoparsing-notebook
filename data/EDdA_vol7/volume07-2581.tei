@@ -1,0 +1,176 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30035" id="54:21:2" vol="7">
+<index type="head" value="Gradation" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Poésie." />
+<index type="normclass" value="Poésie" />
+<index type="englishclass" value="Poetry" />
+<index type="generatedclass" value="Poésie" />
+<index type="pos" value="NA" />
+<head>Gradation</head>
+<p>
+<sc>Gradation</sc>, (<i>Poésie.</i>) tableau gradué d&#39;images
+&amp; de sentimens, qui enchérissent les uns sur les autres ; 
+c&#39;est ainsi que l&#39;on doit présenter les passions,
+en peignant avec art leurs commencemens, leurs
+progrès, leur force, &amp; leur étendue ; je n&#39;en citerai
+pour exemple que le fragment de Sapho sur l&#39;amour ;
+il est si beau que trois grands poëtes, Catulle, Despréaux, &amp; l&#39;auteur anglois de l&#39;hymne à Vénus, se
+sont disputé la gloire de le rendre de leur mieux,
+chacun dans leur langue. Me permettra-t-on d&#39;insérer 
+ici les trois traductions en faveur de leur élégance, &amp; pour la satisfaction d&#39;un grand nombre de
+lecteurs qui seront bien-aises de les comparer &amp; de
+les juger?
+</p>
+<p>
+Ecoutons d&#39;abord Catulle, il dit à Lesbie sa maîtresse:
+<lg>
+</lg></p>
+<p>
+<i>Ille mi par esse Deo videtur,
+Ille, si fas est superare divos,
+Qui sedens adversûs identidem te
+Spectat, &amp; audit</i>
+</p>
+<p>
+<i>Dulce ridentem ; misero quod omnes
+Eripit sensus mihi! nam simul te
+Lesbia aspexi, nihil est super me
+Quod loquar amens ;</i>
+</p>
+<p>
+<i>Lingua sed torpet, tenuis sub artus
+Flamma dimanat, sonitu suopte
+Tinniunt aures, geminâ teguntur
+Lumina nocte</i>.
+</p>
+<p>
+Voici maintenant la traduction de Despréaux.
+<lg>
+</lg></p>
+<p>
+<i>Heureux qui près de toi, pour toi seule soupire,
+Qui joüit du plaisir de t&#39;entendre parler,
+Qui te voit quelquefois doucement lui sourire,
+Les Dieux dans leur bonheur peuvent-ils l&#39;égaler?</i>
+</p>
+<p>
+<i>Je sens de veine en veine une subtile flamme,
+Courir par tout mon corps sitôt que je te vois ;
+Et dans les doux transports où s&#39;égare mon ame,
+Je ne saurois trouver de langue, ni de voix</i>.
+<pb n="7:807" facs="V7/ENC_7-807.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+<i>Un nuage confus se répand sur ma vûe,
+Je n&#39;entends plus, je tombe en de douces langueurs s
+Et pâle, sans haleine, interdite, éperdue,
+Un frisson me saisit, je tremble, je me meurs</i>.
+</p>
+<p>
+Enfin voici la traduction angloise.
+<lg>
+</lg></p>
+<p>
+<i>Blest as th&#39;immortal god is he
+The jouth who fondly sets by thee,
+And hears, and sees thee all the while,
+Softly speak, and sweetly smile</i>,
+</p>
+<p>
+<i>My bozom glowed, the subtle flame
+Ran quick through all my vital frame,
+O&#39;er my dim eyes a darkness hung,
+My ears with hollow murmurs rung</i>.
+</p>
+<p>
+<i>In dewy damps my limbs were chill&#39;d,
+My blood with gentle horrors thrill&#39;d,
+My feeble pulze forgot to play,
+I faint&#39;d, sunk, and dy&#39;d away</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

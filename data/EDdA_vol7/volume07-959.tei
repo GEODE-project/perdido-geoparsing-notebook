@@ -1,0 +1,1092 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28413" id="50:159:4" vol="7">
+<index type="head" value="Froid" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Aumont" />
+<index type="shortauth" value="d&#39;Aumont" />
+<index type="kafnum" value="8" />
+<index type="kafauth" value="Aumont, Arnulphe d&#39; (1721-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Economie animale." />
+<index type="normclass" value="Economie animale" />
+<index type="englishclass" value="Animal economy" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="NA" />
+<head>Froid</head>
+<p>
+<sc>Froid</sc>, (<i>Economie animale.</i>) il n&#39;y a point de
+corps dans la nature qui ne soit plus ou moins pénétré 
+dans l&#39;intensité de ses parties élémentaires, par
+le fluide universel, la plus subtile de toutes les substances 
+matérielles, c&#39;est-à-dire par l&#39;élément du
+feu.
+</p>
+<p>
+Il n&#39;est donc aucun corps dans la nature qui ne
+soit plus ou moins agité dans ses parties intégrantes,
+par l&#39;action propre à ce fluide, qui consiste à tendre
+autant à opérer la desunion des parties de matiere
+auxquelles il est placé, que ces parties-ci tendent par
+elles-mêmes, c&#39;est-à-dire par leur force de cohésion,
+à se rapprocher, à s&#39;unir de plus en plus. Or comme 
+cette action varie continuellement, ne subsiste jamais 
+la même deux instans de suite, &amp; qu&#39;elle produit 
+ainsi une sorte d&#39;oscillation continuelle dans les
+corps, <i>voyez</i> <sc><ref target="head:Feu" type="search">Feu</ref></sc>, (<i>Physique</i>); il en résulte un frottement 
+plus ou moins fort entre leurs molécules intégrantes ; 
+d&#39;où s&#39;ensuit qu&#39;il existe un mouvement continuel 
+dans les particules ignées, qui est ce en quoi
+consiste la chaleur plus ou moins sensible, selon que
+ce mouvement est plus ou moins considérable. <i>Voy.</i>
+<sc><ref target="head:Feu" type="search">Feu</ref>, <ref target="head:Chaleur" type="search">Chaleur</ref></sc>, &amp; sur-tout ce qui a rapport à ces
+différentes matieres ; les <i>élémens de Chimie de</i> Boerhaave,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+<i>partie II.</i> la <i>Physique de</i> s&#39;Gravesande, <i>de</i>
+Musschenbroeck, <i>&amp;c.</i>
+</p>
+<p>
+On peut dire conséquemment à ce principe, qu&#39;il
+n&#39;y a point de corps qui ne soit chaud, dès qu&#39;on regarde 
+la chaleur comme une qualité qui suppose dans
+le corps où on la conçoit, une action de feu, telle
+qu&#39;elle puisse être, à quelque degré qu&#39;elle puisse
+avoir lieu. Il n&#39;y a donc point de corps, c&#39;est-à-dire
+d&#39;aggrégé des parties élémentaires de la matiere, dont
+on puisse dire qu&#39;il est absolument <i>froid</i>, en entendant
+par ce terme la qualité d&#39;un corps dans la substance
+duquel il n&#39;y a aucune action du feu. On ne peut imaginer 
+que les élémens même, <i>atomi</i>, qui, comme ils
+sont les seuls solides parfaits, indivisibles, inaltérables,
+doivent par conséquent n&#39;être pénétrables par
+aucun agent dans la nature, sur-tout par aucun agent
+destructeur, telle que le feu : mais comme cette exception 
+unique, qui présente ainsi l&#39;idée d&#39;un <i>froid</i> absolu 
+dans les seules parties élémentaires des corps ne
+tombe pas sous les sens, le <i>froid</i> qui peut nous affecter,
+n&#39;est donc qu&#39;une qualité respective par laquelle 
+on a voulu désigner non une absence totale du feu,
+mais une diminution de son effet, c&#39;est-à-dire de la
+chaleur relativement à celle qui a lieu naturellement
+dans notre corps.
+</p>
+<p>
+Ainsi c&#39;est la chaleur animale qui fixe l&#39;idée du
+chaud &amp; du <i>froid</i>, selon qu&#39;il résulte du premier de
+ces attributs une sorte de sensation à laquelle il est
+attaché de représenter à l&#39;ame un plus grand effet du
+feu, que celui qu&#39;il produit dans notre corps considéré 
+dans l&#39;état de santé; &amp; qu&#39;il suit de l&#39;attribut
+opposé, qu&#39;il n&#39;est autre chose que la faculté d&#39;affecter 
+d&#39;une autre sorte de sensation, par laquelle l&#39;ame
+s&#39;apperçoit d&#39;un moindre effet du feu que celui qu&#39;il
+opere dans notre corps bien disposé.
+</p>
+<p>
+Nous n&#39;appellons donc <i>chaud</i> &amp; <i>froid</i>, que ce qui
+nous semble plus ou moins agité par l&#39;action du feu
+que ne l&#39;est notre propre corps, autant que nous pouvons 
+en juger par la comparaison des impressions que
+fait sur nos parties sensibles cette action du feu dans
+les substances dont nous sommes composés, avec
+celles qui nous viennent du dehors par le contact des
+corps ambians. Nous ne nous appercevons du chaud
+&amp; du <i>froid</i>, que par les effets de cette agitation ignée,
+qui sont plus ou moins considérables, qui excedent 
+ou qui n&#39;égalent pas ceux de la chaleur vitale
+au degré qui est propre à l&#39;état de santé dans chaque
+individu.
+</p>
+<p>
+Le terme de <i>froid</i> n&#39;est donc employé que pour désigner 
+une sorte de modification des corps, respectivement 
+à la sensation qu&#39;ils excitent en nous, lorsqu&#39;ils nous affectent par une mesure de chaleur moindre 
+que celle de la nôtre. Comme les corps ne sont
+dits <i>chauds</i>, qu&#39;autant que l&#39;action du feu est en eux
+plus forte qu&#39;en nous ; qu&#39;autant que nous la sentons
+telle ; car elle n&#39;est pas toûjours réellement ce qu&#39;elle 
+paroît, ainsi qu&#39;on le prouvera ci-après : c&#39;est donc
+toûjours la mesure de notre chaleur animale, qui est
+la regle de comparaison pour juger de la chaleur ou
+du <i>froid</i> de tous les corps qui sont hors de nous.
+</p>
+<p>
+Or cette chaleur vitale, dont la mesure ne peut
+être déterminée que par le moyen du thermometre,
+ayant été fixée à l&#39;égard de l&#39;homme, par l&#39;observation 
+faite avec cet instrument, de la façon &amp; selon la
+graduation de Farenheit, à la latitude de quatre-vingt-douze à quatre-vingt-dix huit degrés pour les différens
+tempéramens &amp; les différens âges dans l&#39;état naturel ;
+&amp; la plus grande chaleur de l&#39;atmosphere étant limitée 
+à un degré bien inférieur, puisqu&#39;aucun animal ne
+pourroit vivre dans un milieu dont la chaleur seroit
+constamment portée à 98 degrés : il s&#39;ensuit que l&#39;on
+pourroit dire avec fondement, d&#39;après ce qui a été
+établi ci-devant, que l&#39;action du feu dans l&#39;atmosphere 
+ne va jamais jusqu&#39;à la rendre chaude respectivement<gap type="hyphenpb" />
+<pb n="7:321" facs="V7/ENC_7-321.jpeg" />
+<milestone unit="column" n="1" />
+à nous, puisqu&#39;elle n&#39;excede &amp; n&#39;égale même
+jamais, d&#39;une maniere durable &amp; supportable, la
+chaleur qui nous est naturelle. Ainsi on peut regarder
+le milieu dans lequel nous vivons comme étant toûjours 
+<i>froid</i>, respectivement à ce que nous en sentons:
+ce rapport est variable, selon que ce <i>froid</i> s&#39;approche 
+ou s&#39;éloigne plus ou moins de la chaleur animale,
+non-seulement pour les hommes en général, mais
+encore pour chacun en particulier, selon la différence 
+du tempérament &amp; de l&#39;âge, à-proportion de
+l&#39;intensité ou de la foiblesse de cette chaleur naturelle,
+dans la latitude des limites auxquelles on vient
+de dire qu&#39;elle s&#39;étend en plus ou moins : de même
+tous les corps dans lesquels l&#39;action du feu peut faire 
+monter le thermometre à un degré quelconque supérieur 
+à ceux de la chaleur humaine, sont constamment 
+regardés comme chauds, à-proportion de
+l&#39;excès de cette action en eux sur celle qui a lieu dans
+nos corps : telle est l&#39;idée que l&#39;on peut donner en
+général des qualités des corps, que nous distinguons
+en chauds &amp; en <i>froids</i>, relativement à nos sensations
+à cet égard.
+</p>
+<p>
+Ainsi nous attachons toûjours l&#39;idée d&#39;un sentiment
+de froideur ou de fraîcheur à l&#39;impression que nous
+sommes susceptibles de recevoir de l&#39;application, à
+la surface de notre corps, de l&#39;air renouvellé &amp; de
+l&#39;eau laissés à leur température naturelle, selon que
+cette température est plus ou moins éloignée de la
+nôtre ; ce qui fait que l&#39;air agité par le vent, par un
+éventail, nous paroît <i>froid</i> ou frais ; que l&#39;on trouve
+plus de fraîcheur en eté, en se baignant dans l&#39;eau
+courante ; parce que ces fluides, par le changement
+qui se fait continuellement de leur masse autour de
+notre corps, y sont toûjours appliqués avec leur propre 
+température, &amp; ne le sont pas assez pour participer 
+à l&#39;excès de chaleur de la nôtre sur la leur : il
+en est de même de tous les corps, qui n&#39;ont d&#39;autre
+chaleur que celle du milieu, dans lequel ils sont contenus ; 
+ils sont réellement tous <i>froids</i>, c&#39;est-à-dire
+moins chauds que notre corps dans son état naturel:
+ainsi ils nous paroissent tous en général être <i>froids</i> au
+toucher ; &amp; ce <i>froid</i> est au même degré dans tous,
+quoiqu&#39;il nous paroisse plus ou moins sensible, comme 
+dans les métaux, le marbre comparé au bois &amp; à
+d&#39;autres corps. Cette différence ne vient que du plus
+ou moins de facilité avec laquelle notre propre chaleur 
+se communique aux corps que nous touchons:
+ainsi les plus denses s&#39;échauffent plus difficilement ;
+ils doivent donc nous paroître plus <i>froids</i>, parce qu&#39;ils 
+résistent, pour ainsi dire, plus long-tems à devenir
+chauds : la durée de la disposition à procurer la sensation 
+du <i>froid</i>, nous semble être son intensité, respectivement 
+aux corps moins denses, qui participent
+plus promptement à la chaleur que nous leur communiquons 
+en les touchant, &amp; dont le <i>froid</i> cesse sitôt 
+qu&#39;il ne nous donne pas, pour ainsi dire, le tems
+de le sentir, &amp; de nous appercevoir qu&#39;ils ont moins
+de chaleur que notre corps.
+</p>
+<p>
+Cette différence de l&#39;impression plus ou moins <i>froide</i>, que font sur nous ces différens corps, ne doit effectivement 
+être attribuée qu&#39;à cette cause ; puisque
+par le thermometre, on leur trouve la même température,
+&amp; que c&#39;est une chose démontrée, qu&#39;il n&#39;est
+aucun corps dans la nature qui ait plus de chaleur
+par lui-même qu&#39;un autre, dans le même milieu ; une
+pierre à feu n&#39;a pas plas de chaleur par elle-même,
+qu&#39;un morceau de glace ; &amp; les corps mêmes des animaux 
+chauds, n&#39;ont après leur mort pas plus de chaleur 
+que tous les corps inanimés qui les environnent,
+à-moins que ce ne soit par l&#39;effet de la putréfaction,
+ainsi qu&#39;il arrive au foin, qui est susceptible,
+par les différens mouvemens intestins qui peuvent
+s&#39;exciter dans sa substance, de devenir plus chaud que
+le milieu dans lequel il se trouve : de même l&#39;effervescence<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+chimique fait naître de la chaleur dans l&#39;union,
+le mélange de certains corps, par le rapport qu&#39;il y
+a entre eux, qui séparément n&#39;auroient que la chaleur 
+de tous les autres corps ambians inanimés.
+</p>
+<p>
+Il suit encore de ce qui a été établi précédemment,
+que nous pouvons même, sans qu&#39;un corps
+change de milieu, &amp; avec une température constamment 
+la même, juger différemment relativement
+au chaud &amp; au <i>froid</i> dont ce corps peut exciter en
+nous la sensation ; ce qu&#39;on ne doit attribuer qu&#39;à la
+différente disposition de l&#39;organe de nos sensations.
+Qu&#39;on expose en hyver une main à l&#39;air jusqu&#39;à ce
+qu&#39;elle soit <i>froide ;</i> qu&#39;on chauffe l&#39;autre main au feu,
+&amp; qu&#39;on ait alors un pot rempli d&#39;eau tiede : aussi-tôt
+qu&#39;on plongera la main chaude dans cette eau, on
+dira qu&#39;elle est <i>froide</i>, respectivement au degré de
+chaleur qu&#39;on sent dans cette main ; qu&#39;on plonge,
+après cela la main <i>froide</i> dans la même eau, &amp; on
+jugera qu&#39;elle est chaude, parce qu&#39;elle a en effet
+plus de chaleur que cette main n&#39;en sentoit avant
+d&#39;être plongée. <i>Voyez</i> à ce sujet les <i>essais de Physique
+de</i> Musschenbroeck.
+</p>
+<p>
+Nous ne jugeons donc pas, suivant la véritable
+disposition des corps qui sont hors de nous, à l&#39;égard 
+du chaud ou du <i>froid</i>, mais suivant que ces corps
+sont actuellement exposés à l&#39;action du feu comparée
+avec celle qui a lieu dans notre corps, dont les organes 
+sensitifs portent continuellement à l&#39;ame les
+impressions qu&#39;ils reçoivent, par l&#39;effet de la chaleur
+vitale jointe à celle du milieu, dans lequel nous nous
+trouvons ; ensorte que l&#39;ame porte ensuite son jugement 
+par comparaison des corps plus ou moins
+chauds, que celui auquel elle se trouve unie.
+</p>
+<p>
+C&#39;est ainsi que l&#39;on peut rendre raison pourquoi
+les caves nous paroissent <i>froides</i> en été &amp; chaudes en
+hyver. Si l&#39;on suspend un thermometre dans une cave 
+assez profonde, pendant toute une année, on
+trouvera que la cave est plus chaude en été qu&#39;en
+hyver ; mais qu&#39;il n&#39;y a pas une grande différence
+du plus grand chaud au plus grand <i>froid</i> qu&#39;on y peut
+observer. Il paroît par-là que quoique les caves nous
+semblent être plus <i>froides</i> en été, elles ne le sont
+pourtant pas, &amp; que cette apparence est trompeuse.
+Voici ce qui donne lieu à ce phénomene.
+</p>
+<p>
+En été, notre corps se trouvant exposé au grand
+air, notre chaleur étant toûjours de 94 à 98 degrés,
+la chaleur du grand air est alors dans les climats tempérés 
+de 80 à 90 degrés ; au lieu que l&#39;air qui se
+trouve dans ce tems-là renfermé dans les caves, n&#39;a
+qu&#39;une chaleur de 45 à 50 degrés ; de sorte qu&#39;il a
+beaucoup moins de chaleur que notre corps &amp; que
+l&#39;air extérieur : ainsi dès qu&#39;on entre dans une cave,
+lorsqu&#39;on a fort chaud, on y rencontre un air que
+l&#39;on sent très-<i>froid</i>, en comparaison de l&#39;air extérieur,
+qui est presque aussi chaud qu&#39;on l&#39;est soi-même en hyver ; au contraire, lorsqu&#39;il gele, le <i>froid</i> de
+l&#39;air extérieur peut augmenter depuis le trente-deuxieme degré du thermometre de Farenheit, jusqu&#39;à
+zéro, tandis que la température de la cave reste encore 
+à 43 degrés : ainsi nous trouvant exposés dans
+ce tems-là à l&#39;air <i>froid</i> extérieur, qui fait sur notre 
+corps une impression proportionnée, &amp; qui le
+refroidit en effet, nous n&#39;entrons pas plûtôt dans une
+cave, que nous trouvons chaud l&#39;air qui nous avoit
+paru <i>froid</i> en été, lorsque la température y étoit à-peu-près la même : ce qui arrive donc par la différente
+disposition avec laquelle nous y entrons : d&#39;où il résulte,
+que nous ne pouvons pas savoir ni juger, par
+la seule impression que l&#39;air fait sur nous dans la cave,
+relativement au plus ou au moins de feu qu&#39;il
+contient, s&#39;il y en a effectivement davantage, ou pour
+mieux dire, s&#39;il est plus en action en été qu&#39;en hyver.
+Ce n&#39;est qu&#39;à l&#39;aide du thermometre, que nous pouvons 
+être assûrés qu&#39;il y a plus de chaleur dans les
+<pb n="7:322" facs="V7/ENC_7-322.jpeg" />
+<milestone unit="column" n="1" />
+caves en été qu&#39;en hyver, puisque c&#39;est précisément
+le contraire de ce que nous éprouvons, par les différentes 
+sensations qui en résultent.
+</p>
+<p>
+Mais quelle est donc la disposition de nos corps à
+laquelle il est attaché, de pouvoir porter à l&#39;ame
+l&#39;idée du <i>froid</i> conséquemment aux impressions qu&#39;ils
+reçoivent des causes frigorifiques? Cette question
+tient à la recherche des causes de la chaleur animale,
+puisque ce ne peut être qu&#39;une diminution des effets
+de ces causes, qui change les sensations des organes
+affectés par la chaleur : on a examiné dans <i>l&#39;article</i>
+<sc><ref target="head:Chaleur animale" type="search">Chaleur animale</ref></sc>, avec une critique aussi éclairée que sage, &amp; avec toute la précision possible,
+dans un sujet qui n&#39;en est guere susceptible de sa
+nature, les différens systèmes les plus remarquables
+tant des anciens que des modernes, sur ce qui allume 
+dans les corps animés, le feu qui y produit cet
+effet d&#39;une maniere presqu&#39;invariable dans quelque
+température qu&#39;ils se trouvent. On y a prouvé presque 
+jusqu&#39;à la démonstration, par les raisonnemens
+les plus solides, que nous sommes encore bien éloignés de pouvoir regarder les sources de la chaleur
+animale comme sûrement découvertes, puisqu&#39;aucune 
+des explications tant physiques que méchaniques,
+les plus spécieuses, n&#39;ont pas encore acquis le
+degré de perfection nécessaire, pour rendre raison
+de tous les phénomenes qui dépendent du principe
+qu&#39;il est question de connoître. On y donne à entendre 
+avec raison, que l&#39;idée de Galien &amp; des Arabes, sur <i>le feu inné, ventillé</i> par l&#39;air respiré, sur-tout
+entant qu&#39;il est considéré comme un agent physique
+&amp; réel, ainsi que Sennert &amp; Riviere l&#39;ont conçû,
+&amp; non pas comme une qualité, selon la plûpart des
+auteurs antérieurs, n&#39;est pas autant dénuée de fondement,
+qu&#39;elle l&#39;a paru assez généralement depuis
+que le joug de l&#39;ancienne école a été secoué. On fait
+voir cependant aussi dans l&#39;article dont il s&#39;agit, que
+de toutes les hypothèses proposées sur ce sujet, il n&#39;en
+est point jusqu&#39;à-présent qui semblent davantage approcher 
+de la vérité, que celles qui sont fondées sur
+l&#39;effet méchanique, qui est une suite nécessaire des
+mouvemens qui entretiennent la vie, c&#39;est-à-dire,
+l&#39;attrition ou le frottement qui se fait des solides
+entr&#39;eux, ou des fluides contre les solides. On y
+donne l&#39;extrait du meilleur ouvrage qui ait paru
+en ce genre, qui est l&#39;<i>essai sur la génération de la chaleur 
+dans les animaux</i>, du docteur Douglas ; extrait par
+lequel on fait connoître que cet auteur en réfutant
+les différentes opinions des Physiologistes tant anciens 
+que modernes, rejette également toutes les
+causes physiques, chimiques &amp; méchaniques, pour
+substituer son sentiment, qui a néanmoins pour fondement 
+une cause de cette derniere espece, <i>le frottement 
+des globules sanguins dans les vaisseaux capillaires,
+proportionné au resserrement de ces vaisseaux par le
+froid ;</i> frottement auquel il attribue de pouvoir produire 
+&amp; entretenir une chaleur toûjours uniforme
+dans la latitude ordinaire des variations de notre
+température, ce qui fait le principal des phénomenes 
+à expliquer, à l&#39;égard duquel tous les systèmes
+lui ont paru en défaut ; mais mal-à-propos, selon
+l&#39;auteur de l&#39;<i>art</i>. <sc><ref target="head:Chaleur animale" type="search">Chaleur animale</ref></sc>, qui fait observer 
+fort judicieusement que dans le système des
+anciens, qui attribue cette chaleur au feu inné excité 
+par l&#39;air respiré, la proportion entre l&#39;augmentation 
+de la chaleur du milieu &amp; la diminution de sa
+densité, diminution par laquelle il contribue moins
+à l&#39;entretien du feu vital, à-mesure que celui de
+l&#39;atmosphere est plus en action, y opere plus de raréfaction ; 
+entre la diminution de la chaleur du milieu 
+&amp; l&#39;augmentation de sa densité (par laquelle
+seule, il peut rendre plus actif le feu du corps animé,
+à-mesure que le feu ambiant perd de son activité, &amp;
+qu&#39;il peut par conséquent en être moins communiqué<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+à ce corps), est suffisante pour rendre raison
+de cette uniformité.
+</p>
+<p>
+L&#39;auteur de l&#39;article mentionné ne se borne pas à
+revendiquer le peu d&#39;avantage que peuvent avoir
+les opinions réfutées par le docteur Douglas, &amp; à
+les défendre autant qu&#39;elles en sont raisonnablement
+susceptibles ; après avoir rendu justice au système
+anglois, en convenant que c&#39;est le plus satisfaisant
+qui ait paru sur cette matiere, il ne l&#39;épargne pas
+ensuite, en lui opposant des difficultés qui paroissent
+sans réplique ; il attaque donc l&#39;idée qui fait la base
+du sentiment de ce docteur, savoir, <i>que le resserrement
+causé par le froid dans les vaisseaux capillaires, donne
+lieu à l&#39;augmentation de frottement entre les globules
+sanguins &amp; ces vaisseaux</i>, &amp; par conséquent de la
+cause interne de la chaleur animale, <i>à-mesure que la
+chaleur externe diminue, &amp; vice versa</i>. D&#39;où il suit que
+la quantité de chaleur est à-peu-près toûjours la
+même dans l&#39;animal, soit que cette chaleur lui vienne 
+du dedans ou du dehors.
+</p>
+<p>
+Mais, dit l&#39;auteur de l&#39;article dont il s&#39;agit, 1°.
+la même cause interne qui engendre de la chaleur,
+c&#39;est-à-dire ce resserrement des capillaires qui donne
+lieu à une plus grande attrition des globules sanguins 
+dans ces vaisseaux, par-là même qu&#39;il échauffe
+le sang plus qu&#39;il ne seroit échauffé par le feu de l&#39;air
+ambiant, n&#39;échauffe-t-il pas aussi ces mêmes capillaires?
+ne fait-il pas en même tems cesser à-proportion le resserrement de ces mêmes capillaires? &amp; par
+conséquent cette cause interne de chaleur animale
+ne se détruit-elle pas elle-même, dès qu&#39;elle commence 
+à produire ces effets? 2°. En admettant le
+resserrement constant dans les capillaires, ne s&#39;ensuit-il pas au-moins que le mouvement du sang doit
+y être diminué à-proportion ; d&#39;où il semble qu&#39;il
+doive se faire une compensation entre l&#39;augmentation 
+des surfaces exposées au frottement &amp; la diminution 
+de l&#39;impulsion des globules, qui doivent opérer 
+le frottement : compensation qui doit rendre de
+nul effet ce changement de disposition? 3°. En ne
+s&#39;arrêtant même pas aux deux difficultés précédentes 
+contre l&#39;auteur anglois, pourroit on en passer
+sous silence une troisieme, qui n&#39;est pas moins forte?
+Elle consiste à faire observer qu&#39;en supposant
+avec lui que la chaleur ne s&#39;engendre que dans les
+seuls capillaires, les instrumens générateurs sont
+bien peu proportionnés à la masse qui doit être
+échauffée par leur moyen, puisqu&#39;alors le foyer de
+la chaleur est censé n&#39;exister que dans la peau.
+</p>
+<p>
+L&#39;auteur de ces objections contre le système du
+docteur Douglas, les laisse subsister comme une
+preuve que ce système a le sort de tant d&#39;autres ; que
+quelque satisfaisant qu&#39;il paroisse au premier abord,
+il n&#39;est cependant pas parfait, &amp; que la cause de la
+chaleur animale qui nous a été jusqu&#39;à-présent cachée 
+comme un de ses mysteres, ne nous a pas encore 
+été révélée.
+</p>
+<p>
+Mais si l&#39;on convient que le système anglois approche 
+plus qu&#39;aucun autre de la perfection, on ne
+peut disconvenir aussi qu&#39;il ne soit avantageux au
+progrès des connoissances humaines, de lever autant 
+qu&#39;il est possible les obstacles qui l&#39;empêchent
+d&#39;y atteindre. C&#39;est dans cette vûe que l&#39;on va placer
+ici quelques réflexions sur les trois objections qui
+viennent d&#39;être remises sous les yeux au sujet de ce
+système ; ce qui sera d&#39;autant moins étranger au sujet 
+traité dans cet article, qu&#39;il en résultera un grand
+nombre de conséquences qui y sont relatives, &amp;
+serviront à rendre raison de bien des phénomenes
+qui en dépendent.
+</p>
+<p>
+Premierement, ne peut-on pas dire, que quoique 
+la chaleur qui naît des frottemens des globules
+sanguins dans les capillaires, puisse être conçûe se
+communiquer en même tems aux solides mêmes de
+<pb n="7:323" facs="V7/ENC_7-323.jpeg" />
+<milestone unit="column" n="1" />
+ces vaisseaux, &amp; les relâcher par la raréfaction qui
+s&#39;ensuit, ce dernier effet sera toûjours d&#39;autant
+moindre, qu&#39;il sera plus contre-balancé par celui
+du <i>froid</i> extérieur, qui cause le resserrement de ces
+vaisseaux ; parce que le relâchement seroit bien plus
+considérable, tout étant égal, par l&#39;effet de la cause
+interne de la chaleur, si ce <i>froid</i> extérieur ne s&#39;y opposoit 
+pas? Ainsi, ne peut-on pas conclure de-là,
+qu&#39;il reste toûjours que le resserrement doit être plus
+considérable par les effets du <i>froid</i>, qu&#39;il n&#39;est empêché 
+par les effets synchrones de la chaleur dont il
+occasionne la génération? d&#39;où doit résulter plus de
+frottement, plus de chaleur par conséquent dans le
+cas du <i>froid</i> externe, que dans le cas opposé. Ne
+peut-on pas concevoir ainsi une contrenitence continuelle 
+entre la cause de la chaleur animale &amp; le
+<i>froid</i> extérieur? D&#39;où on peut inférer que dans l&#39;hyver,
+la chaleur animale appartient davantage à l&#39;animal 
+même ; que dans l&#39;été elle appartient plus aux
+causes externes ; qu&#39;il y a donc en quelque sorte
+moins de vie dans les animaux en été, qu&#39;en hyver ;
+puisqu&#39;il y a moins d&#39;action vitale ; que l&#39;on est plus
+fort, plus vigoureux en hyver, tout étant égal ; parce 
+que le <i>froid</i>, qui condense tous les corps en tenant 
+les vaisseaux dans un état de plus grande constriction,
+&amp; en donnant lieu par-là à l&#39;augmentation
+des résistances, occasionne plus d&#39;action, plus d&#39;efforts 
+par conséquent de la part de la puissance motrice 
+pour les vaincre ; d&#39;où l&#39;augmentation du mouvement 
+progressif, des humeurs, plus de frottement
+dans les capillaires, plus de chaleur, sans que ces
+efforts, ce mouvement, puissent être regardés comme 
+des effets de fievre proprement dite, puisqu&#39;ils
+augmentent sans diminution de forces ; au contraire,
+attendu que l&#39;augmentation d&#39;action dans les solides
+procure une plus grande élaboration, une plus grande 
+atténuation d&#39;humeur, d&#39;où résulte une préparation,
+une secrétion plus abondante de fluide nerveux ; 
+plus de disposition par conséquent au mouvement 
+musculaire, à l&#39;exercice : au lieu qu&#39;en été la
+raréfaction des solides en général, par la chaleur extérieure 
+diminue l&#39;élasticité des fibres des animaux,
+en diminuant la cohésion de leurs parties élémentaires ; d&#39;où tout étant égal, résulte moins de jeu dans
+leurs vaisseaux ; d&#39;où s&#39;ensuit dans les grandes chaleurs 
+une presqu&#39;atonie universelle, une diminution
+proportionnée de l&#39;action des organes vitaux ; d&#39;où
+le ralentissement du cours des humeurs dans les capillaires,
+le relâchement de ces vaisseaux, le moins
+de frottement des globules sanguins, meins de chaleur 
+qui est l&#39;effet de ce frottement, moins de résistance 
+au cours des humeurs dans tous les vaisseaux ;
+conséquemment moins d&#39;efforts de la puissance motrice,
+pour surmonter cette résistance ; d&#39;où moins
+d&#39;attrition, d&#39;atténuation de la masse des humeurs,
+d&#39;élaboration, de secrétions du fluide nerveux ; d&#39;où
+enfin la foiblesse, l&#39;abattement que l&#39;on éprouve
+toûjours par une suite de la chaleur de l&#39;atmosphere:
+d&#39;où s&#39;ensuit, que les hommes obligés à se livrer à
+de grands travaux, à de grandes peines de corps,
+les soûtiennent mieux dans les tems <i>froids</i>, ont plus
+de forces, plus d&#39;appétit pour les maintenir, que
+dans les tems chauds. C&#39;est sans doute par cette considération,
+que Dioclès medecin contemporain d&#39;Aristote, dans sa lettre à Antigonus, roi d&#39;Asie, qui
+contient plusieurs préceptes, concernant la conservation 
+de la santé, donne pour maxime, en forme
+d&#39;aphorisme, qu&#39;il faut prendre plus d&#39;alimens, boire
+moins en général, &amp; boire davantage de vin pur, àproportion qu&#39;il fait plus froid ; &amp; qu&#39;il faut par conséquent 
+manger moins, boire davantage, &amp; boire
+son vin plus trempé, à-proportion que les chaleurs
+augmentent. On peut donc conclure de ce qui vient
+d&#39;être dit, que le plus ou le moins de constriction
+<milestone unit="column" n="2" />
+dans les vaisseaux en général, &amp; dans les vaisseaux
+capillaires en particulier, influe principalement sur
+tous ces effets, comme sur le plus ou le moins de
+génération de la chaleur animale ; ainsi l&#39;on peut
+concevoir que cette chaleur y est produite, sans
+qu&#39;elle fasse en même tems cesser le resserrement de
+ces mêmes vaisseaux, qui est la condition efficiente:
+ainsi l&#39;assertion du docteur Douglas qui établit ce
+resserrement, &amp; en conséquence le frottement des
+globules sanguins dans les capillaires, comme cause
+de la chaleur animale, semble subsister sans atteinte
+à l&#39;égard de la premiere objection : passons à la seconde.
+</p>
+<p>
+On ne peut que convenir avec tous les Physiologistes, que le mouvement du sang est très-lent dans
+tous les capillaires ; que le degré de cette lenteur doit
+varier à-proportion des résistances, &amp; par conséquent 
+qu&#39;elle augmente avec le plus de resserrement
+causé par l&#39;augmentation du <i>froid</i>. Mais n&#39;y a-t-il
+pas lieu de penser qu&#39;il augmente ce ralentissement
+du cours des humeurs, seulement jusqu&#39;à ce que les
+forces vitales par la disposition naturelle de la puissance 
+motrice, ayent surmonte les résistances qui le
+causent, sans changer l&#39;état de resserrement des solides,
+c&#39;est-à-dire jusqu&#39;à ce que les humeurs ayent
+éprouvé l&#39;effet de l&#39;augmentation du ressort dans tous
+les vaisseaux, la plus grande action qu&#39;ils exercent
+en conséquence sur elles ; que celles ci en soient en
+général plus affinées, &amp; que les globules sanguins en
+particulier soient desunis au point de pouvoir passer
+l&#39;un après l&#39;autre dans les extrémités capillaires, &amp;
+même d&#39;être forcés à s&#39;alonger, à prendre la forme
+ovale ; ce qui les rend propres à opérer plus de frottement,
+à-proportion qu&#39;ils touchent les parois des
+vaisseaux par des surfaces plus étendues ; qu&#39;il se fait
+par conséquent entre eux un frottement plus considérable 
+qu&#39;il ne se faisoit, lorsqu&#39;il passoit plus
+d&#39;un globule à la fois, &amp; qu&#39;ils touchoient aux parois 
+des vaisseaux par moins de pointa : ensorte que
+l&#39;on peut concevoir ainsi, que le mouvement des
+humeurs dans les capillaires redevient aussi peu lent
+qu&#39;il etoit avant le resserrement, sans que le resserrement 
+en diminue d&#39;aucune façon, dans la supposition 
+que la cause en subsiste toûjours. Or comme la
+faculté de procurer la sensation du <i>froid</i> est attachée
+à l&#39;impression qui résulte de la diminution du mouvement 
+intestin causé par l&#39;action du feu, au-dessous
+de celui qui constitue notre chaleur naturelle : que
+la cause de cette diminution dépende du <i>froid</i> de
+l&#39;atmosphere, ou d&#39;une gêne dans le cours du sang,
+occasionnée par un resserrement spasmodique des
+vaisseaux, ou par épaississement des humeurs ; il est
+aisé ensuite de ce qui vient d&#39;être dit, de rendre raison 
+pourquoi est-ce qu&#39;on est si sensible au <i>froid</i>,
+lorsqu&#39;on passe tout-d&#39;un-coup d&#39;un milieu qui est
+d&#39;une température plus approchante de notre chaleur,
+à une température bien plus <i>froide</i>. N&#39;est-ce
+pas parce que celle-ci produit si promptement le resserrement 
+des capillaires cutanés, qu&#39;elle y forme
+à-proportion de plus grandes résistances au cours
+des humeurs qui se ralentit aussi à-proportion? d&#39;où
+la sensation du <i>froid</i>, ainsi qu&#39;on l&#39;observe à l&#39;égard
+des changemens subits du chaud au <i>froid</i> dans l&#39;air,
+qui ont lieu sur-tout en automne, tems auquel on
+éprouve plus de sensibilité à ce changement de température,
+qu&#39;on n&#39;en éprouve dans le tems de la gelée
+la plus forte, quoique dans le premier cas, les effets
+du <i>froid</i> soient absolument moins considérables,
+quoiqu&#39;il se fasse alors une moindre constriction dans
+les capillaires, &amp; qu&#39;il en résulte absolument moins
+de résistance au cours des humeurs. Cette résistance
+est respectivement plus effective, parce que le relâchement 
+des solides subsistant encore intérieurement,
+la puissance motrice ne peut augmenter ses efforts,
+<pb n="7:324" facs="V7/ENC_7-324.jpeg" />
+<milestone unit="column" n="1" />
+&amp; opposer plus d&#39;action pour vaincre cette résistance, qu&#39;après que les effets du <i>froid</i> ont condensé de
+proche en proche tous les solides, en ont augmenté
+le ressort, ont attenué les humeurs, en ont tiré plus
+de fluide nerveux ; ce qui n&#39;a lieu que lorsque le
+<i>froid</i> a subsisté quelque tems. Alors un plus grand
+<i>froid</i> fait moins d&#39;impression, parce que le cours du
+sang dans les capillaires étant rétabli, sans que leur
+resserrement ait cessé, il s&#39;y fait plus de frottement,
+il s&#39;y engendre conséquemment plus de chaleur.
+C&#39;est par une raison à-peu-près semblable, que l&#39;on
+est affecté d&#39;une sensation de froideur dans les parties
+sujettes aux accès de douleur rhumatismale ; dans
+ces différens cas, cette sensation dure jusqu&#39;à ce qu&#39;il
+survienne, pour ainsi dire une fievre, c&#39;est-à-dire,
+une augmentation d&#39;emploi des forces vitales, une
+plus grande action des organes circulatoires, qu&#39;il
+n&#39;en falloit auparavant pour surmonter une moindre
+résistance dans les capillaires, où le cours des humeurs 
+s&#39;est ralenti. De ces augmentations doivent
+s&#39;ensuivre plus de division de ces humeurs, plus de
+fluidité qui y rétablit la disposition à passer librement 
+par les vaisseaux resserrés ou embarrassés ; d&#39;où
+la cessation de celle qui donnoit lieu à cette sensation.
+C&#39;est aussi pourquoi ceux qui passent en peu
+de tems d&#39;un pays <i>froid</i>, d&#39;un pays de montagne, par
+exemple, dans un pays d&#39;un climat plus doux, dans
+un pays de plaine, trouvent qu&#39;il fait chaud dans
+celui-ci, tandis que ceux qui l&#39;habitent s&#39;y plaignent
+du <i>froid</i>. On ne peut en effet attribuer cette différence 
+de sensation dans le même milieu, qu&#39;à ce que
+les premiers ayant leurs vaisseaux capillaires dans
+un état de resserrement plus grand que ne les ont
+ceux de la plaine, &amp; la puissance motrice étant néanmoins 
+montée dans ceux-là à surmonter ce resserrement,
+à en tirer plus de chaleur animale, par conséquent 
+ils passent dans un milieu plus chaud ou
+moins <i>froid</i>, sans que la disposition génératrice de
+la chaleur interne, qui n&#39;est pas la même dans ceux
+qui sont habitués à ce milieu, cesse aussi-tôt. Ainsi
+il y a donc dans ceux-là une cause de chaleur qui
+n&#39;est pas dans ceux-ci : d&#39;où suit l&#39;explication du
+phénomene tirée de la lenteur des humeurs qui subsiste 
+dans les capillaires des derniers, tandis qu&#39;elle
+a été surmontée dans les premiers. Ainsi il suit de
+tout ce qui vient d&#39;être dit, que la difficulté tirée de
+la lenteur des humeurs, ne peut plus être mise en-avant ; 
+s&#39;il est prouvé, comme on se flate de l&#39;avoir
+fait, que par la disposition la plus admirable dans le
+corps animal, bien loin que le resserrement des capillaires 
+retarde le cours des humeurs ; aussi constamment 
+qu&#39;il subsiste lui-même, il en occasionne
+l&#39;accélération, par-là même qu&#39;il lui avoit d&#39;abord
+opposé de la résistance : ainsi la seconde objection
+contre le système anglois, paroît n&#39;être pas plus décisive 
+que la premiere ; il reste à examiner la troisieme.
+</p>
+<p>
+Cette difficulté tirée du petit nombre de vaisseaux
+générateurs de la chaleur animale, en comparaison
+de toutes les autres parties, qui non-seulement ne
+contribuent pas à sa production, mais encore absorbent,
+pour ainsi dire, la plus grande partie de celle
+qui est engendrée dans ces vaisseaux. Cette difficulté
+paroît assez embarrassante dans le système du docteur 
+anglois, si l&#39;on borne, avec lui, le resserrement
+des capillaires causé par le <i>froid</i>, aux seuls capillaires 
+cutanés, &amp; si l&#39;on ne considere ce resserrement
+comme cause occasionnelle de la chaleur animale,
+qu&#39;entant qu&#39;il a lieu dans ces seuls vaisseaux : mais
+en admettant, d&#39;après ce qui a été proposé ci-devant, que le <i>froid</i> opere ce resserrement non-seulement à la surface du corps, mais encore dans toutes
+ses parties internes, à mesure que le <i>froid</i>, par sa durée 
+&amp; par son intensité, parvient à condenser tous les
+<milestone unit="column" n="2" />
+corps sans exception, en gagnant de proche en proche 
+de la circonference au centre ; cette condensation 
+ne peut-elle pas être conçûe également dans le
+corps humain, si l&#39;on fait attention à ce que le <i>froid</i>
+exterieur étant en opposition avec la cause interne
+de la chaleur animale, quant à la propagation de celle-ci, empêche que les solides se raréfient, se relâchent 
+autant qu&#39;il arriveroit si le milieu ambiant
+n&#39;absorboit pas, pour ainsi dire, les effets de la chaleur 
+interne, à-proportion qu&#39;elle est plus considérable 
+que celle de ce milieu? Cette soustraction des
+effets de la chaleur ne peut-elle pas être regardee,
+par rapport aux parties qui les éprouveroient si elle
+n&#39;avoit pas lieu, comme une vraie condensation
+proportionnée au moins de relâchement qui résulte
+de cette soustraction? Ainsi, dans cette supposition,
+les solides de tous les vaisseaux, &amp; par conséquent
+ceux des capillaires, devant être condensés par l&#39;effet 
+du <i>froid</i>, d&#39;où s&#39;ensuit la diminution en tout sens
+du volume du corps animal, dont il n&#39;y a pas lieu de
+douter &amp; de rendre raison autrement ; les capillaires 
+de toutes les parties internes peuvent donc contribuer 
+à la génération de la chaleur animale, par
+leur resserrement à-proportion de ce qu&#39;ils sont susceptibles 
+de recevoir les impressions du <i>froid</i> extérieur : ils le sont à la vérité d&#39;autant moins qu&#39;ils sont
+plus éloignés de la surface du corps ; mais ils le sont,
+&amp; on ne peut pas refuser d&#39;accorder que leur nombre 
+est bien pour le moins aussi supérieur à celui des
+capillaires cutanés, que ceux-ci sont plus exposés au
+<i>froid</i> extérieur que ceux-là: la chose est trop évidente pour qu&#39;il y ait besoin de calcul. On peut hardiment 
+assûrer que la somme du resserrement des capillaires 
+internes, quoiqu&#39;il soit bien moindre dans
+chacun en particulier, doit au moins égaler celle du
+plus grand resserrement des externes ; d&#39;où s&#39;ensuit
+que ceux-là concourent autant que ceux-ci à la génération 
+de la chaleur : par-là même, que ceux-là pris
+en total sont susceptibles des effets du <i>froid</i>, à-proportion autant que ceux-ci.
+</p>
+<p>
+Cela posé, c&#39;est-à-dire les trois difficultés établies
+contre le systeme du docteur Douglas, étant ainsi résolues,
+il semble, par l&#39;addition qui vient de lui être
+faite, n&#39;avoir que gagné, en acquérant plus de vraissemblance,
+&amp; en devenant plus conforme à tous les
+phénomenes que le <i>froid</i> produit dans l&#39;oeconome
+animale ; puisqu&#39;il n&#39;en reste pas moins, que la génération 
+de la chaleur interne se fait dans les capillaires 
+par le resserrement des capillaires cutanés ; mais
+qu&#39;il en résulte aussi qu&#39;elle se fait dans tous les autres
+capillaires ; &amp; qu&#39;il s&#39;ensuit ainsi de plus, que les sources
+de cette chaleur sont plus étendues, plus abondantes,
+plus proportionnées à la masse à laquelle
+elle doit se communiquer. On satisfait de cette maniere 
+à toutes les objections rapportées ci-devant.
+</p>
+<p>
+On évite même une autre difficulté qui se presente 
+à cette occasion ; elle consiste en ce qu&#39;il n&#39;est guere 
+possible de comprendre comment on peut être affecté 
+de la sensation du <i>froid</i>, si l&#39;organe qui est le
+plus exposé à en recevoir les impressions, n&#39;est pas
+moins exposé en même tems aux impressions qui lui
+viennent des seuls organes générateurs de la chaleur:
+car les houpes nerveuses sont bien aussi contigues
+pour le moins aux vaisseaux capillaires cutanés,
+qu&#39;elles le sont à la surface de l&#39;atmosphere qui s&#39;applique 
+à celle du corps. Cette difficulté bien refléchie 
+paroît être assez importante contre le système
+du docteur Douglas, entant qu&#39;il n&#39;admet que les capillaires 
+cutanés pour foyer de la chaleur animale ;
+au lieu qu&#39;en l&#39;étendant à tous les capillaires, elle
+tombe aisément.
+</p>
+<p>
+D&#39;ailleurs, il est des cas où les capillaires cutanés
+sont si resserrés par le <i>froid</i>, pendant un tems considérable,
+soit que ce <i>froid</i> vienne de cause externe,
+<pb n="7:325" facs="V7/ENC_7-325.jpeg" />
+<milestone unit="column" n="1" />
+soit qu&#39;il provienne de cause interne, que l&#39;on ne
+peut pas concevoir que les humeurs y conservent
+encore du mouvement ; ou il est si peu considérable,
+que le frottement qui en peut résulter, entre les humeurs 
+&amp; les vaisseaux qui les contiennent, non-seulement n&#39;est pas suffisant pour engendrer une chaleur
+assez grande pour se communiquer à toutes les parties
+internes du corps, &amp; y conserver uniforme celle qui
+subsistoit auparavant ; mais encore pour en engendrer 
+une qui excede tant-soit-peu le degré de celle de
+l&#39;atmosphere : d&#39;ou il suit que la chaleur du dedans du
+corps doit bien-tôt périr dans ces cas, comme celle
+de sa surface, puisqu&#39;elle n&#39;est plus renouvellée ; ce
+qui est contraire à l&#39;observation, dans ceux qui sont
+rappellés à la vie d&#39;une mort apparente causée par la
+violence du <i>froid</i> auquel ils ont été exposes, qui n&#39;a
+pû être assez contrebalancé par la chaleur interne, &amp;
+dans ceux qui sont dans un grand <i>froid</i> de fievre,
+mais sur-tout dans la fievre lypyrie. Il n&#39;en est pas
+ainsi, dans la supposition que les capillaires internes
+contribuent à la chaleur animale, ainsi que les externes : dans tous ces cas, ceux-là peuvent conserver
+suffisamment la chaleur, pour empêcher la cessation
+du cours des humeurs dans les gros vaisseaux, &amp; en
+entretenir la fluidité &amp; la circulation, assez pour conserver 
+un germe de vie, en empêchant que les humeurs 
+ne perdent entierement leur fluidité: mais à
+l&#39;égard de l&#39;espece de fievre qui vient d&#39;être mentionnée,
+peut-on ne pas convenir que les capillaires internes 
+sont aussi propre, à engendrer la chaleur, que
+les externes, tout etant égal ; puisque dans cette fievre,
+les malades se sentent dévorés par l&#39;exces de
+chaleur interne, tandis qu&#39;ils paroissent gelés au-dehors? ce qu&#39;il est aisé d&#39;expliquer, en attribuant
+aussi la génération de la chaleur aux capillaires internes.
+Le grand épaississement des humeurs chargées
+de beaucoup de parties huileuses, suffit pour en concevoir,
+qu&#39;elles ne peuvent pas être portees dans les
+capillaires cutanés, sans que le <i>froid</i> de l&#39;atmosphere 
+ne les dispose davantage à suivre la tendance de
+leur force de cohésion, à se figer, à suspendre leur
+cours, qu&#39;à produire de la chaleur par le frottement ;
+tandis que les capillaires internes moins exposés à
+l&#39;effet coagulant de l&#39;air ambiant, contribuent d&#39;autant 
+plus à la génération de la chaleur, que les humeurs 
+en général, &amp; particulierement les globules
+sanguins, ont plus de densité. D&#39;où on peut inférer
+ici à cette occasion, pourquoi les personnes d&#39;un
+tempérament phlegmatique, cacochyme, cholorotique,
+ne sont pas sujettes à des fievres de cette
+espece, aux fievres ardentes, comme les personnes
+d&#39;un temperament bilieux, sanguin, &amp; c&#39;est aussi
+pourquoi ceux-là, dans l&#39;etat de santé même, ont
+moins de chaleur naturelle que ceux-ci ; non-seulement 
+donc parce que les humeurs sont plus denses,
+mais encore parce que les solides sont plus élastiques
+dans ceux-là que dans ceux-ci ; ce qui rend aussi les
+premiers plus susceptibles, tout étant égal, que les
+seconds, de sensibilité au <i>froid</i>, &amp; de tous les effets
+qui en suivent.
+</p>
+<p>
+Il n&#39;a été question jusqu&#39;ici, en traitant des causes
+de la chaleur, pour rechercher celles du <i>froid</i>, que
+du frottement entre les fluides &amp; les solides : pourquoi 
+ne seroit-il pas fait mention du frottement ou de
+l&#39;attrition des solides entre eux, &amp; des globules des
+fluides aussi entre eux? Le docteur Douglas a prétendu,
+dans son ouvrage cité, que les effets de ces
+frottemens ne devoient point être comptés parmi les
+puissances méchaniques qui contribuent à la génération 
+de la chaleur animale : mais son jugement à cet
+égard étant dénué de preuves solides, peut-il être
+regardé comme sans réplique, tant qu&#39;il reste des
+faits, dont il est bien difficile d&#39;écarter l&#39;application
+qui se présente à en faire au sujet dont il s&#39;agit? Il
+<milestone unit="column" n="2" />
+est certain que les mains frottées l&#39;une contre l&#39;autre,
+sont susceptibles de s&#39;échauffer : il ne se fait autre
+chose dans ce cas, qu&#39;une attrition des fibres cutanées ; 
+telle qu&#39;elle peut avoir lieu entre deux morceaux 
+de bois frottes l&#39;un contre l&#39;autre, qui s&#39;échauffent 
+par ce seul effet.
+</p>
+<p>
+Peut-on ne pas concevoir que les vaisseaux innombrables 
+dont est composé le corps humain, étant tous
+contigus, ne peuvent osciller, se dilater, augmenter 
+de diametre, se resserrer, s&#39;alonger, &amp; se raccourcir ; 
+éprouver alternativement ces différens
+changemens sans discontinuité, pendant toute la vie,
+sans se frotter entre eux, sans se toucher pendant
+leur dilatation, par un plus grand nombre de points
+qu&#39;ils ne faisoient pendant leur contraction ; ce qui est
+sur-tout bien sensible à l&#39;égard de l&#39;espece de vaisseaux 
+que l&#39;on sait être susceptibles d&#39;une pulsation
+marquée, continuellement renouvellée, tant que la
+vie dure. Ces changemens de continuité plus ou
+moins étendue, ne peuvent pas se faire sans qu&#39;il
+se fasse aussi en même tems une espece d&#39;attrition
+entre les parties élémentaires des fibres qui composent 
+les vaisseaux, &amp; le frottement étant aussi répété
+&amp; aussi sort que l&#39;impulsion des humeurs dans leurs
+vaisseaux, il ne peut que s&#39;ensuivre un développement,
+une plus grande action des particules ignées
+distribuées entre ces fibres, entre ces parties élémentaires,
+d&#39;ou doit être engendrée une véritable chaleur 
+dans le corps qui en est composé. <i>Voyez les élémens
+de Chimie de</i> Boernaave, <i>part. II. expér. X. corol.
+5</i>.
+</p>
+<p>
+Il y a donc lieu de penser que le mouvement des
+vaisseaux entre eux, l&#39;oscillation de leurs fibres, le
+frottement des muscles les uns contre les autres,
+lorsqu&#39;ils sont mis en action dans les exercices &amp; les
+travaux du corps, peuvent contribuer à la production 
+de la chaleur animale ; &amp; par conséquent, que
+ces différentes sortes de mouvemens servent par cette 
+raison à combattre, à empêcher les effets du <i>froid</i>,
+à proportion qu&#39;ils sont plus considérables ; <i>&amp; vice
+versâ</i>.
+</p>
+<p>
+Il n&#39;est pas moins vraissemblable, que le mouvement 
+des fluides, sur-tout le choc des globules sanguins 
+entre eux, leur broyement en tout sens par la
+contraction des vaisseaux, par la force impulsive, par
+la pression contre les extrémités résistantes, ont aussi
+part à ce phénomene. Si on a égard à ce que rapporte 
+le docteur Martine, dans son <i>traité de la chaleur animale</i>, au sujet de l&#39;eau même, qu&#39;il assûre avoir
+échauffée par le seul mouvement, par la seule agitation : mais sur-tout ce qu&#39;a observé Albinus à l&#39;égard
+du lait, qui acquiert une chaleur sensible par la seule 
+attrition nécessaire pour le convertir en beurre ;
+ce qui n&#39;est pas ignoré des gens même qui le font ;
+observation fort relative à ce dont il s&#39;agit, à cause
+de l&#39;analogie que l&#39;on sait être entre le lait &amp; le sang,
+qui sont composés l&#39;un &amp; l&#39;autre d&#39;un grand nombre
+de globules huileux flottans dans un véhicule aqueux ;
+&amp; entre la maniere dont sont préparés, battus, l&#39;un
+&amp; l&#39;autre de ces fluides, pour que le lait soit changé 
+en beurre &amp; le chyle en sang : de ce que le lait
+est susceptible d&#39;être échauffé par le seul mouvement,
+on peut même en inférer, à l&#39;égard du sang,
+que tout étant égal, l&#39;effet doit être plas grand, à
+proportion de la densité des globules de celui-ci sur
+les globules de celui-là.
+</p>
+<p>
+Ainsi on peut conclure de cette derniere assertion,
+que la différence du sang dans les différens sujets,
+contribue beaucoup à la différence que l&#39;on observe
+dans la chaleur naturelle ; &amp; le plus ou le moins de
+disposition à recevoir les impressions du chaud &amp; du
+<i>froid</i>, à l&#39;égard de chaque individu, respectivement
+au tempérament dont il est doüé, c&#39;est-à-dire selon
+que la masse de ses humeurs abonde plus ou moins
+<pb n="7:326" facs="V7/ENC_7-326.jpeg" />
+<milestone unit="column" n="1" />
+en globules rouges, &amp; que ces globules sont plus ou
+moins denses, plus ou moins élastiques. C&#39;est sans
+doute par cette considération, que l&#39;auteur du livre
+<i>sur le coeur</i>, que l&#39;on trouve parmi les oeuvres d&#39;Hippocrate, dit, en comparant le sang aux autres humeurs,
+qu&#39;<i>il n&#39;est pas chaud de sa nature, mais susceptible 
+de s&#39;échauffer</i>, apparemment à cause de sa consistence : ce qui paroît en effet devoir réellement concourir,
+avec la disposition des solides, pour la production 
+plus ou moins facile, plus ou moins constante 
+de la chaleur animale, qui augmente &amp; diminue
+avec l&#39;augmentation &amp; la diminution d&#39;action dans
+les vaisseaux, &amp; d&#39;agitation dans les humeurs ; ce
+qui rend raison de l&#39;intempérie froide qui domine
+dans les personnes d&#39;un tempérament pituiteux,
+dans les hydropiques, dans les chlorotiques, en un
+mot dans tous ceux dont le sang est mal travaillé,
+manque de condensation, ou dont les globules rouges 
+bien conditionnés ne sont pas en suffisante quantité,
+comme après les grandes hémorrhagies : ce qui
+sert aussi à l&#39;explication du défaut de chaleur propre
+dans la plûpart des poissons, &amp; dans tous les animaux,
+dont les solides relâchés, les humeurs aqueuses, ne
+sont susceptibles entre eux &amp; les solides, que de frottemens,
+de chocs très-foibles ; d&#39;où résulte si peu de
+chaleur, qu&#39;elle est emportée par le milieu ambiant,
+à-mesure qu&#39;elle est produite : d&#39;où s&#39;ensuit que ces
+animaux ne peuvent acquérir aucun degré de chaleur 
+supérieur à celle de ce milieu, &amp; que leur température 
+éprouve toutes les variations de celle des
+corps inanimés.
+</p>
+<p>
+Toutes ces différentes puissances méchaniques qui
+viennent d&#39;être proposées, d&#39;après la plûpart des
+physiologistes modernes, comme propres à concourir 
+à la génération de la chaleur propre aux animaux,
+&amp; à la production, par la raison des contraires, de
+tous les phénomenes du <i>froid</i>, que les animaux sont
+susceptibles de ressentir, &amp; dont ils éprouvent les
+effets les plus importans, particulierement pour le
+maintien de l&#39;uniformité de cette chaleur, paroissent
+exister dans l&#39;économie animale, d&#39;une maniere si
+prouvée, qu&#39;il est impossible de se persuader, avec
+le docteur Douglas, qu&#39;elles doivent être rejettées,
+en faveur de son systeme ; d&#39;aurant plus qu&#39;elles ne
+sont point incompatibles avec lui, ainsi qu&#39;on vient
+de tâcher de l&#39;établir ; &amp; qu&#39;au contraire elles sont
+comme des accessoires qui servent à l&#39;étayer &amp; à le
+soûtenir contre les objections qui pourroient le renverser 
+entierement, si elles n&#39;étoient pas de nature à
+fournir des moyens de défense tirés de l&#39;adresse même 
+avec laquelle l&#39;attaque a été formée. Il est vrai
+que ce système perd par-là l&#39;avantage de la simplicité,
+&amp; qu&#39;il semble par conséquent n&#39;être plus conforme 
+aux vûes de la nature, qui opere en général
+avec le moins de dépense possible : mais elle ne peut
+en user ainsi, que pour des effets non compliqués : il
+lui faut des causes multipliées, là où les besoins sont
+essentiellement distingués &amp; différens, quoique relativement 
+au même objet : les diverses combinaisons
+qui en dérivent exigent autant de causes différentes,
+qui prises séparément, sont aussi simples les unes que
+les autres, parce qu&#39;elles ont chacune leur destination 
+particuliere, par rapport aux circonstances variées 
+qui les mettent en oeuvre.
+</p>
+<p>
+Il résulte donc de tout ce qui a été dit dans cet article,
+que par une admirable disposition dans l&#39;économie 
+animale, c&#39;est à la diminution de la chaleur
+dans l&#39;atmosphere, c&#39;est-à-dire au <i>froid</i> même, qu&#39;il
+semble démontré que l&#39;on doit attribuer principalement 
+l&#39;entretien des effets du feu, à l&#39;égard des animaux 
+chauds, à un degré à-peu-près uniforme dans
+l&#39;état de santé, &amp; proportionné en raison inverse,
+précisément à celui de l&#39;augmentation du <i>froid</i> ; pourvû 
+cependant que les efforts des organes vitaux pour
+<milestone unit="column" n="2" />
+conserver la fluidité, le mouvement, le cours des
+humeurs, soient toûjours supérieurs aux résistances
+causées par la constriction des solides, par le resserrement 
+des vaisseaux ; effets constans du <i>froid</i>, auxquels 
+il est attaché, en donnant occasion à de plus
+grands frottemens entre toutes les parties du corps
+animal, tant solides que fluides, mais sur-tout entre
+les globules sanguins &amp; les parois des vaisseaux capillaires,
+d&#39;exciter l&#39;action des particules ignées dans
+l&#39;intérieur de ce corps, à-proportion qu&#39;elle diminue
+au-dehors.
+</p>
+<p>
+Ce sont donc les mouvemens absolumens nécessaires 
+pour la conservation de la vie saine dans les
+animaux, qu&#39;il faut regarder comme les antagonistes 
+du <i>froid ;</i> puisque tout étant égal &amp; bien disposé,
+la chaleur augmente constamment à-mesure qu&#39;ils
+augmentent de force &amp; de vîtesse, &amp; qu&#39;elle diminue
+de même avec la diminution de ces mouvemens,
+parce que le frottement qu&#39;ils occasionnent augmente 
+&amp; diminue avec eux. Ainsi dans tous les cas où
+ils ne sont pas suffisans, soit par l&#39;exces du <i>froid</i> dans
+le milieu ambiant, soit par le vice particulier des solides,
+ou par celui des fluides, pour entretenir la
+chaleur animale dans sa latitude ordinaire ; chaleur
+qui doit par conséquent toujours excéder celle de
+l&#39;atmosphere même, dans les plus grandes chaleurs
+de l&#39;été: l&#39;animal dans lequel ce defaut de chaleur
+naturelle a lieu, éprouve le sentiment &amp; les autres
+effets du <i>froid</i> dans toutes les parties de son corps,
+si ce défaut y est général ; ou dans quelques-unes seulement,
+si ce défaut n&#39;est que particulier. Dans l&#39;un
+&amp; dans l&#39;autre cas, le <i>froid</i> ne peut ainsi se faire sentir 
+pendant un tems considérable, sans devenir une
+cause de desordre dans l&#39;économie animale. (<i>d</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

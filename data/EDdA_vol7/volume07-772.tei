@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28226" id="50:56" vol="7">
+<index type="head" value="FRANCONIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="s.f." />
+<head>FRANCONIE</head>
+<p>
+FRANCONIE, s. f. (<i>Géog.</i>) selon les Allemands
+<i>Franckenland ;</i> contrée d&#39;Allemagne, bornée au nord
+par la Thuringe, au sud par la Soüabe, à l&#39;est par le
+haut Palatinat, à l&#39;oüest par le bas-Palatinat. Le milieu 
+est très-fertile en ble, vins, fruits, pâturages &amp;
+réglisse ; mais les frontieres sont remplies de forêts
+&amp; de montagnes incultes. Sa plus grande étendue
+<milestone unit="column" n="2" />
+du septentrion au midi peut être de 35 lieues, &amp; de
+38 d&#39;orient en occident. Les diverses religions, catholique,
+luthérienne &amp; protestante y ont cours. Ses
+rivieres sont le Mein, le Régnitz, le Sala &amp; le Tauber, qui y prennent leurs sources. La <i>Franconie</i> renferme 
+divers états ecclésiastiques ; savoir les évêchés
+de Bamberg, de Wurtzbourg, d&#39;Aischtat, le domaine 
+du grand-maitre Teutonique, quelques états séculiers,
+&amp; quelques villes impériales, comme Nuremberg &amp; Weissemberg, <i>&amp;c. Voyez la géographie historique</i> de M. de la Forest de Bourgon.
+</p>
+<p>
+Entre les personnes illustres qu&#39;a pro luit la <i>Franconie</i>, je ne nommerai que le sage &amp; habile AEcolampade. Il naquit à Weinsberg en 1482, &amp; mourut à
+Basle en 1531. Sa vie &amp; ses ouvrages sont connus de
+tout le monde. La défense qu&#39;il prit en main de l&#39;opinion 
+de Zwingle contre celle de Luther, au sujet
+de l&#39;eucharistie, lui fit beaucoup d&#39;honneur dans son
+parti. Erasme dit en parlant du livre d&#39;AEcolampade
+sur cette matiere, qu&#39;il l&#39;a écrit avec tant de soin,
+tant de raisonnement &amp; tant d&#39;eloquence, qu&#39;il y en
+auroit même assez pour seduire les élus, si Dieu ne
+l&#39;empêchoit. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

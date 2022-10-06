@@ -1,0 +1,125 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28596" id="51:6" vol="7">
+<index type="head" value="FURINE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mythologie." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="s.f." />
+<head>FURINE</head>
+<p>
+FURINE, s. f. (<i>Mythologie.</i>) divinité des voleurs
+chez les Romains, qui avoient établi en son honneur
+une fête nommée les Furinales, <i>Furinalia</i>, dont la
+célébration étoit marquée dans le calendrier &amp; dans
+les fastes, au sixieme jour avant les calendes de Septembre.
+</p>
+<p>
+Cette déesse avoit un temple dans la quatorzieme
+région de Rome, &amp; pour le desservir, un prêtre particulier,
+<i>flamen furinalis</i>, qui étoit un des quinze flamines,
+mais dont la gloire vint à tomber insensiblement 
+avec celle de sa divinité. Il falloit en effet que
+son culte fût fort déchû du tems de Varron, puisqu&#39;il dit qu&#39;à peine connoissoit-on le nom de ce prêtre.
+Plutarque remarque que le jeune Gracchus, pour
+éviter la fureur du peuple qui venoit d&#39;immoler son
+frere, se retira dans le bois sacré de la déesse <i>Furine</i>,
+qui étoit situé près de son temple, &amp; qui ne put lui
+servir d&#39;asyle ; tant on respecte peu les droits de la
+religion dans le feu des guerres civiles!
+</p>
+<p>
+On tire le nom de <i>Furine</i> du mot latin <i>fur</i>, un voleur : mais cette étymologie n&#39;auroit pas été goûtée
+par Cicéron, qui croyoit que cette divinité étoit
+la même que les <i>furies ;</i> d&#39;autant plus qu&#39;il est parlé
+quelquefois des <i>furines</i> au pluriel. Turnebe, dans ses
+<i>adversaria</i>, défend l&#39;opinion de Cicéron, par la raison 
+que Plutarque, en parlant du bois sacré où périt
+le jeune Gracchus, l&#39;appelle le <i>bois des Erynnies</i> ou
+des <i>furies</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

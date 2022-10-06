@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28699" id="51:61:1" vol="7">
+<index type="head" value="Gache" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Serrurerie." />
+<index type="normclass" value="Serrurerie" />
+<index type="englishclass" value="Locksmithing" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="NA" />
+<head>Gache</head>
+<p>
+<sc>* Gache</sc>, (<i>Serrurerie.</i>) piece de fer qui sert en général 
+à fixer une chose contre une autre ; telles sont
+celles qui contiennent les tuyaux de descente, les
+boîtes de lanternes, &amp; autres corps qu&#39;on veut appliquer 
+à des murs : mais on appelle particulierement
+<i>gache</i> le morceau de fer sous lequel passe le pêne de la
+serrure, &amp; qui tient la porte fermée. Les <i>gaches</i> des
+tuyaux de descente sont en fer plat, &amp; de la force requise 
+par l&#39;usage. On fait les <i>gaches</i> pour le plâtre ou
+pour le bois ; le plâtre, lorsque le corps à fixer est
+adossé d&#39;un mur de pierre ou de moëllon ; le bois,
+lorsqu&#39;il est adossé d&#39;une piece de bois. La <i>gache</i> en plâtre 
+est une piece de fer plat contournée suivant la forme 
+de la piece qu&#39;elle doit embrasser, &amp; dont les extrémités 
+des branches qui doivent entrer dans le mur.
+&amp; qu&#39;on appelle le <i>scellement</i>, sont refendues, afin qu&#39;elles<gap type="hyphenpb" />
+<pb n="7:414" facs="V7/ENC_7-414.jpeg" />
+<milestone unit="column" n="1" />
+ne puissent aisément en sortir. La <i>gache</i> en bois a
+l&#39;extrémité de ses branches en pointe, comme un
+clou. La <i>gache</i> à pate les a recoudées &amp; en queue
+d&#39;aronde, percée de plusieurs trous pour être attachée 
+avec des clous. La <i>gache</i> encloisonnée est de
+service aux portes qui se serrent sur des chambranles ; 
+aux grilles de fer ; aux gachettes des grandes portes 
+qui sont au nud des murs, lorsqu&#39;il n&#39;y a point de
+chambranle. Elle est de fer battu, comme le palâtre
+&amp; la cloison de la serrure, montée avec des étoquiaux
+de même largeur que la serrure, d&#39;une longueur à recevoir 
+les pênes de toute leur chasse, &amp; d&#39;une hauteur 
+qui varie, &amp; dont on désigne les inégalités par
+ces expressions, <i>hauteur, hauteur &amp; demie, deux hauteurs</i>. Ces <i>gaches</i> sont faites dans le goût de la serrure.
+Les <i>gaches</i> recouvertes se placent aux portes qui sont
+ferrées entre des poteaux de bois ; on les attache
+dans la feuillure de la porte ; elles sont repliées
+en rond de la hauteur de la serrure ; elles ont la queue
+à pate, &amp; sont fixées sur la face des poteaux.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

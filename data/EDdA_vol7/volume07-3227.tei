@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30681" id="55:233:8" vol="7">
+<index type="head" value="Guide Chaîne, ou Garde-Corde" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Roy" />
+<index type="shortauth" value="Le Roy" />
+<index type="kafnum" value="76" />
+<index type="kafauth" value="Le Roy, Jean-Baptiste (1720-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Horlog." />
+<index type="normclass" value="Horlogerie" />
+<index type="englishclass" value="Clockmaking" />
+<index type="generatedclass" value="Art méchanique" />
+<index type="pos" value="NA" />
+<head>Guide Chaîne</head>
+<p>
+<sc>Guide Chaîne</sc>, <i>ou</i> <sc>Garde-Corde</sc>, (<i>Horlog.</i>)
+nom que les Horlogers donnent à une piece qui sert
+à empêcher la fusée de tourner, lorsqu&#39;une fois la
+montre est montée tout au haut. <i>Voyez la <ref target="XPL:5507" type="platelink">fig. 44</ref>. Pl.
+d&#39;Horlogerie</i>, où l&#39;on voit en plan ce <i>guide chaîne</i> &amp;
+son pié: <i>ig</i> représente l&#39;extrémité de cette piece qui
+sert à arrêter la fusée lorsqu&#39;une fois la montre est
+montée jusqu&#39;au haut ; &amp; <i>i</i> une petite lame fort mince 
+percée d&#39;un trou dans son milieu : c&#39;est au moyen
+de cette lame que cette piece s&#39;ajuste dans son pié,
+comme il est marqué à l&#39;<i>art</i>. <sc><ref target="head:Pié de Guide-Chaîne" type="search">Pié de Guide-Chaîne</ref></sc>. Par cet ajustement, le <i>guide-chaîne</i>, sans pouvoir
+sortir de son pié, est mobile, &amp; sa partie <i>g</i> peut s&#39;approcher 
+ou s&#39;éloigner de la platine. Le petit ressort
+<i>r</i> (<i><ref target="XPL:5508" type="platelink">fig. 44</ref>.</i>) qu&#39;on appelle le <i>ressort du guide-chaîne</i>,
+sert à tenir toûjours cette partie à une certaine distance 
+de la platine, afin que le crochet de la fusée
+passe facilement dessous sans y toucher. Son pié est
+placé de façon que la chaîne passe au-dessus de sa
+partie <i>g ;</i> &amp; que son extrémité <i>g</i> posant sur la platine,
+rencontre le crochet de la fusée, quand on la tourne
+dans un sens contraire à celui où elle tourne, lorsque 
+la montre marche ; cette disposition bien entendue,
+voici comment cette piece empêche de tourner
+la fusée, lorsqu&#39;une fois la montre est montée jusqu&#39;au haut.
+</p>
+<p>
+Quand on monte une montre, la chaîne s&#39;approche 
+de plus en plus de la platine de dessus ou du balancier,
+comme il est facile de le voir en en remontant 
+une hors de sa boîte : or lorsque la montre est
+montée presqu&#39;au haut, la chaîne est fort près de
+cette platine ; mais, comme nous l&#39;avons dit, elle
+passe au-dessus du <i>guide chaîne</i> qui est continuellement 
+élevé par le petit ressort <i>r:</i> par conséquent en
+approchant de la platine de dessus, elle le force à
+s&#39;abaisser &amp; à s&#39;en approcher aussi ; ce qu&#39;il continue 
+de faire jusqu&#39;à ce que son extrémité <i>g</i> posant sur
+la platine, elle ne puisse plus baisser davantage ;
+alors le crochet de la fusée la rencontrant, il est impossible 
+de faire tourner la fusée davantage en ce
+sens ; &amp; par ce moyen on ne court point le risque de
+casser la chaîne ; ce qui arriveroit presque immanquablement 
+si l&#39;on montoit la montre au-delà d&#39;un
+certain nombre de tours. <i>Voy.</i> 
+<sc><ref target="head:Fusée" type="search">Fusée</ref>, <ref target="head:Crochet de Fusée" type="search">Crochet de Fusée</ref>, <ref target="head:Chaîne" type="search">Chaîne</ref>, <ref target="head:Pié de Guide-Chaîne" type="search">Pié de Guide-Chaîne</ref></sc>, <i>&amp;c.</i> (<i>T</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

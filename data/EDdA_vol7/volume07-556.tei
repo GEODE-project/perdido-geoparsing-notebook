@@ -1,0 +1,119 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28010" id="49:140:3" vol="7">
+<index type="head" value="Fourmi" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie &amp; Mat. med." />
+<index type="normclass" value="Chimie | Matière médicale" />
+<index type="englishclass" value="Chemistry | Materia medica" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fourmi</head>
+<p>
+<sc>Fourmi</sc>, (<i>Chimie &amp; Mat. med.</i>) les <i>fourmis</i> méritent 
+une considération particuliere dans l&#39;analyse des
+substances animales, par l&#39;acide connu sous le nom
+d&#39;<i>esprit de fourmi ;</i> l&#39;huile essentielle, &amp; l&#39;huile par
+expression qu&#39;elles fournissent. <i>Voyez</i> <sc><ref target="head:Substances animales" type="search">Substances
+animales</ref></sc>.
+</p>
+<p>
+Les <i>fourmis</i> sont regardées comme portant singulierement 
+aux voies urinaires &amp; aux organes de la
+génération, &amp; comme réveillant puissamment l&#39;action 
+des organes ; c&#39;est pourquoi elles passent pour
+un remede excellent dans la foiblesse des vieillards,
+dans la paralysie, la disposition à l&#39;apoplexie, la foiblesse 
+de la mémoire, l&#39;impuissance, <i>&amp;c.</i> &amp; cela, soit
+employées intérieurement en substance, soit extérieurement 
+sous forme de bain ou de fomentation.
+Tous ces secours sont fort peu usités parmi nous ; on
+y employe plus souvent, quoiqu&#39;assez rarement encore,
+l&#39;esprit de <i>fourmis</i> distillé avec l&#39;esprit-de-vin,
+qui est regardé comme un puissant remede contre la
+paralysie &amp; contre le bourdonnement des oreilles.
+(<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

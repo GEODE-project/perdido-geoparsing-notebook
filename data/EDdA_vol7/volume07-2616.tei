@@ -1,0 +1,130 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30070" id="54:29" vol="7">
+<index type="head" value="GRADUEL" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclésiast. &amp; Liturgie." />
+<index type="normclass" value="Histoire ecclésiastique | Liturgie" />
+<index type="englishclass" value="Ecclesiastical history | Liturgy" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="s.m." />
+<head>GRADUEL</head>
+<p>
+GRADUEL, s. m. (<i>Hist. ecclésiast. &amp; Liturgie.</i>) on
+appelloit autrefois <i>graduel</i> &amp; un livre d&#39;église, &amp; les
+prieres qu&#39;il contenoit, &amp; qui se chantoient après
+l&#39;épître.
+</p>
+<p>
+Après la lecture de l&#39;épitre, le chantre montoit
+sur l&#39;ambon avec son livre nommé <i>graduel</i> ou <i>antiphonier</i>, &amp; chantoit le <i>répons</i>, que nous nommons
+<i>graduel</i>, à cause des degrés de l&#39;ambon : &amp; <i>répons</i>,
+à cause que le choeur répond au chantre. <i>Voyez</i> <sc><ref target="head:Ambon" type="search">Ambon</ref></sc>.
+</p>
+<p>
+Aujourd&#39;hui on ne donne plus le nom de <i>graduel</i>
+qu&#39;à certain verset qu&#39;on chante après l&#39;épître, &amp;
+qu&#39;on chantoit autrefois sur les degrés de l&#39;autel ;
+ou selon Ugotio, en montant de note en note ; ou
+bien selon Macri, pendant que le diacre montoit
+au pupitre, qui étoit élevé sur plusieurs degrés pour
+chanter l&#39;évangile.
+</p>
+<p>
+On appelle aussi <i>graduels</i> les quinze pseaumes que
+les Hébreux chantoient sur les quinze degrés du
+temple. D&#39;autres croyent que ce nom vient de ce
+qu&#39;on élevoit sa voix par degrés en montant de ton.
+<i>Voyez</i> <sc><ref target="head:Pseaume" type="search">Pseaume</ref></sc>.
+</p>
+<p>
+Le cardinal Bona, dans son <i>traité de la divine psalmodie</i>, dit que les quinze pseaumes <i>graduels</i> nous
+font ressouvenir qu&#39;on n&#39;arrive à la perfection que
+par degrés. Il marque ensuite les quinze degrés de
+vertu qui correspondent aux quinze pseaumes <i>graduels</i>. Il y en a cinq pour les commençans, cinq
+pour ceux qui sont plus avancés, &amp; cinq pour les
+parfaits. <i>Dictionnaire de Trévoux &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

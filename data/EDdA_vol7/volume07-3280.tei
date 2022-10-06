@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30734" id="55:275" vol="7">
+<index type="head" value="GUIRLANDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="s.f." />
+<head>GUIRLANDE</head>
+<p>
+GUIRLANDE, s. f. ornement pour la tête, fait
+en forme de couronne. <i>Voyez</i> <sc><ref target="head:Couronne" type="search">Couronne</ref></sc>.
+</p>
+<p>
+On fait des <i>guirlandes</i> de fleurs, de plumes, &amp;
+même de pierreries. Janus passoit dans l&#39;antiquité
+pour l&#39;inventeur des <i>guirlandes</i>. Athenée, <i>Dipnos.
+lib. XV.</i>
+</p>
+<p>
+On donne encore le nom de <i>guirlande</i> à un ornement 
+composé de fleurs, de fruits, &amp; de feuilles
+entre-mêlées ensemble, que l&#39;on suspendoit anciennement 
+aux portes des temples, où l&#39;on célébroit
+quelque fête. On en mettoit aussi dans tous les endroits 
+où l&#39;on vouloit donner des marques de réjouissance 
+publique, comme aux arcs-de-triomphe, <i>&amp;c.
+Voyez</i> <sc><ref target="head:Feston" type="search">Feston</ref></sc>. On en couronnoit la tête des victimes 
+aux sacrifices des Payens. S. Paulin dans son
+<i>poeme sur S. Felix</i>, parle des <i>guirlandes</i> &amp; des couronnes 
+de fleurs dont on décoroit la porte de l&#39;église 
+&amp; le tombeau de ce saint.
+</p>
+<p>
+Les Italiens ont des décorateurs qu&#39;ils appellent
+<i>festaroli</i>, qui font des festons, des <i>guirlandes</i> &amp; autres 
+ornemens pour les fêtes. <i>Chambers</i>.
+</p>
+<p>
+Les <i>guirlandes</i> servent dans l&#39;Architecture, &amp; sont
+<pb n="7:1011" facs="V7/ENC_7-1011.jpeg" />
+<milestone unit="column" n="1" />
+composées de petits festons, formés de bouquets d&#39;une 
+même grosseur, dont on fait des chûtes dans les
+ravalemens de pilastre, &amp; dans les frises &amp; panneaux
+de compartiment.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

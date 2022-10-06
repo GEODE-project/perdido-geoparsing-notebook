@@ -1,0 +1,149 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30686" id="55:236" vol="7">
+<index type="head" value="GUIENNE, (la)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>GUIENNE</head>
+<p>
+GUIENNE, (<sc>la</sc>) <i>Aquitania</i>, (<i>Géog.</i>) partie considérable 
+du royaume de France ; mais il faut bien
+distinguer la <i>Guienne</i>, province, de la <i>Guienne</i>
+propre.
+</p>
+<p>
+La <i>Guienne</i>, province, est bornée au nord par le
+Poitou, l&#39;Angoumois, &amp; la Marche ; à l&#39;est par l&#39;Auvergne &amp; par le Languedoc ; au sud par les Pyrénées, &amp; à l&#39;oüest par l&#39;Océan. Elle forme le plus grand
+gouvernement de France, qui a quatre-vingt lieues
+de large sur quatre-vingt-dix de long : les rivieres qui
+l&#39;arrosent sont l&#39;Adour, le Tarn, l&#39;Avéiron, &amp; le
+Lot.
+</p>
+<p>
+Il ne paroît pas que le nom de <i>Guienne</i> qui a succédé 
+à celui d&#39;Aquitaine connu des Romains, ait été
+en usage avant le commencement du quatorzieme
+siecle ; cependant il commença dès-lors à prendre
+faveur, &amp; il prévalut sur la fin du siecle suivant. Le
+duché de <i>Guienne</i> acquis par l&#39;Angleterre dans le
+douzieme siecle, revint à la France sous le regne de
+Charles VII. l&#39;an 1553; &amp; cette derniere puissance
+en a toûjours joüi depuis.
+</p>
+<p>
+La <i>Guienne</i> entiere est divisée en haute &amp; basse:
+la basse comprend le Bourdelois, le Périgord, l&#39;Agénois, le Condomois, le Bazadois, les Landes, la
+Gascogne proprement dite, le pays de Soule &amp; de
+Labour.
+</p>
+<p>
+La haute <i>Guienne</i> dont la principale ville est Montauban, comprend le Quercy, le Roüergue, l&#39;Armagnac, le comté de Comminges, le Couserans, &amp; la
+Bigorre. Ces pays qui composent la haute <i>Guienne</i>,
+sont tous du ressort du parlement de Toulouse ; il
+n&#39;y a que la basse <i>Guienne</i> qui reconnoisse le parlement 
+de Bourdeaux.
+</p>
+<p>
+Je supprime les autres détails de géographie, pour
+ajouter une seule remarque qui intéresse le bien de
+l&#39;état. Cette partie de la <i>Guienne</i> qui porte le nom de
+<milestone unit="column" n="2" />
+<i>haut-pays</i>, ne connoît que l&#39;Agriculture &amp; les arts
+qui en dépendent, sans lesquels lorsque les récoltes
+manquent, les habitans sont dans l&#39;impossibilité de
+payer leurs charges : c&#39;est donc au prince à les faire
+joüir de la liberté de leur commerce, &amp; à leur accorder 
+un droit naturel dont la propriété ne peut prescrire,
+&amp; dont l&#39;exercice ne peut etre interrompu,
+sans supposer que la religion du souverain a été surprise.
+Il ne faut point perdre à la discussion de vains
+titres d&#39;abus, un tems mieux employé à les abolir.
+(<i>D. J</i>.)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

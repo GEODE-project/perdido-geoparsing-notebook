@@ -1,0 +1,138 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28495" id="50:195" vol="7">
+<index type="head" value="FRUMENTAIRES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Hist. anc." />
+<index type="normclass" value="Histoire ancienne" />
+<index type="englishclass" value="Ancient history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="s.m.pl." />
+<head>FRUMENTAIRES</head>
+<p>
+FRUMENTAIRES, s. m. pl. (<i>Hist. anc.</i>) étoient
+dans l&#39;empire d&#39;occident des soldats ou archers.
+</p>
+<p>
+S. Cyprien dit, dans une de ses lettres, qu&#39;on
+avoit envoyé des <i>frumentaires</i> pour le prendre.
+</p>
+<p>
+Il y avoit des <i>frumentaires</i> dès le tems d&#39;Adrien ;
+<milestone unit="column" n="2" />
+Spartien dit, dans la vie de cet empereur, qu&#39;il s&#39;en
+servoit pour s&#39;instruire de tout.
+</p>
+<p>
+On ne donnoit auparavant ce nom qu&#39;à des marchands 
+ou des mesureurs de blé.
+</p>
+<p>
+Les <i>frumentaires</i> dont nous parlons ne faisoient
+point un corps distingué des autres troupes ; mais il
+y en avoit un certain nombre dans chaque légion,
+comme nous avons des compagnies de grenadiers
+dans chaque régiment. Ainsi dans les anciennes inscriptions,
+on trouve les <i>frumentaires</i> d&#39;une telle ou
+telle légion.
+</p>
+<p>
+On croit que ce furent d&#39;abord de jeunes hommes
+disposés par Auguste sur tous les grands chemins des
+provinces, pour avertir promptement l&#39;empereur de
+tout ce qui se passoit.
+</p>
+<p>
+Pour cela ils avoient une espece d&#39;intendance sur
+toutes les voitures ; c&#39;est pourquoi ils étoient chargés 
+de faire porter le blé, <i>frumentum</i>, aux armées ;
+&amp; c&#39;est de-là que leur vint le nom de <i>frumentaires ;</i> on
+les incorpora ensuite dans les troupes, où ils retinrent 
+toûjours leur nom.
+</p>
+<p>
+Leur fonction étoit de donner avis au prince de
+tout ce qui se passoit, comme ceux qu&#39;on nommoit
+<i>curieux, curiosi</i>, &amp; auxquels on les joint quelquefois.
+<i>Voyez</i> <sc><ref target="head:Curieux" type="search">Curieux</ref></sc>. <i>Dict. de Trév. &amp; Chambers</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

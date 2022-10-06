@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27696" id="49:5" vol="7">
+<index type="head" value="FORCER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm." />
+<index type="normclass" value="Grammaire" />
+<index type="englishclass" value="Grammar" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="v.act." />
+<head>FORCER</head>
+<p>
+* FORCER, v. act. (<i>Gramm.</i>) ce mot pris au simple 
+a un grand nombre d&#39;acceptions différentes. C&#39;est
+surmonter une résistance par un emploi violent des
+forces du corps : c&#39;est ainsi qu&#39;on <i>force</i> une porte,
+un retranchement, <i>&amp;c. Forcer un cerf</i>, c&#39;est l&#39;épuiser 
+par une longue poursuite, afin de le prendre
+vif. On <i>force une clé</i> ou <i>une serrure</i>, quand on en
+dérange par effort le méchanisme. On <i>force de voiles,
+de rames</i>, en les multipliant autant qu&#39;il est possible
+pour augmenter la vîtesse d&#39;un bâtiment. On <i>force à
+la paume, au billard, à beaucoup de jeux de cette nature</i>, en déployant à un coup toute sa force. On <i>force à un jeu de cartes</i>, en obligeant certaines cartes à
+paroître, ou un joüeur à joüer en certaines circonstances 
+déterminées. <i>Forcer</i> se dit au figuré d&#39;une détermination 
+de la volonté par des motifs qui donnent
+quelque chagrin, &amp; sans lesquels elle se seroit autrement 
+déterminée. <i>Il me forcera quelques jours, par
+le trouble qu&#39;il me cause, à lui parler durement. Forcer
+son esprit, son génie, son talent</i>, c&#39;est s&#39;appliquer à
+des choses pour lesquelles on n&#39;étoit point né. Un
+style est <i>forcé</i> par une singularité de constructions
+ou d&#39;expressions qui a peiné l&#39;auteur, &amp; qui peine le
+lecteur. <i>Forcer la recette</i>, c&#39;est passer en recette plus
+qu&#39;on n&#39;a reçû. <i>Voyez dans les articles suivans</i> d&#39;autres 
+acceptions du même mot.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

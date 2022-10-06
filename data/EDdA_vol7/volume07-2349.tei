@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29803" id="53:239" vol="7">
+<index type="head" value="GOMBAUT" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Romain" />
+<index type="shortauth" value="Le Romain" />
+<index type="kafnum" value="73" />
+<index type="kafauth" value="Le Romain, or Romain, Jean-Baptiste-Pierre (?-?)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat. bot." />
+<index type="normclass" value="Histoire naturelle | Botanique" />
+<index type="englishclass" value="Natural history. Botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GOMBAUT</head>
+<p>
+GOMBAUT, s. m. <i>ketmia</i>, (<i>Hist. nat. bot.</i>) plante 
+potagere très-commune aux iles Antilles. Elle s&#39;éleve 
+d&#39;environ quatre à cinq piés, suivant la bonté
+du terrein ; ses feuilles ressemblent assez à celles de
+la mauve ; elle porte de belles fleurs jaunes auxquelles 
+succedent des fruits de forme à-peu-prés conique,
+longs de trois &amp; quatre pouces, cannelés suivant leur
+longueur, &amp; s&#39;ouvrant lorsqu&#39;ils sont secs en plusieurs 
+logettes qui renferment des semences rondes,
+grises, &amp; grosses comme des petits pois ; ce fruit doit
+se cueillir avant d&#39;être tout-à-fait mûr ; on le fait
+cuire dans le pot pour le manger avec la soupe ou
+bien en salade ; on en fait aussi des especes de farces,
+&amp; il est un des principaux ingrédiens qui entrent 
+dans la composition du calalon, sorte de mets
+dont les dames créoles sont très-friandes.
+</p>
+<p>
+Le <i>gombaut</i> étant cuit devient extrèmement gluant
+par la grande quantite de mucilage qui en sort ; c&#39;est
+pourquoi on le regarde comme un très-grand émollient, étant pris en lavement. <i>Article de M. <sc>le Romain</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29746" id="53:198" vol="7">
+<index type="head" value="GNOSIMAQUES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. ecclésiast." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Histoire ecclésiastique" />
+<index type="pos" value="s.m.pl." />
+<head>GNOSIMAQUES</head>
+<p>
+GNOSIMAQUES, s. m. pl. (<i>Hist. ecclésiast.</i>) nom
+de secte ; héretiques qui se déclarerent ennemis de
+toutes les connoissances recherchées de la religion.
+Ce mot est grec <foreign lang="greek">γνωσιμάχος</foreign>, c&#39;est-à-dire <i>ennemi de la
+sagesse, des connoissances</i>.
+</p>
+<p>
+S. Jean Damascene dit que les <i>gnosimaques</i> étoient
+des gens opposés à toute la <i>gnose</i> du Christianisme,
+qui disoient que c&#39;étoit un travail inutile de chercher 
+des <i>gnoses</i> dans les saintes Ecritures ; que Dieu
+ne demandoit autre chose du chrétien que de bonnes 
+oeuvres ; qu&#39;il étoit donc beaucoup mieux de
+marcher avec beaucoup plus de simplicité, &amp; de ne
+point chercher avec tant de soin tous les dogmes concernant 
+la vie gnostique.
+</p>
+<p>
+Quelques auteurs prétendent que ce mot a un sens
+plus particulier, &amp; qu&#39;il signifioit dans les premiers siecles 
+de l&#39;église à-peu-près ce que nous appellons <i>spiritualité ;</i> &amp; la vie gnostique, ce que nous nommons
+<i>la vie spirituelle. Voy.</i> <sc><ref target="head:Gnostiques" type="search">Gnostiques</ref></sc>. Ainsi les <i>Gnosimaques</i> étoient des ennemis des spiritualités, de la vie
+spirituelle, qui vouloient qu&#39;on se contentât de faire
+de bonnes oeuvres tout simplement, &amp; qui blâmoient 
+les exercices de la vie spirituelle, &amp; ceux
+qui cherchoient à se perfectionner par des méditations,
+des connoissances plus profondes de la doctrine 
+&amp; des mysteres de la religion, &amp; des exercices
+plus sublimes &amp; plus recherchés. <i>Voyez</i> <sc><ref target="head:Mystique" type="search">Mystique</ref></sc>.
+<i>Dictionn. de Trévoux &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

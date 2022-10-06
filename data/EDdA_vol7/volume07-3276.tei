@@ -1,0 +1,139 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30730" id="55:271" vol="7">
+<index type="head" value="GUIPER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ruban." />
+<index type="normclass" value="Rubanier" />
+<index type="englishclass" value="Ribbon-maker" />
+<index type="generatedclass" value="Rubanier" />
+<index type="pos" value="v.act." />
+<head>GUIPER</head>
+<p>
+* GUIPER, v. act. (<i>Ruban.</i>) c&#39;est donner la derniere 
+main à la frange que l&#39;on appelle <i>guipée:</i> lorsque 
+cette frange est hors de dessus le métier, &amp; forme 
+différens coupons, comme il sera dit à l&#39;<i>article</i>
+<sc><ref target="head:Tisser" type="search">Tisser</ref></sc>, &amp; comme on le voit dans <i>nos <ref target="XPL:5510" type="platelink">Planches</ref></i>
+elle est tendue par deux ficelles sur une longueur
+prise à volonté. Ces ficelles sont fixées à demeure le
+long d&#39;un mur, mais il faut qu&#39;elles en soient éloignées d&#39;environ deux piés, pour la commodité de la
+guipeuse, &amp; que la frange soit tendue le plus qu&#39;il est
+possible ; plus elle l&#39;est, mieux il en est : cela fait, la
+guipeuse passe le doigt index de la main gauche dans
+la boucle que forme le coupon ; puis avec le crochet
+du guipoit, elle débarasse un brin de la pente en le
+prenant contre la tête de la frange, où il est plus aisé
+à saisir ; ce brin séparé &amp; pris dans le crochet du guipoir ; 
+elle fait tourner sur lui-même le guipoir avec
+le pouce &amp; le doigt index de la main droite, &amp; cela
+avec violence. Le guipoir mis en mouvement de cette 
+maniere, retord le brin qui lui est attaché, &amp; c&#39;est
+de l&#39;habileté de la guipeuse que dépend la beauté de la
+guipure ; puisque si la frange est trop <i>guipée</i> elle grippe ; 
+que si elle ne l&#39;est pas assez, elle se trouve trop lâche ; 
+le brin <i>guipé</i> est terminé par le bout d&#39;en-bas par
+une petite boucle que le crochet du guipoir y a laissee:
+ce brin est passé entre le doigt auriculaire &amp; l&#39;annulaire 
+de la main gauche, pour avoir la liberté d&#39;en séparer
+&amp; <i>guiper</i> d&#39;autres. Lorsque la guipeuse a fini ce coupon,
+elle en prend un autre, après cela un troisieme,
+toûjours en reculant de la droite à la gauche ; lorsque 
+la longueur tendue est considérable, comme de
+quatre à cinq aunes, plusieurs guipeuses peuvent y
+travailler, en conservant entre elles assez de distance 
+pour ne se pas nuire l&#39;une à l&#39;autre. On facilite le
+tour du guipoir, en le garnissant de cire ; ce qui lui
+donne la force de tourner avec plus de vélocité.
+Voici une autre façon de le faire tourner, que l&#39;on
+appelle <i>filer:</i> lorsque la guipeuse s&#39;est emparée du
+brin avec le crochet de son guipoir, elle approche
+la paume de la main droite de celle de la gauche ; &amp;
+par le frottement des pouces &amp; de ces deux parties
+dont elle tire la droite à-elle, elle donne le mouvement 
+au guipoir avec la même dextérité que de l&#39;autre 
+maniere.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

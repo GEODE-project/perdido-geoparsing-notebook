@@ -1,0 +1,162 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30210" id="54:88:2" vol="7">
+<index type="head" value="Grave, Gravité" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Voltaire" />
+<index type="shortauth" value="Voltaire" />
+<index type="kafnum" value="136" />
+<index type="kafauth" value="Voltaire, François-Marie Arouet de (1694-1778)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Gramm. Littérat. &amp; Morale." />
+<index type="normclass" value="Grammaire | Littérature | Morale" />
+<index type="englishclass" value="Grammar | Literature | Ethics" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="NA" />
+<head>Grave, Gravité</head>
+<p>
+<sc>Grave, Gravité</sc>, (<i>Gramm. Littérat. &amp; Morale.</i>)
+<i>Grave</i>, au sens moral, tient toûjours du Physique ;
+il exprime quelque chose de poids. C&#39;est pourquoi
+on dit, <i>un homme, un auteur, des maximes de poids</i>,
+<milestone unit="column" n="2" />
+pour <i>homme, auteur, maximes graves</i>. Le <i>grave</i> est au
+sérieux ce que le plaisant est à l&#39;enjoüé: il a un degré
+de plus ; &amp; ce degré est considérable. On peut être
+sérieux par humeur, &amp; même faute d&#39;idées. On est
+<i>grave</i> ou par bienséance, ou par l&#39;importance des
+idées qui donnent de la <i>gravité</i>. Il y a de la différence
+entre être <i>grave</i> &amp; être un homme <i>grave</i>. C&#39;est un défaut 
+d&#39;être <i>grave</i> hors de propos. Celui qui est <i>grave</i>
+dans la société est rarement recherché. Un homme
+<i>grave</i> est celui qui s&#39;est concilié de l&#39;autorité plus par
+sa sagesse que par son maintien.
+<center>
+<i>Pietate gravem ac meritis si fortè virum quem</i>.
+</center>
+</p>
+<p>
+L&#39;air décent est nécessaire par-tout : mais l&#39;air
+<i>grave</i> n&#39;est convenable que dans les fonctions d&#39;un
+ministere important, dans un conseil. Quand la <i>gravité</i> n&#39;est que dans le maintien, comme il arrive très souvent,
+on dit <i>gravement</i> des inepties. Cette espece
+de ridicule inspire de l&#39;aversion. On ne pardonne pas
+à qui veut en imposer par cet air d&#39;autorité &amp; de
+suffisance.
+</p>
+<p>
+Le duc de la Rochefoucauld a dit que, <i>la gravité
+est un mystere du corps inventé pour cacher les défauts de
+l&#39;esprit</i>. Sans examiner si cette expression, <i>mystere du
+corps</i>, est naturelle &amp; juste, il suffit de remarquer que
+la reflexion est vraie pour tous ceux qui affectent la
+<i>gravité</i>, mais non pour ceux qui ont dans l&#39;occasion
+une <i>gravité</i> convenable à la place qu&#39;ils tiennent, au
+lieu où ils sont, aux matieres qu&#39;on traite.
+</p>
+<p>
+Un auteur <i>grave</i> est celui dont les opinions sont
+suivies dans les matieres contentieuses. On ne le dit
+pas d&#39;un auteur qui a écrit sur des choses hors de
+doute. Il seroit ridicule d&#39;appeller Euclide, Archimede, des auteurs <i>graves</i>.
+</p>
+<p>
+Il y a de la <i>gravité</i> dans le style. Tite-Live, de
+Thou, ont écrit avec <i>gravité</i>. On ne peut pas dire la
+même chose de Tacite, qui a recherché la précision,
+&amp; qui laisse voir de la malignité; encore moins du
+cardinal de Retz, qui met quelquefois dans ses récits
+une gaieté déplacée, &amp; qui s&#39;écarte quelquefois des
+bienséances.
+</p>
+<p>
+Le style <i>grave</i> évite les saillies, les plaisanteries ;
+s&#39;il s&#39;éleve quelquefois au sublime, si dans l&#39;occasion
+il est touchant, il rentre bien-tôt dans cette sagesse,
+dans cette simplicité noble qui fait son caractere ; il
+a de la force, mais peu de hardiesse. Sa plus grande
+difficulté est de n&#39;être point monotone.
+</p>
+<p>
+Affaire <i>grave</i>, cas <i>grave</i>, se dit plûtôt d&#39;une cause
+criminelle que d&#39;un procès civil. Maladie <i>grave</i> suppose 
+du danger. <i>Article de M. <sc>de Voltaire</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

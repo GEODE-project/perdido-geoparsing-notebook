@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28463" id="50:180:1" vol="7">
+<index type="head" value="Frottement" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Argenville" />
+<index type="shortauth" value="d&#39;Argenville" />
+<index type="kafnum" value="6" />
+<index type="kafauth" value="Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hydr." />
+<index type="normclass" value="Hydraulique" />
+<index type="englishclass" value="Hydraulics" />
+<index type="generatedclass" value="Hydraulique" />
+<index type="pos" value="NA" />
+<head>Frottement</head>
+<p>
+<sc>Frottement</sc>, (<i>Hydr.</i>) Outre les causes de <i>frottement</i> communes à toutes les machines, comme celles 
+qui proviennent de l&#39;engrenage des roues, <i>&amp;c.</i> il
+se fait dans les pompes un <i>frottement</i> contre les parois
+d&#39;un tuyau où l&#39;eau passe, dans les passages des soupapes,
+des robinets, dans les coudes &amp; jarrets des
+conduites, dans la souche d&#39;un jet, &amp; dans la platine
+d&#39;un ajutage. Le canon d&#39;une jauge n&#39;en est pas même 
+excepté, ainsi que l&#39;épaisseur de la cloison qui est
+dans la cuvette.
+</p>
+<p>
+Quant aux engrenages des roues dans les lanternes,
+on en rend le mouvement plus doux en les graissant 
+avec du savon noir, ce qui les fait encore durer
+davantage. Pour les crapaudines, les boulons, les
+torillons, les bielles, &amp; autres pieces, on les frotte
+d&#39;huile.
+</p>
+<p>
+On ne peut éviter le <i>frottement</i> qui se fait contre
+les parois d&#39;un tuyau, sur-tout dans les coudes &amp;
+jarrets des conduites tournantes, qu&#39;en interrompant
+le diametre ordinaire de la conduite pour y mettre
+deux ou trois toises de suite de plus gros tuyaux, &amp;
+reprendre ensuite le diametre de la conduite. Les ouvertures 
+des soupapes &amp; robinets sujettes aux étranglemens, se peuvent encore éviter en y employant
+des soupapes &amp; des robinets d&#39;un plus grand diametre.
+La souche d&#39;un jet sera tenue aussi plus grosse,
+&amp; la platine de l&#39;ajutage la plus mince qu&#39;il se
+pourra.
+</p>
+<p>
+On peut éviter plus de la moitié du <i>frottement</i> dans
+les jauges, en n&#39;y mettant point de canons, &amp; laissant 
+couler l&#39;eau par les ouvertures faites dans la platine 
+qui sera des plus minces.
+</p>
+<p>
+Il n&#39;y a point de <i>frottement</i> pareil à celui qui se fait
+dans les fourches trop menues d&#39;une machine hydraulique 
+à trois corps de pompe ; le remede à cet
+étranglement, est de donner à chaque fourche un
+diametre égal à chaque corps de pompe, ainsi qu&#39;au
+tuyau montant. <i>Voyez</i> <sc><ref target="head:Pompe" type="search">Pompe</ref></sc>. (<i>K</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

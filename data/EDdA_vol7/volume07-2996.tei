@@ -1,0 +1,122 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30450" id="55:70" vol="7">
+<index type="head" value="GRIOTTIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan." />
+<index type="normclass" value="Botanique" />
+<index type="englishclass" value="Botany" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.m." />
+<head>GRIOTTIER</head>
+<p>
+GRIOTTIER, s. m. (<i>Botan.</i>) arbre qui porte les
+griottes ou grosses cerises à courte queue ; elles sont
+fermes, plus douces que les autres, &amp; d&#39;une couleur
+qui tire sur le noir. Le <i>griottier</i> est une espece de cerisier 
+nommé <i>cerasus sativa, fructu majori</i>, J. R. H. 625.
+<i>cerasus sativa major</i>, C. B. P. 449. en anglois, <i>large
+spanish-cherry</i>.
+</p>
+<p>
+Cet arbre n&#39;est ni haut ni droit ; il jette plusieurs
+branches garnies de rameaux fragiles ; son tronc est
+médiocrement gros ; son écorce est d&#39;un rouge noirâtre ; 
+son bois est blanchâtre dans la circonférence,
+&amp; noirâtre dans le coeur ; ses feuilles sont larges, veinées,
+noirâtres ; ses fleurs sont en roses, composées
+de plusieurs pétales blancs disposés en rond, &amp; de
+quelques étamines de même couleur qui en occupent
+le milieu ; leur calice est partagé en cinq segmens recourbés ; 
+il s&#39;en éleve un pistil qui se change en un
+fruit arrondi, charnu, très-succulent dans sa maturité.
+Quand l&#39;arbre est jeune, il donne des fruits plus
+gros que les autres especes de cerisiers, &amp; qui sont
+soûtenus sur des queues plus courtes : on nomme ces
+fruits en Botanique, <i>cerasa sativa majora</i>. Depuis le
+tems de Lucullus, on cultive cet arbre dans toute
+l&#39;Europe. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

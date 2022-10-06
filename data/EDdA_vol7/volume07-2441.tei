@@ -1,0 +1,163 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29895" id="53:296" vol="7">
+<index type="head" value="GOSSAMPIN" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Botan. exotiq." />
+<index type="normclass" value="Botanique exotique" />
+<index type="englishclass" value="Exotic botany" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GOSSAMPIN</head>
+<p>
+GOSSAMPIN, s. m. (<i>Botan. exotiq.</i>) arbre des
+Indes, d&#39;Afrique &amp; d&#39;Amérique, dont le fruit mûr
+produit une espece de laine ou de coton ; c&#39;est le
+<i>gossampinus</i> de Pline, <i>arbor lanigera</i> de Pison, <i>ceyba
+aculeata viticis folio</i> de Plumier, &amp; le fromager de
+nos iles françoises. Il tire son nom des deux mots
+latins, <i>gossipium</i>, coton, &amp; <i>pinus</i>, pin, parce qu&#39;il
+a quelque ressemblance avec le pin, &amp; qu&#39;il porte
+une espece de coton.
+</p>
+<p>
+Il s&#39;eleve fort haut, &amp; si l&#39;on ne prend soin de le
+tailler, ses branches s&#39;écartent au loin ; l&#39;écorce est
+verte dans la jeunesse de l&#39;arbre, &amp; a cinq ou six
+lignes d&#39;épaisseur : ensuite elle brunit &amp; s&#39;épaissit
+encore. Les feuilles sont longues &amp; paroissent étroites, parce qu&#39;elles sont divisées en trois parties
+comme celle du treffle ; elles sont tendres, minces,
+d&#39;un verd brillant dans leur naissance, mais qui perd
+bien-tôt son éclat : elles tombent pour faire place à
+d&#39;autres feuilles qui leur succedent, de sorte que dans
+l&#39;espace de peu de tems cet arbre change de livrée.
+</p>
+<p>
+L&#39;écorce est hérissée d&#39;épines droites, fortes, de
+forme pyramidale, &amp; d&#39;un pouce &amp; demi de longueur.
+Elles n&#39;ont pas leur racine au-delà de l&#39;écorce ; 
+elles y tiennent même si peu, qu&#39;il suffit de les
+toucher legerement avec un bâton pour les abattre ; 
+&amp; dans le lieu d&#39;où elles tombent, il ne reste
+qu&#39;un vestige blanc à l&#39;endroit qu&#39;elles occupoient.
+</p>
+<p>
+Quelques jours après que l&#39;arbre a changé de feuilles,
+ce qui arrive dans nos îles au commencement
+de la saison seche, les fleurs paroissent en grosses
+touffes ; elles sont petites, blanches, si délicates,
+qu&#39;elles ne subsistent que huit ou dix jours. On
+voit succéder à leur place une coque verte de la
+forme &amp; de la grosseur d&#39;un oeuf de poule, mais un
+peu plus pointue par les deux bouts ; elle contient
+un duvet ou une sorte de coton, qui n&#39;est pas plûtôt
+mûr que la coque creve avec quelque bruit, &amp; le
+coton seroit emporté aussi-tôt par le vent, s&#39;il n&#39;étoit 
+recueilli avec beaucoup de soin.
+</p>
+<p>
+Ce coton est de couleur gris de perle extrèmement
+fin, doux, lustré, &amp; plus court que le coton commun ; 
+on ne laisse pas cependant de le filer, &amp; on
+en fait des bas ; outre le coton, la coque renferme 
+plusieurs graines brunes &amp; plates comme nos féves 
+d&#39;haricots : on ne s&#39;amuse pas à les semer, parce
+que l&#39;arbre vient parfaitement bien de bouture &amp;
+plus vîte. On se sert de ce coton pour faire des oreillers,
+des traversins, &amp; même des lits de plume.
+</p>
+<p>
+Le bois du <i>gossampin</i> est blanc, tendre, filasseux,
+pliant, souple, &amp; fort difficile à couper quand il est
+vieux. On plante cet arbre ordinairement devant
+les maisons pour joüir de la fraîcheur de son ombre,
+<pb n="7:748" facs="V7/ENC_7-748.jpeg" />
+<milestone unit="column" n="1" />
+&amp; on le choisit plûtôt qu&#39;un autre, parce qu&#39;en peu
+d&#39;années il devient fort gros, &amp; fort garni de feuilles 
+&amp; de branches auxquelles on fait prendre telle
+forme &amp; telle situation qu&#39;on veut. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

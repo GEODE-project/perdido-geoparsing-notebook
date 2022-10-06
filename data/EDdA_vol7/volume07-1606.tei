@@ -1,0 +1,165 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29060" id="51:235:67" vol="7">
+<index type="head" value="Garde des Sceaux aux Contrats" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde des Sceaux aux Contrats</head>
+<p>
+<sc>Garde des Sceaux aux Contrats</sc>, sont
+ceux qui ont la <i>garde</i> du petit sceau dont on scelle les
+actes passés devant notaires &amp; tabellions royaux.
+</p>
+<p>
+Anciennement c&#39;étoit le juge qui scelloit les contrats 
+de même que les jugemens, parce que les contrats 
+sont censés passés sous son autorité, &amp; que les
+notaires n&#39;étoient considérés que comme les greffiers 
+du juge pour la jurisdiction volontaire.
+</p>
+<p>
+Dans la suite les sceaux furent joints au domaine
+&amp; donnés à ferme ; au moyen de quoi, le scel des
+contrats aussi-bien que des jugemens, fut remis au
+<pb n="7:509" facs="V7/ENC_7-509.jpeg" />
+<milestone unit="column" n="1" />
+fermier du sceau, lequel par lui ou son commis,
+scelloit tous les jugemens &amp; contrats.
+</p>
+<p>
+En 1568, Charles IX. créa dans toutes les jurisdictions 
+royales des <i>gardes des sceaux</i>, tant pour les
+contrats que pour les sentences.
+</p>
+<p>
+Ces offices furent supprimés par édit du mois de
+Novembre 1696, qui créa en même tems des offices
+de conseillers-<i>garde-scels</i>, pour faire la même fonction.
+</p>
+<p>
+Mais par une déclaration du 18 Juin 1697, Louis
+XIV. desunit les offices &amp; droits de <i>gardes-scels</i> des
+contrats &amp; actes des notaires &amp; tabellions royaux,
+de ceux des sentences &amp; actes des jurisdictions royales,
+pour être vendus séparément.
+</p>
+<p>
+L&#39;exécution de cette déclaration ayant souffert plusieurs 
+difficultés de la part des notaires &amp; tabellions
+royaux, il y eut d&#39;abord une déclaration du mois
+d&#39;Avril 1697, qui desunit l&#39;office de <i>garde-scel aux
+contrats</i> de celui de <i>garde scel</i> aux sentences, pour la
+ville &amp; prevôté de Paris, &amp; créa vingt notaires au
+châtelet, qui auroient seuls droit de sceller tous les
+actes ; mais la communauté acheta ces vingt charges:
+au moyen de quoi tous les notaires de Paris sont
+<i>garde-scels</i>, &amp; ont droit de sceller eux-mêmes les actes 
+qu&#39;ils reçoivent.
+</p>
+<p>
+A l&#39;égard des <i>gardes-scels aux contrats</i> pour les autres 
+villes, par une autre déclaration du 17 Septembre
+1697, on rétablit tous les offices de <i>garde-scels des
+contrats</i> des notaires &amp; tabellions, qui avoient été
+supprimés par l&#39;édit du mois de Novembre précédent ; 
+à l&#39;exception de ceux de la ville de Paris, qui
+étoient déjà unis au corps des notaires. Ces offices
+de <i>garde-scels</i> ainsi rétablis, furent aussi unis au corps
+des notaires ; &amp; dans les lieux où les notaires ne
+formoient pas de communauté, le droit de <i>garde-scel</i>
+fut donné à chaque notaire en particulier : &amp; en conséquence 
+de cette union, la déclaration permet à
+tous notaires, dans les villes où il y a parlement ou
+autres siéges présidiaux, de prendre le titre de <i>conseiller du roi garde-scel</i>, soit qu&#39;ils ayent acheté les
+offices en commun ou en particulier ; de sorte que
+dans les lieux où la communauté n&#39;a pas acheté ces
+offices, il faut envoyer sceller l&#39;acte chez celui qui
+est <i>garde-scel</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

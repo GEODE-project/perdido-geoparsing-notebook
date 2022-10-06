@@ -1,0 +1,127 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28265" id="50:80:2" vol="7">
+<index type="head" value="Fraxinelle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharm. Mat. méd." />
+<index type="normclass" value="Pharmacie. Matière médicale" />
+<index type="englishclass" value="Pharmacy. Materia medica" />
+<index type="generatedclass" value="Matiere médicale" />
+<index type="pos" value="NA" />
+<head>Fraxinelle</head>
+<p>
+<sc>Fraxinelle</sc>, (<i>Pharm. Mat. méd.</i>) cette plante
+porte aussi le nom de <i>dictamne</i> dans les boutiques,
+mais il faut se ressouvenir-que les feuilles du dictamne 
+en matiere médicale, désignent toûjours les feuilles 
+du dictamne de Crete, &amp; que les racines du dictamne 
+désignent pareillement toûjours les racine,
+de notre <i>fraxinelle</i>. Leur emploi est moderne ; car
+on n&#39;en trouve aucune mention dans les écrits des
+Grecs &amp; des anciens Arabes.
+</p>
+<p>
+La partie d&#39;usage de la <i>fraxinelle</i> en fait de maladies,
+est donc sa racine, ou plûtôt l&#39;écorce de la racine 
+de cette plante. Cette écorce est assez épaisse,
+blanche, roulée comme la cannelle, d&#39;un goût un peu
+amer avec une legere acreté, d&#39;une odeur agréable
+&amp; forte lorsqu&#39;elle est récente.
+</p>
+<p>
+Toute la racine ainsi que l&#39;écorce, abonde d&#39;une
+huile essentielle subtile, &amp; d&#39;une portion considerable 
+de sel essentiel, qui approche du sel ammoniac:
+on lui attribue les qualités d&#39;être stimulante, apéritive,
+emménagogue, &amp; vermifuge. La dose est depuis 
+une dragme jusqu&#39;à trois en substance, &amp; jusqu&#39;à deux onces en fusion. Elle entre dans beaucoup
+de préparations officinales, connues par leur ridicule.
+</p>
+<p>
+On tire des fleurs de la <i>fraxinelle</i> des pays chauds,
+une eau distillée très-odoriférante, dont les dames
+italiennes se servent comme d&#39;un cosmétique également agréable &amp; innocent. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

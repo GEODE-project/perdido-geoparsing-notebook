@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28541" id="50:226" vol="7">
+<index type="head" value="FUMIGATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Chimie." />
+<index type="normclass" value="Chimie" />
+<index type="englishclass" value="Chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="s.f." />
+<head>FUMIGATION</head>
+<p>
+FUMIGATION, s. f. (<i>Chimie.</i>) est l&#39;action par laquelle 
+une vapeur corrode, dissout, ou pénetre un
+corps métallique dans la cémentation. <i>V. cet art.</i> On
+la distingue en seche &amp; en humide ; &amp; quelques auteurs,
+comme Cramer, donnent strictement le nom
+de <i>fumigation</i> à celle-là, &amp; de <i>vaporation</i> à celle-ci.
+La <i>fumigation</i> proprement dite ou <i>fumigation</i> seche,
+est donc l&#39;action d&#39;exposer à une fumée ou vapeur,
+comme menstrue capable de devenir concrete par
+elle-même, le corps auquel on veut faire subir quelque 
+changement ; comme quand on stratifie des lames 
+de fer avec des matieres contenant du phlogistique
+(<i>Voyez</i> 
+<sc><ref target="head:Fer" type="search">Fer</ref> <i>&amp;</i> <ref target="head:Acier," type="search">Acier,</ref> <i>&amp;</i> <ref target="head:Trempe en Paquet" type="search">Trempe en Paquet</ref></sc>
+); du cuivre avec de la calamine ou ses produits 
+(<i>Voyez</i> <sc><ref target="head:Cuivre" type="search">Cuivre</ref> <i>&amp;</i> <ref target="head:Laiton" type="search">Laiton</ref></sc>); du soufre &amp;
+de l&#39;arsenic au fer &amp; au cuivre. <i>Voyez</i> <sc><ref target="head:Vaporation" type="search">Vaporation</ref></sc>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29376" id="52:159:2" vol="7">
+<index type="head" value="Genouillere" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Artifice." />
+<index type="normclass" value="Artificier" />
+<index type="englishclass" value="Fireworks" />
+<index type="generatedclass" value="Artificier" />
+<index type="pos" value="NA" />
+<head>Genouillere</head>
+<p>
+<sc>Genouillere</sc>, (<i>Artifice.</i>) les <i>genouilleres</i> sont
+pour l&#39;artifice d&#39;eau, ce que les serpenteaux sont pour
+l&#39;artifice d&#39;air ; on les employe à garnir les pots à
+feu, les ballons d&#39;eau &amp; les barrils de trompe ; on les
+nomme aussi <i>dauphins</i> &amp; <i>canards ;</i> leur effet est de
+serpenter sur l&#39;eau, de s&#39;élancer à plusieurs reprises
+en l&#39;air, &amp; de finir par éclater avec bruit. On donne
+aux cartouches la longueur de neuf diametres intérieurs,
+non compris la gorge, &amp; on les charge sur
+une pointe de culot qui ait d&#39;épaisseur le quart du
+même diametre. Après trois charges de composition,
+on y met une demi-charge de poussier, &amp; ainsi en
+continuant de trois charges en trois charges, &amp; lorsqu&#39;on a atteint la hauteur du septieme diametre, on
+frappe un tampon sur la composition, on le perce
+avec le poinçon à arrêt, on met un peu de poussier
+dans le trou, &amp; on y verse de la poudre grainée ce
+qu&#39;il en peut tenir, en réservant de la place pour un
+tampon dont on la couvre, &amp; pour l&#39;étranglement.
+On attache ensuite le fourreau sur ce même bout de
+la fusée ; c&#39;est un cartouche vuide fort mince, de
+même grosseur que la fusée, &amp; fermé par un bout,
+soit par un étranglement, soit par un rond de carton 
+collé dessus : on le découpe par l&#39;autre bout en
+plusieurs languettes, on fait entrer la fusée dans cette
+partie découpée qui sert à couder le fourreau : cette
+coudure doit former un angle d&#39;environ cinquante
+degrés, on le lie dessus avec de gros fil, &amp; on colle
+une bande de papier sur la ligature ; le fourreau, non
+compris la ligature, doit avoir de longueur la moitié 
+de celle du cartouche, on les engorge &amp; on les
+amorce comme les jets.
+</p>
+<p>
+Tout artifice d&#39;eau doit être enduit de suif pour
+empêcher l&#39;eau de le pénétrer. On fait fondre du
+suif, &amp; avec un gros pinceau de poil de porc, on en
+couvre entierement les <i>genouilleres</i>, elles sont alors
+en état d&#39;être employées en garnitures ou d&#39;être tirées 
+à la main.
+</p>
+<p>
+Le fourreau sert à soûtenir sur l&#39;eau la partie sur
+laquelle il est attaché; quant à la gorge elle est soûtenue 
+par le vuide qui se fait dans la fusée à mesure
+que la matiere enflammée en sort, la coudure du
+fourreau leur donne un mouvement inégal &amp; tortueux,
+&amp; le poussier dont on a mis une demi-charge, après trois charges de composition, les fait élancer en l&#39;air, lorsque le feu parvient à cette matiere.
+<i>Manuel de l&#39;artificier</i>.
+<milestone unit="column" n="0" />
+<gap type="table" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

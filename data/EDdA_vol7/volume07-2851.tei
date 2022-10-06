@@ -1,0 +1,148 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30305" id="55:5:7" vol="7">
+<index type="head" value="Greffiers du premier Chirurgien du Roi" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Greffiers du premier Chirurgien du Roi</head>
+<p>
+<sc>Greffiers du premier Chirurgien du Roi</sc>,
+sont des officiers nommés par le premier chirurgien
+du roi, tant dans les communautés de Chirurgiens,
+que dans celles de Barbiers-Perruquiers-Baigneurs,
+&amp; Etuvistes, pour y tenir le registre des réceptions
+&amp; celui des délibérations.
+</p>
+<p>
+L&#39;établissement de ces <i>greffiers</i> est aussi ancien que
+celui des lieutenans du premier chirurgien du roi ;
+ils furent supprimés dans les provinces du royaume
+par l&#39;édit du mois de Février 1692, qui, en créant
+deux chirurgiens royaux dans chaque communauté,
+ordonna qu&#39;ils feroient alternativement chacun pendant 
+une année la fonction de <i>greffiers</i>-receveurs &amp;
+gardes des archives.
+</p>
+<p>
+L&#39;édit du mois de Septembre 1723 a depuis rétabli
+le premier chirurgien dans le droit de nommer des
+lieutenans &amp; <i>greffiers</i> dans toutes les villes où il y a
+archevêché, évêché; par les chambres des comptes,
+cour des aides, bailliage ou sénéchaussée ressortissans 
+uniment aux cours de parlement, &amp; l&#39;exécution 
+de cet édit a été ordonnée par une déclaration
+du 3 Septembre 1736.
+<pb n="7:927" facs="V7/ENC_7-927.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Suivant les nouveaux statuts des chirurgiens des
+provinces du 14 Février 1720, &amp; ceux des barbiers-perruquiers 
+du 6 Février 1725, tous les anciens
+registres, titres, &amp; papiers de chaque communauté
+sont enfermés dans un coffre ou armoire fermant à
+trois clés, dont le <i>greffier</i> en a une. Les registres courans 
+des réceptions &amp; délibérations restent pendant
+trois ans entre ses mains.
+</p>
+<p>
+Ce sont eux qui sont toutes les expéditions, copies,
+&amp; extraits que l&#39;on tire sur les registres, titres
+&amp; papiers de la communauté.
+</p>
+<p>
+Ceux qui sont nommés pour remplir la fonction
+de <i>greffier</i> dans les communautés de chirurgiens, joüissent 
+de l&#39;exemption de logement de gens de guerre,
+de collecte, guet &amp; garde, tutele, curatelle, &amp; autres 
+charges de ville, &amp; publique. <i>Voyez les statuts
+imprimés avec les notes</i> de M. d&#39;Olblen, secrétaire de
+M. le premier chirurgien du roi. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

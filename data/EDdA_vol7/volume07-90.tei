@@ -1,0 +1,253 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27543" id="48:50" vol="7">
+<index type="head" value="FOND, &amp; au pluriel fonds" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Dumarsais" />
+<index type="shortauth" value="Dumarsais" />
+<index type="kafnum" value="43" />
+<index type="kafauth" value="Du Marsais, César Chesneau (1676-1756)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Grammaire" />
+<index type="pos" value="s.m." />
+<head>FOND</head>
+<p>
+FOND, s. m. &amp; au pluriel <i>fonds</i>. Ce mot a plusieurs 
+acceptions analogues entre elles, tant au propre 
+qu&#39;au figuré.
+</p>
+<p>
+<i>Fond</i> signifie premierement la partie la plus basse
+d&#39;un tout. Le <i>fond</i> d&#39;un puits, le <i>fond</i> d&#39;une riviere,
+le <i>fond</i> de la mer, de <i>fond en comble</i>, c&#39;est-à-dire
+de bas en-haut ; (on prononce de <i>font-en-comble</i>, ce
+qui fait voir qu&#39;il faut écrire <i>fond</i> au singulier sans <i>s</i>)
+le <i>fond</i> du panier. Bâtir dans un <i>fond</i>, c&#39;est bâtir dans
+un lieu bas : il faut mettre un <i>fond</i> à ce tonneau,
+c&#39;est-à-dire qu&#39;il y faut ajoûter des douves qui serviront 
+de <i>fond</i>.
+</p>
+<p>
+Le <i>fond</i> des forêts, le <i>fond</i> d&#39;une allée ; il s&#39;est retiré
+dans le <i>fond</i> d&#39;une solitude, dans le <i>fond</i> d&#39;un cloître.
+</p>
+<p>
+2°. <i>Fond</i> signifie aussi <i>profondeur ;</i> ce haut-de-chausse n&#39;a pas assez de <i>fond</i>, c&#39;est-à-dire de profondeur.
+La digestion se fait dans le <i>fond</i> de l&#39;estomac ; un fossé 
+à <i>fond</i> de cuve est un fossé sec &amp; escarpé des deux
+côtés, à l&#39;imitation d&#39;un vase : on dit familierement 
+<i>déjeuner à fond de cuve</i>, c&#39;est-à-dire <i>amplement</i>. En terme de jeu on dit <i>aller à fond</i>, pour dire
+écarter autant de cartes qu&#39;on peut en prendre dans
+le talon. En terme de Marine, le <i>fond</i> de cale est la
+partie la plus basse du vaisseau ; c&#39;est celle où l&#39;on
+met les provisions &amp; les marchandises.
+</p>
+<p>
+<i>Prendre fond</i>, c&#39;est jetter l&#39;ancre : <i>couler à fond</i> se
+dit dans le sens propre d&#39;un vaisseau qui se remplit
+d&#39;eau &amp; s&#39;enfonce. Or dit par figure d&#39;un homme,
+dont la fortune est renversée, qu&#39;il est <i>coulé à fond</i>.
+</p>
+<p>
+On dit encore, en terme de Marine, <i>donner fond</i>,
+c&#39;est-à-dire <i>jetter l&#39;ancre</i>. On sonde quelquefois sans
+trouver <i>fond</i>. Un bon <i>fond</i> dans le sens propre, en
+terme de Marine, veut dire <i>un bon ancrage</i>, c&#39;est-à-dire que le <i>fond</i> de la mer se trouve propre à retenir 
+l&#39;ancre : <i>bas-fond</i> est un endroit de la mer où il
+y a peu d&#39;eau, où l&#39;eau est basse.
+</p>
+<p>
+Il y a des carrosses à deux <i>fonds</i>. On dit par métaphore 
+le <i>fond</i> de l&#39;ame, le <i>fond</i> d&#39;une affaire ; ce
+qu&#39;il y a de plus caché, ce qui fait le noeud de la difficulté: on dit aussi en ce sens le <i>fond du sac</i>.
+</p>
+<p>
+On dit qu&#39;il ne faut point qu&#39;on sache le <i>fond</i> de
+notre bourse, pour dire ce que nous avons de biens
+ou d&#39;argent.
+</p>
+<p>
+<i>A fond</i>, c&#39;est-à-dire pleinement ; il a parlé <i>à fond</i>
+de, <i>&amp;c.</i> Connoître <i>à fond</i>, c&#39;est connoître l&#39;origine,
+la vie, l&#39;esprit, la conduite, &amp; les moeurs de quelqu&#39;un.
+</p>
+<p>
+<i>Au fond</i>, sorte d&#39;adverbe de raisonnement, pour
+dire <i>au reste</i>, si l&#39;on veut bien y faire attention.
+</p>
+<p>
+3°. <i>Fond</i> se prend aussi dans le sens propre pour le
+terrein, pour ce qui sert de base. On a planté ces arbres 
+dans un bon <i>fond ;</i> un bon <i>fond</i> de terre. On ne
+doit pas bâtir sur le <i>fond</i> d&#39;autrui. On dit d&#39;un seigneur 
+qu&#39;il est riche en <i>fonds</i> de terre, <i>in fundis terroe ;</i> en sorte que, selon M. Ménage, <i>fonds</i> est alors
+au pluriel.
+<pb n="7:52" facs="V7/ENC_7-52.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le <i>fond</i> d&#39;un tableau, c&#39;est ce qui sert comme de
+base &amp; de champ aux figures ; c&#39;est ainsi que l&#39;on dit
+que le <i>fond</i> du damas est de taffetas, &amp; que les fleurs
+sont de satin.
+</p>
+<p>
+4°. <i>Fond</i> se dit par extension pour <i>propriété</i>, &amp;
+alors il est opposé à <i>usufruit:</i> la veuve n&#39;a que l&#39;usufruit 
+de son doüaire ; les enfans en ont le <i>fond</i> ou
+la propriété.
+</p>
+<p>
+5°. <i>Fond</i> se dit par imitation d&#39;une somme d&#39;argent 
+qu&#39;on amasse &amp; qu&#39;on destine à certains usages.
+Faire un <i>fond</i> pour bâtir, pour joüer, <i>&amp;c.</i> On
+dit d&#39;un joüeur qu&#39;il est en <i>fond</i> ou en <i>fonds</i> au pluriel,
+pour dire qu&#39;il a de l&#39;argent comptant.
+</p>
+<p>
+<i>Fond</i>, dans le même sens, se dit pour le capital
+d&#39;une somme d&#39;argent : aliéner son <i>fond</i> à la charge
+d&#39;une rente qui tient lieu de fruits. Quand on donne
+de l&#39;argent à rente viagere, pour en retirer un denier 
+plus fort, on dit qu&#39;on l&#39;a placé <i>à fond perdu</i>.
+</p>
+<p>
+6°. <i>Fond</i> se dit aussi par figure des choses spirituelles,
+comme on le dit d&#39;étendue. Un <i>fond</i> d&#39;esprit, de
+bon sens, de vertu, de probité, <i>&amp;c.</i>
+</p>
+<p>
+On dit <i>faire fond</i> sur quelqu&#39;un ou sur quelque chose,
+y compter, s&#39;en croire assûré. L&#39;abbé de Bellegarde dit qu&#39;il ne faut pas toûjours <i>faire fond</i> sur les
+personnes qui se répandent en témoignages extérieurs 
+de politesse.
+</p>
+<p>
+M. de Vaugelas, <i>remarques, tom. II. pag. 314.</i> dit
+que <i>fond</i> &amp; <i>fonds</i> sont deux choses différentes ; car
+<i>fond</i> sans <i>s</i>, dit-il, se dit en latin <i>hoc fundum</i>, c&#39;est
+la partie la plus basse de ce qui contient, comme le
+<i>fond</i> du tonneau, le <i>fond</i> du verre : mais <i>fonds</i> avec
+un <i>s</i> se dit en latin <i>hic fundus ;</i> &amp; c&#39;est proprement la
+terre qui produit des fruits, &amp; par figure tout ce qui
+rapporte du profit. Mais le docte Ménage desaprouve
+ce sentiment de Vaugelas ; il ne connoît en latin que
+<i>fundus</i>, &amp; ajoûte que si l&#39;on dit, <i>il n&#39;y a point de
+fonds</i>, c&#39;est qu&#39;alors <i>fonds</i> est au pluriel, <i>nulli sunt
+fundi</i>.
+</p>
+<p>
+Il est vrai que quelques-uns de nos dictionnaires
+ont adopté <i>fundum, i</i>, mais c&#39;est sans autorité, <i>fundum</i> n&#39;est que l&#39;accusatif de <i>fundus</i>. Danet &amp; le pere
+Joubert ne reconnoissent que <i>fundus</i>.
+</p>
+<p>
+Quoique le thrésor d&#39;Etienne mette <i>fundum, i</i>,
+après Laurent Valle, dit l&#39;auteur du Novitius, cependant 
+ni l&#39;un ni l&#39;autre n&#39;en apportent aucune autorité.
+</p>
+<p>
+Martinius dit qu&#39;on trouve <i>fundum</i> &amp; <i>fundus</i> dans
+Calepin &amp; dans quelques autres dictionnaires : <i>sed
+de primo nullum exemplum, nec hoc fundum apud idoneos 
+autores reperias</i>.
+</p>
+<p>
+Faber, dans son thrésor, ne met que <i>fundus</i>, &amp;
+ajoûte, comme s&#39;il vouloit répondre à Vaugelas:
+<i>non audiendi sunt grammatici &amp; lexicographi recentiores,
+qui inter fundus &amp; fundum distinguunt, ut fundus
+de agro, fundum de imo cujusque rei dicatur ; neque verò
+id exemplis probari potest</i>.
+</p>
+<p>
+Je me suis peut-être trop étendu sur un article
+aussi peu important ; je finis par ces paroles de Thomas Corneille, dans sa <i>note sur la remarque de Vaugelas, tom. II. pag. 316.</i>
+<blockquote> 
+« Je suis ici du sentiment de
+M. Ménage, &amp; cela me fait écrire <i>fond</i> sans <i>s</i>, &amp;
+jamais <i>fonds</i>, à-moins que ce mot ne soit au pluriel ».
+</blockquote>
+(<i>F</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

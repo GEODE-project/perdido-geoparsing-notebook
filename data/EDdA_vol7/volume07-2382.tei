@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29836" id="53:256:1" vol="7">
+<index type="head" value="Gonfalonier" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Histoire moderne" />
+<index type="pos" value="NA" />
+<head>Gonfalonier</head>
+<p>
+<sc>Gonfalonier</sc>, (<i>Hist. mod.</i>) chef du gouvernement 
+de Florence, dans le tems que cet état étoit
+républicain. Il y a encore à Sienne trois <i>gonfaloniers</i>
+ou capitaines, qui commandent chacun à un des
+trois quartiers de la ville. La république de Lucques
+est gouvernée par un <i>gonfalonier</i> choisi d&#39;entre les
+nobles. Il n&#39;est que deux mois en charge ; il a une
+garde de cent hommes, &amp; loge dans le palais de la
+république. On lui donne pour adjoints dans l&#39;administration 
+des affaires, neuf conseillers dont le pouvoir 
+ne dure que deux mois comme le sien ; mais ni
+lui ni eux ne peuvent rien entreprendre d&#39;important
+sans la participation &amp; l&#39;aveu du grand-conseil qui
+est composé de vingt six citoyens. Le magistrat de
+police de Sienne conserve aussi le titre de <i>gonfalonier</i>, &amp; porte pour marque de sa dignite une robe
+ou manteau d&#39;écarlate, par-dessus un habit noir ; son
+autorité est fort bornée depuis que les dues de Toscane n&#39;ont laissé à cette ville qu&#39;une legere ombre
+de son ancienne autorité. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

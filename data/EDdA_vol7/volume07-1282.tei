@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28736" id="51:71:19" vol="7">
+<index type="head" value="Gages intermédiaires" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gages intermédiaires</head>
+<p>
+<sc>Gages intermédiaires</sc>, sont ceux qui ont
+couru depuis le décès ou résignation du dernier titulaire,
+jusqu&#39;au jour des provisions du nouvel officier.
+Avant la vénalité des offices, on ne parloit
+point de <i>gages intermédiaires ;</i> les <i>gages</i> n&#39;étant donnés 
+que pour le service de l&#39;officier, ne couroient
+jamais que du jour de sa réception, &amp; même seulement 
+du jour que l&#39;officier avoit commencé d&#39;entrer
+en exercice. Mais depuis que les offices ont été rendus 
+vénaux, &amp; qu&#39;on leur a attribué des <i>gages</i>, lesquels 
+abusivement ont été considérés plûtôt comme
+un fruit de l&#39;office, que comme une récompense du
+service de l&#39;officier ; l&#39;usage a introduit que pour ces
+sortes d&#39;offices, les <i>gages</i> courent du jour des provisions,
+&amp; l&#39;on a appellé <i>gages intermédiaires</i>, comme
+on vient de le dire, ceux qui courent entre le décès 
+ou résignation du dernier titulaire, &amp; les provisions 
+du nouvel officier.
+</p>
+<p>
+On entend aussi quelquefois par <i>gages intermédiaires</i>, ceux qui ont couru entre les provisions &amp; la réception.
+</p>
+<p>
+On ne paye point au nouvel officier les <i>gages intermédiaires</i> sans lettres de chancellerie, qu&#39;on appelle 
+<i>lettres d&#39;intermédiat ;</i> &amp; à la chambre des comptes,
+où l&#39;on suit scrupuleusement les anciens usages,
+on ne passe point encore purement &amp; simplement 
+les <i>intermédiats de gages</i> d&#39;officiers d&#39;entre les
+provisions &amp; la réception ; si la difficulté en est faite
+au bureau, on laisse ordinairement cette partie en
+souffrance ; ce qui oblige l&#39;officier de recourir aux
+lettres de rétablissement. <i>Voyez</i> ce que dit Loyseau,
+<i>tr. des offices, liv. I. ch. viij. n°. 56 &amp; suiv</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

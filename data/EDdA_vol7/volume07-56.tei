@@ -1,0 +1,289 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27509" id="48:27" vol="7">
+<index type="head" value="FOLIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Lefebvre5" />
+<index type="shortauth" value="Lefebvre" />
+<index type="kafnum" value="70" />
+<index type="kafauth" value="Lefebvre, or Lefevre, André (1718-1768)" />
+<index type="attribution" value="attributed" />
+<index type="class" value="Morale." />
+<index type="normclass" value="Morale" />
+<index type="englishclass" value="Ethics" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="s.f." />
+<head>FOLIE</head>
+<p>
+FOLIE, s. f. (<i>Morale.</i>) S&#39;écarter de la raison, sans
+le savoir, parce qu&#39;on est privé d&#39;idées, c&#39;est être
+<i>imbécille ;</i> s&#39;écarter de la raison le sachant, mais à
+regret, parce qu&#39;on est esclave d&#39;une passion violente,<gap type="hyphenpb" />
+<pb n="7:43" facs="V7/ENC_7-43.jpeg" />
+<milestone unit="column" n="1" />
+c&#39;est être <i>foible:</i> mais s&#39;en écarter avec confiance,
+&amp; dans la ferme persuasion qu&#39;on la suit, voilà, ce me
+semble, ce qu&#39;on appelle <i>étre fou</i>. Tels sont du moins
+ces malheureux qu&#39;on enferme, &amp; qui peut-être ne
+different du reste des hommes, que parce que leurs
+<i>folies</i> sont d&#39;une espece moins commune, &amp; qu&#39;elles
+n&#39;entrent pas dans l&#39;ordre de la société.
+</p>
+<p>
+Mais puisque la <i>folie</i> n&#39;est qu&#39;une privation, pour
+en acquérir des idées plus distinctes, tâchons de
+connoître son contraire. Qu&#39;est-ce que la raison?
+Ce qu&#39;on appelle ainsi, au-moins dans un sens contraire 
+à la <i>folie</i>, n&#39;est autre chose en général que la
+connoissance du vrai ; non de ce vrai que l&#39;auteur
+de la nature a réservé pour lui seul, qu&#39;il a mis loin
+de la portée de notre esprit, ou dont la connoissance 
+exige des combinaisons multipliées ; mais de ce
+vrai sensible, de ce vrai qui est à la portée de tous
+les hommes, &amp; qu&#39;ils ont la faculté de connoître,
+parce qu&#39;il leur est nécessaire, soit pour la conservation 
+de leur être, soit pour leur bonheur particulier,
+soit pour le bien général de la société.
+</p>
+<p>
+Le vrai est physique ou moral : le vrai physique
+consiste dans le juste rapport de nos sensations avec
+les objets physiques, ce qui arrive quand ces objets 
+nous affectent de la même maniere que le reste
+des hommes : par exemple, c&#39;est une <i>folie</i> que d&#39;entendre 
+les concerts des anges comme certains enthousiastes,
+ou de voir, comme dom Quichotte, des
+géans au lieu de moulins à vent, &amp; l&#39;armée d&#39;Alifanfaron ; au lieu d&#39;un troupeau de moutons.
+</p>
+<p>
+Le vrai moral consiste dans la justesse des rapports 
+que nous voyons, soit entre les objets moraux,
+soit entre ces objets &amp; nous. Il résulte de-là que
+toute erreur qui nous entraîne est <i>folie</i>. Ce sont donc
+de véritables <i>folies</i> que tous les travers de notre esprit,
+toutes les illusions de l&#39;amour propre, &amp; toutes 
+nos passions, quand elles sont portées jusqu&#39;à l&#39;aveuglement ; 
+car l&#39;aveuglement est le caractere distinctif 
+de la <i>folie</i>. Qu&#39;un homme commette une action
+criminelle, avec connoissance de cause, c&#39;est un scélérat ; 
+qu&#39;il la commette, persuadé qu&#39;elle est juste,
+c&#39;est un <i>fou</i>. Ce qu&#39;on appelle dans la société <i>dire</i> ou
+<i>faire des folies</i>, ce n&#39;est pas être <i>fou</i>, car on les donne
+pour ce qu&#39;elles sont. C&#39;est peut-être sagesse, si l&#39;on
+veut faire attention à la foiblesse de notre nature.
+Quelque haut que nous fassions sonner les avantages 
+de notre raison, il est aisé de voir qu&#39;elle est
+pour nous un fardeau pénible, &amp; que, pour en soulager 
+notre ame, nous avons besoin de tems-en-tems au moins de l&#39;apparence de la <i>folie</i>.
+</p>
+<p>
+La <i>folie</i> paroit venir quelquefois de l&#39;altération
+de l&#39;ame qui se communique aux organes du corps,
+quelquefois du dérangement les organes du corps
+qui influe sur les opérations de l&#39;ame ; c&#39;est ce qu&#39;il
+est fort difficile de démêler. Quelle qu&#39;en soit la cause,
+les effets sont les mêmes.
+</p>
+<p>
+Suivant la définition que j&#39;ai donnée de la <i>folie</i> physique 
+&amp; morale, il y a mille gens dans le monde,
+dont les <i>folies</i> sont vraiment physiques, &amp; beaucoup
+dans les maisons de force qui n&#39;ont que des <i>folies</i>
+morales. N&#39;est-ce pas, par exemple, une <i>folie</i> physique 
+que celle du malade imaginaire?
+</p>
+<p>
+Tout excès est <i>folie</i>, même dans les choses loüables.
+L&#39;amitié, le desintéressement, l&#39;amour de la
+gloire, sont des sentimens loüables, mais la raison
+doit y mettre des bornes ; c&#39;est une <i>folie</i> que d&#39;y sacrifier 
+sans nécessité sa réputation, sa fortune, &amp; son
+bonheur.
+</p>
+<p>
+Quelquefois néanmoins cet excès est vertu, quand
+il part d&#39;un principe de devoir généralement reconnu.
+C&#39;est qu&#39;alors l&#39;excès n&#39;est pas réel ; car si le
+principe est tel qu&#39;il ne soit pas permis de s&#39;en écarter, il ne peut plus y avoir d&#39;excès. En retournant à
+<milestone unit="column" n="2" />
+Carthage, Régulus fut un homme vertueux, il ne
+fut pas un <i>fou</i>.
+</p>
+<p>
+Quelquefois aussi on regarde comme vertu un excès 
+réel, quand il tient à un motif louable : c&#39;est
+qu&#39;alors on ne fait attention qu&#39;au motif, &amp; au petit
+nombre de gens capables de si beaux excès.
+</p>
+<p>
+Souvent l&#39;excès est relatif soit à l&#39;âge, soit à l&#39;état,
+soit à la fortune. Ce qui est <i>folie</i> dans un vieillard 
+ne l&#39;est pas dans un jeune homme ; ce qui est
+<i>folie</i> dans un état médiocre &amp; avec une fortune bornée,
+ne l&#39;est pas dans un rang élevé ou avec une
+grande fortune.
+</p>
+<p>
+Il y a des choses où la raison ne se trouve que
+dans un juste milieu, les deux extrèmes sont également <i>folie ;</i> il y a de la <i>folie</i> à tout condamner comme 
+à tout approuver, c&#39;est un <i>fou</i> que le dissipateur
+qui donne tout à ses fantaisies, comme l&#39;avare qui
+refuse tout à ses besoins ; &amp; le sybarite plongé dans
+les voluptés n&#39;est pas plus sensé que l&#39;hypocondriaque,
+dont l&#39;ame est fermée à tout sentiment de plaisir ; 
+il n&#39;y a de vrais biens sur la terre que la santé,
+la liberté, la modération des desirs, la bonne conscience.
+C&#39;est donc une <i>folie</i> du premier ordre que de
+sacrifier volontairement de si grands biens.
+</p>
+<p>
+Parmi nos <i>folies</i> il y en a de tristes, comme la mélancolie ; 
+d&#39;impétueuses, comme la colere &amp; l&#39;humeur ; 
+de douloureuses, comme la vengeance qui a
+toûjours devant les yeux un outrage imaginaire ou
+réel, &amp; l&#39;envie, pour qui tous les succès d&#39;autrui
+sont un tourment.
+</p>
+<p>
+Il y a des <i>fous</i> gais ; tels sont en général les jeunes
+gens : tout les intéresse, parce que tout leur est inconnu ; 
+tous leurs sentimens sont excessifs, parce
+que leur ame est toute neuve ; un rien les met au
+desespoir, mais un rien les transporte de joie ; ils
+manquent souvent de l&#39;aisance &amp; de la liberté, mais
+ils possedent un bien préférable à ceux-là: ils sont
+gais. <i>Folie</i> aimable, &amp; qu&#39;on peut appeller <i>heureuse</i>, puisque les plaisirs l&#39;emportent sur les peines ;
+<i>folie</i> qui passe trop vîte, qu&#39;on regrette dans un âge
+plus avancé, &amp; dont rien ne dédommage.
+</p>
+<p>
+Il est des <i>folies</i> satisfaisantes, sans être gaies ; telle
+est celle de beaucoup de gens à talens, sur-tout à
+petits talens. Ils attachent d&#39;autant plus d&#39;importance 
+à leur art, que dans la réalité il en a moins. Mais
+cette <i>folie</i> flate leur amour-propre ; elle a encore
+pour eux un autre avantage ; ils auroient peut-être
+été médiocres dans leur état, elle les y rend supérieurs,
+elle a même quelquefois reculé les limites
+de l&#39;art.
+</p>
+<p>
+Il est enfin des <i>folies</i> auxquelles on seroit tenté de
+porter envie. De cette espece est celle d&#39;un petit
+bourgeois, qui, par son travail &amp; par son économie, s&#39;étant acquis une aisance au-dessus de son état,
+en a conçu pour lui-même la plus sincere vénération.
+Ce sentiment éclate en lui dans son air, dans
+ses manieres, dans ses discours. Au milieu de ses amis
+il aime à faire le dénombrement de ce qu&#39;il possede.
+Il leur raconte cent fois, mais avec une satisfaction
+toûjours nouvelle, les détails les moins intéressans
+de sa vie &amp; de sa fortune. Dans l&#39;intérieur de sa
+maison il ne parle que par sentences ; il se regarde
+comme un oracle, &amp; est regardé comme tel par sa
+femme, par ses enfans, &amp; par les gens qui le servent.
+Cet homme-là assûrément est <i>fou</i>, car ni sa petite
+fortune, ni le petit mérite qui la lui a procurée, ne
+sont dignes de l&#39;admiration &amp; du respect qu&#39;ils lui
+inspirent ; mais cette <i>folie</i> ne fait tort à personne,
+elle amuse le philosophe qui en est spectateur ; &amp;
+pour celui qui la possede, elle est un vrai thrésor,
+puisqu&#39;elle fait son bonheur.
+</p>
+<p>
+Que si quelques uns de ces <i>fous</i> paroissoient pour
+la premiere fois chez une nation qui n&#39;eût jamais
+connu que la raison, il est vraissemblable qu&#39;on les
+<pb n="7:44" facs="V7/ENC_7-44.jpeg" />
+<milestone unit="column" n="1" />
+feroit enfermer. Mais parmi nous l&#39;habitude de les
+voir les fait supporter ; quelques-unes de leurs <i>folies</i>
+nous sont nécessaires, d&#39;autres nous sont utiles,
+presque toutes entrent dans l&#39;ordre de la société,
+puisque cet ordre n&#39;est autre chose que la combinaison 
+des <i>folies</i> humaines. Que s&#39;il en est quelques unes 
+qui y paroissent inutiles ou même contraires,
+elles sont le partage d&#39;un si grand nombre d&#39;individus,
+qu&#39;il n&#39;est pas possible de les en exclure. Mais
+elles ne changent pas de nature pour cela : chacun
+reconnoît pour <i>folie</i> celle qui n&#39;est pas la sienne, &amp;
+souvent la sienne propre, quand il la voit dans un
+autre.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

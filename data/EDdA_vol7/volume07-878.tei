@@ -1,0 +1,165 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28332" id="50:109:27" vol="7">
+<index type="head" value="Freres de la Charité" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="hist. ecclés." />
+<index type="normclass" value="Histoire ecclésiastique" />
+<index type="englishclass" value="Ecclesiastical history" />
+<index type="generatedclass" value="Morale" />
+<index type="pos" value="NA" />
+<head>Freres de la Charité</head>
+<p>
+<sc>Freres de la Charité</sc>, (<i>hist. ecclés.</i>) c&#39;est le
+nom d&#39;un ordre de religieux institué-dans le xvj. siecle,
+&amp; qui se consacre uniquement au service des
+pauvres malades. Ces religieux, &amp; en général tous
+les ordres qui ont un objet semblable, sont sans contredit 
+les plus respectables de tous, les plus dignes
+d&#39;être protégés par le gouvernement &amp; considérés
+par les citoyens, puisqu&#39;ils sont précieux à la société 
+par leurs services en même tems qu&#39;ils le sont à la
+religion par leurs exemples. Seroit-ce aller trop
+loin que de prétendre que cette occupation est la
+seule qui convienne à des religieux? En effet, à quel
+autre travail pourroit-on les appliquer? A remplir
+les fonctions du ministere évangélique? mais les prêtres 
+séculiers, destinés par état à ce ministere, ne
+sont déjà que trop nombreux, &amp; par bien des raisons,
+doivent être plus propres à cette fonction que
+des moines : ils sont plus à portée de connoître les
+vices &amp; les besoins des hommes ; ils ont moins de
+maîtres, moins de préjugés de corps, moins d&#39;intérêt 
+de communauté &amp; d&#39;esprit de parti. Appliquera-t-on
+les religieux à l&#39;instruction de la jeunesse? mais
+ces mêmes préjugés de corps, ces mêmes intérêts de
+communauté ou parti, ne doivent-ils pas faire craindre 
+que l&#39;éducation qu&#39;ils donneront ne soit ou dangereuse,
+ou tout au moins puérile ; qu&#39;elle ne serve
+même quelquefois à ces religieux de moyen de gouverner,
+ou d&#39;instrument d&#39;ambition, auquel cas ils
+seroient plus nuisibles que nécessaires? Les moines
+s&#39;occuperont-ils à écrire? mais dans quel genre?
+l&#39;histoire? l&#39;ame de l&#39;histoire est la vérité; &amp; des
+hommes si chargés d&#39;entraves, doivent être presque 
+toûjours mal à leur aise pour la dire, souvent
+réduits à la taire, &amp; quelquefois forcés de la déguiser.
+L&#39;éloquence &amp; la poésie latine? le latin est
+une langue morte, qu&#39;aucun moderne n&#39;est en état
+d&#39;écrire, &amp; nous avons assez en ce genre de Ciceron, de Virgile, d&#39;Horace, de Tacite, &amp; des autres.
+<milestone unit="column" n="2" />
+Les matieres de goût? ces matieres pour être traitées
+avec succès, demandent le commerce du monde,
+commerce interdit aux religieux. La Philosophie?
+elle veut de la liberté, &amp; les religieux n&#39;en ont point.
+Les hautes sciences, comme la Géométrie, la Physique, <i>&amp;c?</i> elles exigent un esprit tout entier, &amp;
+par conséquent ne peuvent être cultivées que foiblement 
+par des personnes voüées à la priere. Aussi
+les hommes <i>du premier ordre</i> en ce genre, les Boyle,
+les Descartes, les Viete, les Newton, <i>&amp;c.</i> ne sont
+point sortis des cloîtres. Reste les matieres d&#39;érudition : ce sont celles auxquelles la vie sédentaire des
+religieux les rend plus propres, qui demandent d&#39;ailleurs 
+le moins d&#39;application, &amp; souffrent les distractions 
+plus aisément. Ce sont aussi celles où les religieux 
+peuvent le mieux réussir, &amp; où ils ont en effet
+réussi le mieux. Cette occupation, quoique sort inférieure 
+pour des religieux au soulagement des malades 
+&amp; au travail des mains, est au moins plus utile 
+que la vie de ces reclus obscurs absolument perdus 
+pour la société. Il est vrai que ces derniers religieux 
+paroissent suivre le grand précepte de l&#39;évangile,
+qui nous ordonne d&#39;abandonner pour Dieu
+notre pere, notre mere, notre famille, nos amis &amp;
+nos biens. Mais s&#39;il falloit prendre ces mots à la lettre,
+soit comme précepte, soit même comme conseil, chaque 
+homme seroit obligé, ou au-moins seroit bien
+de s&#39;y conformer ; &amp; que deviendroit alors le genre
+humain? Le sens de ce passage est seulement qu&#39;on
+doit aimer &amp; honorer l&#39;être supreme par dessus toutes
+choses ; &amp; la maniere la plus réelle de l&#39;honorer, c&#39;est
+de nous rendre le plus utiles qu&#39;il est possible à la société 
+dans laquelle il nous a placés. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

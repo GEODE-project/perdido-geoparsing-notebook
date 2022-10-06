@@ -1,0 +1,156 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30022" id="54:17:1" vol="7">
+<index type="head" value="Grace" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Droit politiq." />
+<index type="normclass" value="Droit politique" />
+<index type="englishclass" value="Political law" />
+<index type="generatedclass" value="Théologie" />
+<index type="pos" value="NA" />
+<head>Grace</head>
+<p>
+<sc>Grace</sc>, (<i>Droit politiq.</i>) pardon, rémission, accordée 
+par le souverain à un ou à plusieurs coupables.
+</p>
+<p>
+Le droit de faire <i>grace</i> est le plus bel attribut de la
+souveraineté. Le prince, loin d&#39;être obligé de punir
+toûjours les fautes punissables, peut faire <i>grace</i> par
+de très-bonnes raisons ; comme, par exemple, s&#39;il
+revient plus d&#39;utilité du pardon, que de la peine ;
+si le coupable ou les coupables ont rendu de grands
+services à l&#39;état ; s&#39;ils possedent des qualités éminentes ; si certaines circonstances rendent leurs fautes
+plus excusables ; s&#39;ils sont en grand nombre ; s&#39;ils ont
+été séduits par d&#39;autres exemples ; si la raison particuliere 
+de la loi n&#39;a point lieu à leur égard : dans
+tous ces cas &amp; autres semblables, le souverain peut
+faire <i>grace</i>, &amp; il le doit toûjours pour le bien public,
+parce que l&#39;utilité publique est la mesure des peines ;
+&amp; lorsqu&#39;il n&#39;y a point de fortes raisons au souverain
+de faire la <i>grace</i> entiere, il doit pencher à modérer
+sa justice.
+</p>
+<p>
+A plus forte raison, le prince dans une monarchie 
+ne peut pas juger lui-même ; s&#39;il le vouloit, la
+constitution de l&#39;état seroit détruite : les pouvoirs
+intermédiaires dépendans seroient anéantis ; la crainte 
+s&#39;empareroit de tous les coeurs ; on verroit la pâleur 
+&amp; l&#39;effroi sur tous les visages, &amp; personne ne
+sauroit s&#39;il seroit absous, ou s&#39;il recevroit sa <i>grace:</i>
+c&#39;est une excellente remarque de l&#39;auteur de l&#39;esprit
+des lois. Lorsque Louis XIII. ajoûte-t-il pour la confirmer,
+voulut être juge dans le procès du duc de la
+Valette, le président de Bellievre déclara,
+<blockquote> 
+« qu&#39;il
+voyoit dans cette affaire une chose inoüie, un
+prince songer à opiner au procès d&#39;un de ses sujets ;
+que les rois ne s&#39;étoient reservés que les <i>graces</i>, &amp;
+renvoyoient toûjours les condamnations vers leurs
+officiers : votre majesté, continua-t-il, voudroit-elle 
+voir sur la sellette un homme devant elle, qui
+par son jugement iroit dans une heure à la mort?
+que bien au contraire, la vûe seule des rois portoit 
+les <i>graces</i>, &amp; levoit les interdits des églises ».
+</blockquote>
+Concluons que le throne est appuyé sur la clemence
+comme sur la justice. <i>Voyez-en</i> les preuves <i>au mot</i>
+<sc><ref target="head:Clémence" type="search">Clémence</ref></sc>.
+</p>
+<p>
+La rigueur de la justice est entre les mains des juges ; 
+la faveur ou le droit de pardonner appartient
+au monarque ; s&#39;il punissoit lui-même, son aspect seroit 
+terrible ; si sa clémence n&#39;avoit pas les mains
+liées, son autorité s&#39;aviliroit. Il faut, je l&#39;avoue, des
+exemples de sévérité pour contenir le peuple ; mais
+il en faut également de bonté pour affermir le throne.
+Si le monarque ne se fait pas aimer, il ne regnera 
+pas long-tems, ou son long regne ne sera que plus
+détesté. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,101 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29161" id="52:8:2" vol="7">
+<index type="head" value="Garrot" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Argenville" />
+<index type="shortauth" value="d&#39;Argenville" />
+<index type="kafnum" value="6" />
+<index type="kafauth" value="Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jardinage." />
+<index type="normclass" value="Jardinage" />
+<index type="englishclass" value="Gardening" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="s.m." />
+<head>Garrot</head>
+<p>
+<sc>Garrot</sc>, s. m. (<i>Jardinage.</i>) c&#39;est un bâton fort
+court passé entre les deux branches d&#39;un jeune arbre,
+pour en contraindre une troisieme qui est au milieu,
+&amp; est le véritable montant de l&#39;arbre ; ce qui
+s&#39;appelle <i>garroter an arbre</i>. (<i>K</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

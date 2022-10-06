@@ -1,0 +1,182 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30490" id="55:98:1" vol="7">
+<index type="head" value="Groseille rouge" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie, Pharmac. &amp; Mat. med." />
+<index type="normclass" value="Chimie | Pharmacie | Matière médicale" />
+<index type="englishclass" value="Chemistry | Pharmaceuticals | Materia medica" />
+<index type="generatedclass" value="Pharmacie" />
+<index type="pos" value="NA" />
+<head>Groseille rouge</head>
+<p>
+<sc>Groseille rouge</sc>, (<i>Chimie, Pharmac. &amp; Mat.
+med.</i>) ce fruit contient un suc aigrelet fort agréable
+au goût &amp; legerement parfumé, qui appartient à la
+classe des corps doux végétaux dont il occupe une
+division caractérisée par l&#39;excès d&#39;acide avec le citron,
+l&#39;orange, l&#39;épine-vinette, <i>&amp;c. Voyez</i> <sc><ref target="head:Doux" type="search">Doux</ref> <i>&amp;</i> <ref target="head:Muqueux" type="search">Muqueux</ref></sc>.
+</p>
+<p>
+Le suc de <i>groseille</i> un peu rapproché par le feu, ou
+mêlé d&#39;un peu de sucre, acquiert facilement la consistence 
+de gelée : on en obtient une belle, tremblante,
+&amp; de garde, en le mêlant au sucre à parties égales ; ensorte qu&#39;on ne conçoit point comment on
+pourroit en préparer un sirop qui demanderoit qu&#39;on
+employât une plus grande quantité de sucre, &amp; que
+le mêlange restât cependant sous une consistence liquide.
+On peut donc avancer sans témérité que le
+sirop de <i>groseille</i> qu&#39;on trouve au rang des compositions 
+officinales dans plusieurs pharmacopées, est
+une préparation impossible, du moins si on employe
+le suc récent ; car l&#39;on peut aisément préparer un sirop 
+avec ce suc altéré par la fermentation acéteuse
+qui est la seule dont il soit susceptible. <i>Voyez</i> <sc><ref target="head:Muqueux" type="search">Muqueux</ref> <i>&amp;</i> <ref target="head:Vin" type="search">Vin</ref></sc>. Mais alors on a un sirop de vinaigre
+plûtôt que de <i>groseille. Voyez</i> <sc><ref target="head:Vinaigre" type="search">Vinaigre</ref></sc>.
+</p>
+<p>
+On peut employer l&#39;acide de la <i>groseille</i> comme
+celui de l&#39;épine-vinette à saturer les alkalis terreux,
+tels que le corail, les yeux d&#39;écrevisse, <i>&amp;c. Voyez</i>
+<sc><ref target="head:Corail" type="search">Corail</ref></sc>, <i>voyez aussi</i> <sc><ref target="head:Yeux d&#39;écrevisse" type="search">Yeux d&#39;écrevisse</ref></sc>.
+</p>
+<p>
+On prépare un rob avec ce suc, mais on le conserve 
+plus ordinairement sous la forme de gelée.
+<i>Voyez</i> <sc><ref target="head:Rob" type="search">Rob</ref> <i>&amp;</i> <ref target="head:Gelée" type="search">Gelée</ref></sc>.
+</p>
+<p>
+Ce suc étendu de trois ou quatre parties d&#39;eau &amp;
+édulcoré avec suffisante quantité de sucre, est connu
+sous le nom d&#39;<i>eau de groseille</i>. Le goût agréable de
+cette boisson l&#39;a fait passer de la boutique de l&#39;apotiquaire 
+à celle du limonadier : comme la gelée a
+cessé bien-tôt d&#39;être un remede officinal pour devenir 
+une confiture très-agréable qu&#39;on sert journellement 
+sur les meilleures tables, &amp; dont les bons bourgeois 
+du vieux tems font seuls un remede domestique.
+</p>
+<p>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Cette gelée est un excellent analeptique ; elle
+convient très-bien dans les convalescences des maladies 
+aiguës, &amp; sur-tout après les siévres putrides
+&amp; bilieuses ; elle fournit un aliment leger, tempérant,
+&amp; véritablement rafraîchissant. <i>Voyez</i> <sc><ref target="head:Tempérant" type="search">Tempérant</ref> <i>&amp;</i> <ref target="head:Rafraîchissant" type="search">Rafraîchissant</ref></sc>.
+</p>
+<p>
+L&#39;eau de <i>groseille</i> prise à grandes doses est rafraîchissante 
+&amp; humectante ; elle convient dans les chaleurs 
+d&#39;entrailles, les coliques bilieuses &amp; néphrétitiques,
+certaines diarrhées (<i>voyez</i> <sc><ref target="head:Diarrhée" type="search">Diarrhée</ref></sc>), les
+digestions fongueuses, &amp; toutes les autres incommodités 
+comprises sous le nom général d&#39;<i>échauffement. Voyez</i> <sc><ref target="head:Echauffement" type="search">Echauffement</ref></sc>. Cette boisson est absolument 
+analogue avec la limonade. <i>Voyez</i> <sc><ref target="head:Citron" type="search">Citron</ref> <i>&amp;</i> <ref target="head:Limonade" type="search">Limonade</ref></sc>. On peut la donner pour boisson 
+ordinaire dans certaines fievres ardentes &amp; putrides ; 
+mais dans ce cas, il faut la faire très-legere,
+&amp; l&#39;employer avec beaucoup de circonspection,
+principalement lorsqu&#39;on craint l&#39;inflammation des
+visceres du bas-ventre.
+</p>
+<p>
+Il ne faut point donner de l&#39;eau de <i>groseille</i> aux
+personnes qui ont l&#39;estomac foible, facile à être agacé,
+ni à ceux qui sont sujets aux rhumes, à la toux,
+&amp; qui ont la poitrine délicate ; car selon une observation 
+constante, les acides affectent particulierement 
+ces organes, &amp; excitent la toux tant pectorale
+que stomacale.
+</p>
+<p>
+Geoffroy rapporte, d&#39;après Hanneman cité par
+Donat, <i>lib. II. Medic. septentrions.</i> que l&#39;usage trop
+continué des <i>groseilles</i> a causé la consomption ; &amp;
+d&#39;après George Hannaeus, qu&#39;un homme étoit attaqué 
+de l&#39;enchifrenement aussi-tôt qu&#39;il avoit avalé
+deux grappes de <i>groseilles</i> rouges. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

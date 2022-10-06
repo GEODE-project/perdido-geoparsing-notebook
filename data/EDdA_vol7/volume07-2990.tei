@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30444" id="55:65" vol="7">
+<index type="head" value="GRIMPEREAU" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Orn." />
+<index type="normclass" value="Ornithologie" />
+<index type="englishclass" value="Ornithology" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GRIMPEREAU</head>
+<p>
+GRIMPEREAU, s. m. <i>picus varius minor</i>, (<i>Orn.</i>)
+oiseau qui ressemble beaucoup à l&#39;épeiche par sa figure 
+&amp; par son plumage, mais qui est beaucoup plus
+petit. Il ne pese pas une once. Il a près de six pouces 
+depuis l&#39;extrémité du bec jusqu&#39;au bout de la
+queue, &amp; près d&#39;onze pouces d&#39;envergure. La queue
+est composée de dix plumes, &amp; a deux pouces de
+longueur ; les quatre plumes du milieu sont les plus
+longues &amp; les plus fermes, elles ont une couleur
+noire, &amp; l&#39;extremité du tuyau est un peu recourbée 
+en-dedans, &amp; appuie contre les arbres pour soûtenir 
+l&#39;oiseau lorsqu&#39;il grimpe le long des troncs ou
+des branches verticales : les autres plumes de la
+queue sont en partie noires &amp; en partie blanches.
+La gorge, la poitrine &amp; le ventre sont d&#39;un blanc
+sale. Il y a du brun au-delà des narines, du blanc sur
+le sommet de la tête, &amp; du noir sur l&#39;occiput. Deux
+larges lignes blanches s&#39;étendent depuis les yeux jusqu&#39;au milieu du cou, où elles se joignent ; &amp; les côtés 
+de ces lignes sont terminés par du noir. Le commencement 
+du dos &amp; les petites plumes du haut de
+l&#39;aîle, sont noires ; les grandes plumes &amp; les autres
+petites plumes des aîles, sont parsemées de taches
+blanches qui ont la forme d&#39;un demi-cercle. Le milieu 
+du dos est blanc, avec des lignes noires transversales.
+Le mâle differe de la femelle, en ce qu&#39;il a
+le sommet de la tête rouge, &amp; non pas blanc. Willughby, <i>ornith. Voyez</i> 
+<sc><ref target="head:Epeiche" type="search">Epeiche</ref>, <ref target="head:Piochet" type="search">Piochet</ref>, <ref target="head:Oiseau" type="search">Oiseau</ref></sc>
+. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

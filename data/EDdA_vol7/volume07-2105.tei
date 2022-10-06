@@ -1,0 +1,163 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29559" id="53:66" vol="7">
+<index type="head" value="GIGUE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Musique." />
+<index type="normclass" value="Musique" />
+<index type="englishclass" value="Music" />
+<index type="generatedclass" value="Musique" />
+<index type="pos" value="s.f." />
+<head>GIGUE</head>
+<p>
+GIGUE, s. f. (<i>Musique.</i>) air qui se marque ordinairement 
+d&#39;un 6/8, qui se bat à deux tems inégaux
+&amp; vifs, &amp; qui commence ordinairement en levant.
+La <i>gigue</i> n&#39;est proprement qu&#39;une espece de loure
+dont le mouvement est accéléré. <i>Voyez</i> <sc><ref target="head:Loure" type="search">Loure</ref></sc>. Il y
+a même dans les anciens opéra françois des <i>gigues</i>
+designées par le mouvement 6/4 de la loure, comme
+dans le prologue de l&#39;opéra de Roland. La <i>gigue</i> est
+très-commune dans nos opéra, parce que cet air par
+sa vivacité &amp; son <i>sautillement</i> est très-propre à la
+danse ; on lui a même donné plus essentiellement ce
+caractere parmi nous par la maniere dont on l&#39;a souvent 
+noté. Chez les Italiens la mesure de la <i>gigue</i> est
+de six croches qui se passent de trois en trois ; la
+premiere plus vîte, la seconde un peu moins, la
+troisieme encore un peu moins. Chez nous, au lieu
+des trois croches on substitue trois autres notes équivalentes ; mais dont la premiere se passe très-vite,
+la seconde une fois moins, la troisieme deux fois
+moins : ce sont une double croche, une croche simple,
+&amp; une croche pointée. Par cette maniere de noter 
+&amp; de joüer, la <i>gigue</i> devient plus vive, d&#39;une
+mesure plus marquée &amp; plus propre pour la danse ;
+elle est aussi en cet état très-propre à recevoir des
+paroles gaies, &amp; quelquefois susceptible d&#39;une expression 
+très-heureuse. Telle est la <i>gigue</i> de <i>Thésée</i>
+chantée en duo par deux vieillards, <i>Pour le peu de
+bon tems qui nous reste</i>, &amp;c. Cet air, plein de caractere 
+&amp; de vérité, est bien préférable à un grand
+nombre d&#39;autres airs du même musicien qui n&#39;ont
+pas ce mérite, mais qu&#39;on admire encore chez nous
+par préjugé &amp; par habitude.
+</p>
+<p>
+Les Italiens font aussi beaucoup d&#39;usage de la <i>gigue</i>, même dans leurs pures symphonies ; &amp; on sait
+que Corelli entr&#39;autres a excellé dans ce genre. Mais
+ils ne bornent pas le mouvement de cet air à des
+sonates, ni même à des airs de chant gai ; ils l&#39;employent 
+quelquefois très-à-propos dans des airs vifs
+de différente espece, d&#39;amour, de fureur, de douleur 
+même. La maniere dont nous notons nos airs
+de <i>gigue</i>, ne les rend propres qu&#39;à rendre des paroles 
+gaies ; la petite différence dans la maniere de noter 
+des Italiens, les met à portée d&#39;exprimer par ce
+mouvement beaucoup plus que nous. Nous ne pouvons,
+il est vrai, nous persuader, graces à la finesse 
+de notre tact en Musique, &amp; aux modeles
+que nous en avons, qu&#39;un mouvement vif puisse
+exprimer autre chose que la joie, comme si une
+douleur vive &amp; furieuse parloit lentement. C&#39;est en
+conséquence de cette persuasion que les morceaux
+vifs du <i>Stabat</i>, exécutés gaiement au concert spirituel,
+ont paru des contre-sens à plusieurs de ceux
+qui les ont entendus. Nous pensons sur cet article 
+à-peu-près comme nous faisions il y a très-peu
+de tems sur l&#39;usage des cors-de-chasse. On sait, pour
+peu qu&#39;on ait entendu de beaux airs italiens pathétiques,
+l&#39;effet admirable que cet instrument y produit ; 
+avant cela nous n&#39;aurions jamais imaginé qu&#39;il
+pût être placé ailleurs que dans une fête de Diane.
+</p>
+<p>
+Au reste, pour en revenir à la <i>gigue</i>, comme elle
+se bat à deux tems, les François &amp; les Italiens l&#39;ont
+quelquefois marquée d&#39;un 2 au lieu d&#39;un 6/8, en y
+conservant d&#39;ailleurs la maniere de noter que nous
+avons dite. (<i>O</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

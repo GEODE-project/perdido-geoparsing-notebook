@@ -1,0 +1,131 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27761" id="49:46:3" vol="7">
+<index type="head" value="Forme" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Forme</head>
+<p>
+<sc>Forme</sc>, (<i>Jurispr.</i>) est la disposition que doivent
+avoir les actes ; c&#39;est un certain arrangement de
+clauses, de termes, de conditions &amp; de formalités.
+</p>
+<p>
+La <i>forme</i> des actes se rapporte, ou à leur rédaction 
+simplement, &amp; à ce qui peut les rendre probans 
+&amp; authentiques ; ou à ce qui habilite les personnes 
+qui disposent, comme l&#39;autorisation ; ou à la
+disposition des biens, comme l&#39;institution d&#39;héritier
+qui est nécessaire en pays de droit écrit pour la validité 
+du testament.
+</p>
+<p>
+Ce qui concerne la <i>forme</i> extérieure des actes se
+regle par la loi du lieu où ils sont passés ; c&#39;est ce que
+signifie la maxime <i>locus regit actum</i>.
+</p>
+<p>
+La <i>forme</i> qui tend à habiliter les personnes, dépend 
+de la loi de leur domicile.
+</p>
+<p>
+Enfin celle qui concerne la disposition des biens,
+dépend de la loi du lieu où ils sont situés.
+</p>
+<p>
+On confond souvent la <i>forme</i> d&#39;un acte avec les
+formalités ; cependant le terme de <i>forme</i> est plus général,
+car il embrasse tout ce qui sert à constituer
+l&#39;acte ; au lieu que les formalités proprement dites
+ne s&#39;entendent que de certaines conditions que l&#39;on
+doit remplir pour la validité de l&#39;acte, comme l&#39;insinuation,
+le contrôle. On distingue cependant aussi
+plusieurs sortes de formalités. <i>Voyez ci-devant</i> <sc><ref target="head:Formalités" type="search">Formalités</ref></sc>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

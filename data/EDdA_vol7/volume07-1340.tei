@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28794" id="51:98" vol="7">
+<index type="head" value="GAINE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Lutherie" />
+<index type="pos" value="s.f." />
+<head>GAINE</head>
+<p>
+* GAINE, s. f. <i>étui de plusieurs instrumens en acier
+ou autre métal ;</i> il se dit de presque toutes les pieces
+<milestone unit="column" n="2" />
+de coutelleries : on le disoit même autrefois des
+épées, &amp; de-là sont venus les termes de <i>dégaîner</i>, de
+<i>rengainer</i>, &amp; quelques autres qui sont en usage parmi
+les gens d&#39;épée.
+</p>
+<p>
+Le mot de <i>gaîne</i> a donné son nom à une des communautés 
+de Paris. <i>Voyez</i> <sc><ref target="head:Gainier" type="search">Gainier</ref></sc>.
+</p>
+<p>
+La <i>gaine</i> se fait avec des mandrins, de la forme de
+l&#39;instrument auquel on destine la <i>faîne</i>. On ajuste à
+la lime &amp; à la rape des éclisses sur ces mandrins,
+de la figure, longueur, largeur, épaisseur, concavité,
+convexité convenables ; on double ces éclisses
+en-dedans de papier ou de parchemin colorés &amp;
+quelquefois d&#39;étoffe ; on les fixe ensemble avec de la
+bonne colle-forte ; on les couvre en-dessus d&#39;un parchemin 
+sur lequel on colle de la peau, du chagrin,
+de la roussette, du chien-de-mer, <i>&amp;c.</i> Pendant tout
+ce travail, on tient le mandrin entre les éclisses, &amp;
+les éclisses fixées sur l&#39;une contre l&#39;autre &amp; sur le
+mandrin, par des cordes bien serrées, qu&#39;on ne détache 
+que quand on est assûré que les éclisses tiennent 
+fortement ensemble ; c&#39;est alors qu&#39;on applique
+la couverture à la <i>gaîne</i> ou à l&#39;étui. Cet art qui ne
+paroît rien &amp; qui est assez peu de chose en lui-même, demande une propreté, une habileté, une main-d&#39;oeuvre, &amp; une habitude particuliere. Avec ces talens,
+on fait des ouvrages très-agréables ; &amp; l&#39;on en
+a beaucoup à faire. Il y a peu de commerce plus
+étendu que la Gainerie.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

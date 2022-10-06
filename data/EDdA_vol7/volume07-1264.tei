@@ -1,0 +1,145 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28718" id="51:71:6" vol="7">
+<index type="head" value="Gage judiciaire ou judiciel" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Gage judiciaire</head>
+<p>
+<sc>Gage judiciaire</sc> <i>ou</i> <sc>judiciel</sc>, <i>pignus judiciale</i>,
+c&#39;est lorsque les biens d&#39;un homme sont saisis par autorité 
+de justice ; ils deviennent par-là obligés à la
+dette.
+</p>
+<p>
+Chez les Romains le <i>gage judiciel</i> étoit à-peu-près
+la même chose que le <i>gage prétorien ;</i> en effet Justinien les confond l&#39;un avec l&#39;autre dans la loi derniere,
+au code <i>de praetorio pignore : pignus</i>, dit-il, <i>quod à judicibus 
+datur quod &amp; proetorium nuncupatur ;</i> il y a cependant 
+plusieurs différences entre le <i>gage judiciel</i> &amp;
+le <i>gage</i> prétorien.
+</p>
+<p>
+Le <i>gage judiciel</i> proprement dit, étoit celui que
+l&#39;exécuteur ou appariteur prenoit par autorité de
+<milestone unit="column" n="2" />
+justice pour mettre la sentence à exécution. Loyseau
+le définit <i>quod in causam judicati ex bonis condemnati
+extra ordinem capit executor jussu &amp; autoritate magistratus ;</i> sur quoi il ajoûte que c&#39;étoit le magistrat qui
+avoit donné le juge, &amp; non pas le juge qui avoit
+rendu la sentence.
+</p>
+<p>
+On exécutoit une sentence en trois manieres ; ou
+par emprisonnement, <i>transactis justis diebus</i>, suivant
+la loi des 12 tables, &amp; c&#39;étoit la seule exécution connue 
+dans l&#39;ancien droit ; ou quand le débiteur étoit
+absent &amp; qu&#39;on ne pouvoit le prendre, on se mettoit
+en possession de ses biens <i>ex edicto praetoris</i>, ensuite on
+les faisoit vendre, ce qui notoit d&#39;infamie le debiteur.
+Depuis pour sauver au débiteur la rigueur de
+la prison ou de l&#39;infamie, on inventa une forme extraordinaire,
+qui fut de demander au magistrat un
+exécuteur ou appariteur pour mettre la sentence à
+exécution ; lequel <i>exigebat, capiebat, distrahebat &amp;
+addicebat bona condemnati secundum ordinem constitutionis 
+de pii</i>. c&#39;est-à-dire qu&#39;il faisoit commandement
+de payer, &amp; pour le refus saisissoit, puis ver doit &amp;
+adjugeoit d&#39;abord les meubles, ensuite les immeubles,
+&amp; en dernier lieu les droits &amp; actions. Cette
+façon d&#39;exécuter les sentences fut appellée <i>gage judiciel</i>.
+</p>
+<p>
+Pour connoître plus amplement la différence qu&#39;il
+y avoit entre le <i>gage judiciel</i> &amp; le <i>gage</i> prétorien, on
+peut voir ce qui est dit ci-après à <i>l&#39;article</i> <sc><ref target="head:Gage" type="search">Gage</ref>.
+<ref target="head:prétorien" type="search">prétorien</ref></sc>, &amp; ce qu&#39;en dit Loyseau, <i>tr. du déguerpissem.
+liv. III. ch. j. n°. 11</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

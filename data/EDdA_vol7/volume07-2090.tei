@@ -1,0 +1,398 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29544" id="53:53" vol="7">
+<index type="head" value="GIBIER" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Roy (Charles Georges)" />
+<index type="shortauth" value="Le Roy (Charles Georges)" />
+<index type="kafnum" value="75" />
+<index type="kafauth" value="Le Roy, Charles-Georges (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chasse." />
+<index type="normclass" value="Chasse" />
+<index type="englishclass" value="Hunting" />
+<index type="generatedclass" value="Chasse" />
+<index type="pos" value="s.m." />
+<head>GIBIER</head>
+<p>
+GIBIER, s. m. (<i>Chasse.</i>) c&#39;est en général tout ce
+qui est la proie du chasseur ; ainsi les loups, les renards,
+<i>&amp;c.</i> sont <i>gibier</i> pour ceux qui les chassent ; les
+buzes, les corneilles, sont <i>gibier</i> dans la Fauconnerie,
+<i>&amp;c.</i> Cependant ce nom est plus particulierement affecté 
+aux animaux sauvages qui servent à la nourriture
+de l&#39;homme. Si l&#39;on parle d&#39;une forêt bien peuplée
+de <i>gibier</i>, on veut dire qu&#39;il y a beaucoup de cerfs,
+de daims, de chevreuils, <i>&amp;c.</i> Une terre giboyeuse
+est celle où l&#39;on trouve abondamment des lievres,
+des lapins, des perdrix, <i>&amp;c.</i>
+</p>
+<p>
+La propriété des terres étant établie, il paroît que
+celle du <i>gibier</i> qu&#39;elles nourrissent devroit en être
+<milestone unit="column" n="2" />
+une suite : mais le droit naturel a depuis long-tems
+cédé à la force ; il est d&#39;usage presque par-tout que
+les seigneurs seuls ayent le droit de <i>giboyer</i>. A l&#39;égard
+du paysan il cultive la terre ; &amp; après des travaux
+pénibles, il voit dévorer par le <i>gibier</i> le grain qu&#39;il
+a semé sans pouvoir s&#39;y opposer, &amp; souvent sans
+oser s&#39;en plaindre. <i>Voyez</i> <sc><ref target="head:Chasse" type="search">Chasse</ref></sc>.
+</p>
+<p>
+La reserve de la chasse à la classe des nobles, a dû
+être une suite naturelle du gouvernement militaire.
+Les cultivateurs étoient serfs ; les nobles avoient en
+main l&#39;autorité &amp; la force : il leur falloit bien pendant 
+la paix un exercice indépendant, qui ne leur
+laissât pas oublier la guerre. Cette police est peut-être
+fort avantageuse en elle-même ; la liberté de chasser
+donnée à tout le monde, pourroit enlever beaucoup
+de bras à l&#39;Agriculture, qui déjà n&#39;en a pas assez.
+Mais ce qui ne peut être utile à rien, c&#39;est la conservation 
+d&#39;une excessive quantité de <i>gibier</i>, surtout
+des especes qui détruisent les récoltes. Quelques
+êtres accablés du poids de leur inutilité, pour se
+ménager des occasions de se fuir, font gémir sous
+le poids de l&#39;amertume &amp; de la misere, une foule
+d&#39;hommes respectables par leurs travaux &amp; leur honnêteté: mais en blâmant les goûts excessifs, nous devons 
+servir ceux qui sont raisonnables. La conservation 
+de certaines especes de <i>gibier</i> peut être agréable 
+&amp; utile sans beaucoup d&#39;inconvéniens. On en a
+fait un art qui a des regles, &amp; qui demande quelques
+connoissances. Nous allons dire ce qu&#39;il est essentiel
+de savoir là-dessus.
+</p>
+<p>
+Il y a plusieurs especes qui ne demandent que des
+soins ordinaires. La nature a destiné un certain nombre 
+d&#39;animaux à servir de nourriture à quelques autres ; 
+retranchez seulement les animaux carnassiers,
+vous porterez très loin la multiplication des autres:
+ainsi en détruisant les loups, vous aurez des cerfs,
+des chevreuils, <i>&amp;c.</i> faites périr les renards, les fouines,
+les belettes, <i>&amp;c.</i> vos bois se peupleront de lapins,
+vos plaines se couvriront de lievres, de maniere 
+à vous incommoder vous même. La destruction 
+des animaux carnassiers est donc le point le plus
+essentiel pour la conservation de toute espece de <i>gibier ;</i> &amp; le retranchement de ces animaux nuisibles,
+est un dédommagement du mal que le <i>gibier</i> peut
+faire lorsqu&#39;il n&#39;est pas excessivement abondant. La
+moindre négligence là-dessus rend inutiles tous les
+soins qu&#39;on pourroit prendre d&#39;ailleurs, &amp; cela demande 
+de la part de ceux qui en sont chargés beaucoup 
+d&#39;attention &amp; d&#39;habitude.
+</p>
+<p>
+Ce soin principal n&#39;est cependant pas le seul qu&#39;exigent 
+les especes de menu <i>gibier</i> qu&#39;on peut conserver 
+avec le moins d&#39;inconvéniens ; je parle des
+perdrix grises, des perdrix rouges &amp; des faisans.
+Nous avons donné la maniere de les élever familierement 
+pour en peupler promptement une terre.
+<i>Voyez</i> <sc><ref target="head:Faisanderie" type="search">Faisanderie</ref></sc>.
+</p>
+<p>
+Chacune de ces especes demande un pays disposé 
+d&#39;une maniere particuliere, &amp; des soins propres
+que nous allons indiquer séparement. En réunissant
+ces dispositions &amp; ces soins, on peut réunir &amp; conserver 
+les trois especes ensemble.
+</p>
+<p>
+Les perdrix grises se plaisent principalement dans
+les plaines fertiles, chaudes, un peu sablonneuses,
+&amp; où la récolte est hâtive. Elles fuyent les terres
+froides, ou du moins elles ne s&#39;y multiplient jamais
+à un certain point. Cependant si des terres naturellement 
+froides sont échauffées par de bons engrais,
+si elles sont marnées, <i>&amp;c.</i> l&#39;abondance des perdrix
+peut y devenir très-grande : voilà pourquoi les environs 
+de Paris en sont peuplés à un point qui paroit
+prodigieux. Tous les engrais chauds que fournit cette
+grande ville, y sont répandus avec profusion, &amp; il
+favorisent autant la multiplication du <i>gibier</i>, que la
+fécondité des terres. En supposant les mêmes soins,
+<pb n="7:659" facs="V7/ENC_7-659.jpeg" />
+<milestone unit="column" n="1" />
+les meilleures récoltes en grains donneront la plus
+grande quantité de <i>gibier</i>. C&#39;est donc souvent une
+mal-adresse de la part de ceux qui sont chargés de
+faire observer les regles des capitaineries, d&#39;y tenir
+la main avec trop de rigueur. Vous pourriez permettre 
+encore d&#39;arracher l&#39;herbe qui étouffe les blés ; si
+vous l&#39;empêchez, une récolte précieuse sera perdue,
+&amp; le blé fourré d&#39;herbe venant à se charger d&#39;eau &amp;
+à verser, inondra vos nids &amp; noyera vos perdreaux.
+</p>
+<p>
+La terre étant bien cultivée, les animaux destructeurs 
+étant pris avec soin, il faut encore pour la sûreté 
+&amp; la tranquillité des perdrix grises, qu&#39;une plaine 
+ne soit point nue, qu&#39;on y rencontre de tems en
+tems des remises plantées en bois, ou de simples buissons 
+fourrés d&#39;épines : ces remises garantissent la
+perdrix contre les oiseaux de proie, les enhardissent
+à tenir la plaine, &amp; leur font aimer celle qu&#39;elles habitent.
+Quand on n&#39;a pour objet que la conservation,
+il ne faut pas donner une grande étendue à ces remises ; 
+il vaut mieux les multiplier ; des buissons de six
+perches de superficie seroient très suffisans, s&#39;ils n&#39;étoient 
+placés qu&#39;à cent toises les uns des autres ; mais
+si l&#39;on a le dessein de retenir les perdrix après qu&#39;elles 
+ont été chassées &amp; battues dans la plaine, pour
+les tirer commodément pendant l&#39;hyver, on ne peut
+pas donner aux remises une étendue moindre que
+celle d&#39;un arpent. La maniere de les planter est différente 
+aussi, selon l&#39;usage qu&#39;on en veut faire. <i>Voyez</i>
+<sc><ref target="head:Remise" type="search">Remise</ref></sc>.
+</p>
+<p>
+On peut être sûr que dans un pays ainsi disposé &amp;
+gardé, on aura beaucoup de perdrix ; mais l&#39;abondance 
+étant une fois établie, il ne faut pas vouloit la
+porter à l&#39;excès. Il faut tous les ans ôter une partie des
+perdrix, sans quoi elles s&#39;embarrasseroient l&#39;une l&#39;autre 
+au tems de la ponte, &amp; la multiplication en seroit
+moindre. C&#39;est un bien dont on est contraint de jouir
+pour le conserver. La trop grande quantité de coqs
+est sur-tout pernicieuse. Les perdrix grises s&#39;apparient ; 
+les coqs surabondans troublent les ménages
+établis, &amp; les empêchent de produire : il est donc
+nécessaire que le nombre des coqs ne soit qu&#39;egal à
+celui des poules ; on peut même laisser un peu moins
+de coqs : quelques-uns se chargent alors de deux
+poules, &amp; leur suffisent ; elles pondent chacune dans
+un nid separé, mais fort près l&#39;une de l&#39;autre ; leurs
+petits éclosent dans le même tems, &amp; les deux familles 
+se réunissent en une compagnie sous la conduite 
+du pere &amp; des deux meres. Voilà ce qui concerne 
+la conservation des perdrix grises.
+</p>
+<p>
+Les rouges cherchent naturellement un pays disposé 
+d&#39;une maniere différente ; elles se plaisent dans
+les lieux élevés, secs &amp; pleins de gravier ; elles cherchent 
+les bois, sur-tout les jeunes taillis &amp; les fourrés 
+de toute espece. Dans les pays où la nature seule
+les a établies, on les trouve sur les bruyeres, dans
+les roches ; &amp; quand on n&#39;a d&#39;elles que des soins ordinaires,
+elles ne paroissent pas se multiplier beaucoup.
+Les perdrix rouges sont plus sauvages &amp; plus
+sensibles au froid que ne sont les grises : il leur faut
+donc plus de retraites qui les rassûrent, &amp; plus d&#39;abris 
+qui pendant l&#39;hyver les garantissent du vent &amp;
+du froid. Les perdrix grises ne quittent point la plaine
+lorsqu&#39;elles y sont en sûreté; elles y couchent &amp; sont
+pendant tout le jour occupées du soin de chercher à
+vivre. Les perdrix rouges ont des heures plus marquées 
+pour aller aux gagnages ; elles sortent le soir
+deux heures avant le soleil couchant ; le matin lorsque 
+la chaleur se fait sentir, c&#39;est-à-dire pendant l&#39;été
+vers neuf heures, elles rentrent dans les bois &amp; surtout 
+dans les taillis, que nous avons dit leur être nécessaires.
+Il faut donc que le pays où l&#39;on veut multiplier 
+les perdrix rouges, soit mêlé de bois &amp; de
+plaines ; il faut encore que ces plaines, quoique voisines 
+des bois, soient fourrées d&#39;un assez grand nombre<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de petites remises, de buissons, de haies, qui établissent la sûreté de ces oiseaux naturellement farouches.
+Si quelqu&#39;une de ces choses manque, les perdrix 
+rouges desertent. Les grises sont tellement attachées 
+au lieu où elles sont nées, qu&#39;elles y meurent
+de faim plûtôt que de l&#39;abandonner ; il n&#39;y a que la
+crainte extrème des oiseaux de proie qui les y oblige.
+Les perdrix rouges ont besoin d&#39;une sécurité plus
+grande ; si vous les faites partir souvent de leurs retraites,
+cet effroi répété les chassera, &amp; elles courront
+jusqu&#39;à ce qu&#39;elles ayent trouvé des lieux inaccessibles.
+On voit par-là que le projet de multiplier dans
+une terre les perdrix rouges à un certain point, entraîne 
+beaucoup de dépenses &amp; de soins, qui peuvent 
+&amp; doivent peut-être en dégoûter : c&#39;est un objet 
+auquel il faut sacrifier beaucoup, &amp; n&#39;en joüir
+que rarement. Les perdrix rouges s&#39;apparient comme 
+les grises, &amp; il est essentiel aussi que le nombre
+des coqs ne soit qu&#39;égal à celui des poules. On peut
+tuer les coqs dans le courant de l&#39;année, à coups de
+fusil : avec de l&#39;habitude, on les distingue des poules 
+en ce que celles-ci ont la tête &amp; le cou plus petits,
+&amp; la forme totale plus legere : si l&#39;on n&#39;a pas
+pri, cette précaution avant le tems de la ponte, il
+faut au-moins la prendre pendant ce tems pour l&#39;année 
+suivante. Des que les femelles couvent, elles
+sont aban données par les mâles, qui se réunissent en
+compagnies fort nombreuses. On les voit souvent
+vingt ensemble. On peut tirer hardiment sur ces
+compagnies ; s&#39;il s&#39;y trouve quelques femelles mêlées,
+ce sont de celles qui ont passé l&#39;âge de produire.
+Cette opération se doit faire depuis la fin de Juin
+jusqu&#39;à celle de Septembre : après cela, les vieilles
+perdrix rouges se mêlent avec les compagnies nouvelles,
+&amp; les méprises deviennent plus à craindre.
+</p>
+<p>
+Les faisans se plaisent assez dans les lieux humides ; 
+mais avec de l&#39;attention on peut en retenir partout 
+où il y a du bois &amp; du grain. Il faut aux faisans
+des taillis qui les couvrent, des arbres sur lesquels
+ils se perchent, des plaines fertiles qui les nourrissent,
+dans ces plaines des buissons qui les assûrent,
+&amp; autant que tout cela une tranquillité profonde,
+qui seule peut les fixer. Si je voulois peupler d&#39;une
+grande quantité de faisans un pays nud, je planterois 
+des bosquets de vingt arpens, à trois cents toises 
+les uns des autres. Ces bosquets seroient divisés 
+en quatre parties, dont chacune seroit coupée à
+l&#39;âge de seize ans, afin qu&#39;il y eût toûjours des taillis 
+fourrés &amp; dequoi percher. Les entre-deux de ces
+bosquets seroient cultivés comme la terre l&#39;est ordinairement ; 
+une partie seroit semée en blé; l&#39;autre
+en mars, pendant que le troisieme resteroit en jachere.
+Je voudrois outre cela planter à cent toises
+de chacun de ces grands bosquets, des buissons alongés 
+en haies, qui établiroient la sûreté des faisans
+dans la plaine ; &amp; ces buissons serviroient à les faire
+tuer. Le terrein ainsi disposé, on ne tourmenteroit
+jamais les faisans dans les grands bosquets dont j&#39;ai
+parlé; ils y trouveroient un asyle assûré, lorsqu&#39;on
+les auroit chassés à la faveur des buissons. Si vous
+faites partir deux ou trois fois les faisans, ils s&#39;effrayent 
+&amp; desertent. On espere en vain d&#39;en retenir
+beaucoup par-tout où l&#39;on chasse souvent. Ce seroit
+dans ces haies intermédiaires dont nous avons parlé,
+qu&#39;on donneroit à manger aux faisans pendant
+l&#39;hyver. L&#39;orge &amp; le sarrasin sont leur nourriture
+ordinaire ; ils sont très-friands des féverolles : on
+peut aussi leur planter des topinambours ; c&#39;est une
+espece de pomme de terre qu&#39;ils aiment, &amp; qui sert
+à les retenir, parce qu&#39;il leur faut beaucoup de tems
+pour la déterrer. Dès qu&#39;on s&#39;apperçoit que la campagne 
+ne fournit plus aux faisans beaucoup de nourriture ; 
+dès que les coqs commencent à s&#39;écarter, il
+faut leur jetter du grain : on ne leur en donne pas
+<pb n="7:660" facs="V7/ENC_7-660.jpeg" />
+<milestone unit="column" n="1" />
+beaucoup d&#39;abord ; mais en plein hyver il ne faut
+pas moins qu&#39;un boisseau mesure de Paris par jour,
+pour une centaine de faisans ; s&#39;il vient de la neige,
+il en faut davantage. Pendant la neige, la conservation 
+du <i>gibier</i> en général demande beaucoup d&#39;attention.
+</p>
+<p>
+Il faut découvrir le gason des prés pour les perdrix 
+grises. Pour cela on se sert de traîneaux triangulaires 
+qui doivent être fort pesans, &amp; armés pardevant 
+d&#39;une espece de soc de fer qui fende la neige.
+On y attele un ou deux chevaux, &amp; on attache sur
+le derriere, pour faire l&#39;office du balai, une bourrée
+d&#39;épines fort rudes, qu&#39;on a soin de charger. Il faut
+que des hommes balayent, le long des buissons au
+midi, des places, pour donner à manger aux perdrix 
+rouges. Il faut pour les faisans répandre dans
+différentes places du fumier, sur lequel on jette du
+grain. Il est nécessaire qu&#39;ils soient long-tems à le
+trouver. Si on ne le leur donnoit pas de cette maniere,
+il seroit dévoré sur le champ ; &amp; après cela leur
+oisiveté &amp; leur inquiétude naturelle les feroient deserter.
+Malgré tous ces soins on perd encore beaucoup 
+de faisans, sur-tout pendant les brouiliards qui
+sont fréquens à la fin de l&#39;automne. Voilà ce que nous
+connoissons de plus essentiel pour la conservation du
+<i>gibier</i>. Les détails de pratique ne peuvent point être
+écrits ; mais ils ne seront ignorés d&#39;aucun de ceux qui
+voudront s&#39;en instruire par l&#39;usage. Nous en avons
+peut-être trop dit, vû le peu d&#39;importance de la matiere.
+Le nombre de ceux qu&#39;intéresse la conservation 
+du <i>gibier</i>, ne peut pas être comparé à la foule
+d&#39;honnêtes gens qu&#39;elle tourmente. Nous ne devons
+pas finir sans avertir ceux-ci, qu&#39;en fumant leurs
+terres un peu plus, &amp; en semant leurs blés quinze
+jours plûtôt, les faisans &amp; les perdrix ne leur feront
+qu&#39;un leger dommage. A l&#39;égard des lievres &amp; des
+lapins, leur abondance fait un tort auquel il n&#39;y a
+point de remede ; on ne les multiplie qu&#39;aux dépens
+des autres especes de <i>gibier</i>, &amp; à la ruine des récoltes.
+Ce projet ne peut donc appartenir qu&#39;à des hommes 
+qui ont oublié ce qu&#39;ils sont, &amp; ce qu&#39;en cette
+qualité ils doivent aux autres. <i>Cet article est ce M. <sc>le
+Roy</sc>, Lieutenant des Chasses du parce de Versailles</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

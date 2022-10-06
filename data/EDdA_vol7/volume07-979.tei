@@ -1,0 +1,213 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28433" id="50:168" vol="7">
+<index type="head" value="FRONDE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Le Blond &amp; d&#39;Alembert" />
+<index type="shortauth" value="Le Blond &amp; d&#39;Alembert" />
+<index type="kafnum" value="68 &amp; 2" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781) &amp; Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. &amp; Méchan." />
+<index type="normclass" value="Histoire | Méchanique" />
+<index type="englishclass" value="History | Mechanics" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="s.f." />
+<head>FRONDE</head>
+<p>
+FRONDE, s. f. (<i>Hist. &amp; Méchan.</i>) instrument de
+corde &amp; à main, dont on se servoit autrefois dans
+les armées pour lancer des pierres, &amp; même des balles 
+de plomb avec violence.
+</p>
+<p>
+Pline prétend que les peuples de la Palestine sont
+les premiers qui se soient servies de la <i>fronde</i>, &amp; qu&#39;ils
+y étoient si exercés, qu&#39;ils ne manquoient jamais le
+but. Un passage de l&#39;Ecriture rapporté par le pere
+Daniel dans son <i>histoire de la Milice françoise</i>, prouve 
+leur adresse en ce genre. On trouve dans ce passage 
+qu&#39;il y avoit dans la ville de Gabaa sept cents
+frondeurs, qui tiroient si juste, qu&#39;ils auroient pû
+sans manquer toucher un cheveu, sans que la pierre
+jettée se fût détournée de part ou d&#39;autre<sup><ref type="note" target="n8" n="*" /></sup>.
+</p>
+<p>
+Les habitans des îles Baléares, aujourd&#39;hui Majorque &amp; Minorque, ont été aussi très-fameux chez les
+anciens, par leur habileté à se servir de cette arme.
+Dans les expéditions militaires ils jettoient, suivant
+Diodore de Sicile, de plus grosses pierres avec la
+<i>fronde</i> qu&#39;avec les autres machines de jet.
+<blockquote> 
+« Quand
+ils assiégent une place, dit cet auteur, ils atteignent
+aisément ceux qui gardent les murailles ; &amp; dans
+les batailles rangées ils brisent les boucliers, les
+casques, &amp; toutes les armes défensives de leurs
+ennemis. Ils ont une telle justesse dans la main,
+qu&#39;il leur arrive peu souvent de manquer leur coup.
+Ce qui les rend si forts &amp; si adroits dans cet exercice,
+continue ce même auteur, c&#39;est que les meres
+même contraignent leurs enfans quoique fort jeunes 
+encore, à manier continuellement la <i>fronde</i>.
+Elles leur donnent pour but un morceau de pain
+pendu au bout d&#39;une perche, &amp; elles les font demeurer 
+à jeun jusqu&#39;à ce qu&#39;ils ayent abattu ce pain ;
+elles leur accordent alors la permission de le manger ».
+</blockquote>
+Diodore de Sicile, <i>trad. de M. l&#39;abbé</i> Terrasson, <i>tom. II. pag. 217</i>.
+</p>
+<p>
+Vegece rapporte aussi à ce sujet que les enfans de
+ces îles ne mangeoient d&#39;autre viande que celle du
+gibier qu&#39;ils avoient abattu avec la <i>fronde</i>.
+</p>
+<p>
+Les frondeurs, conjointement avec les archers ou
+gens de trait, servoient à escarmoucher au commencement 
+du combat ; &amp; lorsqu&#39;ils avoient fait quelques 
+décharges ou qu&#39;ils étoient repoussés, ils se retiroient 
+derriere les autres combattans, en passant
+par les intervalles des troupes.
+</p>
+<p>
+Les Romains ainsi que les autres nations avoient
+des frondeurs dans leurs armées ; <i>voyez</i> <sc><ref target="head:Vélites" type="search">Vélites</ref></sc>.
+</p>
+<p>
+<blockquote> 
+« Nos peres, dit Vegece, se servoient de frondeurs
+dans leurs batailles. En effet des cailloux ronds lancés 
+avec force font plus de mal malgré les cuirasses 
+&amp; les armures, que n&#39;en peuvent faire toutes
+les fleches ; &amp; l&#39;on meurt de la contusion sans répandre 
+une goutte de sang. <i>Trad. de Vegece par M</i>».
+</blockquote>
+de Sigrais.
+</p>
+<p>
+Les Francois ont fait aussi usage de la <i>fronde</i> dans
+<milestone unit="column" n="2" />
+leurs armées. Ils ont même continué de s&#39;en servir
+long-tems après l&#39;invention de la poudre à canon.
+D&#39;Aubigné rapporte qu&#39;au siége de Sancere en 1572,
+les paysans huguenots refugiés dans cette ville s&#39;en
+servoient pour épargner la poudre.
+</p>
+<p>
+Selon Vegece, la portée de la <i>fronde</i> étoit de six
+cents pas. <i>Voyez ci-devant</i> <sc><ref target="head:Frondeurs" type="search">Frondeurs</ref></sc>. (<i>Q</i>)
+</p>
+<p>
+L&#39;effet de la <i>fronde</i> vient principalement de la force 
+centrifuge. La pierre qui tourne dans la <i>fronde</i> tend
+continuellement à s&#39;échapper par la tangente (<i>voyez</i>
+<sc><ref target="head:Centrifuge" type="search">Centrifuge</ref> <i>&amp;</i> <ref target="head:Force" type="search">Force</ref></sc>), &amp; tend la <i>fronde</i> avec une
+force proportionnelle à cette force centrifuge ; elle
+est retenue par l&#39;action de la main qui en faisant tourner 
+la <i>fronde</i>, s&#39;oppose à la sortie de la pierre ; &amp; elle
+s&#39;échappe par la tangente dès que l&#39;action de la main
+cesse. On trouve au <i>mot</i> <sc><ref target="head:Central" type="search">Central</ref></sc> des théoremes
+par lesquels on peut déterminer aisément la force
+avec laquelle une <i>fronde</i> est tendue, la vîtesse de la
+pierre étant donnée. Cette force est à la pesanteur de
+la pierre, comme le double de la hauteur d&#39;où la pierre 
+auroit dû tomber pour acquérir la vîtesse avec laquelle 
+elle tourne, est au rayon du cercle. <i>Voyez</i> aussi
+le <i>mot</i> <sc><ref target="head:Force" type="search">Force</ref></sc>. Il est bon de remarquer que la pesanteur 
+du corps altere un peu cette force de tendance,
+en la diminuant dans la partie supérieure du cercle,
+&amp; en la favorisant dans la partie inférieure ; il est bon
+de remarquer aussi que cette même pesanteur empêche 
+la vîtesse d&#39;être absolument uniforme, mais nous
+supposons ici, comme il arrive dans la <i>fronde</i>, que la
+pierre tourne avec une très-grande vîtesse, ensorte
+que l&#39;effet de la pesanteur puisse être regardé comme
+nul. (<i>O</i>)
+</p>
+<div2 type="notes">
+<note id="n8">
+(a) <i>Habitatores Gabaa, qui septingenti erant viri fortissimi....
+sic fundis lapides ad certum jactentes, ut capillum quoque possint
+percutere, &amp; nequaquam in alteram partem ictus lapidis deferretur.
+L. Jud. cap. xx.</i>
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

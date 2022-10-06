@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29473" id="52:211:1" vol="7">
+<index type="head" value="Germandrée ou Petit Chêne" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mat. med." />
+<index type="normclass" value="Matière médicale" />
+<index type="englishclass" value="Materia medica" />
+<index type="generatedclass" value="Matiere médicale" />
+<index type="pos" value="NA" />
+<head>Germandrée</head>
+<p>
+<sc>Germandrée</sc> <i>ou</i> <sc>Petit Chêne</sc>, (<i>Mat. med.</i>)
+cette plante doit être rangée dans la classe des amers
+aromatiques, &amp; être regardée par conséquent comme 
+tonique, stomachique, fortifiante, apéritive,
+vermifuge &amp; emménagogue. L&#39;expérience confirme 
+toutes ces propriétés. On la prescrit très-utilement dans les obstructions des visceres, la jaunisse,
+la suppression des regles, &amp; l&#39;hydropisie commençante.
+</p>
+<p>
+La <i>germandrée</i> passe pour spécifique contre la goutte.
+J&#39;ai connu un vieux medecin qui avoit été sujet
+de bonne-heure à cette maladie, &amp; qui prenoit de
+l&#39;infusion de <i>germandrée</i> tous les matins à jeun depuis
+quarante ans, dans la vûe d&#39;en éloigner au-moins &amp;
+<pb n="7:644" facs="V7/ENC_7-644.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;en modérer les accès, &amp; à qui l&#39;usage de ce remede 
+avoit réussi parfaitement.
+</p>
+<p>
+Elle a été vantée aussi contre les écroüelles, le
+scorbut &amp; les fievres rebelles.
+</p>
+<p>
+On ordonne les sommités de cette plante en infusion 
+dans de l&#39;eau, par pincées, à la facon de thé ;
+on les fait macérer aussi dans du vin blanc ; c&#39;est
+de ce dernier dissolvant dont on se sert quand on
+veut employer la <i>germandrée</i> contre la suppression
+des regles. On peut employer dans ce cas jusqu&#39;à
+deux poignées de feuilles &amp; de sommités par pinte
+de vin. Cette teinture que l&#39;on donne par cuillerée,
+est peu inférieure au vin d&#39;absynthe. <i>Voyez</i> <sc><ref target="head:Absynthe" type="search">Absynthe</ref></sc>.
+</p>
+<p>
+On fait un extrait de feuilles de <i>germandrée</i>, qu&#39;on
+ordonne depuis un gros jusqu&#39;à deux dans les cas exposés 
+ci-dessus.
+</p>
+<p>
+Cette plante entre dans les préparations suivantes 
+de la pharmacopée de Paris ; savoir le sirop d&#39;armoise 
+composé, l&#39;orviétan, l&#39;eau générale, la thériaque,
+l&#39;hiere de coloquinte, l&#39;huile de scorpion
+composée, &amp; la poudre arthritique amere. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28612" id="51:16:3" vol="7">
+<index type="head" value="Fuseau" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Villiers" />
+<index type="shortauth" value="Villiers" />
+<index type="kafnum" value="133" />
+<index type="kafauth" value="Villiers, Jacques-François de (1727-1790)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Chimie philosoph." />
+<index type="normclass" value="Chimie philosophique" />
+<index type="englishclass" value="Philosophical chemistry" />
+<index type="generatedclass" value="Chimie" />
+<index type="pos" value="NA" />
+<head>Fuseau</head>
+<p>
+<sc>Fuseau</sc>, (<i>Chimie philosoph.</i>) tuyau de verre,
+qui a pris son nom de sa figure ; on l&#39;appelle encore
+<milestone unit="column" n="2" />
+<i>alonge</i>, mais ce n&#39;en est qu&#39;une espece. C&#39;est un intermede 
+qu&#39;on employe dans les distillations à la retorte 
+où il est nécessaire de donner un degré de feu,
+qui ne manqueroit pas d&#39;échauffer un balon. Il est
+vrai que quand on se sert d&#39;un matras à long col, il
+est naturellement aussi éloigné du fourneau qu&#39;un
+balon avec son alonge ; mais il s&#39;échauffe encore
+plus que quand ce col est une piece séparée : &amp;
+d&#39;ailleurs ce col est plus fragile qu&#39;une alonge ; &amp;
+celle-ci se répare plus aisément, si elle vient à casser.
+<i>Voyez</i> <sc><ref target="head:Vaisseaux" type="search">Vaisseaux</ref></sc>, &amp; <i>nos <ref target="XPL:5190" type="platelink">Planches de Chimie</ref>. Article de M. de <sc>Villiers</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

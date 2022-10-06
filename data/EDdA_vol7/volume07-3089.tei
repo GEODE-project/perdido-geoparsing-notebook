@@ -1,0 +1,365 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30543" id="55:129" vol="7">
+<index type="head" value="GRURIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurispr." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.f." />
+<head>GRURIE</head>
+<p>
+GRURIE, s. f. (<i>Jurispr.</i>) est une jurisdiction qui
+connoit en premiere instance de toutes les contestations 
+qui peuvent s&#39;élever au sujet des eaux &amp; forêts
+de son ressort, &amp; des délits &amp; malversations qui peuvent 
+y être commis.
+</p>
+<p>
+Il y a des <i>gruries</i> royales, &amp; d&#39;autres seigneuriales.
+</p>
+<p>
+On appelle aussi <i>grurie</i> par rapport au roi, un droit
+qui se perçoit en quelques endroits à son profit sur
+les bois d&#39;autrui lors de la vente des coupes, à cause
+de la justice qu&#39;il fait exercer sur ces bois.
+</p>
+<p>
+Ailleurs ce droit est nommé <i>grairie, segrairie</i>, ou
+<i>segreage, tiers &amp; danger, gruage ;</i> tous ces différens noms
+sont synonymes, excepté que la quotité des droits
+qu&#39;ils désignent, n&#39;est pas communément la même ;
+le nom &amp; la quotité du droit dépendent de l&#39;usage
+des lieux.
+</p>
+<p>
+Quelques-uns tirent l&#39;étymologie de <i>grurie</i> &amp; de
+gruyer, <i>à gruibus</i>, à cause que ces animaux veillent
+la nuit, soutenant une pierre en l&#39;air avec leur pié.
+D&#39;autres font venir <i>grurie</i> du mot grec <foreign lang="greek">δρῦς</foreign>, qui signifie 
+<i>chêne</i> &amp; même tout autre arbre. Mais Pithou,
+sur l&#39;<i>article 181.</i> de la coûtume de Troyes, dit que
+<i>grurie</i> vient de <i>gru</i>, qui sign fioit autrefois toute sorte
+de fruits tant des forêts qu&#39;autres. En effet le droit de
+<i>grurie</i> dans son origine ne se levoit pas seulement sur
+les bois, il se levoit aussi sur les terres labourables ;
+comme il paroît par une charte de l&#39;an 1204, rapportée 
+par Duchesne en ses preuves de la maison de
+Montmorency, où il est parlé d&#39;un accord fait <i>super
+griaria tam in nemore quam in plano</i>. Ragueau en son
+<i>glossaire</i> dit qu&#39;il y a la <i>grurie</i> de charbon, dont on
+fait bail à Paris au profit du roi. Ducange tient que
+<i>grurie</i> vient de l&#39;allemand <i>gruen</i> ou <i>groen</i>, qui signifie 
+<i>viridis</i>, d&#39;où on a fait <i>viridarius ;</i> &amp; en effet les
+gruyers sont aussi appellés <i>verdiers</i> en plusieurs endroits.
+</p>
+<p>
+<milestone unit="column" n="2" />
+</p>
+<p>
+La <i>grurie</i> prise pour jurisdiction sur les eaux &amp; forêts,
+est un attribut naturel de la haute-justice. Avant
+que l&#39;on eût introduit les inféodations, les seigneurs
+qui avoient des hautes-justices, soit à cause de leurs
+aleux, ou à cause de leurs bénéfices civils, avoient
+droit de <i>grurie</i>. Ce ne fut que depuis l&#39;usage des inféodations 
+que la <i>grurie</i> fut démembrée de plusieurs hautes-justices, pour en former un fief séparé; ce qui arriva 
+dans les xj. &amp; xij. siecle, où l&#39;on donnoit en fief
+toutes sortes de choses, ainsi que le remarque M.
+Brussel, <i>usage des fiefs</i>.
+</p>
+<p>
+En Champagne la <i>grurie</i> étoit encore séparée de
+la haute-justice en l&#39;an 1317; comme il paroît par
+une contestation rapportée dans les registres <i>olim</i>,
+laquelle se mut entre le gruyer de Champagne &amp; le
+procureur dû comte palatin de Champagne &amp; de
+Brie. Le gruyer prétendoit avoir droit de chasse dans
+la garenne, dans les bois &amp; dans tout le territoire
+du village appellé <i>la Chapelle</i>, de nuit, de jour, à cor
+&amp; à cri, tant par lui-même que par ses gens ; d&#39;y
+prendre des bêtes de toute espece, de punir les délinquans,
+d&#39;en exiger des amendes quand le cas y
+échéoit. La contestation fut décidée en sa faveur
+après une enquête.
+</p>
+<p>
+La <i>grurie</i> de la forêt de la Cuisse est encore un fief
+héréditaire dans la personne du seigneur du Haroy.
+Ses titres lui donnent la qualité de <i>gruyer hérédital</i>,
+&amp; à son fief celle de <i>fief de la grurie</i> en ladite forêt.
+Les prérogatives de ce fief sont entre autres de mener 
+le roi quand il chasse dans cette forêt ; de pouvoir
+chasser lui-même dans tous les endroits de la forêt,
+son valet après lui portant une trousse de la gutte avec
+trois levriers &amp; trois petits chiens, &amp; un vautour sur
+le poing ; d&#39;y prendre toutes sortes de bêtes à pié
+rond ; &amp; en cas qu&#39;il en prenne à pié fourché, il en
+est quitte en avertissant le garde de la forêt : plus le
+pouvoir de sargenter, allant par ladite forêt à cheval
+ou à pié; de prendre 60 sous &amp; un denier sur les chevaux ; 
+en cas de confiscation de charrette &amp; chariots,
+de pouvoir mener un sergent en sa place ; d&#39;avoir
+droit de panage &amp; d&#39;herbage ; de prendre <i>la fille ou
+filles du chesne, tant pour adoire</i> que pour édifier, faire
+cuves, tonneaux, <i>&amp;c.</i> &amp; ce au haut du genou, à la
+serpe &amp; à la coignée ; comme aussi d&#39;ébrancher les
+chênes jusqu&#39;à la premiere fourche. <i>Voyez le droit
+public de</i> M. Bouquet, <i>tom. I. p. 331</i>.
+</p>
+<p>
+Miraumont cite une vieille loi de Louis &amp; de Clotaire, en laquelle il est parlé du droit de grurie, <i>jus
+gruariae</i>, &amp; où il est dit que l&#39;on institua des gruyers,
+verdiers, gardes des eaux &amp; forêts : <i>&amp; ne fraus fieret
+canoni, instituti praefecti, gruarii, viridarii, custodes
+silvarii, aliique quibus silvarum procuratio demandata ;</i>
+mais dans les justices des seigneurs, lorsque la <i>grurie</i>
+n&#39;en avoit point été démembrée, ou qu&#39;elle y avoit
+été réunie, elle en faisoit toûjours partie. <i>Voyez</i> M.
+Bouquet, <i>pag. 331</i>.
+</p>
+<p>
+Une ordonnance de Philippe-le-Bel de 1291, dit
+que les maîtres des eaux &amp; forêts, les gruyers, <i>gruerir</i>, &amp; forestiers, feront serment entre les mains de
+leurs supérieurs, en la forme qui avoit déjà été ordonnée.
+</p>
+<p>
+Les <i>gruries</i> avoient dès-lors l&#39;inspection sur les
+eaux, de même que sur les forêts : en effet Philippe V.
+ordonna en 1318 que les gruyers gouverneroient les
+eaux &amp; les viviers en la maniere accoûtumée ; que
+sous prétexte d&#39;aucun don ou mandement du roi, ils
+ne délivreroient à personne aucuns poissons du roi,
+jusqu&#39;à ce que tous ses viviers &amp; ses eaux fussent à
+plein publiés ; que quand les sergens des bois auroient
+compté de leurs prises &amp; des exploits des forêts, les
+gruyers leur feroient écroues de leur compte sous
+leurs sceaux ; enfin que les gruyers ne feroient aucunes 
+ventes, qu&#39;elles ne fussent mesurées.
+</p>
+<p>
+Les <i>gruries</i> royales furent érigées en titre d&#39;office
+<pb n="7:973" facs="V7/ENC_7-973.jpeg" />
+<milestone unit="column" n="1" />
+par édit du mois de Février 1554, &amp; rendues héréditaires 
+par édit du mois de Janvier 1583.
+</p>
+<p>
+Pour ce qui est des <i>gruries</i> seigneuriales, il n&#39;y en
+avoit anciennement que dans les terres des seigneurs
+qui avoient une concession particuliere du droit de
+<i>grurie</i>, auquel cas le seigneur commettoit un juge partieulier 
+pour exercer sa jurisdiction de la <i>grurie</i>. Il est
+fait mention de ces <i>gruries</i> seigneuriales dès l&#39;an 1380,
+&amp; il y en avoit même long-tems auparavant, ainsi
+qu&#39;on l&#39;a déjà observé. <i>Voyez ci-apr. le mot</i> <sc><ref target="head:Gruyer" type="search">Gruyer</ref></sc>.
+</p>
+<p>
+Les choses demeurerent dans cet état jusqu&#39;à l&#39;édit
+du mois de Mars 1707, par lequel le roi créa une <i>grurie</i> dans chaque justice des seigneurs ecclésiastiques &amp;
+laiques, pour faire dans l&#39;étendue de ces justices les
+mêmes fonctions qu&#39;exerçoient les gruyers du roi
+dans ses eaux &amp; forêts. L&#39;appel de ces <i>gruries</i> étoit
+porté aux maîtrîses.
+</p>
+<p>
+Les offices de ces nouvelles <i>gruries</i> n&#39;ayant pas été
+levés ; par une déclaration du mois de Mars 1708, ils
+furent réunis aux justices des seigneurs moyennant
+finance. Depuis ce tems, tous les seigneurs hauts-justiciers sont réputés avoir droit de <i>grurie</i> chacun dans
+l&#39;étendue de leur haute-justice, &amp; tous juges de seigneurs 
+sont gruyers.
+</p>
+<p>
+Mais les inconvéniens que l&#39;on trouva à laisser les
+gruyers des seigneurs seuls maîtres de la poursuite de
+toutes sortes de délits indistinctement, sur-tout dans
+les bois des gens de main-morte, donnerent lieu à la
+déclaration du 8 Janvier 1715, par laquelle il a été ordonné 
+que les officiers des eaux &amp; forêts du roi exerceront 
+sur les eaux &amp; forêts des prélats &amp; autres ecclésiastiques,
+chapitres &amp; communautés régulieres,
+séculieres &amp; laiques, la même jurisdiction qu&#39;ils exercent 
+sur les eaux &amp; forêts du roi, en ce qui concerne
+le fait des usages, délits, abus &amp; malversations qui
+s&#39;y commettent, sans qu&#39;il soit besoin qu&#39;ils ayent
+prévenu, ni qu&#39;ils en ayent été requis, encore que
+les délits n&#39;ayent pas été commis par les bénéficiers
+dans les bois dépendans de leurs bénéfices ; &amp; à l&#39;égard 
+des usages, abus &amp; malversations qui concernent 
+les eaux &amp; forêts qui appartiennent aux seigneurs
+laïques ou autres particuliers, il est dit que les officiers 
+des eaux &amp; forêts du roi en connoîtront pareillement 
+sans qu&#39;ils en ayent été requis, ni qu&#39;ils ayent
+prévenu, lorsque les propriétaires de ces eaux &amp; forêts 
+auront eux-mêmes commis les délits &amp; abus ;
+mais ils ne peuvent en prendre connoissance quand
+ils ont été commis par d&#39;autres, à-moins qu&#39;ils n&#39;en
+avent été requis &amp; qu&#39;ils n&#39;ayent prévenu les juges
+gruyers des seigneurs : enfin cette déclaration ordonne 
+que l&#39;appel des gruyers des seigneurs se relevera 
+directement à la table-de-marbre, comme
+avant l&#39;édit du mois de Mars 1707.
+</p>
+<p>
+Les bois tenus en <i>grurie</i> sont ceux qui sont soûmis 
+à la jurisdiction des officiers du roi, &amp; sur lesquels 
+il joüit de quelques droits, à cause de la justice 
+qu&#39;il y fait exercer. Les bois de cette qualité ne
+peuvent être vendus que par le ministere des officiers 
+du roi pour les eaux &amp; forêts, &amp; avec les mêmes 
+formalités que les bois &amp; forêts du roi.
+</p>
+<p>
+Dans tous les bois sujets aux droits de <i>grurie</i> ou
+<i>grairie</i>, la justice &amp; en conséquence tous les profits
+qui en procedent, tels que les amendes &amp; confiscations,
+appartiennent au roi ; ensemble la chasse,
+paisson &amp; glandée, privativement à tous autres, si
+ce n&#39;est qu&#39;à l&#39;égard de la paisson &amp; glandée il y eût
+titre au contraire.
+</p>
+<p>
+Le droit de <i>grurie</i> qu&#39;on appelle aussi en quelques
+endroits <i>grairie</i>, est une portion de la vente que le
+roi perçoit sur les bois d&#39;autrui, soit en argent ou en
+essence du meilleur bois.
+</p>
+<p>
+Dans la forêt d&#39;Orléans, le droit de <i>grurie</i> ou <i>grairie</i> est de deux sous parisis d&#39;une part du prix de la
+vente, &amp; de dix-huit deniers d&#39;autre.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Dans d&#39;autres endroits, comme dans la Beauce,
+le Gatinois &amp; le Hurepois, ce droit est de treize
+parts dans trente ; à Beaugency il est de la moitié,
+le quint du principal, &amp; toute l&#39;enchere qui se fait sur
+la publication de la vente faite par le tréfoncier.
+A Senlis, le roi a dans quelques bois le tiers ; dans
+d&#39;autres la moitié, dans d&#39;autres le quint &amp; le vingtieme,
+dans d&#39;autres le vingtieme seulement. A
+Chauny, il a le quart &amp; le quint. Au pays de Valois, il a le tiers dans les bois des tréfonciers. En
+Normandie &amp; dans quelques autres pays, le roi a le
+tiers &amp; danger, c&#39;est-à-dire le tiers &amp; le dixieme.
+<i>Voyez</i> 
+<sc><ref target="head:Danger" type="search">Danger</ref>, <ref target="head:Tiers et Danger" type="search">Tiers et Danger</ref></sc>
+</p>
+<p>
+Les parts &amp; portions que le roi prend lors de la
+coupe &amp; usance des bois sujets aux droits de <i>grurie</i>
+&amp; <i>grairie</i>, sont levées &amp; perçûes en espece ou argent,
+suivant l&#39;ancien usage de chaque maîtrise où
+ils sont situés.
+</p>
+<p>
+L&#39;ordonnance de Moulins défend de donner, vendre 
+ni aliéner en tout ou partie, les droits de <i>grurie</i>,
+ni même de les donner à ferme pour telle cause &amp;
+prétexte que ce soit. Ces défenses ont été renouvellées 
+par l&#39;ordonnance de 1669, au moyen dequoi
+ces droits ne peuvent être engagés ni affermés ; mais
+leur produit ordinaire est donné à recouvrer au receveur 
+des domaines &amp; bois.
+</p>
+<p>
+Les autres regles que l&#39;on observe pour les bois
+tenus en <i>grurie</i>, sont expliquées dans le titre 22 de
+la même ordonnance de 1669.
+</p>
+<p>
+L&#39;appel des <i>gruries</i> royales doit être relevé aux
+maîtrises du ressort ; au lieu que l&#39;appel des <i>gruries</i>
+seigneuriales, c&#39;est-à-dire des juges de seigneurs en
+matiere d&#39;eaux &amp; forêts, se releve directement en
+la table-de-marbre. <i>Voyez</i> Saint-Yon, <i>dans son commentaire,
+titre des bois tenus à tiers &amp; danger</i>, &amp; <i>la
+conference des eaux &amp; forêts, titre des gruyers &amp; tit. des
+bois tenus en grurie. Voyez ci-après</i> 
+<sc><ref target="head:Gruyer" type="search">Gruyer</ref></sc>, <i>&amp; ci-devant</i> 
+</p>
+<sc><ref target="head:Grairie" type="search">Grairie</ref></sc>. (<i>A</i>) 
+</div1>
+</body>
+</text>
+</TEI.2>

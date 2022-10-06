@@ -1,0 +1,165 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27683" id="48:98:13" vol="7">
+<index type="head" value="Forces vitales" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Thérapeut. Medicinale." />
+<index type="normclass" value="Thérapeutique médicinale" />
+<index type="englishclass" value="Medical treatment" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Forces vitales</head>
+<p>
+<sc>Forces vitales</sc>, (<i>Thérapeut. Médicinale.</i>) ce sont
+dans les malades quelques actions qui accompagnoient
+auparavant la santé, &amp; qu&#39;on peut pour cette raison
+regarder comme des restes de l&#39;état sain qui précédoit
+&amp; des effets de la vie présente : c&#39;est pourquoi on
+leur donne le nom de <i>forces:</i> elles dépendent du mouvement 
+qui reste aux humeurs dans la circulation par
+les vaisseaux.
+</p>
+<p>
+Or ce mouvement, si petit qu&#39;il puisse être, suppose 
+du-moins encore une circulation par le coeur,
+les poumons, &amp; le cervelet, dans laquelle conséquemment 
+consiste la moindre <i>force</i> de la vie, qui est
+susceptible d&#39;acquérir divers degrés d&#39;augmentation.
+</p>
+<p>
+L&#39;etat de la vie se connoît donc par ces <i>forces:</i> celles-ci se manifestent par les effets qu&#39;elles produisent
+dans le malade ; ces effets sont l&#39;exercice qui se fait
+des fonctions encore permanentes. Ces fonctions consistent 
+en ce que les humeurs sont poussées par les
+vaisseaux &amp; les visceres. Pour que cela se fasse, il faut
+une certaine quantité d&#39;humeurs bien conditionnées,
+&amp; une continuité de mouvement de ces humeurs par
+les vaisseaux mêmes.
+</p>
+<p>
+L&#39;action des vaisseaux dépend uniquement de la
+contraction des fibres, au moyen de laquelle contraction 
+les fibres tiraillées &amp; distendues en arc par
+la liqueur qui circule, se racourcissent, se disposent
+en ligne droite, s&#39;approchent vers l&#39;axe de leur cavité,
+&amp; poussent les humeurs qu&#39;elles contiennent:
+telles sont par conséquent, à proprement parler, les
+<i>forces</i> des vaisseaux. <i>Voyez</i> <sc><ref target="head:Fibre" type="search">Fibre</ref></sc>.
+</p>
+<p>
+Mais il est évident que ces <i>forces</i> viennent d&#39;une vertu 
+de ressort &amp; de contraction, par laquelle la fibre
+résiste à sa distraction : elles requierent en même tems
+dans les membranes vasculeuses des grands vaisseaux,
+deux sortes d&#39;humeurs alternativement poussées ; l&#39;une 
+très-tenue, dans les plus petits vaisseaux nerveux ; 
+l&#39;autre plus épaisse, dans les grands vaisseaux.
+</p>
+<p>
+L&#39;art de prédire l&#39;évenement d&#39;une maladie, est
+principalement fondé sur la connoissance de la comparaison 
+des causes dont dépend ce qui reste en core
+de <i>forces vitales</i> au malade, avec les causes qui ont
+produit sa maladie actuelle.
+</p>
+<p>
+On connoit l&#39;efficacité de la cause qui entretient
+encore la vie, par les fonctions qui restent principalement 
+vitales, ensuite animales &amp; naturelles : ce
+qui s&#39;énonce ordinairement par deux axiomes. 1°.
+Plus il y a de fonctions semblables aux mêmes fonctions 
+qui ont coûtume de se faire dans la santé, &amp;
+plus elles leur sont semblables, plus les <i>forces</i> de la
+nature sont grandes &amp; efficaces, &amp; plus il y a d&#39;apparence 
+de recouvrer une santé parfaite. 2°. Plus
+est saine dans le malade cette fonction dont plusieurs
+autres dépendent comme de leur cause, plus les affaires 
+du malade sont en bon train ; &amp; l&#39;on tire des
+conséquences opposées des propositions contraires,
+(<i>D. J.</i>)
+<pb n="7:125" facs="V7/ENC_7-125.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

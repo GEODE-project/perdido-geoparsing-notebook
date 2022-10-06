@@ -1,0 +1,144 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28927" id="51:196" vol="7">
+<index type="head" value="GAND" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géogr." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="NA" />
+<head>GAND</head>
+<p>
+GAND, <i>Gandavum</i>, (<i>Géogr.</i>) ville capitale de la
+Flandre autrichienne, avec un fort château bâti par
+Charles-Quint pour tenir en bride les habitans, &amp;
+un évêché suffragant de Malines, érigé par Paul IV.
+en 1559. L&#39;Escaut, la Lys, la Lieve, &amp; la Moëre,
+coupent cette ville en plusieurs iles. Eile est située
+à 9 lieues S. O. d&#39;Anvers, 11 O. de Malines, 10 N.
+O. de Bruxelles, 8 S. E. de Middelbourg.
+</p>
+<p>
+Cette ville si souvent prise, reprise, &amp; cédée par
+des traités, perd tous les jours de son lustre &amp; de sa
+force. Les Gantois étoient plus libres dans le xv. siecle 
+sous leurs souverains, que les Anglois même ne
+le sont aujourd&#39;hui sous leurs rois. Personne n&#39;ignore
+que le mariage de leur princesse qu&#39;ils conclurent
+avec Maximilien, fut la source de toutes les guerres
+qui ont mis pendant tant d&#39;années la maison de France
+aux mains avec celle d&#39;Autriche.
+</p>
+<p>
+Charles-Quint, rival de François I. plus puissant
+&amp; plus fortuné, mais moins brave &amp; moins aimable,
+naquit à Gand le 24 Février 1500. On le vit,
+dit M. de Voltaire, en Espagne, en Allemagne, en
+Italie, maître de tous ces états sous des titres différens,
+toûjours en action &amp; en négociation, heureux
+long-tems en politique &amp; en guerre, le seul empereur 
+puissant depuis Charlemagne, &amp; le premier roi
+de toute l&#39;Espagne depuis la conquête des Maures,
+opposant des barrieres à l&#39;empire ottoman, faisant
+des rois, &amp; se dépouillant enfin de toutes les couronnes 
+dont il étoit chargé, aller mourir en triste
+solitaire, après avoir trouble l&#39;Europe, &amp; n&#39;ayant
+pas encore 59 ans.
+</p>
+<p>
+La patrie de Charles-Quint n&#39;a pas été féconde
+en gens de lettres célebres. Je ne me rappelle parmi
+les littérateurs que Levinius Torrentius : ce savant,
+après s&#39;être distingué par quelques ouvrages en vers
+&amp; en prose, &amp; sur-tout par une édition de Suétone
+accompagnée de bonnes notes, mourut le 26 Avril
+1695.
+</p>
+<p>
+La <i>longitude</i> de <i>Gand</i>, suivant Cassini, est <i>21</i><sup>d</sup>. <i>26&#39;.
+30&#39;&#39;. latit. 51</i><sup>d</sup>. <i>3&#39;</i>. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

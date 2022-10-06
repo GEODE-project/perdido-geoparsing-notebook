@@ -1,0 +1,153 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29258" id="52:85" vol="7">
+<index type="head" value="GÉHON, (le-)" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. sacrée" />
+<index type="normclass" value="Géographie sacrée" />
+<index type="englishclass" value="Sacred geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GÉHON</head>
+<p>
+GÉHON, (<sc>le-</sc>) <i>Géog. sacrée</i>, fleuve dont parle
+Moyse dans la description du paradis terrestre:
+<blockquote> 
+« Le
+nom du second fleuve, dit-il, est <i>Gehon ;</i> c&#39;est celui
+qui tournoye dans la terre de Chus ».
+</blockquote>
+</p>
+<p>
+On sait combien l&#39;explication des quatre fleuves
+de Moyse embarrasse les savans, &amp; en particulier
+combien ils ont disputé sur le <i>Géhon</i>. Ce fleuve a passé
+chez les uns pour le Gange, chez les antres pour l&#39;Oxus ; on l&#39;a pris pour l&#39;Araxe ou pour le Nahar-Malea, canal fait à la main afin de joindre l&#39;Euphrate au
+Tigre. Josephe, la plûpart des peres de l&#39;Eglise, &amp;
+une infinité d&#39;interpretes, veulent que le <i>Gehon</i> soit
+le Nil ; &amp; M. Huet prétend que c&#39;est le canal oriental
+du Tigre &amp; de l&#39;Euphrate : c&#39;est ainsi que plusieurs
+critiques prévenus que le paradis terrestre étoit auprès 
+du Tigre &amp; de l&#39;Euphrate, cherchent le <i>Géhon</i>
+dans un des bras de ces deux fleuves. M. Leclerc persuadé 
+au contraire que le paradis terrestre étoit vers
+la source du Jourdain, croit que le <i>Géhon</i> est l&#39;Oronte ; &amp; par la terre de Chus, que le <i>Géhon</i> arrosoit, il
+entend la Cassiotide.
+</p>
+<p>
+Le P. Hardoüin a un sentiment particulier ; il donne 
+un sens nouveau à ces paroles du texte latin : <i>Et
+fluvius egrediebatur de loco voluptatis ad irrigandum paradisum,
+qui indè dividitur in quatuor capita ;</i> c&#39;est-à-dire, selon le P. Hardoüin:
+<blockquote> 
+« il sortoit de ce lieu de
+délices un fleuve pour arroser le paradis, qui delà 
+se divise en quatre têtes ou sources ».
+</blockquote>
+</p>
+<p>
+Il trouve avec raison qu&#39;il n&#39;est pas commode de
+supposer sans nécessité que les quatre fleuves, savoir,
+le Phison, le <i>Géhon</i>, le Tigre, &amp; l&#39;Euphrate fussent
+<milestone unit="column" n="2" />
+autant de branches dérivées du fleuve qui sortoit du
+lieu de délices : il rapporte donc ces mots, <i>se divise</i>,
+non pas au fleuve duquel il ne s&#39;agit plus, mais au
+paradis. C&#39;est, ajoûte-t-il, comme si Moyse eût dit:
+<blockquote> 
+« &amp; de ce lieu de délices sortoit un fleuve pour arroser 
+le paradis, dont la beauté ne subsiste plus entierement,
+mais dont on voit encore des restes autour
+des sources des quatre fleuves ».
+</blockquote>
+</p>
+<p>
+Si cette explication du P. Hardoüin ne satisfait pas
+tout le monde, du-moins faut-il convenir qu&#39;elle est
+ingénieuse, &amp; qu&#39;elle a l&#39;avantage de sauver les difficultés 
+géographiques de toutes les autres interprétations.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

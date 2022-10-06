@@ -1,0 +1,192 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27891" id="49:101:2" vol="7">
+<index type="head" value="Foudre" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medec. &amp; Anatom." />
+<index type="normclass" value="Médecine | Anatomie" />
+<index type="englishclass" value="Medicine | Anatomy" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Foudre</head>
+<p>
+<sc>Foudre</sc>, (<i>Medec. &amp; Anatom.</i>) Les Medecins recherchent 
+très-curieusement quelle peut être la cause 
+de la mort des hommes &amp; des animaux qui périssent 
+d&#39;un coup de <i>foudre</i>, sans qu&#39;on leur trouve aucun 
+mal, ni aucune trace de ce qui peut leur avoir
+ôté la vie. Meurent-ils par la frayeur que leur fait le
+fracas horrible du tonnere, &amp; le grand feu dont ils le
+voyent environnés? Sont-ils étouffés par la vapeur
+du soufre allumé, qui est le poison le plus prompt
+pour tous les animaux? Ou bien ne pourroit on pas
+croire aussi que lorsque la <i>foudre</i> eclate, &amp; qu&#39;elle
+chasse l&#39;air de l&#39;endroit ou elle agit, en lui faisant
+perdre en même tems son élasticite, les animaux se
+trouvent alors comme dans un vuide parfait, &amp; meurent 
+de la même maniere que ceux que l&#39;on enferme
+sous le récipient d&#39;une pompe pneumatique? Il est
+assez vraissemblable que ces trois causes separement
+ou conjointement, produisent la destruction de la
+machine.
+</p>
+<p>
+Scheuchzer raconte qu&#39;une femme qui portoit son
+enfant sur ses bras, fut touchée d&#39;un coup de <i>foudre</i>
+dont elle mourut, sans que l&#39;enfant en reçut le moindre 
+mal : on voit par cet exemple, que la frayeur
+seule peut avoir procuré la mort de cette femme,
+puisque les deux autres causes ne paroissent point
+avoir eu lieu dans cette occasion.
+</p>
+<p>
+Lower &amp; Willis ayant ouvert un jeune homme
+qui avoit été frappé de la <i>foudre</i>, lui trouverent le
+coeur sain &amp; les poumons très-gonflés ; ce jeune homme 
+n&#39;étoit donc pas mort par la troisieme cause, mais
+par l&#39;une des deux premieres.
+</p>
+<p>
+D&#39;autres cas nous apprennent que les hommes peuvent 
+mourir de frayeur, ou que la terreur peut les
+réduire à l&#39;extrémité: deux exemples suffiront pour
+le prouver. Le tonnerre étant tombé en 1717 sur la
+tour de S. Pierre à Hambourg, un jeune garçon de
+quinze ans qui dormoit sur une chaise, en fut tellement 
+saisi, qu&#39;il demeura quelque tems sans mouvement 
+&amp; sans sentiment. La tour de ville d&#39;Epéries,
+dans la haute Hongrie, ayant été frappée de la <i>foudre</i>
+la même année 1717, un étudiant qui se tenoit près
+d&#39;une fenêtre, tomba par terre presque mort, &amp; ne
+reprit ses esprits que par les secours de la Medécine.
+</p>
+<p>
+On dit que M M. du Verney, Pitcarn, &amp; autres,
+ayant ouvert plusieurs personnes qui avoient eté
+frappées de la <i>foudre</i>, leur trouverent les poumons
+affaissés, comme ceux des animaux qu&#39;on fait mourir 
+dans le vuide. La cause de la mort de ces person
+ne sera donc ici la troisieme de celles que nous avons
+exposées.
+</p>
+<p>
+Enfin quelquefois la <i>foudre</i> opere sur le corps de
+ceux qu&#39;elle fait perir, plusieurs phénomenes fort
+etranges ; &amp; les memoires de l&#39;académie de Petersbourg m&#39;en fournissent un exemple trop curieux pour
+le passer sous silence : ces mémoires rapportent, <i>tom
+VI. pag. 383.</i> que dans la dissection du cadavre d&#39;un
+homme tué d&#39;un coup de <i>foudre</i> à Petersbourg, le
+bas-ventre &amp; la verge furent trouvés prodigieusement 
+enflés. La peau, du côté gauche, ressembloit
+à du cuir brûlé; toutes les autres parties du corps
+avoient une couleur de pourpre, excepté le cou qui
+étoit rouge comme de l&#39;écarlate : on appercevoit les
+marques d&#39;une petite hémorrhagie à l&#39;oreille droite:
+sur le dessus de la tête se voyoit une legere blessure,
+comme si le péricrane avoit été dechiré; &amp; le crane 
+n&#39;avoit point souffert : le cerveau néanmoins étoit
+rempli de sang très-fluide, &amp; l&#39;étui des vertebres d&#39;u
+ne grande abondance de sérosités : les poumons
+étoient noirâtres &amp; tombés, le coeur privé de sang,
+<pb n="7:215" facs="V7/ENC_7-215.jpeg" />
+<milestone unit="column" n="1" />
+de même que les vaisseaux qui l&#39;entourent : la vésicule 
+du fiel &amp; la vessie urinaire etoient affaissés &amp;
+entierement vuides, tandis que les ureteres se trouvoient 
+extrèmement distendus par la quantité d&#39;urine 
+qu&#39;ils contenoient.
+</p>
+<p>
+Toutefois, quand l&#39;on rencontre de tels phénomenes,
+ou simplement des meurtrissures &amp; des blessures 
+à ceux qui sont morts de la <i>foudre</i>, ce n&#39;est pas
+tant leur mort qui surprend que la route tout-à-fait
+singuliere que la <i>foudre</i> a prise, en causant les meurtrissures,
+les plaies, &amp; les blessures des parties externes 
+ou internes : mais il est vrai que ces sortes de singularités 
+de la <i>foudre</i> ne sont pas particulieres aux
+corps animés. <i>Voyez</i> <sc><ref target="head:Foudre" type="search">Foudre</ref></sc>, (<i>Physique.</i>) (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

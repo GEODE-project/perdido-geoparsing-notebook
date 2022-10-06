@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29747" id="53:199" vol="7">
+<index type="head" value="GNOSSE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog. anc." />
+<index type="normclass" value="Géographie ancienne" />
+<index type="englishclass" value="Ancient geography" />
+<index type="generatedclass" value="Géographie ancienne" />
+<index type="pos" value="NA" />
+<head>GNOSSE</head>
+<p>
+GNOSSE, <i>Gnossus, Cnossus</i>, (<i>Géog. anc.</i>) ville de
+Crete célebre dans l&#39;antiquité; elle fut jadis la capitale 
+du royaume de Minos, &amp; le propre lieu de sa résidence,
+quand Crete avoit le bonheur de vivre sous
+son empire. <i>Gnosse</i> étoit entre Gortyne &amp; Lycétus,
+sur la petite riviere de Ginosse, appellée par les anciens 
+<i>Ceratus</i>, dont Strabon dit qu&#39;elle prit d&#39;abord le
+nom. La table de Peutinger met <i>Gnosos</i> à <sc>xxiii. m.</sc>
+P. de Gortyne vers l&#39;orient.
+</p>
+<p>
+Quelques uns cherchent aujourd&#39;hui <i>Gnosse</i> à Castel-Pédiada ; &amp; d&#39;autres, avec plus de vraissemblance,
+à Ginosa : ce sont au reste deux petits villages de
+l&#39;île de Candie, assez voisins ; mais ils n&#39;ont plus l&#39;un
+ou l&#39;autre d&#39;Epiménide ; ce célebre poëte philosophe,
+natif de <i>Gnosse</i>, &amp; que Platon appelle un <i>homme divin</i>, ne se réveillera plus ; s&#39;il n&#39;avoit pas commerce 
+avec les dieux, du-moins sa sagesse porta le
+peuple à se le persuader. Les Athéniens affligés de la
+peste, lui envoyerent des députés pour le prier de venir 
+les soulager ; il se transporta chez eux, expia la
+ville avec des eaux lustrales, lia une étroite amitié
+avec Solon, instruisit ce législateur des moyens les
+plus propres à bien gouverner, &amp; retourna dans sa
+patrie, après avoir refusé les présens d&#39;Athenes.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

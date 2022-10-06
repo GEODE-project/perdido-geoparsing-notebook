@@ -1,0 +1,117 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29531" id="53:41" vol="7">
+<index type="head" value="GIAGH ou JEHAGH" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Mallet" />
+<index type="shortauth" value="Mallet" />
+<index type="kafnum" value="83" />
+<index type="kafauth" value="Mallet, abbé Edme-François (1713-1755)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. mod." />
+<index type="normclass" value="Histoire moderne" />
+<index type="englishclass" value="Modern history" />
+<index type="generatedclass" value="Chronologie" />
+<index type="pos" value="s.m." />
+<head>GIAGH ou JEHAGH</head>
+<p>
+GIAGH <i>ou</i> JEHAGH, s. m. (<i>Hist. mod.</i>) nom d&#39;un
+cycle de douze ans qu&#39;ont les Catayens &amp; les Turcs.
+<i>Voyez</i> <sc><ref target="head:Cycle" type="search">Cycle</ref></sc>.
+</p>
+<p>
+Chaque année du <i>giagh</i> porte le nom d&#39;un animal ;
+la premiere, de la <i>souris ;</i> la seconde, du <i>boeuf ;</i> la
+troisieme, du <i>lynx</i> ou <i>léopard ;</i> la quatrieme, du
+<i>lievre ;</i> la cinquieme, du <i>crocodile ;</i> la sixieme, du
+<i>serpent ;</i> la septieme, du <i>cheval ;</i> la huitieme, du
+<i>mouton ;</i> la neuvieme, du <i>singe ;</i> la dixieme, de la
+<i>poule ;</i> la onzieme, du <i>chien ;</i> la douzieme, du <i>pourceau</i>.
+</p>
+<p>
+Ils divisent aussi le jour en douze parties, qu&#39;ils
+appellent encore <i>giagh</i>, &amp; leur donnent les noms
+des mêmes animaux. Chaque <i>giagh</i> contient deux
+de nos heures, &amp; se divise en huit parties qu&#39;ils nomment 
+<i>keh ;</i> de sorte que leur journée contient quatre-vingts-seize <i>kehs</i>, ou autant que de quarts-d&#39;heure
+chez nous. D&#39;Herbelot, <i>biblioth. orient</i>. Voyez <i>le
+dictionn. de Trévoux &amp; Chambers</i>. (<i>G</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

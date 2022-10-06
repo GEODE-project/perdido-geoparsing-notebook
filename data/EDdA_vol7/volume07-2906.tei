@@ -1,0 +1,168 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30360" id="55:16:4" vol="7">
+<index type="head" value="Grenadiers de France (Corps des)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Durival" />
+<index type="shortauth" value="Durival" />
+<index type="kafnum" value="44" />
+<index type="kafauth" value="Durival, Jean Luton (1725-1810)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Art militaire" />
+<index type="pos" value="NA" />
+<head>Grenadiers de France</head>
+<p>
+<sc>Grenadiers de France</sc> (<i>Corps des</i>). Ce corps
+fut formé par ordonnance du Roi du 15 Février
+1749, de quarante-huit compagnies de <i>grenadiers</i> réservées 
+dans les réformes de 1748,
+<blockquote> 
+« pour continuer,
+dit cette ordonnance, d&#39;entretenir au service de
+Sa Majesté des troupes d&#39;une espece si précieuse à
+conserver ».
+</blockquote>
+Il est composé de quatre brigades de
+douze compagnies chacune, &amp; a rang dans l&#39;infanterie 
+du jour de la création des premiers <i>grenadiers</i>
+en France. Un officier général le commande supérieurement 
+sous le titre d&#39;<i>inspecteur-commandant</i>. Il
+y fut d&#39;abord attaché un major pour tout le régiment,
+quatre colonels, deux lieutenans-colonels,
+&amp; un aide-major par brigade. Cet arrangement a
+souffert depuis plusieurs changemens. Le nombre des
+colonels a été augmenté successivement jusqu&#39;à vingt-quatre,
+&amp; celui des lieutenans-colonels réduit à quatre.
+Le roi ayant encore reconnu qu&#39;un seul officier-major 
+par brigade ne pouvoit suffire aux différens
+détails de la discipline &amp; du service, Sa Majesté régla
+par son ordonnance du 8 Juillet 1756, que l&#39;état-major de chaque brigade seroit à l&#39;avenir composé d&#39;un
+sergent-major &amp; d&#39;un aide-major, &amp; que les places
+de sergent-major seroient remplies par les aide-majors actuels, pour en joüir aux honneurs, autorités
+&amp; prérogatives attribués aux autres majors de l&#39;infanterie.<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+Le commandement en second du corps fut
+en même tems conféré à l&#39;ancien major.
+</p>
+<p>
+Lorsqu&#39;il vaque des compagnies, il doit y être
+nommé alternativement un capitaine des troupes réglées 
+ayant au-moins deux ans de commission de capitaine,
+&amp; un lieutenant du régiment.
+</p>
+<p>
+Chacune des quarante-huit compagnies est composée 
+de quarante-cinq hommes, &amp; commandée par
+un capitaine, un lieutenant, &amp; un lieutenant en second.
+L&#39;un des deux lieutenans est pour l&#39;ordinaire
+un soldat de fortune, que son mérite &amp; ses services
+ont élevé au grade d&#39;officier. Il y a dans chaque brigade 
+un sergent, un caporal, &amp; onze <i>grenadiers</i> entretenus 
+sous la dénomination de <i>charpentiers</i>.
+</p>
+<p>
+Le remplacement des <i>grenadiers</i> qui y manquent,
+se fait chaque année par les compagnies de <i>grenadiers</i> des bataillons des milices du royaume (<i>voyez
+ci-après</i> <sc><ref target="head:Grenadiers Royaux" type="search">Grenadiers Royaux</ref></sc>); &amp; les capitaines
+payent à chacun de ces <i>grenadiers</i> de remplacement
+la somme de 30 liv. pour leur tenir lieu d&#39;engagement 
+pendant six ans, au bout desquels ils reçoivent
+leurs congés absolus. Le Roi leur fait délivrer en outre 
+une gratification de six liv. à chacun, au moment
+de leur engagement.
+</p>
+<p>
+Le régiment des <i>grenadiers de France</i> depuis sa création,
+n&#39;a pas eu jusqu&#39;ici d&#39;occasion de se signaler ;
+mais que ne doit-on pas attendre du mérite des officiers 
+qui le commandent, de l&#39;excellente discipline
+qui y regne, &amp; de la qualité des hommes qui le
+composent?
+</p>
+<p>
+C&#39;est avec ce corps, auquel fut joint pour cet effet 
+celui des volontaires royaux, que M. le chevalier 
+de Rostaing fit en 1754, sous les murs de Nancy,
+l&#39;essai de la légion dont il avoit donné le plan. <i>Article de M. <sc>Durival</sc> le jeune</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,124 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29638" id="53:122:1" vol="7">
+<index type="head" value="Glacis" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Le Blond" />
+<index type="shortauth" value="Le Blond" />
+<index type="kafnum" value="68" />
+<index type="kafauth" value="Le Blond, Guillaume (1704-1781)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Art milit. &amp; Fortification." />
+<index type="normclass" value="Art militaire | Fortifications" />
+<index type="englishclass" value="Military Arts | Fortifications" />
+<index type="generatedclass" value="Fortifications" />
+<index type="pos" value="NA" />
+<head>Glacis</head>
+<p>
+<sc>Glacis</sc>, (<i>Art milit. &amp; Fortification.</i>) En terme de
+Fortification, le <i>glacis</i> est le parapet du chemin-couvert, dont la hauteur de six à sept piés se perd dans
+la campagne par une pente insensible d&#39;environ vingt
+ou vingt-cinq toises. <i>Voyez <ref target="XPL:5300" type="platelink">Pl. I</ref>. de Fortification, les
+lettres</i> a a, <i>dans les <ref target="XPL:5301" type="platelink">fig. 1</ref> &amp; 5. Voyez aussi</i> <sc><ref target="head:Chemincouvert" type="search">Chemincouvert</ref></sc>. <i>Chambers</i>.
+</p>
+<p>
+Le <i>glacis</i> sert à empêcher que dans les environs ou
+les lieux qui touchent immédiatement à la place, il
+ne se trouve aucun endroit qui puisse servir de couvert 
+à l&#39;ennemi. La pente du <i>glacis</i> doit être dirigée de
+maniere qu&#39;étant prolongée vers la place, elle rencontre 
+le revêtement au cordon ou un peu au-dessus.
+</p>
+<p>
+Lorsqu&#39;elle est ainsi disposée, l&#39;ennemi ne peut
+battre le revêtement ou faire breche à la place, qu&#39;après 
+qu&#39;il s&#39;est emparé du chemin-couvert : alors il
+établit ses batteries sur le haut du <i>glacis ;</i> mais leur
+proximité des ouvrages de la place en rend la construction 
+périlleuse &amp; difficile. Les places dont le
+<i>glacis</i> encouvre ainsi tous les ouvrages par son prolongement,
+&amp; que par conséquent l&#39;on ne peut découvrir 
+de la campagne, sont appellées <i>places rasantes</i>.
+En tems de siége, l&#39;on pratique des <i>galeries</i> sous le <i>glacis</i> d&#39;où partent des rameaux qui s&#39;étendent dans la
+campagne. <i>Voyez</i> 
+<sc><ref target="head:Défense du Chemin-couvert" type="search">Défense du Chemin-couvert</ref></sc>
+. (<i>Q</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

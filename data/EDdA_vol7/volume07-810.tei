@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28264" id="50:80:1" vol="7">
+<index type="head" value="Fraxinelle" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jardin. Agricult." />
+<index type="normclass" value="Jardinage | Agriculture" />
+<index type="englishclass" value="Gardening. Agriculture" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>Fraxinelle</head>
+<p>
+<sc>Fraxinelle</sc>, (<i>Jardin. Agricult.</i>) cette plante vivace 
+peut être mise au nombre des fleurs de la grande
+espece ; elle se perpétue également par sa racine ou
+par sa graine ; elle aime les pays chauds, &amp; cependant 
+sa culture est aisée ; car il s&#39;agit seulement de la
+garantir du froid, après l&#39;avoir semée sur couche.
+On aura soin de la transplanter à la fin de Septembre, afin qu&#39;elle puisse prendre racine avant l&#39;hyvers
+&amp; alors elle produira de plus belles fleurs que si l&#39;on
+faisoit cette transplantation au mois de Mars. Elle
+demande une terre fraîche &amp; riche, qui ne soit ni
+grasse ni humide.
+</p>
+<p>
+Quand vous voulez la multiplier de graine, il faut
+replanter les racines qu&#39;elle a poussées, dans de nouvelles 
+couches, à demi-pié de distance les unes des
+autres, ayant soin de ne les point endommager, &amp;
+de les fixer fermement avec de la terre que vous appliquerez 
+tout-autour, pour éviter les effets de la gelée.
+On ne manquera pas de les laisser une année
+dans ces nouveaux lits, pendant lequel espace de
+tems elles prospéreront, &amp; produiront des fleurs
+l&#39;année suivante : alors ce sera le moment de les mettre 
+dans les allées de vos parteres où vous desirerez
+qu&#39;elles restent, &amp; où elles méritent d&#39;avoir place par
+leur beauté long-tems durable. (<i>D. J.</i>)
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,178 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30721" id="55:264:2" vol="7">
+<index type="head" value="Guinée, (la) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>Guinée, (la</head>
+<p>
+<sc>Guinée, (la</sc>) <i>Géog.</i> vaste contrée d&#39;Afrique, qui
+renferme plusieurs royaumes grands &amp; petits, &amp; divers 
+peuples différemment gouvernés. Ce grand pays
+est situé entre la Nigritie au nord, l&#39;Abyssinie à l&#39;orient,
+&amp; la Caffrerie au midi.
+</p>
+<p>
+La <i>Guinée</i> a été entierement inconnue aux anciens.
+Nous n&#39;en connoissons guere que les côtes qui
+commencent à la riviere de Sierra-Lionna, &amp; s&#39;étendent 
+jusqu&#39;au Cap-Negre, c&#39;est-à-dire environ dix
+degrés en-deçà de la ligne, &amp; seize degrés au-delà.
+</p>
+<p>
+On divise la <i>Guinée</i> en haute &amp; basse ; la basse
+<i>Guinée</i> est le même état que le Congo, dont la traite
+des Negres fait le plus important commerce des Portugais dans ce pays-là.
+</p>
+<p>
+La haute <i>Guinée</i> est bornée au sud par l&#39;Océan, &amp;
+comprend divers pays que l&#39;on trouve de suite &amp;
+qu&#39;on subdivise chacun en divers royaumes, dont
+les nom, changent à mesure qu&#39;on avance d&#39;occident
+en orient : ces pays sont la côte de Malaguette, la
+côte des Dents, la côte d&#39;Or, les royaumes de Juda,
+<milestone unit="column" n="2" />
+du grand Ardre, &amp; de Bénin. Tout le négoce des
+Européens se fait sur les côtes des lieux que nous
+venons de nommer.
+</p>
+<p>
+Les naturels sont des idolatres, superstitieux, vivans 
+très-mal-proprement ; ils sont paresseux, yvrognes,
+fourbes, sans souci de l&#39;avenir, insensibles aux
+évenemens heureux &amp; malheureux qui réjoüissent ou
+qui affligent les autres peuples ; ils ne connoissent ni
+pudeur ni retenue dans les plaisirs de l&#39;amour, l&#39;un
+&amp; l&#39;autre sexe s&#39;y plonge brutalement dès le plus bas
+âge.
+</p>
+<p>
+Leur peau est très-noire ; leurs cheveux sont une
+véritable laine, &amp; leurs moutons portent du poil.
+Ils vont tout nuds pour la plûpart ; &amp; ceux qui sont
+assez riches pour être vêtus, ont une espece de pagne 
+qu&#39;ils roulent autour du corps, &amp; qu&#39;ils laissent
+pendre depuis le nombril jusqu&#39;à mi-jambe : ces derniers 
+se frottent d&#39;huile &amp; de peinture, &amp; ornent leur
+cou, leurs bras, &amp; leurs jambes, d&#39;anneaux d&#39;or,
+d&#39;argent, d&#39;ivoire, &amp; de corail.
+</p>
+<p>
+Presque tous les naturels de <i>Guinée</i> sont exposés à
+des dragonneaux, espece de vers qui entrent dans
+leur chair, &amp; la rongent par des ulceres qu&#39;ils y
+causent. La petite vérole est un autre fléau encore
+plus redoutable, &amp; qui les emporte de-tems-en-tems
+par milliers.
+</p>
+<p>
+Il paroît que les Diépois découvrirent cette contrée 
+en 1364 sous Charles V. &amp; qu&#39;ils y ont navigé
+avant les autres nations européennes ; mais ils n&#39;y
+formerent aucune habitation. Les Portugais plus avisés 
+s&#39;y établirent au commencement du quinzieme
+siecle, &amp; l&#39;année 1604 fut l&#39;époque fatale de leur déroute ; 
+alors les Hollandois les chasserent des forts
+&amp; des comptoirs qu&#39;ils avoient sur les côtes, &amp; les
+contraignirent de se retirer bien avant dans les terres,
+où pour se maintenir ils se sont alliés avec les
+naturels du pays. Depuis cette époque, les Hollandois &amp; les Anglois font presque tout le commerce
+des côtes de <i>Guinée:</i> les Brandebourgeois &amp; les Danois y ont cependant quelques comptoirs.
+</p>
+<p>
+Sous le regne de Jean II. roi de Portugal, qui travailloit 
+avec tant d&#39;ardeur à l&#39;établissement des colonies 
+portugaises dans les Indes &amp; en Afrique, on
+trouva de l&#39;or sur les côtes de <i>Guinée</i>, mais en petite 
+quantité; c&#39;est peut-être de-là qu&#39;on donne depuis 
+le nom de <i>guinées</i> aux monnoies que les Anglois
+firent frapper avec l&#39;or qu&#39;ils amasserent dans le même 
+pays. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

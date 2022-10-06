@@ -1,0 +1,114 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28816" id="51:114" vol="7">
+<index type="head" value="GALARICIDE, ou GALARICTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Holbach" />
+<index type="shortauth" value="d&#39;Holbach" />
+<index type="kafnum" value="59" />
+<index type="kafauth" value="Holbach, Paul Thiry, baron d&#39; (1723-1789)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. nat." />
+<index type="normclass" value="Histoire naturelle" />
+<index type="englishclass" value="Natural history" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="NA" />
+<head>GALARICIDE, ou GALARICTE</head>
+<p>
+GALARICIDE, <i>ou</i> GALARICTE, (<i>Hist. nat.</i>)
+nom d&#39;une terre ou pierre grise ou de couleur de cendre,
+que l&#39;on trouvoit dans le Nil en Egypte, qui
+étant écrasée, avoit, à ce qu&#39;on prétend, le goût &amp;
+la blancheur du lait ; on ajoûte qu&#39;en la tenant dans
+sa bouche, elle troubloit l&#39;esprit ; qu&#39;attachée au cou,
+elle augmentoit le lait ; &amp; que placée sur la cuisse,
+elle facilitoit l&#39;accouchement ; en la pulvérisant &amp;
+la mêlant avec du sel &amp; de l&#39;eau, ce mêlange privoit
+les brebis de leur lait, &amp; les guérissoit de la gale.
+Quoi qu&#39;il en soit de ces propriérés fabuleuses, M.
+Hill, qui apparemment a eu occasion de la voir, &amp;
+qui la nomme <i>galactites</i>, dit qu&#39;elle n&#39;est point soluble<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+dans les acides, &amp; qu&#39;elle blanchit par la calcination ; 
+que les Medecins s&#39;en servoient dans les
+maladies des yeux. <i>Voyez</i> Hill, <i>hist. nat. des fossiles,
+&amp;</i> Boetius de Boot. (-)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

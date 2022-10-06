@@ -1,0 +1,113 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29187" id="52:32:1" vol="7">
+<index type="head" value="Gateau" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Gateau</head>
+<p>
+<sc>Gateau</sc>, <i>terme de Chirurgie</i>, petit matelas fait
+avec de la charpie, pour couvrir la plaie du moignon
+dans les pansemens, après l&#39;amputation des membres.
+On étend sur le <i>gâteau</i> les médicamens digestifs,
+mondisians, détersifs, <i>&amp;c.</i> que prescrit l&#39;état des
+chairs, &amp; la nature de la suppuration. L&#39;on se sert
+encore d&#39;un <i>gâteau</i> ou grand plumaceau, pour panser 
+la plaie qui reste après l&#39;extirpation d&#39;une mammelle : mais dans l&#39;un &amp; dans l&#39;autre cas, les praticiens 
+rationnels préferent aujourd&#39;hui l&#39;usage de plusieurs 
+plumaceaux moins étendus ; on les ajuste mieux
+aux différentes inégalités de la plaie, qu&#39;un grand
+plumaceau d&#39;une seule piece ; on n&#39;est pas obligé de
+la découvrir tout-à-la-fois en entier, &amp; de l&#39;exposer
+par-là aussi long-tems à l&#39;action de l&#39;air, toûjours
+pernicieux aux plaies trop long-tems découvertes,
+quelque précaution qu&#39;on puisse prendre pour eu
+prévenir les mauvais effets. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

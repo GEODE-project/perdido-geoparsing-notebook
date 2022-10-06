@@ -1,0 +1,132 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27455" id="48:2" vol="7">
+<index type="head" value="Title Page" />
+<index type="objecttype" value="misc" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Géographie moderne" />
+<index type="pos" value="" />
+<milestone unit="volume" n="7" />
+<pb n="7:NA4" facs="V7/ENC_7-NA4.jpeg" />
+<head>Title Page</head>
+<milestone unit="column" n="0" />
+<p><center>
+ENCYCLOPÉDIE,<br />
+ou<br />
+DICTIONNAIRE RAISONNÉ<br />
+DES SCIENCES,<br />
+DES ARTS ET DES MÉTIERS,<br />
+<i>PAR UNE SOCIETÉ DE GENS DE LETTRES</i>.
+</center>
+<hd>
+Mis en ordre &amp; publié par M. <i>DIDEROT</i>, de l&#39;Académie Royale des Sciences &amp; des Belles-Lettres de Prusse ; &amp; quant à la <sc>Partie Mathématique</sc>, par M. <i>D&#39;ALEMBERT</i>,
+de l&#39;Académie Françoise, de l&#39;Académie Royale des Sciences de Paris, de celle de Prusse,
+de la Société Royale de Londres, de l&#39;Académie Royale des Belles-Lettres de Suede,
+&amp; de l&#39;Institut de Bologne.
+</hd>
+<center>
+<i>Tantùm series juncturaque pollet,<br />
+Tantùm de medio sumptis accedit honoris!</i> <sc><ref target="head:Horat" type="search">Horat</ref></sc>.
+</center>
+<center>
+TOME SEPTIEME.
+</center>
+<gap type="image" />
+<center>
+A PARIS,
+</center>
+</p>
+<p>
+<center>
+Chez BRIASSON, <i>rue Saint Jacques, à la Science</i>.<br />
+Chez DAVID l&#39;aîné, <i>rue &amp; vis-à-vis la Grille des Mathurins</i>.<br />
+Chez LE BRETON, Imprimeur ordinaire du Roy, <i>rue de la Harpe</i>.<br />
+Chez DURAND, <i>rue du Foin, vis-à-vis la petite Porte des Mathurins</i>.<br />
+</center>
+<center>
+M. DCC. LVII.
+<i>AVEC APPROBATION ET PRIVILEGE DU ROY</i>.
+</center>
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,108 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27720" id="49:18:7" vol="7">
+<index type="head" value="Foret" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Bijoutier." />
+<index type="normclass" value="Bijoutier" />
+<index type="englishclass" value="Jeweller" />
+<index type="generatedclass" value="Serrurerie" />
+<index type="pos" value="NA" />
+<head>Foret</head>
+<p>
+<sc>Foret</sc>, (<i>Bijoutier.</i>) est un instrument de fer long
+&amp; aigu par un bout, qui a quelquefois plusieurs carnes 
+tranchantes, ayant à l&#39;autre extrémité un cuivrot.
+<i>Voyez</i> <sc><ref target="head:Cuivrot" type="search">Cuivrot</ref></sc>.
+</p>
+<p>
+Les <i>forets</i> ont différentes formes, selon les usages
+auxquels ils sont destinés ; leur tranchant fait quelquefois 
+le demi-cercle, ou bien il est exactement plat,
+&amp; continue d&#39;un angle à l&#39;autre : on se sert de ceux
+de cette forme pour forer les goupilles dans les charnieres 
+de tabatieres, ou bien encore il forme le chevron.
+L&#39;ouvrier intelligent leur donne la forme la
+plus convenable au besoin qu&#39;il en a : mais la condition 
+essentielle de tout bon <i>foret</i>, est d&#39;être bien évuidé, &amp; d&#39;une trempe ni trop seche ni trop molle.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

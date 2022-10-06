@@ -1,0 +1,453 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28627" id="51:17:8" vol="7">
+<index type="head" value="Fusée, (Machine à tailler les) " />
+<index type="objecttype" value="arts" />
+<index type="author" value="Berthoud" />
+<index type="shortauth" value="Berthoud" />
+<index type="kafnum" value="14" />
+<index type="kafauth" value="Berthoud, Ferdinand (1727-1807)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Méchanique, Horlogerie" />
+<index type="normclass" value="Méchanique | Horlogerie" />
+<index type="englishclass" value="Mechanics | Clockmaking" />
+<index type="generatedclass" value="Méchanique" />
+<index type="pos" value="NA" />
+<head>Fusée</head>
+<p>
+<sc>Fusée</sc>, (<i>Machine à tailler les</i>) <i>Méchanique, Horlogerie</i>, &amp;c. c&#39;est un outil dont se servent les Horlogers pour former les rainures qui sont sur les <i>fusées</i>
+des montres.
+</p>
+<p>
+On sait par ce qui précede, 1°. que la <i>fusée</i> est une
+espece de cone tronqué, sur lequel s&#39;enveloppe une
+chaîne dans une ramure faite en ligne spirale, sur son
+contour, de la base au sommet. Un bout de la chaîne 
+tient au barillet, &amp; l&#39;autre à la <i>fusée</i>.
+</p>
+<p>
+2°. Que la propriété de la <i>fusée</i> est de rendre égale
+l&#39;action du ressort sur le roüage.
+</p>
+<p>
+3°. Qu&#39;au moyen de la grandeur différente de ses
+rayons, lorsque le ressort est à son premier tour de
+bande, &amp; par conséquent lorsque sa force est
+moindre, la chaîne s&#39;enveloppe sur la plus grande
+partie de la <i>fusée</i> (ou plus grand rayon), &amp; agit avec
+la même force sur le roüage, que dans le cas où le
+ressort étant monté au plus haut, la chaîne s&#39;enveloppe 
+sur le plus petit rayon de la <i>fusée ;</i> &amp; de même
+à tous les autres degrés de tension du ressort ; car à
+mesure qu&#39;on le remonte, sa force augmente : mais
+en même tems aussi les diametres de la <i>fusée</i> diminuent ; 
+de sorte que l&#39;action du ressort sur le roüage
+est toûjours la même.
+</p>
+<p>
+4°. Qu&#39;une autre propriété de la <i>fusée</i>, &amp; qui est
+une suite de cette égalité de force sur le roüage, est
+de faire marcher plus long-tems une montre, en se
+servant cependant d&#39;un même ressort ; ce qu&#39;il est
+aisé de concevoir. Le barillet qui contient le ressort
+&amp; sur lequel s&#39;enveloppe la chaîne, est cylindrique ;
+je le suppose du même diametre que la plus grande
+partie de la <i>fusée:</i> dans ce cas si toutes les parties du
+premier tour de bande du ressort étoient égales entr&#39;elles, lorsque la <i>fusée</i> fait un tour, le barillet en feroit 
+aussi un ; mais comme cela n&#39;est pas, &amp; qu&#39;à chaque 
+degré de tension du ressort sa force augmente, &amp;
+que, comme nous l&#39;avons dit, les rayons de la <i>fusée</i>
+diminuent dans la même proportion, il s&#39;ensuit de-là
+que pour le développement de la chaîne sur un tour
+de barillet, la <i>fusée</i> fera plus d&#39;un tour ; &amp; elle en fera
+d&#39;autant plus que le ressort deviendra plus fort, jusqu&#39;au point qu&#39;étant au-haut, &amp; dans ce cas supposant 
+que sa force devînt double de celle de son premier 
+tour, la partie de la <i>fusée</i> sur laquelle la chaîne
+s&#39;enveloppe, sera de la moitié plus petite qu&#39;au premier 
+tour, &amp; par conséquent un tour de barillet en
+fera faire deux à la <i>fusée</i>.
+</p>
+<p>
+5°. Qu&#39;afin que les diametres de la <i>fusée</i> soient
+moins inégaux entre eux, on n&#39;employe dans les
+montres qu&#39;environ quatre tour, du ressort, quoiqu&#39;ils en puissent cependant faire davantage : qu&#39;on
+ne prend que les tours qui ont le plus d&#39;égalité entre 
+eux en ne remontant pas ce ressort jusqu&#39;au-haut,
+&amp; en ne le laissant pas développer jusqu&#39;au-bas ; d&#39;où
+l&#39;on voit par ce qui vient d&#39;être dit, que les formes
+des <i>fusées</i> ne sont pas exactement les mêmes, &amp; qu&#39;elles 
+sont relatives aux différentes forces des ressorts.
+Ainsi on ne les détermine que par l&#39;exécution ; car
+ce qui se feroit par la théorie, quoique satisfaisant,
+seroit en pure perte. On a acquis par l&#39;habitude une
+forme approchante de celle qui convient aux <i>fusées ;</i>
+de sorte qu&#39;on les tourne d&#39;abord de cette forme qui
+approche assez de celle d&#39;une cloche ; ensuite on les
+taille avec les outils que nous allons décrire ; enfin on
+les égalise par le moyen d&#39;un levier qui s&#39;ajuste sur le
+quarré de la <i>fusée</i>. Ce levier porte un poids mobile,
+que l&#39;on met d&#39;équilibre avec la moindre force du
+ressort, &amp; l&#39;on diminue les parties de la <i>fusée</i> qui sont
+trop grosses. <i>Voyez</i> 
+<sc><ref target="head:Levier à égaler les Fusées" type="search">Levier à égaler les Fusées</ref></sc>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Je ne connois ni l&#39;auteur de la <i>fusée</i>, ni celui de la
+premiere machine pour les tailler. Il y a apparence
+que comme les premieres montres ont été faites en
+Angleterre, de même cette partie essentielle pour la
+justesse des montres y a été trouvée. Au reste ces
+machines n&#39;ont pas été composées d&#39;abord telles qu&#39;elles 
+sont à-présent. Je donnerai la description des
+deux constructions de machine à tailler les <i>fusées</i>. La
+premiere est tirée du <i>traité d&#39;Horlogerie</i> de M. Thiout,
+<i>pag. 66.</i> Je ne fais que transcrire sa description ; sa
+planche même a servi.
+</p>
+<p>
+On dit que la seconde est de la composition de feu
+M. le Lievre, horloger fort habile. M. Proselle son
+neveu, a bien voulu me communiquer cette machine.
+</p>
+<p>
+<i>Description de la machine à tailler les fusées à droite
+&amp; à gauche, avec la même vis</i>, par M. Regnauld de
+Chaalons, <i>p. 66. du traité d&#39;Horlogerie de</i> M. Thiout.
+<blockquote> 
+« Les pieces <i>U</i> &amp; <i>X</i> (<i>voyez nos <ref target="XPL:5196" type="platelink">Planches</ref></i>) marquent le
+chassis qui porte les pieces depuis <i>Z</i> jusqu&#39;en <i>V.
+Z V</i> est un arbre, que l&#39;on peut tarauder à droite
+ou à gauche ; cela ne fait rien, quoique celui-ci le
+soit à gauche, &amp; dans le sens que sont taillées les
+<i>fusées</i> à l&#39;ordinaire. Cet arbre est fixé sur la piece
+<i>X</i> par les deux tenons <i>g g</i>, qui sont la même piece
+que <i>X</i>, en le faisant entrer par <i>g</i>. On passe ensuite
+une piece en forme de canon, taraudée en-dedans
+<i>y</i>, sur le même pas que la vis. On place sur la même 
+vis une autre piece taraudée <i>X</i>, qui sert à déterminer 
+le nombre de tours que l&#39;on veut mettre
+sur la <i>fusée</i>. On passe l&#39;arbre dans le tenon <i>g</i>, &amp;
+après avoir placé la manivelle <i>T</i> dessus en <i>m</i>, dont
+le bout est quarré, on le fixe par le moyen de l&#39;écrou 
+<i>n.</i> A la piece <i>y</i> est jointe celle <i>f</i> ou petit bras,
+par la cheville <i>z</i> qui fait charniere avec elle ; &amp;
+comme cette piece <i>f</i> est fixée au chassis par une
+autre cheville au point <i>k</i>, ce point lui sert de centre 
+lorsque l&#39;on tourne l&#39;arbre. Par le moyen de la
+manivelle, la vis fait avancer ou vers <i>g</i>, ou vers
+<i>X</i>. La piece <i>y</i> ne peut tourner avec la vis, &amp; se
+promener seulement dessus. Ce mouvement d&#39;aller 
+&amp; de venir est répété sur le grand bras <i>e</i>, par
+le moyen de la traverse <i>a a</i>, que l&#39;on fixe sur l&#39;un
+&amp; sur l&#39;autre bras par les chevilles <i>b</i>, que l&#39;on met
+dans les trous dont on a besoin, à proportion des
+hauteurs de <i>fusée</i>. Ce grand bras a vers son milieu
+un emboîtement <i>L</i> percé quarrément, dans lequel
+passe la piece <i>L</i>, dont une partie de la longueur est
+limée quarré; elle remplit l&#39;emboîtement <i>L</i>: l&#39;autre 
+partie est taraudée &amp; passée dans un écrou <i>N ;</i>
+elle sert à faire avancer ou reculer la piece <i>L</i>, qui
+à l&#39;autre extrémité porte une tête fendue, dans laquelle 
+on fixe à charniere la piece <i>H</i>, par la cheville 
+<i>L</i> ; laquelle piece <i>H</i> porte à l&#39;autre bout l&#39;échope 
+<i>G</i>, qui passe au-travers de la tête de cette
+piece, où elle est fixée par la vis 7. L&#39;arbre <i>Z V</i>
+porte une alonge ou assiette <i>C</i>, percée en canon,
+laquelle entre dans l&#39;arbre, &amp; y est fixée par une
+cheville à l&#39;endroit <i>Z</i>. C&#39;est dessus cette assiette
+que l&#39;on fait porter la base de la <i>fusée A</i>, dont la
+tige entre dans le canon <i>B</i> du tasseau ou assiette.
+Cette <i>fusée</i> est fixée à cet endroit par l&#39;autre vis
+<i>D</i>, pour y être taillée.
+</blockquote></p>
+<p>
+Tout étant ainsi disposé, il faut considérer
+deux mouvemens différens au grand bras <i>e ;</i> par
+exemple, si on le fixe au chassis par une de ses
+extrémités, &amp; par la cheville <i>R</i> ; &amp; que l&#39;on tourne 
+la manivelle <i>T</i>, tellement que la piece <i>y</i> avance 
+vers <i>G</i>, &amp; qu&#39;alors on baisse la barre <i>H</i> qui porte 
+l&#39;échoppe <i>G</i> jusqu&#39;à ce qu&#39;elle touche la superficie 
+de la <i>fusée A</i> ; cette <i>fusée</i> se taillera dans le
+sens que la vis de l&#39;arbre <i>z v</i> est taraudée, qui est à
+gauche. Si au contraire on ôte la cheville <i>R</i>, qui
+servoit à fixer le grand bras <i>e ;</i> &amp; que l&#39;on donne à
+<pb n="7:394" facs="V7/ENC_7-394.jpeg" />
+<milestone unit="column" n="1" />
+ce grand bras pour centre de mouvement le point
+<i>P</i>, en y plaçant la vis <i>p</i> dont l&#39;assiette <i>O</i> arrête le
+grand bras : alors, si vous tournez la manivelle
+dans le même sens que vous avez fait ci-devant,
+le haut du grand bras <i>e</i> ira vers <i>W ;</i> au lieu qu&#39;auparavant 
+il alloit vers <i>d:</i> la piece <i>H</i>, par conséquent,
+ira aussi dans un sens contraire à celui qu&#39;il
+avoit auparavant. Ainsi on ne taillera la <i>fusée</i> que
+lorsque l&#39;on tournera la manivelle de l&#39;autre côté.
+Il faut observer de retourner le bec de l&#39;échope
+<i>G</i> de l&#39;autre côté, quand on veut tailler à droite.
+La portion de cercle <i>Q Q</i> est pour contenir le grand
+bras par le bout, &amp; passe dans un empatement fait
+à la piece <i>S</i> qui tient au chassis : On voit que le bout
+supérieur du bras <i>e</i> est fendu en fourche dans laquelle 
+passe la barre <i>d</i>, pour lui servir de guide,
+lorsque l&#39;on a ôté la vis <i>p</i> &amp; remis la cheville <i>R</i>,
+pour tailler à gauche.
+</p>
+<p>
+Il faut aussi que la piece <i>F</i> soit fendue, afin de
+servir d&#39;appui à la piece <i>H</i> lorsqu&#39;on la fait descendre,
+pour que l&#39;échoppe touche à la <i>fusée</i>».
+</p>
+<p>
+Dans toutes les machines à tailler les <i>fusées</i>, on a
+toûjours eu en vûe de former des especes de pas de
+vis sur la <i>fusée</i>, pour contenir la chaîne, ainsi que
+nous l&#39;avons dit. Or il y avoit deux moyens pour
+produire cet effet ; l&#39;un de faire mouvoir la <i>fusée</i> sur
+la longueur de son arc, comme on le fait pour former 
+des pas de vis autour ; l&#39;autre, qui est la meilleure 
+&amp; la plus simple, c&#39;est de faire mouvoir le burin 
+qui doit former les pas de la <i>fusée:</i> c&#39;est en effet le
+dernier principe dont on a toûjours fait usage. Pour
+faire mouvoir le burin ou échope, il y a encore différens 
+moyens ; &amp; c&#39;est par-là particulierement que
+differe la machine de M. le Lievre, dont nous allons
+parler. On a vû dans la description précédente, que
+l&#39;arbre qui porte la <i>fusée</i>, ainsi que la manivelle, est
+une vis qui fait mouvoir un levier qui porte l&#39;échope ; 
+&amp; que suivant les différens points d&#39;appui que
+l&#39;on donne à ce levier, il fait parcourir à l&#39;échope
+des espaces plus ou moins grands par rapport à un
+tour de la vis ; espaces qui determinent le nombre de
+tours de vis ou rainures de la <i>fusée</i>, pour les différentes 
+hauteurs de la <i>fusée</i>. Dans cette construction
+de M. le Lievre, l&#39;axe qui porte la manivelle de la
+<i>fusée</i>, porte un pignon qui engrene dans une espece
+de cramaillere ou longue regle : cette regle se meut
+sur le chassis ; elle en porte une seconde de même longueur,
+qui forme un angle ou plan incliné avec elle : celle-ci agit contre un levier qui porte le burin:
+ainsi en faisant tourner la manivelle, &amp; par conséquent 
+le pignon &amp; la <i>fusée</i>, la regle qui porte le plan
+incliné se meut sur la longueur, &amp; fait mouvoir le burin ; 
+&amp; suivant que l&#39;on donne plus ou moins d&#39;inclinaison 
+au côté de la regle, le burin fait plus ou
+moins de chemin pour un tour de manivelle : venons
+à la description de cet outil de M. le Lievre.
+</p>
+<p>
+On voit dans <i>nos <ref target="XPL:5197" type="platelink">Planches d&#39;Horlogerie</ref></i> cette machine 
+représentée en entier. <i>A A, B B</i>, est la piece
+principale ou chassis, lequel est d&#39;une seule piece &amp;
+de cuivre fondu : il porte un talon <i>T</i>, qui sert à tenir
+cette machine dans l&#39;étau lorsque l&#39;on veut s&#39;en servir.
+L&#39;axe <i>V V</i>, qui porte le pignon <i>p</i> de 12, se
+meut dans les parties saillantes <i>C C</i> du chassis. <i>R R</i>
+est la regle dentée ; elle se meut sur la partie 1, 2,
+3, 4, du chassis, creusée de sorte que cette regle y
+entre juste : son mouvement se fait perpendiculairement 
+à l&#39;axe du pignon <i>p</i>.
+</p>
+<p>
+<i>L L</i> est une seconde regle attachée après la regle
+<i>R R ;</i> elle est de même longueur que la premiere,
+&amp; mobile au point <i>m ;</i> on la fait mouvoir par son extrémité 
+<i>h</i>, au moyen de la vis <i>Q ;</i> ensorte qu&#39;on lui
+fait faire des angles différens qui servent, comme je
+l&#39;ai dit, à faire les pas de la <i>fusée</i> plus près ou plus
+distans ; chose relative à la hauteur des montres &amp;
+<milestone unit="column" n="2" />
+au tems qu&#39;on veut les faire marcher. La piece <i>i, g</i>,
+mobile en <i>g</i>, porte un talon qui appuie continuellement 
+contre la regle <i>L L</i>: un ressort <i>r</i> qui agit sur le
+levier <i>p p</i>, qui se met au point <i>o</i>, sert à cet effet, &amp;
+par conséquent à faire parcourir à cette piece <i>i g</i>, &amp;
+au levier où elle tient, des espaces relatifs aux différens 
+angles, que fait la regle <i>L L</i> avec celle <i>R ;</i> c&#39;est
+ce mouvement qui sert à promener le burin, &amp; à
+former les pas de la <i>fusée</i>. La piece <i>D D</i> sur laquelle
+est ajoûté le coulant qui porte le burin, est mobile
+au point <i>l</i> du levier <i>p ;</i> elle se meut donc ainsi que le
+levier <i>p</i> sur la longueur de l&#39;axe du pignon <i>p</i> (ou
+de la <i>fusée</i>, ce qui est le même). La piece <i>D</i> se meut
+encore dans un autre sens, qui est en s&#39;approchant
+&amp; s&#39;éloignant de l&#39;axe de la <i>fusée f ;</i> ce mouvement
+sert pour faire suivre au burin la forme de la <i>fusée</i>
+déterminée par les courbes faites à la piece <i>H</i>, sur
+laquelle vient poser la vis <i>U</i> qui tient au coulant qui
+porte le burin ; cela regle la forme de la <i>fusée</i> &amp; la
+profondeur des pas. Cette piece <i>D D</i> exige un ajustement 
+fait avec soin, une grande solidité; celle-ci
+passe dans des fentes faites aux pieces <i>K K</i>, comme
+on le voit dans <i>nos figures ;</i> à l&#39;endroit <i>K</i> cette piece
+est vûe de prosil.
+</p>
+<p>
+Une <i>autre figure</i> montre l&#39;ajustement du levier <i>p p</i>
+vû dans un autre sens, &amp; la façon dont se meuvent
+les pieces <i>g i</i> &amp; <i>D D</i>, &amp; comment il se meut lui-même 
+sur la piece ou chassis <i>A A B B</i>, aux points
+<i>o o</i>. La piece <i>D</i> est mobile aux points <i>l l</i>, hauteur
+de l&#39;axe du pignon &amp; de la <i>fusée ;</i> elle tient à celle
+<i>D D ;</i> la piece <i>g i</i> est mobile aux points <i>g g</i> du levier
+<i>p ; q</i> est le prolongement du pignon <i>p ;</i> il est quarré
+&amp; entre dans la manivelle, ensorte que par son
+moyen on fait tourner la <i>fusée</i>, les regles <i>RR, LL</i>,
+&amp; par conséquent le burin.
+</p>
+<p>
+La machine que je viens de décrire ne taille les
+<i>fusées</i> que du même sens de la base au sommet, &amp; il
+est cependant nécessaire de pouvoir en tailler de l&#39;autre,
+pour servir dans le cas où on ajoûte une roue
+de plus dans une montre, ou dans tout autre qui exige 
+que la montre se remonte du sens contraire, ce
+qui s&#39;appelle <i>remonter à droite ou à gauche</i>. Pour remédier 
+à cette difficulté, M. Gédeon Dudal horloger,
+a construit une machine à tailler les <i>fusées</i>, à-peu-près dans les mêmes principes de celle-ci, mais
+qui en differe par cette propriété de tailler les <i>fusées</i>
+à droite &amp; à gauche ; pour cet effet il a rendu le levier 
+<i>LL</i> mobile au milieu de sa longueur, comme au
+point <i>x</i>, au lieu de l&#39;être en <i>m ;</i> ensorte qu&#39;on fait
+faire des angles à la regle <i>LL</i> dont les sommets sont situés 
+ou au bout <i>I</i> de la regle <i>R</i>, ou à celui <i>E</i>, suivant 
+le côté que l&#39;on veut tailler sa <i>fusée ;</i> pour cet
+effet il ne faut que faire approcher ou éloigner le
+point <i>K</i> de <i>I</i>, au moyen de la vis <i>C</i>.
+</p>
+<p>
+M. Admyrauld a aussi construit un outil qui a les
+mêmes propriétés de tailler à droite &amp; à gauche ;
+c&#39;est en rendant le levier <i>L L</i> mobile alternativement
+au point <i>m</i> comme à celle ci, ou à un autre point <i>m</i>
+placé dans l&#39;autre bout <i>I ;</i> il s&#39;est aussi servi d&#39;une
+cramailliere &amp; des autres principes de celle que j&#39;ai
+décrite. Je ne m&#39;arrête donc qu&#39;à ce qui différencie
+ces trois machines à tailler les <i>fusées</i>. Passons à quelques 
+observations.
+</p>
+<p>
+Pour tailler une <i>fusée</i>, il faut commencer par la
+fixer aux pieces <i>t t</i> que porte l&#39;arbre ou pignon <i>p v.</i>
+ces pieces se rejoignent au centre de cet arbre, &amp; y
+forment un trou quarré dans lequel on fait entrer la
+partie quarrée de l&#39;axe de la <i>fusée</i>, &amp; en serrant les
+visses 6, 6, cela fixe la <i>fusée ;</i> l&#39;autre bout de la <i>fusée</i>
+qui se termine en pointe, pose au centre de la broche 
+<i>E</i> qui passe dans le canon <i>G</i> de la piece <i>G K ;</i> il
+y a une vis de pression 7 qui fixe cette broche. Presentement si on veut tailler une <i>fusée</i> qui puisse contenir 
+six tours de chaîne, je suppose, il faut tourner
+<pb n="7:395" facs="V7/ENC_7-395.jpeg" />
+<milestone unit="column" n="1" />
+la manivelle de droite à gauche pour ramoner le
+point <i>F</i> de la cramaillere près de l&#39;arbre <i>p V</i>, ensorte
+que le burin se trouve situe à la base de la <i>fusée</i>, à
+l&#39;endroit où doit commencer le premier filet ou rainure : alors faisant tourner la manivelle de gauche à
+droite, on comptera le nombre de tours que fait la
+manivelle, &amp; par conséquent la <i>fusée</i>, tandis que le
+burin parcourt la hauteur du cone ; s&#39;il fait plus de
+six tours demandés, il faut, au moyen de la vis <i>Q</i>,
+eloigner le point <i>h</i> de celui <i>I</i>, ou ce qui est le même,
+faire que l&#39;angle <i>hIL</i> soit plus ouvert, &amp; au contraire 
+le diminuer si la manivelle ne fait pas six tours
+pendant que le burin parcourt la <i>fusée</i> de la base au
+sommet, &amp; ainsi jusqu&#39;à ce que les six tours demandés 
+se fassent exactement. Il faut ensuite retourner la
+manivelle en ramenant le burin à la base de la <i>fusée</i>,
+où, comme j&#39;ai dit, doit commencer le premier point
+de la rainure ; faire appuyer le burin en pressant la
+piece <i>DD</i> au point <i>O</i>, &amp; ainsi tourner la manivelle
+de gauche à droite jusqu&#39;à ce qu&#39;elle ait fait six tours.
+Le burin ou échope est fixé sur le coulant <i>W</i>, la vis
+<i>g v</i> regle sur la courbe <i>H</i> l&#39;enfoncement du burin
+dans la <i>fusée</i>. 8 est une vis pour fixer le coulant <i>W</i>
+sur la piece <i>D D ;</i> cette rainure de la <i>fusée</i> se fait en
+ramenant à plusieurs reprises le burin à la base de la
+<i>fusée</i>, &amp; en continuant à appuyer pour que le burin
+coupe lorsqu&#39;il va de la base au sommet, <i>&amp;c.</i>
+</p>
+<p>
+Ce que je viens de dire pour tailler une <i>fusée</i> ordinaire,
+servira à donner une idée d&#39;opération que la
+pratique même étendra. Il faut employer les mêmes
+raisonnemens pour tailler de l&#39;autre côté, &amp; recourir 
+à la description de la machine. <i>Article de M. <sc>Ferdinand Berthoud</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

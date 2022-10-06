@@ -1,0 +1,437 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29432" id="52:183" vol="7">
+<index type="head" value="GÉOMETRE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Mathématiq." />
+<index type="normclass" value="Mathématique" />
+<index type="englishclass" value="Mathematics" />
+<index type="generatedclass" value="Philosophie" />
+<index type="pos" value="s.m." />
+<head>GÉOMETRE</head>
+<p>
+GÉOMETRE, s. m. (<i>Mathématiq.</i>) se dit proprement 
+d&#39;une personne versée dans la Géométrie ;
+mais on appliqué en général ce nom à tout mathématicien,
+parce que la Géometrie étant une partie
+essentielle des Mathématiques, &amp; qui a sur presque
+toutes les autres une influence nécessaire, il est difficile 
+d&#39;être versé profondément dans quelque partie
+des Mathématiques que ce soit, sans l&#39;être en même
+tems dans la Géometrie. Ainsi on dit de Newton
+qu&#39;il étoit grand <i>géometre</i>, pour dire qu&#39;il étoit grand
+mathématicien.
+</p>
+<p>
+Un <i>géometre</i>, quand il ne voudroit que se borner
+à entendre ce qui a été trouvé par d&#39;autres, doit
+avoir plusieurs qualités assez rares ; la justesse de
+l&#39;esprit pour saisir les raisonnemens &amp; démêler les
+paralogismes, la facilité de la conception pour entendre 
+avec promptitude, l&#39;étendue pour embrasser
+à-la-fois les differentes parties d&#39;une démonstration
+compliquée, la mémoire pour retenir les propositions 
+principales, leurs demonstrations mêmes, ou
+du-moins l&#39;esprit de ces démonstrations, &amp; pour pouvoir 
+en cas de besoin se rappeller les unes &amp; les autres,
+&amp; en faire usage. Mais le <i>géometre</i> qui ne se
+contentera pas de savoir ce qui a été fait avant lui,
+&amp; qui veut ajoûter aux découvertes de ses prédécesseurs,
+doit joindre à ces différentes parties de l&#39;esprit 
+d&#39;autres qualités encore moins communes, la
+profondeur, l&#39;invention, la force, &amp; la sagacité.
+</p>
+<p>
+Je ne suis pas éloigné de penser avec quelques
+écrivains modernes, que l&#39;on peut apprendre la Géométrie aux enfans, &amp; qu&#39;ils sont capables de s&#39;appliquer 
+à cette science, pourvû qu&#39;on se borne aux seuls 
+élémens, qui étant peu compliqués, ne demandent 
+qu&#39;une conception ordinaire ; mais ces qualités 
+médiocres ne suffisent pas dans l&#39;étude des Mathématiques transcendantes : pour être un <i>savant
+géometre</i>, &amp; même pour n&#39;être que cela, il faut un
+degré d&#39;esprit beaucoup moins commun ; &amp; pour être
+un <i>grand géometre</i> (car le nom de <i>grand</i> ne doit être
+donné qu&#39;aux inventeurs), il faut plus que de l&#39;esprit,
+il faut du génie, le génie n&#39;étant autre chose que le talent 
+d&#39;inventer. Il est vrai que l&#39;esprit dont nous parlons 
+est différent de celui qu&#39;il faut pour une épigramme, pour un poëme, pour une piece d&#39;éloquence,
+pour écrire l&#39;histoire ; mais n&#39;y a-t-il donc d&#39;esprit 
+que de cette derniere espece? <i>Voyez</i> <sc><ref target="head:Esprit" type="search">Esprit</ref></sc>.
+Et un écrivain médiocre, ou même un bon écrivain,
+croira-t-il avoir plus d&#39;esprit que Newton &amp; que
+Descartes?
+</p>
+<p>
+Peut-être nous sera-t-il permis de rapporter à cette
+occasion une réponse de feu M. de la Motte. Un <i>géometre</i> de ses amis, apparemment ignorant ou de mauvaise 
+foi, parloit avec mépris du grand Newton, qu&#39;il
+auroit mieux fait d&#39;étudier ; <i>Newton</i>, disoit ce <i>géometre, n&#39;étoit qu&#39;un boeuf ; cela se peut</i>, répondit la
+Motte, <i>mais c&#39;étoit le premier boeuf de son siecle</i>.
+</p>
+<p>
+On pourroit demander s&#39;il a fallu plus d&#39;esprit
+pour faire Cinna, Heraclius, Rodogune, Horace,
+&amp; Polieucte, que pour trouver les lois de la gravitation.
+Cette question n&#39;est pas susceptible d&#39;être résolue,
+ces deux genres d&#39;esprit étant trop différens
+pour être comparés ; mais on peut demander s&#39;il n&#39;y
+a pas autant de mérite à l&#39;un qu&#39;à l&#39;autre ; &amp; qui auroit 
+à choisir d&#39;être Newton ou Corneille, feroit bien
+d&#39;être embarrassé, ou ne mériteroit pas d&#39;avoir à
+choisir. Au reste cette question est décidée tous les
+jours par quelques littérateurs obscurs, quelques
+satyriques subalternes, qui méprisent ce qu&#39;ils ignorent,
+&amp; qui ignorent ce qu&#39;ils croyent savoir ; incapables,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+je ne dis pas d&#39;apprétier Corneille, &amp; de lire
+Newton, mais de juger Campistron &amp; d&#39;entendre
+Euclide.
+</p>
+<p>
+Si l&#39;esprit nécessaire au <i>géometre</i> n&#39;est pas le même
+que celui dont on a besoin pour réussir dans la Littérature, ils ne s&#39;excluent pas l&#39;un l&#39;autre. Néanmoins
+quand on veut loüer parmi nous un mathématicien,
+on dit de lui qu&#39;il est grand <i>géometre</i>, &amp; <i>cependant</i>
+homme d&#39;esprit &amp; de goût ; on croit lui faire beaucoup 
+d&#39;honneur, &amp; on se sait quelque gré du bon
+mot qu&#39;on s&#39;imagine avoir dit. Ces façons de parler
+si connues, <i>lourd comme un géometre, ignorant comme
+un poëte, ou comme un prédicateur</i>, sont devenues des
+especes de proverbes, &amp; presque des phrases de la
+langue, aussi équitables l&#39;une que l&#39;autre ; les exemples 
+qui en prouvent l&#39;injustice ne sont pas rares ; &amp;
+pour ne parler ici que des Mathématiciens, Pascal
+à qui la Géométrie doit un si bel ouvrage sur la Cycloïde, &amp; qui auroit peut-être été le plus grand <i>géometre</i> de l&#39;univers, si une dévotion assez mal entendue 
+ne lui eût fait abandonner son talent, Pascal
+étoit en même tems un très-bel esprit. Ses Provinciales sont un chef-d&#39;oeuvre de plaisanterie &amp; d&#39;éloquence,
+c&#39;est-à-dire un modele dans les deux genres 
+d&#39;écrire qui paroissent les plus opposés. On dira
+peut-être que Pascal n&#39;est qu&#39;une exception ; il est
+malheureux que l&#39;exception démente si formellement
+la regle qu&#39;on voudroit établir ; mais croit-on que
+cette exception soit la seule? Nous ne citerons point
+M. de Fontenelle, qu&#39;on voudra peut-être ne regarder 
+que comme un bel esprit devenu <i>géometre</i> par accident : mais nous renverrons les détracteurs de la
+Géométrie aux ouvrages philosophiques de Descartes, si bien écrits pour leur tems ; à ceux de Malebranche, qui sont des chefs-d&#39;oeuvre de style ; aux
+poésies de Manfredi, que M. de Fontenelle a si justement 
+célebrées ; aux vers que M. Halley a mis à la
+tête des principes de Newton, &amp; à tant d&#39;autres que
+nous pourrions nommer encore. Si ces <i>géometres</i> n&#39;étoient 
+pas des hommes d&#39;esprit, qu&#39;on nous dise en
+quoi l&#39;esprit consiste, &amp; à quoi il se borne.
+</p>
+<p>
+On connoît la ridicule question du P. Bouhours,
+<i>si un allemand peut avoir de l&#39;esprit?</i> Les Allemands y
+ont répondu comme ils le devoient, par cette question 
+non moins ridicule, <i>si un françois peut avoir le
+sens commun?</i> Ceux qui font aux <i>Géometres</i> le même
+honneur que le P. Bouhours a fait aux Allemands,
+mériteroient qu&#39;on leur demandât aussi, <i>si on peut
+ignorer la Géométrie, &amp; raisonner juste?</i> Mais sans répondre 
+aux injures par d&#39;autres, opposons-y des faits.
+Balzac étoit sans doute un bel esprit, dans le sens où
+l&#39;on prend ordinairement ce mot ; qu&#39;on lise les lettres 
+de Descartes à Balzac, &amp; celles de Balzac à Descartes, &amp; qu&#39;on décide ensuite, si on est de bonne
+foi, lequel des deux est l&#39;homme d&#39;esprit.
+</p>
+<p>
+Descartes, dit-on, fit en Suede d&#39;assez mauvais
+vers pour un divertissement donné à la reine Christine ; mais c&#39;étoit en 1649; &amp; à l&#39;exception de Corneille, qui même ne réussissoit pas toûjours, quelqu&#39;un faisoit-il alors de bons vers en Europe? Les
+premiers opéras de l&#39;abbé Perrin ne valoient peut-être
+pas mieux que le divertissement de Descartes.
+Pascal, ajoûte-t-on, a très-mal raisonné sur la Poésie ;
+cela est vrai, mais que s&#39;ensuit-il de-là? C&#39;est que
+Pascal ne se connoissoit pas en vers, faute peut-être
+d&#39;en avoir assez lû, &amp; d&#39;avoir réfléchi sur ce genre ;
+la Poésie est un art d&#39;institution qui demande quelqu&#39;exercice &amp; quelque habitude pour en bien juger ;
+or Pascal n&#39;avoit lû que des livres de Géométrie &amp;
+de piété, &amp; peut-être de mauvais vers de dévotion
+qui l&#39;avoient prévenu contre la Poésie en général ;
+mais ses provinciales prouvent qu&#39;il avoit d&#39;ailleurs
+le tact très-fin &amp; le goût très-juste. On n&#39;y trouve
+pas un terme ignoble, un mot qui ait vieilli, une plaisanterie 
+froide.
+<pb n="7:628" facs="V7/ENC_7-628.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+La Géométrie, dit-on encore, donne à l&#39;esprit de
+la sécheresse ; oui, quand on y est déjà préparé par
+la nature : en ce cas, on ne seroit guere plus sensible
+aux beautés des ouvrages d&#39;imagination, quand
+même on n&#39;auroit fait aucune étude de la Géométrie ; mais celui à qui la nature aura donné avec le
+talent des Mathématiques un esprit flexible à d&#39;autres 
+objets, &amp; qui aura soin d&#39;entretenir dans son esprit 
+cette heureuse flexibilité, en le pliant en tout
+sens, en ne le tenant point toûjours courbé vers les
+lignes &amp; les calculs, &amp; en l&#39;exerçant à des matieres
+de littérature, de goût, &amp; de philosophie, celui-là
+conservera tout-à-la-fois la sensibilité pour les choses 
+d&#39;agrément, &amp; la rigueur nécessaire aux démonstrations ; 
+il saura résoudre un problème, &amp; lire un
+poëte ; calculer les mouvemens des planetes, &amp;
+avoir du plaisir à une piece de théatre.
+</p>
+<p>
+L&#39;étude &amp; le talent de la Géométrie ne nuisent
+donc point par eux mêmes aux talens &amp; aux occupations 
+littéraires. On peut même dire en un sens,
+qu&#39;ils sont utiles pour quelque genre d&#39;écrire que ce
+puisse être ; un ouvrage de morale, de littérature,
+de critique, en sera meilleur, <i>toutes choses d&#39;ailleurs
+égales</i>, s&#39;il est fait par un <i>géometre</i>, comme M. de
+Fontenelle l&#39;a très-bien observé; on y remarquera
+cette justesse &amp; cette liaison d&#39;idées à laquelle l&#39;étude 
+de la Géométrie nous accoûtume, &amp; qu&#39;elle
+nous fait ensuite porter dans nos écrits sans nous
+en appercevoir &amp; comme malgré nous.
+</p>
+<p>
+L&#39;étude de la Géométrie ne peut sans doute rendre 
+l&#39;esprit juste à celui qui ne l&#39;a pas ; mais aussi un
+esprit sans justesse n&#39;est pas fait pour cette étude, il
+n&#39;y réussira point ; c&#39;est pourquoi si on a eu raison de
+dire que <i>la Géométrie ne redresse que les esprits droits</i>,
+on auroit bien fait d&#39;ajoûter que <i>les esprits droits sont
+les seuls propres à la Géométrie</i>.
+</p>
+<p>
+On ne peut donc avoir l&#39;esprit <i>géometre</i>, c&#39;est-à-dire le talent de la Géométrie, sans avoir en même 
+tems l&#39;esprit <i>géométrique</i>, c&#39;est-à-dire l&#39;esprit de
+méthode &amp; de justesse. Car l&#39;esprit <i>géometre</i> n&#39;est
+proprement que l&#39;esprit <i>géométrique</i>, appliqué à
+la seule Géométrie, &amp; il est bien difficile quand
+on sait faire usage de cet esprit dans les matieres
+géométriques, qu&#39;on ne puisse de même le tourner 
+avec un succès égal vers d&#39;autres objets. Il est
+vrai que l&#39;esprit géometrique pour se développer
+avec toute sa force &amp; son activité, demande quelqu&#39;exercice ; &amp; c&#39;est pour cela qu&#39;un homme concentré 
+dans l&#39;étude de la Géométrie, paroîtra n&#39;avoir 
+que l&#39;esprit <i>géometre</i>, parce qu&#39;il n&#39;aura pas appliqué 
+à d&#39;autres matieres le talent que la nature lui
+a donné de raisonner juste. De plus si les <i>Géometres</i>
+se trompent lorsqu&#39;ils appliquent leur logique à d&#39;autres 
+sciences que la Géométrie, leur erreur est plûtôt 
+dans les principes qu&#39;ils adoptent, que dans les
+conséquences qu&#39;ils en tirent. Cette erreur dans les
+principes peut venir ou de ce que le <i>géometre</i> n&#39;a
+pas les connoissances préliminaires suffisantes pour
+le conduire aux principes véritables, ou de ce que
+les principes de la science dont il traite ne sortent
+point de la sphere des probabilités. Alors il peut arriver 
+qu&#39;un esprit accoûtumé aux démonstrations rigoureuses,
+n&#39;ait pas à un degré suffisant le tact nécessaire 
+pour distinguer ce qui est plus probable d&#39;avec 
+ce qui l&#39;est moins. Cependant j&#39;ose penser encore 
+qu&#39;un <i>géometre</i> exercé à l&#39;evidence mathématique,
+distinguera plus aisément dans les autres sciences 
+ce qui est vraiment évident d&#39;avec ce qui n&#39;est
+que vraissemblable &amp; conjectural ; &amp; que de plus
+ce même <i>géometre</i> avec quelque exercice &amp; quelque
+habitude, distinguera aussi plus aisément ce qui est
+plus probable d&#39;avec ce qui l&#39;est moins ; car la Géométrie a aussi son calcul des probabilités.
+</p>
+<p>
+A l&#39;occasion de ce calcul, je crois devoir faire une
+<milestone unit="column" n="2" />
+réflexion qui contredira un peu l&#39;opinion commune
+sur l&#39;esprit du jeu. On imagine pour l&#39;ordinaire qu&#39;un
+<i>géometre</i>, un savant exercé aux calculs, doit avoir
+l&#39;esprit du jeu dans un degré supérieur ; il me semble 
+que ces deux esprits sont fort différens, si même
+ils ne sont pas contraires. L&#39;esprit <i>géometre</i> est sans
+doute un esprit de calcul &amp; de combinaison, mais
+de combinaison scrupuleuse &amp; lente, qui examine
+l&#39;une après l&#39;autre toutes les parties de l&#39;objet, &amp; qui
+les compare successivement entr&#39;elles, prenant garde 
+de n&#39;en omettre aucune, &amp; de les rapprocher par
+toutes leurs faces ; en un mot ne faisant à-la-fois
+qu&#39;un pas, &amp; ayant soin de le bien assûrer avant que
+de passer au suivant. L&#39;esprit du jeu est un esprit de
+combinaison rapide, qui embrasse d&#39;un coup-d&#39;oeil
+&amp; comme d&#39;une maniere vague un grand nombre
+de cas, dont quelques-uns peuvent lui échapper,
+parce qu&#39;il est moins assujetti à des regles, qu&#39;il n&#39;est
+une espece d&#39;instinct perfectionné par l&#39;habitude.
+D&#39;ailleurs le <i>géometre</i> peut se donner tout le tems nécessaire 
+pour résoudre ses problèmes ; il fait un effort,
+se repose, &amp; repart de-là avec de nouvelles
+forces. Le joüeur est obligé de résoudre ses problèmes 
+sur le champ, &amp; de faire dans un tems donné
+&amp; très-court tout l&#39;usage possible de son esprit. Il
+n&#39;est donc pas surprenant qu&#39;un grand <i>géometre</i> soit
+un joüeur très-médiocre ; &amp; rien n&#39;est en effet plus
+commun.
+</p>
+<p>
+La Géométrie a parmi nous des censeurs de
+tous les genres. Il en est qui lui contestent jusqu&#39;à
+son utilité; nous les renvoyons à la <i>préface</i> si connue 
+de l&#39;histoire de l&#39;académie des Sciences, où les
+mathématiques sont suffisamment vengées de ce reproche.
+Mais indépendamment des usages physiques
+&amp; palpables de la Géométrie, nous envisagerons ici
+ses avantages sous une autre face, à laquelle on n&#39;a
+peut-être pas fait encore assez d&#39;attention : c&#39;est l&#39;utilité 
+dont cette étude peut être pour préparer comme 
+insensiblement les voies à l&#39;esprit philosophique,
+&amp; pour disposer toute une nation à recevoir la lumiere 
+que cet esprit peut y répandre. C&#39;est peut-être
+le seul moyen de faire secoüer peu-à-peu à certaines
+contrées de l&#39;Europe, le joug de l&#39;oppression &amp; de
+l&#39;ignorance profonde sous laquelle elles gémissent.
+Le petit nombre d&#39;hommes éclairés qui habitent certains 
+pays d&#39;inquisition, se plaint amerement quoiqu&#39;en secret, du peu de progrès que les Sciences ont
+fait jusqu&#39;ici dans ces tristes climats. Les précautions
+qu&#39;on a prises pour empêcher la lumiere d&#39;y pénétrer,
+ont si bien réussi, que la Philosophie y est à-peu-près dans le même état où elle étoit parmi nous
+du tems de Louis le Jeune. Il est certain que les abus
+les plus intolérables d&#39;un tribunal qui nous a toûjours
+si justement révoltés, ne se sont produits &amp; ne s&#39;entretiennent 
+que par l&#39;ignorance &amp; la superstition.
+Eclairez la nation, &amp; les ministres de ces tribunaux
+renonceront d&#39;eux-mêmes à des excès dont ils auront
+les premiers reconnu l&#39;injustice &amp; les inconvéniens.
+C&#39;est ce que nous avons vû arriver dans les pays où
+le goût des Arts &amp; des Sciences &amp; les lumieres de la
+Philosophie se sont conservés. On étudie &amp; on raisonne 
+en Italie ; &amp; l&#39;inquisition y a beaucoup rabattu de
+la tyrannie qu&#39;elle exerce dans ces régions, ou l&#39;on
+fait encore prêter serment de ne point enseigner d&#39;autre 
+philosophie que celle d&#39;Aristote. Faites naître, s&#39;il
+est possible, des géometres parmi ces peuples ; c&#39;est
+une semence qui produira des philosophes avec le
+tems, &amp; presque sans qu&#39;on s&#39;en apperçoive. L&#39;orthodoxie la plus délicate &amp; la plus scrupuleuse n&#39;a rien à
+démêler avec la Géométrie. Ceux qui croiroient avoir
+intérêt de tenir les esprits dans les ténebres, fussent-ils 
+assez prévoyans pour pressentir la suite des progrès
+de cette science, manqueroient toûjours de prétexte
+pour l&#39;empêcher de se répandre. Bien-tôt l&#39;étude de
+<pb n="7:629" facs="V7/ENC_7-629.jpeg" />
+<milestone unit="column" n="1" />
+la Géométrie conduira à celle de la méchanique ; celle-ci menera comme d&#39;elle-même &amp; sans obstacle, à
+l&#39;étude de la saine Physique ; &amp; enfin la saine Physique à la vraie Philosophie, qui par la lumiere générale 
+&amp; prompte qu&#39;elle répandra, sera bien-tôt plus
+puissante qué tous les efforts de la superstition ; car
+ces efforts, quelque grands qu&#39;ils soient, deviennent
+inutiles dès qu&#39;une fois la nation est éclairée.
+</p>
+<p>
+Croira-t-on que nous parlons sérieusement, si
+nous employons les dernieres lignes de cet article à
+justifier les <i>Géometres</i> du reproche qu&#39;on leur fait
+d&#39;ordinaire, de n&#39;être pas fort portés à la soûmission
+en matiere de foi? Nous aurions honte de répondre à
+cette imputation, si elle n&#39;étoit malheureusement
+aussi commune qu&#39;elle est injuste. Bayle qui doutoit
+&amp; se moquoit de tout, n&#39;a pas peu contribué à la répandre 
+par les réflexions malignes qu&#39;il a hasardées
+dans l&#39;article <i>Pascal</i>, contre l&#39;orthodoxie des Mathématiciens, &amp; par ses lamentations sur le malheur
+que les <i>Géometres</i> ont eu jusqu&#39;ici de ne voir aucun
+de leurs noms dans le calendrier ; lamentations trop
+peu sérieuses pour être rapportées dans un ouvrage
+aussi grave que celui-ci. Sans répondre à cette mauvaise 
+plaisanterie par quelqu&#39;autre, il est facile de
+se convaincre par la lecture des éloges académiques
+de M. de Fontenelle, par les vies de Descartes, de
+Pascal, &amp; de plusieurs mathématiciens célebres,
+qu&#39;on peut être <i>géometre</i> sans être pour ses freres un
+sujet de scandale. La Géométrie à la vérité ne nous
+dispose pas à ajoûter beaucoup de foi aux raisonnemens 
+de la Medecine systématique, aux hypothèses
+des physiciens ignorans, aux superstitions &amp; aux
+préjugés populaires ; elle accoûtume à ne pas se contenter 
+aisément en matiere de preuves : mais les vérités 
+que la révélation nous découvre, sont si différentes 
+de celles que la raison nous apprend, elles y
+ont si peu de rapport, que l&#39;évidence des unes ne
+doit rien prendre sur le respect qu&#39;on doit aux autres.
+Enfin la foi est une grace que Dieu donne à qui
+il lui plait ; &amp; puisque l&#39;Evangile n&#39;a point défendu
+l&#39;étude de la Geométrie, il est à croire que les <i>Géometres</i> sont aussi susceptibles de cette grace que le
+reste du genre humain. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,133 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30433" id="55:55" vol="7">
+<index type="head" value="GRILLON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton, Louis Jean-Marie" />
+<index type="shortauth" value="Daubenton, Louis Jean-Marie" />
+<index type="kafnum" value="33" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Histoire naturelle" />
+<index type="pos" value="s.m." />
+<head>GRILLON</head>
+<p>
+GRILLON, s. m. <i>grillus</i>, insecte qui ressembleroit 
+à a cigale, si elle n&#39;avoit point d&#39;aîles, &amp; qui
+en differe peu par le bruit qu&#39;il fait.
+</p>
+<p>
+Il y a des <i>grillons</i> domestiques, &amp; des <i>grillons</i> sauvages.
+Parmi ceux-ci, le mâle est presque aussi gros
+que la cigale, mais il a le corps plus long ; sa couleur 
+est noirâtre ; il a la tête grande, &amp; les yeux gros
+&amp; saillans ; il porte sur le front des antennes qui se
+meuvent facilement, quoiqu&#39;elles n&#39;ayent point d&#39;articulation ; 
+il a six jambes de la même couleur que le
+corps, les dernieres sont très-longues, &amp; donnent à
+cet insecte beaucoup de facilité pour sauter ; il peut
+marcher en-arriere comme en-avant ; les aîles couvrent 
+presque tout le corps, elles sont courbes &amp;
+legerement sillonnées ; la queue est fourchue, &amp; le
+corps est plus petit que celui de la femelle, qui a le
+ventre plus gras, les yeux verdâtres, les antennes
+rouges, &amp; la queue semblable à un trident. On voit
+ces insectes dans les champs pendant l&#39;été: ils entrent
+dans la terre &amp; y nichent ; ils y restent pendant l&#39;hyver,
+mais les grands froids les font périr.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Les mâles des <i>grillons</i> domestiques ont le corps
+brun, alongé, &amp; beaucoup moins gros que celui du
+<i>grillon</i> sauvage ; la tête presque ronde, &amp; les yeux
+noirs ; il y a deux lignes blanches transversales sur le
+dos, près des jambes du milieu ; la queue est fourchue.
+La femelle est plus grosse que le mâle ; elle a le ventre 
+plus long ; elle vole avec quatre aîles, celles du
+dessus sont plus courtes que celles du dessous ; la
+queue est divisée en trois soies. Il y a des <i>grillons</i> de
+plusieurs autres especes ; M. Linnaeus en compte quatorze.
+Mouffet, <i>insect. theat. pag. 134. Voyez</i> <sc><ref target="head:Insecte" type="search">Insecte</ref></sc>. (<i>I</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

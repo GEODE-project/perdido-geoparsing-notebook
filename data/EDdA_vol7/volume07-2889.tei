@@ -1,0 +1,129 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30343" id="55:14" vol="7">
+<index type="head" value="GREMIL, ou HERBE AUX PERLES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Daubenton &amp; Jaucourt" />
+<index type="shortauth" value="Daubenton &amp; Jaucourt" />
+<index type="kafnum" value="33 &amp; 60" />
+<index type="kafauth" value="Daubenton, Louis-Jean-Marie (1716-1800) &amp; Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Botanique" />
+<index type="pos" value="s.m." />
+<head>GREMIL</head>
+<p>
+GREMIL, s. m. <i>ou</i> HERBE AUX PERLES, <i>lithospermum</i>, genre de plante à fleur monopétale, infundibuliforme,
+&amp; découpée. Le calice est divisé
+jusqu&#39;à la base ; il en sort un pistil qui entre dans la
+partie inférieure de la fleur, &amp; qui est entouré de
+quatre embryons : ces embryons deviennent des semences 
+arrondies, dures, polies &amp; luisantes ; elles
+mûrissent dans le calice qui l&#39;aggrandit. Tournefort,
+<i>inst. rei herb. Voyez</i> <sc><ref target="head:Plante" type="search">Plante</ref></sc>. (<i>I</i>)
+</p>
+<p>
+Sa racine est dans nos climats de la grosseur du
+pouce, ligneuse &amp; fibreuse. Ses tiges sont hautes de
+près de deux coudées, droites, roides, cylindriques 
+&amp; branchues. Ses feuilles sont nombreuses,
+placées alternativement, longues de deux ou trois
+pouces, pointues, rudes, sans queue, &amp; d&#39;un verd
+noirâtre. Ses fleurs naissent au sommet des tiges &amp;
+des rameaux, de chaque aisselle des feuilles ; elles
+sont portées sur des pédicules courts, &amp; sont d&#39;une
+seule piece, blanches ou d&#39;un verd blanchâtre, à
+entonnoir, partagées en cinq segmens obtus, renfermées 
+dans un calice velu, découpées jusqu&#39;a la
+base en cinq quartiers étroits : leur pistil est verd,
+comme accompagné de quatre embryons, qui se
+changent ensuite en autant de graines arrondies,
+dures, polies, luisantes, d&#39;un gris de perle, &amp; semblables 
+à de petites perles : ces graines grossissent &amp;
+mûrissent dans le calice même ; souvent elles sont au
+nombre de deux ou de trois, rarement de quatre.
+Cette plante vient dans les lieux secs parmi les haies,
+&amp; fleurit en Mai ; elle ne rougit presque pas le papier 
+bleu ; mais comme sa graine est d&#39;usage, elle
+demande un petit article séparé. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

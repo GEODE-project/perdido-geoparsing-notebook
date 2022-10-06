@@ -1,0 +1,128 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28989" id="51:233" vol="7">
+<index type="head" value="GARÇON" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="Gramm. &amp; Comm." />
+<index type="normclass" value="Grammaire | Commerce" />
+<index type="englishclass" value="Grammar | Commerce" />
+<index type="generatedclass" value="Commerce" />
+<index type="pos" value="s.m." />
+<head>GARÇON</head>
+<p>
+GARÇON, s. m. (<i>Gramm. &amp; Comm.</i>) enfant mâle
+à qui cette dénomination demeure tant qu&#39;il reste
+dans le célibat ; ainsi il y a des <i>garçons</i> de tout âge.
+</p>
+<p>
+On appelle chez les Marchands <i>garçons de boutique</i>, ou <i>garçons de magasin</i>, ou simplement <i>garçons</i>,
+des apprentis qui ayant fait le tems de leur apprentissage 
+servent encore chez les Marchands le tems
+marqué par les statuts de chaque corps, avant que
+de pouvoir être reçûs à la maîtrise &amp; de faire le commerce 
+pour eux-mêmes. Il y a des apprentis qui,
+quoique reçûs maîtres, se fixent à la qualité de <i>garçons</i>, &amp; qui par leur intelligence sont très-utiles aux
+maîtres qui les employent &amp; qui les gagent, au lieu
+que les apprentis payent à leurs maîtres.
+</p>
+<p>
+Ces <i>garçons</i> aident à ranger, à plier, à remuer &amp;
+à vendre les marchandises dans la boutique ou dans
+le magasin ; ils les portent même en ville lorsqu&#39;il en
+est besoin. Ce sont eux qui vont recevoir &amp; faire
+accepter les lettres &amp; billets de change, qui tiennent 
+les livres, en tirent des extraits pour dresser les
+mémoires &amp; parties des débiteurs, <i>&amp;c.</i>
+</p>
+<p>
+Les Banquiers donnent toûjours à ceux qui les aident 
+dans leur commerce le nom de <i>commis</i>, &amp; jamais 
+celui de <i>garçons</i>. Les Marchands donnent quelquefois 
+à leurs <i>garçons</i> le nom de <i>facteurs</i> &amp; <i>commis</i>,
+mais improprement.
+</p>
+<p>
+<i>Garçons</i>, se dit aussi des compagnons ou apprentis 
+qui travaillent chez les artisans ; un <i>garçon</i> menuisier,
+un <i>garçon</i> perruquier, <i>&amp;c. Dict. de Comm</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27636" id="48:77" vol="7">
+<index type="head" value="FONTANGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Anonymous woman5" />
+<index type="shortauth" value="Anonymous woman" />
+<index type="kafnum" value="" />
+<index type="kafauth" value="" />
+<index type="attribution" value="attributed" />
+<index type="class" value="Modes." />
+<index type="normclass" value="Mode" />
+<index type="englishclass" value="Fashion" />
+<index type="generatedclass" value="Marchand de modes" />
+<index type="pos" value="s.f." />
+<head>FONTANGE</head>
+<p>
+FONTANGE, s. f. (<i>Modes.</i>) Ce fut dans le dixseptieme 
+siecle, je ne dirai pas une parure, mais un
+édifice de dentelles, de cheveux, &amp; de rubans à plusieurs 
+étages, que les femmes portoient sur leurs têtes.
+On voyoit sur une base de fil-de-fer s&#39;élever la
+duchesse, le solitaire, le chou, le mousquetaire, le
+croissant, le firmament, le dixieme ciel, &amp; la souris.
+Aujourd&#39;hui c&#39;est un simple noeud de rubans qui sert
+d&#39;ornement à leur coëffure : il porte le nom de celle
+<pb n="7:106" facs="V7/ENC_7-106.jpeg" />
+<milestone unit="column" n="1" />
+qui a imaginé la <i>fontange</i> ancienne ; comme <i>palatine</i>,
+parure de cou, celui de la princesse qui en a introduit 
+l&#39;usage en France.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

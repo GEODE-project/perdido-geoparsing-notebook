@@ -1,0 +1,190 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28542" id="50:226:1" vol="7">
+<index type="head" value="Fumigation" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medec. thérap." />
+<index type="normclass" value="Médecine thérapeutique" />
+<index type="englishclass" value="Medicine. Treatment" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="NA" />
+<head>Fumigation</head>
+<p>
+<sc>Fumigation</sc>, en latin moderne <i>fumigation,
+fumigium</i>, (<i>Medec. thérap.</i>) medicament externe,
+appliqué sous la forme de vapeur ou de fumée, à
+diverses parties du corps humain, pour la guérison
+des maladies. Il résulte de-là, qu&#39;on peut distinguer
+deux sortes de <i>fumigations</i>, les unes humides, &amp; les
+autres seches.
+</p>
+<p>
+Les <i>fumigations humides</i> se font en exposant toute
+la surface du corps, ou seulement la partie malade,
+aux vapeurs d&#39;un médicament qu&#39;on fait bouillir sur
+le feu ; telle est la vapeur des décoctions émollientes<gap type="hyphenpb" />
+<pb n="7:367" facs="V7/ENC_7-367.jpeg" />
+<milestone unit="column" n="1" />
+anodynes, que les Medecins conseillent de recevoir 
+sur une chaise de commodité, pour appaiser
+les douleurs hémorrhoïdales. Telles sont encore les
+vapeurs du vinaigre que l&#39;on tient sur le feu, &amp; qui
+se répandent dans l&#39;air, pour en purifier l&#39;atmosphere 
+dans les maladies contagieuses &amp; pestilentielles.
+</p>
+<p>
+On conçoit déjà que la matiere des <i>fumigations
+humides</i> est toute liqueur qui peut par l&#39;action du feu
+se résoudre en vapeurs ; par exemple, l&#39;eau, le lait,
+le petit-lait, le vin, le vinaigre, l&#39;esprit-de-vin, l&#39;urine,
+les préparations officinales, comme les eaux
+distillées, les teintures, les essences, les esprits, les
+infusions, les décoctions, <i>&amp;c.</i> Les vapeurs humides
+se tirent de toutes ces choses, ou en les enflammant,
+ou ce qui est le plus ordinaire, en les faisant bouillir
+sur le feu. Ce seroit sans doute une chose ridicule,
+que d&#39;employer pour <i>fumigations humides</i>, des mixtes 
+dont la vertu ne pourroit se volatiliser par la chaleur 
+de la liqueur bouillante. Par conséquent, les astringens,
+les extraits épaissis par la coction, les parties 
+fixes des animaux &amp; des fossiles, ne sauroient
+convenir.
+</p>
+<p>
+S&#39;il faut appliquer de fort près la vapeur humide
+sur le corps, on a inventé pour y parvenir des loges,
+des siéges, des coffres, des machines voûtées, ou le
+malade debout, assis, couché, ayant la tête en-dehors,
+étant nud, ou simplement couvert d&#39;un linge 
+fin, reçoit la vapeur qui s&#39;éleve de la liqueur
+bouillante ou enflammée. S&#39;il s&#39;agit de diriger les
+vapeurs dans quelque cavité du corps, par exemple,
+dans l&#39;oreille, les narines, le pharynx, les bronches,
+le vagin. l&#39;uterus, le fondement ; on se sert d&#39;entonnoirs 
+faits exprès.
+</p>
+<p>
+Enfin, comme les vapeurs élevées par le feu sont
+d&#39;une extrème pénétrabilité, &amp; que le medecin n&#39;a
+d&#39;autre but que le soulagement &amp; la guérison de son
+malade ; c&#39;est à lui bien instruit, qu&#39;il appartient
+dans chaque cas particulier de prescrire combien de
+tems doit durer la <i>fumigation humide</i>, combien de
+fois il faut la répéter, ce qu&#39;il convient de faire
+avant, pendant, &amp; après le remede.
+</p>
+<p>
+Les <i>fumigations seches</i>, connues par quelques-uns
+sous le nom de <i>parfums</i>, se pratiquent en exposant
+la partie malade à la fumée de quelque médicament
+externe sec, inflammable, ou volatil, qu&#39;on brûle
+sur des charbons ardens, &amp; dont on introduit la fumée 
+par artifice dans les ouvertures extérieures du
+corps humain. C&#39;est ainsi qu&#39;on employe la <i>fumigation</i> de l&#39;ambre, du castoréum, du jayet, dans les
+suffocations de matrice ; la <i>fumigation</i> du soufre dans
+les maladies cutanées, &amp; quelquefois les <i>fumigations</i>
+mercurielles dans les maux vénériens. <i>Voyez</i> <sc><ref target="head:Fumigation mercurielle" type="search">Fumigation mercurielle</ref></sc>.
+</p>
+<p>
+On employe les <i>fumigations seches</i> dans la cure
+prophylactique &amp; thérapeutique, pour fortifier,
+échauffer, résoudre, dessécher : en conséquence,
+on expose aux <i>fumigations seches</i> des morceaux de
+flanelle ou de toile, avec lesquels on peut frotter
+les parties malades, &amp; de telles frictions méritent
+de n&#39;être pas négligées. <i>Voyez</i> <sc><ref target="head:Friction" type="search">Friction</ref></sc>.
+</p>
+<p>
+Mais il faut remarquer que dans les <i>fumigations seches</i>, ainsi que dans les <i>fumigations humides</i>, le medecin 
+doit toûjours faire attention à la porosité de
+toute l&#39;habitude du corps, à la sensibilité, à la délicatesse 
+des parties internes, enfin à cette force étonnante du feu, qui sépare le principe des corps concrets,
+&amp; qui les change entierement. Ces sortes d&#39;attentions 
+sont nécessaires, afin de choisir les matieres 
+qui conviennent au but qu&#39;on se propose, &amp; qui
+peuvent soulager les parties malades, sans nuire à
+celles qui sont saines. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

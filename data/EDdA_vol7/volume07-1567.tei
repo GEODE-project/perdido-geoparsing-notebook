@@ -1,0 +1,552 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29021" id="51:235:28" vol="7">
+<index type="head" value="Garde d&#39;Enfans mineurs" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde d&#39;Enfans mineurs</head>
+<p>
+<sc>Garde d&#39;Enfans mineurs</sc>, appellée dans la
+basse latinité <i>bailia, ballum, warda</i>, &amp; en latin plus
+correct <i>custodia</i>, est l&#39;administration de leur personne 
+pendant un certain tems, &amp; le droit qui est accordé 
+au gardien pour cette administration, de jouir
+des biens du mineur ou d&#39;une partie d&#39;iceux, sans en
+rendre compte, aux charges prescrites par la coûtume.
+</p>
+<p>
+Quelques-uns prétendent trouver l&#39;origine de la
+<i>garde</i> jusque chez les Romains, &amp; citent à ce sujet
+la loi 6 au code <i>de bonis quoe liberos</i>, qui fait mention
+du droit d&#39;usufruit accordé au pere ou ayeul sur les
+biens du fils de famille étant en sa puissance. Cet
+usufruit est accordé comme une suite du droit de
+puissance paternelle, avec lequel la <i>garde</i> a en effet
+quelque rapport ; mais elle differe en ce que la puissance 
+paternelle n&#39;est accordée qu&#39;aux peres &amp;
+ayeuls, au lieu que la <i>garde</i> est aussi accordée aux
+meres &amp; ayeules, &amp; même en quelques coûtumes
+aux collatéraux. L&#39;usufruit que donne la puissance
+paternelle ne finit que par l&#39;émancipation du fils de
+famille, à la différence de la <i>garde</i>, qui finit à un
+certain âge, qui est toûjours avant la majorité.
+</p>
+<p>
+D&#39;autres comparent la <i>garde</i> à l&#39;administration que
+les meres avoient de leurs enfans étant en pupillarité,
+lorsque le pere ou ayeul étoit décédé. Seneque en son livre de la consolation <i>ad Martiam</i>, dit:
+<i>pupillus relictus est usque ad quattordecimum annum
+sub matris custodia ;</i> à quoi il rapporte aussi ce que
+dit Horace, <i>liv. I</i>. de tes epîtres.
+<center>
+<i>Ut piger annus
+Pupillis, quos dura premit custodia matrum</i>.
+</center>
+</p>
+<p>
+Pontanus sur la coûtume de Blois, <i>tit. ij. art. 4</i>.
+tient que la <i>garde</i> est une espece de tutelle qui vient
+des moeurs &amp; coûtumes des Gaulois.
+</p>
+<p>
+Mais il est plus vraissemblable que l&#39;origine de la
+<i>garde</i> vient des fiefs ; qu&#39;elle fut établie en faveur
+des vassaux mineurs qui n&#39;étoient point en âge de
+faire le service de leurs fiefs. Le Roi ou autre seigneur 
+dont le fief relevoit, prenoit sous sa <i>garde</i> &amp;
+protection le vassal mineur ; &amp; comme il avoit soin
+de son éducation, &amp; qu&#39;il faisoit desservir le fief par
+un autre, il joüisoit pour cela des revenus du fief,
+jusqu&#39;à ce que le vassal fut en âge de faire la foi, sans
+être tenu d&#39;en rendre aucun compte.
+</p>
+<p>
+Loisque le Roi avoit la <i>garde</i>, on l&#39;appelloit <i>garde
+royale ;</i> lorsqu&#39;elle appartenoit au seigneur, elle étoit
+appellée <i>garde seigneuriale</i>.
+</p>
+<p>
+Quelquefois le Roi ou le seigneur la cédoient aux
+<milestone unit="column" n="2" />
+pere, mere, ou autres ascendans ou parens du mineur : &amp; comme en ce tems on ne donnoit les fiefs
+qu&#39;aux nobles, qu&#39;il n&#39;y avoit presque point de noble 
+qui n&#39;eût quelque fief, &amp; que les roturiers auxquels 
+on permit dans la suite d&#39;en posséder, devenoient 
+nobles par la possession de ces fiefs lorsqu&#39;ils
+se soûmettoient à en faire le service ; on appella
+<i>garde noble</i>, la <i>garde</i> de tous les mineurs nobles ou
+possédant fiefs ; &amp; à l&#39;imitation de cette <i>garde</i> noble,
+on accorda dans la suite aux pere &amp; mere non nobles 
+la <i>garde</i> bourgeoise de leurs enfans mineurs.
+</p>
+<p>
+La premiere source de la <i>garde</i> se trouve donc
+dans le droit féodal des Saxons, où il est dit <i>article
+xviij. §. 6. dominus etiam est tutor pueri in bonis quoe
+de ipso tenet infrà annos pueriles, dum nulli contulie
+hoc emolumentum, &amp; debet inde reditas accipere, donec
+puer ad annos perveniat suprà scriptos, infra quos puer
+se negligere non valebit, si à domino non potuerit investiri</i>.
+</p>
+<p>
+Quelques-uns prétendent qu&#39;il est parlé de la <i>garde</i>
+dans les capitulaires de Charlemagne ; mais il est
+constant que le droit de <i>garde</i> est moins ancien en
+France, &amp; qu&#39;il ne commença d&#39;y être usité, que
+lorsque les fiefs devinrent héréditaires ; ce qui n&#39;arriva,
+comme on sait, que vers le commencement
+de la troisieme race, ou au plûtôt vers la fin de la
+seconde.
+</p>
+<p>
+En effet, tant que les fiefs ou bénéfices ne furent
+qu&#39;à vie, il ne falloit point de gar lien pour administrer 
+ces sortes de biens, parce qu&#39;on ne les donnoit 
+jamais qu&#39;à des gens en état de porter les armes
+&amp; d&#39;administrer leurs biens.
+</p>
+<p>
+Ce ne fut donc que quand les fiefs commencerent
+à devenir héréditaires, que les seigneurs prévoyant
+que ces fiefs pourroient échoir à des mineurs qui ne
+seroient pas en état de faire le service militaire dû à
+cause des fiefs, se réserverent en quelques lieux la
+joüissance de ces fiefs, lorsque ceux auxquels ils appartenoient,
+n&#39;étoient pas en âge de remplir leurs
+devoirs de vassaux ; savoir lorsque les mâles n&#39;avoient 
+pas vingt ou vingt-un ans accomplis, parce
+qu&#39;avant cet âge, ils n&#39;etoient pas réputés capables
+de porter les armes, comme il est dit dans Fleta,
+<i>liv. I. chap. jx. §. 3.</i> &amp; à l&#39;égard des filles, elles tomboient 
+en <i>garde</i> pour leurs fiefs jusqu&#39;à ce qu&#39;elles
+eussent atteint l&#39;âge de puberté, parce que jusque-là
+elles n&#39;étoient point en etat de prendre un mari pour
+servir le fief.
+</p>
+<p>
+De-là vint la <i>garde</i> royale &amp; seigneuriale ; la <i>garde</i>
+royale étoit devolue au Roi pour les fiefs mouvans
+immédiatement de lui, qui appartenoient à des mineurs ; 
+&amp; le Roi dans ce cas joüissoit non-seulement
+des fiefs mouvans de lui, mais aussi des arriere-fiefs ;
+au lieu que les autres seigneurs ne joüissoient que
+des fiefs qui étoient mouvans d&#39;eux immédiatement,
+comme il est dit dans les <i>articles 215.</i> &amp; <i>216.</i> de la
+coûtume de Normandie.
+</p>
+<p>
+Dans quelques endroits les seigneurs, au lieu de se
+réserver cette joüissance, permirent aux parens les
+plus proches des mineurs du côté dont les fiefs leur
+étoient échûs, de desservir ces fiefs ; ils choisissoient
+même quelquefois entre ces parens celui qui étoit le
+plus propre à s&#39;acquitter de ce devoir, comme on
+voit dans la chronique de Cambrai &amp; d&#39;Arras, <i>liv.
+XXXIII. ch. lxvj</i>. où la <i>garde</i> est nommée <i>custodia:
+hujus custodiae puerum cum bono ejus commisit</i>, dit
+cette chronique ; &amp; en françois cette commission fut
+nommée <i>bail</i> ou <i>garde ;</i> &amp; les parens qui en étoient
+chargés furent appellés <i>bails</i> ou <i>baux</i>, &amp; <i>baillistres</i>,
+du latin <i>bajulus</i>, qui dans la moyenne &amp; basse latinité 
+signifioit <i>gouverneur, administrateur</i>.
+</p>
+<p>
+Dans quelques coûtumes on distinguoit la <i>garde</i>
+du <i>bail ;</i> la <i>garde</i> proprement dite n&#39;étoit accordée
+qu&#39;aux ascendans, le <i>bail</i> aux collatéraux. D&#39;autres
+<pb n="7:488" facs="V7/ENC_7-488.jpeg" />
+<milestone unit="column" n="1" />
+ont resusé à ces derniers la <i>garde</i> ou le bail, comme
+on voit dans la coûtume de Châteauneuf en Thimerais, <i>art. 139.</i> qui porte que dans cette baronnie bail
+de mineurs n&#39;aura plus lieu, mais qu&#39;il sera pourvû
+de tuteurs &amp; curateurs, sinon que les peres ou meres 
+eussent pris la <i>garde</i> d&#39;iceux mineurs.
+</p>
+<p>
+Les anciennes ordonnances ont compris sous le
+terme de <i>bail</i> l&#39;administration des ascendans aussi bien 
+que celle des collatéraux ; l&#39;une &amp; l&#39;autre est
+nommée <i>ballum</i> dans une ordonnance de saint Loüis
+du mois de Mai 1246. Cette même ordonnance distingue 
+néanmoins la garde du bail ; la <i>garde</i> paroît
+prise pour le soin de la personne, &amp; le bail pour
+l&#39;administration des biens. En effet cette même ordonnance 
+veut que le collatéral héritier présomptif
+du fief du mineur en ait le bail, mais que la <i>garde</i> de
+la personne du mineur appartienne au collatéral qui
+est dans le degré suivant.
+</p>
+<p>
+Les Anglois qui ont emprunté comme nous la
+<i>garde</i> du droit féodal, nous en fournissent des exemples 
+fort anciens. Malcome II. roi d&#39;Ecosse, qui
+monta sur le throne en 1004, traita avec ses sujets
+auxquels il donna les terres qu&#39;ils possédoient, à la
+charge de les tenir de lui à foi &amp; hommage, &amp; tous
+les barons lui accorderent le relief &amp; la garde ; <i>&amp;
+omnes barones concesserunt sibi wardam &amp; relevium de
+haerede cujuscumque baronis defuncti ad sustentationem
+domini regis</i>. La charte des libertés d&#39;Angleterre de
+l&#39;an 1215, fait aussi mention de la <i>garde</i>.
+</p>
+<p>
+En France l&#39;acte le plus ancien que je connoisse
+où il soit parlé du bail ou <i>garde</i> des mineurs, c&#39;est
+une charte de l&#39;an 1227, rapportée par Duchesne
+dans ses preuves de l&#39;histoire de la maison de Chatillon.
+</p>
+<p>
+Matthieu Paris en parle aussi aux années 1231,
+1245 &amp; 1257, où l&#39;on voit que le roi vendoit ou
+donnoit la <i>garde</i> des mineurs à qui bon lui sembloit.
+</p>
+<p>
+La plus ancienne ordonnance qui concerne le bail
+&amp; la <i>garde</i>, est celle de saint Loüis du mois de Mai
+1246, qui a pour objet de régler le bail &amp; le rachat
+dans les coûtumes d&#39;Anjou &amp; du Maine.
+</p>
+<p>
+Le <i>chap. xvij</i>. des établissemens faits par ce même
+prince en 1270, porte que la mere noble a le bail
+de son hoir mâle jusqu&#39;à 21 ans, &amp; celui de la fille
+jusqu&#39;à 15, au cas qu&#39;il n&#39;y ait pas d&#39;hoir mâle. Il
+paroît résulter de-là que quand il y avoit un enfant
+mâle, la fille ne tomboit pas en <i>garde</i> ou en bail,
+l&#39;aîné étoit apparemment saisi de toute la succession,
+&amp; gagnoit les fruits jusqu&#39;à ce que ses puînés l&#39;eussent 
+sommé de leur en faire partage.
+</p>
+<p>
+Le <i>chap. cxvij</i>. de cette même ordonnance veut
+que la <i>garde</i> du fief soit donnée à celui qui en est héritier 
+présomptif, &amp; la <i>garde</i> de la personne à un
+autre parent, de crainte que l&#39;héritier ne desirât plûtôt 
+la mort que la vie des enfans ; &amp; l&#39;on ne donnoit
+joüissance de la terre du mineur à celui qui avoit la
+<i>garde</i> de sa personne, qu&#39;autant qu&#39;il en falloit pour
+le nourrir.
+</p>
+<p>
+A l&#39;égard des roturiers, les pere &amp; mere étoient
+les seuls qui eussent le bail de leurs enfans ; &amp; en
+cas qu&#39;ils fussent tous deux décédés, l&#39;héritier présomptif 
+pouvoit bien tenir les enfans ; mais ils avoient
+la liberté d&#39;aller demeurer chez un autre parent ou
+même chez un étranger qui avoit le soin de leurs
+personnes &amp; de leurs biens.
+</p>
+<p>
+Le roi Jean qui étoit bail &amp; <i>garde</i> du duc de Bourgogne, étant prisonnier en Angleterre, son fils aîné,
+comme le représentant, fit les fonctions de bail, &amp;
+en cette qualité donna des bénéfices dont la nomination 
+appartenoit au duc de Bourgogne.
+</p>
+<p>
+Anciennement il n&#39;y avoit que les fruits des héritages 
+féodaux qui tombassent en <i>garde</i>, ce qui s&#39;observe 
+encore dans les coûtumes de Vermandois &amp;
+de Melun.
+<milestone unit="column" n="2" />
+</p>
+<p>
+La <i>garde</i> n&#39;étoit point considérée comme un avantage ; 
+mais insensiblement les gardiens étendirent
+leurs droits au préjudice des mineurs. Ces usages
+furent reçus diversement dans les coûtumes.
+</p>
+<p>
+Quelques-unes n&#39;usent que du terme de <i>garde</i> pour
+designer cette <i>administration</i>, comme celle de Paris ;
+d&#39;autres l&#39;appellent simplement <i>bail</i>, comme celle
+du Maine ; d&#39;autres disent <i>garde</i> ou <i>bail</i> indifféremment,
+telle que la coûtume de Peronne.
+</p>
+<p>
+D&#39;autres distinguent la <i>garde</i> du bail. Celle d&#39;Orléans dit que les ascendans sont gardiens, que les
+baillistres sont la mere ou ayeule remariée &amp; les
+collatéraux ; celles de Melun &amp; de Mantes déferent
+le bail aux collatéraux ; celle de Reims dit que bail
+d&#39;enfant n&#39;a lieu, &amp; elle ne défere la <i>garde</i> qu&#39;aux
+ascendans.
+</p>
+<p>
+La coûtume de Blois joint ensemble les termes de
+<i>garde, gouvernement</i>, &amp; <i>administration</i>.
+</p>
+<p>
+Quelques coûtumes, comme celles de Mantes &amp;
+d&#39;Anjou, n&#39;admettent la <i>garde</i> que pour les nobles,
+&amp; non pour les roturiers ; d&#39;autres, comme Paris,
+admettent l&#39;une &amp; l&#39;autre.
+</p>
+<p>
+En Normandie il y a <i>garde royale</i> &amp; <i>garde seigneuriale</i>.
+</p>
+<p>
+En Bretagne les enfans tomboient aussi en la
+<i>garde</i> du duc &amp; des autres seigneurs ; mais ce droit
+fut changé en rachat par accord fait entre Jean duc
+de Bretagne, fils de Pierre Mauclerc, &amp; les nobles
+du pays.
+</p>
+<p>
+Quelques coûtumes, comme celle de Châlons,
+n&#39;admettent ni <i>garde</i> ni bail.
+</p>
+<p>
+Enfin quelques-unes n&#39;en parlent point, &amp; ont
+pourvû en diverses autres manieres à l&#39;administration 
+des mineurs &amp; de leurs biens, &amp; aux droits des
+pere, mere, &amp; autres ascendans.
+</p>
+<p>
+Le droit commun &amp; le plus général que l&#39;on suit
+présentement par rapport à la <i>garde</i> qui a lieu pour
+les pere, mere, &amp; autres parens, est qu&#39;on la considere 
+comme un avantage accordé au gardien, parce
+qu&#39;ordinairement il y trouve du bénéfice, &amp; qu&#39;il ne
+l&#39;accepte que dans cette vûe.
+</p>
+<p>
+Elle participe de la tutelle, en ce que le gardien
+est chargé de nourrir &amp; entretenir les mineurs selon
+leur condition, &amp; qu&#39;il a l&#39;administration de leurs
+biens qui tombent en <i>garde:</i> mais le pouvoir du tuteur 
+est beaucoup plus étendu.
+</p>
+<p>
+Les pere &amp; mere mineurs ont la <i>garde</i> de leurs enfans,
+aussi-bien que les majeurs : mais on donne un
+tuteur ou curateur au gardien, lorsqu&#39;il est mineur.
+</p>
+<p>
+Les dispositions entre-vifs ou testamentaires, par
+lesquelles les ascendans ordonneroient que leurs enfans 
+ne tomberont pas en <i>garde</i>, ne seroient pas valables,
+parce qu&#39;ils ne peuvent pas ôter ce droit au survivant,
+qui le tient de la coutume.
+</p>
+<p>
+La <i>garde</i> n&#39;est jamais ouverte qu&#39;une fois à l&#39;égard
+des mêmes enfans ; quand on ne l&#39;a pas prise lorsqu&#39;elle étoit ouverte, on ne peut plus y revenir ; &amp;
+elle ne se réitere point, c&#39;est-à-dire que les enfans ne
+tombent jamais deux fois en <i>garde</i>.
+</p>
+<p>
+Si les ascendans ont laissé créer un tuteur à leurs
+enfans ou petits-enfans, ils ne peuvent plus en prendre 
+la <i>garde</i>, quand même ce seroit eux qui seroient
+tuteurs, à-moins qu&#39;ils ne se soient reservé expressément 
+la faculté de prendre la <i>garde</i>.
+</p>
+<p>
+La <i>garde</i> doit être acceptée en personne, &amp; non
+par procureur.
+</p>
+<p>
+L&#39;acceptation ne peut pas être faite au greffe, mais
+en jugement, c&#39;est-à-dire l&#39;audience tenante. L&#39;usage
+est que le gardien se présente assisté d&#39;un procureur,
+qui requiert lettres de ce que sa partie accepte la <i>garde ;</i> ce que le juge lui accorde.
+</p>
+<p>
+Les juges de privilége ne peuvent pas déférer la
+<i>garde ;</i> c&#39;est au juge ordinaire du domicile du défunt à
+la déférer. Cette regle ne reçoit d&#39;exception qu&#39;à l&#39;égard<gap type="hyphenpb" />
+<pb n="7:489" facs="V7/ENC_7-489.jpeg" />
+<milestone unit="column" n="1" />
+des princes &amp; princesses du sang, auxquels la
+<i>garde</i> est déférée par le parlement ; &amp; il est bon à ce
+propos de relever une fausse tradition qui a eu cours à
+ce sujet, savoir, que lorsque Gaston, frere de Louis
+XIII. voulut prendre la <i>garde</i> noble de ses filles ; pour
+le dispenser d&#39;aller au châtelet, le roi rendit une déclaration,
+par laquelle il transféra le châtelet pour
+vingt-quatre heures au palais d&#39;Orléans, dit <i>Luxembourg</i>, où demeuroit Gaston ; que le châtelet y tint
+son audience, pendant laquelle Gaston vint en personne 
+accepter la <i>garde</i>. Cependant il est certain qu&#39;il
+y a arrêt du parlement du 2 Septembre 1627, qui
+montre que l&#39;acceptation de la <i>garde</i> noble y fut véritablement 
+faite par Gaston duc d&#39;Orléans.
+</p>
+<p>
+Dans les coûtumes qui ne fixent point le tems
+pour accepter la <i>garde</i>, elle peut toûjours être demandée 
+tant qu&#39;il n&#39;y a pas de tuteur nommé.
+</p>
+<p>
+L&#39;acceptation de la <i>garde</i> faite <i>rebus integris</i>, a
+un effet rétroactif au jour de l&#39;ouverture de la <i>garde</i>.
+</p>
+<p>
+Celui qui a une fois accepté la <i>garde</i> ne peut plus
+s&#39;en démettre que du consentement de ses mineurs ;
+mais il peut s&#39;en démettre malgré ses créanciers.
+</p>
+<p>
+Le gardien même mineur n&#39;est point relevé de son
+acceptation, sous prétexte de minorité, lésion, ou autrement.
+</p>
+<p>
+Dans les coûtumes où le gardien, soit noble ou
+roturier, gagne les meubles, il n&#39;en fait point d&#39;inventaire : mais il doit toûjours faire inventorier les
+titres &amp; papiers, pour en constater la quantité &amp; la
+valeur, afin que l&#39;on ne puisse pas lui en demander
+davantage : cet inventaire doit être fait avec le tuteur
+ou subrogé-tuteur des enfans.
+</p>
+<p>
+Si le gardien est en communauté de biens avec ses
+enfans, il faut que l&#39;inventaire soit fait &amp; clos dans
+le tems &amp; la forme prescrits par la coûtume ; autrement 
+la communauté continueroit, &amp; le bénéfice de
+la <i>garde</i> y seroit confondu jusqu&#39;à ce qu&#39;il y ait un
+inventaire clos.
+</p>
+<p>
+Le gardien doit aussi, pour sa sûreté, faire un procès-verbal de l&#39;état des immeubles, pour les rendre
+au même état de grosses réparations.
+</p>
+<p>
+La tutelle n&#39;appartient pas de plein droit au gardien ; 
+ainsi il ne peut, sans être tuteur, recevoir le
+remboursement volontaire ou forcé des rentes dûes
+à ses mineurs ; il ne peut aliéner leurs immeubles, &amp;
+on ne peut en faire le decret sur lui ; il ne peut déduire 
+en jugement aucunes actions réelles de ses mineurs,
+soit en demandant ou en défendant, ni même 
+y déduire d&#39;autres actions personnelles que celles 
+qui concernent la joüissance qu&#39;il a droit d&#39;avoir
+comme gardien.
+</p>
+<p>
+Lors donc qu&#39;il s&#39;agit de quelque acte que le gardien 
+ne peut pas faire, on crée un tuteur ou curateur
+au mineur.
+</p>
+<p>
+Si le mineur n&#39;a pas d&#39;autres biens que ceux compris 
+dans la <i>garde</i>, le gardien doit avancer au tuteur
+l&#39;argent nécessaire pour exercer les droits du mineur,
+quand ce seroit pour procéder contre le gardien lui-même,
+sauf à celui-ci à répéter ces avances après la
+fin de la <i>garde</i>, s&#39;il y a lieu.
+</p>
+<p>
+Quant à l&#39;émolument de la <i>garde</i>, c&#39;est un statut
+réel qui se regle par chaque coûtume pour les biens
+qui y sont situés.
+</p>
+<p>
+Les coûtumes ne sont pas uniformes sur ce point ;
+les unes donnent au gardien les meubles en propriété; 
+d&#39;autres ne les donnent qu&#39;au gardien noble ;
+d&#39;autres n&#39;en donnent que l&#39;administration.
+</p>
+<p>
+La coûtume de Paris &amp; plusieurs autres donnent
+au gardien l&#39;administration des meubles, &amp; le gain
+de tous les fruits des immeubles pendant la <i>garde ;</i> à
+la charge de payer les dettes &amp; arrérages des rentes
+que doivent les mineurs ; les nourrir, alimenter &amp;
+entretenir selon leur état &amp; qualité; payer &amp; acquitter 
+les charges annuelles que doivent les héritages,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; entretenir lesdits héritages de toutes réparations 
+viageres.
+</p>
+<p>
+D&#39;autres coûtumes ne donnent la joüissance que
+des héritages nobles. <i>Voyez</i> les commentateurs sur
+les <i>titres des coûtumes</i> où il est parlé de la <i>garde</i> noble
+&amp; bourgeoise, &amp; le <i>traité</i> qu&#39;en a fait de Renusson.
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

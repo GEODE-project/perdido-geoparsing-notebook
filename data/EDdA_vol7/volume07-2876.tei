@@ -1,0 +1,576 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30330" id="55:8" vol="7">
+<index type="head" value="GRÊLE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Ratte" />
+<index type="shortauth" value="Ratte" />
+<index type="kafnum" value="114" />
+<index type="kafauth" value="Ratte, Etienne-Hyacinthe de (1722-1805)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Physique." />
+<index type="normclass" value="Physique" />
+<index type="englishclass" value="Physics" />
+<index type="generatedclass" value="Physique" />
+<index type="pos" value="s.f." />
+<head>GRÊLE</head>
+<p>
+GRÊLE, s. f. (<i>Physique.</i>) La <i>grêle</i> est de même nature 
+que la glace ordinaire ; ce sont des glaçons d&#39;une 
+figure qui approche le plus souvent de la sphérique,
+formés par des gouttes de pluie qui s&#39;étant gelées 
+dans l&#39;air, tombent sur la terre avant que d&#39;avoir 
+pu se dégeler. <i>Voyez</i> <sc><ref target="head:Glace" type="search">Glace</ref> <i>&amp;</i> <ref target="head:Pluie" type="search">Pluie</ref></sc>.
+</p>
+<p>
+La neige dont les différences d&#39;avec la <i>grêle</i> sont
+visibles &amp; connues de tout le monde, n&#39;est aussi que
+de l&#39;eau qui s&#39;est glacée dans l&#39;air. Lorsque les molécules 
+aqueuses qui se sont élevées dans l&#39;atmosphere
+en forme de vapeurs, retombent en bruine ou en
+pluie, il arrive souvent que le froid est assez considérable 
+pour les geler ; elles se changent alors en
+neige ou en <i>grêle ;</i> en neige, si la congelation les faisit 
+avant qu&#39;elles se soient réunies en grosses gouttes ;
+en <i>grêle</i>, si les particules d&#39;eau ont le tems de se joindre 
+avant que d&#39;être prises par la gelée. <i>Voyez</i> <sc><ref target="head:Neige" type="search">Neige</ref></sc>.
+</p>
+<p>
+Les petits glaçons dont la neige est composée s&#39;unissant 
+mal entre eux, les floccons qui résultent de
+cette union imparfaite sont fort rares &amp; fort legers ;
+il n&#39;en est pas de même des grains de <i>grêle</i>, dont le
+tissu est compact &amp; serré, la dureté grande, &amp; qui
+en un mot sont semblables à la glace ordinaire.
+</p>
+<p>
+On remarque d&#39;ailleurs dans les grains de <i>grêle</i>
+une assez grande variété; ils different par la grosseur,
+par la figure, par la couleur : examinons en particulier 
+toutes ces différences.
+</p>
+<p>
+La grosseur de la <i>grêle</i> dépend beaucoup de celle
+des gouttes de pluie dont elle est formée ; cela est
+évident. Ainsi les mêmes variétés qu&#39;on observe dans
+les gouttes de pluie quant à la grosseur, se seront remarquer 
+dans les grains de <i>grêle</i>. On sait que la pluie
+est fort menue à une certaine hauteur dans l&#39;atmosphere,
+&amp; qu&#39;elle devient toûjours plus grosse à-mesure qu&#39;elle tombe, plusieurs petites gouttes s&#39;unissant 
+en une seule. Il n&#39;est donc pas surprenant que la
+<i>grêle</i> qui tombe sur le haut des montagnes, soit plus
+petite, toutes choses d&#39;ailleurs égales, que celle qui
+tombe dans les vallées, comme Scheuchzer, Fromond, &amp; plusieurs autres physiciens &amp; naturalistes
+l&#39;ont observé.
+</p>
+<p>
+Il semble d&#39;abord que la <i>grêle</i> ne devroit jamais
+être plus grosse que des gouttes de pluie : mais si l&#39;on
+fait réflexion qu&#39;un grain de <i>grêle</i> déjà formé par un
+degré de froid considérable, gele toutes les particules<gap type="hyphenpb" />
+<pb n="7:929" facs="V7/ENC_7-929.jpeg" />
+<milestone unit="column" n="1" />
+d&#39;eau qu&#39;il touche dans sa chûte, on concevra
+aisément comment il peut devenir le noyau d&#39;une
+ou de plusieurs couches de glace, qui augmenteront
+considérablement son volume &amp; son poids : ce qui
+prouve que la grosse <i>grêle</i> se forme de cette maniere,
+c&#39;est qu&#39;elle n&#39;est jamais d&#39;une densité uniforme depuis 
+la surface jusqu&#39;au centre.
+</p>
+<p>
+Les gouttes de pluie ont rarement plus de trois lignes 
+de diametre, ce n&#39;est que dans certaines pluies
+extraordinaires qu&#39;on a vû tomber des gouttes dont
+le diametre étoit de près d&#39;un pouce : on voit par-là
+jusqu&#39;où peut aller la grosseur des grains de <i>grêle</i>,
+lorsqu&#39;elle n&#39;excede point celle des gouttes de pluie ;
+ce qui est le cas le plus fréquent.
+</p>
+<p>
+Lorsque par les causes que nous avons exposées,
+ou par quelque autre semblable, le volume &amp; le
+poids de la <i>grêle</i> sont plus grands qu&#39;ils ne devroient
+être naturellement, il arrive quelquefois que la <i>grêle</i>
+est d&#39;une grosseur prodigieuse ; on en a vû dont les
+grains étoient aussi gros que des oeufs de poule &amp;
+d&#39;oie, d&#39;autres qui pesoient une demi-livre, trois
+quarts, &amp; une livre : dans les mêmes orages comme
+dans les orages différens, les grains de <i>grêle</i> ne sont
+pas tous de même grosseur. L&#39;histoire de l&#39;académie
+des Sciences parle d&#39;une <i>grêle</i> qui ravagea le Perche
+en 1703; les moindres grains étoient comme des
+noix, les moyens comme des oeufs de poule, les autres 
+étoient comme le poing, &amp; pesoient cinq quarterons.
+Ce n&#39;est pas dans les seuls écrits des physiciens,
+qu&#39;il faut chercher des détails sur ces sortes
+de phénomenes ; les historiens dans tous les tems ont
+pris soin de nous en transmettre le souvenir. Aujourd&#39;hui, lorsqu&#39;une de ces <i>grêles</i> extraordinaires desole
+quelque contrée, les nouvelles publiques ne manquent 
+guere d&#39;en faire mention.
+</p>
+<p>
+Nous avons dit que la figure des grains de <i>grêle</i>
+approchoit ordinairement de la sphérique ; cette rondeur 
+est une suite de celle qu&#39;affectent naturellement
+les gouttes de pluie, comme toutes les autres gouttes 
+d&#39;eau, tant par l&#39;attraction mutuelle des particules 
+qui les composent, que parce que l&#39;eau s&#39;unit
+difficilement avec l&#39;air ; plusieurs causes peuvent
+empêcher que cette rondeur ne soit parfaite ; le vent
+en est une des principales, il comprime les gouttes
+de pluie, il les applatit, il les rend concaves ou anguleuses 
+dans certaines portions de leurs surfaces.
+Les gouttes en se convertissant en <i>grêle</i>, conservent
+ces mêmes figures, &amp; de-là vient qu&#39;il est si rare de
+voir des grains de <i>grêle</i> parfaitement sphériques,
+principalement quand leur chûte est accompagnée
+d&#39;un vent violent.
+</p>
+<p>
+La grosse <i>grêle</i> formée par la réunion des différentes 
+couches de glace, est tantôt conique ou piramydale,
+quelquefois hémi-sphérique, souvent fort anguleuse.
+Une chose assez constante parmi toutes ces
+variétés, c&#39;est que les grains qui tombent dans le
+même orage sont tous à-peu-près de même figure ;
+dans certains orages, par exemple, ils sont tous coniques,
+dans d&#39;autres hemi-sphériques, <i>&amp;c.</i>
+</p>
+<p>
+La transparence &amp; la couleur de la <i>grêle</i> ne sont
+pas plus exemptes de variations que sa grosseur &amp;
+que sa figure. Si l&#39;on voit tomber des grains de <i>grêle</i>
+dont la transparence est seulement un peu moindre
+que celle de l&#39;eau dont ils sont formés, on en observe 
+assez communément qui sont opaques &amp; blanchâtres.
+Souvent le noyau qu&#39;on apperçoit au milieu 
+de certains grains de <i>grêle</i>, est fort blanc, tandis 
+que les couches de glace qui l&#39;environnent sont
+transparentes : en découvrant ce noyau, on le trouve 
+semblable à de la neige ramassée.
+</p>
+<p>
+Il y a une sorte de menue <i>grêle</i> connue sous le nom
+de <i>grésil</i>, dont la blancheur égale celle de la neige.
+Le grésil est dur &amp; peut être comparé à de la coriandre 
+sucrée.
+<milestone unit="column" n="2" />
+</p>
+<p>
+On ne doit pas confondre le grésil avec une autre
+sorte de <i>grêle</i> fort menue aussi, qu&#39;on voit quelquefois 
+tomber par un tems calme, humide &amp; tempéré,
+&amp; qui se fond presque toûjours en tombant ; elle
+a peu de consistance, &amp; paroît comme saupoudrée
+d&#39;une espece de farine : on peut dite qu&#39;elle tient
+en quelque sorte le milieu entre la neige &amp; la <i>grêle</i>
+ordinaire.
+</p>
+<p>
+La chûte de la <i>grêle</i> est accompagnée de plusieurs
+circonstances la plûpart assez connues. 1°. Le tems
+est fort sombre, couvert &amp; orageux. 2°. Toutes les
+fois que la <i>grêle</i> est un peu grosse, l&#39;orage qui la donne 
+est excité par un vent d&#39;ordinaire assez impétueux
+&amp; qui continue de souffler avec violence pendant
+qu&#39;elle tombe. 3°. Le vent n&#39;a quelquefois aucune
+direction bien déterminée, &amp; il paroît souffler indifféremment 
+de tous les points de l&#39;horison : ce qu&#39;on 
+remarque assez constamment, c&#39;est qu&#39;avant la
+chûte de la <i>grêle</i> il y a toûjours du changement dans
+les vents ; si, par exemple, le vent de midi a chassé
+vers nous l&#39;orage, il ne grêlera que quand le vent de
+nord aura commencé à souffler. 4°. Quand il grêle,
+&amp; même avant que la <i>grêle</i> tombe, on entend souvent 
+un bruit dans l&#39;air causé par le choc des g ains
+de <i>grêle</i> que le vent pousse les uns contre les autres
+avec impétuosité. 5°. La <i>grêle</i> tombe seule ou mêlée
+avec la pluie, &amp; dans le premier cas, la pluie la
+précede ou la suit. 6°. Lorsque la <i>grêle</i> est un peu
+considérable, elle est presque toûjours accompagnée 
+de tonnerre. Plusieurs auteurs vont plus loin,
+car ils assûrent comme une chose indubitable, qu&#39;il
+ne grêle jamais sans qu&#39;il tonne ; je crois qu&#39;il seroit
+difficile de le prouver. A Montpellier où la <i>grêle</i> n&#39;est
+pas fréquente à beaucoup près, si l&#39;on en juge par
+comparaison à ce qu&#39;il en tombe chaque année à
+Paris, j&#39;ai vû grêler plus d&#39;une fois sans entendre
+le moindre coup de tonnerre. On dira peut-être qu&#39;il
+tonnoit alors à quelques lieues de Montpellier dans
+les endroits où étoit le fort de l&#39;orage : cela peut être
+vrai, mais le contraire pourroit l&#39;etre aussi. Ne donnons 
+pas à la nature des lois générales qu&#39;elle desavoue : arrêtons-nous à ce qu&#39;il y a de certain sur
+cette matiere, c&#39;est que le tonnerre accompagne toûjours 
+la <i>grêle</i> qui est un peu considérable. Jamais le
+tonnerre ne gronde &amp; n&#39;éclate avec plus de force
+que dans ces <i>grêles</i> extraordinaires dont nous avons
+parlé, dont les grains sont d&#39;une grosseur si prodigieuse ; 
+les éclairs, les foudres, se succedent sans interruption,
+le ciel est tout en feu, l&#39;obscurité de l&#39;air
+est d&#39;ailleurs effroyable, on diroit que l&#39;univers va
+se replonger dans son premier cahos. 7°. Quoique
+les orages qui donnent la <i>grêle</i> soient quelquefois précédés 
+de chaleurs étouffantes, on remarque néanmoins 
+qu&#39;aux approches de l&#39;orage, &amp; plus encore
+après qu&#39;il a grêlé, l&#39;air se refroidit considérablement.
+</p>
+<p>
+Des physiciens célebres paroissent persuadés qu&#39;il
+ne grêle jamais que pendant le jour : M. Hamberger
+dit à cette occasion qu&#39;un de ses amis âgé de soixante-dix ans l&#39;a assûré qu&#39;il n&#39;avoit jamais vû grêler
+la nuit. <i>Elém. physiq. n°. 520</i>. Tout jeune que je
+suis, je puis assûrer le contraire ; j&#39;ai vû plus d&#39;une
+fois tomber de la <i>grêle</i> à Montpellier pendant la
+nuit &amp; à différentes heures de la nuit.
+</p>
+<p>
+La <i>grêle</i> est plus fréquente à la fin du printems &amp;
+pendant l&#39;été, qu&#39;en aucun autre tems de l&#39;année ;
+elle est moins fréquente en autonne &amp; assez rare en
+hyver. Le grésil tombe communément au commencement 
+du printems.
+</p>
+<p>
+Quand on dit que la <i>grêle</i> est rare en hyver, on
+ne prétend point que ce soit un phénomene tout-à-fait extraordinaire d&#39;en voir dans cette saison. A
+Montpellier, où l&#39;on passe quelquefois des années
+entieres sans avoir de la <i>grêle</i>, j&#39;en ai vû tomber quatre<gap type="hyphenpb" />
+<pb n="7:930" facs="V7/ENC_7-930.jpeg" />
+<milestone unit="column" n="1" />
+fois pendant l&#39;hyver dans l&#39;intervalle de huit années 
+consécutives. Le 30 Janvier 1741 fut à cet égard
+singulierement remarquable : la <i>grêle</i> qui tomba ce
+jour-là s&#39;amassa en moins d&#39;une demi-heure dans les
+rues &amp; sur les toîts des maisons à la hauteur de plusieurs 
+pouces ; celle qui étoit sur les toîts fut plus de
+vingt-quatre heures à se fondre, on ne se souvenoit
+pas d&#39;en avoir jamais tant vû en aucune saison de
+l&#39;année : pendant qu&#39;elle tomboit, le tonnerre gronda 
+sans interruption comme dans les plus grands
+orages de l&#39;été. On doit remarquer qu&#39;elle tomba
+vers les neuf heures du soir ; ce qui fortifie ce qu&#39;on
+a déjà dit contre ceux qui prétendent qu&#39;il ne grêle
+que pendant le jour.
+</p>
+<p>
+Les funestes effets de la <i>grêle</i> ne sont malheureusement 
+que trop connus : celle dont les grains égalent en grosseur des oeufs de poule &amp; pesent jusqu&#39;à
+une livre, fait des ravages affreux ; elle détruit sans
+ressource les moissons, les vendanges, &amp; les fruits ;
+elle coupe les branches d&#39;arbre, tue les oiseaux dans
+l&#39;air &amp; les troupeaux dans les pâturages ; les hommes 
+même en sont quelquefois blessés mortellement.
+</p>
+<p>
+Quelque terribles que soient ces effets, la <i>grêle</i>
+en produiroit de plus funestes encore, si la vîtesse
+qu&#39;elle acquiert dans sa chûte n&#39;étoit diminuée par
+la résistance de l&#39;air.
+</p>
+<p>
+Tous les pays ne sont pas également sujets à la
+<i>grêle</i>, les nuages qui la donnent se forment &amp; s&#39;arrêtent 
+par préférence, si l&#39;on peut s&#39;exprimer ainsi,
+sur certaines contrées : rarement ces nuages parviennent 
+jusqu&#39;au sommet de certaines montagnes fort
+élevées, mais les montagnes les rompent, comme on
+dit, &amp; les attirent sur les vallons voisins. L&#39;exposition à de certains vents, les bois, les étangs, les rivieres 
+qui se trouvent dans un pays, doivent être considérés.
+Indépendamment des variétés qui naissent de
+la situation des lieux, il en est d&#39;autres d&#39;un autre
+genre, dont nous sommes tous les jours les témoins ;
+de deux champs voisins exposés au même orage, l&#39;un
+sera ravagé par la <i>grêle</i>, l&#39;autre sera épargné: c&#39;est
+que toutes les nues dont la réunion forme l&#39;orage sur
+une certaine étendue de pays, ne donnent pas de la
+<i>grêle ;</i> il grêlera fortement ici, &amp; à quatre pas on
+n&#39;aura que de la pluie. Tout ceci est assez connu.
+</p>
+<p>
+La <i>grêle</i>, comme tous les autres météores, présente 
+dans le méchanisme de sa formation des difficultés 
+considérables, des mysteres profonds, que toute
+la sagacité des physiciens n&#39;a pû encore pénétrer.
+</p>
+<p>
+Descartes suppose que les nues, où elle se forme,
+sont composées de très-petites parcelles de neige ou
+de glace, qui se fondent à-demi, &amp; qui se réunissent ; 
+un vent froid qui survient acheve de les geler ;
+d&#39;autres fois la neige se fond totalement, &amp; alors le
+vent doit être extrèmement froid pour convertir ces
+gouttes d&#39;eau en <i>grêle. Tract. de meteor. cap. vj.</i>
+</p>
+<p>
+Tout le monde sait aujourd&#39;hui que les nuages ne
+sont pas des amas de glaçons, mais des brouillards
+semblables à ceux que nous voyons si souvent s&#39;élever 
+&amp; se répandre sur la superficie de la terre.
+<i>Voyez</i> <sc><ref target="head:Nuage" type="search">Nuage</ref></sc>. L&#39;hypothèse de Descartes est donc
+insoûtenable dans sa totalité: il n&#39;y a que le vent
+froid que plusieurs physiciens continuent d&#39;admettre 
+sans trop rechercher les différentes causes, qui
+peuvent la produire.
+</p>
+<p>
+D&#39;autres philosophes, sans avoir recours au vent
+froid, imaginent simplement qu&#39;à la hauteur où se
+forme la <i>grêle</i>, le froid de l&#39;atmosphere est toûjours
+assez considérable, au milieu même de l&#39;été, pour
+convertir l&#39;eau en glace : cette opinion est sujette à
+de grandes difficultés. On a vû souvent la <i>grêle</i> se
+former au-dessus d&#39;un vallon à une hauteur fort inférieure 
+à celle des montagnes voisines, qui joüissoient 
+pendant ce tems-là d&#39;une douce température.
+C&#39;est d&#39;ailleurs sans beaucoup de fondement qu&#39;on
+<milestone unit="column" n="2" />
+se représente les nuages comme si fort élevés au-dessus 
+de nos têtes ; ils sont au contraire très-voisins
+de nous dans les grands orages. Nous avons remarqué 
+que le tonnerre accompagne ordinairement la
+<i>grêle ;</i> on peut donc imaginer que ces deux météores
+se forment à peu-près à la même distance de la terre.
+Or quand le tonnerre est perpendiculaire sur quelque 
+lieu &amp; qu&#39;il éclate fortement, l&#39;intervalle d&#39;une
+ou deux secondes qu&#39;on observe entre l&#39;éclair &amp; le
+bruit, fait juger que la matiere de la foudre n&#39;est
+guere qu&#39;à 180 ou tout au plus à 360 toises de distance.
+Croira-t-on qu&#39;à cet éloignement de la terre
+il regne naturellement pendant l&#39;été un froid assez
+grand pour geler l&#39;eau? Ce dernier raisonnement
+est pris d&#39;une dissertation sur le sujet que nous traitons,
+couronnée par l&#39;académie de Bordeaux en
+1752.
+</p>
+<p>
+M. Musschenbroeck attribue la formation de la
+<i>grêle</i> aux particules congelantes, qui répandues dans
+l&#39;air en certaines circonstances glacent les gouttes
+de pluie. <i>Essai de Physique, tome II. chap. xxxjx</i>. Selon M. Hamberger, quand la partie supérieure d&#39;un
+gros nuage est directement exposée aux rayons du
+soleil &amp; que l&#39;inférieure est à l&#39;ombre, celle-ci se refroidit 
+au point, que toutes les gouttes d&#39;eau qui la
+composent &amp; celles qui leur succedent, se convertissent 
+en glace. <i>Elém. physic. n°. 520</i>. Si c&#39;étoit-là la
+véritable origine de la <i>grêle</i>, on n&#39;en verroit jamais
+tomber que pendant le jour. <i>Dissert. sur la glace, pp.
+259 &amp; 260</i>.
+</p>
+<p>
+M. de Mairan ayant observé que de l&#39;eau exposée
+à un courant d&#39;air se refroidit de deux degrés au-delà 
+de la température actuelle de cet air environnant,
+croit que le même effet doit avoir lieu à l&#39;égard
+des vapeurs aqueuses suspendues dans un air agité,
+&amp; qu&#39;il doit être plus considérable à raison de la ténuité 
+de ces molécules. Voilà d&#39;où naissent selon lui
+certaines <i>grêles</i> d&#39;été<sup><ref type="note" target="n53" n="*" /></sup>.
+</p>
+<p>
+Un sentiment fort différent de tous ceux que nous
+venons d&#39;exposer, est celui de l&#39;auteur de la dissertation 
+déjà citée, qui a remporté le prix au jugement
+de l&#39;académie de Bordeaux. La <i>grêle</i> est selon lui un
+mélange d&#39;eau glacée, de sel volatil, de sel concret,
+&amp; de soufre : c&#39;est le résultat d&#39;une congelation artificielle 
+pareille à celle que nous faisons tous les
+jours par le moyen des sels : les idées de l&#39;auteur
+sur les sels répandus dans l&#39;air, ne sont pas toûjours
+conformes aux principes de la bonne Chimie. On
+peut se passer d&#39;admettre avec lui des parties frigorifiques 
+proprement dites : il y a d&#39;ailleurs des vûes
+très-ingénieuses dans sa dissertation.
+</p>
+<p>
+Toutes ces explications roulent visiblement sur
+quelques idées principales qui ne paroissent pas devoir 
+refuser de s&#39;unir. Peut-être suffira-t-il de les
+combiner d&#39;une certaine maniere, pour approcher
+beaucoup du système de la nature.
+</p>
+<p>
+A la hauteur où se forme la <i>grêle</i> dans notre atmosphere,
+la température de l&#39;air est souvent exprimée 
+par 10 ou 8 degrés du thermometre de M. de
+Réaumur au-dessus de la congelation. Ce premier
+point sera facilement accordé.
+</p>
+<p>
+Un vent médiocrement froid, tel qu&#39;il s&#39;en éleve au commencement de presque tous les orages,
+diminuera cette température de trois ou quatre degrés.
+</p>
+<p>
+Les gouttes d&#39;eau refroidies au cinquieme ou sixieme 
+degré par la communication du froid de l&#39;atmosphere,
+recevront encore deux degrés de froideur,
+par cela seul qu&#39;elles seront exposées à un
+courant d&#39;air, à un air incessamment renouvellé.
+<pb n="7:931" facs="V7/ENC_7-931.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Encore quelques degrés de froid, &amp; les gouttes
+d&#39;eau perdant leur liquidité, se convertiront en glace.
+</p>
+<p>
+Ici je pense avec l&#39;auteur de la dissertation couronnée 
+par l&#39;académie de Bordeaux, qu&#39;il faut avoir
+recours à quelque opération chimique semblable à
+une infinité d&#39;autres que nous mettons tous les jours
+sur le compte de la nature.
+</p>
+<p>
+Nous avons vû que le tonnerre accompagnoit le
+plus souvent la <i>grêle ;</i> le seules vapeurs aqueuses ne
+paroissent donc pas devoir suffire pour faire naître ce
+météore : il faut que l&#39;air soit chargé de plusieurs
+sortes d&#39;exhalaisons.
+</p>
+<p>
+Les parties propres de l&#39;air qui nous environne &amp;
+que nous respirons, sont mêlées avec plusieurs substances 
+hétérogenes. Notre atmosphere contient de
+l&#39;eau, un acide vitriolique connu sous le nom d&#39;<i>acide
+universel</i>, des matieres oléagineuses, grasses &amp; inflammables 
+fournies par la plûpart des corps terrestres,
+des alkalis volatils qui s&#39;exhalent des animaux
+&amp; des végétaux putréfiés.
+</p>
+<p>
+Je ne parle point du nitre aérien ni de tous ces autres 
+sels fixes qu&#39;on ne faisoit pas difficulté d&#39;admettre 
+autrefois comme abondamment répandus dans
+notre atmosphere. Ces sortes de sels ne sauroient s&#39;y
+élever en grande quantité, moins encore s&#39;y soûtenir 
+à une certaine hauteur.
+</p>
+<p>
+Les alkalis volatils dissous dans l&#39;eau la refroidissent 
+sans la glacer, ils font avec l&#39;acide vitriolique
+des effervescences froides : ces dissolutions &amp; ces effervescences 
+font descendre le thermometre de plusieurs 
+degrés. Il suit évidemment de-là qu&#39;une certaine 
+quantité d&#39;alkalis volatils combinés avec l&#39;eau
+&amp; l&#39;acide vitriolique dans une nuée, y exciteront
+un froid considérable.
+</p>
+<p>
+Ce froid ne glacera point les gouttes d&#39;eau intimement 
+mêlées avec l&#39;alkali volatil, mais il pourra
+glacer les gouttes voisines auxquelles il se communiquera.
+Toutes les gouttes d&#39;eau qui composent une
+nuée destituée d&#39;alkali volatil, se glaceront par le
+froid d&#39;une nuée voisine dans laquelle la présence des
+sels volatils aura excité des dissolutions &amp; effervescences 
+froides.
+</p>
+<p>
+Les alkalis volatils s&#39;élevent dans l&#39;air avec les
+matieres inflammables ; &amp; quand celles-ci sont abondamment 
+répandues dans l&#39;atmosphere, les premiers
+s&#39;y trouvent pareillement en grande quantité: voilà
+pourquoi le tonnerre accompagne si souvent la <i>grêle</i>. On explique aussi par-là pourquoi il grêle plus fréquemment 
+sur la fin du printems &amp; pendant l&#39;été,
+qu&#39;en aucun autre tems de l&#39;année, toutes ces sortes 
+d&#39;exhalaisons ne s&#39;élevant qu&#39;à un certain degré
+de chaleur.
+</p>
+<p>
+Tous les autres phénomenes de la <i>grêle</i> s&#39;expliqueront 
+avec la même facilité, un plus long détail seroit 
+inutile ; ceux qui se plaisent à la recherche des
+causes physiques, pourront appliquer d&#39;eux-mêmes
+les principes que nous avons exposés ; &amp; à l&#39;égard
+de ceux qui n&#39;exigent de nous que le simple récit des
+faits, peut-être trouveront-ils que nous en avons
+trop dit. Musschenbroeck, <i>essai de Physiq. tome II.
+chap. xxxjx</i>. De Challes, <i>de meteoris ;</i> Nollet, <i>leçons
+de Physiq. tome III. &amp;c. Article de M. <sc>de Ratte</sc></i>.
+</p>
+<div2 type="notes">
+<note id="n53">
+* N&#39;est-ce pas en facilitant l&#39;évaporation de l&#39;eaus que
+l&#39;air agité la refroidit? Les expériences communiquées depuis 
+peu à l&#39;académie des Sciences par M. Beaumet, maître 
+apothicaire de Paris, ne permettent guere d&#39;en douter.
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

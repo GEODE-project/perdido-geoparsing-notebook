@@ -1,0 +1,171 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29482" id="52:217" vol="7">
+<index type="head" value="GERMINATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Argenville" />
+<index type="shortauth" value="d&#39;Argenville" />
+<index type="kafnum" value="6" />
+<index type="kafauth" value="Argenville, Antoine-Joseph Desallier d&#39; (1680-1765)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Econom. rustiq." />
+<index type="normclass" value="Economie rustique" />
+<index type="englishclass" value="Rural economy" />
+<index type="generatedclass" value="Jardinage" />
+<index type="pos" value="s.f." />
+<head>GERMINATION</head>
+<p>
+GERMINATION, s. f. (<i>Econom. rustiq.</i>) est l&#39;action 
+que fait une graine de sortir de terre, ce qui
+s&#39;appelle <i>germer</i>.
+</p>
+<p>
+Il est vraissemblable que les principales parties de
+la <i>germination</i> des plantes sont contenues dans leurs
+semences : ces parties sont disposées à former des
+fibres propres à la filtration du suc nourricier qui y
+passe comme par des filieres ou des moules qui forment 
+ensuite les branches, les feuilles, les fleurs, les
+fruits, &amp; enfin les semences.
+</p>
+<p>
+On peut développer dans une graine qui germe,
+les parties similaires &amp; les dissimilaires ; on les découvre 
+dans une grosse féve de marais, ou dans une
+graine de lupin coupée en-travers.
+</p>
+<p>
+Les parties similaires sont la cuticule, le parenchyme,
+&amp; la racine séminale.
+</p>
+<p>
+Les parties dissimilaires sont la racine, le tronc,
+les bourgeons, les feuilles, les fleurs &amp; les fruits.
+</p>
+<p>
+Toutes ces parties seront expliquées à leurs noms.
+</p>
+<p>
+Malpighi &amp; Grew sont les auteurs qui ont le
+mieux parlé de l&#39;anatomie des plantes ; leurs découvertes 
+ont détruit plusieurs réflexions de la Quintinie sur l&#39;Agriculture.
+</p>
+<p>
+Si l&#39;on veut suivre Grew (<i>Anat. des plantes, pag.
+19 &amp; suivantes.</i>) dans la végétation d&#39;une graine,
+on trouvera qu&#39;étant semée en terre, elle se partage 
+en deux lobes &amp; a trois parties essentielles ou organiques ; 
+le corps qui est les lobes mêmes est la premiere ; 
+la radicule qui forme la racine de la plante
+fait la seconde ; la troisieme est la plume, qui étant
+faite comme un petit bouquet de plumes ou de feuilles<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+déjà formées, devient la tige de la plante ; elle
+s&#39;enfle, ensuite elle se remplit d&#39;une humeur qui fermente.
+Comme il se forme sous la pellicule un corps
+qui ne peut plus y être contenu, à cause de la substance 
+que la terre lui fournit, la graine est forcée
+de grossir, de s&#39;ouvrir, de pousser en haut une tige
+formée par le plus subtil de la séve, &amp; de pousser
+par-en-bas des racines que produit ce qu&#39;il y a de
+plus grossier dans la matiere. Ce suc ayant passé par
+trois peaux dont la cuticule est la troisieme, s&#39;y purifie,
+s&#39;y fermente, &amp; entre dans le parenchyme,
+qui est une partie du véritable corps de la graine ; il
+prend ensuite sa derniere qualité dans les branches
+de la racine séminale, &amp; devient très-propre à faire
+croître la radicule qui reçoit ce qui lui est nécessaire
+avant la plume qui pousse la derniere. Cette radicule
+reçoit ensuite de la terre un nouveau suc plus abondant 
+qui se fermente avec l&#39;autre, repousse peu-à-peu ce suc primitif, &amp; l&#39;oblige à prendre un mouvement 
+contraire à celui qu&#39;il avoit auparavant, &amp;
+à retourner de la racine vers la plume, qui par ce
+moyen se nourrit &amp; se déploye peu-à-peu ; ce suc
+nourrit encore les lobes, le parenchyme, &amp; la racine 
+séminale, de maniere que les lobes grossissent &amp;
+sortent de la terre pour former les feuilles qui garantissent 
+de la chaleur la plume lorsqu&#39;elle est encore
+jeune, jusqu&#39;à ce qu&#39;elle ait formé une belle tige qui
+devient boiseuse, &amp; pousse ensuite des bourgeons
+d&#39;où partent des branches, des feuilles, des fleurs,
+des fruits, enfin d&#39;autres graines qui en perpétuent
+l&#39;espece. (<i>K</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

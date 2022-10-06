@@ -1,0 +1,141 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28702" id="51:63" vol="7">
+<index type="head" value="GACHETTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme d&#39;Arquebusier" />
+<index type="normclass" value="Arquebuserie" />
+<index type="englishclass" value="Gunmaking" />
+<index type="generatedclass" value="Arquebuserie" />
+<index type="pos" value="s.f." />
+<head>GACHETTE</head>
+<p>
+* GACHETTE, s. f. <i>terme d&#39;Arquebusier</i>, c&#39;est un
+morceau de fer coudé, dont une des branches est
+ronde &amp; se pose sur la détente ; l&#39;autre est plate &amp;
+taillée par le bout comme une mâchoire en demi-cercle 
+courbé. La partie qui avance le plus sert pour
+la tente : la détente &amp; le repos du chien s&#39;arrêtent
+dans les crans de la noix pour la tente &amp; le repos,
+&amp; en sort pour la détente. Cette partie est percée
+d&#39;un trou uni où se place une vis qui tient au corps
+de platine, de façon que cette piece peut se mouvoir
+&amp; tourner sur sa vis.
+</p>
+<p>
+C&#39;est de la <i>gachette</i> que dépend tout le mouvement 
+de la platine : c&#39;est elle qui fait partir le chien
+quand il est tendu.
+</p>
+<p>
+Pour tendre le chien, on le tire à soi. Ce mouvement 
+force la noix sur laquelle il est arrêté à tourner 
+&amp; s&#39;arrêter par le dernier cran dans la mâchoire
+de la <i>gachette ;</i> ce qui fait lever l&#39;extrémité coudée du
+grand ressort, autant qu&#39;il le peut être, &amp; le fait réagir 
+considérablement.
+</p>
+<p>
+Pour faire partir le chien, l&#39;on presse la <i>gachette</i> contre 
+son ressort, en la poussant en en-haut par le moyen
+de la détente : alors la mâchoire de la <i>gachette</i> s&#39;échappe 
+du cran de la noix, qui n&#39;étant plus arrêtée
+par rien, cede à l&#39;effort que le grand ressort fait pour
+se restituer dans son état naturel. Le chien suit aussi le
+même mouvement que la noix, &amp; va frapper de la
+pierre qu&#39;il tient dans ses mâchoires contre la batterie 
+qui se leve par la force du coup qu&#39;elle reçoit.
+Ce coup fait sortir des étincelles de la pierre qui enflamme 
+la poudre du bassinet qui se trouve découverte 
+par la levée de la batterie : cette poudre enflammée 
+qui communique par la lumiere à celle qui
+est renfermée dans le canon, y met aussi le feu.
+Alors cette poudre qui cherche une issue pour sortir,
+&amp; qui n&#39;en trouve pas d&#39;autre que par le bout du canon,
+part avec précipitation &amp; grand bruit, &amp; pousse
+la balle ou le plomb fort au loin. <i>Voyez l&#39;article</i> <sc><ref target="head:Fusil" type="search">Fusil</ref></sc>.
+<milestone unit="column" n="2" />
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

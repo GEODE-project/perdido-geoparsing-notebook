@@ -1,0 +1,1193 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29984" id="53:348" vol="7">
+<index type="head" value="GOUTTE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Penchenier" />
+<index type="shortauth" value="Penchenier" />
+<index type="kafnum" value="103" />
+<index type="kafauth" value="Penchenier, Antoine (?-1761)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Medecine." />
+<index type="normclass" value="Médecine" />
+<index type="englishclass" value="Medicine" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>GOUTTE</head>
+<p>
+GOUTTE, s. f. (<i>Medecine.</i>) maladie, douleur
+des jointures ou articulations.
+</p>
+<p>
+La <i>goutte</i> signifie en françois ce que les Grecs ont
+désigné par le mot <foreign lang="greek">ἀρθρῖτις</foreign> dérivé d&#39;<foreign lang="greek">ἄρθρον</foreign>, <i>jointure</i> ou
+<i>articulation ;</i> &amp; les Latins, par <i>morbus articularis, dolor 
+juncturarum</i>.
+</p>
+<p>
+Les auteurs latins, dit Sennert, se sont barbarement 
+servis du mot <i>gutta</i>, goutte, pour nommer
+quelques maladies aiguës ou chroniques, fort différentes 
+entr&#39;elles. De l&#39;aveu du plus grand nombre,
+ils ont donné ce nom aux maladies brusques, subites,
+indépendantes d&#39;aucune cause connue, qui frappent 
+tout-d&#39;un-coup, &amp; qui semblent tomber du ciel
+comme une goutte de pluie ; telles sont l&#39;apoplexie,
+l&#39;épilepsie, la crampe, <i>&amp;c.</i> Ils l&#39;ont aussi donné aux
+maladies, pour la production desquelles ils ont cru
+qu&#39;il suffisoit d&#39;une ou de quelques gouttes de l&#39;humeur 
+propre à les engendrer : telle est la <i>goutte</i> serene,
+la <i>goutte</i> rose, &amp; la maladie dont il est question,
+qui s&#39;est acquise le droit &amp; le privilége de porter 
+le nom de <i>goutte</i>, comme par excellence.
+</p>
+<p>
+C&#39;est la douleur des articulations, lorsqu&#39;elle est
+l&#39;effet d&#39;une cause cachée &amp; ignorée, qui caractérise
+la <i>goutte</i>. La douleur qui suit les luxations, les entorses,
+les foulures, les coups, les chûtes, les violens 
+exercices du corps, les grandes fatigues, la fievre,
+le mauvais régime, <i>&amp;c.</i> qui sont des causes
+évidentes, ne porte point le nom de <i>goutte ;</i> les douleurs<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+même, si ressemblantes à la <i>goutte</i>, si analogues 
+avec elle, peut-être aussi violentes, aussi intolérables,
+qui y dégenerent quelquefois, qui attaquent 
+plusieurs articulations en même tems, souvent
+toutes ensemble, ou qui les parcourent successivement,
+ces douleurs ne sont point <i>goutte</i>, quand elles 
+sont l&#39;effet d&#39;une cause connue ou d&#39;une intempérie 
+de chaud &amp; de froid, mais rhumatisme. <i>Voyez</i>
+<sc><ref target="head:Rhumatisme" type="search">Rhumatisme</ref></sc> <i>ou</i> <sc><ref target="head:Catarrhe" type="search">Catarrhe</ref></sc>.
+</p>
+<p>
+Il y a lieu de penser que les anciens n&#39;ont pas fait
+la différence de ces maladies, comme nous la faisons,
+&amp; qu&#39;ils ont donné le même nom d&#39;<i>arthritis</i> à toutes
+les douleurs des articulations, soit goutteuses, rhumatiques 
+ou catarrhales, comme l&#39;observe &amp; le pratique 
+Gainerius, <i>de aegritudine juncturarum, cap. j</i>.
+Aussi ne trouve-t-on ni nom, ni description de rhumatisme 
+dans les ouvrages des premiers medecins
+jusqu&#39;au tems de Galien, à qui Cardan ne laisse pas
+de reprocher qu&#39;il confond l&#39;arthritis avec la podagre.
+</p>
+<p>
+<i>Description</i>. La <i>goutte</i> est cette douleur vive &amp;
+presque toûjours brûlante des articulations, qui, à
+l&#39;âge de 30 à 40 ans, comme l&#39;a si bien décrit Sydenham, commence sans aucune raison &amp; en pleine
+santé par attaquer la jointure du gros doigt du pié,
+&amp; du pié gauche le plus souvent, quelquefois le talon 
+ou la cheville, &amp; quelquefois aussi, mais rarement,
+quelqu&#39;une des articulations des doigts de la
+main, qui s&#39;annonce ordinairement à la fin de Janvier ou au commencement de Février par un tiraillement 
+&amp; un déchirement à la partie affectée, qui sur
+les deux heures après minuit éveillent le patient en
+sursaut, vont en augmentant jusqu&#39;au matin, redoublent 
+encore le soir, &amp; ne se calment que le lendemain 
+vers la pointe du jour, qui au bout des premieres 
+24 heures produisent un peu de gonflement,
+de la rougeur à la peau, l&#39;élévation &amp; l&#39;engorgement
+des veines, une chaleur, &amp; quelquefois un feu semblable 
+à celui d&#39;un tison embrasé qu&#39;on sent avec la
+main en l&#39;approchant d&#39;assez loin ; enfin une impuissance 
+au mouvement &amp; une imbécillité de forces,
+qui rendent la partie attaquée incapable d&#39;aucun
+exercice.
+</p>
+<p>
+La <i>goutte</i> prélude souvent par quelque douleur irréguliere 
+à quelque doigt des piés &amp; des mains, &amp;
+par la débilité de l&#39;articulation attaquée, qui se dissipe 
+sans qu&#39;on sache pourquoi, comme elle étoit venue : c&#39;est en ce cas qu&#39;elle est méconnue, &amp; qu&#39;on ne
+manque pas d&#39;en accuser un soulier, un faux-pas,
+quelque coup, une entorse, <i>&amp;c.</i> Elle ne se fait connoitre 
+qu&#39;en se mettant en regle, lorsque l&#39;excès de
+la douleur surpasse le pouvoir de la cause qu&#39;on accusoit ; 
+&amp; lorsque ses retours, sa durée, son siége,
+&amp; ses autres accidens viennent à la caractériser, à
+dissiper un doute dans lequel on se plaisoit, &amp; à
+manifester une vérité qu&#39;on eût voulu pour son repos 
+ignorer pour jamais.
+</p>
+<p>
+La douleur qui s&#39;étoit d&#39;abord fixée au gros doigt
+du pié, qui n&#39;en avoit affligé qu&#39;un, les attaque dans
+les paroxysmes suivans tous les deux à-la-fois, ou
+successivement ; elle s&#39;étend sur le tarse &amp; le métatarse,
+monte aux malléoles, aux genoux, aux hanches,
+aux vertebres, tandis qu&#39;elle fait le même progrès 
+des doigts de la main au métacarpe, au carpe,
+au coude, au bras, à l&#39;épaule, &amp; grimpe enfin
+jusqu&#39;à l&#39;articulation de la mâchoire, &amp; même jusqu&#39;aux sutures des os du crane. Elle étend son domaine 
+en vieillissant, &amp; toûjours plus cruelle &amp; plus
+opiniâtre, sans abandonner les premiers membres
+qu&#39;elle a perclus &amp; tendus presqu&#39;insensibles à force
+de souffrances, elle s&#39;empare de ceux où le sentiment
+est encore dans son entier, les parcourt, les ravage,
+jusqu&#39;à ce que le corps accablé, vaincu, périt enfin
+sous la violence du mal.
+</p>
+<p>
+Il n&#39;est aucune articulation, aucune suture qui ne
+<pb n="7:773" facs="V7/ENC_7-773.jpeg" />
+<milestone unit="column" n="1" />
+puisse être le siége de la <i>goutte</i>, &amp; qui ne le devienne
+en effet par succession ou par bizarrerie de la maladie ; 
+mais c&#39;est alors un évenement extraordinaire.
+Elle se borne communément aux piés, aux mains,
+&amp; à la hanche, qui sont les trois endroits par ou elle
+a coûtume de debuter. C&#39;est à raison de ces trois sieges 
+ou de ces trois origines principales, que les Grecs
+lui ont donné des noms particuliers, composés du
+nom de la partie attaquée &amp; du mot grec <foreign lang="greek">ἄγρα</foreign>, qui
+signifie <i>capture</i> ou <i>saisissement</i>. Ainsi de <foreign lang="greek">πόδον</foreign>, <i>pié</i>, ils
+ont fait <foreign lang="greek">ποδάγρα</foreign>, <i>podagre</i>, c&#39;est-à-dire <i>saisissement du
+pié</i> ou <i>la goutte au pié ;</i> de <foreign lang="greek">χεὶρ</foreign>, <i>main</i>, ils ont fait <foreign lang="greek">χειράγρα</foreign>, <i>cheiragre</i>, qui est la <i>goutte à la main ;</i> &amp; d&#39;<foreign lang="greek">ἰσχίον</foreign>, <i>hanche</i>, ils ont fait <foreign lang="greek">ἰσχιάδα</foreign>, <i>sciatique</i>, qui est
+la <i>goutte à la hanche. Voyez</i> <sc><ref target="head:Sciatique" type="search">Sciatique</ref></sc>. Ils auroient
+pû multiplier les noms autant que les articulations,
+s&#39;ils eussent été prodigues de choses inutiles, comme
+l&#39;a entrepris Ambroise Paré. De ces trois grandes
+sources, &amp; principalement de la podagre, la <i>goutte</i>
+par succession de tems, par bizarrerie ou par accident,
+se répand dans les autres articulations, qui
+deviennent sa proie par extension, ou conjointement,
+ou séparément ; mais elle n&#39;est presque jamais
+reconnue pour telle, qu&#39;après avoir débuté de l&#39;une
+des trois manieres. Aussi Galien remarque-t-il, au
+sujet de l&#39;<i>aphorisme xxviij. de la sect. 6.</i> que presqu&#39;aucun 
+goutteux ne le devient, qu&#39;il n&#39;ait commencé
+par être podagre.
+</p>
+<p>
+La douleur dont l&#39;excès surpasse quelquefois toute
+patience humaine, n&#39;est pas le seul symptome de
+la <i>goutte</i> existante ; elle est encore accompagnée
+d&#39;inquiétudes, d&#39;insomnies, de legers frissons, de
+mouvemens de fievre, de petites sueurs, de dégoût 
+des alimens, quelquefois de diarrhée, &amp; d&#39;une
+impuissance ou imbecillité de forces à la partie souffrante,
+telle qu&#39;elle est incapable d&#39;aucune fonction
+ou exercice, même quelque tems après la dissipation
+de la douleur. Ce qu&#39;il y a de remarquable dans
+cette maladie, c&#39;est que la douleur, à quelque degré 
+qu&#39;elle paisse monter, n&#39;est jamais suivie de convulsions 
+ni de mouvemens convuisifs, &amp; que l&#39;inflammation 
+accompagnée de gonflement, de chaleur
+brûlante, de battemens, de tiraillemens, <i>&amp;c.</i> ne
+tourne jamais en suppuration. A l&#39;arrivee du gonflement 
+la douleur diminue ; &amp; quand le gonflement
+commence a se dissiper, tout se dissipe aussi : il ne
+reste plus qu&#39;une demangeaison à la peau, dont l&#39;épiderme 
+jaunit peu-à peu, se seche, tombe par lambeaux 
+ou par écailles ; &amp; la partie reprend son état
+ordinaire, à la reserve qu&#39;elle conserve pendant assez 
+long-tems une couleur violette ou bleue semblable 
+à la meurtrissure, qui succede à la rougeur au
+premier moment de la declinaison, &amp; qu&#39;elle devient
+aussi quelquefois oedémateuse pour quelque tems.
+</p>
+<p>
+Quoique la <i>goutte</i>, quand elle est nouvelle &amp; d&#39;un
+caractere benin, ne laisse aucune trace après l&#39;acces
+parfaitement fini ; en vieillissant, ou lorsqu&#39;elle est
+d&#39;une mauvaise qualite, elle laisse sur les parties
+qu&#39;elle attaque des dépôts gypseux, tartareux, pierreux,
+qui usent peu à peu la peau, l&#39;enflamment,
+&amp; la percent pour se faire jour. Elle contourne aussi
+les os, les déplace, tuméfie leurs têtes, &amp; détruit
+enfin, en s&#39;invétérant, le mouvement des membres
+attaques hers même le tems des paroxysmes.
+</p>
+<p>
+Comme l&#39;asthme, la <i>goutte</i> est une maladie intermittente 
+de toute la vie, elle revient presque tous
+les ans, &amp; souvent plusieurs fois dans la même année ; 
+l&#39;hyver, le printems, l&#39;autonne, sont les tems
+de ses accès. Leur durée n&#39;a rien de limite, quoiqu&#39;Hippocrate, <i>aphorisme xljx. sect. 6.</i> la fixe à 40
+jours. Les premiers ne sont souvent que d&#39;un demi-jour,
+d&#39;un jour, ou deux, ou trois, <i>&amp;c.</i> ils deviennent 
+plus longs à-mesure qu&#39;ils se répetent ; enfin 
+en vieillissant, ils durent les mois &amp; les saisons
+<milestone unit="column" n="2" />
+entieres ; de sorte que les vieux goutteux souffrent
+pendant les trois quarts de l&#39;année, &amp; n&#39;ont de libre,
+encore très-imparfaitement, que le tems des
+plus fortes chaleurs de l&#39;été. Les paroxysmes qui
+viennent pendant la maturité de l&#39;âge, &amp; dans les
+commencemens d&#39;une <i>goutte</i> confirmée, sont les plus
+douloureux &amp; les plus insupportables ; ils sont chacun 
+composés d&#39;autres petits paroxysmes de dix ou
+douze heures chaque jour ; les autres qui sont longs,
+&amp; qui regardent l&#39;âge le plus avancé, sont aussi composés 
+d&#39;autres paroxysmes chacun de plusieurs jours,
+pendant lesquels les douleurs se soûtiennent au même 
+degré, mais moins insupportables que dans la vigueur 
+de l&#39;âge.
+</p>
+<p>
+Outre les paroxysmes de la <i>goutte</i> qui reviennent
+périodiquement, les goutteux sont quelquefois exposés 
+à des accès subits &amp; irréguliers d&#39;une douleur
+si vive, si véhémente, si intolérable, qui surprend
+quelque partie du corps, qu&#39;elle jette le souffrant
+dans le desespoir, &amp; qu&#39;elle seroit capable de lui arracher 
+la vie, si elle ne se dissipoit presqu&#39;aussi brusquement 
+qu&#39;elle arrive. Ils sont aussi sujets à des petites 
+douleurs vagues &amp; irrégulieres indépendantes
+des acces qui durent plus ou moins, selon les circonstances,
+&amp; qui peuvent menacer de quelque paroxysme 
+surnuméraire ou de quelque anomalité, selon
+le siége qu&#39;elle occupent.
+</p>
+<p>
+Quand la <i>goutte</i> s&#39;est une fois emparée d&#39;un corps,
+elle y regne seule ordinairement ; les autres maladies
+en sont presque bannies ; &amp; s&#39;il s&#39;en déclare quelqu&#39;une, elle est fort suspecte d&#39;être une <i>goutte</i> déguisée,
+à cause de la propriété qu&#39;elle a d&#39;affecter, comme 
+un prothée, toutes sortes de formes. Celle qu&#39;elle
+s&#39;associe, &amp; qui est sa compagne la plus ordinaire,
+c&#39;est la pierre dans la vessie, &amp; quelquefois les hémorrhoides ; 
+comme si ce n&#39;étoit pas assez d&#39;elle seule
+pour tourmenter un malheureux goutteux, &amp; qu&#39;il
+fallût la reunion de deux autres terribles maladies
+pour achever de le desespérer.
+</p>
+<p>
+<i>Differences</i>. Les articulations, principalement celles 
+des extrémités, sont le siége naturel de la <i>goutte</i>
+réguliere qui vient d&#39;être décrite ; mais il n&#39;est aucune 
+partie du corps, ni aucun viscere qui ne puisse
+le devenir dans son irrégularité. C&#39;est pourquoi on
+distingue la <i>goutte</i> en réguliere &amp; en irréguliere. Lorsque le levain ne se porte que sur les piés &amp; les mains,
+comme sur son propre domaine, elle est parfaitement 
+réguliere : lorsqu&#39;il tombe sur les autres articulations,
+conjointement ou separement, elle est imparfaitement 
+réguliere ; &amp; même irréguliere, selon
+quelques auteurs, quand elle affecte les articulations
+du tronc. Mais ce n&#39;est pas-là la vraie irrégularité.
+La <i>goutte</i> irreguliere veritable, celle qui merite le
+nom d&#39;<i>anomale</i>, qu&#39;on appelle aussi <i>remontée</i>, est celle
+qui attaque les visceres ou l&#39;interieur du corps, &amp;
+qui fait autant de maladies différentes qu&#39;elle afflige
+de parties, soit qu&#39;elle s&#39;y jette avant de tomber sur
+les articulations, soit qu&#39;elle abandonne les articulations 
+pour rentrer dans l&#39;intérieur du corps. Il y a
+des apoplexies, des esquinancies, des fluxions de poitrine,
+des coliques goutteuses, <i>&amp;c.</i> qui sont l&#39;effet du
+levain goutteux qui se porte au cerveau, au gosier,
+sur le poumon, dans le bas-ventre, <i>&amp;c.</i>
+</p>
+<p>
+La <i>goutte</i> considérée en elle-même, est d&#39;un bon
+ou d&#39;un mauvais caractere, simple ou noüée : elle
+est d&#39;un caractere benin, ou benigne, quand ses douleurs 
+sont supportables, qu&#39;elle occupe une petite
+étendue, qu&#39;elle est bornée aux extrémites, &amp; que
+les paroxysmes sont courts. Elle est d&#39;un caractere
+malin, ou maligne, quand les souffrances sont excessives,
+qu&#39;elle occupe plusieurs membres à-la-fois
+ou successivement, qu&#39;elle menace l&#39;intérieur en
+s&#39;attachant au tronc ou à la tête, &amp; que les paroxysmes 
+sont si longs ou se répetent si souvent, qu&#39;elle
+<pb n="7:774" facs="V7/ENC_7-774.jpeg" />
+<milestone unit="column" n="1" />
+dure la meilleure partie de l&#39;année. Elle est simple,
+quand elle se résout parfaitement, &amp; qu&#39;elle ne laisse
+aucune trace après la solution parfaite de l&#39;accès.
+Elle est noüée, lorsqu&#39;elle contourne les articulations,
+qu&#39;elle les déplace, les gonfle, en détruit le
+mouvement, &amp; qu&#39;elle y laisse des concrétions plâtreuses,
+pierreuses, <i>&amp;c.</i>
+</p>
+<p>
+On fait encore plusieurs différences de la <i>goutte ;</i>
+l&#39;une est récente ou douteuse ; l&#39;autre ancienne ou
+confirmée. L&#39;une est fixe &amp; sédentaire, quand elle
+s&#39;attache à la partie qu&#39;elle occupe pendant toute la
+durée du paroxysme. L&#39;autre est vague, ambulante &amp;
+in déterminée, quand elle parcourt plusieurs articulations 
+successivement, sans se décider pour aucune.
+L&#39;une est particuliere, quand elle n&#39;attaque qu&#39;une
+articulation ou un seul membre. L&#39;autre est universelle,
+quand elle les attaque tous ou presque tous à la-fois. Enfin l&#39;une est héréditaire, quand elle est
+transmise par les parens. L&#39;autre est accidentelle,
+quand elle est acquise &amp; née d&#39;elle-même.
+</p>
+<p>
+Il a plu à Musgrave, on ne sait pas pourquoi, de
+considérer la <i>goutte</i> ou comme maladie essentielle &amp;
+indépendante, ou comme maladie subordonnée &amp;
+produite par une autre, de distinguer par conséquent 
+la <i>goutte</i> en idiopatique &amp; en symptomatique,
+&amp; se bornant à cette derniere, de donner un traité
+détaillé de la filiation de la <i>goutte</i> par le rhûmatisme,
+le scorbut, la chlorose, l&#39;asthme, <i>&amp;c.</i> Comme s&#39;il
+n&#39;étoit pas plus raisonnable de croire que la <i>goutte</i>
+est une maladie toûjours premiere, idiopatique &amp;
+essentielle ; qu&#39;elle n&#39;est engendrée par aucune autre,
+&amp; que celles dont il la fait descendre ne sont
+qu&#39;une <i>goutte</i> déguisée, ou tout-au-plus compliquée
+avec elles, puisqu&#39;on connoît la propriété qu&#39;elle a
+de se métamorphoser sous toute sorte de formes, &amp;
+que selon Musgrave même, elle est très-difficile,
+pour ne pas dire impossible, à reconnoître avant
+qu&#39;elle ait pris celle qui lui est propre.
+</p>
+<p>
+<i>Causes</i>. Nous recevons de nos parens au moment
+de la conception, ou nous engendrons en nous mêmes 
+&amp; de notre propre fond, ou, comme le pense
+Boerhaave, nous acquérons par la communication
+&amp; la contagion, le levain propre à former la <i>goutte</i>.
+Ce levain, comme bien d&#39;autres auxquels le corps
+est sujet, produit tantôt un effet prompt &amp; prématuré,
+tantôt il n&#39;agit qu&#39;après plusieurs années. Quand
+il s&#39;est une fois annoncé, &amp; qu&#39;il a donné des marques 
+certaines de son existence, son propre est de se
+renouveller chaque année, soit que le corps une fois
+infecté soit capable d&#39;en engendrer une nouvelle
+quantité, soit que quelque parcelle du premier dompté 
+pour un tems sans être détruit, reprenne vigueur
+&amp; se multiplie pour former un nouvel accès.
+</p>
+<p>
+On connoît mieux les effets de ce maudit levain,
+qu&#39;on n&#39;en connoît ni la nature ni les qualités. A
+en juger par les principaux, la douleur excessive,
+la chaleur, les concrétions plâtreuses ou pieireuses ; 
+par les urines épaisses, chargées de caroncules
+&amp; d&#39;un sédiment tartareux ou plâtreux ; &amp; par son
+association avec la pierre dans la vessie : on peut
+croire que sa nature est saline, tartareuse, acre,
+mordante, &amp; peut-être pierreuse, comme l&#39;a avancé 
+Quercetan dans une consultation sur la <i>goutte</i> &amp;
+le calcul, &amp; comme n&#39;ose le décider Sydenham.
+</p>
+<p>
+On ne connoît guere mieux les causes éloignées
+de la <i>goutte</i>, que la qualité du levain ; la multitude
+de celles qu&#39;on accuse, ne prouve que trop bien
+qu&#39;on ignore la plus coupable. Hippocrate a écrit
+que les bûveurs d&#39;eau, les eunuques, les enfans
+avant l&#39;âge de puberté, &amp; les femmes avant d&#39;avoir
+perdu leurs regles, n&#39;étoient point sujets à la <i>goutte</i>.
+Il en a conclu qu&#39;elle étoit fille de Bacchus &amp; de
+Vénus. Mais l&#39;expérience a démenti tout ce qu&#39;il a
+avancé à cet égard ; &amp; tous ceux qui étoient de son
+<milestone unit="column" n="2" />
+tems favorisés d&#39;une heureuse exemption, avoient
+déjà perdu leur privilége du tems de Galien, &amp; ne
+joüissent plus d&#39;aucun parmi nous, où le nombre
+des goutteux tant hommes que femmes, est devenu
+prodigieux.
+</p>
+<p>
+On ne sauroit douter que les excès dans tous les
+genres ne soient capables d&#39;attirer la <i>goutte</i>, comme
+ils le sont de produire toute autre maladie, telle que
+l&#39;asthme, la migraine, la néphrétique, <i>&amp;c.</i> mais on
+ne voit pas assez clairement qu&#39;ils ayent le pouvoir
+de l&#39;engendrer, non plus que les autres maladies
+qu&#39;on vient de citer. Tous les excès nuisent, en ce
+qu&#39;ils épuisent ou qu&#39;ils dérangent les fonctions du
+corps, &amp; qu&#39;un levain qui seroit peut-être demeuré
+caché toute sa vie, se trouve par-là disposé à germer 
+comme une semence, à se développer &amp; à produire 
+son action. On ne sauroit pourtant assurer
+qu&#39;un tel excès, par exemple celui du vin, ait engendré 
+la <i>goutte</i>. Le nombre des goutteux ivrognes
+est très-petit, &amp; celui des ivrognes non-goutteux
+très-grand. S&#39;il y a des vins propres à fomenter ou
+à irriter la <i>goutte</i>, comme on le prétend des vins
+de Moravie, de Bohème, du Champagne mousseux,
+<i>&amp;c.</i> il y en a aussi, tels que les vins d&#39;Espagne, de
+Bourgogne, <i>&amp;c.</i> qui non-seulement ne lûi sont point
+contraires de l&#39;aveu de tout le monde ; mais qui en
+sont plûtôt le préservatif &amp; le remede, si l&#39;on en
+croit M. Liger dans son <i>traité de la goutte</i>, &amp; Ambroise Paré qui, <i>liv. XVIII. chap. xjv.</i> rapporte un
+exemple de guérison par la crapule qu&#39;on n&#39;avoit pu
+obtenir par aucun autre moyen, &amp; qui la conseille
+deux ou trois fois le mois pour se préserver de la
+<i>goutte</i>. La Bourgogne &amp; la Champagne sont presque
+exemptes de la <i>goutte</i>, selon M. Liger, à cause de
+leurs vins ; tandis qu&#39;elle est endémique en Flandres
+&amp; en Normandie, où l&#39;on n&#39;en cueille point. S&#39;il est
+vrai que ces heureuses provinces n&#39;enfantent point
+de goutteux, elles deviendront bien-tôt la patrie de
+ceux qui le sont ; l&#39;agrément du remede autant que
+ses vertus, augmenteront chaque jour le nombre de
+ses partisans &amp; de leurs citoyens. Le vin ne doit
+pourtant pas se trop glorifier encore de sa nouvelle
+fortune ; l&#39;eau dont personne ne fait excès, &amp; qui
+avoit été accusée, selon Sennert, de donner la <i>goutte</i>
+à ceux qui en bûvoient par goût ou par nécessité,
+joüissoit depuis long-tems de l&#39;honneur d&#39;être un spécifique,
+quand le vin convaincu d&#39;être le seul coupable 
+est venu le lui enlever ; s&#39;il manque de pouvoir
+pour soûtenir sa nouvelle réputation, il sera bien tôt
+dépossédé. La gloire vraie ou fausse que l&#39;eau &amp; le
+vin ont eus en différens tems d&#39;être tantôt les auteurs
+&amp; tantôt les libérateurs de la <i>goutte</i>, marque trop
+bien qu&#39;ils sont aussi indifférens à son égard que les
+autres choses non-naturelles, &amp; qu&#39;on ignore parfaitement 
+toutes les vraies causes de cette cruelle
+maladie.
+</p>
+<p>
+Il en est des excès de Vénus comme de ceux de
+Bacchus ; les intempérans sont malades après leurs
+débauches, de toute autre maladie que de la <i>goutte ;</i>
+s&#39;ils deviennent goutteux, ils ont cela de commun
+avec les plus retenus. Il y a plus de goutteux modérés 
+en amour, qu&#39;il n&#39;y en a de débauchés. On peut
+raisonner tout de même de la bonne chere &amp; de
+tous les excès, &amp; conclure qu&#39;il n&#39;en est aucun en
+particulier qui ait la propriété de produire la <i>goutte ;</i> mais que chacun peut tellement disposer le corps,
+que le levain engendré de lui-même ou par une
+cause inconnue &amp; cachée, se réveille &amp; se mette en
+action pour former la maladie.
+</p>
+<p>
+Les gens de la campagne &amp; ceux qui s&#39;occupent
+à des travaux pénibles, sont moins sujets à la <i>goutte</i>
+que ceux de la ville &amp; que les fainéans : mais ce n&#39;est
+pas à raison de leur sobriété; ils font des excès de
+vin &amp; souvent de femmes, comme ceux de la ville.
+<pb n="7:775" facs="V7/ENC_7-775.jpeg" />
+<milestone unit="column" n="1" />
+La pureté &amp; la salubrité de l&#39;air dans lequel ils vivent,
+les mettent sans doute à couvert ; s&#39;ils respirent 
+quelque portion du levain goutteux, ou qu&#39;il en
+naisse dans leur sang, leurs travaux pénibles le dissipent 
+avec la sueur &amp; les autres évacuations, avant
+qu&#39;il ait eu le tems de se manifester.
+</p>
+<p>
+Non-seulement la nature du levain goutteux est
+inconnue, non-seulement on ignore les causes éloignées qui lui donnent naissance, on n&#39;est pas même
+d&#39;accord touchant le vrai siége de la <i>goutte</i>. Il est décidé 
+que c&#39;est sur l&#39;articulation qu&#39;elle se jette : mais
+sur quelle partie de l&#39;articulation? est-ce sur les ligamens,
+sur les glandes synoviales, sur le périoste?
+voilà sur quoi les Medecins sont partagés. Il est certain 
+que dans les violentes attaques de <i>goutte</i>, dans la
+<i>goutte</i> ancienne &amp; confirmée, toutes ces parties sont
+attaquées, ainsi que la peau &amp; tout ce qui compose
+le membre affligé; mais elles ne l&#39;ont pas été toutes
+dans le même instant, il en est une qui a été la premiere 
+occupée, la préférée, sur laquelle le levain
+a commencé à se déposer, &amp; de laquelle, comme
+d&#39;un centre, il a rayonné &amp; s&#39;est étendu tout-autour
+dans le voisinage. Cette partie favorite paroît être
+le périoste de la tête des os principalement ; ensorte
+que la <i>goutte</i> peut être regardée comme une vraie
+maladie des os.
+</p>
+<p>
+La premiere preuve de la préférence du levain
+goutteux pour le périoste, est que dans les premiers
+momens d&#39;un acces de <i>goutte</i> avant le gonflement,
+&amp; dans les derniers après qu&#39;il est dissipé, on peut
+sentir avec le doigt en pressant, le point de la douleur 
+sur le corps de l&#39;es, &amp; qu&#39;on peut faire joüer
+l&#39;articulation avec la main sans peine &amp; sans souffrance,
+quoiqu&#39;elle ne puisse pas exercer librement
+ses fonctions.
+</p>
+<p>
+La deuxieme, c&#39;est que la douleur gagne &amp; s&#39;étend 
+tout du long des os, le long des phalanges, &amp;
+du métatarse ou du métacarpe, selon qu&#39;elle est aux
+piés ou aux mains ; ce qui met le comble à l&#39;impuissance 
+de l&#39;exercice du membre malade.
+</p>
+<p>
+La troisieme, c&#39;est que les os se tordent, &amp; que
+leurs têtes se gonflent dans certaines <i>gouttes</i> d&#39;un
+mauvais caractere, independamment de toute concrétion 
+ou dépôt.
+</p>
+<p>
+La quatrieme, c&#39;est que la <i>goutte</i> attaque souvent
+le talon, où il n&#39;y a ni synovie ni ligamens.
+</p>
+<p>
+La cinquieme enfin, c&#39;est que dans l&#39;odontalgie,
+qui est une des plus cruelles <i>gouttes</i>, l&#39;humeur ne
+peut tomber que sur le périoste de la dent attaquée,
+&amp; qu&#39;il n&#39;y a ni synovie ni ligament pour la recevoir.
+Il ne paroît donc pas que ce soit la synovie qui
+soit l&#39;humeur infectée du levain goutteux, comme
+plus analogue avec lui qu&#39;aucune autre. L&#39;expérience prouve au contraire qu&#39;elle est la derniere attaquée,
+&amp; que l&#39;intérieur de l&#39;articulation est en bon
+état, tandis que l&#39;extérieur souffre beaucoup. Ce
+n&#39;est qu&#39;après un long-tems &amp; dans les <i>gouttes</i> noüées,
+que les articulations se déplacent, &amp; qu&#39;elles reçoivent 
+des dépôts dans leur intérieur.
+</p>
+<p>
+<i>Diagnostic</i>. On ne sauroit meconnoître la <i>goutte</i>,
+lorsqu&#39;une douleur vive vient subitement, en pleine
+santé, &amp; sans savoir pourquoi, attaquer quelqu&#39;une
+des articulations, principalement quand elle commence 
+par une seule, par le pié ou la main, &amp; qu&#39;elle 
+n&#39;est accompagnée en naissant d&#39;aucune tumeur:
+quand cette douleur se déclare la premiere fois dans
+le coeur de l&#39;hyver, au milieu de la nuit, ou qu&#39;elle
+redouble dans le lit ; quand elle prive la partie attaquée 
+de la force &amp; de la liberté de l&#39;exercice qui
+lui convient, &amp; qu&#39;elle la rend impuissante &amp; foible,
+même quelque tems après sa dissipation ; quand
+elle produit après les premieres vingt-quatre heures
+un gonflement, de la chaleur, des battemens sans
+aucune suppuration, une rougeur vive qui dégénere
+<milestone unit="column" n="2" />
+bien-tôt en violet ; quand elle se renouvelle chaque
+année au milieu de l&#39;hyver, ou vers la fin du printems ; 
+enfin lorsqu&#39;elle dépose &amp; qu&#39;elle laisse des
+noeuds, des concrétions plâtreuses ou pierreuses aux
+parties qu&#39;elle a martyrisées.
+</p>
+<p>
+La <i>goutte</i> irréguliere &amp; remontée n&#39;est pas moins
+évidente que la réguliere, quand le levain déposé
+dans son siége naturel, l&#39;abandonne, après le paroxysme 
+commence, pour aller occuper quelqu&#39;autre
+partie ou quelque viscere. Il n&#39;en est pas de même
+lorsque le levain goutteux s&#39;empare de quelque partie 
+intérieure, avant de s&#39;être fait sentir sur les extérieures 
+qu&#39;il avoit coûtume d&#39;attaquer ; il se cache
+trop bien sous les nouvelles formes qu&#39;il emprunte
+pour qu&#39;on ne s&#39;y méprenne pas quelquefois : cependant 
+le tempérament goutteux du malade, la nature
+des symptomes qui caractérisent la maladie formée
+par le levain irrégulier, le tems &amp; la saison des attaques,
+la déclaration brusque, subite &amp; sans cause de la
+maladie, le décelent le plus souvent ; mais on n&#39;en est
+bien convaincu qu&#39;au moment que la <i>goutte</i> devenant 
+réguliere, fait cesser la maladie anomale en reprenant 
+son poste naturel. A l&#39;égard de cette espece
+de <i>goutte</i> anomale qui commence par être telle sans
+s&#39;être annoncée par aucune attaque réguliere, ni
+même par aucune sorte de prélude, capable de faire
+soupçonner l&#39;existence du levain goutteux dans le
+sang, le malade n&#39;étant pas né d&#39;ailleurs de parens
+goutteux, il n&#39;est pas possible de la reconnoître par
+aucun signe ; il faut la deviner.
+</p>
+<p>
+<i>Prognostic</i>. C&#39;est le sort des maladies les plus douloureuses 
+de n&#39;être point mortelles, si ce n&#39;est par
+accident. La <i>goutte</i>, quand elle n&#39;est point troublée
+dans son cours, ne le devient qu&#39;après un long-tems,
+lorsque des attaques longues &amp; répétées ont entierement 
+épuisé les forces ; lorsque le levain ne pouvant
+plus se débarrasser de la masse du sang, ni être chassé
+vers les articulations, s&#39;arrête ou se dépose dans les
+visceres, &amp; fait la <i>goutte</i> remontée. C&#39;est proprement 
+l&#39;état de la vieillesse, &amp; la fin de presque tous
+les goutteux.
+</p>
+<p>
+Mais si le levain contrarié, troublé, interrompu
+dans son cours, ne peut se déposer ou se fixer dans
+son siége naturel, soit par la mauvaise conduite des
+goutteux, par leurs imprudences, par des remedes
+mal administrés, par des applications repercussives,
+ou parce qu&#39;il est trop abondant &amp; d&#39;un caractere
+malin, il forme alors la <i>goutte</i> irréguliere ou remontée,
+qui est une maladie presque toûjours mortelle ;
+&amp; la mort qui en résulte, est plus ou moins subite,
+plus ou moins certaine, selon la qualité du viscere
+attaqué, &amp; selon la nature &amp; l&#39;abondance du levain
+remonté.
+</p>
+<p>
+La <i>goutte</i> est une maladie intermittente, dont les
+acces reviennent tous les ans au-moins une fois, &amp;
+durent plus ou moins, sont plus ou moins violens,
+selon qu&#39;elle est plus nouvelle ou plus ancienne, d&#39;un
+caractere benin ou malin. Il arrive cependant quelquefois 
+que les intermittences sont de deux ou trois
+ans, &amp; même davantage ; mais on remarque que
+quand les accès ont manqué un an, ou deux, ou
+trois, <i>&amp;c.</i> le premier qui survient est très-fort, &amp;
+d&#39;autant plus violent, qu&#39;il a différé plus long-tems.
+Les goutteux agueiris ne regardent pas ces longs intervalles 
+comme un heureux succès ; ils ont raison
+de se méfier du retard de leur <i>goutte</i>, &amp; d&#39;en craindre 
+l&#39;irregularité, ou du-moins de redouter la violence 
+du premier accès, qui ne leur devient supportable 
+qu&#39;en dissipant leurs alarmes par son retour.
+</p>
+<p>
+C&#39;est peut-être la suspension des accès de <i>goutte</i>
+qui a fait croire à quelques goutteux qu&#39;ils en étoient
+guéris ; ils ont fait honneur de leur guérison à quelque 
+dernier moyen qu&#39;ils avoient employé, dont
+on a enrichi le catalogue des spécifiques ; peut-etre
+<pb n="7:776" facs="V7/ENC_7-776.jpeg" />
+<milestone unit="column" n="1" />
+aussi que faute de distinguer le rhûmatisme, le catarrhe,
+ou toute autre douleur des articulations d&#39;avec
+la <i>goutte</i>, quelques auteurs assûrent de l&#39;avoir guérie.
+Le petit nombre des exemples qu&#39;ils citent, le
+peu de soin qu&#39;ils ont pris de caractériser la maladie,
+la nature des moyens dont ils se sont servis, devenus
+impuissans en d&#39;autres mains, donnent de justes sujets 
+de douter des guérisons qu&#39;ils publient ; &amp; l&#39;on
+n&#39;est que trop bien fondé à regarder encore aujourd&#39;hui la <i>goutte</i> comme une maladie incurable, comme 
+on l&#39;a dit de tout tems de la <i>goutte</i> noüée, selon ce
+vers d&#39;Ovide,
+<lg>
+</lg></p>
+<p>
+<i>Tollere nodosam nescit Medicina podagram ;</i>
+parce qu&#39;elle porte un caractere auquel personne
+ne peut se méprendre.
+</p>
+<p>
+Tous les Medecins conviennent, à commencer
+par Hippocrate, que la <i>goutte</i> est pourtant guérissable,
+&amp; qu&#39;il est possible de trouver des moyens de la
+dompter, pourvû qu&#39;elle ne soit ni héréditaire ni invétérée,
+ni noüée ; mais qu&#39;elle ait été guérie parfaitement 
+&amp; sans retour, si ce n&#39;est par hasard &amp; par
+quelque heureux concours de circonstances difficiles
+à rencontrer, on en doute avec juste raison : peut-être
+sera-t-on plus heureux à l&#39;avenir, qu&#39;on n&#39;a été
+par le passé. La violence des douleurs qui a fait inventer 
+tant de moyens différens pour s&#39;en délivrer,
+féconde en expédiens &amp; en tentatives, pourra bien
+rencontrer enfin le remede tant desiré: mais ce remede 
+est encore ignoré, &amp; la <i>goutte</i> peut de nos jours
+pour le malheur du genre humain, tenir le même langage 
+que Lucien lui faisoit tenir de son tems, qu&#39;elle
+est la maîtresse souveraine &amp; indomptée des douleurs,
+qu&#39;on ne peut la flechir par la violence, qu&#39;elle
+se rend d&#39;autant plus redoutable qu&#39;on lui livre plus
+de combats, &amp; d&#39;autant plus benigne qu&#39;on lui cede
+&amp; qu&#39;on lui obeit plus patiemment &amp; plus aveuglement.
+</p>
+<p>
+Les exemples de guérisons &amp; de merveilles opérées 
+par la diete, l&#39;abstinence du vin &amp; des femmes,
+l&#39;usage du lait, de l&#39;eau tiede pour toute nourriture,
+&amp; quelques autres remedes, sont plus consolans pour
+les goutteux avides de guérir, qu&#39;ils ne sont certains.
+Cardan, <i>de curatione admirandâ, n°. 16.</i> rapporte
+quatre exemples de guérisons de sa façon, par des
+moyens qui depuis lui n&#39;ont guéri personne. Schenckius, <i>lib. V. observ</i>. Solenander, <i>consil. 1°. sect. 5.</i> en
+rapportent aussi quelques exemples, ainsi que tant
+d&#39;autres auteurs qu&#39;il est inutile de nommer. Carolus Piso fait l&#39;histoire d&#39;un certain Cornélius Perdaeus de Picardie, qui étant goutteux depuis l&#39;âge
+de sept ans, &amp; ayant de fréquentes attaques chaque
+année, fut guéri à l&#39;âge de trente ans, après s&#39;être
+abstenu de vin pendant deux ans, s&#39;être bien vêtu,
+bien couvert pendant la nuit, pour pouvoir suer le
+matin à l&#39;issue du sommeil, &amp; s&#39;être legerement purgé 
+trois ou quatre fois le mois avec le sirop de roses
+pâles, comme il le lui avoit conseillé. M. Desault se
+flatte, de nos jours, dans son <i>traité de la goutte</i>, d&#39;avoir 
+opéré des guérisons avec les apéritifs martiaux,
+secondés de l&#39;usage du lait ; &amp; à la <i>page 168</i>, il assûre
+avoir vû un goutteux s&#39;être guéri parfaitement pour
+avoir avalé tous les matins à jeun pendant un mois,
+neuf gousses d&#39;ail ; ayant ainsi enchéri sur ce qui est
+rapporté dans la pratique de Lazare Riviere, que
+quelques personnes regardent comme un grand remede 
+d&#39;avaler le matin à jeun trois gousses d&#39;ail pour
+guérir de cette maladie. Cayrus, dans sa pratique, a
+la hardiesse d&#39;avancer que dans un accès de <i>goutte</i> où
+il n&#39;avoit que la langue de libre, ayant pris une dose
+de son électuaire cariocostin, &amp; s&#39;étant fait porter à
+quatre sur son siége, il n&#39;eut pas plûtôt poussé trois ou
+quatre selles, qu&#39;il marcha seul &amp; n&#39;eut besoin du secours 
+de personne ; comme si la <i>goutte</i> universelle
+<milestone unit="column" n="2" />
+étoit assez docile pour se laisser ainsi porter à quatre,
+&amp; se dissiper à l&#39;instant par trois ou quatre selles. Il
+ressemble bien à ces charlatans qui possedent des spécifiques 
+souverains, &amp; qui savent porter des coups
+beaucoup plus sûrs à la bourse qu&#39;à la maladie, surtout 
+quand il ajoûte que par le secours de son remede
+pris trois ou quatre fois par an, il se delivra de la
+<i>goutte</i> pendant trente ans.
+</p>
+<p>
+Les guérisons extraordinaires &amp; les miracles opérés 
+par la joie, la crainte, les douleurs même, ne
+méritent pas plus de confiance ; les moyens en sont
+d&#39;ailleurs trop impraticables pour que la Médecine
+en puisse retirer d&#39;autre fruit que l&#39;admiration. Andraeus Libavius, <i>epist. lxxiij. in cycta med.</i> raconte
+l&#39;histoire d&#39;un cabaretier goutteux, qui avoit fait
+un marché de 300 florins avec un medecin logé
+chez lui, s&#39;il le guérissoit ; celui-ci l&#39;ayant fait saisir
+par ses domestiques, lui cloüa les piés sur un poteau
+avec six gros clous ; partit sans dire adieu, &amp; revint
+trois ans après exiger son salaire, ayant appris que
+le patient n&#39;avoit plus eu d&#39;attaque de <i>goutte</i>. Franc.
+Alexander raconte de Franc. Pecchius, goutteux décidé,
+qu&#39;ayant été détenu vingt ans en prison, il
+fut exempt de <i>goutte</i> en sortant pour le reste de sa
+vie. Guilhelmus Fabricius, <i>observat. lxxjx. cent. 1.</i>
+fait l&#39;histoire de trois malheureux goutteux qui ayant
+été appliqués à la torture pour leur faire avoüer un
+crime dont ils étoient soupçonnés, &amp; ayant été reconnus 
+innocens, furent delivrés pour leur vie de
+celle de la <i>goutte</i>, qu&#39;ils avoient éprouvée plusieurs
+fois auparavant. Le même auteur, <i>epist. xlvij.</i> raconte 
+qu&#39;un goutteux, dans le tems du paroxysme,
+ayant été enlevé de son lit par un ennemi masqué,
+trainé par l&#39;escalier, ensuite mis sur ses piés au bas
+de la maison, pour prendre haleine, le spectre prétendu 
+ayant fait semblant de le ressaisir pour le porter 
+hors de la maison, le goutteux prit la fuite en
+montant l&#39;escalier, &amp; alla crier au secours par les
+fenêtres. Le même Fabricius fait mention d&#39;une guérison 
+subite arrivée à un coupable perclus de <i>goutte</i>
+qu&#39;on menoit au supplice, qui en apprenant à moitié 
+chemin que le prince lui faisoit grace, se mit sur
+ses piés, &amp; fut delivré pour le reste de sa vie. Sennert assure qu&#39;un jeune 
+goutteux, allarmé du feu qui
+avoit pris la nuit dans la maison voisine de la sienne,
+se leva brusquement, descendit l&#39;escalier, traversa
+un fossé plein d&#39;eau, &amp; fut ainsi délivré de son accès 
+&amp; des suivans pendant plusieurs années. Il raconte 
+aussi, d&#39;après Doringius, qu&#39;un habitant de
+Giesse, dans un accès violent de douleur &amp; d&#39;impatience,
+s&#39;amputa le doigt du pié souffrant, &amp; fut
+exempt de retour tout le reste de sa vie. On pourroit 
+rapporter plusieurs autres exemples qui ne tendroient,
+comme celui-ci, qu&#39;à prouver combien on
+s&#39;est attaché de tout tems à remarquer ce qui avoit
+quelque pouvoir sur cette fatale maladie, sans avoir
+encore pû découvrir aucun moyen certain pour la
+detruire.
+</p>
+<p>
+<i>Traitement</i>. Rien n&#39;est plus naturel pour les souffrans,
+que de chercher des remedes &amp; du soulagement 
+dans les tourmens de leurs accès : rien n&#39;est
+plus sage &amp; plus prudent dans les intervalles, que
+de se précautionner contre leurs retours, &amp; de mettre 
+tout en usage pour s&#39;en préserver.
+</p>
+<p>
+Le meilleur remede pendant la douleur, c&#39;est la
+douleur même, selon Sydenham, quand on a le courage 
+de la supporter, parce qu&#39;elle n&#39;est jamais suivie
+d&#39;aucun fâcheux évenement ; &amp; qu&#39;elle termine l&#39;acces 
+d&#39;autant plus promptement &amp; plus parfaitement,
+qu&#39;elle est plus violente : au lieu que les moyens
+qu&#39;on employe pour l&#39;adoucir, la prolongent le plus
+souvent, la font déposer, &amp; quelquefois remonter.
+Mais tous les patiens n&#39;ont pas un courage suffisant
+pour demeurer ainsi tranquilles ; l&#39;excès de la douleur<gap type="hyphenpb" />
+<pb n="7:777" facs="V7/ENC_7-777.jpeg" />
+<milestone unit="column" n="1" />
+peut d&#39;ailleurs vaincre toute patience &amp; toute
+fermeté: c&#39;est alors qu&#39;il convient de donner des secours,
+qui, n&#39;en portassent-ils que le nom, en deviennent 
+de réels, &amp; empêchent les souffrans de se
+desespérer.
+</p>
+<p>
+Lorsque la fievre est de la partie, ou que les douleurs 
+sont intolérables, si le goutteux est jeune, d&#39;un
+tempérament sanguin &amp; pléthorique, la saignée peut
+être pratiquée une ou deux fois. Simon Pauli préfere 
+celle des veines gonflées de la partie affligée ;
+&amp; il assûre, <i>class. iij. tit. boni Henric. quadripart. bo
+tan</i>. que par le secours d&#39;une pareille saignée &amp; du
+cataplasme suivant, il a fait en trois jours des guérisons 
+miraculeuses.
+</p>
+<p>
+<gap /> du bon Henri sans fleurs, quatre poignées ;
+des fleurs seches de camomille &amp; de sureau, de chacune 
+deux poignées : cuisez-les dans s. q. d&#39;eau de
+sureau : tirez-en la pulpe, &amp; mêlez-y demi-once de
+gomme caranne, &amp; demi-gros de camphre.
+</p>
+<p>
+M. Vieussens, auteur du <i>novum syst. vasorum</i>,
+préféroit la saignée à la partie goutteuse, &amp; l&#39;a pratiquée 
+sur lui-même avec succès. Je l&#39;ai faite aussi,
+&amp; je puis assûrer que tant que le sang couloit, il
+n&#39;étoit plus question de douleur ; que le sang jaillissoit 
+avec une impetuosité étonnante, quoique le pié
+fut dans une situation beaucoup plus elevée que la
+tête, &amp; qu&#39;il n&#39;eût pas été question de le mettre dans
+l&#39;eau ; mais que la douleur recommençoit comme
+auparavant, des que le sang avoit cessé de couler.
+Les sangsues peuvent souvent tenir lieu de la saignée,
+sur-tout pour les personnes délicates, &amp; donner 
+plus ou moins de soulagement, selon qu&#39;elles tirent 
+à-la-foi, une plus grande ou une moindre quantité 
+de sang.
+</p>
+<p>
+Le régime de vivre doit être severe, sur-tout pendant 
+la fievre ; &amp;, selon le degré, la continuité ou la
+durée, ne pas passer les bouillons ou les potages. Hors
+le cas de fievre, on peut vivre comme en santé ;
+avec la reserve pourtant de ne point souper, ou de
+souper peu ; d&#39;éviter les ragoûts, le haut goût, les
+fritures, les viandes salees, les légumes secs, les
+artichauds, les asperges ; le poisson mou, comme la
+carpe, que julius Alexander, <i>lib. V. salubr. cav. vj.</i>
+assûre avoir donné la <i>goutte</i> à un de ses amis, qui
+étoit certain d&#39;en prendre une attaque chaque fois
+qu&#39;il en mangeoit.
+</p>
+<p>
+La situation du membre souffrant est plus importante 
+qu&#39;on ne le pense communément, pour diminuer 
+l&#39;excès de la douleur &amp; la rendre supportable ;
+il doit être élevé autant qu&#39;il est possible, délivré
+du poids des couvertures, &amp; souvent de la chaleur
+du lit, qui contribue si fort, sur-tout pendant la nuit,
+à augmenter celle qui existe déjà, &amp; à irriter la douleur 
+au point de ne laisser prendre aucun repos au
+malheureux goutteux.
+</p>
+<p>
+Les applications les plus utiles &amp; les plus innocentes 
+qu&#39;on ait encore trouvées, sont le lait froid
+ou tiede au sortir du pis de l&#39;animal qu&#39;on trait sur
+la partie malade, ou qu&#39;on y applique avec des compresses ; 
+le cataplasme avec le lait &amp; les farines d&#39;orge,
+d&#39;avoine, ou la mie de pain blanc ; la tomme
+fraîche de lait de brebis, qu&#39;on renouvelle souvent ;
+la pulpe d&#39;oignon de lis ou d&#39;oignon ordinaire, cuits
+au four ou sous la cendre, &amp; nourrie avec l&#39;huile
+d&#39;amande douce, récente, tirée sans feu ; la chair de
+boeuf ou de veau, dont on applique des roüelles
+froides ou toutes palpitantes ; la cervelle des veaux,
+agneaux, moutons ; les anodyns, tels que le jaune
+d&#39;oeuf frais, l&#39;onguent anodyn de Crollius ; les narcotiques 
+même, si l&#39;on est forcé d&#39;y avoir recours.
+Mais la douleur, dans ses premiers transports, plus
+puissante que les remedes, élude presque toûjours
+leur secours, &amp; n&#39;en reçoit aucun adoucissement.
+C&#39;est alors que le desespoir, qui ne connoît ni frein
+<milestone unit="column" n="2" />
+ni danger, a inventé les bains d&#39;eau froide, douce
+ou salée, de glace ou de neige, qui ont fait des guérisons 
+promptes &amp; miraculeuses ; mais qui ont fait
+aussi plus souvent remonter la <i>goutte</i>, ou qui l&#39;ont
+changée en une mort subite.
+</p>
+<p>
+Dans une maladie aussi indomptable, il n&#39;est pas
+étonnant qu&#39;on se soit retourné de tous les côtés,
+qu&#39;on ait presque tout tenté; &amp; qu&#39;après avoir éprouve le froid contre le chaud, combattu le mal par son
+contraire, on se soit avisé de lui opposer son semblable,
+&amp; d&#39;attaquer le feu par le feu même. Wilelm. Tenrhyne, <i>dissert. de arthritide, pag. 102.</i> soûtient 
+que le feu est un excellent remede contre la
+<i>goutte</i> ; qu&#39;il est innocent, &amp; qu&#39;il a vû les Japonois
+se guérir de leurs attaques, en mettant feu à du papier 
+ou de la mousse dont ils entouroient la partie
+goutteuse : on en trouve plusieurs exemples dans
+Hippocrate &amp; les anciens, qui se sont servis d&#39;étoupes,
+de charpie, de mousse, <i>&amp;c.</i> pour une pareille
+opération. Boerhaave la conseille, ainsi que le foüet
+avec des orties, pour attirer le levain en-dehors,
+lorsqu&#39;on craint que la partie ne se durcisse trop tôt,
+&amp; ne perde sa mobilité.
+</p>
+<p>
+On seconde l&#39;effet des topiques par les boissons de
+petit-lait, par les juleps anodyns, les opiates, par
+les clysteres emolliens ; mais ce n&#39;est qu&#39;après la premiere 
+impétuosité de la douleur, qui est toujours invincible,
+selon Sydenham, qu&#39;on peut retirer quelque 
+fruit des applications propres a resoudre &amp; à accélérer 
+la destruction du levain goutteux. C&#39;est alors
+qu&#39;on peut employer avec succès l&#39;emplâtre de Tachenius, dont voici la recette.
+</p>
+<p>
+<gap /> de l&#39;huile rosat <gap /> j. Quand il sera chaud, délayez-y 
+du savon blanc rapé <gap /> iiij. ensuite ajoutez-y
+de la ceruse &amp; du minium en poudre, de chacun
+<gap /><gap /> iiij. cuisez le tout lentement, en remuant toujours
+avec une spatule de bois, jusqu&#39;à ce qu&#39;il ait acquis
+la consistence d&#39;un emplâtre : alors, après avoir
+laissé un peu refroidir, en remuant toûjours, mêlez-y 
+une once de camphre, dissous auparavant dans un
+mortier avec q. s. d&#39;esprit-de-vin, pour le réduire
+en forme de bouillie.
+</p>
+<p>
+C&#39;est au même moment de la diminution des tourmens,
+que M. James, dans son <i>dictionnaire de Medecine</i>, à la fin de l&#39;article <i>goutte</i>, dans ses réflexions,
+propose un topique qui lui a été communiqué par
+un goutteux, qui n&#39;est compose que de fleurs de sureau,
+de vinaigre &amp; d&#39;un peu de sel digérés ensemble,
+qui appliqué froid, ne laisse pas de faire beaucoup 
+transpirer la partie ; &amp; qui doit par conséquent,
+en attirant au-dehors &amp; en évacuant le levain goutteux,
+l&#39;empêcher de déposer, &amp; abréger beaucoup
+la durée du paroxysme. C&#39;est dans le même tems
+qu&#39;on peut aussi appliquer avec utilité le baume de
+soufre térébenthine ; la térébenthine elle-même sur
+les étoupes, dont quelques personnes font un grand
+secret, ainsi que tous les différens baumes, principalement 
+celui de la Mecque, avec lequel quelques
+goutteux croyent s&#39;être guéris, ou du moins préservés 
+de la <i>goutte</i> pendant plusieurs années.
+</p>
+<p>
+On pourroit bien, avec autant de raison, appliquer 
+les lithonptriptiques, les sels lixiviels, les absorbans,
+les savons, qui sont peut-être les seuls remedes 
+capables d&#39;attaquer la cause du mal, comme
+l&#39;a soupçonné M. Deydier dans sa <i>dissertation sur la
+goutte</i>, imprimée à Montpellier en 1726: <i>an arthritidi 
+curandae quaerendum topicum lithomptripticum</i>. On
+pourroit bien aussi en faire usage intérieurement,
+comme nous le dirons ci-après, ainsi que des amers
+stomachiques aromatiques, qui ont toûjours été employés 
+en pareille occasion pour fortifier l&#39;estomac,
+ranimer les digestions, &amp; détruire les reliquats du
+levain goutteux.
+</p>
+<p>
+A l&#39;égard de la purgation, elle ne trouve presque
+<pb n="7:778" facs="V7/ENC_7-778.jpeg" />
+<milestone unit="column" n="1" />
+jamais place dans le tems de l&#39;accès, à-moins qu&#39;il
+n&#39;y ait complication, parce que dans tous ses tems,
+au commencement, au milieu, à la fin, les purgatifs
+ne sont propres qu&#39;à troubler le dépôt du levain
+goutteux, le suspendre, le faire remonter, ou affoiblir 
+les forces nécessaires pour sa coction, sa résolution 
+&amp; sa destruction. On n&#39;en fait guere plus d&#39;usage 
+à l&#39;issue de l&#39;attaque, parce que les forces sont
+déjà trop affoiblies ; que l&#39;ennemi n&#39;existe plus, ou
+qu&#39;il est hors de la portée de leur action.
+</p>
+<p>
+S&#39;il est un tems pour attaquer la <i>goutte</i> &amp; la combattre 
+avec avantage, le véritable est dans l&#39;intervalle 
+des accès. Il est bien plus important d&#39;empêcher 
+la formation &amp; l&#39;accumulation du levain goutteux 
+pendant la bonne santé, que de s&#39;occuper de sa
+destruction dans le tems des tourmens qu&#39;il cause.
+C&#39;est en printems &amp; en autonne qu&#39;on peut dans les
+sujets pléthoriques employer les saignées préservatives ; 
+&amp; dans les cacochimiques, les legers émétiques ou la purgation, que Boerhaave conseille de
+composer avec les purgatifs hydragogues mêlés avec
+les mercuriaux. C&#39;est le tems d&#39;employer le lait &amp;
+la diete blanche, les martiaux, tels que l&#39;alkool
+<i>martis</i> de Musgrave, ou toute autre préparation ;
+les amers antipodagragogues des anciens, tels que
+la poudre arthritique amere du <i>codex parisiensis ;</i> les
+os humains brûlés, que Galien, <i>lib. IX. de simpl.
+medic. facult.</i> assûre avoir vû guérir des goutreux &amp;
+des épileptiques, <i>&amp;c.</i> Outre ces remedes, dont on
+prolonge l&#39;usage pendant les six mois &amp; les années
+entieres, les chaleurs de l&#39;été invitent aux eaux minérales 
+ferrugineuses, aux bains domestiques, ou
+dans l&#39;eau de la mer &amp; des rivieres, qui sont très utiles 
+aux jeunes personnes sanguines &amp; bilieuses.
+L&#39;autonne fournit les bains de vendange bouillante,
+tant vantés par <i>Antonius ab Alto-mari</i>, &amp; dont tant
+de personnes ont ressenti les bons effets. Quelques
+goutteux se trouvent bien de porter toute l&#39;année ou
+des chaussons ou des semelles d&#39;une toile cirée verte,
+qui entretient une transpiration continuelle des piés.
+D&#39;autres usent toute l&#39;année aussi d&#39;une décoction
+legere d&#39;ortie, qu&#39;ils prennent en forme de thé.
+</p>
+<p>
+Un remede qui paroît prendre faveur, &amp; qui
+porte déjà le nom de <i>spécifique</i>, c&#39;est le savon blanc
+ordinaire, ou le savon médicinal, dont on commence 
+à faire usage une ou deux fois par jour pendant
+long-tems, en commençant par quinze ou vingt
+grains, &amp; augmentant insensiblement jusqu&#39;à demi-dragme 
+ou deux scrupules par prise. Quoique l&#39;expérience 
+n&#39;ait point encore consacré ce remede, sa
+vertu lithomptriptique doit lui servir de recommandation ; 
+&amp; quand il ne produiroit d&#39;autre bien que
+d&#39;empêcher la formation du calcul, si souvent uni à
+la <i>goutte</i>, il ne laisseroit pas d&#39;être d&#39;une grande utilité.
+Il semble que les alkalis volatils &amp; fixes, que
+tant d&#39;illustres auteurs recommandent, n&#39;ont mérité
+leur confiance qu&#39;à cause de la vertu commune qu&#39;ils
+ont avec le savon.
+</p>
+<p>
+Le meilleur remede qu&#39;on ait encore trouvé, le
+plus certain, le plus utile, celui qui réunit le suffrage 
+de tous les Medecins tant anciens que modernes,
+c&#39;est un bon régime de vivre, c&#39;est l&#39;usage raisonnable 
+des six choses non naturelles : <i>non saturari cibis,
+&amp; impigrum esse ad laborem</i>. Manger peu, sur-tout le
+soir ; boire sobrement, éviter les alimens contraires,
+se coucher de bonne-heure, être assez bien couvert
+pour pouvoir transpirer le matin à la fin du sommeil ;
+faire un exercice proportionné, tant à pié qu&#39;à cheval,
+ou en voiture, <i>&amp;c.</i> voilà le seul spécifique connu.
+S&#39;il ne remplit pas son nom, comme on n&#39;en
+sauroit disconvenir, il diminue du-moins beaucoup
+la violence du mal ; il en empêche les fréquens retours ; 
+il seconde efficacement tous les moyens dont
+on se sert pour le détruire ou pour l&#39;adoucir, qui
+<milestone unit="column" n="2" />
+deviendroient inutiles sans son secours. C&#39;est lui que
+Sydenham, sectateur de Lucien, préfere à tous les
+moyens connus de son tems, &amp; dont il a eu la triste
+satisfaction de faire l&#39;expérience sur lui-même. Le
+lait, qui étoit alors à la mode, n&#39;a, selon lui, d&#39;autre 
+propriété que d&#39;adoucir &amp; de retarder les acces
+de <i>goutte</i> tant qu&#39;on en fait usage ; mais dès qu&#39;on
+l&#39;abandonne, les premiers accès qui reviennent sont
+les plus violens &amp; les plus insupportables. L&#39;usage
+des purgatifs produit aussi, selon lui, plus de mal
+que de bien, &amp; ainsi des autres remedes.
+</p>
+<p>
+La <i>goutte</i> noüée, soit de sa nature, soit par ancienneté,
+doit être conduite comme la <i>goutte</i> simple : ce qu&#39;elle exige de plus, c&#39;est quelque moyen
+local pour fondre les nodosités, les concrétions plâtreuses 
+ou pierreuses qui rendent le membre difforme,
+incommode, perclus, &amp; qui le font enfin éclater, pour donner issue aux matieres qui s&#39;y sont déposées.
+Le meilleur topique qu&#39;on ait encore trouvé
+pour ce cas, c&#39;est le cataplasme de vieux fromage
+de vache, délayé dans un bouillon de pié de cochon
+salé, inventé par Galien, &amp; rapporté <i>liv. X. de medie.
+simpl. facult. cap. jx. de caseo</i>, auquel les Arabes
+ont ajoûté l&#39;euphorbe, &amp; dont on se sert toûjours en
+pareil cas, ainsi que des emplâtres de savon. Les
+bains &amp; la douche des eaux de Bareges ont guéri plusieurs 
+<i>gouttes</i> noüées, selon M. Desault ; il cite dans
+son livre plusieurs exemples des succès opérés par
+ces eaux admirables, qui sont du-moins toûjours
+innocentes.
+</p>
+<p>
+A l&#39;égard de la <i>goutte</i> remontée, où les forces vitales 
+trop affoiblies par l&#39;âge, ou par toute autre
+cause, ne peuvent plus pousser au loin le levain
+goutteux dans son siege naturel ; où le levain déréglé 
+&amp; mal moriginé, au lieu de se porter dans les articulations,
+se jette sur les visceres ; où les applications 
+mal entendues, &amp; quelques fautes dans le régime 
+&amp; les remedes, le repercutent &amp; le chassent
+en-dedans du corps : les cordiaux sont le seul remede 
+pour le premier cas, tels que la thériaque
+vieille, la poudre de Gascogne, les bons vins vieux,
+les liqueurs même spiritueuses &amp; les alimens nourrissans,
+parce qu&#39;ils sont capables de relever les forces,
+&amp; de faire faire un effort à la nature pour chasser
+l&#39;ennemi.
+</p>
+<p>
+Dans le second on doit suivre le même traitement
+pour les maladies causées par le levain goutteux,
+que si elles étoient dépendantes de causes ordinaires ; 
+avec cette attention particuliere, que les forces 
+doivent être ménagées, &amp; par conséquent les
+saignées &amp; les purgatifs économisés, les cordiaux
+presque toûjours employés ; &amp; qu&#39;on doit s&#39;occuper
+particulierement de rappeller à son siége naturel le
+levain qui s&#39;en est écarté, par le moyen des frictions
+seches, des emplâtres céphaliques, de la poix de
+Bourgogne, de l&#39;urtication, du bain chaud, de la
+peau chaude de quelqu&#39;animal nouvellement écorché, 
+des synapismes &amp; des vésicatoires même sur la
+partie dont il s&#39;est dévoyé, &amp; sur laquelle il doit
+revenir pour la délivrance parfaite de celles qui en
+sont opprimées.
+</p>
+<p>
+Dans le troisieme cas il faut recourir à des applications 
+contraires aux repercussives qui ont repoussé
+le levain en-dedans, aux bains chauds de la partie,
+<i>&amp;c.</i> comme dans le second cas ; à la saignée même
+dérivative, si les forces sont suffisantes ; aux cordiaux,
+&amp; même aux anodyns pris intérieurement,
+selon le besoin. <i>Cet article est de M. <sc>Penchenier</sc>,
+Docteur en Medecine à Montelimart en Dauphiné</i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,378 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27592" id="48:57:1" vol="7">
+<index type="head" value="Fondement, (le)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Anatom. &amp; Chirurg." />
+<index type="normclass" value="Anatomie | Chirurgie" />
+<index type="englishclass" value="Anatomy | Surgery" />
+<index type="generatedclass" value="Chirurgie" />
+<index type="pos" value="NA" />
+<head>Fondement</head>
+<p>
+<sc>Fondement</sc>, (<i>le</i>) <i>Anatom. &amp; Chirurg</i>. c&#39;est
+l&#39;orifice de l&#39;intestin rectum, par lequel se déchargent 
+les excrémens hors du corps. On l&#39;appelle en
+termes d&#39;art <i>anus</i>, mot préférable dans une Encyclopédie à celui du discours ordinaire, quoiqu&#39;on
+ait fait le renvoi de ce terme au mot <i>fondement</i>.
+</p>
+<p>
+Le <i>fondement</i> donc, c&#39;est-à-dire l&#39;extrémité inférieure 
+du rectum, est principalement formé par trois
+muscles considérables, qui sont le sphincter &amp; les
+releveurs. Le sphincter est un anneau irrégulier de
+fibres charnues, qui embrasse l&#39;extrémité du boyau.
+<i>Voyez</i> <sc><ref target="head:Sphincter" type="search">Sphincter</ref></sc> <i>de l&#39;anus</i>.
+</p>
+<p>
+Les releveurs, un de chaque côté, naissent des
+os du bassin, pour se terminer en partie au sphincter
+&amp; en partie à une ligne tendineuse, qui s&#39;étend depuis 
+la pointe du coccyx jusqu&#39;à la partie postérieure 
+&amp; inférieure du rectum. <i>Voyez</i> <sc><ref target="head:Rectum" type="search">Rectum</ref> <i>&amp;</i> <ref target="head:Releveurs" type="search">Releveurs</ref></sc> <i>de l&#39;anus</i>.
+</p>
+<p>
+On voit des enfans qui viennent au monde sans
+ouverture au <i>fondement</i>, &amp; sans aucun vestige de
+cette ouverture. Il y en a auxquels on reconnoit seulement 
+l&#39;endroit précis de l&#39;anus qui se trouve clos.
+Il y en a d&#39;autres dans lesquels on peut introduire un
+stilet plus ou moins avant, comme à deux, trois &amp;
+quatre lignes, &amp; même davantage ; &amp; dans ceux-là,
+quoique leur anus paroisse très-bien formé, le vice
+de conformation se trouve plus ou moins avant dans
+l&#39;intérieur.
+</p>
+<p>
+Ces sortes de jeux de la nature sont si fréquens,
+qu&#39;on en lit des exemples dans plusieurs livres de
+chirurgie &amp; d&#39;observations chirurgicales ; dans Hilden, par exemple, Roonhuysen, Saviard, Scultet,
+<i>&amp;c.</i> &amp; sur-tout dans les traités d&#39;accouchemens,
+comme dans Mauriceau, Deventer, la Motte, <i>&amp;c.</i>
+</p>
+<p>
+On s&#39;apperçoit aisément de ce défaut, lorsque les
+enfans ne rendent point leurs excrémens le lendemain 
+du jour qu&#39;ils sont nés. On peut encore s&#39;en appercevoir 
+plûtôt, lorsque les sages-femmes visitent
+cette partie, comme elles le devroient toûjours faire,
+après avoir nettoyé chaque enfant nouveau-né,
+pour voir si sa conformation est telle qu&#39;elle doit
+être. La nature indique souvent par quelqu&#39;éminence 
+ou par quelque creux le lieu où doit être l&#39;ouverture 
+du <i>fondement</i>. Quelquefois néanmoins on n&#39;apperçoit 
+aucune marque semblable. Quelquefois la
+partie est couverte par une chair solide dont l&#39;épaisseur 
+varie, &amp; d&#39;autres fois par une membrane déliée.
+</p>
+<p>
+Quelle que puisse être la cause de ce mal, si l&#39;on
+n&#39;a soin d&#39;ouvrir promptement l&#39;anus, il arrive que
+le trop long sejour du méconium cause à l&#39;enfant des
+tranchées violentes, la jaunisse, des convulsions,
+l&#39;épilepsie, un vomissement d&#39;excrémens, &amp; pareils
+accidens qui se terminent par la mort.
+</p>
+<p>
+Lorsque le vestige du <i>fondement</i> est bien marqué,
+&amp; qu&#39;il n&#39;est bouché qne par une membrane mince,
+on découvre l&#39;endroit où doit être l&#39;ouverture par
+une espece de cicatrice, ou par la saillie que les excrémens 
+font faire à cette membrane. Dans ce cas
+la guérison n&#39;est pas difficile ; elle étoit connue d&#39;AEginete aussi-bien que des modernes : il ne s&#39;agit que
+d&#39;inciser la membrane avec un bistouri, &amp; de consolider 
+la plaie.
+</p>
+<p>
+On connoîtra que l&#39;opération est bien faite à la
+sortie du méconium. Si la premiere ouverture n&#39;est
+<milestone unit="column" n="2" />
+pas assez grande, on l&#39;augmentera par une nouvelle 
+incision en longueur, en haut, en bas ou en-travers. On introduira dans la plaie une tente trempée
+dans quelqu&#39;onguent vulnéraire, pour empêcher que
+l&#39;anus ne se ferme de nouveau, en observant d&#39;attacher 
+cette tente avec un gros fil, afin que si elle
+venoit à glisser dans le rectum on puisse la retirer.
+</p>
+<p>
+Quand le passage des excrémens est fermé par
+un morceau de chair ou par une membrane épaisse,
+on tâchera de découvrir le rectum, en le pressant
+avec le doigt ; &amp; lorsqu&#39;on l&#39;aura trouvé, on percera 
+l&#39;anus en dirigeant la pointe de l&#39;instrument du côté 
+de l&#39;os sacrum, pour ne pas courir le risque de
+blesser la vessie dans les garçons, ou le vagin dans
+les filles. Après avoir percé l&#39;anus, on se conduira
+comme dans le cas précédent.
+</p>
+<p>
+Dans la plûpart des autres cas, &amp; même dans ce
+dernier, l&#39;opération est très-difficile, &amp; souvent
+malheureuse : elle requiert non-seulement de la sagacité 
+jointe à la main d&#39;un artiste qui ait fréquemment 
+disséqué ces parties affligées de mauvaises conformations,
+parce que la pratique les lui montre
+toutes différentes que dans un sujet bien conformé:
+mais de plus elle exige, suivant l&#39;occasion, de la variété 
+dans la maniere d&#39;opérer, &amp; dans les instrumens 
+à imaginer ou à perfectionner pour cette besogne.
+</p>
+<p>
+Roonhuysen rapporte qu&#39;une fille de quatre mois
+avoit l&#39;orifice du <i>fondement</i> si étroit, que sa mere
+étoit obligée de lui tirer les excrémens de ses propres 
+mains avec beaucoup de peine : l&#39;anus étant
+enfin venu à s&#39;enfler, à cause de la fréquente compression,
+le passage des excrémens se ferma tout-à-fait, ce qui obligea le chirurgien de percer l&#39;anus
+avec une lancette, d&#39;aggrandir l&#39;incision de tous côtés 
+avec des ciseaux, &amp; finalement de guérir la
+plaie suivant la méthode prescrite. Scultet rapporte
+un exemple semblable.
+</p>
+<p>
+On voit d&#39;autres jeux de la nature encore plus rares 
+sur cette partie, que ne sont ceux dont nous venons 
+de parler. Il y a des enfans à qui le rectum se
+termine dans la vessie. Roonhuysen en cite un exemple.
+M. Petit assûre avoir vû ce jeu de conformation
+plus d&#39;une fois.
+</p>
+<p>
+A d&#39;autres enfans l&#39;anus s&#39;ouvre dans la vulve. M.
+de Jussieu raconte dans le <i>recueil de l&#39;acad. des Scienc.
+ann. 1719</i>. l&#39;histoire d&#39;une fille de sept ans dont le
+<i>fondement</i> étoit fermé de naissance, &amp; qui rendoit
+ses excrémens par le vagin.
+</p>
+<p>
+A d&#39;autres enfans l&#39;anus sans être ouvert forme
+une tumeur en maniere d&#39;hernie, &amp; quelquefois un
+noeud semblable à celui de l&#39;ombilic d&#39;un adulte. M.
+Engerrand, chirurgien de S. Côme, a eu occasion
+de voir ces deux derniers cas.
+</p>
+<p>
+Enfin quelquefois l&#39;intestin rectum est fermé jusqu&#39;au colon, ou jusqu&#39;à la partie supérieure de l&#39;os
+sacrum. Quelquefois même il manque tout-à-fait,
+en sorte que les intestins finissent avec la partie inférieure 
+des lombes ou du sommet de l&#39;os sacrum. Il
+faut renoncer alors à tout espoir de guérison. M. Jamisson, chirurgien écossois, appelle dans son pays
+pour secourir un enfant nouveau-né qui n&#39;avoit aucun 
+vestige d&#39;anus, chercha sans succès l&#39;intestin
+après son incision, &amp; employa le trois-quarts inutilement : il ne sortit de la plaie que quelques gouttes 
+de sang. A l&#39;ouverture du cadavre M. Jamisson
+découvrit que le gros boyau manquoit totalement,
+&amp; que le colon rempli de méconium étoit un vrai
+coecum flottant dans la cavité du bas-ventre. <i>Essais
+d&#39;Edimbourg, tome IV. p. 557</i>. M. Heister a vû le
+cas mentionné par Jamisson, &amp; M. Petit a vû presque 
+tous ceux dont nous avons parlé, comme il paroît 
+par son mémoire sur cette matiere, inséré dans
+le recueil de l&#39;académie de Chirurgie de Paris. J&#39;y
+renvoye le lecteur.
+<pb n="7:78" facs="V7/ENC_7-78.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Le <i>fondement</i> est non-seulement sujet à des jeux
+de la nature dans les nouveaux-nés, mais il est exposé 
+dans l&#39;homme à plusieurs maladies, comme à
+des tubercules &amp; excroissances charnues, à des hémorrhoïdes,
+des fistules, des abcès, &amp; des corps
+étrangers qui s&#39;y arrêtent.
+</p>
+<p>
+Les tubercules qui se forment au <i>fondement</i> sont
+internes ou externes. Quoique l&#39;on divise ces tubercules 
+en différentes especes, eu égard à leur grandeur 
+&amp; à leur figure, &amp; qu&#39;on leur donne le nom de
+condylomes, de crêtes, de fics &amp; de fungus : ils ont
+cependant cela de commun, qu&#39;ils doivent d&#39;ordinaire 
+leur origine à la surabondance &amp; à la stagnation 
+du sang dans ces parties, &amp; sur-sout dans les
+petites glandes, dont la grosseur augmente peu-à-peu, ainsi qu&#39;il arrive aux tubercules du vagin. Ils
+surviennent encore fréquemment à ceux qui sont sujets 
+aux hémorroïdes. Pour les guérir, il faut les extirper 
+au moyen d&#39;une ligature, ou les couper avec
+un bistouri ou des ciseaux ; ensuite on continuera le
+traitement avec des baumes vulnéraires, des onguens 
+dessicatifs, &amp; finalement avec de la charpie
+seche, pour hâter la consolidation de la plaie.
+</p>
+<p>
+L&#39;intestin rectum sort quelquefois hors du <i>fondement</i> de quelques personnes, enfans ou adultes, de
+la longueur de deux à six pouces, &amp; même davantage.
+Saviard rapporte l&#39;exemple d&#39;un enfant à qui
+cette partie sortoit de la longueur d&#39;un pié: la cause 
+de cet accident est sans doute la trop grande foiblesse 
+de l&#39;intestin rectum, que plusieurs autres causes 
+contribuent à augmenter : tels sont les cris violens,
+le tenesme, les douleurs des hémorrhoïdes, la
+constipation, la dyssenterie, la pierre, les accouchemens 
+laborieux, <i>&amp;c.</i> La methode curative demande,
+après avoir fomenté l&#39;intestin avec une liqueur 
+convenable, de le remettre dans sa place ordinaire 
+&amp; de l&#39;y maintenir. Si la partie de l&#39;intestin
+sortie est extremement enflée, on doit employer
+préalablement la saignée, &amp; ensuite des fomentations 
+digestives, jusqu&#39;à ce que la tumeur soit dissipée,
+&amp; que la partie soit en état d&#39;être replacée.
+</p>
+<p>
+Il y a des personnes qui éprouvent souvent cet accident 
+lorsqu&#39;elles vont à la selle : le remede est de
+commencer par remettre elles-mêmes l&#39;intestin avec
+leurs doigts, &amp; puis de recourir au chirurgien pour
+qu&#39;il l&#39;empêche par les secours de l&#39;art de tomber de
+nouveau. Quelques auteurs assûrent que le malade
+pent prévenir une nouvelle chûte de cet intestin,
+pourvû qu&#39;il ait soin toutes les fois qu&#39;il va à la garderobe,
+de s&#39;asseoir sur un siége qui ait une ouverture 
+d&#39;environ deux travers de doigt : mais si la maladie 
+est invétérée, il faut des compresses &amp; des
+bandages pour retenir l&#39;intestin dans sa place naturelle.
+</p>
+<p>
+Une maniere bien simple de préserver les enfans
+des chûtes de <i>fondement</i> auxquelles ils sont sujets,
+est de les asseoir dans des fauteuils de paille ou de
+jonc, dont le milieu soit relevé &amp; ne puisse s&#39;enfoncer.
+Pour cet effet on met sous le milieu du siége
+une vis de bois qui monte &amp; descende, sur laquelle
+soit posée une petite planche, en sorte qu&#39;en tournant 
+la vis selon un certain sens elle pousse la planche,
+&amp; fasse monter en-haut la paille qui est sous
+la chaise. Comme cette vis doit porter sur quelque
+chose qui lui serve d&#39;appui, on la pose sur une petite
+traverse de bois dont on cloue en-bas les deux bouts
+aux bâtons de la chaise : il n&#39;y a jamais de creux aux
+siéges faits de cette maniere, &amp; la vis qui empêche
+le creux ne paroît point, à moins qu&#39;on ne renverse
+la chaise. Les siéges dont je parle ont un second avantage,
+c&#39;est d&#39;empêcher les enfans de se gâter la taille ; 
+parce qu&#39;étant assis dans ces sortes de chaises, ils
+sont obliges de tenir leur corps droit, au lieu qu&#39;ils
+<milestone unit="column" n="2" />
+le voûtent toûjours dans les fauteuils de paille ou de
+jonc, qui font un enfoncement au milieu.
+</p>
+<p>
+L&#39;anus est sujet aux hémorrhoïdes (<i>voyez</i> <sc><ref target="head:Hémorrhoïdes" type="search">Hémorrhoïdes</ref></sc>), à des fistules (<i>voyez</i> <sc><ref target="head:Fistule" type="search">Fistule</ref></sc>), &amp; par
+conséquent à divers abcès dont on a dû parler <i>au
+mot</i> <sc><ref target="head:Fistule de l&#39;anus" type="search">Fistule de l&#39;anus</ref></sc>, puisque la fistule à l&#39;anus
+ne semble devoir pour l&#39;ordinaire son origine qu&#39;à
+un abcès qui se forme auprès de cette partie. Il y a
+un cas bien singulier en ce genre, que M. Destendau, chirurgien de la Haye, a eu occasion de voir
+en faisant l&#39;opération d&#39;un abcès au <i>fondement</i> dont
+il ignoroit la cause. Il trouva sous la lancette un
+corps étranger fort dur, qui ne plioit ni ne cédoit.
+Il prit le parti de dilater le fond de la plaie, pour
+connoître ce corps &amp; le tirer dehors. C&#39;étoit un éclat
+d&#39;os de la longueur de deux travers de doigt, un peu
+plus large &amp; plus épais que la lame d&#39;un canif, &amp;
+pointu à chaque bout. Voici comment la chose peut
+arriver. Les personnes qui mangent avidement, avalent 
+quelquefois sans s&#39;en appercevoir de petits os
+couverts de viande ; alors quand la viande est digérée 
+dans l&#39;estomac, si ces petits os s&#39;arrêtent au <i>fondement</i> sans en pouvoir sortir, ils causeront quelque
+tems après en piquant l&#39;intestin, l&#39;irritation de cette
+partie, l&#39;inflammation, &amp; des abcès qui dégénerent
+en fistule. On verra la conduite qu&#39;un chirurgien
+doit tenir en pareil cas, dans les <i>observations chirurgicales 
+de</i> Saviard. <i>Lisez l&#39;observation lxvj. page 293</i>.
+</p>
+<p>
+Il est encore bon que l&#39;on sache ici que le <i>fondement</i> donne souvent passage à des concrétions calculeuses,
+&amp; même à des pierres considérables. Les
+Transactions philosophiques citent l&#39;exemple d&#39;une
+pierre pesant plus de deux onces, qui sortit par le
+<i>fondement</i> après des douleurs excessives. Enfin pour
+comble de singularités, le lecteur trouvera dans le
+même ouvrage ou dans l&#39;abregé, <i>tome. VIII.</i> le fait
+détaillé de la sortie du foetus par cet orifice ; &amp; c&#39;est
+un fait qui a été communiqué à la société royale
+par M. Giffard, célebre accoucheur anglois. (<i>D.J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

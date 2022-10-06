@@ -1,0 +1,1444 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29433" id="52:184" vol="7">
+<index type="head" value="GÉOMÉTRIE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Ordre encycl. Entend. Rais. Philosoph. ou Science, Science de la Nat. Mathémath. Mathémath. pures, Géométrie." />
+<index type="normclass" value="Géométrie" />
+<index type="englishclass" value="Geometry" />
+<index type="generatedclass" value="Géométrie" />
+<index type="pos" value="s.f." />
+<head>GÉOMÉTRIE</head>
+<p>
+GÉOMÉTRIE, s. f. (<i>Ordre encycl. Entend. Rais.
+Philosoph</i>. ou <i>Science, Science de la Nat. Mathémath.
+Mathémath. pures, Géométrie.</i>) est la science des propriétés 
+de l&#39;étendue, en tant qu&#39;on la considere comme 
+simplement étendue &amp; figurée.
+</p>
+<p>
+Ce mot est formé de deux mots grecs, <foreign lang="greek">γῆ</foreign> ou <foreign lang="greek">γαῖα</foreign>,
+<i>terre</i>, &amp; <foreign lang="greek">μέτρον</foreign>, <i>mesure ;</i> &amp; cette étymologie semble
+nous indiquer ce qui a donné naissance à la <i>Géométrie</i>: imparfaite &amp; obscure dans son origine comme
+toutes les autres sciences, elle a commencé par une
+espece de tatonnement, par des mesures &amp; des opérâtions 
+grossieres, &amp; s&#39;est élevée peu-à-peu à ce degré 
+d&#39;exactitude &amp; de sublimité où nous la voyons.
+</p>
+<p>
+<i>Histoire abregée de la Géométrie</i>. Il y a apparence
+que la <i>Géométrie</i>, comme la plûpart des autres sciences,
+est née en Egypte, qui paroît avoir été le berceau 
+des connoissances humaines, ou, pour parler
+plus exactement, qui est de tous les pays que nous
+connoissons, celui où les Sciences paroissent avoir
+été le plus anciennement cultivées. Selon Hérodote
+&amp; Strabon, les Egyptiens ne pouvant reconnoître
+les bornes de leurs héritages confondues par les inondations 
+du Nil, inventerent l&#39;art de mesurer &amp; de
+diviser les terres, afin de distinguer les leurs par la
+considération de la figure qu&#39;elles avoient, &amp; de la
+surface qu&#39;elles pouvoient contenir. Telle fut, diton,
+la premiere aurore de la <i>Géométrie</i>. Josephe, historien 
+zélé pour sa nation, en attribue l&#39;invention
+aux Hébreux ; d&#39;autres à Mercure. Que ces faits
+soient vrais ou non, il paroît certain que quand les
+hommes ont commencé à posséder des terres, &amp; à
+<milestone unit="column" n="2" />
+vivre sous des lois différentes, ils n&#39;ont pas été longtems 
+sans faire sur le terrein quelques opérations pour
+le mesurer, tant en longueur qu&#39;en surface, en entier
+ou par parties ; &amp; voilà la <i>Géométrie</i> dans son origine.
+</p>
+<p>
+De l&#39;Egypte elle passa en Grece, où on prétend
+que Thales la porta. Il ne se contenta pas d&#39;apprendre 
+aux Grecs ce qu&#39;il avoit reçû des Egyptiens ; il
+ajoûta à ce qu&#39;il avoit appris, &amp; enrichit cette science
+de plusieurs propositions. Après lui vint Pythagore,
+qui cultiva aussi la <i>Géométrie</i> avec succès, &amp; à qui
+on attribue la fameuse proposition du quarré de l&#39;hypothénuse.
+<i>Voyez</i> <sc><ref target="head:Hypothénuse" type="search">Hypothénuse</ref></sc>. On prétend qu&#39;il
+fut si ravi de cette découverte, qu&#39;il sacrifia de joie
+cent boeufs aux Muses. Il y a apparence, dit un auteur 
+moderne, que c&#39;étoient des boeufs de cire ou de
+pâte ; car Pythagore défendoit de tuer les animaux,
+en conséquence de son système de la métempsycose,
+qui (pour un philosophe payen) n&#39;étoit pas l&#39;opinion
+du monde la plus absurde. <i>Voyez</i> <sc><ref target="head:Métempsycose" type="search">Métempsycose</ref></sc>.
+Mais il y a plus d&#39;apparence encore que le fait n&#39;est
+pas vrai ; ce qui dispense de l&#39;expliquer. Après Pythagore, les philosophes &amp; les écoles qu&#39;ils formerent,
+continuerent à cultiver l&#39;étude de la <i>Géométrie</i>.
+Plutarque nous apprend qu&#39;Anaxagore de Clazomene s&#39;occupa du problème de la quadrature du cercle 
+dans la prison où il avoit été renfermé, &amp; qu&#39;il
+composa même un ouvrage sur ce sujet. Cet Anaxagore avoit été accusé d&#39;impiété, pour avoir dit que
+les astres étoient matériels ; &amp; il eût été condamné
+à mort, sans Periclès qui lui sauva la vie. On voit par
+cet exemple, s&#39;il est permis de le dire en passant,
+que ce n&#39;est pas d&#39;aujourd&#39;hui que les Philosophes
+sont persécutés pour avoir eu raison ; &amp; que les prêtres 
+grecs étoient aussi habiles que certains théologiens 
+modernes, à ériger en articles de religion ce
+qui n&#39;en étoit pas.
+</p>
+<p>
+Platon qui donnoit à Anaxagore de grands éloges
+sur son habileté en <i>Géométrie</i>, en méritoit aussi beaucoup 
+lui-même. On sait qu&#39;il donna une solution très simple 
+du problème de la duplication du cube. <i>Voyez</i>
+<sc><ref target="head:Duplication" type="search">Duplication</ref></sc>. On sait aussi que ce grand philosophe
+appelloit Dieu l&#39;<i>éternel géometre</i> (idée vraiment juste
+&amp; digne de l&#39;Étre suprème), &amp; qu&#39;il regardoit la <i>Géomtérie</i> comme si nécessaire à l&#39;étude de la Philosophie,
+qu&#39;il avoit écrit sur la porte de son école ces paroles
+mémorables, <i>qu&#39;aucun ignorant en Géométrie n&#39;entre
+ici</i>. Entre Anaxagore &amp; Platon, on doit placer Hippocrate de Chio, qui mérite qu&#39;on en fasse mention
+par sa fameuse quadrature de la lunule. <i>Voyez</i> <sc><ref target="head:Lunule" type="search">Lunule</ref></sc>. Feu M. Cramer, professeur de Philosophie à
+Genève, nous a donné dans les mémoires de l&#39;académie 
+des Sciences de Prusse pour l&#39;année 1748,
+une très-bonne dissertation sur ce géometre : on y
+lit qu&#39;Hippocrate dans un voyage qu&#39;il fit à Athenes, ayant eu occasion d&#39;écouter les philosophes,
+prit tant de goût pour la <i>Géométrie</i>, qu&#39;il y fit des
+progrès admirables ; on ajoûte que cette étude développa 
+son talent, &amp; qu&#39;il avoit pour tout le reste
+l&#39;esprit lent &amp; bouché; ce qu&#39;on raconte aussi de
+Clavius, bon géometre du seizieme siecle. Il n&#39;y a
+rien d&#39;étonnant à tout cela ; mais le comble de l&#39;ineptie 
+est d&#39;en faire une regle. <i>Voyez</i> <sc><ref target="head:Géometre" type="search">Géometre</ref></sc>.
+</p>
+<p>
+Euclide qui vivoit environ cinquante ans après
+Platon, &amp; qu&#39;il ne faut pas confondre avec Euclide
+de Megare contemporain de ce philosophe, recueillit 
+ce que ses prédécesseurs avoient trouvé sur les
+élémens de <i>Géométrie ;</i> il en composa l&#39;ouvrage que
+nous avons de lui, &amp; que bien des modernes regardent 
+comme le meilleur en ce genre. Dans ces élémens il ne considere que les propriétés de la ligne
+droite &amp; du cercle, &amp; celles des surfaces &amp; des solides 
+rectilignes ou circulaires ; ce n&#39;est pas néanmoins 
+que du tems d&#39;Euclide il n&#39;y eût d&#39;autre courbe 
+connue que le cercle ; les Géometres s&#39;étoient
+<pb n="7:630" facs="V7/ENC_7-630.jpeg" />
+<milestone unit="column" n="1" />
+déjà apperçus qu&#39;en coupant un cone de différentes
+manieres, on formoit des courbes différentes du
+cercle, qu&#39;ils nommerent <i>sections coniques. Voy.</i> <sc><ref target="head:Conique" type="search">Conique</ref> <i>&amp;</i> <ref target="head:Section" type="search">Section</ref></sc>. Les différentes propriétés de
+ces courbes, que plusieurs mathématiciens découvrirent 
+successivement, furent recueillis en huit livres 
+par Apollonius de Perge, qui vivoit environ
+250 ans avant J. C. <i>Voyez</i> <sc><ref target="head:Apollonien" type="search">Apollonien</ref></sc>. Ce fut lui,
+à ce qu&#39;on prétend, qui donna aux trois sections coniques 
+les noms qu&#39;elles portent, de <i>parabole, d&#39;ellipse</i>, &amp; <i>d&#39;hyperbole</i>, &amp; dont on peut voir les raisons à
+leurs articles. A-peu-près en même tems qu&#39;Apollonius, florissoit Archimede, dont nous avons de si
+beaux ouvrages sur la sphere &amp; le cylindre, sur les
+conoïdes &amp; les sphéroïdes, sur la quadrature du cercle 
+qu&#39;il trouva par une approximation très-simple
+&amp; très-ingénieuse (<i>Voyez</i> <sc><ref target="head:Quadrature" type="search">Quadrature</ref></sc>), &amp; sur
+celle de la parabole qu&#39;il détermina exactement.
+Nous avons aussi de lui un traité de la spirale, qui
+peut passer pour un chef-d&#39;oeuvre de sagacité &amp; de
+pénétration. Les démonstrations qu&#39;il donne dans
+cet ouvrage, quoique très-exactes, sont si difficiles
+à embrasser, qu&#39;un savant mathématicien moderne,
+Bouillaud, avoue ne les avoir jamais bien entendues,
+&amp; qu&#39;un mathématicien de la plus grande force,
+notre illustre Viete, les a injustement soupçonnées 
+de paralogisme, faute de les avoir bien comprises.
+<i>Voyez la préface de l&#39;analyse des infiniment petits</i> de M. de l&#39;Hôpital. Dans cette préface, qui est
+l&#39;ouvrage de M. de Fontenelle, on a rapporté les
+deux passages de Bouillaud &amp; de Viete, qui vérifient
+ce que nous avançons ici. On doit encore à Archimede d&#39;autres écrits non moins admirables, qui ont
+rapport à la Méchanique plus qu&#39;à la <i>Géométrie</i>, de
+<i>aequiponderantibus</i>, de <i>insidentibus humido ;</i> &amp; quelques 
+autres dont ce n&#39;est pas ici le lieu de faire mention.
+</p>
+<p>
+Nous ne parlons dans cette histoire que des Géometres dont il nous reste des écrits que le tems a
+épargnés ; car s&#39;il falloit nommer tous ceux qui dans
+l&#39;antiquité se sont distingués en <i>Géométrie</i>, la liste en
+seroit trop longue ; il faudroit faire mention d&#39;Eudoxe de Cnide, d&#39;Archytas de Tarente, de Philolaüs,
+d&#39;Eratosthene, d&#39;Aristarque de Samos, de Dinostrate si connu par sa quadratrice (<i>Voyez</i> <sc><ref target="head:Quadratrice" type="search">Quadratrice</ref></sc>), de Menechme son frere, disciple de Platon,
+des deux Aristées, l&#39;ancien &amp; le jeune, de Conon,
+de Thrasidée, de Nicotele, de Leon, de Theudius,
+d&#39;Hermotime, de Nicomede, inventeur de la conchoïde 
+(<i>V.</i> <sc><ref target="head:Conchoïde" type="search">Conchoïde</ref></sc>), &amp; un peu plus jeune qu&#39;<gap type="hypheneol" />
+Archimede &amp; qu&#39;Apollonius, &amp; de plusieurs autres.
+</p>
+<p>
+Les Grecs continuerent à cultiver la Philosophie,
+la <i>Géométrie</i>, &amp; les Lettres, même après qu&#39;ils eurent 
+été subjugués par les Romains. La <i>Géométrie</i> &amp;
+les Sciences en général, ne furent pas fort en honneur 
+chez ce dernier peuple qui ne pensoit qu&#39;à subjuguer 
+&amp; à gouverner le monde, &amp; qui ne commença 
+guere à cultiver l&#39;éloquence même que vers la fin
+de la république. On a vû dans l&#39;<i>article</i> <sc><ref target="head:Erudition" type="search">Erudition</ref></sc>
+avec quelle legereté Ciceron parle d&#39;Archimede,
+qui pourtant ne lui étoit point inférieur ; peut-être
+même est-ce faire quelque tort à un génie aussi sublime 
+qu&#39;Archimede, de ne le placer qu&#39;à côté d&#39;un bel
+esprit, qui dans les matieres philosophiques qu&#39;il a
+traitées, n&#39;a guere fait qu&#39;exposer en longs &amp; beaux
+discours, les chimeres qu&#39;avoient pensées les autres.
+On étoit si ignorant à Rome sur les Mathématiques,
+qu&#39;on donnoit en général le nom de <i>mathématiciens</i>,
+comme on le voit dans Tacite, à tous ceux qui se mêloient 
+de deviner, quoiqu&#39;il y ait encore plus de distance 
+des chimeres de la Divination &amp; de l&#39;Astrologie
+judiciaire aux Mathématiques, que de la pierre philosophale 
+à la Chimie. Ce même Tacite, un des plus
+grands esprits qui ayent jamais écrit, nous donne par
+<milestone unit="column" n="2" />
+ses propres ouvrages une preuve de l&#39;ignorance des
+Romains, dans les questions de <i>Géométrie</i> &amp; d&#39;Astronomie les plus élémentaires &amp; les plus simples. Il dit dans
+la vie d&#39;Agricola, en faisant la description de l&#39;Angleterre, que vers l&#39;extrémité septentrionale de cette
+ile, les grands jours d&#39;été n&#39;ont presque le point de nuit ;
+&amp; voici la raison qu&#39;il en apporte : <i>scilicet extrema &amp;
+plana terrarum humili umbra non erigunt tenebras, infràque 
+coelum &amp; sydera nox cadit</i>. Nous n&#39;entreprendrons 
+point avec les commentateurs de Tacite, de
+donner un sens à ce qui n&#39;en a point ; nous nous contenterons 
+d&#39;avoir montré par cet exemple, que la
+manie d&#39;étaler un faux savoir &amp; de parler de ce
+qu&#39;on n&#39;entend pas, est fort ancienne. Un traducteur 
+de Tacite dit que cet historien regarde la Terre
+dans ce passage comme <i>une sphere dont la base est environnée 
+d&#39;eau</i>, &amp;c. Nous ne savons ce que c&#39;est que
+la base d&#39;une sphere.
+</p>
+<p>
+Si les Romains cultiverent peu la <i>Géometrie</i> dans
+les tems les plas florissans de la république, il n&#39;est
+pas surprenant qu&#39;ils l&#39;ayent encore moins cultivée
+dans la décadence de l&#39;empire. Il n&#39;en fut pas de même 
+des Grecs ; ils eurent depuis l&#39;ere chrétienne même,
+&amp; assez long-tems aprés la translation de l&#39;empire,
+des géometres habiles. Ptolomée grand astronome 
+&amp; par conséquent grand géometre, car on ne
+peut être l&#39;un sans l&#39;autre, vivoit sous Marc-Aurele ;
+&amp; on peut voir au <i>mot</i> <sc>Astronomie</sc>, les noms de
+plusieurs autres. Nous avons encore les ouvrages de
+Pappus d&#39;Alexandrie, qui vivoit du tems de Théodose ; Eutocius Ascalonite, qui vivoit après lui vers
+l&#39;an 540 de l&#39;ere chrétienne, nous a donné un commentaire 
+sur la mesure du cercle par Archimede.
+Proclus qui vivoit sous l&#39;empire d&#39;Anastase au cinquieme 
+&amp; sixieme siecles, démontra les théorèmes
+d&#39;Euclide, &amp; son commentaire sur cet auteur est parvenu 
+jusqu&#39;à nous. Ce Proclus est encore plus fameux 
+par les miroirs (vrais ou supposés) dont il se
+servit, dit-on, pour brûler la flotte de Vitalien qui
+assiégeoit Constantinople. <i>Voyez</i> <sc><ref target="head:Ardent" type="search">Ardent</ref> <i>&amp;</i> <ref target="head:Miroir" type="search">Miroir</ref></sc>. Entre Eutocius &amp; Pappus, il y a apparence
+qu&#39;on doit placer Dioclès, connu par sa cissoïde
+(<i>Voyez</i> <sc><ref target="head:Cissoide" type="search">Cissoide</ref></sc>), mais dont on ne connoît guere
+que le nom, car on ne sait pas précisément le tems
+où il a vécu.
+</p>
+<p>
+L&#39;ignorance profonde qui couvrit la surface de la
+Terre &amp; sur-tout l&#39;Occident, depuis la destruction
+de l&#39;empire par les Barbares, nuisit à la <i>Géométrie</i>
+comme à toutes les autres connoissances ; on ne trouve 
+plus guere ni chez les Latins, ni même chez les
+Grecs, d&#39;hommes versés dans cette partie ; il y en eut
+seulement quelques-uns qu&#39;on appelloit savans, parce 
+qu&#39;ils étoient moins ignorans que les autres, &amp;
+quelques-uns de ceux-là, comme Gerbert, passerent
+pour magiciens ; mais s&#39;ils eurent quelque connoissance 
+des découvertes de leurs prédécesseurs, il n&#39;y
+ajoûterent rien, du-moins quant à la <i>Géométrie ;</i> nous
+ne connoissons aucun théorème important dont cette
+science leur soit redevable : c&#39;étoit principalement
+par rapport à l&#39;Astronomie qu&#39;on étudioit alors le
+peu de <i>Géométrie</i> qu&#39;on vouloit savoir, &amp; c&#39;étoit principalement 
+par rapport au calendrier &amp; au comput
+ecclésiastique qu&#39;on étudioit l&#39;Astronomie ; ainsi l&#39;étude 
+de la <i>Géométrie</i> n&#39;étoit pas poussée fort loin. On
+peut voir au <i>mot</i> <sc>Astronomie</sc>, les noms des principaux 
+mathématiciens des siecles d&#39;ignorance. Il
+en est un que nous ne devons pas oublier ; c&#39;est Vitellion savant polonois du treizieme siecle, dont nous
+avons un traité d&#39;Optique très-estimable pour ce
+tems-là, &amp; qui suppose des connoissances géométriques.
+Ce Vitellion nous rappelle l&#39;arabe Alhazen,
+qui vivoit environ un siecle avant lui, &amp; qui cultivoit 
+aussi les Mathématiques avec succès. Les siecles
+d&#39;ignorance chez les Chrétiens ont été les siecles de
+<pb n="7:631" facs="V7/ENC_7-631.jpeg" />
+<milestone unit="column" n="1" />
+lumiere &amp; de savoir chez les Arabes ; cette nation a
+produit depuis le 9<sup>e</sup> jusqu&#39;au 14<sup>e</sup> siecle, des astronomes,
+des géometres, des géographes, des chimistes,
+<i>&amp;c.</i> Il y a apparence qu&#39;on doit aux Arabes les
+premiers élémens de l&#39;Algebre : mais leurs ouvrages
+de <i>Géométrie</i> dont il est ici principalement question,
+ne sont point parvenus jusqu&#39;à nous pour la plûpart,
+ou sont encore manuscrits. C&#39;est sur une traduction
+arabe d&#39;Apollonius qu&#39;a été faite en 1661 l&#39;édition
+du cinquieme, du sixieme &amp; du septieme livre de cet
+auteur. <i>Voyez</i> <sc><ref target="head:Apollonien" type="search">Apollonien</ref></sc>. Cette traduction étoit
+d&#39;un géometre arabe nommé <i>Abalphat</i>, qui vivoit à
+la fin du dixieme siecle. Il n&#39;y avoit peut-être pas
+alors parmi les Chrétiens un seul géometre qui fût
+en état d&#39;entendre Apollonius ; il auroit fallu d&#39;ailleurs 
+pour le traduire savoir en même tems le grec
+&amp; la <i>Géométrie</i>, ce qui n&#39;est pas fort commun, même 
+dans notre siecle.
+</p>
+<p>
+A la renaissance des lettres, on se borna presque
+uniquement à traduire &amp; à commenter les ouvrages
+de <i>Géométrie</i> des anciens ; &amp; cette science fit d&#39;ailleurs
+peu de progrès jusqu&#39;à Descartes : ce grand homme publia 
+en 1637 sa <i>géométrie</i>, &amp; la commença par la solution 
+d&#39;un probleme où Pappus dit que les anciens mathématiciens 
+étoient restes. Mais ce qui est plus précieux 
+encore que la solution de ce problème, c&#39;est
+l&#39;instrument dont il se servit pour y parvenir, &amp; qui
+ouvrit la route à la solution d&#39;une infinité d&#39;autres
+questions plus difficiles. Nous voulons parler de l&#39;application 
+de l&#39;Algebre à la <i>Géométrie ;</i> application dont
+nous ferons sentir le mérite &amp; l&#39;usage dans la suite
+de cet article : c&#39;étoit là le plus grand pas que la <i>Géométrie</i> eût fait depuis Archimede ; &amp; c&#39;est l&#39;origine
+des progrès surprenans que cette science a faits dans
+la suite.
+</p>
+<p>
+On doiz à Descartes non-seulement l&#39;application
+de l&#39;Algebre à la <i>Géométrie</i>, mais les premiers essais
+de l&#39;application de la <i>Géométrie</i> à la Physique, qui a
+été poussée si loin dans ces derniers tems. Ces essais
+qui se voyent principalement dans sa <i>dioptrique</i>, &amp;
+dans quelques endroits de ses <i>météores</i>, faisoient dire
+à ce philosophe que toute sa <i>physique</i> n&#39;étoit autre
+chose que <i>Géométrie:</i> elle n&#39;en auroit valu que mieux
+si elle eût eu en effet cet avantage ; mais malheureusement 
+la physique de Descartes consistoit pius en
+hypothèses qu&#39;en calculs ; &amp; l&#39;Analyse a renversé depuis 
+la plûpart de ces hypotheses. Ainsi la <i>Géométrie</i>
+qui doit tant à Descartes, est ce qui a nui le plus à sa
+physique. Mais ce grand homme n&#39;en a pas moins la
+gloire d&#39;avoir appliqué le premier avec quelque succès 
+la <i>Géométrie</i> à la science de la nature ; comme il
+a le mérite d&#39;avoir pensé le premier qu&#39;il y avoit des
+lois du mouvement, quoiqu&#39;il se soit trompé sur ces
+lois. <i>Voyez</i> <sc><ref target="head:Communication du Mouvement" type="search">Communication du Mouvement</ref></sc>.
+</p>
+<p>
+Tandis que Descartes ouvroit dans la <i>Géométrie</i>
+une carriere nouvelle, d&#39;autres mathématiciens s&#39;y
+frayoient aussi des routes à d&#39;autres égards, &amp; préparoient,
+quoique foiblement, cette <i>Géométrie</i> de l&#39;infini,
+qui à l&#39;aide de l&#39;Analyse, devoit faire dans la
+suite de si grands progrès. En 1635, deux ans avant
+la publication de la <i>Géométrie</i> de Descartes, Bonaventure Cavalérius, religieux italien de l&#39;ordre des
+Jésuates, qui ne subsiste plus, avoit donné sa <i>géométrie des indivisibles:</i> dans cet ouvrage, il considere les
+plans comme formés par des suites infinies de lignes,
+qu&#39;il appelle <i>quantités indivisibles</i>, &amp; les solides par
+des suites infinies de plans ; &amp; par ce moyen, il parvient 
+à trouver la surface de certaines figures &amp; la
+solidité de certains corps. Comme l&#39;infini employé
+à la maniere de Cavalerius étoit alors nouveau en
+<i>Géométrie</i>, &amp; que ce religieux craignoit des contradicteurs,
+il tâcha d&#39;adoucir ce terme par celui d&#39;<i>indéfini</i>, qui au fond ne signifioit en cette occasion que
+la même chose. Malgré cette espece de palliatif, il
+<milestone unit="column" n="2" />
+trouva beaucoup d&#39;adversaires, mais il eut aussi des
+partisans ; ceux-ci en adoptant l&#39;idée de Cavalérius
+la rendirent plus exacte, &amp; substituerent aux lignes
+qui composoient les plans de Cavalerius, des parallélogrammes 
+infiniment petits ; aux plans indivisibles
+de Cavalerius, des solides d&#39;une épaisseur infiniment
+petite : ils considérerent les courbes comme des polygones 
+d&#39;une infinité de côtés, &amp; parvinrent par ce
+moyen à trouver la surface de certains espaces curvilignes,
+la rectification de certaines courbes, la mesure 
+de certains solides, les centres de gravité des uns
+&amp; des autres : Grégoire de Saint-Vincent, &amp; sur-tout
+Pascal, se distinguerent l&#39;un &amp; l&#39;autre en ce genre ;
+le premier, dans son traité intitulé, <i>quadratura circuli 
+&amp; hyperbolae, 1647.</i> où il mêla à quelques paralogismes 
+de très-beaux théorèmes ; &amp; le second, par
+son traité <i>de la roulette</i> ou <i>cycloïde</i> (<i>V.</i> <sc><ref target="head:Cycloïde" type="search">Cycloïde</ref></sc>),
+qui paroit avoir demandé les plus grands eddorts d&#39;esprit ; 
+car on n&#39;avoit point encore trouvé le moyen
+de rendre la <i>Géométrie</i> de l&#39;infini beaucoup plus facile
+en y appliquant le calcul.
+</p>
+<p>
+Cependant le moment de cette heureuse découverte 
+approchoit ; Fermat imagina le premier la méthode 
+des tangentes par les différences ; Barrow la
+perfectionna en imaginant son petit triangle différentiel,
+&amp; en se servant du calcul analytique, pour découvrir 
+le rapport des petits côtés de ce triangle, &amp;
+par ce moyen la sous-tangente des courbes. <i>Voyez</i>
+<sc><ref target="head:Différentiel" type="search">Différentiel</ref></sc>.
+</p>
+<p>
+D&#39;un autre côté on fit réflexion que les plans ou
+solides infiniment petits, dont les surfaces ou les solides 
+pouvoient être supposés formés, croissoient ou
+décroissoient dans chaque surface ou solide, suivant
+différentes lois ; &amp; qu&#39;ainsi la recherche de la mesure
+de ces surfaces ou de ces solides se réduisoit à connoitre 
+la somme d&#39;une série ou suite infinie de quantités 
+croissantes ou décroissantes. On s&#39;appliqua donc
+à la recherche de la somme des suites ; c&#39;est ce qu&#39;on
+appella l&#39;<i>arithmétique des infinis ;</i> on parvint à en sommer 
+plusieurs, &amp; on appliqua aux figures géométriques 
+les résultats de cette méthode. Wallis, Mercator, Brouncker, Jacques Grégori, Huyghens, &amp;
+quelques autres se signalerent en ce genre ; ils firent
+plus ; ils réduisirent certains espaces &amp; certains arcs
+de courbes en séries convergentes, c&#39;est-à-dire dont
+les termes alloient toûjours en diminuant ; &amp; par-là
+ils donnerent le moyen de trouver la valeur de ces
+espaces &amp; de ces arcs, sinon exactement, au-moins
+par approximation : car on approchoit d&#39;autant plus
+de la vraie valeur, qu&#39;on prenoit un plus grand nombre 
+de termes de la suite ou série infinie qui l&#39;exprimoit.
+<i>Voyez</i> 
+<sc><ref target="head:Suite" type="search">Suite</ref>, <ref target="head:Série" type="search">Série</ref>, <ref target="head:Approximation" type="search">Approximation</ref></sc>
+<i>&amp;c.</i>
+</p>
+<p>
+Tous les matériaux du calcul différentiel étoient
+prêts ; il ne restoit plus que le dernier pas à faire. M.
+Leibnitz publia le premier en 1684 les regles de ce
+calcul, que M. Newton avoit déjà trouvées de son
+côté: nous avons discuté au <i>mot</i> <sc>Différentiel</sc>, la
+question si Leibnitz peut être regardé comme inventeur.
+Les illustres freres Bernoulli trouverent les démonstrations 
+des regles données par Leibnitz ; &amp;
+Jean Bernoulli y ajoûta quelques années après, la
+méthode de différentier les quantités exponentielles.
+<i>Voyez</i> <sc><ref target="head:Exponentiel" type="search">Exponentiel</ref></sc>.
+</p>
+<p>
+M. Newton n&#39;a pas moins contribué au progrès
+de la <i>Géométrie</i> pure par deux autres ouvrages ; l&#39;un
+est son traité <i>de quadraturâ curvarum</i>, où il enseigne
+la maniere de quarrer les courbes par le calcul intégral,
+qui est l&#39;inverse du différentiel ; ou de réduire la
+quadrature des courbes, lorsque cela est possible, à
+celle d&#39;autres courbes plus simples, principalement
+du cercle &amp; de l&#39;hyperbole : le second ouvrage est
+son <i>enumeratio linearum tertii ordinis</i>, où appliquant
+heureusement le calcul aux courbes dont l&#39;équation
+<pb n="7:632" facs="V7/ENC_7-632.jpeg" />
+<milestone unit="column" n="1" />
+est du 3<sup>e</sup> degré, il divise ces courbes en genres &amp; especes,
+&amp; en fait l&#39;énumération. <i>Voyez</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>.
+</p>
+<p>
+Mais ces écrits, quelque admirables qu&#39;ils soient,
+ne sont rien, pour ainsi dire, en comparaison de l&#39;immortel 
+ouvrage du même auteur, intitulé, <i>Philosophioe naturalis principia mathematica</i>, qu&#39;on peut regarder 
+comme l&#39;application la plus étendue, la plus
+admirable, &amp; la plus heureuse qui ait jamais été faite
+de la <i>Géométrie</i> à la Physique : ce livre est aujourd&#39;hui trop connu pour que nous entrions dans un
+plus grand détail ; il a été l&#39;époque d&#39;une révolution 
+dans la Physique : il a fait de cette science une
+science nouvelle, toute fondée sur l&#39;observation,
+l&#39;expérience, &amp; le calcul. <i>Voyez</i> 
+<sc><ref target="head:Newtonianisme" type="search">Newtonianisme</ref>, <ref target="head:Gravitation" type="search">Gravitation</ref>, <ref target="head:Attraction" type="search">Attraction</ref></sc>, <i>&amp;c.</i> Nous ne parlons 
+point de l&#39;<i>optique</i> du même auteur, ouvrage non
+moins digne d&#39;éloges, mais qui n&#39;appartient point à
+cet article, ni de quelques autres écrits géometriques
+moins considérables, mais tous de la premiere force,
+tous brillans de sagacité &amp; d&#39;invention ; comme son
+<i>analysis per aequationes numero terminorum infinitas ;</i>
+son <i>analysis per aequationum series, fluxiones &amp; differentias ;</i> la <i>méthode des fluxions ;</i> sa <i>méthode différentielle</i>, &amp;c. Quand on considere ces monumens immortels 
+du génie de leur auteur, &amp; quand on songe
+que ce grand homme avoit fait à vingt-quatre ans
+ses principales découvertes, on est presque tenté de
+souscrire à ce que dit Pope, que la sagacité de Newton étonna les intelligences célestes, &amp; qu&#39;ils le regarderent 
+comme un être moyen entre l&#39;homme &amp;
+elles : on est du-moins bien fondé à s&#39;écrier, <i>homo
+homini quid praesiat!</i> qu&#39;il y a de distance entre un
+homme &amp; un autre!
+</p>
+<p>
+L&#39;édifice élevé par Newton à cette hauteur immense,
+n&#39;étoit pourtant pas encore achevé; le calcul 
+intégral a été depuis extrèmement augmenté par
+MM. Bernoulli, Cotes, Maclaurin, <i>&amp;c.</i> &amp; par les
+mathématiciens qui sont venus après eux. <i>Voyez</i> <sc><ref target="head:Intégral" type="search">Intégral</ref></sc>. On a fait des applications encore plus subtiles,
+&amp; si on l&#39;ose dire, plus difficiles, plus heureuses
+&amp; plus exactes de la <i>Géométrie</i> à la Physique. On a
+beaucoup ajoûté à ce que Newton avoit commencé
+sur le système du monde : c&#39;est sur-tout quant à cette
+partie qu&#39;on a corrigé &amp; perfectionné son grand ouvrage 
+des <i>Principes mathématiques</i>. La plupart des
+mathématiciens qui ont contribué à enrichir ainsi la
+<i>Géométrie</i> par leurs découvertes, &amp; à l&#39;appliquer à
+la Physique &amp; à l&#39;Astronomie, étant aujourd&#39;hui vivans,
+&amp; nous même ayant peut-être eu quelque part
+à ces travaux, nous laisserons à la postérité le soin
+de rendre à chacun la justice qu&#39;il mérite : &amp; nous
+terminerons ici cette petite histoire de la <i>Géométrie ;</i>
+ceux qui voudront s&#39;en instruire plus à fond, pourront
+consulter les divers auteurs qui ont écrit sur ce sujet.
+Parmi ces auteurs il en est qui ne sont pas toûjours
+exacts, entr&#39;autres Wallis, que sa partialité en faveur
+des Anglois, doit faire lire avec précaution, <i>voy</i>. <sc><ref target="head:Algebre" type="search">Algebre</ref></sc>. Mais nous croyons qu&#39;on trouvera tout ce
+qu&#39;on peut desirer sur ce sujet dans l&#39;<i>histoire des Mathématiques</i> que prépare M. de Montucla, de l&#39;académie 
+royale des Sciences &amp; des Belles-Lettres de
+Prusse, déjà connu par son <i>histoire de la quadrature du
+cercle</i>, publiée en 1754, &amp; que nous avons citée au
+<i>mot</i> <sc><ref target="head:Duplication" type="search">Duplication</ref></sc>.
+</p>
+<p>
+L&#39;histoire abrégée que nous venons de donner est
+plus que suffisante dans un ouvrage tel que le nôtre,
+où nous devons principalement nous attacher à faire
+connoître les inventeurs, non les inventeurs en détail 
+à qui la <i>Géométrie</i> doit quelques propositions particulieres 
+&amp; isolées, mais les esprits vraiment créateurs,
+les inventeurs en grand qui ont ouvert des routes,
+perfectionné l&#39;instrument des découvertes, &amp;
+imaginé des méthodes. Au reste en finissant cette histoire,
+nous ne pouvons nous dispenser de remarquer
+<milestone unit="column" n="2" />
+à l&#39;honneur de notre nation, que si la <i>Géométrie</i> nouvelle 
+est principalement dûe aux Anglois &amp; aux Allemands, c&#39;est aux François qu&#39;on est redevable des
+deux grandes idées qui ont conduit à la trouver. On
+doit à Descartes l&#39;application de l&#39;Algebre à la <i>Géométrie</i>, sur laquelle le calcul différentiel est fondé; &amp;
+à Fermat, la premiere application du calcul aux quantités 
+différentielles, pour trouver les tangentes : la
+<i>Géométrie</i> nouvelle n&#39;est que cette derniere méthode
+généralisée. Si on ajoûte à cela ce que les François
+actuellement vivans ont fait en <i>Géométrie</i>, on conviendra 
+peut-être que cette science ne doit pas moins
+à notre nation qu&#39;aux autres.
+</p>
+<p>
+<i>Objet de la Géométrie</i>. Nous prierons d&#39;abord le lecteur 
+de se rappeller ce que nous avons dit sur ce sujet
+dans le <i>Discours prélimin</i>. Nous commençons par considérer 
+les corps avec toutes leurs propriétés sensibles ; 
+nous faisons ensuite peu-à-peu &amp; par l&#39;esprit la
+séparation &amp; l&#39;abstraction de ces différentes propriétés ; 
+&amp; nous en venons à considérer les corps comme
+des portions d&#39;étendue pénétrables, divisibles, &amp; figurées.
+Ainsi le corps géométrique n&#39;est proprement
+qu&#39;une portion d&#39;étendue terminée en tout sens.
+Nous considérons d&#39;abord &amp; comme d&#39;une vûe générale,
+cette portion d&#39;étendue quant à ses trois dimensions ; 
+mais ensuite, pour en déterminer plus facilement 
+les propriétés, nous y considérons d&#39;abord une
+seule dimension, c&#39;est à-dire la longueur, puis deux
+dimensions, c&#39;est-à-dire la surface, enfin les trois dimensions 
+ensemble, c&#39;est-à-dire la solidité: ain si les
+propriétés des lignes, celles des surfaces &amp; celles des
+solides sont l&#39;objet &amp; la division naturelle de la <i>Géométrie</i>.
+</p>
+<p>
+C&#39;est par une simple abstraction de l&#39;esprit, qu&#39;on
+considere les lignes comme sans largeur, &amp; les surfaces 
+comme sans profondeur : la <i>Géométrie</i> envisage
+donc les corps dans un état d&#39;abstraction où ils ne sont
+pas réellement ; les vérités qu&#39;elle découvre &amp; qu&#39;elle 
+démontre sur les corps, sont donc des vérités de
+pure abstraction, des vérités hypothétiques ; mais
+ces vérités n&#39;en sont pas moins utiles. Dans la nature,
+par exemple, il n&#39;y a point de cercle parfait ;
+mais plus un cercle approchera de l&#39;être, plus il approchera 
+d&#39;avoir exactement &amp; rigoureusement les
+propriétés du cercle parfait que la <i>Géométrie</i> démontre ; 
+&amp; il peut en approcher assez exactement pour
+avoir toutes ces propriétés, sinon en rigueur, au moins 
+à un degré suffisant pour notre usage.
+</p>
+<p>
+On connoît en <i>Géométrie</i> plusieurs courbes qui
+s&#39;approchent continuellement d&#39;une ligne droite sans
+jamais la rencontrer, mais qui étant tracées sur le papier,
+se confondent sensiblement avec cet e ligne
+droite au bout d&#39;un assez petit espace, <i>voyez</i> <sc><ref target="head:Asymptote" type="search">Asymptote</ref></sc> ; il en est de même des vérités géométriques.
+Elles sont en quelque maniere la limite, &amp;, si on peut
+parler ainsi, l&#39;<i>asymptote</i> des vérités physiques, le
+terme dont celles-ci peuvent approcher aussi près
+qu&#39;on veut, sans jamais y arriver exactement. Mais si
+les théorèmes mathématiques n&#39;ont pas exactement
+lieu dans la nature, ces théorèmes servent du-moins
+à trouver avec une précision suffisante pour la pratique,
+la distance inaccessible d&#39;un lieu à un autre, la
+mesure d&#39;une surface donnée, le toisé d&#39;un solide ; à
+calculer le mouvement &amp; la distance des astres ; à prédire 
+les phénomenes célestes. Pour démontrer des vérités 
+en toute rigueur, lorsqu&#39;il est question de la figure
+des corps, on est obligé de considérer ces corps dans
+un état de perfection abstraite qu&#39;ils n&#39;ont pas réellelement : en effet, si on ne s&#39;assujettit pas, par exemple,
+à regarder le cercle comme partait, il faudra autant 
+de théorèmes différens sur le cercle, qu&#39;on imaginera 
+de figures différentes plus ou moins approchantes 
+du cercle parfait ; &amp; ces figures elles-mêmes
+pourront être encore absolument hypothétiques &amp;
+<pb n="7:633" facs="V7/ENC_7-633.jpeg" />
+<milestone unit="column" n="1" />
+n&#39;avoir point de modele existant dans la nature. Les
+lignes qu&#39;on considere en <i>Géométrie</i>, ne sont ni parfaitement 
+droites ni parfaitement courbes, les surfaces 
+ne sont ni parfaitement planes ni parfaitement
+curvilignes : mais plus elles approcheront de l&#39;être,
+plus elles approcheront d&#39;avoir les propriétés qu&#39;on
+démontre des lignes exactement droites ou courbes,
+des surfaces exactement planes ou curvilignes. Ces
+réflexions suffiront, ce me semble, pour répondre à
+deux especes de censeurs de la <i>Géométrie:</i> les uns,
+ce sont les Sceptiques, accusent les théorèmes mathématiques 
+de fausseté, comme supposant ce qui n&#39;existe 
+pas réellement, des lignes sans largeur, des surfaces 
+sans profondeur ; les autres, ce sont les physiciens 
+ignorans en Mathématique, regardent les vérités 
+de <i>Géométrie</i> comme fondées sur des 
+hypothèses
+inutiles, &amp; comme des jeux d&#39;esprit qui n&#39;ont point
+d&#39;application.
+</p>
+<p>
+<i>Division de la Géométrie</i>. On peut diviser la <i>Géométrie</i> de différentes manieres:
+</p>
+<p>
+1°. En élémentaire &amp; en transcendante. La <i>Géométrie</i> élémentaire ne considere que les propriétés des
+lignes droites, des lignes circulaires, des figures &amp;
+des solides les plus simples, c&#39;est-à-dire des figures
+rectilignes ou circulaires, &amp; des solides terminés par
+ces figures. Le cercle est la seule figure curviligne
+dont on parle dans les élémens de <i>Géométrie ;</i> la simplicité 
+de sa description, la facilité avec laquelle
+les propriétés du cercle s&#39;en déduisent, &amp; la nécessité 
+de se servir du cercle pour différentes opérations
+très-simples, comme pour élever une perpendiculaire,
+pour mesurer un angle, <i>&amp;c.</i> toutes ces raisons ont
+déterminé à faire entrer le cercle &amp; le cercle seul dans
+les élémens de <i>Géométrie</i>. Cependant quelques courbes,
+comme la parabole, ont une équation plus simple 
+que celle du cercle ; d&#39;autres, comme l&#39;hyperbole
+équilatere, ont une équation aussi simple, <i>V.</i> <sc><ref target="head:Equation" type="search">Equation</ref> <i>&amp;</i> <ref target="head:Courbe" type="search">Courbe</ref></sc>: mais leur description est beaucoup 
+moins facile que celle du cercle, &amp; leurs propriétés 
+moins aisées à déduire. On peut rapporter aussi
+à la <i>Géométrie</i> élémentaire la solution des problèmes
+du second degré par la ligne droite &amp; par le cercle.
+<i>Voyez</i> 
+<sc><ref target="head:Construction" type="search">Construction</ref>, <ref target="head:Courbe," type="search">Courbe,</ref> <i>&amp;</i> <ref target="head:Équation" type="search">Équation</ref></sc>
+</p>
+<p>
+La <i>Géométrie</i> transcendante est proprement celle
+qui a pour objet toutes les courbes différentes du
+cercle, comme les sections coniques &amp; les courbes
+d&#39;un genre plus élevé. <i>Voyez</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>.
+</p>
+<p>
+Cette <i>Géométrie</i> s&#39;occupe aussi de la solution des
+problèmes du troisieme &amp; du quatrieme degré &amp; des
+degrés supérieurs. Les premiers se résolvent, comme
+l&#39;on sait, par le moyen de deux sections coniques, ou
+plus simplement &amp; en général par le moyen d&#39;un cercle 
+&amp; d&#39;une parabole ; les autres se résolvent par des
+lignes du troisieme ordre &amp; au-delà. <i>V.</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>, <i>&amp;
+les art. déjà cités</i>. La partie de la <i>Géométrie</i> transcendante 
+qui applique le calcul différentiel &amp; intégral à
+la recherche des propriétés des courbes, est celle qu&#39;on 
+appelle plus proprement <i>Géométrie transcendante</i>,
+&amp; qu&#39;on pourroit nommer avec quelques auteurs modernes,
+<i>Géométrie sublime</i>, pour la distinguer non-seulement de la <i>Géométrie</i> élémentaire, mais de la <i>Géométrie</i> des courbes qui n&#39;employe pas les calculs différentiel 
+&amp; intégral, &amp; qui se borne ou à la synthèse des
+anciens, ou à la simple application de l&#39;analyse ordinaire.
+Par-là on auroit trois divisions de la <i>Géométrie ;
+Géométrie élémentaire</i> ou des lignes droites &amp; du cercle ; 
+<i>Géométrie transcendante</i> ou des courbes ; &amp; <i>Géométrie sublime</i> ou des nouveaux calculs.
+</p>
+<p>
+2°. On divise aussi la <i>Géométrie</i> en ancienne &amp;
+moderne. On entend par <i>Géométrie ancienne</i>, ou celle 
+qui n&#39;employe point le calcul analytique, ou
+celle qui employe le calcul analytique ordinaire,
+sans se servir des calculs différentiel &amp; intégral ; &amp;
+par <i>Géométrie moderne</i>, on entend ou celle qui employe<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+l&#39;analyse de Descartes dans la recherche des
+propriétés des courbes, ou celle qui se sert des nouveaux 
+calculs. Ainsi la <i>Géométrie</i>, entant qu&#39;elle se
+borne à l&#39;analyse seule de Descartes, est ancienne ou
+moderne, suivant les rapports sous lesquels on la
+considere ; moderne par rapport à celle d&#39;Apollonius &amp; d&#39;Archimede, qui n&#39;employoient point le
+calcul ; ancienne, par rapport à la <i>Géométrie</i> que
+nous avons nommée <i>sublime</i>, que Leibnitz &amp; Newton
+nous ont apprise, &amp; que leurs successeurs ont perfectionnée.
+</p>
+<p>
+<i>Des élémens de Géométrie</i>. On a donné au <i>mot</i> <sc>Élémens des Sciences</sc>, des principes qui s&#39;appliquent
+naturellement aux élémens de <i>Géométrie:</i> on y a même 
+traité des questions qui ont un rapport particulier 
+à ces élémens ; par exemple, si on doit suivre
+dans les élémens d&#39;une science l&#39;ordre des inventeurs ; 
+si on y doit préférer la facilité à la rigueur
+exacte, <i>&amp;c.</i> c&#39;est pourquoi nous renvoyons à l&#39;<i>article</i>
+<sc><ref target="head:Élémens" type="search">Élémens</ref></sc>. Nous observons seulement que dans la liste
+d&#39;élémens de <i>Géométrie</i> donnée par M. de la Chapelle, on a oublié ceux de M. Camus, de l&#39;académie des
+Sciences, composés pour l&#39;usage des ingénieurs, &amp;
+qui méritent qu&#39;on en fasse une mention honorable ;
+ainsi que la <i>Géométrie de l&#39;officier</i>, de M. le Blond, un
+de nos collegues, &amp; les <i>élémens de Géométrie</i> du même 
+auteur. Ajoûtons ici quelques réflexions qui pourront 
+n&#39;être pas inutiles, sur la maniere de traites les
+<i>élémens de Géométrie</i>.
+</p>
+<p>
+Nous observerons d&#39;abord, &amp; ceci est une remarque 
+peu importante, mais utile, que la division ordinaire 
+de la <i>Géométrie</i> élémentaire en Longimétrie,
+Planimétrie, &amp; Stéreométrie, n&#39;est point exacte,
+à parler à la rigueur, puisqu&#39;on y mesure non-seulement des lignes droites, des plans, &amp; des solides,
+mais aussi des lignes circulaires &amp; des surfaces
+sphériques : mais nous ne pouvons qu&#39;approuver la
+division naturelle de la <i>Géométrie</i> élémentaire en <i>géométrie</i> des lignes droites &amp; des lignes circulaires,
+<i>géométrie</i> des surfaces, <i>géométrie</i> des solides.
+</p>
+<p>
+On peut voir au <i>mot</i> <sc>Courbe</sc>, ce que nous pensons 
+sur la meilleure définition possible de la ligne
+droite &amp; de la ligne courbe. Quoique la ligne droite
+soit plus simple que la circulaire, cependant il est à propos de traiter de l&#39;une &amp; de l&#39;autre, ensemble &amp;
+non séparément, dans des élémens de <i>Géométrie ;</i> parce 
+que les propriétés de la ligne circulaire sont d&#39;une
+utilité infinie pour démontrer d&#39;une maniere simple &amp;
+facile ce qui regarde les lignes droites comparées entr&#39;elles quant à leur position. La mesure d&#39;un angle
+est un arc de cercle décrit du sommet de l&#39;angle comme
+rayon. On a vû au <i>mot</i> <sc>Degré</sc>, <i>pp. 761 &amp; 762 du
+IV. vol.</i> pourquoi le cercle est la mesure naturelle des
+angles. Cela vient de l&#39;uniformité des parties &amp; de
+la courbure du cercle ; &amp; quand on dit que la mesure 
+d&#39;un angle est un arc de cercle décrit du sommet,
+cela signifie seulement que si deux angles sont égaux,
+les arcs décrits de leur sommet &amp; du même rayon seront 
+égaux : de même, quand on dit qu&#39;un angle est
+double d&#39;un autre, cela signifie seulement que l&#39;arc
+décrit du sommet de l&#39;un est double de l&#39;arc décrit
+du sommet de l&#39;autre : car l&#39;angle n&#39;étant, suivant sa
+définition, qu&#39;une ouverture simple, &amp; non pas une
+étendue, on ne peut pas dire proprement &amp; abstraction 
+faite de toute considération d&#39;étendue, qu&#39;un
+angle soit double d&#39;un autre ; parce que cela ne se
+peut dire que d&#39;une quantité comparée à une autre
+quantité homogene, &amp; que l&#39;ouverture de deux lignes
+n&#39;ayant point de parties, n&#39;est pas proprement une
+quantité. Quand on dit de même qu&#39;un angle à la
+circonférence du cercle a pour mesure la moitié de
+l&#39;arc compris entre ses côtés, cela signifie que cet
+angle est égal à un angle dont le sommet seroit au
+centre, &amp; qui renfermeroit la moitié de cet arc ; &amp;
+ainsi du reste.
+<pb n="7:634" facs="V7/ENC_7-634.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Ces petites observations ne seront pas inutiles
+pour donner aux commençans des notions distinctes
+sur la mesure des angles, &amp; pour leur faire sentir,
+ainsi que nous l&#39;avons dit au <i>mot</i> <sc>Élémens</sc>, quel est
+le véritable sens qu&#39;on doit donner à certaines façons 
+de parler abrégées dont on se sert dans chaque
+science, &amp; que les inventeurs ont imaginées pour
+éviter les circonlocutions.
+</p>
+<p>
+La proposition très-simple sur la mesure des angles 
+par un arc décrit de leur sommet, étant jointe au
+principe de la superposition, peut servir, si je ne
+me trompe, à démontrer toutes les propositions qui
+ont rapport à la <i>Géométrie</i> élémentaire des lignes. Le
+principe de la superposition n&#39;est point, comme le
+disent quelques géometres modernes, un principe
+méchanique &amp; grossier ; c&#39;est un principe rigoureux,
+clair, simple, &amp; tiré de la vraie nature de la chose.
+Quand on veut démontrer, par exemple, que deux
+triangles qui ont des bases égales &amp; les angles à la
+base égaux, sont égaux en tout, on employe le principe 
+de superposition avec succès : de l&#39;égalité supposée 
+des bases &amp; des angles, on conclut avec raison
+que ces bases &amp; ces angles appliqués les uns sur les
+autres, coïncideront ; ensuite de la coïncidence de
+ces parties, on conclut évidemment &amp; par une conséquence 
+nécessaire, la coïncidence du reste, &amp; par
+conséquent l&#39;égalité &amp; la similitude parfaite des deux
+triangles : ainsi le principe de la superposition ne
+consiste pas à appliquer grossierement une figure sur
+une autre, pour en conclure l&#39;égalité des deux, comme 
+un ouvrier applique son pié sur une longueur
+pour la mesurer : mais ce principe consiste à imaginer 
+une figure transportée sur une autre, &amp; à conclure,
+1°. de l&#39;égalité supposée des parties données,
+la coïncidence de ces parties ; 2°. de cette coïncidence,
+la coïncidence du reste, &amp; par conséquent
+l&#39;égalité totale &amp; la similitude parfaite des deux figures.
+On peut, par la même raison, employer le
+principe de la superposition à prouver que deux figures 
+ne sont pas les mêmes. Au reste, par superposition 
+j&#39;entens ici non-seulement l&#39;application d&#39;une
+figure sur une autre, mais celle d&#39;une partie, d&#39;une
+figure sur une autre partie de la même figure, à dessein 
+de les comparer entre elles ; &amp; cette derniere
+maniere d&#39;employer le principe de la superposition,
+est d&#39;un usage infini &amp; très-simple dans les élémens
+de <i>Géométrie. Voyez</i> <sc><ref target="head:Congruence" type="search">Congruence</ref></sc>.
+</p>
+<p>
+Après avoir traité de la <i>géométrie</i> des lignes considérées 
+par rapport à leur position, je crois qu&#39;on
+doit traiter de la <i>géométrie</i> des lignes considérées
+quant au rapport qu&#39;elles peuvent avoir entr&#39;elles.
+Elle est toute fondée sur ce théorème qu&#39;une ligne
+parallele à la base d&#39;un triangle en coupe les côtés
+proportionnellement. Pour cela il suffit de montrer
+que si cette parallele passe par le point de milieu
+d&#39;un des côtés, elle passera par le point de milieu de
+l&#39;autre ; car on fera voir ensuite aisément que les
+parties coupées sont toûjours proportionnelles,
+quand la partie coupée sera commensurable à la ligne 
+entiere ; &amp; quand elle ne le sera pas, on démontrera 
+la même proposition par la réduction à l&#39;absurde,
+en faisant voir que le rapport ne peut être ni
+plus grand, ni plus petit, &amp; qu&#39;ainsi il est égal. Nous
+disons <i>par la réduction à l&#39;absurde</i>, car on ne peut
+démontrer que de cette maniere, &amp; non d&#39;une maniere 
+directe, la plûpart des propositions qui regardent 
+les incommensurables. L&#39;idée de l&#39;infini entre
+au-moins implicitement dans la notion de ces sortes
+de quantités ; &amp; comme nous n&#39;avons qu&#39;une idée
+négative de l&#39;infini, c&#39;est-à-dire que nous ne le concevons 
+que par la négation du fini, on ne peut démontrer 
+directement &amp; <i>à priori</i> tout ce qui concerne
+l&#39;infini mathématique. <i>Voyez</i> 
+<sc><ref target="head:Démonstration" type="search">Démonstration</ref>, <ref target="head:Infini" type="search">Infini</ref>, <i>&amp;</i> <ref target="head:Incommensurable" type="search">Incommensurable</ref></sc>. Nous ne faisons
+<milestone unit="column" n="2" />
+qu&#39;indiquer ce genre de démonstration ; mais il y en a
+tant d&#39;exemples dans les ouvrages de <i>Géométrie</i>, que
+les mathématiciens tant soit-peu exercés nous comprendront 
+aisément. Pour éviter la difficulté des incommensurables,
+on démontre ordinairement la proposition 
+dont il s&#39;agit, en supposant que deux triangles
+de même hauteur sont entr&#39;eux comme leurs bases.
+Mais cette derniere proposition elle-même, pour
+être démontrée en rigueur, suppose qu&#39;on ait parlé
+des incommensurables. D&#39;ailleurs elle suppose la mesure 
+des triangles, &amp; par conséquent la <i>géométrie</i> des
+surfaces, qui est d&#39;un ordre supérieur à la <i>géométrie</i>
+des lignes. C&#39;est donc s&#39;écarter de la généalogie naturelle 
+des idées, que de s&#39;y prendre ainsi. On dira
+peut-être que la considération des incommensurables 
+rendra la <i>géométrie</i> élémentaire plus difficile,
+cela se peut ; mais ils entrent nécessairement dans
+cette <i>géométrie ;</i> il faut y venir tôt ou tard, &amp; le
+plûtôt est le mieux, d&#39;autant plus que la théorie des
+proportions des lignes amene naturellement cette
+considération : Toute la théorie des incommensurables 
+ne demande qu&#39;une seule proposition, qui concerne 
+les limites des quantités ; savoir que les grandeurs 
+qui sont la limite d&#39;une même grandeur, ou
+les grandeurs qui ont une même limite, sont égales
+entr&#39;elles (<i>voyez</i> 
+<sc><ref target="head:Limite" type="search">Limite</ref>, <ref target="head:Exhaustion," type="search">Exhaustion,</ref> <i>&amp;</i> <ref target="head:Différentiel" type="search">Différentiel</ref></sc>
+); principe d&#39;un usage universel <i>en Géométrie</i>, &amp; qui par conséquent doit entrer dans les élémens de cette science, &amp; s&#39;y trouver presque dès
+l&#39;entrée.
+</p>
+<p>
+La <i>géométrie</i> des surfaces se réduit à leur mesure ;
+&amp; cette mesure est fondée sur un seul principe, celui
+de la mesure du parallélogramme rectangle qu&#39;on sait
+être le produit de sa hauteur par sa base. Nous avons
+expliqué à la fin du <i>mot</i> <sc>Equation</sc> ce que cela signifie,
+&amp; la maniere dont cette proposition doit être
+énoncée dans des élémens, pour ne laisser dans l&#39;esprit 
+aucun nuage. De la mesure du parallélogramme
+rectangle se tire celle des autres parallélogrammes,
+celle des triangles qui en sont la moitié, comme le
+principe de la superposition peut le faire voir ; enfin
+celle de toutes les figures planes rectilignes, qui peuvent 
+être regardées comme composées de triangles.
+A l&#39;égard de la mesure du cercle, le principe des limites 
+ou d&#39;exhaustion servira à la trouver. Il suffira
+pour cela de faire voir que le produit de la circonférence 
+par la moitié du rayon est la limite de l&#39;aire
+des polygones inscrits &amp; circonscrits ; &amp; comme
+l&#39;aire du cercle est aussi évidemment cette limite,
+il s&#39;ensuit que l&#39;aire du cercle est le produit de la
+circonférence par la moitié du rayon, ou du rayon
+par la moitié de la circonference. <i>Voyez</i> <sc><ref target="head:Cercle" type="search">Cercle</ref> <i>&amp;</i> <ref target="head:Quadrature" type="search">Quadrature</ref></sc>.
+</p>
+<p>
+On peut rapprocher la théorie de la proportion
+des lignes de la théorie des surfaces par ce théorème,
+que quand quatre lignes sont proportionnelles,
+le produit des extrèmes est égal au produit des
+moyennes ; théorème qu&#39;on peut démontrer par la
+<i>Géométrie</i> sans aucun calcul algébrique ; car le calcul 
+algébrique ne facilite en rien les élémens de <i>Géométrie</i>, &amp; par conséquent ne doit pas y entrer. En
+rapprochant la théorie des proportions de celle des
+surfaces, on peut faire voir comment ces deux théories 
+prises séparément s&#39;accordent à démontrer différentes 
+propositions, par exemple, celle du quarré
+de l&#39;hypothénuse. Ce n&#39;est pas une chose aussi inutile 
+qu&#39;on pourroit le penser, de démontrer ainsi
+de différentes manieres dans des élémens de <i>Géométrie</i> certaines propositions principales ; par ce moyen
+l&#39;esprit s&#39;étend &amp; se fortifie en voyant de quelle maniere 
+on fait rentrer les vérités les unes dans les
+autres.
+</p>
+<p>
+Dans la <i>géométrie</i> des solides on suivra la même
+méthode que dans celle des surfaces : on réduira tout
+<pb n="7:635" facs="V7/ENC_7-635.jpeg" />
+<milestone unit="column" n="1" />
+à la mesure du parallelépipede rectangle ; la seule
+difficulté se réduira à prouver qu&#39;une pyramide est
+le tiers d&#39;un parallelépipede de même base &amp; de même 
+hauteur. Pour cela on fera voir d&#39;abord, ce qui
+est très-facile par la méthode d&#39;exhaustion, que les
+pyramides de même base &amp; de même hauteur sont
+égales ; ensuite, ce qui se peut faire de différentes
+manieres, comme on le peut voir dans divers élémens de <i>Géométrie</i>, on prouvera qu&#39;une certaine pyramide 
+déterminée est le tiers d&#39;un prisme de même
+base &amp; de même hauteur ; &amp; il ne restera plus de
+difficulté. Par ce moyen on aura la mesure de tous
+les solides terminés par des figures planes. Il ne restera 
+plus qu&#39;à appliquer à la surface &amp; à la solidité
+de la sphere les propositions trouvées sur la mesure
+des surfaces &amp; des solides ; c&#39;est dequoi on viendra
+aisément à-bout par la méthode d&#39;exhaustion, comme 
+on a fait pour la mesure du cercle ; peut-être
+même pourroit-on, pour plus d&#39;ordre &amp; de méthode,
+traiter de la surface sphérique dans la <i>géométrie</i>
+des surfaces.
+</p>
+<p>
+Nous ne devons pas oublier ici une observation
+importante. Le principe de la méthode d&#39;exhaustion
+est simple (<i>voyez</i> <sc><ref target="head:Exhaustion" type="search">Exhaustion</ref></sc>); mais son application 
+peut quelquefois rendre les démonstrations longues 
+&amp; compliquées. Ainsi il ne seroit peut-être pas
+mal-à-propos de substituer le principe des infiniment
+petits à celui d&#39;exhaustion, après avoir montré l&#39;identité 
+de ces deux principes, &amp; avoir remarqué
+que le premier n&#39;est qu&#39;une façon abregée d&#39;exprimer 
+le second ; car c&#39;est en effet tout ce qu&#39;il est,
+n&#39;y ayant dans la nature ni infinis actuels, ni infiniment 
+petits. <i>Voyez</i> 
+<sc><ref target="head:Infini" type="search">Infini</ref>, <ref target="head:Différentiel" type="search">Différentiel</ref>, <ref target="head:Exhaustion," type="search">Exhaustion,</ref> <i>&amp;</i> <ref target="head:Limite" type="search">Limite</ref></sc>
+. Par ce moyen la facilité des
+démonstrations sera plus grande, sans que la rigueur
+y perde rien.
+</p>
+<p>
+Voilà, ce me semble, le plan qu&#39;on peut suivre en
+traitant de la <i>géométrie élémentaire</i>. Ce plan, &amp; les réflexions 
+générales que nous avons faites à la fiu du <i>mot</i>
+<sc>Elémens des Sciences</sc>, suffisent pour faire sentir 
+qu&#39;il n&#39;y a aucun géometre au-dessus d&#39;une pareille 
+entreprise ; qu&#39;elle ne peut même être bien
+exécutée que par des mathématiciens du premier
+ordre ; &amp; qu&#39;enfin pour faire d&#39;excellens élémens de
+<i>Geométrie</i>, Descartes, Newton, Leibnitz, Bernoulli,
+<i>&amp;c.</i> n&#39;eussent pas été de trop. Cependant il n&#39;y a
+peut-être pas de science sur laquelle on ait tant multiplié 
+les elémens, sans compter ceux que l&#39;on nous
+donnera sans doute encore. Ces élémens sont pour
+la plûpart l&#39;ouvrage de mathématiciens médiocres,
+dont les connoissances en <i>Géométrie</i> ne vont pas souvent 
+au-delà de leur livre, &amp; qui par cela même
+sont incapables de bien traiter cette matiere. Ajoûtons qu&#39;il n&#39;y a presque pas d&#39;auteur d&#39;élémens de
+<i>Géométrie</i>, qui dans sa préface ne dise plus ou moins
+de mal de tous ceux qui l&#39;ont précéde. Un ouvrage
+en ce genre, qui seroit au gré de tout le monde, est
+encore à faire ; mais c&#39;est peut-être une entreprise
+chimérique que de croire pouvoir faire au gré de
+tout le monde un pareil ouvrage. Tous ceux qui étudient la <i>Géométrie</i> ne l&#39;étudient pas dans les mêmes
+vûes : les uns veulent se borner à la pratique ; &amp; pour
+ceux-là un bon traité de <i>géométrie-pratique</i> suffit, en
+y joignant, si l&#39;on veut, quelques raisonnemens qui
+éclairent les opérations jusqu&#39;à un certain point, &amp;
+qui les empêchent d&#39;être bornées à une aveugle
+routine : d&#39;autres veulent avoir une teinture de <i>géométrie élémentaire</i> spéculative, sans prétendre pousser 
+cette étude plus loin ; pour ceux-là il n&#39;est pas
+nécessaire de mettre une si grande rigueur dans les
+élémens ; on peut supposer comme vraies plusieurs
+propositions, dont la vérité s&#39;apperçoit assez d&#39;elle-même,
+&amp; qu&#39;on démontre dans les élémens ordinaires.
+Il est enfin des étudians qui n&#39;ont pas la
+<milestone unit="column" n="2" />
+force d&#39;esprit nécessaire pour embrasser à-la-fois les
+différentes branches d&#39;une démonstration compliquée ; 
+&amp; il faut à ceux-là des démonstrations plus
+faciles, dûssent-elles être moins rigoureuses. Mais
+pour les esprits vraiment propres à cette science,
+pour ceux qui sont destinés à y faire des progrès,
+nous croyons qu&#39;il n&#39;y a qu&#39;une seule maniere de
+traiter les élémens ; c&#39;est celle qui joindra la rigueur
+à la netteté, &amp; qui en même tems mettra sur la voie
+des découvertes par la maniere dont on y présentera 
+les démonstrations. Pour cela il faut les montrer,
+autant qu&#39;il est possible, sous la forme de problemes 
+à résoudre plûtôt que de théorèmes à prouver,
+pourvû que d&#39;un autre côté cette méthode ne
+nuise point à la généalogie naturelle des idées &amp;
+des propositions, &amp; qu&#39;elle n&#39;engage pas à supposer
+comme vrai, ce qui en rigueur géométrique a besoin 
+de preuve.
+</p>
+<p>
+On a vû <i>au mot</i> <sc><ref target="head:Axiome" type="search">Axiome</ref></sc> de quelle inutilité ces
+sortes de principes sont dans toutes les Sciences ; il
+est donc très-à-propos de les supprimer dans des élémens de <i>Géométrie</i>, quoiqu&#39;il n&#39;y en ait presque point
+où on ne les voye paroitre encore. Quel besoin at-on des axiomes sur le tout &amp; sur la partie, pour
+voir que la moitié d&#39;une ligne est plus petite que la
+ligne entiere? A l&#39;égard des définitions, quelque nécessaires 
+qu&#39;elles soient dans un pareil ouvrage, il
+nous paroit peu philosophique &amp; peu conforme à la
+marche naturelle de l&#39;esprit de les présenter d&#39;abord
+brusquement &amp; sans une espece d&#39;analyse ; de dire,
+par exemple, <i>la surface est l&#39;extrémité d&#39;un corps, laquelle 
+n&#39;a aucune profondeur</i>. Il vaut mieux considérer 
+d&#39;abord le corps tel qu&#39;il est, &amp; montrer comment 
+par des abstractions successives on en vient à
+le regarder comme simplement étendu &amp; figuré, &amp;
+par de nouvelles abstractions à y considérer successivement 
+la surface, la ligne, &amp; le point. Ajoûtons
+ici qu&#39;il se trouve des occasions, sinon dans des élémens, au-moins dans un cours complet de <i>Géométrie</i>, où certaines définitions ne peuvent être bien
+placées qu&#39;après l&#39;analyse de leur objet. Croit-on,
+par exemple, qu&#39;une simple définition de l&#39;Algebre
+en donnera l&#39;idée à celui qui ignore cette science?
+Il seroit donc à-propos de commencer un traité d&#39;Algebre par expliquer clairement la marche, suivant
+laquelle l&#39;esprit est parvenu ou peut parvenir à en
+trouver les regles ; &amp; on finiroit ainsi l&#39;ouvrage, <i>la
+science que nous venons d&#39;enseigner est ce qu&#39;on appelle
+Algebre</i>. Il en est de même de l&#39;application de l&#39;Algebre à la <i>Géométrie</i>, &amp; du calcul différentiel &amp; intégral,
+dont on ne peut bien saisir la vraie définition,
+qu&#39;après en avoir compris la métaphysique &amp;
+l&#39;usage.
+</p>
+<p>
+Revenons aux élémens de <i>Géométrie</i>. Un inconvénient 
+peut-être plus grand que celui de s&#39;écarter
+de la rigueur exacte que nous y recommandons, seroit 
+l&#39;entreprise chimérique de vouloir y chercher
+une rigueur imaginaire. Il faut y supposer l&#39;étendue
+telle que tous les hommes la conçoivent, sans se
+mettre en peine des difficultés des sophistes sur l&#39;idée
+que nous nous en formons, comme on suppose en
+méchanique le mouvement, sans répondre aux objections 
+de Zenon d&#39;Elée. Il faut supposer par abstraction 
+les surfaces planes &amp; les lignes droites, sans se
+mettre en peine d&#39;en prouver l&#39;existence, &amp; ne pas
+imiter un géometre moderne, qui par la seule idée
+d&#39;un fil tendu croit pouvoir démontrer les propriétés 
+de la ligne droite, indépendamment du plan, &amp;
+qui ne se permet pas cette hypothèse, qu&#39;on peut
+imaginer une ligne droite menée d&#39;un point à un autre 
+sur une surface plane ; comme si l&#39;idée d&#39;un fil
+tendu, pour représenter une ligne droite, étoit plus
+simple &amp; plus rigoureuse que l&#39;hypothèse en question ; 
+ou plûtôt comme si cette idée n&#39;avoit pas l&#39;inconvénient <gap type="hyphenpb" />
+<pb n="7:636" facs="V7/ENC_7-636.jpeg" />
+<milestone unit="column" n="1" />
+convénient de représenter par une image physique
+grossiere &amp; imparfaite une hypothèse abstraite &amp;
+mathématique.
+</p>
+<p>
+<i>Géométrie transcendante ou des courbes</i>. Cette <i>Géométrie</i> suppose le calcul algébrique. <i>Voyez</i> <sc><ref target="head:Algebre" type="search">Algebre</ref> <i>&amp;</i> <ref target="head:Mathématiques" type="search">Mathématiques</ref></sc>. On doit la commencer par
+la solution des problèmes du second degré au moyen
+de la ligne droite &amp; du cercle ; &amp; cette théorie peut
+produire beaucoup de remarques importantes &amp; curieuses 
+sur les racines positives &amp; négatives, sur la
+position des lignes qui les expriment, sur les différentes 
+solutions dont un problème est susceptible.
+<i>Voyez au mot</i> <sc><ref target="head:Equation" type="search">Equation</ref></sc> la plûpart de ces remarques,
+qui ne se trouvent pas dans les traités de <i>Géométrie</i> ordinaires ; <i>voyez aussi</i> <sc><ref target="head:Racine" type="search">Racine</ref></sc>. On passera
+de-là aux sections coniques ; la meilleure maniere &amp;
+la plus courte de les traiter dans un ouvrage de <i>Géométrie</i> (qui ne se borne pas à cette seule matiere),
+est, ce me semble, d&#39;employer la méthode analytique 
+que nous avons indiquée à la fin de l&#39;<i>article</i> <sc><ref target="head:Conique" type="search">Conique</ref></sc>, de les regarder comme des courbes du premier 
+genre ou lignes du second ordre, &amp; de les diviser 
+en especes, suivant ce qui en a été dit à l&#39;article 
+cité &amp; <i>au mot</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>. Quand on aura trouvé
+l&#39;équation la plus simple de la parabole, celle de
+l&#39;ellipse, &amp; celle de l&#39;hyperbole, on fera voir ensuite 
+très-aisément que ces courbes s&#39;engendrent
+dans le cone, &amp; de quelle maniere elles s&#39;y engendrent.
+Cette formation des sections coniques dans le
+cone seroit peut-être la maniere dont on devroit les
+envisager d&#39;abord, si on se bornoit à faire un traité
+de ces courbes ; mais elles doivent entrer dans un
+cours de <i>Géométrie</i> sous un point de vûe plus général.
+On terminera le traité des sections coniques par la
+solution des problèmes du troisieme &amp; du quatrieme 
+degré, au moyen de ces courbes ; sur quoi <i>voyez</i>
+<sc><ref target="head:Construction" type="search">Construction</ref> <i>&amp;</i> <ref target="head:Equation" type="search">Equation</ref></sc>.
+</p>
+<p>
+La théorie des sections coniques doit être précédée 
+d&#39;un traité, qui contiendra les principes généraux 
+de l&#39;application de l&#39;Algebre aux lignes courbes.
+<i>Voyez</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>. Ces principes généraux consisteront,
+1°. à expliquer comment on représente par
+une équation le rapport des abscisses aux ordonnées ;
+2°. comment la résolution de cette équation fait connoître 
+le cours de la courbe, ses differentes branches
+&amp; ses asymptotes ; 3°. à donner la maniere de trouver 
+par le calcul différentiel les tangentes &amp; les
+points de <i>maximum</i> &amp; de <i>minimum ;</i> 4°. à enseigner
+comment on trouve l&#39;aire des courbes par le calcul
+intégral : par conséquent ce traité contiendra les regles 
+du calcul différentiel &amp; intégral, au-moins celles 
+qui peuvent être utiles pour abréger un traité des
+sections coniques. Quelques géometres se récrieront
+peut-être ici sur l&#39;emploi que nous voulons faire de
+ces calculs dans une matiere où l&#39;on peut s&#39;en passer ; 
+mais nous les renvoyerons à ce que nous avons
+dit sur ce sujet <i>au mot</i> <sc><ref target="head:Ellipse" type="search">Ellipse</ref></sc>, <i>pag. 517 &amp; 518. du
+tome V.</i> Nous y avons fait voir par des exemples
+combien ces calculs sont commodes pour abréger
+les démonstrations &amp; les solutions, &amp; pour réduire
+à quelques lignes ce qui autrement occuperoit des
+volumes. Nous avons d&#39;ailleurs donné <i>au mot</i> <sc><ref target="head:Différentiel" type="search">Différentiel</ref></sc> la métaphysique très-simple &amp; très-lumineuse des nouveaux calculs ; &amp; quand on aura
+bien expliqué cette métaphysique, ainsi que celle
+de l&#39;infini geométrique (<i>voyez</i> <sc><ref target="head:Infini" type="search">Infini</ref></sc>), on pourra
+se servir des termes d&#39;<i>infiniment petit</i> &amp; d&#39;<i>infini</i>, pour
+abréger les expressions &amp; les démonstrations.
+</p>
+<p>
+En traitant de l&#39;application de l&#39;Algebre aux courbes,
+on ne les représente guere que par l&#39;équation
+entre les-coordonnées paralleles ; mais il est encore
+d&#39;autres formes, quoique moins usitées, à donner à
+leur équation. On peut la supposer, par exemple,
+entre les rayons de la courbe qui partent d&#39;un centre,<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+&amp; les abscisses ou les ordonnées correspondantes ; 
+comme aussi entre ces rayons, &amp; la tangente,
+le sinus ou la sécante de l&#39;angle qu&#39;ils forment avec
+les abscisses ou les ordonnées ; on en voit des exemples 
+<i>au mot</i> <sc><ref target="head:Ellipse" type="search">Ellipse</ref></sc>. Toutes ces équations dans les
+courbes géométriques sont finies &amp; algébriques ;
+mais il en est quelquefois qui se présentent ou qui
+peuvent se présenter sous une forme différentielle ;
+ce sont celles, par exemple, dans lesquelles un des
+membres est la différentielle de l&#39;angle formé par le
+rayon &amp; l&#39;abscisse, &amp; l&#39;autre est une différentielle de
+quelque fonction de l&#39;abscisse ou du rayon, réductible 
+à un arc de cercle. Par exemple, si j&#39;avois cette
+équation <i>d</i> <gap type="formula" />, <i>z</i> étant l&#39;angle entre le
+rayon &amp; l&#39;abscisse, <i>x</i> le rayon, &amp; <i>a</i> la valeur du
+rayon quand <i>z = o</i>, il est évident que la courbe
+est géométrique. Car <gap type="formula" /> est la différentielle
+d&#39;un angle dont le cosinus est <i>x</i>, &amp; le rayon <i>a</i> (<i>voyez</i>
+<sc><ref target="head:Cosinus" type="search">Cosinus</ref></sc>); donc <i>x/a</i> = cosinus <i>z ;</i> or, si on nomme
+<i>u</i> &amp; <i>y</i> les abscisses &amp; ordonnées rectangles, on
+aura <i>u u + y y = x x ;</i> <gap type="formula" /> ; &amp; cosin. <gap type="formula" />.
+C&#39;est pourquoi l&#39;équation différentielle
+<i>d</i> <gap type="formula" />, qui paroît ne pouvoir être intégrée 
+que par des arcs de cercle, donnera l&#39;équation
+en coordonnées rectangles <gap type="formula" />,
+qui est l&#39;équation d&#39;un cercle dont les coordonnées
+ont leur origine à la circonférencee. Il en est de même 
+de plusieurs autres cas semblables.
+</p>
+<p>
+Ces sortes d&#39;équations méritent qu&#39;on en fasse une
+mention expresse dans la <i>Géométrie</i> transcendante,
+d&#39;autant qu&#39;elles sont très-utiles dans la théorie des
+<i>trajectoires</i> ou courbes décrites par des projectiles,
+<i>voyez</i> <sc><ref target="head:Trajectoire" type="search">Trajectoire</ref></sc>, &amp; par conséquent dans la
+théorie des orbites des planetes, <i>voyez</i> <sc><ref target="head:Ellipse" type="search">Ellipse</ref>,
+<ref target="head:Kepler" type="search">Kepler</ref></sc> (<i>loi de</i>), 
+<sc><ref target="head:Planete," type="search">Planete,</ref> <i>&amp;</i> <ref target="head:Orbite" type="search">Orbite</ref></sc>
+. <i>Voyez aussi
+dans les mém. de l&#39;acad. des Sciences pour l&#39;année 1710.
+un mémoire</i> de M. Bernoulli sur ce dernier sujet.
+</p>
+<p>
+Les sections coniques achevées, on passera aux
+courbes d&#39;un genre supérieur ; on donnera d&#39;abord
+la théorie des points multiples, des points d&#39;inflexion,
+des points de rebroussement &amp; de serpentement.
+<i>Voyez</i> 
+<sc><ref target="head:Point multiple" type="search">Point multiple</ref>, <ref target="head:Inflexion" type="search">Inflexion</ref>, <ref target="head:Rebroussement" type="search">Rebroussement</ref>, <ref target="head:Serpentement" type="search">Serpentement</ref></sc>
+, <i>&amp;c.</i> Ces théories
+sont fondées en partie sur le calcul algébrique simple,
+en partie &amp; presque en entier sur le calcul différentiel ; 
+ce n&#39;est pas que ce dernier calcul y soit
+absolument nécessaire ; mais, quoi qu&#39;on en puisse
+dire, il abrege &amp; facilite extrèmement toute cette
+théorie. On n&#39;oubliera pas la théorie si belle &amp; si
+simple des développées &amp; des caustiques. <i>Voyez</i> 
+<sc><ref target="head:Développée" type="search">Développée</ref>, <ref target="head:Caustique" type="search">Caustique</ref>, <ref target="head:Osculateur" type="search">Osculateur</ref></sc>
+, <i>&amp;c.</i> Nous
+ne pouvons &amp; nous ne faisons qu&#39;indiquer ici ces différens 
+objets, dont plusieurs ont déjà été traités dans
+l&#39;Encyclopédie, &amp; les autres le seront à leurs articles 
+particuliers. <i>Voyez</i> 
+<sc><ref target="head:Tangente" type="search">Tangente</ref>, <ref target="head:Maximum" type="search"><i>Maximum</i></ref></sc>
+&amp;c. On entrera ensuite dans le détail des courbes
+des différens ordres, dont on donnera les classes, les
+especes, &amp; les propriétés principales. <i>Voyez</i> <sc><ref target="head:Courbe" type="search">Courbe</ref></sc>. A l&#39;égard de la quadrature &amp; de la rectification de
+ces sortes de courbes, &amp; même de la rectification
+des sections coniques, on la remettra à la <i>Géométrie
+sublime</i>.
+</p>
+<p>
+Au reste, en traitant les courbes géométriques,
+on pourra s&#39;étendre un peu plus particulierement
+<pb n="7:637" facs="V7/ENC_7-637.jpeg" />
+<milestone unit="column" n="1" />
+sur les plus connues, comme le <ref target="head:folium" type="search"><i>folium</i></ref> de Descartes,
+la <i><ref target="head:conchoïde" type="search">conchoïde</ref></i>, la <i><ref target="head:cissoide" type="search">cissoide</ref></i>, &amp;c. <i>Voyez ces mots</i>.
+</p>
+<p>
+Les courbes mechaniques suivront les géométriques.
+On traitera d&#39;abord des courbes exponentielles,
+qui sont comme une espece moyenne entre les
+courbes géométriques &amp; les méchaniques. <i>Voyez</i>
+<sc><ref target="head:Exponentiel" type="search">Exponentiel</ref></sc>. Ensuite, après avoir donné les principes 
+généraux de la construction des courbes méchaniques,
+au moyen de leur équation différentielle
+&amp; de la quadrature des courbes (<i>voyez</i> <sc><ref target="head:Construction" type="search">Construction</ref></sc>), on entrera dans le détail des principales &amp;
+&amp; des plus connues, de la <i><ref target="head:spirale" type="search">spirale</ref></i>, de la <i><ref target="head:quadratrice" type="search">quadratrice</ref></i>,
+de la <i><ref target="head:cycloïode" type="search">cycloïde</ref></i>, de la <ref target="head:trochoïde" type="search"><i>trochoïde</i></ref>, &amp;c. <i>Voyez ces mots</i>.
+</p>
+<p>
+Telles sont à-peu-près les matieres que doit contenir 
+un traité de <i>Géométrie</i> transcendante ; nous ne
+faisons que les indiquer, &amp; que marquer, pour ainsi
+dire, les masses principales : Un géometre intelligent
+saura trouver de lui-même, &amp; à l&#39;aide des différens
+articles de ce Dictionnaire, les parties qui doivent
+composer chacune de ces masses.
+</p>
+<p>
+<i>Géométrie sublime</i>. Après le plan que nous avons
+tracé pour la <i>Géométrie</i> transcendante, on voit que
+le calcul différentiel &amp; ses usages y sont presqu&#39;épuisés ; 
+il ne reste plus à la <i>Géométrie sublime</i> que le calcul 
+intégral, &amp; son application à la quadrature &amp; à
+la rectification des courbes. Ce calcul fera donc la
+matiere principale &amp; presque unique de la <i>Géométrie
+sublime</i>. Sur la maniere dont on doit le traiter, <i>voyez</i>
+<sc><ref target="head:Intégral" type="search">Intégral</ref></sc>.
+</p>
+<p>
+Nous terminerons cet article par quelques réflexions 
+générales. On a vû <i>au mot</i> <sc><ref target="head:Application" type="search">Application</ref></sc> des
+observations sur l&#39;usage de l&#39;analyse &amp; de la synthèse 
+en <i>Géométrie</i>. On nous a fait sur cet article quelques 
+questions qui donneront lieu aux remarques
+suivantes.
+</p>
+<p>
+1°. Le calcul algébrique ne doit point être appliqué 
+aux propositions de la <i>géométrie</i> élémentaire,
+par la raison qu&#39;il ne faut employer ce calcul que
+pour faciliter les démonstrations, &amp; qu&#39;il ne paroît
+pas y avoir dans la <i>géométrie</i> élémentaire aucune
+démonstration qui puisse réellement être facilitée par
+ce calcul. Nous exceptons néanmoins de cette regle
+la solution des problèmes du second degré par le
+moyen de la ligne droite &amp; du cercle (supposé qu&#39;on
+veuille regarder ces problèmes comme appartenant
+à la <i>géométrie</i> élémentaire, &amp; non comme le passage
+de la <i>géométrie</i> élémentaire à la transcendante); car
+le calcul algébrique simplifie extrèmement la solution 
+des questions de ce genre, &amp; il abrege même
+les démonstrations. Pour s&#39;en convaincre, il suffira
+de jetter les yeux sur quelques-uns des problèmes du
+second degré qui sont résolus dans l&#39;<i>application de
+l&#39;Algebre à la Géométrie</i> de M. Guisnée. Après avoir
+mis un problème en équation, l&#39;auteur tire de cette
+équation la construction nécessaire pour satisfaire à
+l&#39;équation trouvée ; &amp; ensuite il démontre synthétiquement 
+&amp; à la maniere des anciens, que la construction 
+qu&#39;il a employée résout en effet le problème.
+Or la plûpart de ces démonstrations synthétiques
+sont assez compliquées &amp; fort inutiles, si ce n&#39;est
+pour exercer l&#39;esprit ; car il suffit de faire voir que
+la construction satis fait à la solution de l&#39;équation finale,
+pour prouver qu&#39;elle donne la solution du problème.
+</p>
+<p>
+2°. Nous croyons qu&#39;il est ridicule de démontrer 
+par la synthèse ce qui peut être traité plus simplement 
+&amp; plus facilement par l&#39;analyse, comme
+les propriétés des courbes, leurs tangentes, leurs
+points d&#39;inflexion, leurs asymptotes, leurs branches,
+leur rectification, &amp; leur quadrature. Les propriétés 
+de la spirale que les plus grands mathématiciens 
+ont eu tant de peine à suivre dans Archimede,
+peuvent aujourd&#39;hui se démontrer d&#39;un trait de plume.
+N&#39;y a-t-il donc pas en <i>Géométrie</i> assez de choses
+<milestone unit="column" n="2" />
+à apprendre, assez de difficultés à vaincre, assez de
+découvertes à faire, pour ne pas user toutes les forces 
+de son esprit sur les connoissances qu&#39;on peut y
+acquérir à moins de frais? D&#39;ailleurs combien de recherches 
+géométriques auxquelles la seule analyse
+peut atteindre? Les Anglois, grands partisans de la
+synthèse, sur la foi de Newton qui la loüoit, &amp; qui
+s&#39;en servoit pour cacher sa route, en employant
+l&#39;analyse pour se conduire lui-même ; les Anglois,
+dis je, semblent par cette raison n&#39;avoir pas fait en
+<i>Géométrie</i>, depuis ce grand homme, tous les progrès 
+qu&#39;on auroit pu attendre d&#39;eux. C&#39;est à d&#39;autres
+nations, aux François &amp; aux Allemands, &amp; sur tout
+aux premiers, qu&#39;on est redevable des nouvelles recherches 
+sur le système du monde, sur la figure de la
+terre, sur la théorie de la lune, sur la précession des
+équinoxes, qui ont prodigieusement étendu l&#39;Astronomie-physique. Qu&#39;on essaye d&#39;employer la synthèse 
+à ces recherches, on sentira combien elle en
+est incapable. Ce n&#39;est qu&#39;à des géometres médiocres 
+qu&#39;il appartient de rabaisser l&#39;analyse, comme il
+n&#39;appartient de décrier un art qu&#39;à ceux qui l&#39;ignorent.
+On trouve une espece de consolation à taxer
+d&#39;inutilité ce qu&#39;on ne sait pas. Nous avons, il est
+vrai, exposé ailleurs quelques inconvéniens de l&#39;Algebre. <i>Voyez le mot</i> <sc><ref target="head:Equation" type="search">Equation</ref></sc>, <i>page 850. tome V.</i>
+Si la synthèse peut lever ces inconvéniens dans les
+cas où ils ont lieu, nous conviendrons qu&#39;on devroit
+préférer la synthèse à l&#39;analyse, du moins en ces cas-là; 
+mais nous doutons, pour ne rien dire de plus,
+que la synthèse ait cet avantage ; &amp; ceux qui penseroient 
+autrement, nous obligeroient de nous desabuser.
+</p>
+<p>
+3°. Il y a cette différence en Mathématique entre
+l&#39;Algebre &amp; l&#39;Analyse, que l&#39;Algebre est la science
+du calcul des grandeurs en général, &amp; que l&#39;Analyse est le moyen d&#39;employer l&#39;Algebre à la solution
+des problèmes. Je parle ici de l&#39;<i>analyse mathématique ;</i> l&#39;emploi qu&#39;elle fait de l&#39;Algebre pour trouver
+les inconnues au moyen des connues, est ce qui la
+distingue de l&#39;<i>analyse logique</i>, qui n&#39;est autre chose
+en général que l&#39;art de découvrir ce qu&#39;on ne connoît 
+pas par le moyen de ce qu&#39;on connoît. Les anciens 
+géometres avoient sans doute dans leurs recherches 
+une espece d&#39;analyse ; mais ce n&#39;étoit proprement 
+que l&#39;analyse logique. Tout algébriste s&#39;en
+sert pour commencer le calcul ; mais ensuite le secours 
+de l&#39;Algebre facilite extrèmement l&#39;usage &amp;
+l&#39;application de cette analyse à la solution des problèmes.
+Ainsi, quand nous avons dit <i>au mot</i> <sc><ref target="head:Analyse" type="search">Analyse</ref></sc>, que l&#39;analyse <i>mathématique</i> enseigne à résoudre 
+les problèmes, en les <i>réduisant à des équations</i>,
+nous croyons avoir donné une définition très-juste.
+Ces derniers mots sont le caractere essentiel qui distingue 
+l&#39;analyse mathématique de toute autre ; &amp;
+nous n&#39;avons fait d&#39;ailleurs que nous conformer en
+cela au langage universellement reçu aujourd&#39;hui
+par tous les géometres algébristes.
+</p>
+<p>
+4°. On peut appeller l&#39;Algebre <i>géométrie symbolique</i>, à cause des symboles dont l&#39;Algebre se sert dans
+la solution des problèmes ; cependant le nom de <i>géométrie métaphysique</i> qu&#39;on a donnée à l&#39;Algebre (<i>voyez</i>
+<sc><ref target="head:Algebre" type="search">Algebre</ref></sc>), paroît lui être du-moins aussi convenable ; 
+parce que le propre de la Métaphysique est de
+généraliser les idées, &amp; que non seulement l&#39;Algebre exprime les objets de la <i>Géométrie</i> par des caracteres 
+généraux, mais qu&#39;elle peut faciliter l&#39;application 
+de la <i>Géométrie</i> à d&#39;autres objets. En effet on
+peut, par exemple, en Méchanique, représenter le
+rapport des parties du tems par le rapport des parties 
+d&#39;une ligne, &amp; le mouvement d&#39;un corps par l&#39;équation 
+d&#39;une courbe, dont les abscisses représentent 
+les tems, &amp; les ordonnées les vîtesses correspondantes.
+La <i>Géométrie</i>, sur-tout lorsqu&#39;elle est aidée <gap type="hyphenpb" />
+<pb n="7:638" facs="V7/ENC_7-638.jpeg" />
+<milestone unit="column" n="1" />
+de l&#39;Algebre, est donc applicable à toutes les
+autres parties des Mathématiques, puisqu&#39;en Mathématique il n&#39;est jamais question d&#39;autre chose,
+que de comparer des grandeurs entr&#39;elles ; &amp; ce n&#39;est
+pas sans raison que quelques géometres philosophes
+ont défini la <i>Géométrie</i> la science <i>de la grandeur en
+général</i>, entant qu&#39;elle est représentée ou qu&#39;elle peut
+l&#39;être par des lignes, des surfaces, &amp; des solides.
+</p>
+<p>
+Sur l&#39;application de la <i>Géométrie</i> aux différentes
+sciences, <i>voyez</i> 
+<sc><ref target="head:Application" type="search">Application</ref>, <ref target="head:Méchanique" type="search">Méchanique</ref>, <ref target="head:Optique" type="search">Optique</ref>, <ref target="head:Physique" type="search">Physique</ref>, <ref target="head:Physico-Mathématique" type="search">Physico-Mathématique</ref></sc>
+, <i>&amp;c.</i> (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

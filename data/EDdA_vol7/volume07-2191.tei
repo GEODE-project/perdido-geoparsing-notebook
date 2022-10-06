@@ -1,0 +1,123 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29645" id="53:124:2" vol="7">
+<index type="head" value="Gladiateur expirant(le)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Sculpture antiq. " />
+<index type="normclass" value="Sculpture antique" />
+<index type="englishclass" value="Ancient sculpture" />
+<index type="generatedclass" value="Histoire de la philosophie" />
+<index type="pos" value="NA" />
+<head>Gladiateur expirant</head>
+<p>
+<sc>Gladiateur expirant</sc> (<sc>le</sc>), <i>Sculpture antiq.</i>
+c&#39;est une admirable piece de l&#39;antique qui subsiste
+toûjours ; il n&#39;y a point d&#39;amateurs des beaux arts,
+dit M. l&#39;abbé du Bos, qui n&#39;ait du-moins vû des copies
+de la figure du <i>gladiateur expirant</i>, laquelle étoit autrefois 
+à la Vigne Ludovece, &amp; qu&#39;on a transportée
+depuis au palais. Chigi. Cet homme qui vient de recevoir 
+le coup mortel veille à sa contenance, <i>ut
+procumbat honestè</i>: il est assis à terre, &amp; a encore la
+force de se soûtenir sur le bras droit ; quoiqu&#39;il aille
+expirer, on voit qu&#39;il ne veut pas s&#39;abandonner à
+sa douleur ni à sa défaillance, &amp; qu&#39;il a l&#39;attention
+de tenir ce maintien courageux, que les <i>gladiateurs</i>
+se piquoient de conserver dans ce funeste moment,
+&amp; dont les maîtres d&#39;escrime leur apprenoient l&#39;attitude : il ne craint point la mort, il craindroit de
+faire une grimace ou de pousser un lâche soupir ;
+<i>quis mediocris gladiator ingemuit, quis vultum mutavit 
+unquam, quis non modò stetit, verùm etiam decubuit 
+turpiter</i>, dit Ciceron dans l&#39;endroit de ses Tusculanes, où il nous raconte tant de choses étonnantes sur la fermeté de ces malheureux? On sent dans
+celui-ci que malgré la force qui lui reste après le
+coup dont il est atteint, il n&#39;a plus qu&#39;un moment à
+vivre, &amp; l&#39;on regarde long-tems dans l&#39;attente de
+le voir tomber en expirant ; c&#39;est ainsi que les anciens 
+savoient animer le marbre, &amp; lui donner de
+la vie. On en trouvera plusieurs autres exemples
+dans cet ouvrage. <i>Voyez</i> <sc><ref target="head:Sculpture ancienne" type="search">Sculpture ancienne</ref></sc>.
+(<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

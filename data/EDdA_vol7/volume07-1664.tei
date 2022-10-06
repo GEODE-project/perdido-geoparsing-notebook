@@ -1,0 +1,173 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29118" id="51:255" vol="7">
+<index type="head" value="GARGARISME" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Louis" />
+<index type="shortauth" value="Louis" />
+<index type="kafnum" value="80" />
+<index type="kafauth" value="Louis, Antoine (1723-1792)" />
+<index type="attribution" value="signed" />
+<index type="class" value="terme de Chirurgie" />
+<index type="normclass" value="Chirurgie" />
+<index type="englishclass" value="Surgery" />
+<index type="generatedclass" value="Matiere médicale" />
+<index type="pos" value="s.m." />
+<head>GARGARISME</head>
+<p>
+GARGARISME, s. m. <i>terme de Chirurgie</i>, forme de
+médicament topique, destiné à laver la bouche dans
+les différentes affections de cette partie.
+</p>
+<p>
+On compose différemment les <i>gargarismes</i>, suivant 
+les diverses intentions qu&#39;on a à remplir. La
+décoction des racines, feuilies, fleurs, fruits ou semences,
+se fait dans de l&#39;eau, dans du vin blanc ou
+rouge, dans du lait : des eaux distillées sont aussi
+quelquefois la base des <i>gargarismes</i>. On ajoûte à la
+liqueur des sirops, des mucilages, des élixirs. En
+général la formule d&#39;un <i>gargarisme</i> admet sur six onces 
+de décoction, deux onces de sirop, deux ou trois
+dragmes de poudre, &amp; des substances mucilagineuses 
+à une quantité bornée, pour ne pas ôter à la
+composition la fluidité qu&#39;elle doit avoir. On a l&#39;attention 
+de ne point faire entrer dans les <i>gargarismes</i>,
+de drogue, qu&#39;il seroit dangereux d&#39;avaler : le collyre 
+de Lanfranc, par exemple, est un excellent détersif 
+dans les ulceres putrides de la bouche ; mais
+quand on s&#39;en sert, ainsi que de différens esprits acides 
+&amp; caustiques, tels que l&#39;esprit de sel qui arrête
+puissamment le progrès des escarres gangreneuses,
+on touche avec précaution les parties, avec un pinceau 
+chargé du médicament irritant ; &amp; on fait ensuite 
+laver la bouche &amp; gargariser avec un liquide
+convenable, avant que de permettre au malade d&#39;avaler 
+sa salive. Les drogues fort ameres, telles que
+l&#39;agaric blanc &amp; la coloquinte, sont communément
+proscrites de la formule des <i>gargarismes ;</i> la decoction 
+&amp; le sirop d&#39;absynthe sont exceptés : on en fait
+<pb n="7:515" facs="V7/ENC_7-515.jpeg" />
+<milestone unit="column" n="1" />
+de bons <i>gargarismes</i> détersifs dans les aphthes putrides.
+La décoction de quinquina &amp; de sommités de
+sapin, avec de l&#39;esprit de vitriol jusqu&#39;à une agréable 
+acidité, donne une liqueur anti-septique, fort
+convenable dans les esquinancies gangreneuses.
+</p>
+<p>
+Les <i>gargarismes</i> émolliens &amp; anodyns, se font avec
+les racines d&#39;althaea, les feuilles de mauves, les semences 
+de lin &amp; de fenugrec, cuites dans de l&#39;eau ou
+dans du lait. La décoction de figues grasses est adoucissante 
+&amp; maturative. La décoction des plantes vulnéraires 
+avec du miel, &amp; à laquelle on ajoûte du sirop 
+de roses seches, est un <i>gargarisme</i> détersif pour les
+ulceres de la bouche qui n&#39;ont aucune malignité. Lorsqu&#39;il est question de resserrer &amp; de fortifier, on fait
+bouillir ces plantes dans du vin. Les <i>gargarismes</i> astringens 
+se font avec l&#39;écorce de grenades, les balaustes,
+le sumach, &amp; les roses rouges, cuites dans
+du gros vin. Les <i>gargarismes</i> rafraîchissans se sont
+avec la décoction d&#39;orge &amp; du sirop de mûres, en
+y ajoûtant quelques gouttes d&#39;esprit de vitriol. On
+préfere l&#39;esprit de cochléaria dans les <i>gargarismes</i>
+anti-scorbutiques. <i>Voyez</i> <sc><ref target="head:Scorbut" type="search">Scorbut</ref></sc>. Le vinaigre &amp;
+l&#39;eau donnent une liqueur rafraîchissante très-simple.
+Il n&#39;y a point de maladies plus communes que
+les maux de gorge inflammatoires. <i>Voyez</i> <sc><ref target="head:Esquinancie" type="search">Esquinancie</ref></sc>. Les <i>gargarismes</i> repercussifs dont on se sert
+quelquefois imprudemment dans cette maladie, sont
+une cause de métastase sur le poumon : M. Recolin
+qui a lû un mémoire sur cette matiere intéressante,
+à la séance publique de l&#39;académie royale de Chirurgie, en 1756, joint son expérience aux observations 
+des plus grands maîtres, pour démontrer le
+danger des <i>gargarismes</i> repercussifs dans ce cas. Il
+remarque que les anciens qui recommandoient en
+général ses topiques qui ont cette vertu dans le commencement 
+de toutes les inflammations, ont posé
+pour exception les cas où la métastase étoit à craindre.
+Pourquoi ne pas faire l&#39;application d&#39;un principe 
+si lumineux &amp; si sûr aux esquinancies inflammatoires?
+Les remedes froides dont on use impunément
+dans les inflammations legeres, font presque toûjours
+refluer l&#39;humeur sur le poumon, lorsque la fluxion a
+saisi vivement. <i>Voyez ci-devant au mot</i> <sc><ref target="head:Gargariser" type="search">Gargariser</ref></sc>,
+la façon de se servir des <i>gargarismes</i>. (<i>Y</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

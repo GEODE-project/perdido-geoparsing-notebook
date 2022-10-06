@@ -1,0 +1,121 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28385" id="50:145:7" vol="7">
+<index type="head" value="Frise" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Jaucourt" />
+<index type="shortauth" value="Jaucourt" />
+<index type="kafnum" value="60" />
+<index type="kafauth" value="Jaucourt, Louis, chevalier de (1704-1780)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Géog." />
+<index type="normclass" value="Géographie" />
+<index type="englishclass" value="Geography" />
+<index type="generatedclass" value="Géographie" />
+<index type="pos" value="NA" />
+<head>Frise</head>
+<p>
+<sc>Frise</sc>, <i>Frisia propria</i>, (<i>Géog.</i>) une des Provinces-Unies ; elle est bornée à l&#39;est par la riviere de Lauwers, qui la sépare de la province de Groningue ; au
+sud par l&#39;Ovérissel ; à l&#39;oüest, par le Zuyderzée ; &amp;
+au nord, par la mer d&#39;Allemagne. Cette province
+peut avoir 12 lieues du sud au nord, &amp; 11 du couchant 
+au levant ; son terroir est fertile en bons pâturages,
+où l&#39;on nourrit quantité de boeufs &amp; de chevaux 
+de grande taille. La <i>Frise</i> se divise en quatre
+parties, qui sont l&#39;Ostergow, ou partie orientale ; le
+Westergow, ou partie occidentale ; le Seven-Wolden,
+ou les sept forêts ; &amp; les Iles. Les villes de l&#39;Ostergow
+sont Leuwarde &amp; Doreum : celles du Westergow sont Harlingen, port de mer ; Franeker, université; 
+Bolswert, ville ancienne, Sneeck, Worcum,
+Hindelopen, Staveren : le pays de Seven-Wolden,
+ou des sept Forêts, n&#39;est rempli que de bois &amp; de
+marécages, &amp; n&#39;a pour ville que Slooten. Les îles
+sont Ameland, Schelling &amp; Schiermonickoog.
+</p>
+<p>
+Cette province, après s&#39;être jointe à la confédération,
+choisit pour son Stadhouder le prince d&#39;Orange ; &amp; cette charge est depuis héréditaire dans sa
+famille. Pour ce qui regarde la <i>Frise</i> ancienne, qui a
+eu diverses bornes, &amp; qui a été divisée différemment
+selon les révolutions arrivées au peuple nommé <i>Frisii</i> par les Romains, c&#39;est un canos impossible à débrouiller 
+aujourd&#39;hui. On peut cependant consulter
+les savans qui l&#39;ont entrepris, comme Spener, Altingius, Kempius, Hamconius, &amp; Winsemius. (<i>D. J.</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

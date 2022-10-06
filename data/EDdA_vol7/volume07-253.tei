@@ -1,0 +1,126 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27707" id="49:12" vol="7">
+<index type="head" value="FORDICIDES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Diderot" />
+<index type="shortauth" value="Diderot" />
+<index type="kafnum" value="39" />
+<index type="kafauth" value="Diderot, Denis (1713-1784)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Myth." />
+<index type="normclass" value="Mythologie" />
+<index type="englishclass" value="Mythology" />
+<index type="generatedclass" value="Mythologie" />
+<index type="pos" value="s.f." />
+<head>FORDICIDES</head>
+<p>
+* FORDICIDES, s. f. (<i>Myth.</i>) fêtes que les Romains célébroient le cinquieme d&#39;Avril, &amp; dans lesquelles 
+ils immoloient à la terre des vaches pleines.
+<i>Fordicide</i> vient de <i>forda</i>, vache pleine, &amp; de <i>caedo</i>,
+je tue ; &amp; <i>forda</i> de <foreign lang="greek">φoράς, φοράδος</foreign>. Chaque curie immoloit 
+sa vache. Ce qui n&#39;est pas inutile à remarquer,
+c&#39;est que ces sacrifices furent institués par
+Numa, dans un tems de stérilité commune aux campagnes 
+&amp; aux bestiaux. Il y a de l&#39;apparence que le
+législateur songea à affoiblir une de ces calamités
+par l&#39;autre, &amp; qu&#39;il fit tuer les vaches pleines, parce
+que la terre n&#39;avoit pas fourni dequoi les nourrir &amp;
+leurs veaux : mais la calamité passa, &amp; le sacrifice
+des vaches pleines se perpétua. Voilà l&#39;inconvénient
+des cérémonies superstitieuses, toûjours dictées par
+quelque utilité générale, &amp; respectables sous ce point
+de vûe ; elles deviennent onéreuses pendant une longue 
+suite de siecles à des peuples qu&#39;elles n&#39;ont soulagés 
+qu&#39;un moment. Si l&#39;intervention de la divinité est
+un moyen presque sûr de plier l&#39;homme grossier à
+quelque usage favorable ou contraire à ses intérêts
+actuels, à sa passion présente, en revanche c&#39;est
+un pli dont il ne revient plus quand il l&#39;a pris ; il en a
+<milestone unit="column" n="2" />
+ressenti une utilité passagere, &amp; il y persiste moitié
+par crainte, moitié par reconnoissance : plus alors le
+législateur a montré de sagesse dans le moment, plus
+le mal qu&#39;il a fait pour la suite est grand. D&#39;où je conclus 
+qu&#39;on ne peut être trop circonspect, quand on
+ordonne aux hommes quelque chose de la part des
+dieux.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,367 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28712" id="51:71" vol="7">
+<index type="head" value="GAGE" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="s.m." />
+<head>GAGE</head>
+<p>
+GAGE, <i>pignus</i>, s. m. (<i>Jurisprud.</i>) est un effet que
+l&#39;obligé donne pour sûreté de l&#39;exécution de son engagement.
+</p>
+<p>
+Quelquefois le terme <i>gage</i> est pris pour un contrat
+par lequel l&#39;obligé remet entre les mains du créancier 
+quelque effet mobilier, pour assûrance de la dette
+ou autre convention ; soit à l&#39;effet de le retenir jusqu&#39;au payement, ou pour le faire vendre par autorité 
+de justice, à défaut de payement ou exécution
+de la convention.
+</p>
+<p>
+Quelquefois aussi le terme <i>gage</i> est pris pour la
+chose même qui est ainsi engagée au créancier.
+</p>
+<p>
+Enfin ce même terme <i>gage</i> signifie aussi toute obligation 
+d&#39;une chose soit mobiliaire ou immobiliaire ;
+&amp; dans ce cas, on confond souvent le <i>gage</i> avec l&#39;hypotheque ; 
+comme quand on dit que les meubles sont
+le <i>gage</i> du propriétaire pour ses loyers, ou qu&#39;une
+maison saisie réellement devient le <i>gage</i> de la justice,
+qu&#39;elle est le <i>gage</i> des créanciers hypothécaires, <i>&amp;c.</i>
+</p>
+<p>
+Mais le <i>gage</i> proprement dit, &amp; le contrat de <i>gage</i>
+qu&#39;on appelle aussi <i>nantissement</i>, s&#39;entend d&#39;une chose
+mobiliaire dont la possession réelle &amp; actuelle est
+transférée au créancier, pour assûrance de la dette
+ou autre obligation : au lieu que l&#39;hypotheque s&#39;entend 
+des immeubles que le débiteur affecte &amp; qu&#39;il
+engage au payement de la dette, sans se dépouiller
+de la possession de ces immeubles.
+</p>
+<p>
+Chez les Romains, on distinguoit quatre sortes de
+<i>gages ;</i> savoir le prétorien, le conventionnel, le légal
+&amp; le judiciaire : parmi nous on ne connoît point le
+<i>gage</i> prétorien. La définition de ces différentes sortes
+de <i>gages</i> sera expliquée dans les subdivisions de cet
+article.
+<pb n="7:415" facs="V7/ENC_7-415.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On peut donner en <i>gage</i> toutes les choses mobilaires 
+qui en trent dans le commerce.
+</p>
+<p>
+Il y a certains <i>gages</i> qui ne sont par eux-mêmes
+d&#39;aucune valeur, lesquels ne laissent pas néanmoins
+d&#39;être considérés comme une sûreté pour le créancier.
+On en peut donner pour exemple Jean de Castro, général portugais dans les Indes, lequel ayant
+besoin d&#39;argent, se coupa une de ses moustaches, &amp;
+envoya demander aux habitans de Goa vingt mille
+pistoles sur ce <i>gage ;</i> elles lui furent aussi-tôt prêtées,
+&amp; dans la suite il retira sa moustache avec honneur.
+</p>
+<p>
+Les pierreries de la couronne, quoique réputées
+immeubles &amp; inaliénables, ont été quelquefois mises 
+en <i>gage</i> dans les besoins pressans de l&#39;état. Charles VI. en 1417, engagea un fleuron de la grande couronne 
+à un chanoine de la grande église de Paris
+(Notre-Dame), pour la somme de 4600 liv. tournois,
+&amp; le retira en la même année, en baillant un
+chappe de velours cramoisi semé de perles.
+</p>
+<p>
+Les reliques mêmes ont aussi été quelquefois mises 
+en <i>gage:</i> présentement les choses sacrées telles
+que les calices, ornemens &amp; livres d&#39;église, appartenans 
+a l&#39;église, ne peuvent être mis en <i>gage</i>, sinon
+en cas d&#39;urgente nécessité.
+</p>
+<p>
+Les personnes que l&#39;on donne en otage, sont aussi,
+à proprement parler, des <i>gages</i>, pour l&#39;assûrance
+de quelque promesse.
+</p>
+<p>
+Un créancier peut recevoir pour <i>gage</i> ou nantissement,
+des titres de propriété ou de créance, des
+titres de famille, <i>&amp;c.</i> il n&#39;est pas obligé de les rendre,
+qu&#39;on ne lui donne satisfaction ; &amp; si les débiteurs des
+sommes portées dans ces titres deviennent insolvables,
+il n&#39;en est pas garant.
+</p>
+<p>
+Avant que les Juifs eussent été chassés de France,
+ils y prêtoient beacoup sur <i>gages:</i> sur quoi il fut fait
+divers réglemens : Philippe-Auguste, au mois de Février 1218, leur défendit de recevoir en <i>gages</i> des
+ornemens d&#39;église ni des vêtemens ensanglantés ou
+mouillés, dans la crainte que cela ne servît à cacher
+le crime de celui qui auroit assassiné ou noyé quelqu&#39;un ; il leur défendit aussi de prendre en <i>gage</i> des
+fers de charrue, des bêtes de labour, ou du blé non
+battu, sans doute afin qu&#39;ils fussent tenus de rendre
+la même mesure de blé: il leur défendit encore, par
+une autre ordonnance, de prendre en <i>gage</i> des vases
+sacrés ou des terres des églises, soit dans le domaine 
+du roi ou du comte de Troyes, ou des autres barons,
+sans leur permission. L&#39;ordonnance de 1218
+fut renouvellée par Louis Hutin le 28 Juillet 1315.
+Le roi Jean en 1360, comprit dans la défense les reliques,
+les calices, les livres d&#39;églises, les fers de
+moulin. S. Louis leur défendit de prendre des <i>gages</i>
+qu&#39;en présence des témoins ; &amp; Philippe V. dit le
+Long ordonna en 1317, qu&#39;ils pourroient se défaire
+des choses qu&#39;ils avoient prises en <i>gage</i>, au bout de
+l&#39;an, si elles n&#39;étoient pas de garde ; &amp; si elles étoient
+de garde, au bout de deux ans.
+</p>
+<p>
+Lorsque plusieurs choses ont été données en <i>gage</i>,
+on ne peut pas en retirer une sans acquitter toute l&#39;obligation,
+quand même on payeroit quelque somme
+à proportion du <i>gage</i> que l&#39;on voudroit retirer.
+</p>
+<p>
+Le créancier nanti de <i>gages</i> est préféré à tous autres 
+sur le prix des <i>gages</i> qu&#39;il en sa possession, quand
+même ce seroit un créancier hypothécaire ; il ne
+perd pas pour cela son privilége sur le <i>gage</i> dont il est
+nanti.
+</p>
+<p>
+L&#39;action qui naît du <i>gage</i> est directe ou contraire
+suivant le droit romain, c&#39;est-à-dire que le <i>gage</i> produit 
+une double action ; savoir, celle qu&#39;on appelle
+<i>directe</i>, laquelle a lieu au profit de celui qui a donné
+le <i>gage</i>, à l&#39;effet de le répéter en satisfaisant par lui
+aux conventions : cette action sert aussi à obliger le
+possesseur du <i>gage</i> à faire raison des dégradations
+qu&#39;il peut avoir commises sur le <i>gage</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+L&#39;action contraire est celle par laquelle le créancier 
+qui a reçû le <i>gage</i>, demande qu&#39;on lui fasse raison 
+des impenses qu&#39;il a été obligé de faire pour la
+conservation du <i>gage ;</i> il peut aussi en vertu de cette
+action, se pourvoir en dommages &amp; intérêts, pour
+raison des fraudes que l&#39;on a pû commettre par rapport 
+au <i>gage ;</i> comme si on lui a remis des pierreries 
+fausses pour des fines, ou bien s&#39;il a été dépossédé 
+du <i>gage</i> par le véritable propriétaire qui l&#39;a
+reclamé.
+</p>
+<p>
+Une des principales regles que l&#39;on suit en matiere 
+de <i>gages</i>, est que ce contrat demande beaucoup
+de bonne foi.
+</p>
+<p>
+Il n&#39;est pas permis de prêter à interêt sur <i>gage</i>.
+</p>
+<p>
+L&#39;ordonnance du Commerce, <i>tit. vj. art. 8.</i> porte
+qu&#39;aucun prêt ne sera fait sous <i>gage</i>, qu&#39;il n&#39;y en ait
+un acte pardevant notaire, dont sera retenu minute,
+qui contiendra la somme prêtée &amp; les <i>gages</i> qui
+auront été délivrés, à peine de restitution des <i>gages</i>,
+à laquelle le prêteur sera contraint par corps, sans
+qu&#39;il puisse prétendre de privilége sur les <i>gages</i>, saut
+à exercer ses autres actions.
+</p>
+<p>
+L&#39;article suivant veut que les <i>gages</i> qui ne pourront 
+être exprimés dans l&#39;obligation, le soient dans
+une facture ou inventaire, dont il sera fait mention
+dans l&#39;obligation, &amp; que la facture ou inventaire contienne 
+la quantité, qualité, poids, &amp; mesure des marchandises 
+ou autres effets donnés en <i>gage</i>, sous les
+peines portées par l&#39;article précédent.
+</p>
+<p>
+Ces dispositions de l&#39;ordonnance ne s&#39;observent
+pas seulement entre marchands, mais entre toutes
+sortes de personnes.
+</p>
+<p>
+Un fils de famille peut donner en <i>gage</i> un effet mobilier 
+procédant de son pécule, pourvû que ce ne
+soit pas pour l&#39;obligation d&#39;autrui.
+</p>
+<p>
+Le tuteur peut aussi, pour les affaires du mineur,
+mettre en <i>gage</i> la chose du mineur, mais non pas
+pour ses affaires.
+</p>
+<p>
+Il en est de même du mandataire ou fondé de procuration 
+à l&#39;égard de son commettant.
+</p>
+<p>
+Les lois permettent néanmoins au créancier qui a
+reçu un effet en <i>gage</i>, de le donner lui-même aussi en
+<i>gage</i> à son créancier ; mais elles veulent que ce dernier 
+n&#39;y soit maintenu qu&#39;autant que le <i>gage</i> du premier 
+subsistera ; &amp; cela paroît peu conforme à nos
+moeurs, suivant lesquelles on ne peut en général engager 
+la chose d&#39;autrui, à-moins que ce ne soit du
+consentement exprès ou tacite du propriétaire. Celui qui consent de donner sa chose en <i>gage</i> à quelqu&#39;un, ne consent pas pour cela que celui-ci la donne 
+en <i>gage</i> à un autre ; il peut y avoir du risque pour
+le propriétaire, que le créancier se dessaisisse du <i>gage</i>.
+</p>
+<p>
+Les fruits du <i>gage</i> sont censés faire partie du <i>gage</i>.
+</p>
+<p>
+Le créancier nanti de <i>gage</i> n&#39;est point tenu de le
+rendre, qu&#39;il ne soit entierement payé de son principal 
+&amp; des intérêts légitimement dûs, &amp; même de
+ce qui lui est dû d&#39;ailleurs sans <i>gage</i>.
+</p>
+<p>
+S&#39;il a reçû en <i>gage</i> plusieurs effets, il ne peut être
+contraint d&#39;en relâcher un en lui payant une partie
+de la dette. Il peut exiger son payement en entier.
+</p>
+<p>
+Il n&#39;est pas permis en France au créancier de s&#39;approprier 
+le <i>gage</i> faute de payement ; mais il peut
+après l&#39;expiration du délai convenu, faire vendre le
+<i>gage</i>, soit en vertu d&#39;ordonnance de justice, ou même 
+en vertu de la convention, si cela a été expressément 
+convenu, pourvû néanmoins que la vente soit
+toujours faite par un huissier, en la maniere ordinaire.
+</p>
+<p>
+Lorsque le <i>gage</i> est vendu, &amp; qu&#39;il se trouve des
+saisies &amp; oppositions de la part de différens créanciers,
+celui qui est nanti du <i>gage</i> a un privilége spécial,
+tellement que sur cet effet il est payé par préférence 
+à tous autres créanciers.
+</p>
+<p>
+Si le prix du <i>gage</i> excede la dette, le surplus doit
+<pb n="7:416" facs="V7/ENC_7-416.jpeg" />
+<milestone unit="column" n="1" />
+être rendu au débiteur ; si au contraire le <i>gage</i> ne suffit 
+pas pour acquitter toute la dette, le créancier a
+la faculté de demander le surplus sur les autres biens
+du débiteur.
+</p>
+<p>
+Les dépenses faites par le créancier pour conserver 
+le <i>gage</i>, soit du consentement exprès ou tacite
+du débiteur, ou même sans son consentement, supposé 
+qu&#39;elles fussent nécessaires, peuvent être par
+lui répétées sur le <i>gage</i>, &amp; avec le même privilége
+qu&#39;il a pour le principal.
+</p>
+<p>
+Le débiteur ou autre qui soustrait le <i>gage</i>, commet
+un larcin dont il peut être accusé par le créancier.
+</p>
+<p>
+Lorsque le créancier a été trompé sur la substance
+ou qualité du <i>gage</i>, il en peut demander un autre,
+ou exiger dèslors son payement, quand même le débiteur 
+seroit solvable.
+</p>
+<p>
+Le créancier ne peut jamais prescrire le <i>gage</i> quelque 
+tems qu&#39;il l&#39;ait possedé.
+</p>
+<p>
+<i>Voyez</i> au digeste les titres <i>de pignoratitiâ actione,
+de pignoribus vel hypotecis</i>, &amp; au code <i>si aliena rei pignori 
+data sit, quoe res pignori obligari possunt qui potiores 
+in pignore</i>, &amp;c. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

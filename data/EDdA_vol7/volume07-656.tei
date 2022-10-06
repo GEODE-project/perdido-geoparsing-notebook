@@ -1,0 +1,152 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28110" vol="7">
+<index type="head" value="Frais de criées" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="NA" />
+<index type="pos" value="NA" />
+<head>Frais de criées</head>
+<p>
+<i>Frais de criées</i>, sont ceux qui se font pour parvenir 
+à une adjudication par decret, soit volontaire ou
+forceé.
+</p>
+<p>
+On en distingue de deux sortes ; savoir les <i>frais</i> ordinaires,
+&amp; les <i>frais</i> extraordinaires.
+</p>
+<p>
+Les premiers sont ceux des procédures nécessaires
+pour parvenir à un decret sans aucun incident.
+</p>
+<p>
+Les <i>frais</i> extraordinaires sont tous ceux qui se font
+pour lever les obstacles &amp; incidens formés par la
+partie saisie, ou les oppositions des créanciers, soit
+à fin de charge de distraire ou de conserver, &amp; aussi
+ceux qui sont faits pour parvenir à faire l&#39;ordre.
+</p>
+<p>
+Tous les <i>frais de criées</i>, soit ordinaires ou extraordinaires,
+doivent être avancés par le poursuivant
+criées : mais les <i>frais</i> ordinaires sont à la charge de
+l&#39;adjudicataire, outre le prix de l&#39;adjudication, parce 
+qu&#39;ils sont considérés comme les <i>frais</i> de son contrat ; 
+ainsi il doit les rembourser au procureur du
+poursuivant criées, à-moins qu&#39;il ne fût autrement
+convenu ou ordonné; à l&#39;égard des <i>frais</i> extraordinaires 
+bien &amp; légitimement faits, le poursuivant s&#39;en
+fait rembourser sur la chose par préférence à tous
+créanciers, comme ayant été par lui faits pour la
+conservation de la chose &amp; pour l&#39;intérêt commun
+de tous les créanciers. Pour cet effet le procureur du
+poursuivant donne une requête en son nom, à ce
+qu&#39;il soit payé par préférence à tous créanciers des
+<i>frais</i> extraordinaires, &amp; de ceux de l&#39;ordre ; &amp; par
+le jugement de l&#39;ordre on fait droit sur cette requête.
+</p>
+<p>
+Le poursuivant peut même employer en <i>frais</i> extraordinaires 
+les dépens des incidens auxquels il a
+succombé, à-moins qu&#39;il n&#39;ait été dit qu&#39;il ne pourra
+les repéter.
+</p>
+<p>
+Il peut aussi employer ceux qui lui ont été adjugés 
+contre les parties qui ont succombé, sans être
+tenu de les poursuivre pour en avoir le payement.
+C&#39;est aux créanciers sur lesquels le fonds manque à
+faire ces poursuites.
+</p>
+<p>
+Les <i>frais</i> de voyage &amp; séjour du poursuivant criées
+ont le même privilége que les autres dépens de
+criées, à-moins que le poursuivant n&#39;y eût renonce.
+(<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

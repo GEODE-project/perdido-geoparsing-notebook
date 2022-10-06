@@ -1,0 +1,480 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30606" id="55:188" vol="7">
+<index type="head" value="GUEBRES" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Boulanger" />
+<index type="shortauth" value="Boulanger" />
+<index type="kafnum" value="24" />
+<index type="kafauth" value="Boulanger, or Boullanger, Nicolas-Antoine (1722-1759)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Hist. anc. &amp; mod." />
+<index type="normclass" value="Histoire ancienne | Histoire moderne" />
+<index type="englishclass" value="Ancient history | Modern history" />
+<index type="generatedclass" value="Histoire ancienne" />
+<index type="pos" value="s.m.pl." />
+<head>GUEBRES</head>
+<p>
+GUEBRES, s. m. pl. (<i>Hist. anc. &amp; mod.</i>) peuple
+errant &amp; répandu dans plusieurs des contrées de la
+Perse &amp; des Indes. C&#39;est le triste reste de l&#39;ancienne
+monarchie persane que les caliphes arabes armés par
+la religion ont détruite dans le vij. siecle, pour faire
+regner le dieu de Mahomet à la place du dieu de
+Zoroastre. Cette sanglante mission força le plus
+grand nombre des Perses à renoncer à la religion de
+leurs peres : les autres prirent la fuite, &amp; se disperserent 
+en différens lieux de l&#39;Asie, où sans patrie &amp;
+sans roi, méprisés &amp; haïs des autres nations, &amp; invinciblement 
+attachés à leurs usages, ils ont jusqu&#39;à
+présent conservé la loi de Zoroastre, la doctrine des
+Mages, &amp; le culte du feu, comme pour servir de
+monument à l&#39;une des plus anciennes religions du
+monde.
+</p>
+<p>
+Quoiqu&#39;il y ait beaucoup de superstition &amp; encore 
+plus d&#39;ignorance parmi les <i>Guebres</i>, les voyageurs 
+sont assez d&#39;accord pour nous en donner une
+idée qui nous intéresse à leur sort. Pauvres &amp; simples 
+dans leurs habits, doux &amp; humbles dans leurs
+manieres, tolérans, charitables, &amp; laborieux ; ils
+n&#39;ont point de mendians parmi eux, mais ils sont
+tous artisans, ouvriers, &amp; grands agriculteurs. Il
+semble même qu&#39;un des dogmes de leur ancienne religion 
+ait été que l&#39;homme est sur la terre pour la
+cultiver &amp; pour l&#39;embellir, ainsi que pour la peupler.
+Car ils estiment que l&#39;agriculture est non-seulement une profession belle &amp; innocente, mais noble
+dans la société, &amp; méritoire devant Dieu. C&#39;est le
+prier, disent-ils, que de labourer ; &amp; leur créance
+met au nombre des actions vertueuses de planter un
+arbre, de défricher un champ, &amp; d&#39;engendrer des
+enfans. Par une suite de ces principes, si antiques
+qu&#39;ils sont presque oubliés par-tout ailleurs, ils ne
+mangent point le boeuf, parce qu&#39;il sert au labourage,
+ni la vache qui leur donne du lait ; ils épargnent de même le coq animal domestique, qui les
+avertit du lever du Soleil ; &amp; ils estiment particulierement 
+le chien qui veille aux troupeaux, &amp; qui
+garde la maison. Ils se font aussi un religieux devoir
+de tuer les insectes &amp; tous les animaux malfaisans ;
+&amp; c&#39;est par l&#39;exercice de ce dernier précepte, qu&#39;ils
+croyent expier leurs péchés ; pénitence singuliere,
+mais utile. Avec une morale pratique de cette rare
+espece, les <i>Guebres</i> ne sont nulle part des hôtes incommodes ; 
+on reconnoît par-tout leurs habitations
+au coup-d&#39;oeil, tandis que leur ancienne patrie, dont
+l&#39;histoire nous a vanté la fertilité, n&#39;est plus qu&#39;un
+desert &amp; qu&#39;une terre inculte sous la loi de Mahomet ; qui joint la contemplation au despotisme.
+</p>
+<p>
+Ils sont prévenans envers les étrangers de quelque 
+nation qu&#39;ils soient ; ils ne parlent point devant
+eux de leur religion, mais ils ne condamnent personne,
+leur maxime étant de bien vivre avec tout le
+monde, &amp; de n&#39;offenser qui que ce soit. Ils haïssent
+en général tous les conquérans ; ils méprisent &amp;
+détestent singulierement Alexandre, comme un des
+plus grands ennemis qu&#39;ait eus le genre humain.
+Quoiqu&#39;ils ayent lieu de haïr particulierement les
+Mahométans, ils se sont toûjours reposés sur la providence 
+du soin de punir ces cruels usurpateurs ; &amp;
+ils se consolent par une très-ancienne tradition dont
+ils entretiennent leurs enfans, que leur religion reprendra 
+un jour le dessus, &amp; qu&#39;elle sera professée
+de tous les peuples du monde : à cet article de leur
+croyance, ils joignent aussi cette attente vague &amp;
+indéterminée, qu&#39;on retrouve chez tant d&#39;autres
+peuples, de personnages illustres &amp; fameux qui doivent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+venir à la fin des tems, pour rendre les hommes 
+heureux &amp; les préparer au grand renouvellement.
+</p>
+<p>
+Une discipline sévere &amp; des moeurs sages regnent
+dans l&#39;intérieur de leurs maisons ; ils n&#39;épousent que
+des femmes de leur religion &amp; de leur nation ; ils
+ne souffrent point la bigamie ni le divorce ; mais en
+cas de stérilité, il leur est permis de prendre une seconde 
+femme au bout de neuf années, en gardant cependant 
+la premiere. Par-tout où ils sont tolérés, ils
+reçoivent le joug du prince, &amp; vivent entre eux
+sous la conduite de leurs anciens qui leur servent de
+magistrats.
+</p>
+<p>
+Ils ont aussi des prêtres, qui se disent issus des anciens 
+mages, &amp; qui dépendent d&#39;un souverain pontife,
+&amp; que les <i>Guebres</i> appellent <i>destour, destouran</i>,
+la <i>regle des regles</i> ou <i>la loi des lois</i>. Ces prêtres n&#39;ont
+aucun habit particulier, &amp; leur ignorance les distingue 
+à peine du peuple. Ce sont eux qui ont le soin
+du feu sacré, qui imposent les pénitences, qui donnent 
+des absolutions, &amp; qui pour de l&#39;argent distribuent 
+chaque mois dans les maisons le feu sacré, &amp;
+l&#39;urine de vache qui sert aux purifications.
+</p>
+<p>
+Ils prétendent posséder encore les livres que Zoroastre a reçus du ciel ; mais ils ne peuvent plus les
+lire, ils n&#39;en ont que des commentaires qui sont eux-mêmes 
+très anciens. Ces livres contiennent des révélations 
+sur ce qui doit arriver jusqu&#39;à la fin des
+tems, des traites d&#39;Astrologie &amp; de divination. Du
+reste leurs traditions sur leurs prophetes &amp; sur tout
+ce qui concerne l&#39;origine de leur culte, ne forment
+qu&#39;un tissu mal assorti de fables merveilleuses &amp; de
+graves puérilités. Il en est à cet égard de la religion
+des <i>Guebre ;</i> comme de toutes les autres religions
+d&#39;Asie ; la morale en est toûjours bonne, mais l&#39;historique,
+ou pour mieux dire le roman, n&#39;en vaut
+jamais rien. Ces histoires, il est vrai, devroient être
+fort indifférentes pour le culte en général ; mais le
+mal est que les hommes n&#39;ont fait que trop consister
+l&#39;essentiel de la religion dans un nom. Si les nations
+asiatiques vouloient cependant s&#39;entendre entre elles,
+&amp; oublier ces noms divers de Confucius, de Brahma, de Zoroastre, &amp; de Mahomet, il arriveroit
+qu&#39;elles n&#39;auroient presque toutes qu&#39;une même
+créance, &amp; qu&#39;elles seroient par-là d&#39;autant plus
+proches de la véritable.
+</p>
+<p>
+Plusieurs savans ont crû reconnoître dans les fables
+que les <i>Guebres</i> débitent de Zoroastre, quelques traits
+de ressemblance avec Cham, Abraham &amp; Moyse ; on
+pourroit ajoûter aussi avec Osiris, Minos, &amp; Romulus : mais il y a bien plus d&#39;apparence que leurs fables 
+sont tirées d&#39;une formule générale que les anciens 
+s&#39;étoient faite pour écrire l&#39;histoire de leurs
+grands hommes, en abusant des sombres vestiges de
+l&#39;histoire ancienne de la nature.
+</p>
+<p>
+Plus l&#39;on remonte dans l&#39;antiquité, &amp; plus l&#39;on
+remarque que l&#39;historique &amp; l&#39;appareil des premieres 
+religions ont été puisées dans de pareilles sources.
+Toutes les fêtes des mages étoient appellées des <i>mémoriaux</i> (Selden, <i>de diis Syris</i>); &amp; à en juger aujourd&#39;hui par les usages de leurs descendans, on ne peut
+guere douter que leur culte n&#39;ait effectivement été
+un reste des anciennes commémorations de la ruine
+&amp; du renouvellement du monde, qui a dû être un des
+principaux objets de la Morale &amp; de la religion sous
+la loi de nature. Nous savons que sous la loi écrite &amp;
+sous la loi de grace, les fêtes ont successivement eu
+pour motifs la célébration des évenemens qui ont
+donné &amp; produit ces lois : nous pouvons donc penser 
+que sous la loi de nature qui les a précédées, les fêtes 
+ont dû avoir &amp; ont eu pour objet les grands evenemens 
+de l&#39;histoire de la nature, entre lesquels il n&#39;y
+en a pas eu sans doute de plus grands &amp; de plus
+mémorables que les révolutions qui ont détruit se
+<pb n="7:980" facs="V7/ENC_7-980.jpeg" />
+<milestone unit="column" n="1" />
+genre humain, &amp; changé la face de la terre.
+</p>
+<p>
+C&#39;est après avoir profondément étudié les différens 
+âges du monde sous ces trois points de vûe, que
+nous osons hasarder que telle a été l&#39;origine de la religion 
+des <i>Guebres</i> &amp; des anciens mages. Si nous les
+considérons dans leurs dogmes sur l&#39;Agriculture, sur
+la population, &amp; dans leur discipline domestique,
+tout nous y retracera les premiers besoins &amp; les vrais
+devoirs de l&#39;homme, qui n&#39;ont jamais été si bien connus 
+qu&#39;après la ruine du genre humain devenu sage
+par ses malheurs. Si nous les envisageons dans les terreurs 
+qu&#39;ils ont des éclipses, des cometes, &amp; de tous
+les écarts de la nature, &amp; dans leurs traditions apocalyptiques,
+nous y reconnoîtrons les tristes restes
+de l&#39;espece humaine long-tems épouvantée &amp; effrayée 
+par le seul souvenir des phénomenes de leurs
+anciens desastres. Si nous analysons leur dogme des
+deux principes &amp; leurs fables sur les anciens combats 
+de la lumiere contre les ténebres, &amp; que nous
+en rapprochions tant d&#39;autres traditions analogues répandues 
+chez divers peuples ; nous y reverrons aussi
+ce même fait que quelques-uns ont appellé <i>cahos,
+débrouillement</i>, &amp; d&#39;autres <i>création</i> &amp; <i>renouvellement</i>.
+En étudiant leur culte du feu, &amp; leurs pressentimens
+sur les incendies futurs, nous n&#39;y retrouverons que
+le ressentiment des incendies passés, &amp; que des
+usages qui en devoient perpétuer le souvenir : enfin
+si nous les suivons dans ces fêtes qu&#39;ils célebrent pour
+le soleil &amp; pour tous les élémens, tout nous y retracera 
+de même des institutions relatives à cet ancien
+objet qui a été perdu, oublié, &amp; corrompu par les
+<i>Guebres</i>, par les Perses eux-mêmes, &amp; par tous les
+autres peuples du monde qui n&#39;ont présentement
+que des traces plus ou moins sombres de ces religieuses 
+commémorations, qui dans un certain âge ont été
+générales par toute la terre.
+</p>
+<p>
+C&#39;est une grande question de savoir si les <i>Guebres</i>
+d&#39;aujourd&#39;hui sont idolatres, &amp; si le feu sacré est
+l&#39;objet réel de leur adoration présente. Les Turcs,
+les Persans, &amp; les Indiens les regardent comme tels ;
+mais selon les voyageurs européens, les <i>Guebres</i> prétendent 
+n&#39;honorer le feu qu&#39;en mémoire de leur législateur 
+qui se sauva miraculeusement du milieu des
+flammes ; &amp; pour se distinguer des idolatres de l&#39;Inde, ils se ceignent tous d&#39;un cordon de laine ou de
+poil de chameau. Ils assûrent reconnoître un dieu suprème,
+créateur &amp; conservateur de la lumiere ; ils lui
+donnent sept ministres, &amp; ces ministres eux-mêmes en
+ont d&#39;autres qu&#39;ils invoquent aussi comme génies intercesseurs : l&#39;être suprème est supérieur aux principes 
+&amp; aux causes ; mais il est vrai que leur théologie 
+ou leur superstition attribue tant de pouvoir
+à ces principes subalternes, qu&#39;ils n&#39;en laissent guere
+au souverain, ou qu&#39;il en fait peu d&#39;usage ; ils admettent 
+aussi des intelligences qui résident dans les astres
+&amp; gouvernent les hommes, &amp; des anges ou créatures 
+inférieures qui gouvernent les corps inanimés ;
+&amp; chaque arbre, comme chaque homme, a son patron 
+&amp; son gardien.
+</p>
+<p>
+Ils ont persisté dans le dogme du bon &amp; du mauvais 
+principe : cette antique hérésie, &amp; peut-être la
+premiere de toutes, n&#39;a été vraissemblablement qu&#39;une 
+suite de l&#39;impression que fit sur les hommes le
+spectacle affreux des anciens malheurs du monde, &amp;
+la conséquence des premiers raisonnemens qu&#39;on a
+crû religieusement devoir faire pour ne point en accuser 
+un dieu créateur &amp; conservateur. Les anciens
+théologiens s&#39;embrouilloient autrefois fort aisément
+dans les choses qu&#39;ils ne pouvoient comprendre ; &amp;
+l&#39;on peut juger combien cette question doit être épineuse pour de pauvres gens, tels que les <i>Guebres</i>,
+puisque tant &amp; de si grands génies ont essayé en vain
+de la résoudre avec toutes les lumieres de leur raison.
+</p>
+<p>
+<milestone unit="column" n="2" />
+</p>
+<p>
+Au reste les <i>Guebres</i> n&#39;ont aucune idole &amp; aucune
+image, &amp; ils sont vraissemblablement les seuls peuples 
+de la terre qui n&#39;en ont jamais eu ; tout l&#39;appareil 
+de leur religion consiste à entretenir le feu sacré,
+à respecter en général cet élément, à n&#39;y mettre jamais 
+rien de sale ni qui puisse faire de la fumée,
+&amp; à ne point l&#39;infecter même avec leur haleine en
+voulant le souffler ; c&#39;est devant le feu qu&#39;ils prient
+dans leurs maisons, qu&#39;ils font les actes &amp; les sermens ; 
+&amp; nul d&#39;entre eux n&#39;oseroit se parjurer quand
+il a pris à témoin cet élément terrible &amp; vengeur:
+par une suite de ce respect, ils entretiennent en tout
+tems le feu de leur foyer, ils n&#39;éteignent pas même
+leurs lampes, &amp; ne se servent jamais d&#39;eau dans les
+incendies qu&#39;ils s&#39;efforcent d&#39;étouffer avec la terre.
+Ils ont aussi diverses cérémonies légales pour les
+hommes &amp; pour les femmes, une espece de baptême 
+à leur naissance, &amp; une sorte de confession à
+la mort ; ils prient cinq fois le jour en se tournant
+vers le soleil, lorsqu&#39;ils sont hors de chez eux ; ils
+ont des jeûnes reglés, quatre fêtes par mois, &amp; surtout 
+beaucoup de vénération pour le vendredi, &amp;
+pour le premier &amp; le 20 de chaque lune : dans leurs
+jours de dévotion, ils ont entre eux des repas communs 
+où l&#39;on partage également ce que chacun y
+apporte suivant ses facultés.
+</p>
+<p>
+Ils ont horreur de l&#39;attouchement des cadavres ;
+n&#39;enterrent point leurs morts ni ne les brûlent ; ils
+se contentent de les déposer à l&#39;air dans des enceintes 
+murées, en mettant auprès d&#39;eux divers ustensiles 
+de ménage. L&#39;air &amp; la sécheresse du pays permettent 
+sans doute cet usage qui seroit dangereux &amp; desagréable 
+pour les vivans dans tout autre climat ;
+mais il en est sorti chez les <i>Guebres</i> cette superstition
+singuliere, d&#39;aller observer de quelle façon les oiseaux 
+du ciel viennent attaquer ces corps ; si le corbeau 
+prend l&#39;oeil droit, c&#39;est un signe de salut, &amp; l&#39;on
+se réjoüit ; s&#39;il prend l&#39;oeil gauche, c&#39;est une marque
+de réprobation, &amp; l&#39;on pleure sur le sort du défunt:
+cette espece de cruauté envers les morts, se trouve
+réparée par un autre dogme qui étend l&#39;humanité
+des <i>Guebres</i> jusque dans l&#39;autre vie ; ils prétendent
+que le mauvais principe &amp; l&#39;enfer seront détruits
+avec le monde ; que les démons seront anéantis avec
+leur empire, &amp; que les réprouvés après leurs souffrances,
+retrouveront à la fin un dieu clément &amp; miséricordieux 
+dont la contemplation fera leurs délices.
+Malgré l&#39;ignorance des <i>Guebres</i>, il semble qu&#39;ils
+ayent voulu prendre un milieu entre le paradis extravagant 
+de Mahomet &amp; le redoutable enfer du
+Christianisme.
+</p>
+<p>
+Des peuples qui ont un culte si simple &amp; des dogmes 
+si pacifiques, n&#39;auroient point dû sans doute
+être l&#39;objet de la haine &amp; du mépris des Mahométans ; mais non-seulement ceux-ci les détestent, ils
+les ont encore accusés dans tous les tems d&#39;idolatrie,
+d&#39;impiété, d&#39;athéisme, &amp; des crimes les plus infames.
+Toutes les religions persécutées &amp; obligées de
+tenir leurs assemblées secretes, ont essuyé de la part
+des autres sectes des calomnies &amp; des injures de ce
+genre. Les Payens ont accusé les premiers chrétiens
+de manger des enfans, &amp; de se mêler sans distinction
+d&#39;âge &amp; de sexe : quelques-uns de nos hérétiques à
+leur tour ont essuyé un pareil traitement ; &amp; c&#39;est
+de même le venin calomnieux que répandent les disputes 
+de religion, qui a donné aux restes des anciens 
+Perses le nom de <i>guebre</i>, qui dans la bouche
+des Persans modernes, désigne en général un <i>payen</i>,
+un <i>infidele</i>, un <i>homme adonné au crime contre nature</i>.
+</p>
+<p>
+Quelques-uns les ont aussi nommés <i>Parsis, Pharsis</i>, &amp; <i>Farsis</i>, comme descendans des Perses, &amp; d&#39;autres 
+<i>Magious</i>, parce qu&#39;ils descendent des anciens
+mages ; mais leur nom le plus connu &amp; le plus usité
+est l&#39;infame nom de <i>guebre</i>.
+<pb n="7:981" facs="V7/ENC_7-981.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+Ce qu&#39;il y a de singulier dans ce nom, c&#39;est qu&#39;il
+est d&#39;usage chez plusieurs nations d&#39;Europe &amp; d&#39;Asie,
+&amp; que sous differentes formes &amp; en différens dialectes,
+il est par-tout l&#39;expression d&#39;une injure grossiere.
+</p>
+<p>
+Le changement du <i>b</i> en <i>u</i> donne <i>gaur</i>, autre nom
+des <i>Guebres ;</i> une inflexion legere dans les voyelles
+donne <i>giaour</i> chez les Turcs qui ont fréquemment
+ce mot à la bouche, &amp; qui le prodiguent particulierement 
+en faveur des Juifs, des Chrétiens, des infideles,
+&amp; de tous ceux qu&#39;ils veulent outrager &amp; insulter : le changement du <i>g</i> en <i>k</i>, donne <i>kebre</i>, qui est
+aussi d&#39;usage ; &amp; celui du <i>b</i> en <i>ph</i>, produit <i>kaphre</i> &amp;
+<i>kasre</i>, nom que plusieurs peuples d&#39;Afrique ont reçû
+des Arabes leurs voisins, parce qu&#39;ils ne suivent point
+la loi de Mahomet.
+</p>
+<p>
+L&#39;inverse &amp; la méthathèse des radicaux de ce nom
+de <i>gebr</i>, qui dans l&#39;hebreu sont <i>gabar, gibor, giber</i>, &amp;
+<i>geber</i>, ont porté dans l&#39;Europe par le canal des Phéniciens ou des Arabes espagnols, les expressions populaires 
+de <i>bogri, borgi, bougari</i>, &amp; <i>bougeri</i>, qui conservent 
+encore l&#39;idée du crime abominable dont les
+<i>Guebres</i> sont accuses par les Persans modernes ; nos
+ayeux n&#39;ont pas manqué de même d&#39;en décorer les
+heretiques du douzieme siecle, &amp; nos étymologistes
+ont savamment dérivé ces mots des Bulgares, <i>à Bulgaris</i>.
+</p>
+<p>
+Les racines primitives de ces noms divers ne portent 
+cependant point avec elles le mauvais sens que
+le préjugé leur attribue ; <i>gabar</i> dans l&#39;hébreu signifie
+<i>être fort, être puissant, être valeureux, dominer : gibor</i>
+&amp; <i>giber</i> y sont des épithetes qui indiquent la <i>force</i>,
+le <i>courage</i>, la <i>puissance</i>, &amp; l&#39;<i>empire. Geber</i> désigne le
+<i>maitre.</i> le <i>dominateur ;</i> &amp; <i>gebereth</i>, la <i>maitresse:</i> d&#39;où
+nos ancêtres ont formé <i>berger</i> &amp; <i>bergereth</i>. Les Chaldéens dérivent aussi de cette source <i>guberin</i>, en latin
+<i>gubernatores</i>, &amp; en françois <i>gouverneurs</i>. Les Orientaux anciens &amp; modernes en ont tiré <i>Gabriel, Kébrail, Kabir, Giaber</i>, &amp; <i>Giafar</i>, noms illustres d&#39;archanges 
+&amp; de grands hommes.
+</p>
+<p>
+Les dérives de <i>gibor</i>, de <i>bogri</i>, &amp; de <i>borgi</i>, désignent 
+encore chez les flamans, <i>un bel homme, un
+homme puissant</i> &amp; de taille avantageuse ; &amp; nous exprimons 
+le contraire par le diminutif <i>rabougri:</i> ce
+qui prouve que nos anciens ont connu le sens naturel 
+&amp; veritable de ces dénominations.
+</p>
+<p>
+Si cependant elles sont devenues injurieuses pour
+la plupart, c&#39;est par une allusion dont il faut ici
+chercher la source dans les légendes des premiers
+âges du monde ; elles nous disent qu&#39;il y a eu autre
+fois des hommes qui ont rendu leur nom celebre par
+leur puissance &amp; leur grandeur ; que ces hommes
+couvrirent la terre de leurs crimes &amp; de leurs forfaits,
+&amp; qu&#39;ils furent à la fin extermines par le feu du
+ciel : cette race superbe est la même que celle des
+géants, que les Arabes nomment encore <i>giabar</i>, &amp;
+au plurier <i>giabaroun, potentes</i>, &amp; que les anciens ont
+appellé <i>gibor</i> &amp; <i>gibborim</i>, ainsi qu&#39;on le voit en plusieurs 
+endroits de la bible. Nous devons donc présumer 
+que c&#39;est sous cet aspect particulier que le nom
+de <i>gibor</i> avec ses dialectes <i>gebri, bogri, borgi</i>, &amp; leurs
+dérivés, sont devenus chez tant de peuples différens
+des termes insultans ; &amp; que c&#39;est de-là qu&#39;est sortie
+l&#39;application presque générale qu&#39;on en a faite à tous
+ceux que la justice ou le fanatisme calomnieux ont
+accusés de ce même crime qui a fait tomber le feu du
+ciel sur la tête des puissans mais abominables <i>gibborim. Article de M. <sc>Boulanger</sc></i>.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

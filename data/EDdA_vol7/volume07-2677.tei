@@ -1,0 +1,171 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30131" id="54:54" vol="7">
+<index type="head" value="GRANDEUR" />
+<index type="objecttype" value="artm" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Philos. &amp; Mathém." />
+<index type="normclass" value="Philosophie | Mathématique" />
+<index type="englishclass" value="Philosophy | Mathematics" />
+<index type="generatedclass" value="Mathématique" />
+<index type="pos" value="s.f." />
+<head>GRANDEUR</head>
+<p>
+GRANDEUR, s. f. (<i>Philos. &amp; Mathém.</i>) Voilà un
+de ces mots dont tout le monde croit avoir une idée
+nette, &amp; qu&#39;il est pourtant assez difficile de bien définir.
+Ne seroit-ce pas parce que l&#39;idée que ce mot
+renferme, est plus simple que les idées par lesquelles
+on peut entreprendre de l&#39;expliquer? <i>Voyez</i> 
+<sc><ref target="head:Définition" type="search">Définition</ref> <i>&amp;</i> <ref target="head:Elémens des Sciences" type="search">Elémens des Sciences</ref></sc>
+. Quoi qu&#39;il en
+soit, les Mathématiciens définissent ordinairement la
+<i>grandeur</i>, ce qui est susceptible d&#39;augmentation &amp;
+de diminution ; d&#39;après cette notion l&#39;<i>infini</i> ne seroit
+pas plus une <i>grandeur</i> que le zéro, puisque l&#39;infini
+n&#39;est pas plus susceptible d&#39;augmentation que le zéro
+ne l&#39;est de diminution ; aussi plusieurs mathématiciens 
+regardent-ils le zéro d&#39;une part &amp; l&#39;infini de
+l&#39;autre, non comme des <i>grandeurs</i>, mais comme la
+limite des <i>grandeurs ;</i> l&#39;une pour la diminution, l&#39;autre 
+pour l&#39;augmentation. <i>Voyez</i> <sc><ref target="head:Limite" type="search">Limite</ref></sc>. On est sans
+doute le maître de s&#39;exprimer ainsi, &amp; il ne faut point
+disputer sur les mots ; mais il est contre l&#39;usage ordinaire 
+de dire que <i>l&#39;infini n&#39;est point une grandeur</i>,
+puisqu&#39;on dit <i>une grandeur infinie</i>. Ainsi il semble qu&#39;on 
+doit chercher une définition de la <i>grandeur</i> plus
+analogue aux notions communes. De plus, suivant
+la définition qu&#39;on vient d&#39;apporter, on devroit appeller 
+<i>grandeur</i> tout ce qui est susceptible d&#39;augmentation 
+&amp; de diminution ; or la lumiere est susceptible 
+d&#39;augmentation &amp; de diminution ; cependant on
+s&#39;exprimeroit fort improprement en regardant la lumiere 
+comme une <i>grandeur</i>.
+</p>
+<p>
+D&#39;autres changent un peu la définition précédente,
+en substituant <i>ou</i> au lieu de <i>&amp;</i>, &amp; ils définissent
+la <i>grandeur</i>, ce qui est susceptible d&#39;augmentation
+<i>ou</i> de diminution. Suivant cette définition dans laquelle 
+<i>ou</i> est disjonctif, zéro seroit une <i>grandeur ;</i>
+car s&#39;il n&#39;est pas susceptible de diminution, il l&#39;est
+d&#39;augmentation ; cette définition est donc encore
+moins bonne que la précédente.
+</p>
+<p>
+On peut, ce me semble, définir assez bien la <i>grandeur</i>, ce qui est composé de parties. Il y a deux sortes<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+de <i>grandeurs</i>, la <i>grandeur</i> concrete &amp; la <i>grandeur</i> abstraite. <i>Voyez</i> <sc><ref target="head:Concret" type="search">Concret</ref> <i>&amp;</i> <ref target="head:Abstrait" type="search">Abstrait</ref></sc>. La
+<i>grandeur</i> abstraite est celle dont la notion ne désigne
+aucun sujet particulier. Elle n&#39;est autre chose que
+les nombres, qu&#39;on appelle aussi <i>grandeurs numériques.
+Voyez</i> <sc><ref target="head:Nombre" type="search">Nombre</ref></sc>. Ainsi le nombre 3 est une quantité 
+abstraite, parce qu&#39;il ne désigne pas plus 3 piés
+que 3 heures, <i>&amp;c.</i>
+</p>
+<p>
+La <i>grandeur</i> concrete est celle dont la notion renferme 
+un sujet particulier. Elle peut être composée
+ou de parties co-existantes, ou de parties successives ; 
+&amp; sous cette idée elle renferme deux especes,
+l&#39;<i>étendue</i>, &amp; le <i>tems. Voyez</i> <sc><ref target="head:Etendue" type="search">Etendue</ref> <i>&amp;</i> <ref target="head:Tems" type="search">Tems</ref></sc>.
+</p>
+<p>
+Il n&#39;y a proprement que ces deux especes de <i>grandeurs ;</i> toutes les autres s&#39;y rapportent directement
+ou indirectement L&#39;étendue est une <i>grandeur</i> dont
+les parties existent en même tems ; le tems une <i>grandeur</i> dont les parties existent l&#39;une après l&#39;autre.
+</p>
+<p>
+La <i>grandeur</i> s&#39;appelle aussi <i>quantité, voyez</i> <sc><ref target="head:Quantité" type="search">Quantité</ref></sc> ; &amp; sous cette idée on peut dire que la <i>grandeur</i> abstraite répond à la quantité <i>discrete</i>, &amp; la
+<i>grandeur</i> concrete à la quantité <i>continue. Voyez</i> <sc><ref target="head:Discret" type="search">Discret</ref> <i>&amp;</i> <ref target="head:Continu" type="search">Continu</ref></sc>.
+</p>
+<p>
+La <i>grandeur</i> &amp; ses propriétés sont l&#39;objet des Mathématiques, ce qui sera expliqué plus au long à
+l&#39;<i>article</i> <sc><ref target="head:Mathématiques" type="search">Mathématiques</ref></sc>.
+</p>
+<p>
+Sur la <i>grandeur</i> apparente des objets, <i>voyez les mots</i>
+<sc><ref target="head:Optique" type="search">Optique</ref> <i>&amp;</i> <ref target="head:Vision" type="search">Vision</ref></sc>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

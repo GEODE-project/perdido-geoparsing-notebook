@@ -1,0 +1,220 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="28489" id="50:191:6" vol="7">
+<index type="head" value="Fruits" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Jurisprud." />
+<index type="normclass" value="Jurisprudence" />
+<index type="englishclass" value="Jurisprudence" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Fruits</head>
+<p>
+<sc>Fruits</sc>, (<i>Jurisprud.</i>) ce terme dans sa signification 
+propre ne s&#39;entend que des émolumens qui naissent 
+&amp; renaissent du corps d&#39;une chose, comme les
+<i>fruits</i> de la terre. Cependant on donne aussi le nom
+de <i>fruits</i> à certains émolumens qui ne proviennent
+pas de la chose même, mais qui sont dûs à cause de
+la chose, tels que les <i>fruits civils</i>.
+</p>
+<p>
+Les <i>fruits</i> d&#39;un héritage appartiennent au propriétaire,
+quand même il ne les auroit pas ensemencés:
+<i>nam omnes fructus jure soli, non jure seminis, percipiuntur ; 
+l. 25. ff. de usuris ;</i> mais il doit rendre les labours
+&amp; semences.
+</p>
+<p>
+Le possesseur de bonne foi fait les <i>fruits</i> siens,
+c&#39;est-à-dire gagne les <i>fruits</i> consumés ; il est seulement 
+obligé de rendre ceux qui sont encore extans,
+au lieu que le possesseur de mauvaise foi est obligé
+de rendre même ceux qu&#39;il a perçûs &amp; consumés.
+</p>
+<p>
+On distingue plusieurs sortes de <i>fruits</i>, savoir:
+</p>
+<p>
+<i>Fruits ameublis</i>, c&#39;est-à-dire qui sont devenus meubles,
+soit par la séparation qui en a été faite du fonds,
+soit après le tems de leur maturité, auquel cas quelques 
+coûtumes les réputent meubles.
+</p>
+<p>
+<i>Fruits annuels</i>, sont ceux qui se reproduisent chaque 
+année, à la différence des <i>fruits casuels</i>, qui ne
+viennent qu&#39;extraordinairement.
+</p>
+<p>
+<i>Fruits artificiels</i>, sont la même chose que les <i>fruits</i>
+industriaux ; ils sont opposés aux <i>fruits naturels:
+voyez la loi 22. au code, lib. III. tit. xxxij</i>. On les
+appelle plus communément <i>fruits industriaux</i>.
+<milestone unit="column" n="2" />
+</p>
+<p>
+<i>Fruits casuels</i>, sont ceux qui n&#39;échéent qu&#39;extraordiairement 
+&amp; par des évenemens imprévûs : tels sont
+les droits seigneuriaux dûs pour les mutations par
+succession, vente, ou autrement.
+</p>
+<p>
+<i>Fruits civils</i>, sont des émolumens que la loi a assimilé 
+à certains égards aux <i>fruits</i> naturels ; de ce nombre 
+sont les loyers des maisons &amp; héritages, les arrérages 
+de rente, les intérêts, &amp; autres profits annuels 
+qui proviennent de la convention des parties
+ou de la loi ; les <i>fruits casuels</i> sont aussi des <i>fruits</i> civils.
+</p>
+<p>
+<i>Fruits consumés</i>, sont ceux que le possesseur a perçûs 
+&amp; employés à son usage.
+</p>
+<p>
+<i>Fruits décimables</i>, sont ceux sujets à la dixme. <i>Voyez</i>
+<sc><ref target="head:Décimable" type="search">Décimable</ref> <i>&amp;</i> <ref target="head:Dixme" type="search">Dixme</ref></sc>.
+</p>
+<p>
+<i>Fruits échûs</i>, sont des <i>fruits</i> civils dont le droit est
+acquis à quelqu&#39;un, soit au propriétaire, usufruitier,
+fermier, ou autre possesseur.
+</p>
+<p>
+<i>Fruits étroussés</i>: on appelle ainsi dans quelques provinces 
+les <i>fruits</i> adjugés en justice ; <i>étrousse</i> signifie
+<i>adjudication</i>.
+</p>
+<p>
+<i>Fruits extans</i>, sont ceux qui subsistent encore, &amp;
+ne sont pas consumés.
+</p>
+<p>
+<i>Fruits industriaux</i>, sont ceux que la nature seule ne
+produit pas, mais qui demandent de la culture &amp; autres 
+soins, comme les blés, &amp; autres grains, le vin,
+<i>&amp;c.</i> Voyez <i>fruits naturels</i>.
+</p>
+<p>
+<i>Fruits insolites</i>, sont ceux que l&#39;on ne fait pas venir 
+ordinairement dans le pays, ce qui est relatif à
+l&#39;usage : car ce qui est insolite dans un lieu ne l&#39;est pas
+dans un autre ; par exemple, le ritz est un <i>fruit insolite</i> aux environs de Paris : il ne l&#39;est pas en Provence.
+</p>
+<p>
+<i>Fruits naturels</i>, sont ceux que la nature seule produit,
+&amp; qui ne demandent aucune culture, comme
+le foin, le bois.
+</p>
+<p>
+<i>Fruits ordinaires</i>, sont les <i>fruits</i> annuels ; ils sont
+opposés aux <i>fruits</i> casuels.
+</p>
+<p>
+<i>Fruits pendans par les racines</i>, sont ceux qui ne
+sont pas encore séparés du fonds ; ils sont communément 
+réputés immeubles, excepté dans quelques coûtumes,
+qui les réputent meubles après le tems de leur
+maturité, comme celle de Normandie, <i>art. 488</i>.
+</p>
+<p>
+<i>Fruits perçûs</i>, sont ceux que le propriétaire ou possesseur 
+a recueillis ; il ne faut pas confondre les <i>fruits
+perçûs</i> avec les <i>fruits consumés</i>. Voyez ci-dev. <i>fruits
+consumés</i>.
+</p>
+<p>
+<i>Fruits siens</i>, sont ceux que le possesseur gagne en
+vertu du droit ou possession qu&#39;il a. Le possesseur de
+bonne foi fait les <i>fruits siens ;</i> le seigneur dominant
+qui a fait le fief de son vassal par faute d&#39;homme,
+droits, &amp; devoirs non faits &amp; non payés, fait les <i>fruits
+siens</i> pendant la main-mise.
+</p>
+<p>
+<i>Au digeste lib. XXII. tit. j. le traité de fructibus per
+jo. copum</i>. Voyez <i>la bibliotheque</i> de Jouet, &amp; <i>les decisions</i> de la Peirere, au mot <i>fruits</i>. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

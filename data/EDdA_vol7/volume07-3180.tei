@@ -1,0 +1,183 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="30634" id="55:207:4" vol="7">
+<index type="head" value="Guerre, (Jeu de la)" />
+<index type="objecttype" value="arts" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Billard" />
+<index type="pos" value="NA" />
+<head>Guerre</head>
+<p>
+<sc>Guerre</sc>, (<i>Jeu de la</i>) c&#39;est une maniere particuliere 
+de joüer au billard plusieurs à-la-fois. Le nombre 
+des personnes qui doivent joüer étant arrêté,
+chacun prend une bille marquée différemment, c&#39;est-à-dire d&#39;un point, de deux, &amp; de plus, si l&#39;on est davantage 
+à joüer. Quand les billes sont tirées, chaque
+joüeur joue à son tour, &amp; selon que le nombre des
+points qui sont sur la bille lui donne droit : il est défendu 
+de se mettre devant la passe sans le consentement 
+de tous les joüeurs. Celui qui joue une autre
+bille que la sienne perd la bille &amp; le coup.
+</p>
+<p>
+Qui touche les deux billes en joüant, perd sa bille
+&amp; le coup ; il faut remettre l&#39;autre à sa place.
+</p>
+<p>
+Qui passe sur les billes, perd la bille &amp; le coup ;
+&amp; on doit mettre cette bille dans la belouse. Qui
+fait une bille &amp; peut butter après, gagne toute la
+partie ; c&#39;est pourquoi il est de l&#39;adresse d&#39;un joüeur
+de tirer à ces sortes de coups autant qu&#39;il lui est possible.
+Qui butte dessous la passe, gagne tout, fût-on
+jusqu&#39;à neuf joüeurs.
+</p>
+<p>
+Les lois du <i>jeu de la guerre</i> veulent qu&#39;on tire les
+billes à quatre doigts de la corde.
+</p>
+<p>
+Il est défendu de sauver d&#39;enjeu, à-moins qu&#39;on
+ne se soit repassé.
+</p>
+<p>
+Qui perd son rang à joüer, ne peut rentrer qu&#39;à la
+seconde partie.
+</p>
+<p>
+Ceux qui entrent nouvellement au jeu, ne sont
+point libres de tirer le premier coup sur les billes,
+en plaçant les leurs où bon leur semble. Il faut qu&#39;ils
+tirent la passe à quatre doigts de la corde.
+</p>
+<p>
+Il faut remarquer que lorsqu&#39;on n&#39;est que cinq, on
+doit faire une bille avant que de passer.
+</p>
+<p>
+Si on n&#39;est que trois ou quatre, il n&#39;est pas permis
+de passer jusqu&#39;aux deux derniers.
+</p>
+<p>
+Si celui qui tire à quatre doigts fait passer une
+bille, elle est bien passée.
+</p>
+<p>
+Qui touche une bille de la sienne &amp; se noye, perd
+la partie ; il faut que la bille touchée reste alors où
+elle est roulée.
+</p>
+<p>
+Si celui qui touche une bille en joüant la noye &amp;
+la sienne aussi, il perd la partie, &amp; on remet la bille
+touchée où elle étoit. Si du côté de la passe on fait
+passer une bille espérant la gagner, &amp; qu&#39;on ne la
+gagne pas, cette bille doit rester où elle est, supposé
+qu&#39;il y eût encore quelqu&#39;un à joüer ; mais s&#39;il n&#39;y
+avoit personne, on la remettroit à sa premiere place.
+<milestone unit="column" n="2" />
+</p>
+<p>
+Quand un joüeur a une fois perdu, il ne peut rentrer 
+au jeu que la partie ne soit entierement gagnée.
+</p>
+<p>
+Les billes noyées appartiennent à celui qui butte,
+les deux derniers qui restent à joüer peuvent l&#39;un &amp;
+l&#39;autre se sauver d&#39;enjeu.
+</p>
+<p>
+Si celui qui est passé ne le veut pas, il n&#39;en sera
+rien. S&#39;il y consent, il doit être préféré à celui qui
+n&#39;est pas passé.
+</p>
+<p>
+Celui qui par inadvertance joue devant son tour,
+ne perd que le coup &amp; non pas la bille, c&#39;est-à-dire
+qu&#39;il y peut revenir à son rang. Qui tire à une bille
+la gagne ; &amp; si en tirant le billard il touche une autre 
+bille gagnée, elle est censée telle ; &amp; la bille de
+celui qui a joüé le coup doit être mise dans la belouse.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

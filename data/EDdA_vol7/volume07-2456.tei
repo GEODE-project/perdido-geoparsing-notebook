@@ -1,0 +1,120 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29910" id="53:309" vol="7">
+<index type="head" value="GOUBLE AUX AINS" />
+<index type="objecttype" value="artm" />
+<index type="author" value="unsigned" />
+<index type="attribution" value="unsigned" />
+<index type="class" value="terme de pêche" />
+<index type="normclass" value="Pêche" />
+<index type="englishclass" value="Fish" />
+<index type="generatedclass" value="Pêche" />
+<index type="pos" value="NA" />
+<head>GOUBLE AUX AINS ;</head>
+<p>
+GOUBLE AUX AINS; <i>terme de péche</i>, usité dans
+le ressort de l&#39;amirauté de Poitou ou des Sables d&#39;Olonne ; sorte de planche entaillée sur laquelle les pêcheurs 
+de ce ressort arrangent leurs ains ou hameçons.
+</p>
+<p>
+Les cordes des lignes aux hameçons des pêcheurs
+sont de trois especes ; la premiere a les ains, claveaux 
+ou hameçons de la même grosseur que ceux
+qui servent aux pêcheurs de Dieppe, pour la pêche
+des raies, aux grosses cordes, à la côte d&#39;Angleterre ; ils servent ici à prendre des posteaux, grosses
+raies, des tives, &amp; des chiens ou touiles à Bayonne,
+au cap Breton, &amp; au vieux Boucane. On fait cette
+pêche durant les mois d&#39;Avril &amp; Mai, &amp; même durant 
+l&#39;été, si la péche des sardines n&#39;est pas favorable ; 
+on met ces ains dans l&#39;ouverture d&#39;un morceau
+de bois fendu, sur la longueur duquel on les disperse ; 
+on nomme ces morceaux de bois <i>gouble:</i> chaque 
+<i>gouble</i> a quarante ains ; &amp; un bateau a ordinairement 
+vingt-sept à vingt-huit <i>goubles</i>. Les ains sont
+parés &amp; frappés sur la ligne ou corde, de brasse-enbrasse. Les femmes qui préparent ces <i>goubles</i> amorcent<gap type="hyphencb" />
+<milestone unit="column" n="2" />
+les ains avec de la chair de sardine fraîche pendant 
+la saison, &amp; dans l&#39;hyver avec les sardines salées.
+La deuxieme espece est semblable aux ains dont on se
+sert pour la pêche des merlans dans le canal de la
+Manche ; &amp; la troisieme qui a des ains plus petits, les
+a comme on les employe dans la pêche des soles.
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

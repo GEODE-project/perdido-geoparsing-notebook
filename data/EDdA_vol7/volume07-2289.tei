@@ -1,0 +1,212 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29743" id="53:196:1" vol="7">
+<index type="head" value="Gnomon" />
+<index type="objecttype" value="arts" />
+<index type="author" value="d&#39;Alembert" />
+<index type="shortauth" value="d&#39;Alembert" />
+<index type="kafnum" value="2" />
+<index type="kafauth" value="Alembert, Jean Le Rond d&#39; (1717-1783)" />
+<index type="attribution" value="signed" />
+<index type="class" value="en Astronomie" />
+<index type="normclass" value="Astronomie" />
+<index type="englishclass" value="Astronomy" />
+<index type="generatedclass" value="Astronomie" />
+<index type="pos" value="NA" />
+<head>Gnomon</head>
+<p>
+<sc>Gnomon</sc>, <i>en Astronomie</i>, signifie à la lettre un
+<i>instrument</i> servant à mesurer les hauteurs méridiennes 
+&amp; les déclinaisons du soleil &amp; des étoiles. <i>Voy.</i>
+<sc><ref target="head:Méridien" type="search">Méridien</ref> <i>&amp;</i> <ref target="head:Hauteur" type="search">Hauteur</ref></sc>.
+</p>
+<p>
+Les Astronomes préferent le <i>gnomon</i> appellé par
+quelques-uns le <i>grand gnomon astronomique</i>, aux <i>gnomons</i> des cadrans, parce qu&#39;il est plus exact.
+</p>
+<p>
+C&#39;est pourquoi les anciens &amp; les modernes se
+sont servi du <i>gnomon</i> pour faire leurs opérations les
+plus considérables. Ulugh Beigh prince tartare, petit-fils de Tamerlan, se servit en 1437 d&#39;un <i>gnomon</i>
+de 180 piés romains de hauteur ; celui qu&#39;Ignace
+Dante érigea dans l&#39;eglise de S. Pétrone à Boulogne
+en 1576, avoit 67 piés de haut ; &amp; M. Cassini en
+eleva un autre dans la même église, en l&#39;année 1655.
+<i>Voyez</i> <sc><ref target="head:Solstice" type="search">Solstice</ref></sc>.
+</p>
+<p>
+<i>Elever un gnomon astronomique, &amp; observer par son
+moyen la hauteur méridienne du soleil</i>. Elevez un stile
+perpendiculaire d&#39;une hauteur considérable &amp; connue 
+sur la ligne méridienne ; marquez le point où se
+termine l&#39;ombre du <i>gnomon</i> projettée le long de la ligne 
+méridienne, mesurez la distance de son extrémité,
+au pie du <i>gnomon</i>, c&#39;est-à-dire la longueur de
+l&#39;ombre : quand vous aurez ainsi la hauteur du <i>gnomon</i>
+&amp; la longueur de l&#39;ombre, vous trouverez aisément
+la hauteur méridienne du soleil.
+</p>
+<p>
+Supposez, par exemple, que <i>TS</i> (<i>Pt. Optiq. <ref target="XPL:5338" type="platelink">fig.
+13</ref>.</i>), est le <i>gnomon</i>, &amp; <i>TV</i> la longueur de l&#39;ombre ;
+comme le triangle rectangle <i>STV</i> donne les deux
+côtés <i>TV</i> &amp; <i>TS</i>, l&#39;angle <i>V</i>, qui est la quantité de la
+hauteur du soleil, se trouve par l&#39;analogie suivante.
+La longueur de l&#39;ombre <i>TV</i> est à la hauteur du <i>gnomon TS</i>, comme le sinus total est à la tangente de
+la hauteur du soleil au-dessus de l&#39;horison.
+</p>
+<p>
+L&#39;opération sera encore plus exacte, en faisant une
+ouverture circulaire dans une plaque de cuivre, de
+sorte que les rayons du soleil passant par cette ouverture,
+viennent représenter l&#39;image du soleil sur
+le pavé; attachez cette plaque parallélement à l&#39;horison 
+dans un lieu éleve &amp; commode pour l&#39;observation.
+Faites tomber une ficelle &amp; un plomb pour
+mesurer la hauteur qu&#39;il y a du trou au pavé; ayez
+<pb n="7:725" facs="V7/ENC_7-725.jpeg" />
+<milestone unit="column" n="1" />
+soin que le pavé soit parfaitement de niveau &amp; horisontal,
+&amp; faites-le blanchir, afin de représenter
+plus distinctement l&#39;image du soleil : tirez dessus une
+ligne méridienne qui passe par le pié du <i>gnomon</i>,
+c&#39;est-à-dire par le point que marque le plomb. Marquez les extrémités <i>K</i> &amp; <i>I</i> (<i><ref target="XPL:5339" type="platelink">fig. 57</ref>. Astronomie.</i>) du
+soleil sur la ligne méridienne, &amp; retranchez de chacune 
+une ligne droite égale au demi-diametre de
+l&#39;ouverture, savoir d&#39;un côté <i>KH</i> (<i><ref target="XPL:5340" type="platelink">Pl. Astronom</ref>.
+<ref target="XPL:5341" type="platelink">fig. 57</ref>.</i>); &amp; de l&#39;autre côté, <i>LI; HL</i> sera l&#39;image
+du diametre du soleil, qui étant coupée par le milieu
+en <i>B</i>, donne le point sur lequel tombent les rayons
+du centre du soleil. Ayant donc la ligne droite <i>AB</i>
+&amp; la hauteur du <i>gnomon</i> avec l&#39;angle <i>A</i>, qui est un
+angle droit, l&#39;angle <i>ABG</i>, ou la hauteur apparente
+du centre du soleil, n&#39;est pas difficile à trouver : car
+en prenant pour le rayon un des côtés donnés <i>AB,
+AG</i> sera la tangente de l&#39;angle opposé <i>B ;</i> dites
+donc : le côté <i>AB</i> est à l&#39;autre côté <i>AG</i> comme le
+sinus total est à la tangente de l&#39;angle <i>B</i>.
+</p>
+<p>
+Le rayon qui vient du centre du soleil ne tombe
+pas exactement &amp; rigoureusement au point <i>B</i>, milieu 
+de la ligne <i>HBL</i>. Il faudroit pour cela que les
+lignes <i>GH, GL</i>, fussent égales ; ce qui n&#39;est pas &amp;
+ne sauroit être : mais comme le trou <i>G</i> est fort petit
+par l&#39;hypothèse, qu&#39;il est placé à une grande hauteur,
+&amp; que par conséquent les lignes <i>GH, GL</i>, sont fort
+grandes &amp; la ligne <i>HL</i> extrèmement petite, puisqu&#39;elle n&#39;est que l&#39;image du trou ; il s&#39;ensuit que l&#39;on
+peut regarder comme sensiblement égales, les lignes
+<i>BH, BL; B</i> étant supposé l&#39;image du centre du
+soleil.
+</p>
+<p>
+Au lieu d&#39;une plaque horisontale dans laquelle on
+fait un trou, on se contente quelquefois de faire un
+trou vertical à une croisée dont on supprime d&#39;ailleurs
+entierement le jour. L&#39;image de ce trou est celle du
+soleil ; &amp; le milieu ou centre de l&#39;image, est sensiblement 
+celle du centre de cet astre : car cette image
+est la base d&#39;un triangle dont l&#39;angle au sommet est
+d&#39;environ 32&#39;. diametre apparent du soleil, &amp; dont
+les côtés sont forts grands par rapport à la base.
+</p>
+<p>
+De tous les <i>gnomons</i> astronomiques qui subs-stent
+aujourd&#39;hui en France, nous n&#39;en connoissons point
+de supérieur à celui qui a été dressé par M. le Monnier dans l&#39;église de S. Sulpice de Paris. <i>Voyez</i>-en la
+description au <i>mot</i> <sc><ref target="head:Méridien" type="search">Méridien</ref></sc>.
+</p>
+<p>
+On verra dans cet article, &amp; on peut voir d&#39;avance 
+dans l&#39;<i>histoire &amp; les mém. de l&#39;académie des Sciences
+pour l&#39;an. 1743</i>, en quoi consistoient les <i>gnomons</i> des
+anciens, quels étoient les défauts de ces <i>gnomons</i>,
+&amp; quels sont les avantages de celui de S. Sulpice.
+</p>
+<p>
+On a appellé quelquefois <i>gnomon</i>, en Géométrie,
+la figure <i>MXOC</i> (<i><ref target="XPL:5342" type="platelink">Pl. Géomét</ref>. <ref target="XPL:5343" type="platelink">fig. 5</ref>.</i>), formée dans
+le parallélogramme <i>AB</i>, par les parallélogrammes
+de complément <i>M, C</i> &amp; les triangles <i>x, o</i>, qui forment 
+eux-mêmes un autre parallélogramme ; mais
+cette dénomination n&#39;est plus guere en usage. <i>Voy.</i>
+<sc><ref target="head:Complément" type="search">Complément</ref></sc>. <i>Wolf, Harris, &amp; Chambers</i>. (<i>O</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="27528" id="48:42" vol="7">
+<index type="head" value="FOMENTATION" />
+<index type="objecttype" value="artm" />
+<index type="author" value="Venel" />
+<index type="shortauth" value="Venel" />
+<index type="kafnum" value="132" />
+<index type="kafauth" value="Venel, Gabriel-François (1723-1775)" />
+<index type="attribution" value="signed" />
+<index type="class" value="Pharmacie &amp; Thérapeut." />
+<index type="normclass" value="Pharmacie | Thérapeutique" />
+<index type="englishclass" value="Pharmaceuticals | Treatment" />
+<index type="generatedclass" value="Médecine" />
+<index type="pos" value="s.f." />
+<head>FOMENTATION</head>
+<p>
+FOMENTATION, s. f. (<i>Pharmacie &amp; Thérapeut.</i>)
+la <i>fomentation</i> est une espece d&#39;épitheme caractérisée
+par la circonstance d&#39;être appliquée à chaud. <i>Voyez</i>
+<sc><ref target="head:Epitheme" type="search">Epitheme</ref></sc>.
+</p>
+<p>
+La <i>fomentation</i> est ou liquide ou seche. La premiere
+se compose des décoctions ou des infusions de diverses 
+parties des végétaux ; on en fait aussi quelquefois
+avec le vin, l&#39;oxicrat, le lait tiede, les huiles par
+expression, l&#39;eau-de-vie, l&#39;urine, <i>&amp;c.</i>
+</p>
+<p>
+La plûpart des remedes externes peuvent s&#39;appliquer 
+sous forme de <i>fomentation:</i> ainsi on peut faire
+des <i>fomentations</i> émollientes, discussives, répercussives,
+résolutives, fortifiantes, stupéfiantes, <i>&amp;c. Voy.
+ces articles</i>.
+</p>
+<p>
+Les <i>fomentations</i> sont assez communément employées 
+dans le traitement des affections extérieures ; 
+il y a apparence qu&#39;on néglige trop ce secours
+dans la curation des maladies internes, on ne les met
+plus en usage que dans l&#39;inflammation des visceres
+du bas-ventre &amp; la retention d&#39;urine. <i>Voyez</i> 
+<sc><ref target="head:Inflammation" type="search">Inflammation</ref>, <ref target="head:Retention d&#39;urine" type="search">Retention d&#39;urine</ref></sc>
+. Les <i>fomentations</i> appliquées sur le bas-ventre dans les plaies
+pénétrantes de cette partie, ou après les opérations
+de Chirurgie faites sur les visceres qu&#39;il renferme,
+comme la taille, la réduction des hernies, <i>&amp;c.</i> sont
+destinées à prévenir des affections intérieures. La <i>fomentation</i> la plus usitée dans ce cas, est composée
+d&#39;huile rosat &amp; de vin.
+</p>
+<p>
+La maniere d&#39;appliquer les <i>fomentations</i> liquides,
+c&#39;est d&#39;en imbiber des linges ou des flanelles, &amp; de
+les étendre mollement sur la partie.
+</p>
+<p>
+Les <i>fomentations</i> seches qui sont fort peu usitées,
+sont plus connues sous le nom d&#39;<i>épitheme sec</i>, &amp;
+plus encore sous ceux que portent les especes particulieres 
+d&#39;épitheme. <i>Voyez</i> <sc><ref target="head:Epitheme" type="search">Epitheme</ref></sc>. (<i>b</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

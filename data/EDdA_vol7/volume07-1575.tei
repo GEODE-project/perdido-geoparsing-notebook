@@ -1,0 +1,203 @@
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd">
+<TEI.2>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres </title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+         <respStmt> 
+             <resp />
+         </respStmt>
+      </titleStmt>
+      <publicationStmt>
+         <distributor>
+            <name>ARTFL Project</name>
+            <address>
+            <addrLine>Department of Romance Languages</addrLine>
+            <addrLine>University of Chicago</addrLine>
+            </address>
+         </distributor>
+&#9;<idno />
+      </publicationStmt>
+      <notesStmt>
+           <note />
+      </notesStmt>
+      <sourceDesc>
+         <bibl>
+         <title>Encyclopédie, Dictionnaire raisonné des 
+                sciences, des arts et des métiers, par une 
+                Société de Gens de lettres. Tome 7.</title>
+         <author>Diderot, Denis and Alembert, Jean d&#39;(eds)</author>
+            <creation>
+                  <date>1757</date>
+            </creation>
+               <imprint>
+               <date>1757</date>
+               <publisher>Le Breton</publisher>
+               <pubPlace>Paris</pubPlace>
+            </imprint>
+            <idno>7</idno>
+         </bibl>
+      </sourceDesc>
+   </fileDesc>
+   <profileDesc>
+       <creation>
+            <date>1757</date>
+       </creation>
+       <textClass>
+            <keywords scheme="genre">
+                <term />
+            </keywords>
+            <keywords scheme="authorgender">
+                <term />
+            </keywords>
+            <keywords scheme="form">
+                <term />
+            </keywords>
+            <keywords scheme="subject">
+                <term />
+            </keywords>
+            <keywords scheme="marc">
+            </keywords>
+        </textClass>
+   </profileDesc>
+   <revisionDesc>
+      <p>
+&#9;Automatic conversion to ARTFL XML encoding from ATE files.  
+        Metadata merged from stand-off table.  These files are NOT 
+        TEI conformant and may not be well formed.  MVO, 05/2009
+        Merged individual volume files into one TEI file. GHR, 01/2011
+      </p>
+   </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 n="29029" id="51:235:36" vol="7">
+<index type="head" value="Garde des Eglises" />
+<index type="objecttype" value="arts" />
+<index type="author" value="Boucher d&#39;Argis" />
+<index type="shortauth" value="Boucher d&#39;Argis" />
+<index type="kafnum" value="19" />
+<index type="kafauth" value="Boucher d&#39;Argis, Antoine-Gaspard (1708-1791)" />
+<index type="attribution" value="signed" />
+<index type="class" value="unclassified" />
+<index type="normclass" value="unclassified" />
+<index type="englishclass" value="unclassified" />
+<index type="generatedclass" value="Jurisprudence" />
+<index type="pos" value="NA" />
+<head>Garde des Eglises</head>
+<p>
+<sc>Garde des Eglises</sc>, est la protection spéciale
+que le roi ou quelqu&#39;autre seigneur accorde à certaines 
+églises ; nos rois ont toûjours pris les églises
+sous leur protection.
+</p>
+<p>
+S. Louis confirma en 1268 toutes les libertés,
+franchises, immunités, prérogatives, droits &amp; priviléges 
+accordés, tant par lui que par ses prédécesseurs,
+aux églises, monasteres, lieux de piété, &amp;
+aux religieux &amp; personnes ecclésiastiques.
+</p>
+<p>
+Philippe-le-Bel, par son ordonnance du 23 Mars
+1308, déclara que son intention étoit que toutes les
+églises, monasteres, prélats, &amp; autres personnes
+écclésiastiques, fussent sous sa protection.
+</p>
+<p>
+Le même prince déclara que cette <i>garde</i> n&#39;empêchoit 
+pas la jurisdiction des prélats : lorsque cette
+<i>garde</i> emportoit une attribution de toutes les causes
+d&#39;une église à un certain juge, elle étoit limitée aux
+églises qui étoient d&#39;ancienneté en possession de ce
+droit ; &amp; Philippe-le-Bel déclara même que dans la
+<i>garde</i> des eglises &amp; monasteres, les membres qui en
+dépendent n&#39;y étoient pas compris.
+</p>
+<p>
+Il étoit défendu aux gardiens des églises, ou aux
+commissaires députés de par le roi &amp; par les sénéchaux,
+de mettre des pannonceaux ou autres marques 
+de <i>garde</i> royale sur les biens des églises, à-moins
+qu&#39;elles n&#39;en fussent en possession paisible, ou
+à-peu-près telle. Lorsqu&#39;il y avoit quelque contestation 
+sur cette possession, le gardien ou le commissaire 
+faisoit ajourner les parties devant le juge ordinaire ; 
+&amp; cependant il leur faisoit défense de rien
+faire au préjudice l&#39;un de l&#39;autre : il ne poursuivoit
+personne <i>pro fractione gardiae</i>, c&#39;est-à-dire, pour contravention 
+à la <i>garde</i>, à-moins que cette <i>garde</i> ne
+fût notoire, telle qu&#39;est celle des cathédrales &amp; de
+quelques monasteres qui sont depuis très-long-tems
+sous la <i>garde</i> du roi, ou que cette <i>garde</i> n&#39;eût été
+publiée dans les assises, ou signifiée à la partie.
+</p>
+<p>
+Philippe VI. dit de Valois, promit par rapport à
+certaines sénéchaussées qui étoient par-delà la Loire,
+qu&#39;il n&#39;accorderoit plus de <i>garde</i> dans les terres des
+comtes &amp; barons, ni dans celles de leurs sujets,
+sans connoissance de cause, les nobles appellés, <i>excepté</i> aux églises &amp; monasteres, qui de toute ancienneté 
+sont sous la <i>garde</i> royale, &amp; aux veuves,
+pupilles, &amp; aux clercs vivant cléricalement, tant
+qu&#39;ils seroient dans cet état ; que si dans ces sénéchaussées,
+les sujets des hauts-justiciers ou autres
+violoient une <i>garde</i>, les juges royaux connoîtroient
+de ce délit, mais qu&#39;ils ne pourroient condamner
+le délinquant qu&#39;à la troisieme partie de son bien ;
+que la poursuite qu&#39;ils feroient contre lui, n&#39;empêcheroit 
+pas le juge ordinaire du haut-justicier de
+procéder contre le délinquant, comme à lui appartiendroit ; 
+mais que si le crime étoit capital, il ne
+pourroit rendre sa sentence que les juges royaux
+n&#39;eussent rendu la leur au sujet de la sauve-garde.
+<pb n="7:492" facs="V7/ENC_7-492.jpeg" />
+<milestone unit="column" n="1" />
+</p>
+<p>
+On voit aussi dans les lettres du même prince de
+1349, qu&#39;il y avoit des personnes qui étoient immédiatement 
+en la <i>garde</i> du roi, d&#39;autres qui n&#39;y
+étoient que par la voie de l&#39;appel.
+</p>
+<p>
+Le roi Jean déclara en 1351, que les juges royaux
+pourroient tenir leurs assises sur les terres des seigneurs,
+quand le roi y avoit droit de <i>garde</i>. Ce
+même prince donnant à Jean son fils les duchés de
+Berry &amp; d&#39;Auvergne, retint la <i>garde</i> &amp; les régales
+des églises cathédrales &amp; des églises de fondation
+royale.
+</p>
+<p>
+Le temporel de l&#39;abbaye de Lagny fut saisi en
+1364, à la requête du receveur de Meaux, pour
+payer la somme de 800 livres dûe par cette abbaye
+pour les arrérages de la <i>garde</i> dûe au roi.
+</p>
+<p>
+Par des lettres du mois de Juillet 1365, Charles V.
+déclara que toutes les églises de fondation royale
+sont de droit sous la sauve-garde royale.
+</p>
+<p>
+Quand Charles VI. donna le duché de Touraine
+à Jean son second fils, il se réserva la <i>garde</i> de l&#39;église 
+cathédrale de Tours, &amp; de celles qui sont de
+fondation royale, ou en pariage, ou qui sont tellement 
+privilégiées, qu&#39;elles ne peuvent être séparées 
+du domaine de la couronne. Il fit la même
+réserve lorsqu&#39;il lui donna le duché de Berri &amp; le
+comté de Poitou : il en usa aussi de même lorsqu&#39;il
+donna le comté d&#39;Evreux au duc d&#39;Orleans son frere.
+<i>Voyez</i> 
+<sc><ref target="head:Conservateurs royaux" type="search">Conservateurs royaux</ref> <i>&amp;</i> <ref target="head:apostoliques" type="search">apostoliques</ref></sc>
+. (<i>A</i>)
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>
