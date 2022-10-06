@@ -1,9 +1,15 @@
-# Perdido Geoparsing Notebook
-Jupyter notebook for geoparsing French historical documents with the PERDIDO Geoparser. 
+# Tutorial Geoparsing Notebook
 
-This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) and [K. McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) as part of the [GéoDISCO](https://www.msh-lse.fr/projets/geodisco/) and [GEODE](https://geode-project.github.io/) projects.
+Jupyter notebook for geoparsing French historical documents with the [PERDIDO Geoparser](https://github.com/ludovicmoncla/perdido). 
+
+This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) (INSA Lyon) and [K. McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) (The Alan Turing Institute) as part of the [GEODE](https://geode-project.github.io/) project.
 
 ## Overview
+
+In this tutorial, we demonstrate how to use a custom version of the [Perdido](https://github.com/ludovicmoncla/perdido) geoparser python library developed in the framework of the [GEODE](https://geode-project.github.io) project.
+We will use texts from Diderot and d’Alembert’s Encyclopédie as a case study for querying a corpus and wrangling geoparsed data. We will also compare Perdido’s NER annotations (e.g. its output) to the results of other well-known python NER libraries ([spaCy](https://spacy.io) and [Stanza](https://stanfordnlp.github.io/stanza/index.html)).
+
+
 
 In this tutorial, we'll learn about a few different things.
 
@@ -14,13 +20,76 @@ In this tutorial, we'll learn about a few different things.
 - Display custom geotagging results (PERDIDO TEI-XML) with the [displaCy Named Entity Visualizer](https://spacy.io/usage/visualizers)
 - Display geocoding results on a map
 
-## Open the notebook
+## Open the notebook in the cloud
 
-You can open this notebook in an executable environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GEODE-project/perdido-geoparsing-notebook/master?filepath=GeoparsingEncyclopedie.ipynb)
+You can open this notebook in an executable and remote environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GEODE-project/perdido-geoparsing-notebook/master?filepath=Tutorial-geoparsing.ipynb)
+
+
+
+## Set up a python environment
+
+
+### Clone this github repository
+
+```bash
+git clone https://github.com/GEODE-project/perdido-geoparsing-notebook.git
+```
+
+
+### Configure the environment with all dependencies
+
+#### Method 1
+
+
+* MacOS/Linux users: Create a new python environment called `tutorial-geoparsing-py39` with all dependencies using the `environment-osx-linux.yml` configuration file:
+
+```bash
+conda env create -f environment-osx-linux.yml
+```
+
+* Windows users: Create a new python environment called `tutorial-geoparsing-py39` with all dependencies using the `environment-win64.yml` configuration file:
+
+```bash
+conda env create -f environment-win64.yml
+```
+
+* Activate the environment
+
+```bash
+conda activate tutorial-geoparsing-py39
+```
+
+#### Method 2
+
+* Create a new environment called `tutorial-geoparsing-py39`
+
+```bash
+conda create -n tutorial-geoparsing-py39 python=3.9
+```
+
+* Activate the environment
+
+```bash
+conda activate tutorial-geoparsing-py39
+```
+
+* Install dependencies with `pip`
+
+```bash
+pip install -r requirements.txt
+```
+
+
+### Launch the jupyter server
+
+```bash
+jupyter notebook
+```
+
+
 
 ## Acknowledgement
 
 Data courtesy the [ARTFL Encyclopédie Project](https://artfl-project.uchicago.edu/), University of Chicago.
 
-This work was supported by the [MSH Lyon St-Etienne](https://www.msh-lse.fr/)
-and the [ASLAN project](https://aslan.universite-lyon.fr/) (ANR-10-LABX-0081) of Université de Lyon, within the program « Investissements d’Avenir » (ANR-11-IDEX-0007 and ANR‐16‐IDEX‐0005) operated by the French National Research Agency (ANR).
+The authors are grateful to the [ASLAN project](https://aslan.universite-lyon.fr/) (ANR-10-LABX-0081) of the Université de Lyon, for its financial support within the French program "Investments for the Future" operated by the National Research Agency (ANR).
