@@ -1,4 +1,4 @@
-# Tutorial Geoparsing Notebook
+# Geoparsing Tutorial Notebook
 
 Jupyter notebook for geoparsing French historical documents with the [PERDIDO Geoparser](https://github.com/ludovicmoncla/perdido). 
 
