@@ -7,7 +7,7 @@ This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) (INSA
 ## Overview
 
 In this tutorial, we demonstrate how to use a custom version of the [Perdido](https://github.com/ludovicmoncla/perdido) geoparser python library developed in the framework of the [GEODE](https://geode-project.github.io) project.
-We will use texts from Diderot and d’Alembert’s Encyclopédie as a case study for querying a corpus and wrangling geoparsed data. We will also compare Perdido’s NER annotations (e.g. its output) to the results of other well-known python NER libraries ([spaCy](https://spacy.io) and [Stanza](https://stanfordnlp.github.io/stanza/index.html)).
+We will use texts from Diderot and d’Alembert’s Encyclopédie as a case study for querying a corpus and wrangling geoparsed data. We will also compare Perdido’s NER annotations (e.g. it's output) to the results of other well-known python NER libraries ([spaCy](https://spacy.io) and [Stanza](https://stanfordnlp.github.io/stanza/index.html)).
 
 
 
