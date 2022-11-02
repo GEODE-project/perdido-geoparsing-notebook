@@ -73,7 +73,7 @@ conda create -n tutorial-geoparsing-py39 python=3.9
 conda activate tutorial-geoparsing-py39
 ```
 
-* Installer le paquet fiona avec conda (évite une erreur lors de l'installation de cette dépendence avec pip)
+* Install  `fiona` package with conda (avoid an issue with `pip`)
 
 ```bash
 conda install fiona==1.8.21
