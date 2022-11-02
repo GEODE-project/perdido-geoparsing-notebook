@@ -1,13 +1,13 @@
 # Geoparsing Tutorial Notebook
 
-Jupyter notebook for geoparsing French historical documents with the [PERDIDO Geoparser](https://github.com/ludovicmoncla/perdido). 
+Jupyter notebook for geoparsing historical encyclopedia texts in French using the [PERDIDO Geoparser](https://github.com/ludovicmoncla/perdido). 
 
 This notebook is proposed by [L. Moncla](https://ludovicmoncla.github.io/) (INSA Lyon) and [K. McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) (The Alan Turing Institute) as part of the [GEODE](https://geode-project.github.io/) project.
 
 ## Overview
 
-In this tutorial, we demonstrate how to use a custom version of the [Perdido](https://github.com/ludovicmoncla/perdido) geoparser python library developed in the framework of the [GEODE](https://geode-project.github.io) project.
-We will use texts from Diderot and d’Alembert’s Encyclopédie as a case study for querying a corpus and wrangling geoparsed data. We will also compare Perdido’s NER annotations (e.g. it's output) to the results of other well-known python NER libraries ([spaCy](https://spacy.io) and [Stanza](https://stanfordnlp.github.io/stanza/index.html)).
+In this tutorial, we demonstrate how to use a custom version of the [Perdido](https://github.com/ludovicmoncla/perdido) geoparser python library developed in the [GEODE](https://geode-project.github.io) project.
+We will use texts from Diderot and d’Alembert’s *Encyclopédie* as a case study for querying a corpus and wrangling geoparsed data. We will also compare Perdido’s NER annotations (e.g. it's output) to the results of other well-known python NER libraries ([spaCy](https://spacy.io) and [Stanza](https://stanfordnlp.github.io/stanza/index.html)).
 
 
 
