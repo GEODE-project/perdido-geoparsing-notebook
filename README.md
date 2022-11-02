@@ -22,7 +22,7 @@ In this tutorial, we'll learn about a few different things.
 
 ## Open the notebook in the cloud
 
-You can open this notebook in an executable and remote environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GEODE-project/perdido-geoparsing-notebook/master?filepath=Tutorial-geoparsing.ipynb)
+You can open this notebook in an executable and remote environment with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GEODE-project/perdido-geoparsing-notebook/master?filepath=Tutorial-geoparsing.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/GEODE-project/perdido-geoparsing-notebook/master/Tutorial-geoparsing.ipynb)
 
 
 
