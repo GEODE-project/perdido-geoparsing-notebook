@@ -38,28 +38,6 @@ git clone https://github.com/GEODE-project/perdido-geoparsing-notebook.git
 
 ### Configure the environment with all dependencies
 
-#### Method 1
-
-
-* MacOS/Linux users: Create a new python environment called `tutorial-geoparsing-py39` with all dependencies using the `environment-osx-linux.yml` configuration file:
-
-```bash
-conda env create -f environment-osx-linux.yml
-```
-
-* Windows users: Create a new python environment called `tutorial-geoparsing-py39` with all dependencies using the `environment-win64.yml` configuration file:
-
-```bash
-conda env create -f environment-win64.yml
-```
-
-* Activate the environment
-
-```bash
-conda activate tutorial-geoparsing-py39
-```
-
-#### Method 2
 
 * Create a new environment called `tutorial-geoparsing-py39`
 
